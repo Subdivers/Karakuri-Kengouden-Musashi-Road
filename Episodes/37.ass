@@ -38,10 +38,10 @@ Dialogue: 0,0:00:07.11,0:00:11.52,Default,ko,0,0,0,,카라쿠리인이 사는 �
 Dialogue: 0,0:00:07.11,0:00:11.52,Default,en,0,0,0,,Warlords keep on fighting day and night over\NJipangu State, where Karakuri people live.
 Dialogue: 0,0:00:11.87,0:00:16.23,Default,ko,0,0,0,,카라쿠리 무예가들도 승리와 영광을 꿈꾸며 맹렬히 싸우고 있었다.
 Dialogue: 0,0:00:11.87,0:00:16.23,Default,en,0,0,0,,Karakuri Martial Artists were sharpening their swords, dreaming of victory and honor.
-Dialogue: 0,0:00:16.86,0:00:23.18,Default,ko,0,0,0,,그리고 지금, 카라쿠리 무예자 제일을 꿈꾸는 터무니없는 영웅이 탄생했다!
+Dialogue: 0,0:00:16.86,0:00:23.18,Default,ko,0,0,0,,그리고 지금, 카라쿠리 무예가 제일을 꿈꾸는 터무니없는 영웅이 탄생했다!
 Dialogue: 0,0:00:16.86,0:00:23.18,Default,en,0,0,0,,And now, a wild hero has arrived, seeking to be the number one Karakuri Martial Artist!
 Dialogue: 0,0:00:24.47,0:00:26.90,Default,ko,0,0,0,,무사시 등장이오!
-Dialogue: 0,0:00:24.47,0:00:26.90,Default,en,0,0,0,,Musashi enters-{\i1}dasu{\i0}!
+Dialogue: 0,0:00:24.47,0:00:26.90,Default,en,0,0,0,,Musashi is here-{\i1}dasu{\i0}!
 Dialogue: 0,0:00:27.89,0:00:33.23,TitleOP,ko,0,0,40,,{\fade(770,0)}카라쿠리 검호전: 무사시 로드
 Dialogue: 0,0:00:27.89,0:00:33.23,TitleOP,en,0,0,90,,{\an8\fs32\fade(770,0)}Karakuri Kengouden
 Dialogue: 0,0:00:27.89,0:00:33.23,TitleOP,en,0,0,48,,{\fade(770,0)}Musashi Road
@@ -280,7 +280,7 @@ Dialogue: 0,0:06:25.32,0:06:26.34,Default,ko,0,0,0,,그렇소?
 Dialogue: 0,0:06:25.32,0:06:26.34,Default,en,0,0,0,,Really-{\i1}dasu{\i0}?
 Comment: 0,0:06:28.68,0:06:33.19,Default,ja,0,0,0,,じゃ、おいらが天空丸と天地丸を手に入れたときの話をするダス。
 Dialogue: 0,0:06:28.68,0:06:33.19,Default,ko,0,0,0,,그럼 내가 천공환하고 천지환을 손에 넣었을 때의 이야기를 하겠소.
-Dialogue: 0,0:06:28.68,0:06:33.19,Default,en,0,0,0,,Then let me tell my story about when I got Tenkuumaru and Tenchimaru-{\i1}dasu{\i0}!
+Dialogue: 0,0:06:28.68,0:06:33.19,Default,en,0,0,0,,Then let me tell my story about when I got Tenkūmaru and Tenchimaru-{\i1}dasu{\i0}!
 Comment: 0,0:06:35.46,0:06:40.77,Default,ja,0,0,0,,旅をしていたおいらたちは、オニヒメが操る土蜘蛛と戦うことになっただす。
 Dialogue: 0,0:06:35.46,0:06:40.77,Default,ko,0,0,0,,여행하고 있던 우리는 오니히메가 조종하는 츠치구모하고 싸우게 되었소.
 Dialogue: 0,0:06:35.46,0:06:40.77,Default,en,0,0,0,,During our journey, we had to fight Tsuchigumo controlled by Onihime-{\i1}dasu{\i0}.
@@ -339,10 +339,10 @@ Dialogue: 0,0:10:11.04,0:10:17.18,Default,ko,0,0,0,,츠치구모를 쓰러트리
 Dialogue: 0,0:10:11.04,0:10:17.18,Default,en,0,0,0,,After taking Tsuchigumo down and obtaining Tenchimaru, I had to fight Yamata no Orochi.
 Comment: 0,0:11:13.20,0:11:15.07,Default,ja,0,0,0,,～まさしく天空丸！
 Dialogue: 0,0:11:13.20,0:11:15.07,Default,ko,0,0,0,,이건 틀림없이 천공환!
-Dialogue: 0,0:11:13.20,0:11:15.07,Default,en,0,0,0,,This definitely is Tenkuumaru!
+Dialogue: 0,0:11:13.20,0:11:15.07,Default,en,0,0,0,,This definitely is Tenkūmaru!
 Comment: 0,0:11:19.11,0:11:23.19,Default,ja,0,0,0,,こうしておいらは、天空丸、天地丸を手に入れたダス。
 Dialogue: 0,0:11:19.11,0:11:23.19,Default,ko,0,0,0,,이렇게 나는 천공환, 천지환을 손에 넣었소.
-Dialogue: 0,0:11:19.11,0:11:23.19,Default,en,0,0,0,,And that's how I got Tenkuumaru and Tenchimaru-{\i1}dasu{\i0}!
+Dialogue: 0,0:11:19.11,0:11:23.19,Default,en,0,0,0,,And that's how I got Tenkūmaru and Tenchimaru-{\i1}dasu{\i0}!
 Comment: 0,0:11:25.09,0:11:28.77,Default,ja,0,0,0,,じゃ、次は、北海道での戦いの話をするダス。
 Dialogue: 0,0:11:25.09,0:11:28.77,Default,ko,0,0,0,,그럼 다음에는 홋카이도에서의 싸움 이야기를 하겠소.
 Dialogue: 0,0:11:25.09,0:11:28.77,Default,en,0,0,0,,Now, I'll tell about the battles I did in Hokkaido-{\i1}dasu{\i0}!
@@ -358,7 +358,6 @@ Dialogue: 0,0:11:46.96,0:11:53.83,Default,en,0,0,0,,Now, what is this strange at
 Comment: 0,0:11:53.83,0:11:58.83,Eyecatch,ja,0,0,0,,EC
 Dialogue: 0,0:11:53.83,0:11:58.83,Eyecatch,ko,0,0,0,,카라쿠리 검호전 무사시 로드
 Dialogue: 0,0:11:53.83,0:11:58.83,Eyecatch,en,0,0,0,,Karakuri Kengouden: Musashi Road
-Dialogue: 0,0:11:53.83,0:11:58.83,Eyecatch,,0,0,0,,{\an2}by Subdivers
 Comment: 0,0:12:08.91,0:12:11.91,Default,ja,0,0,0,,ムサシさん、もう少しこっちへ来て。
 Dialogue: 0,0:12:08.91,0:12:11.91,Default,ko,0,0,0,,무사시 씨, 좀만 더 여기로 와.
 Dialogue: 0,0:12:08.91,0:12:11.91,Default,en,0,0,0,,Mr. Musashi, come here more.

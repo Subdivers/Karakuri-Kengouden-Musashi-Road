@@ -41,10 +41,10 @@ Dialogue: 0,0:00:07.00,0:00:11.82,Default,ko,0,0,0,,카라쿠리인이 사는 �
 Dialogue: 0,0:00:07.00,0:00:11.82,Default,en,0,0,0,,Warlords keep on fighting day and night over\NJipangu State, where Karakuri people live.
 Dialogue: 0,0:00:11.82,0:00:16.77,Default,ko,0,0,0,,카라쿠리 무예가들도 승리와 영광을 꿈꾸며 맹렬히 싸우고 있었다.
 Dialogue: 0,0:00:11.82,0:00:16.77,Default,en,0,0,0,,Karakuri Martial Artists were sharpening their swords, dreaming of victory and honor.
-Dialogue: 0,0:00:16.77,0:00:23.50,Default,ko,0,0,0,,그리고 지금, 카라쿠리 무예자 제일을 꿈꾸는 터무니없는 영웅이 탄생했다!
+Dialogue: 0,0:00:16.77,0:00:23.50,Default,ko,0,0,0,,그리고 지금, 카라쿠리 무예가 제일을 꿈꾸는 터무니없는 영웅이 탄생했다!
 Dialogue: 0,0:00:16.77,0:00:23.50,Default,en,0,0,0,,And now, a wild hero has arrived, seeking to be the number one Karakuri Martial Artist!
 Dialogue: 0,0:00:24.36,0:00:27.09,Default,ko,0,0,0,,무사시 등장이오!
-Dialogue: 0,0:00:24.36,0:00:27.09,Default,en,0,0,0,,Musashi enters-{\i1}dasu{\i0}!
+Dialogue: 0,0:00:24.36,0:00:27.09,Default,en,0,0,0,,Musashi is here-{\i1}dasu{\i0}!
 Dialogue: 0,0:00:28.09,0:00:33.15,TitleOP,ko,0,0,40,,카라쿠리 검호전: 무사시 로드
 Dialogue: 0,0:00:28.09,0:00:33.15,TitleOP,en,0,0,90,,{\an8\fs32}Karakuri Kengouden
 Dialogue: 0,0:00:28.09,0:00:33.15,TitleOP,en,0,0,48,,Musashi Road
@@ -356,7 +356,6 @@ Dialogue: 0,0:11:52.24,0:11:59.51,Default,ko,0,0,0,,과연 무사시는 이대�
 Dialogue: 0,0:11:52.24,0:11:59.51,Default,en,0,0,0,,Is Musashi going to die like this? Wait for the stormy latter half!
 Dialogue: 0,0:11:59.51,0:12:04.55,Eyecatch,ko,0,0,0,,카라쿠리 검호전 무사시 로드
 Dialogue: 0,0:11:59.51,0:12:04.55,Eyecatch,en,0,0,0,,Karakuri Kengouden: Musashi Road
-Dialogue: 0,0:11:59.51,0:12:04.55,Eyecatch,,0,0,0,,{\an2}by Subdivers
 Dialogue: 0,0:12:11.07,0:12:13.32,Default,ko,0,0,0,,무사시 씨? 뭐 봐요?
 Dialogue: 0,0:12:11.07,0:12:13.32,Default,en,0,0,0,,Musashi? What are you looking at?
 Dialogue: 0,0:12:13.32,0:12:14.25,Default,ko,0,0,0,,구름이오.
@@ -613,9 +612,9 @@ Dialogue: 0,0:21:08.73,0:21:13.14,Default,en,0,0,0,,Oh... was that so? I was abs
 Dialogue: 0,0:21:13.84,0:21:20.12,Default,ko,0,0,0,,나, 사실은 당신의 스승이 될 만할 자격이 없소. 이해해 주시오.
 Dialogue: 0,0:21:13.84,0:21:20.12,Default,en,0,0,0,,To tell you the truth, I am not qualified to be your master-{\i1}dasu{\i0}. Please understand-{\i1}dasu{\i0}.
 Dialogue: 0,0:21:20.48,0:21:25.87,Default,ko,0,0,0,,아니오. 사과할 쪽은 제 쪽입니다. 저는 야규 가(柳生家)의 쥬베라는 자.
-Dialogue: 0,0:21:20.48,0:21:25.87,Default,en,0,0,0,,No. It's me who have to apologize. I am Jube of Yagyuu Family(柳生家).
+Dialogue: 0,0:21:20.48,0:21:25.87,Default,en,0,0,0,,No. It's me who have to apologize. I am Jube of Yagyū Family(柳生家).
 Dialogue: 0,0:21:26.36,0:21:29.84,Default,ko,0,0,0,,야규 가? 그 말은 쇼군의 친애를 받는...
-Dialogue: 0,0:21:26.36,0:21:29.84,Default,en,0,0,0,,Yagyuu Family? Then you are directly under the shogun...
+Dialogue: 0,0:21:26.36,0:21:29.84,Default,en,0,0,0,,Yagyū Family? Then you are directly under the shogun...
 Dialogue: 0,0:21:30.50,0:21:35.82,Default,ko,0,0,0,,쇼군의 명령으로 호조인의 모습을 정탐하기 위해 무사시 님을 이용했습니다.
 Dialogue: 0,0:21:30.50,0:21:35.82,Default,en,0,0,0,,I used you, Musashi, to spy upon Hozoin, under the order of the shogun.
 Dialogue: 0,0:21:36.27,0:21:38.25,Default,ko,0,0,0,,그런 이유로 사과드립니다.

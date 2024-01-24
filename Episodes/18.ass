@@ -38,10 +38,10 @@ Dialogue: 0,0:00:07.12,0:00:11.94,Default,ko,0,0,0,,카라쿠리인이 사는 �
 Dialogue: 0,0:00:07.12,0:00:11.94,Default,en,0,0,0,,Warlords keep on fighting day and night over\NJipangu State, where Karakuri people live.
 Dialogue: 0,0:00:11.94,0:00:16.90,Default,ko,0,0,0,,카라쿠리 무예가들도 승리와 영광을 꿈꾸며 맹렬히 싸우고 있었다.
 Dialogue: 0,0:00:11.94,0:00:16.90,Default,en,0,0,0,,Karakuri Martial Artists were sharpening their swords, dreaming of victory and honor.
-Dialogue: 0,0:00:16.90,0:00:23.37,Default,ko,0,0,0,,그리고 지금, 카라쿠리 무예자 제일을 꿈꾸는 터무니없는 영웅이 탄생했다!
+Dialogue: 0,0:00:16.90,0:00:23.37,Default,ko,0,0,0,,그리고 지금, 카라쿠리 무예가 제일을 꿈꾸는 터무니없는 영웅이 탄생했다!
 Dialogue: 0,0:00:16.90,0:00:23.37,Default,en,0,0,0,,And now, a wild hero has arrived, seeking to be the number one Karakuri Martial Artist!
 Dialogue: 0,0:00:24.51,0:00:27.04,Default,ko,0,0,0,,무사시 등장이오!
-Dialogue: 0,0:00:24.51,0:00:27.04,Default,en,0,0,0,,Musashi enters-{\i1}dasu{\i0}!
+Dialogue: 0,0:00:24.51,0:00:27.04,Default,en,0,0,0,,Musashi is here-{\i1}dasu{\i0}!
 Dialogue: 0,0:00:27.85,0:00:33.03,TitleOP,ko,0,0,40,,카라쿠리 검호전: 무사시 로드
 Dialogue: 0,0:00:27.85,0:00:33.03,TitleOP,en,0,0,90,,{\an8\fs32}Karakuri Kengouden
 Dialogue: 0,0:00:27.85,0:00:33.03,TitleOP,en,0,0,48,,Musashi Road
@@ -85,7 +85,7 @@ Dialogue: 0,0:02:00.29,0:02:07.73,Default,ko,0,0,0,,난처한 상황에 처한 �
 Dialogue: 0,0:02:00.29,0:02:07.73,Default,en,0,0,0,,To help troubled villagers, Senhime's party fought against and took down Yamata no Orochi controlled by Shutentiger.
 Comment: 0,0:02:08.03,0:02:14.14,Default,ja,0,0,0,,そしてムサシは、ヤマタノオロチが隠し持っていた天空丸を手に入れることができたのであった。
 Dialogue: 0,0:02:08.03,0:02:14.14,Default,ko,0,0,0,,그리고 무사시는 야마타노오로치가 숨기고 있던 천구환을 손에 넣는 데 성공했다.
-Dialogue: 0,0:02:08.03,0:02:14.14,Default,en,0,0,0,,And Musashi managed to obtain Tenkuumaru, hidden by Yamata no Orochi.
+Dialogue: 0,0:02:08.03,0:02:14.14,Default,en,0,0,0,,And Musashi managed to obtain Tenkūmaru, hidden by Yamata no Orochi.
 Comment: 0,0:02:14.43,0:02:18.50,Default,ja,0,0,0,,ここに、二刀流が完成に一歩近づいた。
 Dialogue: 0,0:02:14.43,0:02:18.50,Default,ko,0,0,0,,이것으로 이도류 완성에 한 보 더 다가간 것이다.
 Dialogue: 0,0:02:14.43,0:02:18.50,Default,en,0,0,0,,By this, he is one step closer to the mastery of dual blade.
@@ -435,7 +435,6 @@ Dialogue: 0,0:11:49.24,0:11:54.08,Default,en,0,0,0,,Are you sure about that, Mus
 Comment: 0,0:11:54.08,0:11:59.13,Default,ja,0,0,0,,EC
 Dialogue: 0,0:11:54.08,0:11:59.13,Eyecatch,ko,0,0,0,,카라쿠리 검호전 무사시 로드
 Dialogue: 0,0:11:54.08,0:11:59.13,Eyecatch,en,0,0,0,,Karakuri Kengouden: Musashi Road
-Dialogue: 0,0:11:54.08,0:11:59.13,Eyecatch,,0,0,0,,{\an2}by Subdivers
 Comment: 0,0:11:59.92,0:12:02.73,Default,ja,0,0,0,,何？～をすり替えただと？
 Dialogue: 0,0:11:59.92,0:12:02.73,Default,ko,0,0,0,,뭐야? 금장식을 바꿔챘다고?!
 Dialogue: 0,0:11:59.92,0:12:02.73,Default,en,0,0,0,,What?! You replaced the ornaments?!

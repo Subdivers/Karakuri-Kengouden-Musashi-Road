@@ -38,10 +38,10 @@ Dialogue: 0,0:00:05.71,0:00:10.53,Default,ko,0,0,0,,카라쿠리인이 사는 �
 Dialogue: 0,0:00:05.71,0:00:10.53,Default,en,0,0,0,,Warlords keep on fighting day and night over\NJipangu State, where Karakuri people live.
 Dialogue: 0,0:00:10.53,0:00:15.48,Default,ko,0,0,0,,카라쿠리 무예가들도 승리와 영광을 꿈꾸며 맹렬히 싸우고 있었다.
 Dialogue: 0,0:00:10.53,0:00:15.48,Default,en,0,0,0,,Karakuri Martial Artists were sharpening their swords, dreaming of victory and honor.
-Dialogue: 0,0:00:15.48,0:00:22.21,Default,ko,0,0,0,,그리고 지금, 카라쿠리 무예자 제일을 꿈꾸는 터무니없는 영웅이 탄생했다!
+Dialogue: 0,0:00:15.48,0:00:22.21,Default,ko,0,0,0,,그리고 지금, 카라쿠리 무예가 제일을 꿈꾸는 터무니없는 영웅이 탄생했다!
 Dialogue: 0,0:00:15.48,0:00:22.21,Default,en,0,0,0,,And now, a wild hero has arrived, seeking to be the number one Karakuri Martial Artist!
 Dialogue: 0,0:00:23.07,0:00:25.80,Default,ko,0,0,0,,무사시 등장이오!
-Dialogue: 0,0:00:23.07,0:00:25.80,Default,en,0,0,0,,Musashi enters-{\i1}dasu{\i0}!
+Dialogue: 0,0:00:23.07,0:00:25.80,Default,en,0,0,0,,Musashi is here-{\i1}dasu{\i0}!
 Dialogue: 0,0:00:26.69,0:00:31.87,TitleOP,ko,0,0,40,,카라쿠리 검호전: 무사시 로드
 Dialogue: 0,0:00:26.69,0:00:31.87,TitleOP,en,0,0,90,,{\an8\fs32}Karakuri Kengouden
 Dialogue: 0,0:00:26.69,0:00:31.87,TitleOP,en,0,0,48,,Musashi Road
@@ -472,7 +472,6 @@ Dialogue: 0,0:12:00.84,0:12:03.40,Default,en,0,0,0,,Wait for the stormy latter h
 Comment: 0,0:12:03.70,0:12:08.50,Default,ja,0,0,0,,EC
 Dialogue: 0,0:12:03.70,0:12:08.50,Eyecatch,ko,0,0,0,,카라쿠리 검호전 무사시 로드
 Dialogue: 0,0:12:03.70,0:12:08.50,Eyecatch,en,0,0,0,,Karakuri Kengouden: Musashi Road
-Dialogue: 0,0:12:03.70,0:12:08.50,Eyecatch,,0,0,0,,{\an2}by Subdivers
 Comment: 0,0:12:21.26,0:12:24.17,Default,ja,0,0,0,,よちゃん、どうだい？焼き団子もうまそうだろう！
 Dialogue: 0,0:12:21.26,0:12:24.17,Default,ko,0,0,0,,아가씨, 어때? 구운 단고도 맛있어!
 Dialogue: 0,0:12:21.26,0:12:24.17,Default,en,0,0,0,,What do you think about this, miss? Fried {\i1}dango{\i0}s are good, too!

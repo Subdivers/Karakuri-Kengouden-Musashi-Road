@@ -42,10 +42,10 @@ Dialogue: 0,0:00:06.83,0:00:11.65,Default,ko,0,0,0,,카라쿠리인이 사는 �
 Dialogue: 0,0:00:06.83,0:00:11.65,Default,en,0,0,0,,Warlords keep on fighting day and night over\NJipangu State, where Karakuri people live.
 Dialogue: 0,0:00:11.65,0:00:16.61,Default,ko,0,0,0,,카라쿠리 무예가들도 승리와 영광을 꿈꾸며 맹렬히 싸우고 있었다.
 Dialogue: 0,0:00:11.65,0:00:16.61,Default,en,0,0,0,,Karakuri Martial Artists were sharpening their swords, dreaming of victory and honor.
-Dialogue: 0,0:00:16.61,0:00:23.08,Default,ko,0,0,0,,그리고 지금, 카라쿠리 무예자 제일을 꿈꾸는 터무니없는 영웅이 탄생했다!
+Dialogue: 0,0:00:16.61,0:00:23.08,Default,ko,0,0,0,,그리고 지금, 카라쿠리 무예가 제일을 꿈꾸는 터무니없는 영웅이 탄생했다!
 Dialogue: 0,0:00:16.61,0:00:23.08,Default,en,0,0,0,,And now, a wild hero has arrived, seeking to be the number one Karakuri Martial Artist!
 Dialogue: 0,0:00:24.22,0:00:26.75,Default,ko,0,0,0,,무사시 등장이오!
-Dialogue: 0,0:00:24.22,0:00:26.75,Default,en,0,0,0,,Musashi enters-{\i1}dasu{\i0}!
+Dialogue: 0,0:00:24.22,0:00:26.75,Default,en,0,0,0,,Musashi is here-{\i1}dasu{\i0}!
 Dialogue: 0,0:00:27.81,0:00:32.99,TitleOP,ko,0,0,40,,카라쿠리 검호전: 무사시 로드
 Dialogue: 0,0:00:27.81,0:00:32.99,TitleOP,en,0,0,90,,{\an8\fs32}Karakuri Kengouden
 Dialogue: 0,0:00:27.81,0:00:32.99,TitleOP,en,0,0,48,,Musashi Road
@@ -579,7 +579,6 @@ Dialogue: 0,0:13:55.26,0:13:59.55,Default,ko,0,0,0,,수줍어하고 있을 때�
 Dialogue: 0,0:13:55.26,0:13:59.55,Default,en,0,0,0,,This is no time to be shying, Musashi! Wait for the stormy latter half!
 Dialogue: 0,0:13:59.55,0:14:04.55,Eyecatch,ko,0,0,0,,카라쿠리 검호전 무사시 로드
 Dialogue: 0,0:13:59.55,0:14:04.55,Eyecatch,en,0,0,0,,Karakuri Kengouden: Musashi Road
-Dialogue: 0,0:13:59.55,0:14:04.55,Eyecatch,,0,0,0,,{\an2}by Subdivers
 Comment: 0,0:14:06.20,0:14:11.50,Default,ja,0,0,0,,ムサシとジュウベエの武芸談には夜が更けてもまだ続いていた
 Dialogue: 0,0:14:06.20,0:14:11.50,Default,ko,0,0,0,,무사시와 쥬베의 무예담은 밤이 깊어져도 끝나지 않았따.
 Dialogue: 0,0:14:06.20,0:14:11.50,Default,en,0,0,0,,There was no end to Musashi and Jube's conversation even in deep night.
@@ -807,8 +806,8 @@ Dialogue: 0,0:21:42.18,0:21:43.48,Default,ko,0,0,0,,츠치구모?
 Dialogue: 0,0:21:42.18,0:21:43.48,Default,en,0,0,0,,{\i1}Tsuchigumo{\i0}?
 Comment: 0,0:21:44.04,0:21:50.32,Default,ja,0,0,0,,その怪物が神代の頃より名刀、天空丸、天地丸を守っていると伝えらています。
 Dialogue: 0,0:21:44.04,0:21:50.32,Default,ko,0,0,0,,신이 다스리던 시대부터 명도 천공환, 천지환을 지키고 있다고 전해지는 괴물입니다.
-Dialogue: 0,0:21:44.04,0:21:50.32,Note,en,0,0,0,,(Tenkuumaru: Sword of the sky, Tenchimaru: Sword of the world)
-Dialogue: 0,0:21:44.04,0:21:50.32,Default,en,0,0,0,,They are monsters that are told to be protecting the sacred swords named Tenkuumaru and Tenchimaru.
+Dialogue: 0,0:21:44.04,0:21:50.32,Note,en,0,0,0,,(Tenkūmaru: Sword of the sky, Tenchimaru: Sword of the world)
+Dialogue: 0,0:21:44.04,0:21:50.32,Default,en,0,0,0,,They are monsters that are told to be protecting the sacred swords named Tenkūmaru and Tenchimaru.
 Comment: 0,0:21:52.43,0:21:56.43,Default,ja,0,0,0,,この怪物を退治すればその名刀が手に入るダスな！
 Dialogue: 0,0:21:52.43,0:21:56.43,Default,ko,0,0,0,,그 괴물을 퇴치하면 그 명도가 손에 들어오는 것이오!
 Dialogue: 0,0:21:52.43,0:21:56.43,Default,en,0,0,0,,So by getting rid of those monsters, I will be able to have those excellent swords!
@@ -823,8 +822,8 @@ Dialogue: 0,0:22:05.92,0:22:07.76,Default,ko,0,0,0,,나, 힘껏 해 보겠소!
 Dialogue: 0,0:22:05.92,0:22:07.76,Default,en,0,0,0,,I'll do that with all my might!
 Comment: 0,0:22:09.64,0:22:14.98,Default,ja,0,0,0,,これがnosiniムサシの二天一流開眼のヒントとなるのだが、
 Dialogue: 0,0:22:09.64,0:22:14.98,Default,ko,0,0,0,,이것이 바로 무사시의 이천일류 개안의 힌트가 되긴 했지만
-Dialogue: 0,0:22:09.64,0:22:14.98,Note,en,0,0,0,,(Nitenichiryuu: 二天一流; other name for Nitouryuu=二刀流=dual blade)
-Dialogue: 0,0:22:09.64,0:22:14.98,Default,en,0,0,0,,This is the hint to Musashi's realization of Nitenichiryuu,
+Dialogue: 0,0:22:09.64,0:22:14.98,Note,en,0,0,0,,(Nitenichiryū: 二天一流; other name for Nitouryū=二刀流=dual blade)
+Dialogue: 0,0:22:09.64,0:22:14.98,Default,en,0,0,0,,This is the hint to Musashi's realization of Nitenichiryū,
 Comment: 0,0:22:14.98,0:22:18.21,Default,ja,0,0,0,,おなかが膨れると、からっと忘れる決定をもつムサシ。
 Dialogue: 0,0:22:14.98,0:22:18.21,Default,ko,0,0,0,,배가 불룩해져서 바로 잊어먹을 결정을 한 무사시.
 Dialogue: 0,0:22:14.98,0:22:18.21,Default,en,0,0,0,,but Musashi will probably forget soon as his tummy is full.

@@ -41,10 +41,10 @@ Dialogue: 0,0:00:06.75,0:00:11.57,Default,ko,0,0,0,,카라쿠리인이 사는 �
 Dialogue: 0,0:00:06.75,0:00:11.57,Default,en,0,0,0,,Warlords keep on fighting day and night over\NJipangu State, where Karakuri people live.
 Dialogue: 0,0:00:11.57,0:00:16.53,Default,ko,0,0,0,,카라쿠리 무예가들도 승리와 영광을 꿈꾸며 맹렬히 싸우고 있었다.
 Dialogue: 0,0:00:11.57,0:00:16.53,Default,en,0,0,0,,Karakuri Martial Artists were sharpening their swords, dreaming of victory and honor.
-Dialogue: 0,0:00:16.53,0:00:23.00,Default,ko,0,0,0,,그리고 지금, 카라쿠리 무예자 제일을 꿈꾸는 터무니없는 영웅이 탄생했다!
+Dialogue: 0,0:00:16.53,0:00:23.00,Default,ko,0,0,0,,그리고 지금, 카라쿠리 무예가 제일을 꿈꾸는 터무니없는 영웅이 탄생했다!
 Dialogue: 0,0:00:16.53,0:00:23.00,Default,en,0,0,0,,And now, a wild hero has arrived, seeking to be the number one Karakuri Martial Artist!
 Dialogue: 0,0:00:24.14,0:00:26.67,Default,ko,0,0,0,,무사시 등장이오!
-Dialogue: 0,0:00:24.14,0:00:26.67,Default,en,0,0,0,,Musashi enters-{\i1}dasu{\i0}!
+Dialogue: 0,0:00:24.14,0:00:26.67,Default,en,0,0,0,,Musashi is here-{\i1}dasu{\i0}!
 Dialogue: 0,0:00:27.81,0:00:32.99,TitleOP,ko,0,0,40,,카라쿠리 검호전: 무사시 로드
 Dialogue: 0,0:00:27.81,0:00:32.99,TitleOP,en,0,0,90,,{\an8\fs32}Karakuri Kengouden
 Dialogue: 0,0:00:27.81,0:00:32.99,TitleOP,en,0,0,48,,Musashi Road
@@ -395,7 +395,6 @@ Dialogue: 0,0:12:12.76,0:12:18.70,Default,ko,0,0,0,,과연 무사시는 무예 �
 Dialogue: 0,0:12:12.76,0:12:18.70,Default,en,0,0,0,,Can Musashi go out to the martial arts competition? Wait for the stormy latter half!
 Dialogue: 0,0:12:18.70,0:12:23.60,Eyecatch,ko,0,0,0,,카라쿠리 검호전 무사시 로드
 Dialogue: 0,0:12:18.70,0:12:23.60,Eyecatch,en,0,0,0,,Karakuri Kengouden: Musashi Road
-Dialogue: 0,0:12:18.70,0:12:23.60,Eyecatch,,0,0,0,,{\an2}by Subdivers
 Comment: 0,0:12:27.65,0:12:31.92,Default,ja,0,0,0,,おや？＜＞に花火があがっとるな今日は祭りかな？
 Dialogue: 0,0:12:27.65,0:12:31.92,Default,ko,0,0,0,,어라? 하늘에 불꽃이 오르는 걸 보니, 오늘 행사 있나?
 Dialogue: 0,0:12:27.65,0:12:31.92,Default,en,0,0,0,,Huh? To see the fireworks on the sky... Is there an event today?
@@ -470,7 +469,7 @@ Dialogue: 0,0:14:00.65,0:14:02.62,Default,ko,0,0,0,,반류, 미스터 코지로.
 Dialogue: 0,0:14:00.65,0:14:02.62,Default,en,0,0,0,,Reversal style, Mister Kojirō.
 Comment: 0,0:14:03.49,0:14:05.58,Default,ja,0,0,0,,やぎゅう新陰流、ジュウベエ。
 Dialogue: 0,0:14:03.49,0:14:05.58,Default,ko,0,0,0,,야규 신영류, 쥬베.
-Dialogue: 0,0:14:03.49,0:14:05.58,Default,en,0,0,0,,Yagyuu Shinkage style, Jube.
+Dialogue: 0,0:14:03.49,0:14:05.58,Default,en,0,0,0,,Yagyū Shinkage style, Jube.
 Comment: 0,0:14:06.27,0:14:08.97,Default,ja,0,0,0,,鎖鎌流、バイケン！出場すればい！
 Dialogue: 0,0:14:06.27,0:14:08.97,Default,ko,0,0,0,,쿠사리가마류 바이켄! 출전하오!
 Dialogue: 0,0:14:06.27,0:14:08.97,Default,en,0,0,0,,Kusarigama style, Baiken! I participate!
@@ -495,7 +494,7 @@ Dialogue: 0,0:14:38.41,0:14:42.32,NoteOnAnime,ko,0,0,0,,{\an5\fs32\t(970,3900,\f
 Dialogue: 0,0:14:38.41,0:14:42.32,NoteOnAnime,en,0,0,0,,{\an5\fs18\t(970,3900,\fs36)\move(132,343,295,185,1100,3900)}Place of Match
 Comment: 0,0:14:43.34,0:14:47.68,Default,ja,0,0,0,,東！堀越流免許皆伝またの重三郎！
 Dialogue: 0,0:14:43.34,0:14:47.68,Default,ko,0,0,0,,동! 호리고시 류 오의를 전수받은 주자부로!
-Dialogue: 0,0:14:43.34,0:14:47.68,Default,en,0,0,0,,East! Full mastership of Horigoshi style, Juuzaburo!
+Dialogue: 0,0:14:43.34,0:14:47.68,Default,en,0,0,0,,East! Full mastership of Horigoshi style, Jūzaburo!
 Comment: 0,0:14:47.68,0:14:50.80,Default,ja,0,0,0,,西！伴流、ミスターコジロウ！
 Dialogue: 0,0:14:47.68,0:14:50.80,Default,ko,0,0,0,,서! 반류 미스터 코지로!
 Dialogue: 0,0:14:47.68,0:14:50.80,Default,en,0,0,0,,West! Reversal style Mister Kojirō!

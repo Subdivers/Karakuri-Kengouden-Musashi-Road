@@ -42,10 +42,10 @@ Dialogue: 0,0:00:06.75,0:00:11.57,Default,ko,0,0,0,,카라쿠리인이 사는 �
 Dialogue: 0,0:00:06.75,0:00:11.57,Default,en,0,0,0,,Warlords keep on fighting day and night over\NJipangu State, where Karakuri people live.
 Dialogue: 0,0:00:11.57,0:00:16.53,Default,ko,0,0,0,,카라쿠리 무예가들도 승리와 영광을 꿈꾸며 맹렬히 싸우고 있었다.
 Dialogue: 0,0:00:11.57,0:00:16.53,Default,en,0,0,0,,Karakuri Martial Artists were sharpening their swords, dreaming of victory and honor.
-Dialogue: 0,0:00:16.53,0:00:23.00,Default,ko,0,0,0,,그리고 지금, 카라쿠리 무예자 제일을 꿈꾸는 터무니없는 영웅이 탄생했다!
+Dialogue: 0,0:00:16.53,0:00:23.00,Default,ko,0,0,0,,그리고 지금, 카라쿠리 무예가 제일을 꿈꾸는 터무니없는 영웅이 탄생했다!
 Dialogue: 0,0:00:16.53,0:00:23.00,Default,en,0,0,0,,And now, a wild hero has arrived, seeking to be the number one Karakuri Martial Artist!
 Dialogue: 0,0:00:24.14,0:00:26.67,Default,ko,0,0,0,,무사시 등장이오!
-Dialogue: 0,0:00:24.14,0:00:26.67,Default,en,0,0,0,,Musashi enters-{\i1}dasu{\i0}!
+Dialogue: 0,0:00:24.14,0:00:26.67,Default,en,0,0,0,,Musashi is here-{\i1}dasu{\i0}!
 Dialogue: 0,0:00:27.81,0:00:32.99,TitleOP,ko,0,0,40,,카라쿠리 검호전: 무사시 로드
 Dialogue: 0,0:00:27.81,0:00:32.99,TitleOP,en,0,0,90,,{\an8\fs32}Karakuri Kengouden
 Dialogue: 0,0:00:27.81,0:00:32.99,TitleOP,en,0,0,48,,Musashi Road
@@ -392,7 +392,6 @@ Dialogue: 0,0:12:02.64,0:12:08.62,Default,ko,0,0,0,,무사시의 처형히 집�
 Dialogue: 0,0:12:02.64,0:12:08.62,Default,en,0,0,0,,Musashi's execution is about to start. Wait for the stormy latter half!
 Dialogue: 0,0:12:08.62,0:12:13.64,Eyecatch,ko,0,0,0,,카라쿠리 검호전 무사시 로드
 Dialogue: 0,0:12:08.62,0:12:13.64,Eyecatch,en,0,0,0,,Karakuri Kengouden: Musashi Road
-Dialogue: 0,0:12:08.62,0:12:13.64,Eyecatch,,0,0,0,,{\an2}by Subdivers
 Comment: 0,0:12:18.54,0:12:21.62,Default,ja,0,0,0,,柳生神蔭流ジュウベエ殿！
 Dialogue: 0,0:12:18.54,0:12:21.62,Default,ko,0,0,0,,야규신카게류, 쥬베 님!
 Dialogue: 0,0:12:18.54,0:12:21.62,Default,en,0,0,0,,Yagyu Shinkage Style, Mr. Jube!

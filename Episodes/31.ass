@@ -38,10 +38,10 @@ Dialogue: 0,0:00:06.92,0:00:11.40,Default,ko,0,0,0,,카라쿠리인이 사는 �
 Dialogue: 0,0:00:06.92,0:00:11.40,Default,en,0,0,0,,Warlords keep on fighting day and night over\NJipangu State, where Karakuri people live.
 Dialogue: 0,0:00:11.76,0:00:16.27,Default,ko,0,0,0,,카라쿠리 무예가들도 승리와 영광을 꿈꾸며 맹렬히 싸우고 있었다.
 Dialogue: 0,0:00:11.76,0:00:16.27,Default,en,0,0,0,,Karakuri Martial Artists were sharpening their swords, dreaming of victory and honor.
-Dialogue: 0,0:00:16.76,0:00:23.22,Default,ko,0,0,0,,그리고 지금, 카라쿠리 무예자 제일을 꿈꾸는 터무니없는 영웅이 탄생했다!
+Dialogue: 0,0:00:16.76,0:00:23.22,Default,ko,0,0,0,,그리고 지금, 카라쿠리 무예가 제일을 꿈꾸는 터무니없는 영웅이 탄생했다!
 Dialogue: 0,0:00:16.76,0:00:23.22,Default,en,0,0,0,,And now, a wild hero has arrived, seeking to be the number one Karakuri Martial Artist!
 Dialogue: 0,0:00:24.35,0:00:26.83,Default,ko,0,0,0,,무사시 등장이오!
-Dialogue: 0,0:00:24.35,0:00:26.83,Default,en,0,0,0,,Musashi enters-{\i1}dasu{\i0}!
+Dialogue: 0,0:00:24.35,0:00:26.83,Default,en,0,0,0,,Musashi is here-{\i1}dasu{\i0}!
 Dialogue: 0,0:00:27.88,0:00:33.22,TitleOP,ko,0,0,40,,{\fade(770,0)}카라쿠리 검호전: 무사시 로드
 Dialogue: 0,0:00:27.88,0:00:33.22,TitleOP,en,0,0,90,,{\an8\fs32\fade(770,0)}Karakuri Kengouden
 Dialogue: 0,0:00:27.88,0:00:33.22,TitleOP,en,0,0,48,,{\fade(770,0)}Musashi Road
@@ -433,7 +433,6 @@ Dialogue: 0,0:11:48.48,0:11:53.53,Default,en,0,0,0,,What could be Himiko up to? 
 Comment: 0,0:11:53.54,0:11:58.48,Eyecatch,ja,0,0,0,,EC
 Dialogue: 0,0:11:53.54,0:11:58.48,Eyecatch,ko,0,0,0,,카라쿠리 검호전 무사시 로드
 Dialogue: 0,0:11:53.54,0:11:58.48,Eyecatch,en,0,0,0,,Karakuri Kengouden: Musashi Road
-Dialogue: 0,0:11:53.54,0:11:58.48,Eyecatch,,0,0,0,,{\an2}by Subdivers
 Comment: 0,0:12:04.25,0:12:11.23,Default,ja,0,0,0,,住みません。ちょっとお尋ねしますが、やたら食い意地が張って、間の抜けた顔をしたからくり武芸者を見かけませんでしたか？
 Dialogue: 0,0:12:04.25,0:12:11.23,Default,ko,0,0,0,,실례합니다. 묻고 싶은게 있습니다만, 몹시 게걸스럽고 얼빠진 얼굴을 한 카라쿠리 무예가를 보셨습니까?
 Dialogue: 0,0:12:04.25,0:12:11.23,Default,en,0,0,0,,Excuse me. I'd like to ask you if you see a Karakuri martial artist who's very gluttonous and half-witted?

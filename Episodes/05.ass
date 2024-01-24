@@ -41,10 +41,10 @@ Dialogue: 0,0:00:07.06,0:00:11.88,Default,ko,0,0,0,,카라쿠리인이 사는 �
 Dialogue: 0,0:00:07.06,0:00:11.88,Default,en,0,0,0,,Warlords keep on fighting day and night over\NJipangu State, where Karakuri people live.
 Dialogue: 0,0:00:11.88,0:00:16.83,Default,ko,0,0,0,,카라쿠리 무예가들도 승리와 영광을 꿈꾸며 맹렬히 싸우고 있었다.
 Dialogue: 0,0:00:11.88,0:00:16.83,Default,en,0,0,0,,Karakuri Martial Artists were sharpening their swords, dreaming of victory and honor.
-Dialogue: 0,0:00:16.83,0:00:23.56,Default,ko,0,0,0,,그리고 지금, 카라쿠리 무예자 제일을 꿈꾸는 터무니없는 영웅이 탄생했다!
+Dialogue: 0,0:00:16.83,0:00:23.56,Default,ko,0,0,0,,그리고 지금, 카라쿠리 무예가 제일을 꿈꾸는 터무니없는 영웅이 탄생했다!
 Dialogue: 0,0:00:16.83,0:00:23.56,Default,en,0,0,0,,And now, a wild hero has arrived, seeking to be the number one Karakuri Martial Artist!
 Dialogue: 0,0:00:24.42,0:00:27.15,Default,ko,0,0,0,,무사시 등장이오!
-Dialogue: 0,0:00:24.42,0:00:27.15,Default,en,0,0,0,,Musashi enters-{\i1}dasu{\i0}!
+Dialogue: 0,0:00:24.42,0:00:27.15,Default,en,0,0,0,,Musashi is here-{\i1}dasu{\i0}!
 Dialogue: 0,0:00:28.03,0:00:33.21,TitleOP,ko,0,0,40,,카라쿠리 검호전: 무사시 로드
 Dialogue: 0,0:00:28.03,0:00:33.21,TitleOP,en,0,0,90,,{\an8\fs32}Karakuri Kengouden
 Dialogue: 0,0:00:28.03,0:00:33.21,TitleOP,en,0,0,48,,Musashi Road
@@ -381,7 +381,6 @@ Dialogue: 0,0:12:13.36,0:12:20.71,Default,ko,0,0,0,,코지로에게 놀림받은
 Dialogue: 0,0:12:13.36,0:12:20.71,Default,en,0,0,0,,Musashi was insulted by Kojirō. Will he ever be able to get a sword? Wait for the stormy latter half!
 Dialogue: 0,0:12:20.71,0:12:25.59,Eyecatch,ko,0,0,0,,카라쿠리 검호전 무사시 로드
 Dialogue: 0,0:12:20.71,0:12:25.59,Eyecatch,en,0,0,0,,Karakuri Kengouden: Musashi Road!
-Dialogue: 0,0:12:20.71,0:12:25.59,Eyecatch,,0,0,0,,{\an2}by Subdivers
 Dialogue: 0,0:12:34.95,0:12:36.26,Default,ko,0,0,0,,잡았소!
 Dialogue: 0,0:12:34.95,0:12:36.26,Default,en,0,0,0,,Caught one-{\i1}dasu{\i0}!
 Dialogue: 0,0:12:40.86,0:12:43.07,Default,ko,0,0,0,,배고프오...
@@ -600,7 +599,7 @@ Dialogue: 0,0:20:16.48,0:20:18.55,Default,en,0,0,0,,Musashi has appeared!
 Dialogue: 0,0:20:19.94,0:20:21.40,Default,ko,0,0,0,,-무사시가!\N-네이놈!
 Dialogue: 0,0:20:19.94,0:20:21.40,Default,en,0,0,0,,-Musashi!\N-How dare you!
 Dialogue: 0,0:20:21.77,0:20:23.69,Default,ko,0,0,0,,무사시! 등장이오!
-Dialogue: 0,0:20:21.77,0:20:23.69,Default,en,0,0,0,,Musashi enters-{\i1}dasu{\i0}!
+Dialogue: 0,0:20:21.77,0:20:23.69,Default,en,0,0,0,,Musashi is here-{\i1}dasu{\i0}!
 Dialogue: 0,0:20:32.86,0:20:34.87,Default,ko,0,0,0,,걱정할 필요는 없소! 칼등이오!
 Dialogue: 0,0:20:32.86,0:20:34.87,Default,en,0,0,0,,No need to worry-{\i1}dasu{\i0}! Back side-{\i1}dasu{\i0}!
 Dialogue: 0,0:20:38.34,0:20:39.80,Default,ko,0,0,0,,무사시, 각오해라!

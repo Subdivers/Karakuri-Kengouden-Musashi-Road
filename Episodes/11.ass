@@ -41,10 +41,10 @@ Dialogue: 0,0:00:06.75,0:00:11.57,Default,ko,0,0,0,,카라쿠리인이 사는 �
 Dialogue: 0,0:00:06.75,0:00:11.57,Default,en,0,0,0,,Warlords keep on fighting day and night over\NJipangu State, where Karakuri people live.
 Dialogue: 0,0:00:11.57,0:00:16.53,Default,ko,0,0,0,,카라쿠리 무예가들도 승리와 영광을 꿈꾸며 맹렬히 싸우고 있었다.
 Dialogue: 0,0:00:11.57,0:00:16.53,Default,en,0,0,0,,Karakuri Martial Artists were sharpening their swords, dreaming of victory and honor.
-Dialogue: 0,0:00:16.53,0:00:23.00,Default,ko,0,0,0,,그리고 지금, 카라쿠리 무예자 제일을 꿈꾸는 터무니없는 영웅이 탄생했다!
+Dialogue: 0,0:00:16.53,0:00:23.00,Default,ko,0,0,0,,그리고 지금, 카라쿠리 무예가 제일을 꿈꾸는 터무니없는 영웅이 탄생했다!
 Dialogue: 0,0:00:16.53,0:00:23.00,Default,en,0,0,0,,And now, a wild hero has arrived, seeking to be the number one Karakuri Martial Artist!
 Dialogue: 0,0:00:24.14,0:00:26.67,Default,ko,0,0,0,,무사시 등장이오!
-Dialogue: 0,0:00:24.14,0:00:26.67,Default,en,0,0,0,,Musashi enters-{\i1}dasu{\i0}!
+Dialogue: 0,0:00:24.14,0:00:26.67,Default,en,0,0,0,,Musashi is here-{\i1}dasu{\i0}!
 Dialogue: 0,0:00:27.81,0:00:32.99,TitleOP,ko,0,0,40,,카라쿠리 검호전: 무사시 로드
 Dialogue: 0,0:00:27.81,0:00:32.99,TitleOP,en,0,0,90,,{\an8\fs32}Karakuri Kengouden
 Dialogue: 0,0:00:27.81,0:00:32.99,TitleOP,en,0,0,48,,Musashi Road
@@ -117,7 +117,7 @@ Dialogue: 0,0:02:53.46,0:02:55.43,Default,en,0,0,0,,It's the victory of Miyamoto
 Comment: 0,0:02:56.36,0:02:57.30,Default,ja,0,0,0,,巻いた！
 Dialogue: 0,0:02:56.36,0:02:57.30,Default,ko,0,0,0,,졌다!
 Dialogue: 0,0:02:56.36,0:02:57.30,Default,en,0,0,0,,I lost!
-Comment: 0,0:02:58.38,0:03:00.08,Default,ja,0,0,0,,バイケン！baiyuu!
+Comment: 0,0:02:58.38,0:03:00.08,Default,ja,0,0,0,,バイケン！baiyū!
 Dialogue: 0,0:02:58.38,0:03:00.08,Default,ko,0,0,0,,바이켄! 간다!
 Dialogue: 0,0:02:58.38,0:03:00.08,Default,en,0,0,0,,Baiken! Here I go!
 Comment: 0,0:03:05.96,0:03:08.41,Default,ja,0,0,0,,宮本村、baikougiの勝ちです！
@@ -551,7 +551,6 @@ Dialogue: 0,0:11:52.26,0:11:58.75,Default,ko,0,0,0,,과연 무사시는 무예 �
 Dialogue: 0,0:11:52.26,0:11:58.75,Default,en,0,0,0,,Will Musashi be able to compete in the martial arts competition? Wait for the stormy latter half!
 Dialogue: 0,0:11:58.75,0:12:03.58,Eyecatch,ko,0,0,0,,카라쿠리 검호전 무사시 로드
 Dialogue: 0,0:11:58.75,0:12:03.58,Eyecatch,en,0,0,0,,Karakuri Kengouden: Musashi Road
-Dialogue: 0,0:11:58.75,0:12:03.58,Eyecatch,,0,0,0,,{\an2}by Subdivers
 Comment: 0,0:12:08.72,0:12:10.16,Default,ja,0,0,0,,どうやら大丈夫か。。。
 Dialogue: 0,0:12:08.72,0:12:10.16,Default,ko,0,0,0,,어떻게든 된 것 같군.
 Dialogue: 0,0:12:08.72,0:12:10.16,Default,en,0,0,0,,I guess we went through.

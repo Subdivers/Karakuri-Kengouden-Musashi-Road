@@ -38,10 +38,10 @@ Dialogue: 0,0:00:07.04,0:00:11.45,Default,ko,0,0,0,,카라쿠리인이 사는 �
 Dialogue: 0,0:00:07.04,0:00:11.45,Default,en,0,0,0,,Warlords keep on fighting day and night over\NJipangu State, where Karakuri people live.
 Dialogue: 0,0:00:11.80,0:00:16.16,Default,ko,0,0,0,,카라쿠리 무예가들도 승리와 영광을 꿈꾸며 맹렬히 싸우고 있었다.
 Dialogue: 0,0:00:11.80,0:00:16.16,Default,en,0,0,0,,Karakuri Martial Artists were sharpening their swords, dreaming of victory and honor.
-Dialogue: 0,0:00:16.79,0:00:23.11,Default,ko,0,0,0,,그리고 지금, 카라쿠리 무예자 제일을 꿈꾸는 터무니없는 영웅이 탄생했다!
+Dialogue: 0,0:00:16.79,0:00:23.11,Default,ko,0,0,0,,그리고 지금, 카라쿠리 무예가 제일을 꿈꾸는 터무니없는 영웅이 탄생했다!
 Dialogue: 0,0:00:16.79,0:00:23.11,Default,en,0,0,0,,And now, a wild hero has arrived, seeking to be the number one Karakuri Martial Artist!
 Dialogue: 0,0:00:24.40,0:00:26.83,Default,ko,0,0,0,,무사시 등장이오!
-Dialogue: 0,0:00:24.40,0:00:26.83,Default,en,0,0,0,,Musashi enters-{\i1}dasu{\i0}!
+Dialogue: 0,0:00:24.40,0:00:26.83,Default,en,0,0,0,,Musashi is here-{\i1}dasu{\i0}!
 Dialogue: 0,0:00:27.82,0:00:33.16,TitleOP,ko,0,0,40,,{\fade(770,0)}카라쿠리 검호전: 무사시 로드
 Dialogue: 0,0:00:27.82,0:00:33.16,TitleOP,en,0,0,90,,{\an8\fs32\fade(770,0)}Karakuri Kengouden
 Dialogue: 0,0:00:27.82,0:00:33.16,TitleOP,en,0,0,48,,{\fade(770,0)}Musashi Road
@@ -297,7 +297,7 @@ Dialogue: 0,0:09:12.51,0:09:14.83,Default,ko,0,0,0,,역시 시로는 착한 아�
 Dialogue: 0,0:09:12.51,0:09:14.83,Default,en,0,0,0,,Shiro is a good boy-{\i1}gowasu{\i0}.
 Comment: 0,0:09:23.21,0:09:26.94,Default,ja,0,0,0,,いい加減にしろ！ダジャレ、通じないでゴワス。
 Dialogue: 0,0:09:23.21,0:09:26.94,Default,ko,0,0,0,,적당히 좀 하시로! 는 말도 안 되는 말장난이오.
-Dialogue: 0,0:09:23.21,0:09:26.94,Note,en,0,0,0,,({\i1}iikagen ni shiro! dajare, tuujinai de gowasu{\i0}:\Nthat's enough! this word play did not work so well-{\i1}gowasu{\i0})
+Dialogue: 0,0:09:23.21,0:09:26.94,Note,en,0,0,0,,({\i1}iikagen ni shiro! dajare, tūjinai de gowasu{\i0}:\Nthat's enough! this word play did not work so well-{\i1}gowasu{\i0})
 Dialogue: 0,0:09:23.21,0:09:26.94,Default,en,0,0,0,,You're a bad boy! But you're not going to change-{\i1}gowasu{\i0}.
 Comment: 0,0:09:30.35,0:09:32.78,Default,ja,0,0,0,,うん？いいにおいがするだすな。
 Dialogue: 0,0:09:30.35,0:09:32.78,Default,ko,0,0,0,,어? 좋은 냄새가 나오.
@@ -389,7 +389,6 @@ Dialogue: 0,0:12:16.72,0:12:21.68,Default,en,0,0,0,,The explosion is nearby! Wai
 Comment: 0,0:12:22.28,0:12:27.29,Eyecatch,ja,0,0,0,,EC
 Dialogue: 0,0:12:22.28,0:12:27.29,Eyecatch,ko,0,0,0,,카라쿠리 검호전 무사시 로드
 Dialogue: 0,0:12:22.28,0:12:27.29,Eyecatch,en,0,0,0,,Karakuri Kengouden: Musashi Road
-Dialogue: 0,0:12:22.28,0:12:27.29,Eyecatch,,0,0,0,,{\an2}by Subdivers
 Comment: 0,0:12:27.31,0:12:29.96,Default,ja,0,0,0,,不知火妖術、火の玉つぶて！
 Dialogue: 0,0:12:27.31,0:12:29.96,Default,ko,0,0,0,,시라누이 요술, 불덩어리 돌팔매!
 Dialogue: 0,0:12:27.31,0:12:29.96,Default,en,0,0,0,,Shiranui Magic, Fireball Throwing Stone!

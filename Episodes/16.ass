@@ -42,10 +42,10 @@ Dialogue: 0,0:00:06.83,0:00:11.65,Default,ko,0,0,0,,카라쿠리인이 사는 �
 Dialogue: 0,0:00:06.83,0:00:11.65,Default,en,0,0,0,,Warlords keep on fighting day and night over\NJipangu State, where Karakuri people live.
 Dialogue: 0,0:00:11.65,0:00:16.61,Default,ko,0,0,0,,카라쿠리 무예가들도 승리와 영광을 꿈꾸며 맹렬히 싸우고 있었다.
 Dialogue: 0,0:00:11.65,0:00:16.61,Default,en,0,0,0,,Karakuri Martial Artists were sharpening their swords, dreaming of victory and honor.
-Dialogue: 0,0:00:16.61,0:00:23.08,Default,ko,0,0,0,,그리고 지금, 카라쿠리 무예자 제일을 꿈꾸는 터무니없는 영웅이 탄생했다!
+Dialogue: 0,0:00:16.61,0:00:23.08,Default,ko,0,0,0,,그리고 지금, 카라쿠리 무예가 제일을 꿈꾸는 터무니없는 영웅이 탄생했다!
 Dialogue: 0,0:00:16.61,0:00:23.08,Default,en,0,0,0,,And now, a wild hero has arrived, seeking to be the number one Karakuri Martial Artist!
 Dialogue: 0,0:00:24.22,0:00:26.75,Default,ko,0,0,0,,무사시 등장이오!
-Dialogue: 0,0:00:24.22,0:00:26.75,Default,en,0,0,0,,Musashi enters-{\i1}dasu{\i0}!
+Dialogue: 0,0:00:24.22,0:00:26.75,Default,en,0,0,0,,Musashi is here-{\i1}dasu{\i0}!
 Dialogue: 0,0:00:27.70,0:00:32.88,TitleOP,ko,0,0,40,,카라쿠리 검호전: 무사시 로드
 Dialogue: 0,0:00:27.70,0:00:32.88,TitleOP,en,0,0,90,,{\an8\fs32}Karakuri Kengouden
 Dialogue: 0,0:00:27.70,0:00:32.88,TitleOP,en,0,0,48,,Musashi Road
@@ -263,7 +263,7 @@ Dialogue: 0,0:05:53.56,0:05:54.53,Default,ko,0,0,0,,츠치구모...
 Dialogue: 0,0:05:53.56,0:05:54.53,Default,en,0,0,0,,Tsuchigumo...
 Comment: 0,0:05:55.14,0:06:02.29,Default,ja,0,0,0,,その怪物が神尾の頃より、名刀天空丸と天地丸を守っていると伝えられています。
 Dialogue: 0,0:05:55.14,0:06:02.29,Default,ko,0,0,0,,신이 다스리던 시대부터 명도 천공환, 천지환을 지키고 있다고 전해지는 괴물입니다.
-Dialogue: 0,0:05:55.14,0:06:02.29,Default,en,0,0,0,,They are monsters that are told to be protecting the sacred swords named Tenkuumaru and Tenchimaru.
+Dialogue: 0,0:05:55.14,0:06:02.29,Default,en,0,0,0,,They are monsters that are told to be protecting the sacred swords named Tenkūmaru and Tenchimaru.
 Comment: 0,0:06:02.88,0:06:06.65,Default,ja,0,0,0,,この怪物を退治すれば、その名刀が手に入るダスな！
 Dialogue: 0,0:06:02.88,0:06:06.65,Default,ko,0,0,0,,그 괴물을 퇴치하면 그 명도가 손에 들어오는 것이오!
 Dialogue: 0,0:06:02.88,0:06:06.65,Default,en,0,0,0,,So by getting rid of those monsters, I will be able to have those excellent swords!
@@ -278,7 +278,7 @@ Dialogue: 0,0:06:14.95,0:06:18.29,Default,ko,0,0,0,,나, 힘껏 해 보겠소!
 Dialogue: 0,0:06:14.95,0:06:18.29,Default,en,0,0,0,,I'll do that with all my might-{\i1}dasu{\i0}!
 Comment: 0,0:06:20.64,0:06:23.69,Default,ja,0,0,0,,ヤマタノオロチが天空丸。土蜘蛛が天地丸。
 Dialogue: 0,0:06:20.64,0:06:23.69,Default,ko,0,0,0,,야마타노오로치가 천공환. 츠치구모가 천지환.
-Dialogue: 0,0:06:20.64,0:06:23.69,Default,en,0,0,0,,Tenkuumaru of Yamata no Orochi. Tenchimaru of Tsuchigumo.
+Dialogue: 0,0:06:20.64,0:06:23.69,Default,en,0,0,0,,Tenkūmaru of Yamata no Orochi. Tenchimaru of Tsuchigumo.
 Comment: 0,0:06:23.69,0:06:25.65,Default,ja,0,0,0,,その天地丸が手に入るダス。
 Dialogue: 0,0:06:23.69,0:06:25.65,Default,ko,0,0,0,,그 천지환을 손에 넣을 수 있소.
 Dialogue: 0,0:06:23.69,0:06:25.65,Default,en,0,0,0,,I'll be able to get that Tenchimaru-{\i1}dasu{\i0}.
@@ -529,7 +529,6 @@ Dialogue: 0,0:11:46.42,0:11:51.30,Default,en,0,0,0,,What did Musashi just see? W
 Comment: 0,0:11:51.71,0:11:56.68,Eyecatch,ja,0,0,0,,EC
 Dialogue: 0,0:11:51.71,0:11:56.68,Eyecatch,ko,0,0,0,,카라쿠리 검호전 무사시 로드
 Dialogue: 0,0:11:51.71,0:11:56.68,Eyecatch,en,0,0,0,,Karakuri Kengouden: Musashi Road
-Dialogue: 0,0:11:51.71,0:11:56.68,Eyecatch,,0,0,0,,{\an2}by Subdivers
 Comment: 0,0:12:01.12,0:12:02.63,Default,ja,0,0,0,,土蜘蛛！
 Dialogue: 0,0:12:01.12,0:12:02.63,Default,ko,0,0,0,,츠치구모!
 Dialogue: 0,0:12:01.12,0:12:02.63,Default,en,0,0,0,,Tsuchigumo!
@@ -925,7 +924,7 @@ Dialogue: 0,0:24:05.33,0:24:08.95,Default,ko,0,0,0,,쥬베 씨가 말한 요괴 
 Dialogue: 0,0:24:05.33,0:24:08.95,Default,en,0,0,0,,I met Yamata no Orochi that Mr. Jube told me-{\i1}dasu{\i0}.
 Comment: 0,0:24:09.76,0:24:15.73,Default,ja,0,0,0,,よし、これをやつければ天空丸も手に入り、おいらの二刀流も天下無敵になるダス！
 Dialogue: 0,0:24:09.76,0:24:15.73,Default,ko,0,0,0,,좋소, 이놈을 잡으면 천공환도 손에 넣고 내 이도류도 천하무적이 되오!
-Dialogue: 0,0:24:09.76,0:24:15.73,Default,en,0,0,0,,Alright! When I get this thing, I'll have Tenkuumaru in my hands and I'll be invincible-{\i1}dasu{\i0}!
+Dialogue: 0,0:24:09.76,0:24:15.73,Default,en,0,0,0,,Alright! When I get this thing, I'll have Tenkūmaru in my hands and I'll be invincible-{\i1}dasu{\i0}!
 Comment: 0,0:24:16.64,0:24:20.19,Default,ja,0,0,0,,次なるからくり妖術師の名は、シューテンタイガー。
 Dialogue: 0,0:24:16.64,0:24:20.19,Default,ko,0,0,0,,다음 카라쿠리 요술사의 이름은 슈텐타이가.
 Dialogue: 0,0:24:16.64,0:24:20.19,Default,en,0,0,0,,Next Karakuri magician is Shutentiger.

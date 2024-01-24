@@ -42,10 +42,10 @@ Dialogue: 0,0:00:06.83,0:00:11.65,Default,ko,0,0,0,,카라쿠리인이 사는 �
 Dialogue: 0,0:00:06.83,0:00:11.65,Default,en,0,0,0,,Warlords keep on fighting day and night over\NJipangu State, where Karakuri people live.
 Dialogue: 0,0:00:11.65,0:00:16.61,Default,ko,0,0,0,,카라쿠리 무예가들도 승리와 영광을 꿈꾸며 맹렬히 싸우고 있었다.
 Dialogue: 0,0:00:11.65,0:00:16.61,Default,en,0,0,0,,Karakuri Martial Artists were sharpening their swords, dreaming of victory and honor.
-Dialogue: 0,0:00:16.61,0:00:23.08,Default,ko,0,0,0,,그리고 지금, 카라쿠리 무예자 제일을 꿈꾸는 터무니없는 영웅이 탄생했다!
+Dialogue: 0,0:00:16.61,0:00:23.08,Default,ko,0,0,0,,그리고 지금, 카라쿠리 무예가 제일을 꿈꾸는 터무니없는 영웅이 탄생했다!
 Dialogue: 0,0:00:16.61,0:00:23.08,Default,en,0,0,0,,And now, a wild hero has arrived, seeking to be the number one Karakuri Martial Artist!
 Dialogue: 0,0:00:24.22,0:00:26.75,Default,ko,0,0,0,,무사시 등장이오!
-Dialogue: 0,0:00:24.22,0:00:26.75,Default,en,0,0,0,,Musashi enters-{\i1}dasu{\i0}!
+Dialogue: 0,0:00:24.22,0:00:26.75,Default,en,0,0,0,,Musashi is here-{\i1}dasu{\i0}!
 Dialogue: 0,0:00:27.70,0:00:32.88,TitleOP,ko,0,0,40,,카라쿠리 검호전: 무사시 로드
 Dialogue: 0,0:00:27.70,0:00:32.88,TitleOP,en,0,0,90,,{\an8\fs32}Karakuri Kengouden
 Dialogue: 0,0:00:27.70,0:00:32.88,TitleOP,en,0,0,48,,Musashi Road
@@ -347,7 +347,7 @@ Dialogue: 0,0:08:28.69,0:08:31.55,Default,ko,0,0,0,,야마타노오로치... 츠
 Dialogue: 0,0:08:28.69,0:08:31.55,Default,en,0,0,0,,Yamata no Orochi... Tsuchigumo...
 Comment: 0,0:08:32.61,0:08:39.61,Default,ja,0,0,0,,その怪物が、神代の頃より、名刀天空丸、天地丸を守っていると伝えられています。
 Dialogue: 0,0:08:32.61,0:08:39.61,Default,ko,0,0,0,,신이 다스리던 시대부터 명도 천공환, 천지환을 지키고 있다고 전해지는 괴물입니다.
-Dialogue: 0,0:08:32.61,0:08:39.61,Default,en,0,0,0,,They are monsters that are told to be protecting the sacred swords named Tenkuumaru and Tenchimaru.
+Dialogue: 0,0:08:32.61,0:08:39.61,Default,en,0,0,0,,They are monsters that are told to be protecting the sacred swords named Tenkūmaru and Tenchimaru.
 Comment: 0,0:08:41.22,0:08:44.90,Default,ja,0,0,0,,この怪物を退治すれば、その名刀が手に入るダスな！
 Dialogue: 0,0:08:41.22,0:08:44.90,Default,ko,0,0,0,,그 괴물을 퇴치하면 그 명도가 손에 들어오는 것이오!
 Dialogue: 0,0:08:41.22,0:08:44.90,Default,en,0,0,0,,So by getting rid of those monsters, I will be able to have those excellent swords!
@@ -474,7 +474,6 @@ Dialogue: 0,0:12:28.65,0:12:32.91,Default,en,0,0,0,,Musashi, watch out! Wait for
 Comment: 0,0:12:33.25,0:12:38.50,Default,ja,0,0,0,,EC
 Dialogue: 0,0:12:33.25,0:12:38.50,Eyecatch,ko,0,0,0,,카라쿠리 검호전 무사시 로드
 Dialogue: 0,0:12:33.25,0:12:38.50,Eyecatch,en,0,0,0,,Karakuri Kengouden: Musashi Road
-Dialogue: 0,0:12:33.25,0:12:38.50,Eyecatch,,0,0,0,,{\an2}by Subdivers
 Comment: 0,0:12:39.49,0:12:40.52,Default,ja,0,0,0,,後ろな、ムサシ！
 Dialogue: 0,0:12:39.49,0:12:40.52,Default,ko,0,0,0,,뒤다, 무사시!
 Dialogue: 0,0:12:39.49,0:12:40.52,Default,en,0,0,0,,On your back, Musashi!
@@ -711,7 +710,7 @@ Dialogue: 0,0:19:58.66,0:20:00.10,Default,ko,0,0,0,,예쁘오!
 Dialogue: 0,0:19:58.66,0:20:00.10,Default,en,0,0,0,,So pretty-{\i1}dasu{\i0}!
 Comment: 0,0:20:28.38,0:20:30.23,Default,ja,0,0,0,,これぞまさしく天空丸！
 Dialogue: 0,0:20:28.38,0:20:30.23,Default,ko,0,0,0,,이것은 분명 천공환!
-Dialogue: 0,0:20:28.38,0:20:30.23,Default,en,0,0,0,,This must be Tenkuumaru!
+Dialogue: 0,0:20:28.38,0:20:30.23,Default,en,0,0,0,,This must be Tenkūmaru!
 Comment: 0,0:20:36.15,0:20:37.24,Default,ja,0,0,0,,な、なんだす？
 Dialogue: 0,0:20:36.15,0:20:37.24,Default,ko,0,0,0,,뭐, 뭣이오?
 Dialogue: 0,0:20:36.15,0:20:37.24,Default,en,0,0,0,,W- what's going on-{\i1}dasu{\i0}?
@@ -768,7 +767,7 @@ Dialogue: 0,0:22:00.66,0:22:04.22,Default,ko,0,0,0,,어허 참, 질리지도 않
 Dialogue: 0,0:22:00.66,0:22:04.22,Default,en,0,0,0,,Oh dear, aren't you tired of this yet, Musashi and Kojirō?
 Comment: 0,0:22:04.53,0:22:09.98,Default,ja,0,0,0,,だが、見事、ヤマタノオロチを倒して、天空丸を手にしたムサシの心は弾む。
 Dialogue: 0,0:22:04.53,0:22:09.98,Default,ko,0,0,0,,어쩄든 훌륭하게도 야마타노오로치를 쓰러뜨리고 천공환을 손에 넣은 무사시의 마음만은 신바람이 난다.
-Dialogue: 0,0:22:04.53,0:22:09.98,Default,en,0,0,0,,Anyway, Musashi is deeply encouraged, after taking Yamata no Orochi down and get his hands on Tenkuumaru.
+Dialogue: 0,0:22:04.53,0:22:09.98,Default,en,0,0,0,,Anyway, Musashi is deeply encouraged, after taking Yamata no Orochi down and get his hands on Tenkūmaru.
 Comment: 0,0:22:10.65,0:22:15.41,Default,ja,0,0,0,,センヒメを守り、まさに花吹雪がまう男の花道をまっしぐら！
 Dialogue: 0,0:22:10.65,0:22:15.41,Default,ko,0,0,0,,센히메를 지키고 바야흐로 꽃보라가 흩날리는 사내의 활약도 쏜살같이!
 Dialogue: 0,0:22:10.65,0:22:15.41,Default,en,0,0,0,,He protected Senhime and his blossoming manly activities are at full speed!

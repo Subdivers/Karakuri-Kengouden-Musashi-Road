@@ -38,10 +38,10 @@ Dialogue: 0,0:00:07.08,0:00:11.49,Default,ko,0,0,0,,카라쿠리인이 사는 �
 Dialogue: 0,0:00:07.08,0:00:11.49,Default,en,0,0,0,,Jipangu State, where the Karakuri people live, is a place of constant conflict.
 Dialogue: 0,0:00:11.84,0:00:16.20,Default,ko,0,0,0,,카라쿠리 무예가들도 승리와 영광을 꿈꾸며 맹렬히 싸우고 있었다.
 Dialogue: 0,0:00:11.84,0:00:16.20,Default,en,0,0,0,,Karakuri Martial Artists were sharpening their swords, dreaming of victory and honor.
-Dialogue: 0,0:00:16.83,0:00:23.15,Default,ko,0,0,0,,그리고 지금, 카라쿠리 무예자 제일을 꿈꾸는 터무니없는 영웅이 탄생했다!
+Dialogue: 0,0:00:16.83,0:00:23.15,Default,ko,0,0,0,,그리고 지금, 카라쿠리 무예가 제일을 꿈꾸는 터무니없는 영웅이 탄생했다!
 Dialogue: 0,0:00:16.83,0:00:23.15,Default,en,0,0,0,,And now, a wild hero has arrived, seeking to be the number one Karakuri Martial Artist!
 Dialogue: 0,0:00:24.44,0:00:26.87,Default,ko,0,0,0,,무사시 등장이오!
-Dialogue: 0,0:00:24.44,0:00:26.87,Default,en,0,0,0,,Musashi enters-{\i1}dasu{\i0}!
+Dialogue: 0,0:00:24.44,0:00:26.87,Default,en,0,0,0,,Musashi is here-{\i1}dasu{\i0}!
 Dialogue: 0,0:00:27.86,0:00:33.20,TitleOP,ko,0,0,40,,{\fade(770,0)}카라쿠리 검호전: 무사시 로드
 Dialogue: 0,0:00:27.86,0:00:33.20,TitleOP,en,0,0,90,,{\an8\fs32\fade(770,0)}Karakuri Kengouden
 Dialogue: 0,0:00:27.86,0:00:33.20,TitleOP,en,0,0,48,,{\fade(770,0)}Musashi Road
@@ -639,7 +639,6 @@ Dialogue: 0,0:12:23.10,0:12:26.16,Default,en,0,0,0,,Wait for the stormy latter h
 Comment: 0,0:12:26.16,0:12:31.13,Eyecatch,ja,0,0,0,,EC
 Dialogue: 0,0:12:26.16,0:12:31.13,Eyecatch,ko,0,0,0,,카라쿠리 검호전 무사시 로드
 Dialogue: 0,0:12:26.16,0:12:31.13,Eyecatch,en,0,0,0,,Karakuri Kengouden: Musashi Road
-Dialogue: 0,0:12:26.16,0:12:31.13,Eyecatch,,0,0,0,,{\an2}by Subdivers
 Comment: 0,0:12:44.31,0:12:48.06,Default,ja,0,0,0,,おそい！ムサシのやつ、いったい何をしているんだ。
 Dialogue: 0,0:12:44.31,0:12:48.06,Default,ko,0,0,0,,늦어! 무사시 놈, 대체 뭘 하고 있는 거야!?
 Dialogue: 0,0:12:44.31,0:12:48.06,Default,en,0,0,0,,He's late! What the hell is Musashi doing!?
@@ -688,7 +687,7 @@ Dialogue: 0,0:13:50.94,0:13:53.37,Default,ko,0,0,0,,무사시, 그 칼은 뭔 �
 Dialogue: 0,0:13:50.94,0:13:53.37,Default,en,0,0,0,,Musashi, are you trying to be funny with that sword?
 Comment: 0,0:13:53.84,0:13:58.76,Default,ja,0,0,0,,ふんだ！コジローを相手に天空丸を使うのはもったいないダスからな！
 Dialogue: 0,0:13:53.84,0:13:58.76,Default,ko,0,0,0,,흥이오! 코지로를 상대로 천공환을 쓰는 건 아깝소!
-Dialogue: 0,0:13:53.84,0:13:58.76,Default,en,0,0,0,,Hmph-{\1}dasu{\i0}! My Tenkuumaru is too valuable to use it to you, Kojirō-{\1}dasu{\i0}!
+Dialogue: 0,0:13:53.84,0:13:58.76,Default,en,0,0,0,,Hmph-{\1}dasu{\i0}! My Tenkūmaru is too valuable to use it to you, Kojirō-{\1}dasu{\i0}!
 Comment: 0,0:13:59.19,0:14:00.80,Default,ja,0,0,0,,減らず口もそれが最後だ!
 Dialogue: 0,0:13:59.19,0:14:00.80,Default,ko,0,0,0,,억지도 그게 최후다!
 Dialogue: 0,0:13:59.19,0:14:00.80,Default,en,0,0,0,,That will be your last futile retort!

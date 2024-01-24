@@ -42,10 +42,10 @@ Dialogue: 0,0:00:06.83,0:00:11.65,Default,ko,0,0,0,,카라쿠리인이 사는 �
 Dialogue: 0,0:00:06.83,0:00:11.65,Default,en,0,0,0,,Warlords keep on fighting day and night over\NJipangu State, where Karakuri people live.
 Dialogue: 0,0:00:11.65,0:00:16.61,Default,ko,0,0,0,,카라쿠리 무예가들도 승리와 영광을 꿈꾸며 맹렬히 싸우고 있었다.
 Dialogue: 0,0:00:11.65,0:00:16.61,Default,en,0,0,0,,Karakuri Martial Artists were sharpening their swords, dreaming of victory and honor.
-Dialogue: 0,0:00:16.61,0:00:23.08,Default,ko,0,0,0,,그리고 지금, 카라쿠리 무예자 제일을 꿈꾸는 터무니없는 영웅이 탄생했다!
+Dialogue: 0,0:00:16.61,0:00:23.08,Default,ko,0,0,0,,그리고 지금, 카라쿠리 무예가 제일을 꿈꾸는 터무니없는 영웅이 탄생했다!
 Dialogue: 0,0:00:16.61,0:00:23.08,Default,en,0,0,0,,And now, a wild hero has arrived, seeking to be the number one Karakuri Martial Artist!
 Dialogue: 0,0:00:24.22,0:00:26.75,Default,ko,0,0,0,,무사시 등장이오!
-Dialogue: 0,0:00:24.22,0:00:26.75,Default,en,0,0,0,,Musashi enters-{\i1}dasu{\i0}!
+Dialogue: 0,0:00:24.22,0:00:26.75,Default,en,0,0,0,,Musashi is here-{\i1}dasu{\i0}!
 Dialogue: 0,0:00:27.81,0:00:32.99,TitleOP,ko,0,0,40,,카라쿠리 검호전: 무사시 로드
 Dialogue: 0,0:00:27.81,0:00:32.99,TitleOP,en,0,0,90,,{\an8\fs32}Karakuri Kengouden
 Dialogue: 0,0:00:27.81,0:00:32.99,TitleOP,en,0,0,48,,Musashi Road
@@ -501,7 +501,7 @@ Dialogue: 0,0:11:37.21,0:11:39.83,Default,ko,0,0,0,,{\i1}야마타노오로치..
 Dialogue: 0,0:11:37.21,0:11:39.83,Default,en,0,0,0,,{\i1}Yamata no Orochi... Tsuchigumo...
 Comment: 0,0:11:40.35,0:11:47.36,Default,ja,0,0,0,,その怪物が、神尾のころより、名刀天空丸と天地丸を守っていると伝えられています。
 Dialogue: 0,0:11:40.35,0:11:47.36,Default,ko,0,0,0,,그 괴물은 신이 다스리던 시대부터 명도 천공환, 천지환을 지키고 있다고 전해지는 괴물입니다.
-Dialogue: 0,0:11:40.35,0:11:47.36,Default,en,0,0,0,,They are the monsters that are told to be protecting the sacred swords named Tenkuumaru and Tenchimaru.
+Dialogue: 0,0:11:40.35,0:11:47.36,Default,en,0,0,0,,They are the monsters that are told to be protecting the sacred swords named Tenkūmaru and Tenchimaru.
 Comment: 0,0:11:48.77,0:11:52.66,Default,ja,0,0,0,,この怪物を退治すれば、その名刀が手に入るダスな!
 Dialogue: 0,0:11:48.77,0:11:52.66,Default,ko,0,0,0,,그 괴물을 퇴치하면 그 명도가 손에 들어오는 것이오!
 Dialogue: 0,0:11:48.77,0:11:52.66,Default,en,0,0,0,,So by getting rid of those monsters, I will be able to have those excellent swords!
@@ -528,7 +528,6 @@ Dialogue: 0,0:12:37.27,0:12:40.28,Default,ko,0,0,0,,질풍노도의 후반을 �
 Dialogue: 0,0:12:37.27,0:12:40.28,Default,en,0,0,0,,Wait for the stormy latter half!
 Dialogue: 0,0:12:40.64,0:12:45.61,Eyecatch,ko,0,0,0,,카라쿠리 검호전 무사시 로드
 Dialogue: 0,0:12:40.64,0:12:45.61,Eyecatch,en,0,0,0,,Karakuri Kengouden: Musashi Road
-Dialogue: 0,0:12:40.64,0:12:45.61,Eyecatch,,0,0,0,,{\an2}by Subdivers
 Comment: 0,0:12:52.25,0:12:54.80,Default,ja,0,0,0,,おせんちゃんとコジローはどこまで行ったダスか。
 Dialogue: 0,0:12:52.25,0:12:54.80,Default,ko,0,0,0,,센짱하고 코지로, 어디까지 간 것이오?
 Dialogue: 0,0:12:52.25,0:12:54.80,Default,en,0,0,0,,Where did Sen-chan and Kojirō go to-{\i1}dasu{\i0}?

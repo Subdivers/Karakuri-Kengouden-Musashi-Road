@@ -38,10 +38,10 @@ Dialogue: 0,0:00:06.86,0:00:11.68,Default,ko,0,0,0,,카라쿠리인이 사는 �
 Dialogue: 0,0:00:06.86,0:00:11.68,Default,en,0,0,0,,Warlords keep on fighting day and night over\NJipangu State, where Karakuri people live.
 Dialogue: 0,0:00:11.68,0:00:16.64,Default,ko,0,0,0,,카라쿠리 무예가들도 승리와 영광을 꿈꾸며 맹렬히 싸우고 있었다.
 Dialogue: 0,0:00:11.68,0:00:16.64,Default,en,0,0,0,,Karakuri Martial Artists were sharpening their swords, dreaming of victory and honor.
-Dialogue: 0,0:00:16.64,0:00:23.11,Default,ko,0,0,0,,그리고 지금, 카라쿠리 무예자 제일을 꿈꾸는 터무니없는 영웅이 탄생했다!
+Dialogue: 0,0:00:16.64,0:00:23.11,Default,ko,0,0,0,,그리고 지금, 카라쿠리 무예가 제일을 꿈꾸는 터무니없는 영웅이 탄생했다!
 Dialogue: 0,0:00:16.64,0:00:23.11,Default,en,0,0,0,,And now, a wild hero has arrived, seeking to be the number one Karakuri Martial Artist!
 Dialogue: 0,0:00:24.25,0:00:26.78,Default,ko,0,0,0,,무사시 등장이오!
-Dialogue: 0,0:00:24.25,0:00:26.78,Default,en,0,0,0,,Musashi enters-{\i1}dasu{\i0}!
+Dialogue: 0,0:00:24.25,0:00:26.78,Default,en,0,0,0,,Musashi is here-{\i1}dasu{\i0}!
 Dialogue: 0,0:00:27.76,0:00:32.94,TitleOP,ko,0,0,40,,카라쿠리 검호전: 무사시 로드
 Dialogue: 0,0:00:27.76,0:00:32.94,TitleOP,en,0,0,90,,{\an8\fs32}Karakuri Kengouden
 Dialogue: 0,0:00:27.76,0:00:32.94,TitleOP,en,0,0,48,,Musashi Road
@@ -83,7 +83,7 @@ Dialogue: 0,0:01:45.59,0:01:50.85,SongOP,en,0,0,0,,His eyes shined! Musashi!!
 Comment: 0,0:02:00.58,0:02:06.45,Default,ja,0,0,0,,天空丸、天地丸のにとうをわがとしたムサシは、二天一流の勘違いを目指した。
 Dialogue: 0,0:02:00.58,0:02:06.45,Default,ko,0,0,0,,천공환, 천지환과 이도류를 자기 것으로 만든 무사시는 이천일류의 완성을 노린다.
 Dialogue: 0,0:02:00.58,0:02:06.45,Note,en,0,0,0,,({\i1}Niten'ichi-ryu{\i0}: {\fnMeiryo UI}二天一流{\r}, {\i1}Musashi-ryu{\i0}; the art of using two swords)
-Dialogue: 0,0:02:00.58,0:02:06.45,Default,en,0,0,0,,After taking Tenkuumaru and Tenchimaru into his hands, Musashi looks to perfect his Nitenichiryu.
+Dialogue: 0,0:02:00.58,0:02:06.45,Default,en,0,0,0,,After taking Tenkūmaru and Tenchimaru into his hands, Musashi looks to perfect his Nitenichiryu.
 Comment: 0,0:02:07.02,0:02:10.81,Default,ja,0,0,0,,大泥棒ゴエモンドの大ムカデに苦しめられるムサシたち。
 Dialogue: 0,0:02:07.02,0:02:10.81,Default,ko,0,0,0,,대도둑 고에몬도의 거대 지네에 고통받는 무사시 일행.
 Dialogue: 0,0:02:07.02,0:02:10.81,Default,en,0,0,0,,Everyone suffered from the huge centipede of Goemondo, a grand thief.
@@ -479,7 +479,6 @@ Dialogue: 0,0:12:17.77,0:12:24.57,Default,en,0,0,0,,Everyone are now in trouble.
 Comment: 0,0:12:24.78,0:12:29.78,Default,ja,0,0,0,,EC
 Dialogue: 0,0:12:24.78,0:12:29.78,Eyecatch,ko,0,0,0,,카라쿠리 검호전 무사시 로드
 Dialogue: 0,0:12:24.78,0:12:29.78,Eyecatch,en,0,0,0,,Karakuri Kengouden: Musashi Road
-Dialogue: 0,0:12:24.78,0:12:29.78,Eyecatch,,0,0,0,,{\an2}by Subdivers
 Comment: 0,0:12:54.54,0:12:55.68,Default,ja,0,0,0,,あれが鵺だスか。。。
 Dialogue: 0,0:12:54.54,0:12:55.68,Default,ko,0,0,0,,저게 누에이오....
 Dialogue: 0,0:12:54.54,0:12:55.68,Default,en,0,0,0,,So that must be Nue-{\i1}dasu{\i0}...
@@ -807,7 +806,7 @@ Dialogue: 0,0:24:20.04,0:24:22.79,Default,ko,0,0,0,,다음 이야기! 슈텐, �
 Dialogue: 0,0:24:20.04,0:24:22.79,Default,en,0,0,0,,Next story! Shuten Explodes!
 Comment: 0,0:24:23.10,0:24:26.70,Default,ja,0,0,0,,疾風怒濤のせんぽうけんだす！
 Dialogue: 0,0:24:23.10,0:24:26.70,Default,ko,0,0,0,,질풍노도의 선공권이오!
-Dialogue: 0,0:24:23.10,0:24:26.70,Default,en,0,0,0,,It's a stormy Senpuuken-{\i1}dasu{\i0}!
+Dialogue: 0,0:24:23.10,0:24:26.70,Default,en,0,0,0,,It's a stormy Senpūken-{\i1}dasu{\i0}!
 Dialogue: 0,0:24:26.42,0:24:30.38,NoteOnAnime,ko,60,0,60,,{\an7}다음 이야기
 Dialogue: 0,0:24:26.42,0:24:30.38,TitleEP,ko,0,0,100,,슈텐, 대폭발이오
 Dialogue: 0,0:24:26.42,0:24:30.38,NoteOnAnime,ko,0,60,30,,{\an3\fs32}재미있게 보세요!

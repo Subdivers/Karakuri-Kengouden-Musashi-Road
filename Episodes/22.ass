@@ -38,10 +38,10 @@ Dialogue: 0,0:00:06.83,0:00:11.65,Default,ko,0,0,0,,카라쿠리인이 사는 �
 Dialogue: 0,0:00:06.83,0:00:11.65,Default,en,0,0,0,,Warlords keep on fighting day and night over\NJipangu State, where Karakuri people live.
 Dialogue: 0,0:00:11.65,0:00:16.60,Default,ko,0,0,0,,카라쿠리 무예가들도 승리와 영광을 꿈꾸며 맹렬히 싸우고 있었다.
 Dialogue: 0,0:00:11.65,0:00:16.60,Default,en,0,0,0,,Karakuri Martial Artists were sharpening their swords, dreaming of victory and honor.
-Dialogue: 0,0:00:16.60,0:00:23.33,Default,ko,0,0,0,,그리고 지금, 카라쿠리 무예자 제일을 꿈꾸는 터무니없는 영웅이 탄생했다!
+Dialogue: 0,0:00:16.60,0:00:23.33,Default,ko,0,0,0,,그리고 지금, 카라쿠리 무예가 제일을 꿈꾸는 터무니없는 영웅이 탄생했다!
 Dialogue: 0,0:00:16.60,0:00:23.33,Default,en,0,0,0,,And now, a wild hero has arrived, seeking to be the number one Karakuri Martial Artist!
 Dialogue: 0,0:00:24.19,0:00:26.92,Default,ko,0,0,0,,무사시 등장이오!
-Dialogue: 0,0:00:24.19,0:00:26.92,Default,en,0,0,0,,Musashi enters-{\i1}dasu{\i0}!
+Dialogue: 0,0:00:24.19,0:00:26.92,Default,en,0,0,0,,Musashi is here-{\i1}dasu{\i0}!
 Dialogue: 0,0:00:27.81,0:00:32.99,TitleOP,ko,0,0,40,,카라쿠리 검호전: 무사시 로드
 Dialogue: 0,0:00:27.81,0:00:32.99,TitleOP,en,0,0,90,,{\an8\fs32}Karakuri Kengouden
 Dialogue: 0,0:00:27.81,0:00:32.99,TitleOP,en,0,0,48,,Musashi Road
@@ -462,7 +462,6 @@ Dialogue: 0,0:11:51.89,0:11:58.42,Default,en,0,0,0,,Does this mean Musashi, who 
 Comment: 0,0:11:58.65,0:12:03.61,Default,ja,0,0,0,,EC
 Dialogue: 0,0:11:58.65,0:12:03.61,Eyecatch,ko,0,0,0,,카라쿠리 검호전 무사시 로드
 Dialogue: 0,0:11:58.65,0:12:03.61,Eyecatch,en,0,0,0,,Karakuri Kengouden: Musashi Road
-Dialogue: 0,0:11:58.65,0:12:03.61,Eyecatch,,0,0,0,,{\an2}by Subdivers
 Comment: 0,0:12:04.01,0:12:10.36,Default,ja,0,0,0,,????????????????????????? だいすけのかたき討ちに力を～決意したセンヒメは、まつまあい～に協力を依頼した。
 Dialogue: 0,0:12:04.01,0:12:10.36,Default,ko,0,0,0,,다이스케의 복수를 힘을 빌려주기로 한 센히메는 마츠마이 성의 성주에게 협력을 부탁했다.
 Dialogue: 0,0:12:04.01,0:12:10.36,Default,en,0,0,0,,Senhime has decided to help with Daisuke's revenge, and she asked for a help to the feudal lord of Matsumai [?] castle.
