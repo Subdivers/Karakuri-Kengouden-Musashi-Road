@@ -36,7 +36,7 @@ Comment: 0,0:00:00.00,0:00:00.00,SETTINGS,,0,0,0,,complete:false;song:song.*;lan
 Dialogue: 0,0:00:04.19,0:00:06.37,Default,ko,0,0,0,,어지러운 전국 시대.
 Dialogue: 0,0:00:04.19,0:00:06.37,Default,en,0,0,0,,It is the turbulent Sengoku period.
 Dialogue: 0,0:00:06.67,0:00:11.14,Default,ko,0,0,0,,카라쿠리인이 사는 지팡구국에서는 군웅할거하여 밤낮으로 접전이 계속되고
-Dialogue: 0,0:00:06.67,0:00:11.14,Default,en,0,0,0,,Warlords keep on fighting day and night over\Nthe Jipangu State, where Karakuri people live.
+Dialogue: 0,0:00:06.67,0:00:11.14,Default,en,0,0,0,,Warlords keep on fighting day and night over\NJipangu State, where Karakuri people live.
 Dialogue: 0,0:00:11.65,0:00:16.13,Default,ko,0,0,0,,카라쿠리 무예가들도 승리와 영광을 꿈꾸며 맹렬히 싸우고 있었다.
 Dialogue: 0,0:00:11.65,0:00:16.13,Default,en,0,0,0,,Karakuri Martial Artists were sharpening their swords, dreaming of victory and honor.
 Dialogue: 0,0:00:16.65,0:00:23.01,Default,ko,0,0,0,,그리고 지금, 카라쿠리 무예자 제일을 꿈꾸는 터무니없는 영웅이 탄생했다!
@@ -50,46 +50,46 @@ Dialogue: 0,0:00:27.67,0:00:33.01,TitleOP,en,0,0,0,,{\fade(770,0)\fs24}(The Stor
 Dialogue: 0,0:00:33.01,0:00:37.85,SongOP,ko,0,0,0,,사내는 언제나 세계 한가운데서
 Dialogue: 0,0:00:33.01,0:00:37.85,SongOP,en,0,0,0,,A man always dreams of the day
 Dialogue: 0,0:00:38.68,0:00:41.60,SongOP,ko,0,0,0,,제일 강해질 날을
-Dialogue: 0,0:00:38.68,0:00:41.60,SongOP,en,0,0,0,,when he'll become the world's
+Dialogue: 0,0:00:38.68,0:00:41.60,SongOP,en,0,0,0,,in the center of the world to become
 Dialogue: 0,0:00:41.60,0:00:44.48,SongOP,ko,0,0,0,,아! 아! 꿈꿔라
-Dialogue: 0,0:00:41.60,0:00:44.48,SongOP,en,0,0,0,,AH! AH! strongest
+Dialogue: 0,0:00:41.60,0:00:44.48,SongOP,en,0,0,0,,AH! AH! the strongest
 Dialogue: 0,0:00:44.48,0:00:49.53,SongOP,ko,0,0,0,,마음의 칼을 넓은 하늘로 번쩍 쳐들어
-Dialogue: 0,0:00:44.48,0:00:49.53,SongOP,en,0,0,0,,Raise your spirit's sword high to the wide sky
+Dialogue: 0,0:00:44.48,0:00:49.53,SongOP,en,0,0,0,,Raise the sword of your heart high to the wide sky
 Dialogue: 0,0:00:50.15,0:00:54.16,SongOP,ko,0,0,0,,모험의 길의 막을 연다
 Dialogue: 0,0:00:50.15,0:00:54.16,SongOP,en,0,0,0,,Raise the curtain to the road of adventure
 Dialogue: 0,0:00:55.49,0:01:00.75,SongOP,ko,0,0,0,,지팡구국을 떠도는 검호
-Dialogue: 0,0:00:55.49,0:01:00.75,SongOP,en,0,0,0,,A skilled Martial Artist wanders Jipangu Country
+Dialogue: 0,0:00:55.49,0:01:00.75,SongOP,en,0,0,0,,A skilled swordsman roams on Jipangu State
 Dialogue: 0,0:01:01.29,0:01:06.38,SongOP,ko,0,0,0,,그 이름은 카라쿠리인 무사시
 Dialogue: 0,0:01:01.29,0:01:06.38,SongOP,en,0,0,0,,His name is Musashi, a Karakuri man
-Dialogue: 0,0:01:07.88,0:01:10.80,SongOP,ko,0,0,0,,격렬한 칼의 소리가
-Dialogue: 0,0:01:07.88,0:01:10.80,SongOP,en,0,0,0,,An intense clash of swords
+Dialogue: 0,0:01:07.88,0:01:10.80,SongOP,ko,0,0,0,,격렬한 승부의 소리는
+Dialogue: 0,0:01:07.88,0:01:10.80,SongOP,en,0,0,0,,The sound of fierce duels
 Dialogue: 0,0:01:10.80,0:01:13.63,SongOP,ko,0,0,0,,눈부신 인생
 Dialogue: 0,0:01:10.80,0:01:13.63,SongOP,en,0,0,0,,makes life dazzling
 Dialogue: 0,0:01:13.63,0:01:19.10,SongOP,ko,0,0,0,,싸웠던 어제보다도 오늘 강해진다
-Dialogue: 0,0:01:13.63,0:01:19.10,SongOP,en,0,0,0,,Yesterday's battles makes you stronger today
+Dialogue: 0,0:01:13.63,0:01:19.10,SongOP,en,0,0,0,,Battles of yesterdays make you stronger today
 Dialogue: 0,0:01:19.14,0:01:25.35,SongOP,ko,0,0,0,,무예! 이도류 무사시
-Dialogue: 0,0:01:19.14,0:01:25.35,SongOP,en,0,0,0,,Martial Art! Dual Blade Musashi
+Dialogue: 0,0:01:19.14,0:01:25.35,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
 Dialogue: 0,0:01:25.35,0:01:28.31,SongOP,ko,0,0,0,,내일은 빛난다
 Dialogue: 0,0:01:25.35,0:01:28.31,SongOP,en,0,0,0,,Tomorrow will be glorious
-Dialogue: 0,0:01:28.31,0:01:30.82,SongOP,ko,0,0,0,,격렬한 칼의 소리가
-Dialogue: 0,0:01:28.31,0:01:30.82,SongOP,en,0,0,0,,An intense clash of swords
+Dialogue: 0,0:01:28.31,0:01:30.82,SongOP,ko,0,0,0,,격렬한 승부의 소리는
+Dialogue: 0,0:01:28.31,0:01:30.82,SongOP,en,0,0,0,,The sound of fierce duels
 Dialogue: 0,0:01:30.82,0:01:33.32,SongOP,ko,0,0,0,,눈부신 인생
 Dialogue: 0,0:01:30.82,0:01:33.32,SongOP,en,0,0,0,,makes life dazzling
 Dialogue: 0,0:01:34.03,0:01:39.41,SongOP,ko,0,0,0,,싸우는 한껏 고요함과 함께
-Dialogue: 0,0:01:34.03,0:01:39.41,SongOP,en,0,0,0,,Fight your hardest with tranquility
+Dialogue: 0,0:01:34.03,0:01:39.41,SongOP,en,0,0,0,,Fight the utmost with the stillness
 Dialogue: 0,0:01:39.45,0:01:45.67,SongOP,ko,0,0,0,,무예! 이도류 무사시
-Dialogue: 0,0:01:39.45,0:01:45.67,SongOP,en,0,0,0,,Martial Art! Dual Blade Musashi
-Dialogue: 0,0:01:45.67,0:01:50.88,SongOP,ko,0,0,0,,미간이 빛나고 있었다 무사시!!
-Dialogue: 0,0:01:45.67,0:01:50.88,SongOP,en,0,0,0,,Shining brow! Musashi!
+Dialogue: 0,0:01:39.45,0:01:45.67,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
+Dialogue: 0,0:01:45.67,0:01:50.88,SongOP,ko,0,0,0,,미간이 반짝였다 무사시!!
+Dialogue: 0,0:01:45.67,0:01:50.88,SongOP,en,0,0,0,,His eyes shined! Musashi!
 Comment: 0,0:02:00.19,0:02:04.67,Default,ja,0,0,0,,不知火の浜にはまった武蔵は独のためにしびれてしまった。
 Dialogue: 0,0:02:00.19,0:02:04.67,Default,ko,0,0,0,,시라누이의 함정에 빠진 무사시는 독 때문에 마비되고 말았다.
 Dialogue: 0,0:02:00.19,0:02:04.67,Default,en,0,0,0,,Musashi fell into Shiranui's trap, and was paralyzed by poison.
 Comment: 0,0:02:04.98,0:02:10.01,Default,ja,0,0,0,,そしてコジローは愛刀、物干竿を折られ、失意のどん底に。
 Dialogue: 0,0:02:04.98,0:02:10.01,Default,ko,0,0,0,,그리고 코지로는 애도 모노호시자오가 부러져, 실의의 밑바닥으로.
-Dialogue: 0,0:02:04.98,0:02:10.01,Default,en,0,0,0,,And Kojiro got his beloved sword Monohoshizao broken, and fell into the very bottom of despair.
+Dialogue: 0,0:02:04.98,0:02:10.01,Default,en,0,0,0,,And Kojirō got his beloved sword Monohoshizao broken, and fell into the very bottom of despair.
 Comment: 0,0:02:10.79,0:02:14.15,Default,ja,0,0,0,,何とか立ち直らせろうとする武蔵、千姫であったが、
 Dialogue: 0,0:02:10.79,0:02:14.15,Default,ko,0,0,0,,어떻게든 재기시켜 주려는 무사시와 센히메였지만.
-Dialogue: 0,0:02:10.79,0:02:14.15,Default,en,0,0,0,,Musashi and Senhime were trying to recover Kojiro,
+Dialogue: 0,0:02:10.79,0:02:14.15,Default,en,0,0,0,,Musashi and Senhime were trying to recover Kojirō,
 Comment: 0,0:02:14.94,0:02:17.60,Default,ja,0,0,0,,えへ、うまくはいかなかった。
 Dialogue: 0,0:02:14.94,0:02:17.60,Default,ko,0,0,0,,어허, 잘 안 되고 있었다.
 Dialogue: 0,0:02:14.94,0:02:17.60,Default,en,0,0,0,,why, it wasn't working out so well.
@@ -100,10 +100,10 @@ Dialogue: 0,0:02:17.97,0:02:22.98,TitleEP,en,0,0,190,,The Reviving
 Dialogue: 0,0:02:17.97,0:02:22.98,TitleEP,en,0,0,50,,Legendary Sword
 Comment: 0,0:02:33.54,0:02:42.47,Default,ja,0,0,0,,愛刀、物干竿を壊らされてしまったコジローは、まるで魂が抜けたようにおっと、しっぱなしであった。
 Dialogue: 0,0:02:33.54,0:02:42.47,Default,ko,0,0,0,,애도 모노호시자오가 부서진 코지로는 마치 혼이 빠져나간 듯 계속 실연에 빠져 있었다.
-Dialogue: 0,0:02:33.54,0:02:42.47,Default,en,0,0,0,,After having his beloved sword Monohashizao broken, Kojiro was deep in despair, as if his spirit was lost. 
+Dialogue: 0,0:02:33.54,0:02:42.47,Default,en,0,0,0,,After having his beloved sword Monohashizao broken, Kojirō was deep in despair, as if his spirit was lost.
 Comment: 0,0:02:47.54,0:02:48.34,Default,ja,0,0,0,,コジロー？
 Dialogue: 0,0:02:47.54,0:02:48.34,Default,ko,0,0,0,,코지로?
-Dialogue: 0,0:02:47.54,0:02:48.34,Default,en,0,0,0,,Kojiro?
+Dialogue: 0,0:02:47.54,0:02:48.34,Default,en,0,0,0,,Kojirō?
 Comment: 0,0:02:52.62,0:02:53.55,Default,ja,0,0,0,,おいら、いくだす！
 Dialogue: 0,0:02:52.62,0:02:53.55,Default,ko,0,0,0,,나, 가오!
 Dialogue: 0,0:02:52.62,0:02:53.55,Default,en,0,0,0,,I will go-{\i1}dasu{\i0} !
@@ -118,7 +118,7 @@ Dialogue: 0,0:02:59.15,0:03:02.53,Default,ko,0,0,0,,시라누이 일족에게 �
 Dialogue: 0,0:02:59.15,0:03:02.53,Default,en,0,0,0,,It's just like going there just to be killed by Shiranul Clan-{\i1}gowasu{\i0}.
 Comment: 0,0:03:03.12,0:03:11.65,Default,ja,0,0,0,,そんなこと言ってたら何もできないだす！だって、おいら、あんなコジローの姿見てられないだす。
 Dialogue: 0,0:03:03.12,0:03:11.65,Default,ko,0,0,0,,그런 생각을 하면 아무것도 못 하오! 무엇보다도, 나, 저런 코지로를 보고만 있을 수는 없소.
-Dialogue: 0,0:03:03.12,0:03:11.65,Default,en,0,0,0,,With that kind of way of thinking, you can't do anything-{\i1}dasu{\i0}! Most of all, I can't stand seeing Kojiro like that-{\i1}dasu{\i0}!
+Dialogue: 0,0:03:03.12,0:03:11.65,Default,en,0,0,0,,With that kind of way of thinking, you can't do anything-{\i1}dasu{\i0}! Most of all, I can't stand seeing Kojirō like that-{\i1}dasu{\i0}!
 Comment: 0,0:03:12.21,0:03:22.36,Default,ja,0,0,0,,武蔵。お前がドジでクマソンの罠にはまるからこういうことになったのだ。私は嫌だったんだ。
 Dialogue: 0,0:03:12.21,0:03:22.36,Default,ko,0,0,0,,무사시. 네가 바보라서 쿠마손의 함정에 빠져서 이렇게 된 것이다. 난 싫었다.
 Dialogue: 0,0:03:12.21,0:03:22.36,Default,en,0,0,0,,Musashi. This all happened because you're foolish enough to be fallen into Kumason's trap. I did not wanted to join.
@@ -172,7 +172,7 @@ Dialogue: 0,0:04:38.70,0:04:43.39,Default,ko,0,0,0,,무사시. 네 잘못이다.
 Dialogue: 0,0:04:38.70,0:04:43.39,Default,en,0,0,0,,Musashi! It's your fault. Musashi! Musashi!
 Comment: 0,0:04:45.60,0:04:47.60,Default,ja,0,0,0,,コジロー、許してくれだす。。。
 Dialogue: 0,0:04:45.60,0:04:47.60,Default,ko,0,0,0,,코지로, 용서해 주시오...
-Dialogue: 0,0:04:45.60,0:04:47.60,Default,en,0,0,0,,Kojiro, please forgive me-{\i1}dasu{\i0}...
+Dialogue: 0,0:04:45.60,0:04:47.60,Default,en,0,0,0,,Kojirō, please forgive me-{\i1}dasu{\i0}...
 Comment: 0,0:04:51.61,0:04:52.94,Default,ja,0,0,0,,夢だすか。
 Dialogue: 0,0:04:51.61,0:04:52.94,Default,ko,0,0,0,,꿈이었소...
 Dialogue: 0,0:04:51.61,0:04:52.94,Default,en,0,0,0,,It was just a dream-{\i1}dasu{\i0}...
@@ -494,7 +494,7 @@ Dialogue: 0,0:14:57.42,0:15:00.06,Default,ko,0,0,0,,칼을 내려둘 필요는 �
 Dialogue: 0,0:14:57.42,0:15:00.06,Default,en,0,0,0,,There is no need to put your swords down-{\i1}gowasu{\i0}!
 Comment: 0,0:15:02.64,0:15:06.83,Default,ja,0,0,0,,せんちゃん！サイゴーさん！コジロー！どうしてここへ。
 Dialogue: 0,0:15:02.64,0:15:06.83,Default,ko,0,0,0,,센짱! 사이고 씨! 코지로! 어째서 여기에!
-Dialogue: 0,0:15:02.64,0:15:06.83,Default,en,0,0,0,,Sen-chan! Mr. Saigo! Kojiro! How did you get here?!
+Dialogue: 0,0:15:02.64,0:15:06.83,Default,en,0,0,0,,Sen-chan! Mr. Saigo! Kojirō! How did you get here?!
 Comment: 0,0:15:07.16,0:15:09.78,Default,ja,0,0,0,,武蔵一人では心配だからやってきたのよ！
 Dialogue: 0,0:15:07.16,0:15:09.78,Default,ko,0,0,0,,무사시 혼자서는 걱정되니까 왔어!
 Dialogue: 0,0:15:07.16,0:15:09.78,Default,en,0,0,0,,We were worried about you, Musashi, especially since you're alone!
@@ -518,7 +518,7 @@ Dialogue: 0,0:15:33.66,0:15:35.65,Default,ko,0,0,0,,모두 무사시 탓이다.
 Dialogue: 0,0:15:33.66,0:15:35.65,Default,en,0,0,0,,It's all Musashi's fault.
 Comment: 0,0:15:38.11,0:15:43.64,Default,ja,0,0,0,,サイゴー、コジロー、千姫もまとめてあの世へ送ってるとはめでたいことだ。
 Dialogue: 0,0:15:38.11,0:15:43.64,Default,ko,0,0,0,,사이고, 코지로, 센히메도 한꺼번에 저 세상에 보낼 수 있다니 경사스러운 일이로다!
-Dialogue: 0,0:15:38.11,0:15:43.64,Default,en,0,0,0,,Being able to send Saigo, Kojiro, and Senhime along with them to the other world is truly a joyous occasion!
+Dialogue: 0,0:15:38.11,0:15:43.64,Default,en,0,0,0,,Being able to send Saigo, Kojirō, and Senhime along with them to the other world is truly a joyous occasion!
 Comment: 0,0:15:44.17,0:15:46.55,Default,ja,0,0,0,,さあ、こいつらを閉まり上げろ！
 Dialogue: 0,0:15:44.17,0:15:46.55,Default,ko,0,0,0,,자, 저 놈들을 포박해라!
 Dialogue: 0,0:15:44.17,0:15:46.55,Default,en,0,0,0,,Go get them!
@@ -581,10 +581,10 @@ Dialogue: 0,0:16:52.58,0:16:54.36,Default,ko,0,0,0,,봉황환만은 숨겨 두�
 Dialogue: 0,0:16:52.58,0:16:54.36,Default,en,0,0,0,,Hououmaru is hidden and safe.
 Comment: 0,0:16:54.59,0:16:57.93,Default,ja,0,0,0,,よかっただす！ぜひ、コジローに譲ってほしいダス！
 Dialogue: 0,0:16:54.59,0:16:57.93,Default,ko,0,0,0,,잘 됐소! 꼭 코지로에게 양도해 주시면 좋겠소!
-Dialogue: 0,0:16:54.59,0:16:57.93,Default,en,0,0,0,,Great to know-{\i1}dasu{\i0}! I'd like you to give that to Kojiro-{\i1}dasu{\i0}.
+Dialogue: 0,0:16:54.59,0:16:57.93,Default,en,0,0,0,,Great to know-{\i1}dasu{\i0}! I'd like you to give that to Kojirō-{\i1}dasu{\i0}.
 Comment: 0,0:16:58.36,0:17:02.49,Default,ja,0,0,0,,もし、コジロー殿に持つふさわしい能力があれば構わないんですが。
 Dialogue: 0,0:16:58.36,0:17:02.49,Default,ko,0,0,0,,만약 코지로 님에게 가질 자격이 될 능력이 있다면 괜찮습니다만...
-Dialogue: 0,0:16:58.36,0:17:02.49,Default,en,0,0,0,,If Mr. Kojiro has a qualifying capacity to have one, then I can...
+Dialogue: 0,0:16:58.36,0:17:02.49,Default,en,0,0,0,,If Mr. Kojirō has a qualifying capacity to have one, then I can...
 Comment: 0,0:17:02.78,0:17:04.79,Default,ja,0,0,0,,え？その能力とはなんだす？
 Dialogue: 0,0:17:02.78,0:17:04.79,Default,ko,0,0,0,,어? 그 능력이 뭣이오?
 Dialogue: 0,0:17:02.78,0:17:04.79,Default,en,0,0,0,,Huh? What is that capacity-{\i1}dasu{\i0}?
@@ -596,7 +596,7 @@ Dialogue: 0,0:17:13.64,0:17:15.26,Default,ko,0,0,0,,칼이 안 빠지오?
 Dialogue: 0,0:17:13.64,0:17:15.26,Default,en,0,0,0,,The sword's stuck-{\i1}dasu{\i0}...
 Comment: 0,0:17:16.39,0:17:18.33,Default,ja,0,0,0,,もし、コジローが抜けたら大丈夫ダスか？
 Dialogue: 0,0:17:16.39,0:17:18.33,Default,ko,0,0,0,,만약 코지로가 뺄 수 있으면 괜찮소?
-Dialogue: 0,0:17:16.39,0:17:18.33,Default,en,0,0,0,,If Kojiro can pull it out, can he have it-{\i1}dasu{\i0}?
+Dialogue: 0,0:17:16.39,0:17:18.33,Default,en,0,0,0,,If Kojirō can pull it out, can he have it-{\i1}dasu{\i0}?
 Comment: 0,0:17:18.67,0:17:19.86,Default,ja,0,0,0,,それもありますが。。。
 Dialogue: 0,0:17:18.67,0:17:19.86,Default,ko,0,0,0,,그럴 수도 있겠지만...
 Dialogue: 0,0:17:18.67,0:17:19.86,Default,en,0,0,0,,That's possible...
@@ -605,7 +605,7 @@ Dialogue: 0,0:17:24.05,0:17:27.11,Default,ko,0,0,0,,시라누이가 불을 지�
 Dialogue: 0,0:17:24.05,0:17:27.11,Default,en,0,0,0,,Shiranui has set up a fire-{\i1}gowasu{\i0}. Everyone, escape!
 Comment: 0,0:17:30.44,0:17:31.71,Default,ja,0,0,0,,コジロー！早く！
 Dialogue: 0,0:17:30.44,0:17:31.71,Default,ko,0,0,0,,코지로! 어서!
-Dialogue: 0,0:17:30.44,0:17:31.71,Default,en,0,0,0,,Kojiro! Hurry!
+Dialogue: 0,0:17:30.44,0:17:31.71,Default,en,0,0,0,,Kojirō! Hurry!
 Comment: 0,0:17:44.86,0:17:46.27,Default,ja,0,0,0,,助かったダス。
 Dialogue: 0,0:17:44.86,0:17:46.27,Default,ko,0,0,0,,살았소...
 Dialogue: 0,0:17:44.86,0:17:46.27,Default,en,0,0,0,,We live-{\i1}dasu{\i0}...
@@ -620,7 +620,7 @@ Dialogue: 0,0:18:07.60,0:18:09.16,Default,ko,0,0,0,,아, 지쳤다.
 Dialogue: 0,0:18:07.60,0:18:09.16,Default,en,0,0,0,,I'm tired.
 Comment: 0,0:18:10.02,0:18:11.21,Default,ja,0,0,0,,コジローったら。
 Dialogue: 0,0:18:10.02,0:18:11.21,Default,ko,0,0,0,,코지로도 참...
-Dialogue: 0,0:18:10.02,0:18:11.21,Default,en,0,0,0,,Kojiro...
+Dialogue: 0,0:18:10.02,0:18:11.21,Default,en,0,0,0,,Kojirō...
 Comment: 0,0:18:11.73,0:18:13.03,Default,ja,0,0,0,,鳳凰丸はどこだすか！
 Dialogue: 0,0:18:11.73,0:18:13.03,Default,ko,0,0,0,,봉황환은 어디 있소!
 Dialogue: 0,0:18:11.73,0:18:13.03,Default,en,0,0,0,,Where is Hououmaru-{\i1}dasu{\i0}?!
@@ -656,7 +656,7 @@ Dialogue: 0,0:19:26.19,0:19:27.24,Default,ko,0,0,0,,조심하시오!
 Dialogue: 0,0:19:26.19,0:19:27.24,Default,en,0,0,0,,Watch out-{\i1}dasu{\i0}!
 Comment: 0,0:19:44.03,0:19:46.15,Default,ja,0,0,0,,いつものびびしいコジローに戻ったわ！
 Dialogue: 0,0:19:44.03,0:19:46.15,Default,ko,0,0,0,,원래의 화려하고 아름다운 코지로로 돌아왔어!
-Dialogue: 0,0:19:44.03,0:19:46.15,Default,en,0,0,0,,Kojiro's back to his original beautiful look!
+Dialogue: 0,0:19:44.03,0:19:46.15,Default,en,0,0,0,,Kojirō's back to his original beautiful look!
 Comment: 0,0:19:52.38,0:19:53.94,Default,ja,0,0,0,,鳳凰丸が抜けたダス！
 Dialogue: 0,0:19:52.38,0:19:53.94,Default,ko,0,0,0,,봉황환이 빠졌소!
 Dialogue: 0,0:19:52.38,0:19:53.94,Default,en,0,0,0,,He pulled out Hououmaru-{\i1}dasu{\i0}!
@@ -665,13 +665,13 @@ Dialogue: 0,0:19:58.14,0:20:00.70,Default,ko,0,0,0,,시라누이 요술 이카�
 Dialogue: 0,0:19:58.14,0:20:00.70,Default,en,0,0,0,,Shiranui Magic, Ikazuchi Shell!
 Comment: 0,0:20:03.25,0:20:04.70,Default,ja,0,0,0,,コジロー！危ないダス！
 Dialogue: 0,0:20:03.25,0:20:04.70,Default,ko,0,0,0,,코지로! 위험하오!
-Dialogue: 0,0:20:03.25,0:20:04.70,Default,en,0,0,0,,Kojiro! Watch out-{\i1}dasu{\i0}!
+Dialogue: 0,0:20:03.25,0:20:04.70,Default,en,0,0,0,,Kojirō! Watch out-{\i1}dasu{\i0}!
 Comment: 0,0:20:08.83,0:20:10.32,Default,ja,0,0,0,,な、なんとしたのだ！
 Dialogue: 0,0:20:08.83,0:20:10.32,Default,ko,0,0,0,,뭐, 뭔 짓이냐!
 Dialogue: 0,0:20:08.83,0:20:10.32,Default,en,0,0,0,,W- what are you doing?!
 Comment: 0,0:20:54.77,0:20:57.39,Default,ja,0,0,0,,あ、気が付いたわ！コジロー、大丈夫？
 Dialogue: 0,0:20:54.77,0:20:57.39,Default,ko,0,0,0,,정신 차렸어! 코지로, 괜찮아?
-Dialogue: 0,0:20:54.77,0:20:57.39,Default,en,0,0,0,,He woke up! Kojiro, are you alright?
+Dialogue: 0,0:20:54.77,0:20:57.39,Default,en,0,0,0,,He woke up! Kojirō, are you alright?
 Comment: 0,0:20:57.85,0:20:58.80,Default,ja,0,0,0,,よかっただす！
 Dialogue: 0,0:20:57.85,0:20:58.80,Default,ko,0,0,0,,잘 됐소!
 Dialogue: 0,0:20:57.85,0:20:58.80,Default,en,0,0,0,,What a relief-{\i1}dasu{\i0}!
@@ -687,7 +687,7 @@ Dialogue: 0,0:21:05.96,0:21:12.24,Default,en,0,0,0,,The legends of Amakusa Islan
 Dialogue: 0,0:21:12.24,0:21:16.66,Default,en,0,0,0,,make the Golden Bird appear will take Hououmaru.
 Comment: 0,0:21:17.28,0:21:21.40,Default,ja,0,0,0,,だから、コジローさん、あなたに改めて鳳凰丸を差し上げましょう。
 Dialogue: 0,0:21:17.28,0:21:21.40,Default,ko,0,0,0,,그러니까 코지로 씨, 당신에게 이 봉황환을 드리겠습니다.
-Dialogue: 0,0:21:17.28,0:21:21.40,Default,en,0,0,0,,So, Mr. Kojiro, you can have this Hououmaru.
+Dialogue: 0,0:21:17.28,0:21:21.40,Default,en,0,0,0,,So, Mr. Kojirō, you can have this Hououmaru.
 Comment: 0,0:21:23.50,0:21:24.86,Default,ja,0,0,0,,ありがたき幸せ。
 Dialogue: 0,0:21:23.50,0:21:24.86,Default,ko,0,0,0,,정말 감사합니다.
 Dialogue: 0,0:21:23.50,0:21:24.86,Default,en,0,0,0,,Thank you so much.
@@ -696,13 +696,13 @@ Dialogue: 0,0:21:25.20,0:21:30.48,Default,ko,0,0,0,,다만 황금의 새가 나�
 Dialogue: 0,0:21:25.20,0:21:30.48,Default,en,0,0,0,,But when the Golden Bird appears, be prepared to exhaust your mental powers.
 Comment: 0,0:21:30.76,0:21:39.30,Default,ja,0,0,0,,わかりました。このコジロー、世のため、人のため、ひいては千姫のために、この鳳凰丸に役立たずって見せましょう。
 Dialogue: 0,0:21:30.76,0:21:39.30,Default,ko,0,0,0,,알겠습니다. 이 코지로, 세상을 위해, 사람을 위해, 나아가서는 센히메를 위해, 이 봉황환에 걸맞는 모습을 보여드리겠습니다.
-Dialogue: 0,0:21:30.76,0:21:39.30,Default,en,0,0,0,,Understood. I, Kojiro, will live up to Hououmaru, not only for the world and for the people, but also for Senhime.
+Dialogue: 0,0:21:30.76,0:21:39.30,Default,en,0,0,0,,Understood. I, Kojirō, will live up to Hououmaru, not only for the world and for the people, but also for Senhime.
 Comment: 0,0:21:39.83,0:21:42.51,Default,ja,0,0,0,,あら、まだ気障に決めちゃって。
 Dialogue: 0,0:21:39.83,0:21:42.51,Default,ko,0,0,0,,어라, 또 잘난 척 시작했소.
 Dialogue: 0,0:21:39.83,0:21:42.51,Default,en,0,0,0,,Hey, he began acting cool again-{\i1}dasu{\i0}.
 Comment: 0,0:21:43.27,0:21:46.28,Default,ja,0,0,0,,でも、そのほうが落ち込んでるコジローよりいいダスな。
 Dialogue: 0,0:21:43.27,0:21:46.28,Default,ko,0,0,0,,그래도 그 쪽이 침울한 코지로보다는 낫소!
-Dialogue: 0,0:21:43.27,0:21:46.28,Default,en,0,0,0,,But that's still better than depressed Kojiro-{\i1}dasu{\i0}!
+Dialogue: 0,0:21:43.27,0:21:46.28,Default,en,0,0,0,,But that's still better than depressed Kojirō-{\i1}dasu{\i0}!
 Comment: 0,0:21:50.01,0:21:50.72,Default,ja,0,0,0,,本当。
 Dialogue: 0,0:21:50.01,0:21:50.72,Default,ko,0,0,0,,정말.
 Dialogue: 0,0:21:50.01,0:21:50.72,Default,en,0,0,0,,Agreed!

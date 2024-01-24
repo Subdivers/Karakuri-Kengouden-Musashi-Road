@@ -34,7 +34,7 @@ Comment: 0,0:00:00.00,0:00:00.00,SETTINGS,,0,0,0,,complete:false;song:song.*;lan
 Dialogue: 0,0:00:04.38,0:00:06.54,Default,ko,0,0,0,,어지러운 전국 시대.
 Dialogue: 0,0:00:04.38,0:00:06.54,Default,en,0,0,0,,It is the turbulent Sengoku period.
 Dialogue: 0,0:00:07.08,0:00:11.49,Default,ko,0,0,0,,카라쿠리인이 사는 지팡구국에서는 군웅할거하여 밤낮으로 접전이 계속되고
-Dialogue: 0,0:00:07.08,0:00:11.49,Default,en,0,0,0,,Warlords keep on fighting day and night over\Nthe Jipangu State, where Karakuri people live.
+Dialogue: 0,0:00:07.08,0:00:11.49,Default,en,0,0,0,,Warlords keep on fighting day and night over\NJipangu State, where Karakuri people live.
 Dialogue: 0,0:00:11.84,0:00:16.20,Default,ko,0,0,0,,카라쿠리 무예가들도 승리와 영광을 꿈꾸며 맹렬히 싸우고 있었다.
 Dialogue: 0,0:00:11.84,0:00:16.20,Default,en,0,0,0,,Karakuri Martial Artists were sharpening their swords, dreaming of victory and honor.
 Dialogue: 0,0:00:16.83,0:00:23.15,Default,ko,0,0,0,,그리고 지금, 카라쿠리 무예자 제일을 꿈꾸는 터무니없는 영웅이 탄생했다!
@@ -48,37 +48,37 @@ Dialogue: 0,0:00:27.86,0:00:33.20,TitleOP,en,0,0,0,,{\fade(770,0)\fs24}(The Stor
 Dialogue: 0,0:00:33.20,0:00:38.04,SongOP,ko,0,0,0,,사내는 언제나 세계 한가운데서
 Dialogue: 0,0:00:33.20,0:00:38.04,SongOP,en,0,0,0,,A man always dreams of the day
 Dialogue: 0,0:00:38.87,0:00:41.79,SongOP,ko,0,0,0,,제일 강해질 날을
-Dialogue: 0,0:00:38.87,0:00:41.79,SongOP,en,0,0,0,,when he'll become the world's
+Dialogue: 0,0:00:38.87,0:00:41.79,SongOP,en,0,0,0,,in the center of the world to become
 Dialogue: 0,0:00:41.79,0:00:44.67,SongOP,ko,0,0,0,,아! 아! 꿈꿔라
-Dialogue: 0,0:00:41.79,0:00:44.67,SongOP,en,0,0,0,,AH! AH! strongest
+Dialogue: 0,0:00:41.79,0:00:44.67,SongOP,en,0,0,0,,AH! AH! the strongest
 Dialogue: 0,0:00:44.67,0:00:49.72,SongOP,ko,0,0,0,,마음의 칼을 넓은 하늘로 번쩍 쳐들어
-Dialogue: 0,0:00:44.67,0:00:49.72,SongOP,en,0,0,0,,Raise your spirit's sword high to the wide sky
+Dialogue: 0,0:00:44.67,0:00:49.72,SongOP,en,0,0,0,,Raise the sword of your heart high to the wide sky
 Dialogue: 0,0:00:50.34,0:00:54.35,SongOP,ko,0,0,0,,모험의 길의 막을 연다
 Dialogue: 0,0:00:50.34,0:00:54.35,SongOP,en,0,0,0,,Raise the curtain to the road of adventure
 Dialogue: 0,0:00:55.68,0:01:00.94,SongOP,ko,0,0,0,,지팡구국을 떠도는 검호
-Dialogue: 0,0:00:55.68,0:01:00.94,SongOP,en,0,0,0,,A skilled Martial Artist wanders Jipangu Country
+Dialogue: 0,0:00:55.68,0:01:00.94,SongOP,en,0,0,0,,A skilled swordsman roams on Jipangu State
 Dialogue: 0,0:01:01.52,0:01:06.57,SongOP,ko,0,0,0,,그 이름은 카라쿠리인 무사시
 Dialogue: 0,0:01:01.52,0:01:06.57,SongOP,en,0,0,0,,His name is Musashi, a Karakuri man
-Dialogue: 0,0:01:08.07,0:01:10.99,SongOP,ko,0,0,0,,격렬한 칼의 소리가
-Dialogue: 0,0:01:08.07,0:01:10.99,SongOP,en,0,0,0,,An intense clash of swords
+Dialogue: 0,0:01:08.07,0:01:10.99,SongOP,ko,0,0,0,,격렬한 승부의 소리는
+Dialogue: 0,0:01:08.07,0:01:10.99,SongOP,en,0,0,0,,The sound of fierce duels
 Dialogue: 0,0:01:10.99,0:01:13.83,SongOP,ko,0,0,0,,눈부신 인생
 Dialogue: 0,0:01:10.99,0:01:13.83,SongOP,en,0,0,0,,makes life dazzling
 Dialogue: 0,0:01:13.83,0:01:19.29,SongOP,ko,0,0,0,,싸웠던 어제보다도 오늘 강해진다
-Dialogue: 0,0:01:13.83,0:01:19.29,SongOP,en,0,0,0,,Yesterday's battles makes you stronger today
+Dialogue: 0,0:01:13.83,0:01:19.29,SongOP,en,0,0,0,,Battles of yesterdays make you stronger today
 Dialogue: 0,0:01:19.33,0:01:25.55,SongOP,ko,0,0,0,,무예! 이도류 무사시
-Dialogue: 0,0:01:19.33,0:01:25.55,SongOP,en,0,0,0,,Martial Art! Dual Blade Musashi
+Dialogue: 0,0:01:19.33,0:01:25.55,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
 Dialogue: 0,0:01:25.55,0:01:28.43,SongOP,ko,0,0,0,,내일은 빛난다
 Dialogue: 0,0:01:25.55,0:01:28.43,SongOP,en,0,0,0,,Tomorrow will be glorious
-Dialogue: 0,0:01:28.43,0:01:31.01,SongOP,ko,0,0,0,,격렬한 칼의 소리가
-Dialogue: 0,0:01:28.43,0:01:31.01,SongOP,en,0,0,0,,An intense clash of swords
+Dialogue: 0,0:01:28.43,0:01:31.01,SongOP,ko,0,0,0,,격렬한 승부의 소리는
+Dialogue: 0,0:01:28.43,0:01:31.01,SongOP,en,0,0,0,,The sound of fierce duels
 Dialogue: 0,0:01:31.01,0:01:33.51,SongOP,ko,0,0,0,,눈부신 인생
 Dialogue: 0,0:01:31.01,0:01:33.51,SongOP,en,0,0,0,,makes life dazzling
 Dialogue: 0,0:01:34.22,0:01:39.60,SongOP,ko,0,0,0,,싸우는 한껏 고요함과 함께
-Dialogue: 0,0:01:34.22,0:01:39.60,SongOP,en,0,0,0,,Fight your hardest with tranquility
+Dialogue: 0,0:01:34.22,0:01:39.60,SongOP,en,0,0,0,,Fight the utmost with the stillness
 Dialogue: 0,0:01:39.65,0:01:45.86,SongOP,ko,0,0,0,,무예! 이도류 무사시
-Dialogue: 0,0:01:39.65,0:01:45.86,SongOP,en,0,0,0,,Martial Art! Dual Blade Musashi
-Dialogue: 0,0:01:45.86,0:01:51.07,SongOP,ko,0,0,0,,미간이 빛나고 있었다 무사시!!
-Dialogue: 0,0:01:45.86,0:01:51.07,SongOP,en,0,0,0,,Shining brow! Musashi!
+Dialogue: 0,0:01:39.65,0:01:45.86,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
+Dialogue: 0,0:01:45.86,0:01:51.07,SongOP,ko,0,0,0,,미간이 반짝였다 무사시!!
+Dialogue: 0,0:01:45.86,0:01:51.07,SongOP,en,0,0,0,,His eyes shined! Musashi!
 Comment: 0,0:02:01.31,0:02:08.54,Default,ja,0,0,0,,恒例のジパング武芸大会に出場したムサシは、前回とは打って変わって快調に勝ち進む。
 Dialogue: 0,0:02:01.31,0:02:08.54,Default,ko,0,0,0,,향례 지팡구 무예 대회에 출전한 무사시는 이전 대회와는 돌변해서 쾌조의 연승을 한다.
 Dialogue: 0,0:02:01.31,0:02:08.54,Default,en,0,0,0,,Joining the annual Jipangu Maritial Arts Competition, Musashi keeps winning, changed completely from the previous one.
@@ -105,7 +105,7 @@ Dialogue: 0,0:02:51.95,0:02:54.37,Default,ko,0,0,0,,내일은 드디어 준결�
 Dialogue: 0,0:02:51.95,0:02:54.37,Default,en,0,0,0,,Finally, you have semi-finals tomorrow!
 Comment: 0,0:02:54.37,0:02:57.89,Default,ja,0,0,0,,そうダス。いよいよあのコジローと戦う時が来たダス。
 Dialogue: 0,0:02:54.37,0:02:57.89,Default,ko,0,0,0,,그렇소. 드디어 그 코지로하고 싸울 때가 왔소!
-Dialogue: 0,0:02:54.37,0:02:57.89,Default,en,0,0,0,,Right-{\i1}dasu{\i0}. It's finally time to fight that Kojiro-{\i1}dasu{\i0}!
+Dialogue: 0,0:02:54.37,0:02:57.89,Default,en,0,0,0,,Right-{\i1}dasu{\i0}. It's finally time to fight that Kojirō-{\i1}dasu{\i0}!
 Comment: 0,0:02:58.54,0:03:06.27,Default,ja,0,0,0,,頑張ってね、ムサシさん。あたしはお店があるから応援にいけないけど、心の中でずっと祈りしてるわ。
 Dialogue: 0,0:02:58.54,0:03:06.27,Default,ko,0,0,0,,힘내, 무사시 씨. 난 가게 일이 있으니까 응원하러는 못 가지만 마음속으로는 계속 빌고 있어.
 Dialogue: 0,0:02:58.54,0:03:06.27,Default,en,0,0,0,,Go for it, Mr. Musashi! I have to work in the store and I can't go cheer for you, but I'm still wishing for your victory!
@@ -216,10 +216,10 @@ Dialogue: 0,0:05:22.89,0:05:28.42,Default,ko,0,0,0,,빨강 코너, 98번 이천�
 Dialogue: 0,0:05:22.89,0:05:28.42,Default,en,0,0,0,,Red corner: #98 Nitenichiryu Musashi!
 Comment: 0,0:05:30.35,0:05:36.67,Default,ja,0,0,0,,白コーナー、99本のがんりゅう、ミスターコジロー！
 Dialogue: 0,0:05:30.35,0:05:36.67,Default,ko,0,0,0,,하양 코너, 99번 간류 미스터 코지로!
-Dialogue: 0,0:05:30.35,0:05:36.67,Default,en,0,0,0,,White corner: #99 Ganryu Mister Kojiro!
+Dialogue: 0,0:05:30.35,0:05:36.67,Default,en,0,0,0,,White corner: #99 Ganryu Mister Kojirō!
 Comment: 0,0:05:39.80,0:05:43.68,Default,ja,0,0,0,,コジロー様！・ムサシさん！
 Dialogue: 0,0:05:39.80,0:05:43.68,Default,ko,0,0,0,,-코지로 님!\N-무사시 씨!
-Dialogue: 0,0:05:39.80,0:05:43.68,Default,en,0,0,0,,-Mr. Kojiro!\N-Mr. Musashi!
+Dialogue: 0,0:05:39.80,0:05:43.68,Default,en,0,0,0,,-Mr. Kojirō!\N-Mr. Musashi!
 Comment: 0,0:05:44.49,0:05:50.52,Default,ja,0,0,0,,私が勝ってお前が負けても、お前が負けて私が勝っても、いい試合をしような、ムサシ。
 Dialogue: 0,0:05:44.49,0:05:50.52,Default,ko,0,0,0,,내가 이기고 네가 져도, 네가 지고 내가 이겨도 좋은 경기를 하자꾸나, 무사시.
 Dialogue: 0,0:05:44.49,0:05:50.52,Default,en,0,0,0,,Even if I win and you lose, or you lose and I win, let's have a good match, Musashi.
@@ -291,7 +291,7 @@ Dialogue: 0,0:07:44.83,0:07:48.67,Default,ko,0,0,0,,{\i1}제기랄. 마왕 놈. 
 Dialogue: 0,0:07:44.83,0:07:48.67,Default,en,0,0,0,,{\i1}Damn you, you Maoh. You'll regret this.
 Comment: 0,0:07:56.62,0:08:00.90,Default,ja,0,0,0,,やれ、ムサシ！にせんげん！コジローも早く！
 Dialogue: 0,0:07:56.62,0:08:00.90,Default,ko,0,0,0,,{\an8}가라, 무사시! 때려버려! 코지로도 어서!
-Dialogue: 0,0:07:56.62,0:08:00.90,Default,en,0,0,0,,{\an8}Go for it, Musashi! Hit him! Kojiro, you too!
+Dialogue: 0,0:07:56.62,0:08:00.90,Default,en,0,0,0,,{\an8}Go for it, Musashi! Hit him! Kojirō, you too!
 Comment: 0,0:07:55.91,0:08:00.96,Default,ja,0,0,0,,これはすごい様態！～あず、爆熱なバトルが繰り広げられています！
 Dialogue: 0,0:07:55.91,0:08:00.96,Default,ko,0,0,0,,이건 대단한 상태! 박력 가득한 배틀입니다!
 Dialogue: 0,0:07:55.91,0:08:00.96,Default,en,0,0,0,,That is awesome! It's a battle full of force!
@@ -327,7 +327,7 @@ Dialogue: 0,0:08:46.53,0:08:49.75,Default,ko,0,0,0,,그런! 우리 승부 아직
 Dialogue: 0,0:08:46.53,0:08:49.75,Default,en,0,0,0,,No way! Our match is not over-{\i1}dasu{\i0}!
 Comment: 0,0:08:49.75,0:08:54.26,Default,ja,0,0,0,,問答無用だ！ムサシ、コジロー！ジュウベエとともによについってもえ。
 Dialogue: 0,0:08:49.75,0:08:54.26,Default,ko,0,0,0,,문답무용이다! 무사시, 코지로, 쥬베하고 함께 따라와라.
-Dialogue: 0,0:08:49.75,0:08:54.26,Default,en,0,0,0,,No questions asked! Musashi, Kojiro, follow me with Jube.
+Dialogue: 0,0:08:49.75,0:08:54.26,Default,en,0,0,0,,No questions asked! Musashi, Kojirō, follow me with Jube.
 Comment: 0,0:08:54.54,0:08:55.90,Default,ja,0,0,0,,ああ！イエヤス様！
 Dialogue: 0,0:08:54.54,0:08:55.90,Default,ko,0,0,0,,이에야스 님!
 Dialogue: 0,0:08:54.54,0:08:55.90,Default,en,0,0,0,,Lord Ieyasu!
@@ -357,7 +357,7 @@ Dialogue: 0,0:09:17.02,0:09:17.55,Default,ko,0,0,0,,어?
 Dialogue: 0,0:09:17.02,0:09:17.55,Default,en,0,0,0,,Huh?
 Comment: 0,0:09:17.55,0:09:21.20,Default,ja,0,0,0,,あのハンゾウが今度は、ジパング国王の宝を狙っているんだす。
 Dialogue: 0,0:09:17.55,0:09:21.20,Default,ko,0,0,0,,그 한조가 이번엔 지팡구국의 보물을 노리고 있소.
-Dialogue: 0,0:09:17.55,0:09:21.20,Default,en,0,0,0,,That Hanzo is looking to steal the treasures of Jipangu country this time-{\i1}dasu{\i0}.
+Dialogue: 0,0:09:17.55,0:09:21.20,Default,en,0,0,0,,That Hanzo is looking to steal the treasures of Jipangu State this time-{\i1}dasu{\i0}.
 Comment: 0,0:09:21.20,0:09:26.69,Default,ja,0,0,0,,おかげでおいら、今夜から泊まり込みで、シロの警備をすることになってしまっただス。
 Dialogue: 0,0:09:21.20,0:09:26.69,Default,ko,0,0,0,,덕분에 나, 오늘밤부터 성에 묵으며 성 경비를 하게 되었소.
 Dialogue: 0,0:09:21.20,0:09:26.69,Default,en,0,0,0,,Because of that, I have to stay in the castle from this night and do a guard duty-{\i1}dasu{\i0}.
@@ -494,7 +494,7 @@ Dialogue: 0,0:12:29.35,0:12:30.43,Default,en,0,0,0,,This is it.
 Comment: 0,0:12:32.57,0:12:40.13,Default,ja,0,0,0,,もの剣のほかに、勾玉と縦があり、その三つを持つものがこのジパング国の国王となれるのです。
 Dialogue: 0,0:12:32.57,0:12:40.13,Default,ko,0,0,0,,이 검 외에도 곡옥과 방패가 있어, 그 셋을 가진 자가 이 지팡구국의 국왕이 됩니다.
 Dialogue: 0,0:12:32.57,0:12:36.05,Default,en,0,0,0,,Other than this sword, there exist the round jewel and the sword.
-Dialogue: 0,0:12:36.05,0:12:40.13,Default,en,0,0,0,,The one to have all three of them becomes the king of Jipangu country.
+Dialogue: 0,0:12:36.05,0:12:40.13,Default,en,0,0,0,,The one to have all three of them becomes the king of Jipangu State.
 Comment: 0,0:12:41.02,0:12:47.06,Default,ja,0,0,0,,との！～でございます。エドトピア湾から巨大な、城のようなものが現れました！
 Dialogue: 0,0:12:41.02,0:12:47.06,Default,ko,0,0,0,,영주님! 큰일입니다. 에도토피아 만에 거대한 성같은 것이 나타났습니다!
 Dialogue: 0,0:12:41.02,0:12:47.06,Default,en,0,0,0,,Lord! We have a problem! Something giant that looks like a castle has appeared at Edotopia Bay!
@@ -635,7 +635,7 @@ Dialogue: 0,0:17:32.31,0:17:38.14,Default,ko,0,0,0,,아니, 이 에도 성이 �
 Dialogue: 0,0:17:32.31,0:17:38.14,Default,en,0,0,0,,No. If this Edo Castle gets destroyed, there is no more safe place.
 Comment: 0,0:17:38.14,0:17:41.06,Default,ja,0,0,0,,ああ、ムサシ、コジロー！早く来て！
 Dialogue: 0,0:17:38.14,0:17:41.06,Default,ko,0,0,0,,아, 무사시, 코지로, 어서 와!
-Dialogue: 0,0:17:38.14,0:17:41.06,Default,en,0,0,0,,Musashi, Kojiro, hurry up and come!
+Dialogue: 0,0:17:38.14,0:17:41.06,Default,en,0,0,0,,Musashi, Kojirō, hurry up and come!
 Comment: 0,0:17:43.02,0:17:47.00,Default,ja,0,0,0,,さあ、ぶっちつぶされたくなかったら、おとなしく聖剣を渡すのだ！
 Dialogue: 0,0:17:43.02,0:17:47.00,Default,ko,0,0,0,,자, 부서지고 싶지 않으면 순순히 성검을 넘겨라!
 Dialogue: 0,0:17:43.02,0:17:47.00,Default,en,0,0,0,,If you don't want to have your castle destroyed, then hand over the sacred sword!
@@ -791,7 +791,7 @@ Dialogue: 0,0:21:45.56,0:21:48.85,Default,ko,0,0,0,,아니아니, 그만하시�
 Dialogue: 0,0:21:45.56,0:21:48.85,Default,en,0,0,0,,No, no, stop it-{\i1}dasu{\i0}! Stop it-{\i1}dasu{\i0}!
 Comment: 0,0:21:50.02,0:21:54.02,Default,ja,0,0,0,,さあ、コジローさんたち、おなかすいたでしょ？お団子食べてください。
 Dialogue: 0,0:21:50.02,0:21:54.02,Default,ko,0,0,0,,자, 코지로 씨하고 여러분, 배고프시죠? 단고 드세요.
-Dialogue: 0,0:21:50.02,0:21:54.02,Default,en,0,0,0,,Now, Mr. Kojiro and everyone, you must be hungry! Have some dangos.
+Dialogue: 0,0:21:50.02,0:21:54.02,Default,en,0,0,0,,Now, Mr. Kojirō and everyone, you must be hungry! Have some dangos.
 Comment: 0,0:21:54.02,0:21:55.51,Default,ja,0,0,0,,あ、はい、いただきます。
 Dialogue: 0,0:21:54.02,0:21:55.51,Default,ko,0,0,0,,아, 예, 잘 먹겠습니다.
 Dialogue: 0,0:21:54.02,0:21:55.51,Default,en,0,0,0,,Oh, right, thank you!

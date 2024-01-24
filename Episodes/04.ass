@@ -38,7 +38,7 @@ Comment: 0,0:00:00.00,0:00:00.00,SETTINGS,,0,0,0,,complete:false;song:song.*;lan
 Dialogue: 0,0:00:04.20,0:00:06.35,Default,ko,0,0,0,,어지러운 전국 시대.
 Dialogue: 0,0:00:04.20,0:00:06.35,Default,en,0,0,0,,It is the turbulent Sengoku period.
 Dialogue: 0,0:00:06.72,0:00:11.54,Default,ko,0,0,0,,카라쿠리인이 사는 지팡구국에서는 군웅할거하여 밤낮으로 접전이 계속되고
-Dialogue: 0,0:00:06.72,0:00:11.54,Default,en,0,0,0,,Warlords keep on fighting day and night over\Nthe Jipangu State, where Karakuri people live.
+Dialogue: 0,0:00:06.72,0:00:11.54,Default,en,0,0,0,,Warlords keep on fighting day and night over\NJipangu State, where Karakuri people live.
 Dialogue: 0,0:00:11.54,0:00:16.49,Default,ko,0,0,0,,카라쿠리 무예가들도 승리와 영광을 꿈꾸며 맹렬히 싸우고 있었다.
 Dialogue: 0,0:00:11.54,0:00:16.49,Default,en,0,0,0,,Karakuri Martial Artists were sharpening their swords, dreaming of victory and honor.
 Dialogue: 0,0:00:16.49,0:00:23.22,Default,ko,0,0,0,,그리고 지금, 카라쿠리 무예자 제일을 꿈꾸는 터무니없는 영웅이 탄생했다!
@@ -50,39 +50,39 @@ Dialogue: 0,0:00:27.81,0:00:32.99,TitleOP,en,0,0,90,,{\an8\fs32}Karakuri Kengoud
 Dialogue: 0,0:00:27.81,0:00:32.99,TitleOP,en,0,0,48,,Musashi Road
 Dialogue: 0,0:00:27.81,0:00:32.99,TitleOP,en,0,0,0,,{\fs24}(The Story of {\i1}Karakuri{\i0} Martial Artist: Road of Musashi)
 Dialogue: 0,0:00:32.97,0:00:37.80,SongOP,ko,0,0,0,,사내는 언제나 세계 한가운데서
-Dialogue: 0,0:00:32.97,0:00:37.80,SongOP,en,0,0,0,,A man always dreams of a day
+Dialogue: 0,0:00:32.97,0:00:37.80,SongOP,en,0,0,0,,A man always dreams of the day
 Dialogue: 0,0:00:38.64,0:00:41.56,SongOP,ko,0,0,0,,제일 강해질 날을
 Dialogue: 0,0:00:38.64,0:00:41.56,SongOP,en,0,0,0,,in the center of the world to become
 Dialogue: 0,0:00:41.56,0:00:44.44,SongOP,ko,0,0,0,,아! 아! 꿈꿔라
 Dialogue: 0,0:00:41.56,0:00:44.44,SongOP,en,0,0,0,,AH! AH! the strongest
 Dialogue: 0,0:00:44.44,0:00:49.48,SongOP,ko,0,0,0,,마음의 칼을 넓은 하늘로 번쩍 쳐들어
-Dialogue: 0,0:00:44.44,0:00:49.48,SongOP,en,0,0,0,,Raise the sword of spirit high to the wide sky
+Dialogue: 0,0:00:44.44,0:00:49.48,SongOP,en,0,0,0,,Raise the sword of your heart high to the wide sky
 Dialogue: 0,0:00:50.11,0:00:54.11,SongOP,ko,0,0,0,,모험의 길의 막을 연다
 Dialogue: 0,0:00:50.11,0:00:54.11,SongOP,en,0,0,0,,Raise the curtain to the road of adventure
 Dialogue: 0,0:00:55.45,0:01:00.70,SongOP,ko,0,0,0,,지팡구국을 떠도는 검호
-Dialogue: 0,0:00:55.45,0:01:00.70,SongOP,en,0,0,0,,A skilled Martial Artist wanders Jipangu Country
+Dialogue: 0,0:00:55.45,0:01:00.70,SongOP,en,0,0,0,,A skilled swordsman roams on Jipangu State
 Dialogue: 0,0:01:01.29,0:01:06.33,SongOP,ko,0,0,0,,그 이름은 카라쿠리인 무사시
-Dialogue: 0,0:01:01.29,0:01:06.33,SongOP,en,0,0,0,,His name is Musashi, a Karakuri Man
-Dialogue: 0,0:01:07.83,0:01:10.75,SongOP,ko,0,0,0,,격렬한 칼의 소리가
-Dialogue: 0,0:01:07.83,0:01:10.75,SongOP,en,0,0,0,,Intense clash of swords
+Dialogue: 0,0:01:01.29,0:01:06.33,SongOP,en,0,0,0,,His name is Musashi, a Karakuri man
+Dialogue: 0,0:01:07.83,0:01:10.75,SongOP,ko,0,0,0,,격렬한 승부의 소리는
+Dialogue: 0,0:01:07.83,0:01:10.75,SongOP,en,0,0,0,,The sound of fierce duels
 Dialogue: 0,0:01:10.75,0:01:13.59,SongOP,ko,0,0,0,,눈부신 인생
 Dialogue: 0,0:01:10.75,0:01:13.59,SongOP,en,0,0,0,,makes a life dazzle
 Dialogue: 0,0:01:13.59,0:01:19.05,SongOP,ko,0,0,0,,싸웠던 어제보다도 오늘 강해진다
-Dialogue: 0,0:01:13.59,0:01:19.05,SongOP,en,0,0,0,,Fight yesterday and become stronger today
+Dialogue: 0,0:01:13.59,0:01:19.05,SongOP,en,0,0,0,,Battles of yesterdays make you stronger today
 Dialogue: 0,0:01:19.10,0:01:25.31,SongOP,ko,0,0,0,,무예! 이도류 무사시
-Dialogue: 0,0:01:19.10,0:01:25.31,SongOP,en,0,0,0,,Martial Art! Dual Blade is Musashi
+Dialogue: 0,0:01:19.10,0:01:25.31,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
 Dialogue: 0,0:01:25.31,0:01:28.23,SongOP,ko,0,0,0,,내일은 빛난다
 Dialogue: 0,0:01:25.31,0:01:28.23,SongOP,en,0,0,0,,Tomorrow will be glorious
-Dialogue: 0,0:01:28.23,0:01:30.77,SongOP,ko,0,0,0,,격렬한 칼의 소리가
-Dialogue: 0,0:01:28.23,0:01:30.77,SongOP,en,0,0,0,,Intense clash of swords
+Dialogue: 0,0:01:28.23,0:01:30.77,SongOP,ko,0,0,0,,격렬한 승부의 소리는
+Dialogue: 0,0:01:28.23,0:01:30.77,SongOP,en,0,0,0,,The sound of fierce duels
 Dialogue: 0,0:01:30.77,0:01:33.28,SongOP,ko,0,0,0,,눈부신 인생
 Dialogue: 0,0:01:30.77,0:01:33.28,SongOP,en,0,0,0,,makes a life dazzle
 Dialogue: 0,0:01:33.98,0:01:39.37,SongOP,ko,0,0,0,,싸우는 한껏 고요함과 함께
-Dialogue: 0,0:01:33.98,0:01:39.37,SongOP,en,0,0,0,,Fight the utmost with the tranquility
+Dialogue: 0,0:01:33.98,0:01:39.37,SongOP,en,0,0,0,,Fight the utmost with the stillness
 Dialogue: 0,0:01:39.41,0:01:45.62,SongOP,ko,0,0,0,,무예! 이도류 무사시
-Dialogue: 0,0:01:39.41,0:01:45.62,SongOP,en,0,0,0,,Martial Art! Dual Blade is Musashi
-Dialogue: 0,0:01:45.62,0:01:50.88,SongOP,ko,0,0,0,,미간이 빛나고 있었다 무사시!!
-Dialogue: 0,0:01:45.62,0:01:50.88,SongOP,en,0,0,0,,The brow was shining! Musashi!!
+Dialogue: 0,0:01:39.41,0:01:45.62,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
+Dialogue: 0,0:01:45.62,0:01:50.88,SongOP,ko,0,0,0,,미간이 반짝였다 무사시!!
+Dialogue: 0,0:01:45.62,0:01:50.88,SongOP,en,0,0,0,,His eyes shined! Musashi!!
 Dialogue: 0,0:02:01.17,0:02:07.07,Default,ko,0,0,0,,카라쿠리 무예가 제일을 꿈꾸고 태어나서 처음으로 미야모토 마을을 떠난 무사시는
 Dialogue: 0,0:02:01.17,0:02:07.07,Default,en,0,0,0,,Dreaming to become the number one Karakuri Martial Artist, Musashi, who left Miyamoto village for the first time,
 Dialogue: 0,0:02:07.07,0:02:11.63,Default,ko,0,0,0,,보쿠덴 아래에서 수련을 받고, 고조의 다리에서 벤케이하고 싸웠지만
@@ -116,13 +116,13 @@ Dialogue: 0,0:02:53.57,0:02:59.84,Default,en,0,0,0,,I envy clouds. They are neve
 Dialogue: 0,0:03:02.16,0:03:04.27,Default,ko,0,0,0,,넌 지금 어딜 가니?
 Dialogue: 0,0:03:02.16,0:03:04.27,Default,en,0,0,0,,Where are you going right now?
 Dialogue: 0,0:03:04.97,0:03:08.16,Default,ko,0,0,0,,검의 수련을 위해 요시오카 도장에 가고 있던 길이오.
-Dialogue: 0,0:03:04.97,0:03:08.16,Default,en,0,0,0,,I am going to Yoshioka Dojo to train my swordsmanship-{\i1}dasu{\i0}.
+Dialogue: 0,0:03:04.97,0:03:08.16,Default,en,0,0,0,,I am going to Yoshioka Dōjō to train my swordsmanship-{\i1}dasu{\i0}.
 Dialogue: 0,0:03:08.51,0:03:14.64,Default,ko,0,0,0,,검의 수련! 세상은 칼이 필요없는 시대가 되어가고 있어.
 Dialogue: 0,0:03:08.51,0:03:14.64,Default,en,0,0,0,,Swordsmanship! The world is losing the need of swords.
 Dialogue: 0,0:03:14.83,0:03:22.92,Default,ko,0,0,0,,그럴 리가 없소. 어떤 시대라도 검의 길을 끝까지 걸어가는 것은 카라쿠리 무예가에게 있어 영원의 목표라오.
 Dialogue: 0,0:03:14.83,0:03:22.92,Default,en,0,0,0,,That's impossible-{\i1}dasu{\i0}. For any Karakuri Martial Artist, reaching the extremes of swords is the eternal aim-{\i1}dasu{\i0}.
 Dialogue: 0,0:03:23.77,0:03:29.38,Default,ko,0,0,0,,작군, 작아! 사나이라면 이 지팡구국을 바꿀 꿈을 가져야지.
-Dialogue: 0,0:03:23.77,0:03:29.38,Default,en,0,0,0,,Small. That's small! If you're a man, dream to change this Jipangu country!
+Dialogue: 0,0:03:23.77,0:03:29.38,Default,en,0,0,0,,Small. That's small! If you're a man, dream to change this Jipangu State!
 Dialogue: 0,0:03:29.74,0:03:33.38,Default,ko,0,0,0,,낮잠을 자고 있어 이상한 꿈을 꾸고 계시는 것 같소.
 Dialogue: 0,0:03:29.74,0:03:33.38,Default,en,0,0,0,,I think you're dreaming in a nap-{\i1}dasu{\i0}.
 Dialogue: 0,0:03:34.10,0:03:37.34,Default,ko,0,0,0,,나, 서둘러야 하니 먼저 실례하겠소.
@@ -166,9 +166,9 @@ Dialogue: 0,0:04:46.63,0:04:50.87,Default,en,0,0,0,,He is a crime who's planning
 Dialogue: 0,0:04:52.91,0:04:56.27,Default,ko,0,0,0,,그런 나쁜 사람으로는 안 보였소만...
 Dialogue: 0,0:04:52.91,0:04:56.27,Default,en,0,0,0,,I didn't thought he was a bad person-{\i1}dasu{\i0}...
 Dialogue: 0,0:04:59.86,0:05:04.57,NoteOnAnimeVert,ko,0,0,0,,{\fad(75,0)\fs56\an2\move(375,450,385,-120,66,4000)\frz-84.5\frx10\fax-0.5\3c&H8DB6D7&\c&H000000&}(주) 요시오카 도장
-Dialogue: 0,0:04:59.86,0:05:04.57,NoteOnAnime,en,0,0,0,,{\fad(75,0)\fs56\an2\move(375,450,385,-120,66,4000)\frz-84.5\frx10\fax-0.5\3c&H8DB6D7&\c&H000000&}Yoshioka Dojo Inc.
+Dialogue: 0,0:04:59.86,0:05:04.57,NoteOnAnime,en,0,0,0,,{\fad(75,0)\fs56\an2\move(375,450,385,-120,66,4000)\frz-84.5\frx10\fax-0.5\3c&H8DB6D7&\c&H000000&}Yoshioka Dōjō Inc.
 Dialogue: 0,0:05:05.18,0:05:08.90,Default,ko,0,0,0,,이곳이 요시오카류 도장의 대두목이오!
-Dialogue: 0,0:05:05.18,0:05:08.90,Default,en,0,0,0,,This place is the big boss of Yoshioka Family Dojo-{\i1}dasu{\i0}!
+Dialogue: 0,0:05:05.18,0:05:08.90,Default,en,0,0,0,,This place is the big boss of Yoshioka Family Dōjō-{\i1}dasu{\i0}!
 Dialogue: 0,0:05:16.37,0:05:19.66,Default,ko,0,0,0,,그 때는 불찰이 있었지만 이번엔 지지 않겠소!
 Dialogue: 0,0:05:16.37,0:05:19.66,Default,en,0,0,0,,I was careless that time, but I won't lose this time-{\i1}dasu{\i0}!
 Dialogue: 0,0:05:20.16,0:05:22.10,Default,ko,0,0,0,,누구 있소?
@@ -178,9 +178,9 @@ Dialogue: 0,0:05:23.61,0:05:24.55,Default,en,0,0,0,,What's your business?
 Dialogue: 0,0:05:25.60,0:05:28.48,Default,ko,0,0,0,,난 무술 수행중인 무사시라고 불리는 자이오!
 Dialogue: 0,0:05:25.60,0:05:28.48,Default,en,0,0,0,,I am Musashi, traveling about to gain skill in combat-{\i1}dasu{\i0}!
 Dialogue: 0,0:05:28.73,0:05:32.88,Default,ko,0,0,0,,요시오카 도장의 사람과 시합이 하고 싶어 왔소!
-Dialogue: 0,0:05:28.73,0:05:32.88,Default,en,0,0,0,,I came to have a match against a person from Yoshioka Dojo-{\i1}dasu{\i0}!
+Dialogue: 0,0:05:28.73,0:05:32.88,Default,en,0,0,0,,I came to have a match against a person from Yoshioka Dōjō-{\i1}dasu{\i0}!
 Dialogue: 0,0:05:33.04,0:05:39.72,Default,ko,0,0,0,,너같은 아가가 전국에 몇만 명의 생도가 있는 우리 요시오카 도장에 시합을 하고 싶단 것인가!
-Dialogue: 0,0:05:33.04,0:05:39.72,Default,en,0,0,0,,You're asking to have a match against us Yoshioka Dojo which has ten thousands of students, kid?
+Dialogue: 0,0:05:33.04,0:05:39.72,Default,en,0,0,0,,You're asking to have a match against us Yoshioka Dōjō which has ten thousands of students, kid?
 Dialogue: 0,0:05:40.37,0:05:45.53,Default,ko,0,0,0,,검의 길에는 나이는 관계가 없소. 대단한 자가 이기오!
 Dialogue: 0,0:05:40.37,0:05:45.53,Default,en,0,0,0,,Age does not hinder the path of sword-{\i1}dasu{\i0}. A better one wins-{\i1}dasu{\i0}!
 Dialogue: 0,0:05:45.65,0:05:53.18,Default,ko,0,0,0,,뭐라니, 이 애새끼가! 기껏 친절하게 대해 주었더니! 이 내가 지겹도록 때려주길 바라니?
@@ -188,7 +188,7 @@ Dialogue: 0,0:05:45.65,0:05:53.18,Default,en,0,0,0,,What did you say, you brat? 
 Dialogue: 0,0:05:53.47,0:05:56.74,Default,ko,0,0,0,,아, 잠깐. 이런 아이 때문에 성질을 내면 안 돼.
 Dialogue: 0,0:05:53.47,0:05:56.74,Default,en,0,0,0,,Now, now. You shouldn't be angry because of a kid.
 Dialogue: 0,0:05:57.43,0:06:01.68,Default,ko,0,0,0,,너같은 얘를 도장에 들일 생각은 없다. 자, 돌아가라, 돌아가!
-Dialogue: 0,0:05:57.43,0:06:01.68,Default,en,0,0,0,,We are no way letting a kid like you enter the dojo. Go back home.
+Dialogue: 0,0:05:57.43,0:06:01.68,Default,en,0,0,0,,We are no way letting a kid like you enter the Dōjō. Go back home.
 Dialogue: 0,0:06:02.03,0:06:04.05,Default,ko,0,0,0,,아, 부탁드리오! 시합을!
 Dialogue: 0,0:06:02.03,0:06:04.05,Default,en,0,0,0,,Please-{\i1}dasu{\i0}! A match!
 Dialogue: 0,0:06:04.70,0:06:05.70,Default,ko,0,0,0,,조금이라도!
@@ -228,7 +228,7 @@ Dialogue: 0,0:07:08.23,0:07:13.42,Default,en,0,0,0,,Er, to be exact-{\i1}dasu{\i
 Dialogue: 0,0:07:14.45,0:07:18.58,Default,ko,0,0,0,,그래도... 이래도 괜찮소. 자, 바로 돌아가겠소.
 Dialogue: 0,0:07:14.45,0:07:18.58,Default,en,0,0,0,,But... it'll be all right-{\i1}dasu{\i0}. I'll go back right now-{\i1}dasu{\i0}.
 Dialogue: 0,0:07:19.96,0:07:24.07,Default,ko,0,0,0,,-잠깐 멈춰라!\N-수상한 놈이다. 도장에 데려가서 알아보겠다!
-Dialogue: 0,0:07:19.96,0:07:24.07,Default,en,0,0,0,,-Stop right there!\N-Suspicious. We'll take you to dojo and find out who you are!
+Dialogue: 0,0:07:19.96,0:07:24.07,Default,en,0,0,0,,-Stop right there!\N-Suspicious. We'll take you to Dōjō and find out who you are!
 Dialogue: 0,0:07:27.84,0:07:28.80,Default,ko,0,0,0,,뭐냐, 이 녀석은?
 Dialogue: 0,0:07:27.84,0:07:28.80,Default,en,0,0,0,,Who is this guy?
 Dialogue: 0,0:07:29.02,0:07:33.70,Default,ko,0,0,0,,예, 저택 안을 헤매고 있던 수상한 자입니다, 세쥬로 님.
@@ -236,7 +236,7 @@ Dialogue: 0,0:07:29.02,0:07:33.70,Default,en,0,0,0,,He is a suspicious guy who w
 Dialogue: 0,0:07:33.85,0:07:36.00,Default,ko,0,0,0,,어쩌면 도둑일 지도 모릅니다.
 Dialogue: 0,0:07:33.85,0:07:36.00,Default,en,0,0,0,,He might be a thief as well.
 Dialogue: 0,0:07:36.13,0:07:40.45,Default,ko,0,0,0,,내 도장에 몰래 들어오다니, 적반하장은 널 말하는군.
-Dialogue: 0,0:07:36.13,0:07:40.45,Default,en,0,0,0,,To creep into my dojo, you are a good example of the expression the guilty are audacious.
+Dialogue: 0,0:07:36.13,0:07:40.45,Default,en,0,0,0,,To creep into my Dōjō, you are a good example of the expression the guilty are audacious.
 Dialogue: 0,0:07:40.81,0:07:42.98,Default,ko,0,0,0,,그 목, 바로 잘라 주겠다!
 Dialogue: 0,0:07:40.81,0:07:42.98,Default,en,0,0,0,,I'll cut off your neck right now!
 Dialogue: 0,0:07:43.26,0:07:48.44,Default,ko,0,0,0,,그, 그게 아니오! 전 시합을 하고 싶어 몰래 들어왔을 뿐이오!
@@ -248,7 +248,7 @@ Dialogue: 0,0:07:50.80,0:07:56.32,Default,en,0,0,0,,You're that kid beaten in Ok
 Dialogue: 0,0:07:57.39,0:08:01.83,Default,ko,0,0,0,,난 쓰라린 수련을 받아 더 이상 그 때의 내가 아니오!
 Dialogue: 0,0:07:57.39,0:08:01.83,Default,en,0,0,0,,After the painful training, I am now different from me of the past-{\i1}dasu{\i0}!
 Dialogue: 0,0:08:02.24,0:08:07.99,Default,ko,0,0,0,,좋다! 그 정도로 이 요시오카 도장과 시합을 하고 싶다면 내가 직접 상대를 해 주지.
-Dialogue: 0,0:08:02.24,0:08:07.99,Default,en,0,0,0,,Good then! If you really want that much to have a match against this Yoshioka Dojo, I'll fight you myself.
+Dialogue: 0,0:08:02.24,0:08:07.99,Default,en,0,0,0,,Good then! If you really want that much to have a match against this Yoshioka Dōjō, I'll fight you myself.
 Dialogue: 0,0:08:09.35,0:08:10.88,Default,ko,0,0,0,,시합을 해주실 것이오?
 Dialogue: 0,0:08:09.35,0:08:10.88,Default,en,0,0,0,,Are you going to be my opponent-{\i1}dasu{\i0}?
 Dialogue: 0,0:08:11.48,0:08:11.92,Default,ko,0,0,0,,좋다.
@@ -260,7 +260,7 @@ Dialogue: 0,0:08:15.87,0:08:20.64,Default,en,0,0,0,,Not likely, but just in case
 Dialogue: 0,0:08:20.93,0:08:24.48,Default,ko,0,0,0,,걱정하지 마라! 이런 꼬맹이에게 내가 질 리가 없지 않은가!
 Dialogue: 0,0:08:20.93,0:08:24.48,Default,en,0,0,0,,Don't worry! There's no way I'm losing to such young kid!
 Dialogue: 0,0:08:25.08,0:08:30.79,Default,ko,0,0,0,,그 대신! 내가 지면 요시오카 도장은 역시 강했다고 말하며 돌아다녀야 할 것이다!
-Dialogue: 0,0:08:25.05,0:08:30.79,Default,en,0,0,0,,But! If you lose to me, you must shout Yoshioka Dojo is strong as expected around the town!
+Dialogue: 0,0:08:25.05,0:08:30.79,Default,en,0,0,0,,But! If you lose to me, you must shout Yoshioka Dōjō is strong as expected around the town!
 Dialogue: 0,0:08:31.07,0:08:33.19,Default,ko,0,0,0,,잘 알겠소.
 Dialogue: 0,0:08:31.07,0:08:33.19,Default,en,0,0,0,,Agreed.
 Dialogue: 0,0:08:34.19,0:08:35.30,Default,ko,0,0,0,,그럼 시작!
@@ -306,7 +306,7 @@ Dialogue: 0,0:09:45.29,0:09:47.28,Default,en,0,0,0,,The real match starts now, k
 Dialogue: 0,0:09:47.28,0:09:52.74,Default,ko,0,0,0,,아직 지지 않았다고 말하고 있지만, 목도 없이 이 일격, 받아낼 수 있을 것이오?
 Dialogue: 0,0:09:47.28,0:09:52.74,Default,en,0,0,0,,You say you didn't lose yet, but will you manage to stop this strike without a wooden sword-{\i1}dasu{\i0}?
 Dialogue: 0,0:09:53.77,0:09:56.46,Default,ko,0,0,0,,우리 요시오카 도장에는 궁극의 기술이 아직 있지.
-Dialogue: 0,0:09:53.77,0:09:56.46,Default,en,0,0,0,,We still have a secret technique left in our Yoshioka Dojo.
+Dialogue: 0,0:09:53.77,0:09:56.46,Default,en,0,0,0,,We still have a secret technique left in our Yoshioka Dōjō.
 Dialogue: 0,0:09:56.46,0:09:57.48,Default,ko,0,0,0,,그 이름도!
 Dialogue: 0,0:09:56.46,0:09:57.48,Default,en,0,0,0,,The name is!
 Dialogue: 0,0:09:57.97,0:10:00.81,Default,ko,0,0,0,,진검 받아내기 (真剣白刃取り)!
@@ -424,11 +424,11 @@ Dialogue: 0,0:14:04.80,0:14:10.11,Default,en,0,0,0,,Hey, Mr. Ryoma. You don't ev
 Dialogue: 0,0:14:10.11,0:14:13.11,Default,ko,0,0,0,,어째서 미야코 궁전에서 수배되고 있소?
 Dialogue: 0,0:14:10.11,0:14:13.11,Default,en,0,0,0,,why are you being wanted from Miyako palace-{\i1}dasu{\i0}?
 Dialogue: 0,0:14:14.33,0:14:17.41,Default,ko,0,0,0,,지팡구국에 새벽을 부르기 위해서다.
-Dialogue: 0,0:14:14.33,0:14:17.41,Default,en,0,0,0,,To call the dawn of Jipangu country.
+Dialogue: 0,0:14:14.33,0:14:17.41,Default,en,0,0,0,,To call the dawn of Jipangu State.
 Dialogue: 0,0:14:17.41,0:14:21.01,Default,ko,0,0,0,,어? 새벽이라면 매일 오오.
 Dialogue: 0,0:14:17.41,0:14:21.01,Default,en,0,0,0,,Huh? There is a dawn for every day-{\i1}dasu{\i0}.
 Dialogue: 0,0:14:22.06,0:14:28.53,Default,ko,0,0,0,,그런 뜻이 아니라, 지팡구국을 전투 따위 없는 평화롭고 자유로운 나라로 만든다는 의미야.
-Dialogue: 0,0:14:22.06,0:14:28.53,Default,en,0,0,0,,That's what I meant. I mean that I am trying to make Jipangu country a free and peaceful country without a war.
+Dialogue: 0,0:14:22.06,0:14:28.53,Default,en,0,0,0,,That's what I meant. I mean that I am trying to make Jipangu State a free and peaceful country without a war.
 Dialogue: 0,0:14:29.18,0:14:33.61,Default,ko,0,0,0,,평화를 추구하는 자가 어째서 수배당하고 말았소?
 Dialogue: 0,0:14:29.18,0:14:33.61,Default,en,0,0,0,,Why did you became a wanted man when you're pursuing for peace-{\i1}dasu{\i0}?
 Dialogue: 0,0:14:33.61,0:14:37.66,Default,ko,0,0,0,,그것도 지금 높으신 분들이 거만하게 굴고 있기 때문이지.
@@ -436,7 +436,7 @@ Dialogue: 0,0:14:33.61,0:14:37.66,Default,en,0,0,0,,That's because the officials
 Dialogue: 0,0:14:38.21,0:14:42.17,Default,ko,0,0,0,,자, 그런 어려운 이야기는 내일 하고 오늘은 슬슬 자라.
 Dialogue: 0,0:14:38.21,0:14:42.17,Default,en,0,0,0,,Now, let's talk about those difficult subjects tomorrow, and you should sleep now.
 Dialogue: 0,0:14:55.82,0:15:01.26,Default,ko,0,0,0,,미야코 궁전에는 요시오카 도장의 제자들이 무사시를 찾고 있었다.
-Dialogue: 0,0:14:55.82,0:15:01.26,Default,en,0,0,0,,In Miyako palace, disciples of Yoshioka dojo were looking for Musashi.
+Dialogue: 0,0:14:55.82,0:15:01.26,Default,en,0,0,0,,In Miyako palace, disciples of Yoshioka Dōjō were looking for Musashi.
 Dialogue: 0,0:15:11.63,0:15:17.06,Default,ko,0,0,0,,그리고 신센 조는 료마를 붙잡기 위해 기를 쓰고 있었다.
 Dialogue: 0,0:15:11.63,0:15:17.06,Default,en,0,0,0,,And also, Shinsen family were desperately looking for Ryoma.
 Dialogue: 0,0:15:20.62,0:15:24.59,NoteOnAnimeVert,ko,0,0,0,,{\an4\fs36\frz-89\move(204,133,-221,-21,336,3340)\fax-0.35\3c&H8DB6D7&\c&H000000&}킬리만자로
@@ -460,7 +460,7 @@ Dialogue: 0,0:15:20.62,0:15:24.59,NoteOnAnime,en,0,0,0,,{\an4\fs36\frz-89\move(8
 Dialogue: 0,0:15:20.62,0:15:24.59,NoteOnAnime,ko,0,0,0,,{\an5\frz-18\move(883,598,458,444,336,3340)\fax0.35\3c&H8DB6D7&\c&H000000&\fs24}3문
 Dialogue: 0,0:15:20.62,0:15:24.59,NoteOnAnime,en,0,0,0,,{\an5\frz-18\move(883,598,458,444,336,3340)\fax0.35\3c&H8DB6D7&\c&H000000&\fs24}3 {\i1}mon{\i0}s
 Dialogue: 0,0:15:22.27,0:15:23.95,Default,ko,0,0,0,,그 쯤 코지로는...
-Dialogue: 0,0:15:22.27,0:15:23.95,Default,en,0,0,0,,At that time, Kojiro was...
+Dialogue: 0,0:15:22.27,0:15:23.95,Default,en,0,0,0,,At that time, Kojirō was...
 Dialogue: 0,0:15:25.02,0:15:26.25,Default,ko,0,0,0,,나왔습니다.
 Dialogue: 0,0:15:25.02,0:15:26.25,Default,en,0,0,0,,Here it is.
 Dialogue: 0,0:15:26.70,0:15:27.93,Default,ko,0,0,0,,설탕은 필요없다!
@@ -482,11 +482,11 @@ Dialogue: 0,0:15:54.56,0:15:59.29,Default,en,0,0,0,,Well... a bit. Did he do som
 Dialogue: 0,0:15:59.29,0:16:04.97,Default,ko,0,0,0,,예. 제 요시오카 일족의 주인 세쥬로 님의 머리를 타격해... 읍읍
 Dialogue: 0,0:15:59.29,0:16:04.97,Default,en,0,0,0,,Yes. He hit on the head of Seijuurou, the head of Yoshioka...
 Dialogue: 0,0:16:05.42,0:16:08.94,Default,ko,0,0,0,,뭐라?! 무사시가 요시오카의 도장의 주인을 쓰러뜨렸다고?!
-Dialogue: 0,0:16:05.42,0:16:08.94,Default,en,0,0,0,,What?! Musashi took down the head of Yoshioka dojo?
+Dialogue: 0,0:16:05.42,0:16:08.94,Default,en,0,0,0,,What?! Musashi took down the head of Yoshioka Dōjō?
 Dialogue: 0,0:16:09.28,0:16:12.89,Default,ko,0,0,0,,오! 귀하도 우리의 분함을 이해해 주시는 것입니까!
 Dialogue: 0,0:16:09.28,0:16:12.89,Default,en,0,0,0,,Oh! Are you understanding our mortification?
 Dialogue: 0,0:16:13.26,0:16:16.92,Default,ko,0,0,0,,믿을 수가 없군. 그 요시오카 도장이 그렇게 약했다고는!
-Dialogue: 0,0:16:13.26,0:16:16.92,Default,en,0,0,0,,Unbelievable. I never thought Yoshioka dojo was that weak!
+Dialogue: 0,0:16:13.26,0:16:16.92,Default,en,0,0,0,,Unbelievable. I never thought Yoshioka Dōjō was that weak!
 Dialogue: 0,0:16:17.39,0:16:21.38,Default,ko,0,0,0,,그럴 거였다면 어서 내가 가서 먼저 쓰러뜨렸으면 됐을 것을!
 Dialogue: 0,0:16:17.39,0:16:21.38,Default,en,0,0,0,,If that was the case, I could have taken him down first!
 Dialogue: 0,0:16:22.03,0:16:23.82,Default,ko,0,0,0,,뭐라고?!
@@ -498,7 +498,7 @@ Dialogue: 0,0:16:40.83,0:16:44.27,Default,en,0,0,0,,Damn Musashi! That weak but 
 Dialogue: 0,0:16:45.07,0:16:49.17,Default,ko,0,0,0,,저기, 료마 씨. 대체 날 어디에 데려갈 생각이오?
 Dialogue: 0,0:16:45.07,0:16:49.17,Default,en,0,0,0,,Mr. Ryoma, where are you taking me to-{\i1}dasu{\i0}?
 Dialogue: 0,0:16:49.17,0:16:52.43,Default,ko,0,0,0,,새로운 지팡국을 만들기 위한 아지트다.
-Dialogue: 0,0:16:49.17,0:16:52.43,Default,en,0,0,0,,The hideout for making the new Jipangu country.
+Dialogue: 0,0:16:49.17,0:16:52.43,Default,en,0,0,0,,The hideout for making the new Jipangu State.
 Dialogue: 0,0:16:52.77,0:16:57.70,Default,ko,0,0,0,,에? 나는 료마 씨가 하는 일이 좋지만, 악당의 동료가 되는 건 사절이오.
 Dialogue: 0,0:16:52.77,0:16:57.70,Default,en,0,0,0,,Huh? While I like what you're doing, I don't want to be a comrade of a villain-{\i1}dasu{\i0}.
 Dialogue: 0,0:16:57.74,0:17:04.71,NoteOnAnime,en,0,0,0,,{\fs52\pos(388,168)\c&H000000&\3c&HF0F0CD&}TEA
@@ -510,7 +510,7 @@ Dialogue: 0,0:17:04.72,0:17:07.18,Default,en,0,0,0,,I finally found you, Ryoma.
 Dialogue: 0,0:17:07.52,0:17:09.47,Default,ko,0,0,0,,이곳이 내 아지트다.
 Dialogue: 0,0:17:07.52,0:17:09.47,Default,en,0,0,0,,This my hideout.
 Dialogue: 0,0:17:09.81,0:17:15.12,Default,ko,0,0,0,,어머, 새로운 지팡구국을 만들기 위한 아지트치고 별 거 없는 곳이오...
-Dialogue: 0,0:17:09.81,0:17:15.12,Default,en,0,0,0,,Huh, it's pretty small for a hideout of making a new Jipangu country-{\i1}dasu{\i0}...
+Dialogue: 0,0:17:09.81,0:17:15.12,Default,en,0,0,0,,Huh, it's pretty small for a hideout of making a new Jipangu State-{\i1}dasu{\i0}...
 Dialogue: 0,0:17:16.46,0:17:18.85,Default,ko,0,0,0,,넌 정말로 거리낌 없는 놈이구나.
 Dialogue: 0,0:17:16.46,0:17:18.85,Default,en,0,0,0,,You're very outspeaking guy.
 Dialogue: 0,0:17:19.28,0:17:20.99,Default,ko,0,0,0,,뭐, 됐으니까 들어와라.
@@ -520,7 +520,7 @@ Dialogue: 0,0:17:22.81,0:17:24.92,Default,en,0,0,0,,Musashi, I finally found you
 Dialogue: 0,0:17:26.99,0:17:30.26,Default,ko,0,0,0,,어서 덴시치로 스승님께 보고해야겠어!
 Dialogue: 0,0:17:26.99,0:17:30.26,Default,en,0,0,0,,Let's go let our master Denshichirou know about this.
 Dialogue: 0,0:17:30.59,0:17:36.43,Default,ko,0,0,0,,어라, 새로운 지팡구국을 만든다는 것은 틀림없이 싸움 준비를 한다 생각했는데...
-Dialogue: 0,0:17:30.59,0:17:36.43,Default,en,0,0,0,,Hey, I thought making a new Jipangu country would involve preparing for a war.
+Dialogue: 0,0:17:30.59,0:17:36.43,Default,en,0,0,0,,Hey, I thought making a new Jipangu State would involve preparing for a war.
 Dialogue: 0,0:17:36.43,0:17:39.37,Default,ko,0,0,0,,왠지 장사하고 있는 같소...
 Dialogue: 0,0:17:36.43,0:17:39.37,Default,en,0,0,0,,It looks like you're in a commerce-{\i1}dasu{\i0}.
 Dialogue: 0,0:17:39.37,0:17:47.15,Default,ko,0,0,0,,그대로다. 일부로 장사하고 있지. 새로운 나라를 만들기 위해선 전투보다도 돈이 현실적이야.
@@ -536,7 +536,7 @@ Dialogue: 0,0:17:53.81,0:17:58.75,Default,en,0,0,0,,Right. We give food to a cou
 Dialogue: 0,0:17:58.75,0:18:03.23,Default,ko,0,0,0,,마을의 사람들을 무사하게 달아나게 해 주는 준비 등을 하고 있어.
 Dialogue: 0,0:17:58.75,0:18:03.23,Default,en,0,0,0,,help people living in villages that became battlefields.
 Dialogue: 0,0:18:04.24,0:18:07.79,Default,ko,0,0,0,,그것이 새로운 지팡구국을 만드는 일인 것이오?
-Dialogue: 0,0:18:04.24,0:18:07.79,Default,en,0,0,0,,Is that what it takes to make a new Jipangu country-{\i1}dasu{\i0}?
+Dialogue: 0,0:18:04.24,0:18:07.79,Default,en,0,0,0,,Is that what it takes to make a new Jipangu State-{\i1}dasu{\i0}?
 Dialogue: 0,0:18:07.79,0:18:11.89,Default,ko,0,0,0,,자, 무사시 군. 넌 왜 전쟁이 일어나는 지 아니?
 Dialogue: 0,0:18:07.79,0:18:11.89,Default,en,0,0,0,,Now, Musashi, do you know why they fight?
 Dialogue: 0,0:18:11.89,0:18:12.67,Default,ko,0,0,0,,네?
@@ -552,7 +552,7 @@ Dialogue: 0,0:18:22.14,0:18:23.30,Default,en,0,0,0,,That's...
 Dialogue: 0,0:18:45.95,0:18:47.72,Default,ko,0,0,0,,싸우지 않고 살게 되오.
 Dialogue: 0,0:18:45.95,0:18:47.72,Default,en,0,0,0,,They will live without fighting.
 Dialogue: 0,0:18:48.14,0:18:56.55,Default,ko,0,0,0,,바로 그거야. 내가 노리는 새로운 지팡구국은 모든 것이 풍족하고 싸움이 일어나지 않는 나라이다.
-Dialogue: 0,0:18:48.14,0:18:52.05,Default,en,0,0,0,,That's what I am talking about. The Jipangu country that I'm dreaming for
+Dialogue: 0,0:18:48.14,0:18:52.05,Default,en,0,0,0,,That's what I am talking about. The Jipangu State that I'm dreaming for
 Dialogue: 0,0:18:52.05,0:18:56.55,Default,en,0,0,0,,is the place where everything is enough and no fight occurs.
 Dialogue: 0,0:18:56.57,0:19:00.03,NoteOnAnimeVert,ko,0,0,0,,{\an5\frz-88.5\fs45\t(0,3440,\fs53)\fs80\pos(349,300)\fax-0.1\3c&H8DB6D7&\c&H000000&}신센조집
 Dialogue: 0,0:18:56.57,0:19:00.03,NoteOnAnime,en,0,0,0,,{\an5\frz-88.5\fs40\t(0,3440,\fs53)\pos(349,290)\fax-0.1\3c&H8DB6D7&\c&H000000&}Shinsen Family House
@@ -567,7 +567,7 @@ Dialogue: 0,0:19:08.09,0:19:10.30,Default,en,0,0,0,,-Let's go!\N-Got it!
 Dialogue: 0,0:19:11.55,0:19:13.25,Default,ko,0,0,0,,모두 다! 나아가라!
 Dialogue: 0,0:19:11.55,0:19:13.25,Default,en,0,0,0,,Everyone! Go!
 Dialogue: 0,0:19:13.29,0:19:16.25,NoteOnAnimeVert,ko,0,0,0,,{\an5\fs48\pos(531,151)\frz-92\frx1\fax0.3\3c&HC0FBF8&\c&H000000&}(주) 요시오카 도장
-Dialogue: 0,0:19:13.29,0:19:16.25,NoteOnAnime,en,0,0,0,,{\an5\fs48\pos(531,151)\frz-92\frx1\fax0.3\3c&HC0FBF8&\c&H000000&}Yoshioka Dojo Inc.
+Dialogue: 0,0:19:13.29,0:19:16.25,NoteOnAnime,en,0,0,0,,{\an5\fs48\pos(531,151)\frz-92\frx1\fax0.3\3c&HC0FBF8&\c&H000000&}Yoshioka Dōjō Inc.
 Dialogue: 0,0:19:13.25,0:19:15.60,Default,ko,0,0,0,,꼬맹이는 틀림없이 농가에 있다!
 Dialogue: 0,0:19:13.25,0:19:15.60,Default,en,0,0,0,,That brat is definitely at a farmhouse!
 Dialogue: 0,0:19:15.60,0:19:18.44,Default,ko,0,0,0,,알겠나! 이번이야말로 반드시 붙잡는다!
@@ -660,7 +660,7 @@ Dialogue: 0,0:21:59.76,0:22:02.86,Default,en,0,0,0,,Are you running away, Musash
 Dialogue: 0,0:22:02.86,0:22:06.08,Default,ko,0,0,0,,달아나는 것은 더 말할 나위 없는 병법의 하나이오!
 Dialogue: 0,0:22:02.86,0:22:06.08,Default,en,0,0,0,,Running away is one of the superb tactics-{\i1}dasu{\i0}!
 Dialogue: 0,0:22:10.14,0:22:14.25,Default,ko,0,0,0,,무사시 군, 또 보자꾸나! 지팡구국의 새벽은 가깝다!
-Dialogue: 0,0:22:10.14,0:22:14.25,Default,en,0,0,0,,Musashi, see you soon! The dawn of Jipangu country is nearby!
+Dialogue: 0,0:22:10.14,0:22:14.25,Default,en,0,0,0,,Musashi, see you soon! The dawn of Jipangu State is nearby!
 Dialogue: 0,0:22:14.77,0:22:20.86,Default,ko,0,0,0,,바람같은 카라쿠리인 료마와의 만남은 무사시를 한 단계 크게 성장시켜 주었다.
 Dialogue: 0,0:22:14.77,0:22:20.86,Default,en,0,0,0,,Meeting with Ryoma, a wind-like Karakuri man, has let Musashi take a big step forward.
 Dialogue: 0,0:22:21.53,0:22:25.29,Default,ko,0,0,0,,달려라, 무사시! 큰 뜻이 이루어질 그 날까지!

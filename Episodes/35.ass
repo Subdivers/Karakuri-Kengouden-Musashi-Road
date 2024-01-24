@@ -35,7 +35,7 @@ Comment: 0,0:00:00.00,0:00:00.00,SETTINGS,,0,0,0,,complete:false;song:song.*;lan
 Dialogue: 0,0:00:04.10,0:00:06.26,Default,ko,0,0,0,,어지러운 전국 시대.
 Dialogue: 0,0:00:04.10,0:00:06.26,Default,en,0,0,0,,It is the turbulent Sengoku period.
 Dialogue: 0,0:00:06.80,0:00:11.21,Default,ko,0,0,0,,카라쿠리인이 사는 지팡구국에서는 군웅할거하여 밤낮으로 접전이 계속되고
-Dialogue: 0,0:00:06.80,0:00:11.21,Default,en,0,0,0,,Warlords keep on fighting day and night over\Nthe Jipangu State, where Karakuri people live.
+Dialogue: 0,0:00:06.80,0:00:11.21,Default,en,0,0,0,,Warlords keep on fighting day and night over\NJipangu State, where Karakuri people live.
 Dialogue: 0,0:00:11.56,0:00:15.92,Default,ko,0,0,0,,카라쿠리 무예가들도 승리와 영광을 꿈꾸며 맹렬히 싸우고 있었다.
 Dialogue: 0,0:00:11.56,0:00:15.92,Default,en,0,0,0,,Karakuri Martial Artists were sharpening their swords, dreaming of victory and honor.
 Dialogue: 0,0:00:16.55,0:00:22.87,Default,ko,0,0,0,,그리고 지금, 카라쿠리 무예자 제일을 꿈꾸는 터무니없는 영웅이 탄생했다!
@@ -49,37 +49,37 @@ Dialogue: 0,0:00:27.58,0:00:32.92,TitleOP,en,0,0,0,,{\fade(770,0)\fs24}(The Stor
 Dialogue: 0,0:00:32.92,0:00:37.76,SongOP,ko,0,0,0,,사내는 언제나 세계 한가운데서
 Dialogue: 0,0:00:32.92,0:00:37.76,SongOP,en,0,0,0,,A man always dreams of the day
 Dialogue: 0,0:00:38.59,0:00:41.51,SongOP,ko,0,0,0,,제일 강해질 날을
-Dialogue: 0,0:00:38.59,0:00:41.51,SongOP,en,0,0,0,,when he'll become the world's
+Dialogue: 0,0:00:38.59,0:00:41.51,SongOP,en,0,0,0,,in the center of the world to become
 Dialogue: 0,0:00:41.51,0:00:44.39,SongOP,ko,0,0,0,,아! 아! 꿈꿔라
-Dialogue: 0,0:00:41.51,0:00:44.39,SongOP,en,0,0,0,,AH! AH! strongest
+Dialogue: 0,0:00:41.51,0:00:44.39,SongOP,en,0,0,0,,AH! AH! the strongest
 Dialogue: 0,0:00:44.39,0:00:49.44,SongOP,ko,0,0,0,,마음의 칼을 넓은 하늘로 번쩍 쳐들어
-Dialogue: 0,0:00:44.39,0:00:49.44,SongOP,en,0,0,0,,Raise your spirit's sword high to the wide sky
+Dialogue: 0,0:00:44.39,0:00:49.44,SongOP,en,0,0,0,,Raise the sword of your heart high to the wide sky
 Dialogue: 0,0:00:50.06,0:00:54.07,SongOP,ko,0,0,0,,모험의 길의 막을 연다
 Dialogue: 0,0:00:50.06,0:00:54.07,SongOP,en,0,0,0,,Raise the curtain to the road of adventure
 Dialogue: 0,0:00:55.40,0:01:00.66,SongOP,ko,0,0,0,,지팡구국을 떠도는 검호
-Dialogue: 0,0:00:55.40,0:01:00.66,SongOP,en,0,0,0,,A skilled Martial Artist wanders Jipangu Country
+Dialogue: 0,0:00:55.40,0:01:00.66,SongOP,en,0,0,0,,A skilled swordsman roams on Jipangu State
 Dialogue: 0,0:01:01.24,0:01:06.29,SongOP,ko,0,0,0,,그 이름은 카라쿠리인 무사시
 Dialogue: 0,0:01:01.24,0:01:06.29,SongOP,en,0,0,0,,His name is Musashi, a Karakuri man
-Dialogue: 0,0:01:07.79,0:01:10.71,SongOP,ko,0,0,0,,격렬한 칼의 소리가
-Dialogue: 0,0:01:07.79,0:01:10.71,SongOP,en,0,0,0,,An intense clash of swords
+Dialogue: 0,0:01:07.79,0:01:10.71,SongOP,ko,0,0,0,,격렬한 승부의 소리는
+Dialogue: 0,0:01:07.79,0:01:10.71,SongOP,en,0,0,0,,The sound of fierce duels
 Dialogue: 0,0:01:10.71,0:01:13.55,SongOP,ko,0,0,0,,눈부신 인생
 Dialogue: 0,0:01:10.71,0:01:13.55,SongOP,en,0,0,0,,makes life dazzling
 Dialogue: 0,0:01:13.55,0:01:19.01,SongOP,ko,0,0,0,,싸웠던 어제보다도 오늘 강해진다
-Dialogue: 0,0:01:13.55,0:01:19.01,SongOP,en,0,0,0,,Yesterday's battles makes you stronger today
+Dialogue: 0,0:01:13.55,0:01:19.01,SongOP,en,0,0,0,,Battles of yesterdays make you stronger today
 Dialogue: 0,0:01:19.05,0:01:25.27,SongOP,ko,0,0,0,,무예! 이도류 무사시
-Dialogue: 0,0:01:19.05,0:01:25.27,SongOP,en,0,0,0,,Martial Art! Dual Blade Musashi
+Dialogue: 0,0:01:19.05,0:01:25.27,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
 Dialogue: 0,0:01:25.27,0:01:28.15,SongOP,ko,0,0,0,,내일은 빛난다
 Dialogue: 0,0:01:25.27,0:01:28.15,SongOP,en,0,0,0,,Tomorrow will be glorious
-Dialogue: 0,0:01:28.15,0:01:30.73,SongOP,ko,0,0,0,,격렬한 칼의 소리가
-Dialogue: 0,0:01:28.15,0:01:30.73,SongOP,en,0,0,0,,An intense clash of swords
+Dialogue: 0,0:01:28.15,0:01:30.73,SongOP,ko,0,0,0,,격렬한 승부의 소리는
+Dialogue: 0,0:01:28.15,0:01:30.73,SongOP,en,0,0,0,,The sound of fierce duels
 Dialogue: 0,0:01:30.73,0:01:33.23,SongOP,ko,0,0,0,,눈부신 인생
 Dialogue: 0,0:01:30.73,0:01:33.23,SongOP,en,0,0,0,,makes life dazzling
 Dialogue: 0,0:01:33.94,0:01:39.32,SongOP,ko,0,0,0,,싸우는 한껏 고요함과 함께
-Dialogue: 0,0:01:33.94,0:01:39.32,SongOP,en,0,0,0,,Fight your hardest with tranquility
+Dialogue: 0,0:01:33.94,0:01:39.32,SongOP,en,0,0,0,,Fight the utmost with the stillness
 Dialogue: 0,0:01:39.37,0:01:45.58,SongOP,ko,0,0,0,,무예! 이도류 무사시
-Dialogue: 0,0:01:39.37,0:01:45.58,SongOP,en,0,0,0,,Martial Art! Dual Blade Musashi
-Dialogue: 0,0:01:45.58,0:01:50.79,SongOP,ko,0,0,0,,미간이 빛나고 있었다 무사시!!
-Dialogue: 0,0:01:45.58,0:01:50.79,SongOP,en,0,0,0,,Shining brow! Musashi!
+Dialogue: 0,0:01:39.37,0:01:45.58,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
+Dialogue: 0,0:01:45.58,0:01:50.79,SongOP,ko,0,0,0,,미간이 반짝였다 무사시!!
+Dialogue: 0,0:01:45.58,0:01:50.79,SongOP,en,0,0,0,,His eyes shined! Musashi!
 Comment: 0,0:01:59.47,0:02:06.51,Default,ja,0,0,0,,ジライヤンにヒミコは不知火一族の女王だといわれたムサシ。しかし、そんなことは信じられなかった。
 Dialogue: 0,0:01:59.47,0:02:06.51,Default,ko,0,0,0,,지라이얀은 무사시에게 히미코가 시라누이 일족의 여왕이라고 말했다. 그러나 믿기지 않는 일이었다.
 Dialogue: 0,0:01:59.47,0:02:06.51,Default,en,0,0,0,,Jiraiyan told Musashi that Himiko is the queen of Shiranui Clan. But he couldn't believe that.
@@ -147,7 +147,7 @@ Dialogue: 0,0:03:29.97,0:03:32.68,Default,ko,0,0,0,,{\i1}잘 됐소. 말 안해�
 Dialogue: 0,0:03:29.97,0:03:32.68,Default,en,0,0,0,,{\i1}That's a relief-dasu. Then let me continue-dasu!
 Comment: 0,0:03:46.54,0:03:47.26,Default,ja,0,0,0,,コジロー。
 Dialogue: 0,0:03:46.54,0:03:47.26,Default,ko,0,0,0,,코지로.
-Dialogue: 0,0:03:46.54,0:03:47.26,Default,en,0,0,0,,Kojiro.
+Dialogue: 0,0:03:46.54,0:03:47.26,Default,en,0,0,0,,Kojirō.
 Comment: 0,0:03:48.83,0:03:51.90,Default,ja,0,0,0,,千姫様。私はいつでも構いません。
 Dialogue: 0,0:03:48.83,0:03:51.90,Default,ko,0,0,0,,센히메 님. 전 언제라도 갈 수 있습니다.
 Dialogue: 0,0:03:48.83,0:03:51.90,Default,en,0,0,0,,Senhime. I'm prepared as always.
@@ -298,7 +298,7 @@ Dialogue: 0,0:08:46.97,0:08:51.22,Default,ko,0,0,0,,이 손으로 약속된 번�
 Dialogue: 0,0:08:46.97,0:08:51.22,Default,en,0,0,0,,We will rebuild the Fire Country of promised prosperity by our own hands.
 Comment: 0,0:08:52.14,0:08:56.34,Default,ja,0,0,0,,そのためには、このジパング国を我らの～に！
 Dialogue: 0,0:08:52.14,0:08:56.34,Default,ko,0,0,0,,그걸 위해서는 이 지팡구 곡을 우리 수중에!
-Dialogue: 0,0:08:52.14,0:08:56.34,Default,en,0,0,0,,For that, we have to take Jipangu country into our hands!
+Dialogue: 0,0:08:52.14,0:08:56.34,Default,en,0,0,0,,For that, we have to take Jipangu State into our hands!
 Comment: 0,0:08:56.61,0:09:01.54,Default,ja,0,0,0,,はは！ヒミコ女王様！ヒミコ女王様！
 Dialogue: 0,0:08:56.61,0:09:01.54,Default,ko,0,0,0,,예! 히미코 여왕님! 히미코 여왕님!
 Dialogue: 0,0:08:56.61,0:09:01.54,Default,en,0,0,0,,Yessir! Queen Himiko! Queen Himiko!
@@ -325,14 +325,14 @@ Dialogue: 0,0:09:25.22,0:09:27.66,Default,ko,0,0,0,,역시 한조가 히미코�
 Dialogue: 0,0:09:25.22,0:09:27.66,Default,en,0,0,0,,I knew that Hanzo and Himiko were...
 Comment: 0,0:09:35.52,0:09:44.97,Default,ja,0,0,0,,諸君！我々の目的達成のためには、まず、不知火一族が武装蜂起し、ジパング国を転覆させることにある。
 Dialogue: 0,0:09:35.52,0:09:44.97,Default,ko,0,0,0,37-03,제군! 우리 목적을 달성하기 위해서는 먼저 시라누이 일족이 무장봉기하고 지팡구국을 전복시켜야 한다.
-Dialogue: 0,0:09:35.52,0:09:44.97,Default,en,0,0,0,37-03,Everyone! For our objective, Shiranui must move first and do an armed uprising to overthrow Jipangu country.
+Dialogue: 0,0:09:35.52,0:09:44.97,Default,en,0,0,0,37-03,Everyone! For our objective, Shiranui must move first and do an armed uprising to overthrow Jipangu State.
 Comment: 0,0:09:45.79,0:09:49.45,Default,ja,0,0,0,,不知火一族にハンゾウが加わったことはえらいことだす！
 Dialogue: 0,0:09:45.79,0:09:49.45,Default,ko,0,0,0,,{\i1}시라누이 일족에 한조가 가세했다니 큰일이오!
 Dialogue: 0,0:09:45.79,0:09:49.45,Default,en,0,0,0,,{\i1}This really is serious, for that Hanzo to join forces with Shiranui Clan-dasu!
 Comment: 0,0:09:50.22,0:10:02.91,Default,ja,0,0,0,,ジパング国を占領した暁には、人々を～のように～つかい、今までの恨みをはだし、ヒミコ女王のもとに不知火一族の～、火の国を～する。
 Dialogue: 0,0:09:50.22,0:09:55.40,Default,ko,0,0,0,,지팡국을 점령한 새벽에는 사람들을 걸레짝인 양 부려
 Dialogue: 0,0:09:55.40,0:10:02.91,Default,ko,0,0,0,,지금까지의 원한을 풀고 히미코 여왕 아래서 시라누이 일족의 염원, 불의 나라를 장렬히 재건할 것이다.
-Dialogue: 0,0:09:50.22,0:09:55.44,Default,en,0,0,0,,On the dawn of occupying Jipangu country, we will make people drudge
+Dialogue: 0,0:09:50.22,0:09:55.44,Default,en,0,0,0,,On the dawn of occupying Jipangu State, we will make people drudge
 Dialogue: 0,0:09:55.44,0:09:58.95,Default,en,0,0,0,,to pay off old scores, and under the ruling of Queen Himiko,
 Dialogue: 0,0:09:58.95,0:10:02.91,Default,en,0,0,0,,we will heroically achieve our long-cherished desire of reviving the Fire Country
 Comment: 0,0:10:02.91,0:10:04.45,Default,ja,0,0,0,,おう！
@@ -709,14 +709,14 @@ Dialogue: 0,0:21:51.77,0:21:53.67,Default,ko,0,0,0,,무사시 씨! 정신 차리
 Dialogue: 0,0:21:51.77,0:21:53.67,Default,en,0,0,0,,Mr. Musashi! Wake up!
 Comment: 0,0:21:55.33,0:22:06.24,Default,ja,0,0,0,,決死の覚悟でムサシを救えに来たコジローの前に立ちふさがったものは、なんと、ヒミコの妖術にかかり、殺人兵器とかしてしまったムサシであった。
 Dialogue: 0,0:21:55.33,0:22:06.24,Default,ko,0,0,0,,필사의 각오로 무사시를 구하러 온 코지로 앞에 막아선 자는, 무슨! 히미코의 요술에 걸려 살인 병기가 되고 만 무사시였다.
-Dialogue: 0,0:21:55.33,0:22:01.29,Default,en,0,0,0,,The one to stop Kojiro, who came with a firm resolve to lay down his life to rescue Musashi, was - no way! -
+Dialogue: 0,0:21:55.33,0:22:01.29,Default,en,0,0,0,,The one to stop Kojirō, who came with a firm resolve to lay down his life to rescue Musashi, was - no way! -
 Dialogue: 0,0:22:01.29,0:22:06.24,Default,en,0,0,0,,Musashi, who became a murder machine under the magic of Himiko.
 Comment: 0,0:22:07.12,0:22:11.21,Default,ja,0,0,0,,コジローたちは、ムサシの刃を交えたら負えないのか。
 Dialogue: 0,0:22:07.12,0:22:11.21,Default,ko,0,0,0,,코지로 일행은 무사시하고 칼로 싸워야만 하는가?
-Dialogue: 0,0:22:07.12,0:22:11.21,Default,en,0,0,0,,Is the only choice for Kojiro and others to fight Musashi with swords?
+Dialogue: 0,0:22:07.12,0:22:11.21,Default,en,0,0,0,,Is the only choice for Kojirō and others to fight Musashi with swords?
 Comment: 0,0:22:11.61,0:22:15.69,Default,ja,0,0,0,,コジローたちもピンチだが、ムサシもまたピンチ！
 Dialogue: 0,0:22:11.61,0:22:15.69,Default,ko,0,0,0,,코지로 일행도 위기지만 무사시도 또다시 위기!
-Dialogue: 0,0:22:11.61,0:22:15.69,Default,en,0,0,0,,Everyone on Kojiro's side is in a crisis, but so is Musashi!
+Dialogue: 0,0:22:11.61,0:22:15.69,Default,en,0,0,0,,Everyone on Kojirō's side is in a crisis, but so is Musashi!
 Comment: 0,0:22:16.34,0:22:20.34,Default,ja,0,0,0,,果たしてこの決着は、どうつけるのか！
 Dialogue: 0,0:22:16.34,0:22:20.34,Default,ko,0,0,0,,과연 이 결판은 어찌 나는가!
 Dialogue: 0,0:22:16.34,0:22:20.34,Default,en,0,0,0,,How will this end up!?
@@ -748,7 +748,7 @@ Dialogue: 0,0:23:45.52,0:23:51.11,SongED1,ko,0,0,0,,양손을 벌리고 웃고 �
 Dialogue: 0,0:23:45.52,0:23:51.11,SongED1,en,0,0,0,,is opening its hands and smiling at us!
 Comment: 0,0:24:04.63,0:24:07.75,Default,ja,0,0,0,,ヒミコさんの妖術で、コジローたちと戦うおいら。
 Dialogue: 0,0:24:04.63,0:24:07.75,Default,ko,0,0,0,,히미코 씨의 요술으로 코지로 일행하고 싸운 나.
-Dialogue: 0,0:24:04.63,0:24:07.75,Default,en,0,0,0,,I fought Kojiro and others because of the magic of Ms. Himiko.
+Dialogue: 0,0:24:04.63,0:24:07.75,Default,en,0,0,0,,I fought Kojirō and others because of the magic of Ms. Himiko.
 Comment: 0,0:24:08.21,0:24:09.94,Default,ja,0,0,0,,やっぱりヒミコさんは悪い人だす。
 Dialogue: 0,0:24:08.21,0:24:09.94,Default,ko,0,0,0,,역시 히미코 씨는 나쁜 사람이오.
 Dialogue: 0,0:24:08.21,0:24:09.94,Default,en,0,0,0,,Ms. Himiko really is a bad person-{\i1}dasu{\i0}.

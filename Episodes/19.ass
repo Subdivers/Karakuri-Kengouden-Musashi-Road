@@ -35,7 +35,7 @@ Comment: 0,0:00:00.00,0:00:00.00,SETTINGS,,0,0,0,,complete:false;song:song.*;lan
 Dialogue: 0,0:00:04.22,0:00:06.45,Default,ko,0,0,0,,어지러운 전국 시대.
 Dialogue: 0,0:00:04.22,0:00:06.45,Default,en,0,0,0,,It is the turbulent Sengoku period.
 Dialogue: 0,0:00:06.86,0:00:11.68,Default,ko,0,0,0,,카라쿠리인이 사는 지팡구국에서는 군웅할거하여 밤낮으로 접전이 계속되고
-Dialogue: 0,0:00:06.86,0:00:11.68,Default,en,0,0,0,,Warlords keep on fighting day and night over\Nthe Jipangu State, where Karakuri people live.
+Dialogue: 0,0:00:06.86,0:00:11.68,Default,en,0,0,0,,Warlords keep on fighting day and night over\NJipangu State, where Karakuri people live.
 Dialogue: 0,0:00:11.68,0:00:16.64,Default,ko,0,0,0,,카라쿠리 무예가들도 승리와 영광을 꿈꾸며 맹렬히 싸우고 있었다.
 Dialogue: 0,0:00:11.68,0:00:16.64,Default,en,0,0,0,,Karakuri Martial Artists were sharpening their swords, dreaming of victory and honor.
 Dialogue: 0,0:00:16.64,0:00:23.11,Default,ko,0,0,0,,그리고 지금, 카라쿠리 무예자 제일을 꿈꾸는 터무니없는 영웅이 탄생했다!
@@ -47,39 +47,39 @@ Dialogue: 0,0:00:27.76,0:00:32.94,TitleOP,en,0,0,90,,{\an8\fs32}Karakuri Kengoud
 Dialogue: 0,0:00:27.76,0:00:32.94,TitleOP,en,0,0,48,,Musashi Road
 Dialogue: 0,0:00:27.76,0:00:32.94,TitleOP,en,0,0,0,,{\fs24}(The Story of {\i1}Karakuri{\i0} Martial Artist: Road of Musashi)
 Dialogue: 0,0:00:32.94,0:00:37.77,SongOP,ko,0,0,0,,사내는 언제나 세계 한가운데서
-Dialogue: 0,0:00:32.94,0:00:37.77,SongOP,en,0,0,0,,A man always dreams of a day
+Dialogue: 0,0:00:32.94,0:00:37.77,SongOP,en,0,0,0,,A man always dreams of the day
 Dialogue: 0,0:00:38.61,0:00:41.53,SongOP,ko,0,0,0,,제일 강해질 날을
 Dialogue: 0,0:00:38.61,0:00:41.53,SongOP,en,0,0,0,,in the center of the world to become
 Dialogue: 0,0:00:41.53,0:00:44.40,SongOP,ko,0,0,0,,아! 아! 꿈꿔라
 Dialogue: 0,0:00:41.53,0:00:44.40,SongOP,en,0,0,0,,AH! AH! the strongest
 Dialogue: 0,0:00:44.40,0:00:49.44,SongOP,ko,0,0,0,,마음의 칼을 넓은 하늘로 번쩍 쳐들어
-Dialogue: 0,0:00:44.40,0:00:49.44,SongOP,en,0,0,0,,Raise the sword of spirit high to the wide sky
+Dialogue: 0,0:00:44.40,0:00:49.44,SongOP,en,0,0,0,,Raise the sword of your heart high to the wide sky
 Dialogue: 0,0:00:50.08,0:00:54.08,SongOP,ko,0,0,0,,모험의 길의 막을 연다
 Dialogue: 0,0:00:50.08,0:00:54.08,SongOP,en,0,0,0,,Raise the curtain to the road of adventure
 Dialogue: 0,0:00:55.41,0:01:00.67,SongOP,ko,0,0,0,,지팡구국을 떠도는 검호
-Dialogue: 0,0:00:55.41,0:01:00.67,SongOP,en,0,0,0,,A skilled Martial Artist wanders Jipangu Country
+Dialogue: 0,0:00:55.41,0:01:00.67,SongOP,en,0,0,0,,A skilled swordsman roams on Jipangu State
 Dialogue: 0,0:01:01.25,0:01:06.29,SongOP,ko,0,0,0,,그 이름은 카라쿠리인 무사시
-Dialogue: 0,0:01:01.25,0:01:06.29,SongOP,en,0,0,0,,His name is Musashi, a Karakuri Man
-Dialogue: 0,0:01:07.79,0:01:10.75,SongOP,ko,0,0,0,,격렬한 칼의 소리가
-Dialogue: 0,0:01:07.79,0:01:10.75,SongOP,en,0,0,0,,Intense clash of swords
+Dialogue: 0,0:01:01.25,0:01:06.29,SongOP,en,0,0,0,,His name is Musashi, a Karakuri man
+Dialogue: 0,0:01:07.79,0:01:10.75,SongOP,ko,0,0,0,,격렬한 승부의 소리는
+Dialogue: 0,0:01:07.79,0:01:10.75,SongOP,en,0,0,0,,The sound of fierce duels
 Dialogue: 0,0:01:10.75,0:01:13.56,SongOP,ko,0,0,0,,눈부신 인생
 Dialogue: 0,0:01:10.75,0:01:13.56,SongOP,en,0,0,0,,makes a life dazzle
 Dialogue: 0,0:01:13.56,0:01:19.02,SongOP,ko,0,0,0,,싸웠던 어제보다도 오늘 강해진다
-Dialogue: 0,0:01:13.56,0:01:19.02,SongOP,en,0,0,0,,Fight yesterday and become stronger today
+Dialogue: 0,0:01:13.56,0:01:19.02,SongOP,en,0,0,0,,Battles of yesterdays make you stronger today
 Dialogue: 0,0:01:19.07,0:01:25.29,SongOP,ko,0,0,0,,무예! 이도류 무사시
-Dialogue: 0,0:01:19.07,0:01:25.29,SongOP,en,0,0,0,,Martial Art! Dual Blade is Musashi
+Dialogue: 0,0:01:19.07,0:01:25.29,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
 Dialogue: 0,0:01:25.29,0:01:28.27,SongOP,ko,0,0,0,,내일은 빛난다
 Dialogue: 0,0:01:25.29,0:01:28.27,SongOP,en,0,0,0,,Tomorrow will be glorious
-Dialogue: 0,0:01:28.27,0:01:30.74,SongOP,ko,0,0,0,,격렬한 칼의 소리가
-Dialogue: 0,0:01:28.27,0:01:30.74,SongOP,en,0,0,0,,Intense clash of swords
+Dialogue: 0,0:01:28.27,0:01:30.74,SongOP,ko,0,0,0,,격렬한 승부의 소리는
+Dialogue: 0,0:01:28.27,0:01:30.74,SongOP,en,0,0,0,,The sound of fierce duels
 Dialogue: 0,0:01:30.74,0:01:33.25,SongOP,ko,0,0,0,,눈부신 인생
 Dialogue: 0,0:01:30.74,0:01:33.25,SongOP,en,0,0,0,,makes a life dazzle
 Dialogue: 0,0:01:33.95,0:01:39.34,SongOP,ko,0,0,0,,싸우는 한껏 고요함과 함께
-Dialogue: 0,0:01:33.95,0:01:39.34,SongOP,en,0,0,0,,Fight the utmost with the tranquility
+Dialogue: 0,0:01:33.95,0:01:39.34,SongOP,en,0,0,0,,Fight the utmost with the stillness
 Dialogue: 0,0:01:39.36,0:01:45.59,SongOP,ko,0,0,0,,무예! 이도류 무사시
-Dialogue: 0,0:01:39.36,0:01:45.59,SongOP,en,0,0,0,,Martial Art! Dual Blade is Musashi
-Dialogue: 0,0:01:45.59,0:01:50.85,SongOP,ko,0,0,0,,미간이 빛나고 있었다 무사시!!
-Dialogue: 0,0:01:45.59,0:01:50.85,SongOP,en,0,0,0,,The brow was shining! Musashi!!
+Dialogue: 0,0:01:39.36,0:01:45.59,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
+Dialogue: 0,0:01:45.59,0:01:50.85,SongOP,ko,0,0,0,,미간이 반짝였다 무사시!!
+Dialogue: 0,0:01:45.59,0:01:50.85,SongOP,en,0,0,0,,His eyes shined! Musashi!!
 Comment: 0,0:02:00.58,0:02:06.45,Default,ja,0,0,0,,天空丸、天地丸のにとうをわがとしたムサシは、二天一流の勘違いを目指した。
 Dialogue: 0,0:02:00.58,0:02:06.45,Default,ko,0,0,0,,천공환, 천지환과 이도류를 자기 것으로 만든 무사시는 이천일류의 완성을 노린다.
 Dialogue: 0,0:02:00.58,0:02:06.45,Note,en,0,0,0,,({\i1}Niten'ichi-ryu{\i0}: {\fnMeiryo UI}二天一流{\r}, {\i1}Musashi-ryu{\i0}; the art of using two swords)
@@ -97,10 +97,10 @@ Dialogue: 0,0:02:18.09,0:02:23.14,TitleEP,en,0,0,225,,The Night that
 Dialogue: 0,0:02:18.09,0:02:23.14,TitleEP,en,0,0,90,,Nue Cries is Scary
 Comment: 0,0:02:38.68,0:02:39.82,Default,ja,0,0,0,,待って、コジロー！
 Dialogue: 0,0:02:38.68,0:02:39.82,Default,ko,0,0,0,,멈추시오, 코지로!
-Dialogue: 0,0:02:38.68,0:02:39.82,Default,en,0,0,0,,Stop, Kojiro!
+Dialogue: 0,0:02:38.68,0:02:39.82,Default,en,0,0,0,,Stop, Kojirō!
 Comment: 0,0:02:42.24,0:02:44.13,Default,ja,0,0,0,,さあ、コジロー、勝負するダス！
 Dialogue: 0,0:02:42.24,0:02:44.13,Default,ko,0,0,0,,자, 코지로, 승부를 보시오!
-Dialogue: 0,0:02:42.24,0:02:44.13,Default,en,0,0,0,,Hey, Kojiro, have a match with me!
+Dialogue: 0,0:02:42.24,0:02:44.13,Default,en,0,0,0,,Hey, Kojirō, have a match with me!
 Comment: 0,0:02:44.64,0:02:48.35,Default,ja,0,0,0,,いい加減にしろ、ムサシ！センヒメ様あきれてるじゃないか。
 Dialogue: 0,0:02:44.64,0:02:48.35,Default,ko,0,0,0,,작작 좀 해라, 무사시! 센히메 님이 기막혀하고 있지 않냐!
 Dialogue: 0,0:02:44.64,0:02:48.35,Default,en,0,0,0,,That's enough, Musashi! Senhime is astonished of you!
@@ -121,7 +121,7 @@ Dialogue: 0,0:03:02.14,0:03:05.14,Default,ko,0,0,0,,무사시는 쉽게 발끈�
 Dialogue: 0,0:03:02.14,0:03:05.14,Default,en,0,0,0,,Musashi gets angry so easily, so you shouldn't give attention to him.
 Comment: 0,0:03:05.38,0:03:09.69,Default,ja,0,0,0,,そう！おいらはかっかきてるだす。さあ、コジロー、勝負しろだす！
 Dialogue: 0,0:03:05.38,0:03:09.69,Default,ko,0,0,0,,그렇소! 난 쉽게 발끈하오! 자, 코지로, 승부를 보시오!
-Dialogue: 0,0:03:05.38,0:03:09.69,Default,en,0,0,0,,That's right! I get angry easily-{\i1}dasu{\i0}! Now, Kojiro, face me-{\i1}dasu{\i0}!
+Dialogue: 0,0:03:05.38,0:03:09.69,Default,en,0,0,0,,That's right! I get angry easily-{\i1}dasu{\i0}! Now, Kojirō, face me-{\i1}dasu{\i0}!
 Comment: 0,0:03:10.23,0:03:14.58,Default,ja,0,0,0,,二天一流を見事にツバメガエシを藪って見せるダス！
 Dialogue: 0,0:03:10.23,0:03:14.58,Default,ko,0,0,0,,이천일류로 훌륭하게 츠바메가에시를 물려내 보이겠소!
 Dialogue: 0,0:03:10.23,0:03:14.58,Default,en,0,0,0,,I will defeat Tsubamegaeshi with Nitenichiryu!
@@ -271,7 +271,7 @@ Dialogue: 0,0:06:14.46,0:06:16.45,Default,ko,0,0,0,,칫, 아는 사이였군.
 Dialogue: 0,0:06:14.46,0:06:16.45,Default,en,0,0,0,,Tch, they knew each other?
 Comment: 0,0:06:17.10,0:06:22.09,Default,ja,0,0,0,,待ってよ、ムサシ、コジローの腕をこの剣で利用するでまい。
 Dialogue: 0,0:06:17.10,0:06:22.09,Default,ko,0,0,0,,잠깐, 무사시, 코지로 실력을 이 기회에 이용할 수도 있겠구나.
-Dialogue: 0,0:06:17.10,0:06:22.09,Default,en,0,0,0,,Oh, maybe I might be able to use Musashi and Kojiro's technique for my own good.
+Dialogue: 0,0:06:17.10,0:06:22.09,Default,en,0,0,0,,Oh, maybe I might be able to use Musashi and Kojirō's technique for my own good.
 Comment: 0,0:06:24.22,0:06:26.26,Default,ja,0,0,0,,こ、これがバイケンの家だスか？
 Dialogue: 0,0:06:24.22,0:06:26.26,Default,ko,0,0,0,,이, 이게 바이켄의 집이오?
 Dialogue: 0,0:06:24.22,0:06:26.26,Default,en,0,0,0,,I- is this Baiken's house-{\i1}dasu{\i0}?
@@ -370,7 +370,7 @@ Dialogue: 0,0:08:46.42,0:08:50.16,Default,ko,0,0,0,,잘 오셨구려. 내가 다
 Dialogue: 0,0:08:46.42,0:08:50.16,Default,en,0,0,0,,Welcome. I am Date Akinokami.
 Comment: 0,0:08:50.77,0:08:54.20,Default,ja,0,0,0,,おいらは・ムサシ殿にコジローどのにおせん殿。
 Dialogue: 0,0:08:50.77,0:08:54.20,Default,ko,0,0,0,,-나는...\N-무사시 님, 코지로 님에 센 님.
-Dialogue: 0,0:08:50.77,0:08:54.20,Default,en,0,0,0,,-I'm...\N-Mr. Musashi, Mr. Kojiro, and Ms. Sen.
+Dialogue: 0,0:08:50.77,0:08:54.20,Default,en,0,0,0,,-I'm...\N-Mr. Musashi, Mr. Kojirō, and Ms. Sen.
 Comment: 0,0:08:54.94,0:08:58.45,Default,ja,0,0,0,,バイケンから聞いたが、お二人は一流の武芸者と。
 Dialogue: 0,0:08:54.94,0:08:58.45,Default,ko,0,0,0,,바이켄에게서 들었습니다. 두 분 다 일류 무예가라고.
 Dialogue: 0,0:08:54.94,0:08:58.45,Default,en,0,0,0,,I heard from Baiken. Both of you are top-class martial artists.
@@ -427,7 +427,7 @@ Dialogue: 0,0:10:27.28,0:10:32.33,Default,ko,0,0,0,,이 사람들에 대해서 �
 Dialogue: 0,0:10:27.28,0:10:32.33,Default,en,0,0,0,,I'll tell you about him. Mr. Harada is the commander in chief of exterminating Nue.
 Comment: 0,0:10:33.12,0:10:34.90,Default,ja,0,0,0,,コジロー殿はどちらかな。
 Dialogue: 0,0:10:33.12,0:10:34.90,Default,ko,0,0,0,,코지로 님은 어느 분이신가.
-Dialogue: 0,0:10:33.12,0:10:34.90,Default,en,0,0,0,,I wonder who is Mr. Kojiro.
+Dialogue: 0,0:10:33.12,0:10:34.90,Default,en,0,0,0,,I wonder who is Mr. Kojirō.
 Comment: 0,0:10:35.22,0:10:37.01,Default,ja,0,0,0,,は、私でございます。
 Dialogue: 0,0:10:35.22,0:10:37.01,Default,ko,0,0,0,,예, 저입니다.
 Dialogue: 0,0:10:35.22,0:10:37.01,Default,en,0,0,0,,Yessir, that is me.
@@ -533,7 +533,7 @@ Dialogue: 0,0:14:52.17,0:14:56.10,Default,ko,0,0,0,,그렇군! 잘 하면 누에
 Dialogue: 0,0:14:52.17,0:14:56.10,Default,en,0,0,0,,I see! We might be able to find out where did that Nue disappear to.
 Comment: 0,0:15:00.12,0:15:03.25,Default,ja,0,0,0,,さすが、コジロー！鵺の血をたどっていくなんて！
 Dialogue: 0,0:15:00.12,0:15:03.25,Default,ko,0,0,0,,역시 코지로! 누에 피를 쫒아가다니!
-Dialogue: 0,0:15:00.12,0:15:03.25,Default,en,0,0,0,,Good idea, Kojiro, for following Nue's blood traces!
+Dialogue: 0,0:15:00.12,0:15:03.25,Default,en,0,0,0,,Good idea, Kojirō, for following Nue's blood traces!
 Comment: 0,0:15:03.78,0:15:08.98,Default,ja,0,0,0,,しかし、まだ続いてるなんて、バイケンの草によくでかい傷をわせたんだすな。
 Dialogue: 0,0:15:03.78,0:15:08.98,Default,ko,0,0,0,,그래도 계속 이어져 있다니, 바이켄의 쿠사리가마가 꽤나 깊은 상처를 남겼나 보오.
 Dialogue: 0,0:15:03.78,0:15:08.98,Default,en,0,0,0,,Anyway, Baiken's Kusarigama surely did much damage to it since it's all over the road-{\i1}dasu{\i0}!
@@ -563,7 +563,7 @@ Dialogue: 0,0:15:39.88,0:15:41.76,Default,ko,0,0,0,,이게 대체 무슨 일이�
 Dialogue: 0,0:15:39.88,0:15:41.76,Default,en,0,0,0,,What is going on here?
 Comment: 0,0:15:45.65,0:15:51.94,Default,ja,0,0,0,,コジローは大いなるじゃこうをいだいた。だが、果たしてそのじわくとは何か。
 Dialogue: 0,0:15:45.65,0:15:51.94,Default,ko,0,0,0,,코지로는 거대한 의혹을 품었다. 그러나, 과연 그 의혹은 무엇인가?
-Dialogue: 0,0:15:45.65,0:15:51.94,Default,en,0,0,0,,Kojiro harbored a big suspicion. What could be his suspicion?
+Dialogue: 0,0:15:45.65,0:15:51.94,Default,en,0,0,0,,Kojirō harbored a big suspicion. What could be his suspicion?
 Comment: 0,0:16:02.72,0:16:06.10,Default,ja,0,0,0,,何？はんぎょくさいで～つきるだと？
 Dialogue: 0,0:16:02.72,0:16:06.10,Default,ko,0,0,0,,뭐라? 반역자로 할복시키러 왔다고?
 Dialogue: 0,0:16:02.72,0:16:06.10,Default,en,0,0,0,,What? You're here to make me make me disembowel?!
@@ -616,10 +616,10 @@ Dialogue: 0,0:17:31.25,0:17:33.69,Default,ko,0,0,0,,이제 상관없다! 하라�
 Dialogue: 0,0:17:31.25,0:17:33.69,Default,en,0,0,0,,Nothing matters now! Cut Harada Kainosuke!
 Comment: 0,0:17:38.63,0:17:39.40,Default,ja,0,0,0,,コジロー！
 Dialogue: 0,0:17:38.63,0:17:39.40,Default,ko,0,0,0,,코지로!
-Dialogue: 0,0:17:38.63,0:17:39.40,Default,en,0,0,0,,Kojiro!
+Dialogue: 0,0:17:38.63,0:17:39.40,Default,en,0,0,0,,Kojirō!
 Comment: 0,0:17:39.72,0:17:41.28,Default,ja,0,0,0,,ちばよったか、コジロー。
 Dialogue: 0,0:17:39.72,0:17:41.28,Default,ko,0,0,0,,눈이 뒤집혔나, 코지로.
-Dialogue: 0,0:17:39.72,0:17:41.28,Default,en,0,0,0,,Did you lose your mind, Kojiro?!
+Dialogue: 0,0:17:39.72,0:17:41.28,Default,en,0,0,0,,Did you lose your mind, Kojirō?!
 Comment: 0,0:17:41.72,0:17:44.93,Default,ja,0,0,0,,本当の大悪人はたてあきのかみ、お前だ！
 Dialogue: 0,0:17:41.72,0:17:44.93,Default,ko,0,0,0,,진짜 대악인은 다테 아키노카미, 네놈이다!
 Dialogue: 0,0:17:41.72,0:17:44.93,Default,en,0,0,0,,The real criminal is Date Akinokami, you!
@@ -628,7 +628,7 @@ Dialogue: 0,0:17:45.17,0:17:46.47,Default,ko,0,0,0,,뭐, 뭣이오?
 Dialogue: 0,0:17:45.17,0:17:46.47,Default,en,0,0,0,,W- what-{\i1}dasu{\i0}?!
 Comment: 0,0:17:47.22,0:17:50.70,Default,ja,0,0,0,,コジロー！無用なことを口走ると、ただではすまぬぞ！
 Dialogue: 0,0:17:47.22,0:17:50.70,Default,ko,0,0,0,,코지로! 쓸데없는 소리 집어치우지 않으면 그냥은 안 넘어간다!
-Dialogue: 0,0:17:47.22,0:17:50.70,Default,en,0,0,0,,Kojiro! Forget about whatever's in your mind, or I'm not letting this pass!
+Dialogue: 0,0:17:47.22,0:17:50.70,Default,en,0,0,0,,Kojirō! Forget about whatever's in your mind, or I'm not letting this pass!
 Comment: 0,0:17:51.52,0:17:54.45,Default,ja,0,0,0,,このぞりはあきのかみ、あなたのものですね。
 Dialogue: 0,0:17:51.52,0:17:54.45,Default,ko,0,0,0,,이 짚신은 아키노카미, 당신 것이지요.
 Dialogue: 0,0:17:51.52,0:17:54.45,Default,en,0,0,0,,Is this straw sandal yours, Akinokami?
@@ -661,7 +661,7 @@ Dialogue: 0,0:18:28.84,0:18:30.12,Default,ko,0,0,0,,이 무슨 비열한!
 Dialogue: 0,0:18:28.84,0:18:30.12,Default,en,0,0,0,,How nasty of you!
 Comment: 0,0:18:30.38,0:18:33.53,Default,ja,0,0,0,,あれ、コジローって頭いいんだすな。。。
 Dialogue: 0,0:18:30.38,0:18:33.53,Default,ko,0,0,0,,어라, 코지로 머리 좋소...
-Dialogue: 0,0:18:30.38,0:18:33.53,Default,en,0,0,0,,Hey, Kojiro's with a good brain...
+Dialogue: 0,0:18:30.38,0:18:33.53,Default,en,0,0,0,,Hey, Kojirō's with a good brain...
 Comment: 0,0:18:36.22,0:18:38.26,Default,ja,0,0,0,,ばらってしまっては仕方がない。
 Dialogue: 0,0:18:36.22,0:18:38.26,Default,ko,0,0,0,,들킨 이상 어쩔 수 없군!
 Dialogue: 0,0:18:36.22,0:18:38.26,Default,en,0,0,0,,It can't be helped, since you found out!
@@ -688,7 +688,7 @@ Dialogue: 0,0:19:14.46,0:19:17.17,Default,ko,0,0,0,,그렇군. 전부 네 계략
 Dialogue: 0,0:19:14.46,0:19:17.17,Default,en,0,0,0,,I see. Everything was your trickery.
 Comment: 0,0:19:17.80,0:19:23.40,Default,ja,0,0,0,,今頃気づいたのか。ムサシ、コジロー！お前たちに～ついでにいただいてやるわ！
 Dialogue: 0,0:19:17.80,0:19:23.40,Default,ko,0,0,0,,이제야 깨달았나, 무사시, 코지로! 너희들 생명도 이 김에 가져가겠다!
-Dialogue: 0,0:19:17.80,0:19:23.40,Default,en,0,0,0,,Did you realize it now? Musashi and Kojiro, I will take your lives with me using this chance!
+Dialogue: 0,0:19:17.80,0:19:23.40,Default,en,0,0,0,,Did you realize it now? Musashi and Kojirō, I will take your lives with me using this chance!
 Comment: 0,0:19:47.48,0:19:49.55,Default,ja,0,0,0,,～！観念するばい！
 Dialogue: 0,0:19:47.48,0:19:49.55,Default,ko,0,0,0,,아키노카미! 각오하쇼!
 Dialogue: 0,0:19:47.48,0:19:49.55,Default,en,0,0,0,,Akinokami! Prepare yourself!

@@ -38,7 +38,7 @@ Comment: 0,0:00:00.00,0:00:00.00,SETTINGS,,0,0,0,,complete:false;song:song.*;lan
 Dialogue: 0,0:00:04.33,0:00:06.56,Default,ko,0,0,0,,어지러운 전국 시대.
 Dialogue: 0,0:00:04.33,0:00:06.56,Default,en,0,0,0,,It is the turbulent Sengoku period.
 Dialogue: 0,0:00:06.97,0:00:11.54,Default,ko,0,0,0,,카라쿠리인이 사는 지팡구국에서는 군웅할거하여 밤낮으로 접전이 계속되고
-Dialogue: 0,0:00:06.97,0:00:11.79,Default,en,0,0,0,,Warlords keep on fighting day and night over\Nthe Jipangu State, where Karakuri people live.
+Dialogue: 0,0:00:06.97,0:00:11.79,Default,en,0,0,0,,Warlords keep on fighting day and night over\NJipangu State, where Karakuri people live.
 Dialogue: 0,0:00:11.79,0:00:16.49,Default,ko,0,0,0,,카라쿠리 무예가들도 승리와 영광을 꿈꾸며 맹렬히 싸우고 있었다.
 Dialogue: 0,0:00:11.79,0:00:16.75,Default,en,0,0,0,,Karakuri Martial Artists were sharpening their swords, dreaming of victory and honor.
 Dialogue: 0,0:00:16.75,0:00:23.22,Default,ko,0,0,0,,그리고 지금, 카라쿠리 무예자 제일을 꿈꾸는 터무니없는 영웅이 탄생했다!
@@ -50,39 +50,39 @@ Dialogue: 0,0:00:27.81,0:00:32.99,TitleOP,en,0,0,90,,{\an8\fs32}Karakuri Kengoud
 Dialogue: 0,0:00:27.81,0:00:32.99,TitleOP,en,0,0,48,,Musashi Road
 Dialogue: 0,0:00:27.81,0:00:32.99,TitleOP,en,0,0,0,,{\fs24}(The Story of {\i1}Karakuri{\i0} Martial Artist: Road of Musashi)
 Dialogue: 0,0:00:32.99,0:00:37.82,SongOP,ko,0,0,0,,사내는 언제나 세계 한가운데서
-Dialogue: 0,0:00:32.99,0:00:37.82,SongOP,en,0,0,0,,A man always dreams of a day
+Dialogue: 0,0:00:32.99,0:00:37.82,SongOP,en,0,0,0,,A man always dreams of the day
 Dialogue: 0,0:00:38.66,0:00:41.58,SongOP,ko,0,0,0,,제일 강해질 날을
 Dialogue: 0,0:00:38.66,0:00:41.58,SongOP,en,0,0,0,,in the center of the world to become
 Dialogue: 0,0:00:41.58,0:00:44.45,SongOP,ko,0,0,0,,아! 아! 꿈꿔라
 Dialogue: 0,0:00:41.58,0:00:44.45,SongOP,en,0,0,0,,AH! AH! the strongest
 Dialogue: 0,0:00:44.45,0:00:49.49,SongOP,ko,0,0,0,,마음의 칼을 넓은 하늘로 번쩍 쳐들어
-Dialogue: 0,0:00:44.45,0:00:49.49,SongOP,en,0,0,0,,Raise the sword of spirit high to the wide sky
+Dialogue: 0,0:00:44.45,0:00:49.49,SongOP,en,0,0,0,,Raise the sword of your heart high to the wide sky
 Dialogue: 0,0:00:50.13,0:00:54.13,SongOP,ko,0,0,0,,모험의 길의 막을 연다
 Dialogue: 0,0:00:50.13,0:00:54.13,SongOP,en,0,0,0,,Raise the curtain to the road of adventure
 Dialogue: 0,0:00:55.46,0:01:00.72,SongOP,ko,0,0,0,,지팡구국을 떠도는 검호
-Dialogue: 0,0:00:55.46,0:01:00.72,SongOP,en,0,0,0,,A skilled Martial Artist wanders Jipangu Country
+Dialogue: 0,0:00:55.46,0:01:00.72,SongOP,en,0,0,0,,A skilled swordsman roams on Jipangu State
 Dialogue: 0,0:01:01.30,0:01:06.34,SongOP,ko,0,0,0,,그 이름은 카라쿠리인 무사시
-Dialogue: 0,0:01:01.30,0:01:06.34,SongOP,en,0,0,0,,His name is Musashi, a Karakuri Man
-Dialogue: 0,0:01:07.84,0:01:10.80,SongOP,ko,0,0,0,,격렬한 칼의 소리가
-Dialogue: 0,0:01:07.84,0:01:10.80,SongOP,en,0,0,0,,Intense clash of swords
+Dialogue: 0,0:01:01.30,0:01:06.34,SongOP,en,0,0,0,,His name is Musashi, a Karakuri man
+Dialogue: 0,0:01:07.84,0:01:10.80,SongOP,ko,0,0,0,,격렬한 승부의 소리는
+Dialogue: 0,0:01:07.84,0:01:10.80,SongOP,en,0,0,0,,The sound of fierce duels
 Dialogue: 0,0:01:10.80,0:01:13.61,SongOP,ko,0,0,0,,눈부신 인생
 Dialogue: 0,0:01:10.80,0:01:13.61,SongOP,en,0,0,0,,makes a life dazzle
 Dialogue: 0,0:01:13.61,0:01:19.07,SongOP,ko,0,0,0,,싸웠던 어제보다도 오늘 강해진다
-Dialogue: 0,0:01:13.61,0:01:19.07,SongOP,en,0,0,0,,Fight yesterday and become stronger today
+Dialogue: 0,0:01:13.61,0:01:19.07,SongOP,en,0,0,0,,Battles of yesterdays make you stronger today
 Dialogue: 0,0:01:19.12,0:01:25.35,SongOP,ko,0,0,0,,무예! 이도류 무사시
-Dialogue: 0,0:01:19.12,0:01:25.35,SongOP,en,0,0,0,,Martial Art! Dual Blade is Musashi
+Dialogue: 0,0:01:19.12,0:01:25.35,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
 Dialogue: 0,0:01:25.35,0:01:28.32,SongOP,ko,0,0,0,,내일은 빛난다
 Dialogue: 0,0:01:25.35,0:01:28.32,SongOP,en,0,0,0,,Tomorrow will be glorious
-Dialogue: 0,0:01:28.32,0:01:30.79,SongOP,ko,0,0,0,,격렬한 칼의 소리가
-Dialogue: 0,0:01:28.32,0:01:30.79,SongOP,en,0,0,0,,Intense clash of swords
+Dialogue: 0,0:01:28.32,0:01:30.79,SongOP,ko,0,0,0,,격렬한 승부의 소리는
+Dialogue: 0,0:01:28.32,0:01:30.79,SongOP,en,0,0,0,,The sound of fierce duels
 Dialogue: 0,0:01:30.79,0:01:33.30,SongOP,ko,0,0,0,,눈부신 인생
 Dialogue: 0,0:01:30.79,0:01:33.30,SongOP,en,0,0,0,,makes a life dazzle
 Dialogue: 0,0:01:34.00,0:01:39.39,SongOP,ko,0,0,0,,싸우는 한껏 고요함과 함께
-Dialogue: 0,0:01:34.00,0:01:39.39,SongOP,en,0,0,0,,Fight the utmost with the tranquility
+Dialogue: 0,0:01:34.00,0:01:39.39,SongOP,en,0,0,0,,Fight the utmost with the stillness
 Dialogue: 0,0:01:39.41,0:01:45.64,SongOP,ko,0,0,0,,무예! 이도류 무사시
-Dialogue: 0,0:01:39.41,0:01:45.64,SongOP,en,0,0,0,,Martial Art! Dual Blade is Musashi
-Dialogue: 0,0:01:45.64,0:01:50.90,SongOP,ko,0,0,0,,미간이 빛나고 있었다 무사시!!
-Dialogue: 0,0:01:45.64,0:01:50.90,SongOP,en,0,0,0,,The brow was shining! Musashi!!
+Dialogue: 0,0:01:39.41,0:01:45.64,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
+Dialogue: 0,0:01:45.64,0:01:50.90,SongOP,ko,0,0,0,,미간이 반짝였다 무사시!!
+Dialogue: 0,0:01:45.64,0:01:50.90,SongOP,en,0,0,0,,His eyes shined! Musashi!!
 Dialogue: 0,0:02:00.80,0:02:06.74,Default,ko,0,0,0,,에도토피아를 향한 여행을 계속하는 무사시는 쿠사리가마를 사용하는 바이켄과 만나 대전했다.
 Dialogue: 0,0:02:00.80,0:02:06.74,Default,en,0,0,0,,Musashi had a match against Baiken, the user of {\i1}kusarigama{\i0}, during the trip to Edotopia.
 Dialogue: 0,0:02:07.12,0:02:13.40,Default,ko,0,0,0,,처음 보는 쿠사리가마의 위력의 대단함에 한결같던 무사시도 쩔쩔, 고전을 면치 못한다.
@@ -112,9 +112,9 @@ Dialogue: 0,0:03:27.12,0:03:27.66,Default,en,0,0,0,,Got it.
 Dialogue: 0,0:03:27.72,0:03:31.95,Default,ko,0,0,0,,이것만 있으면 천하는 나, 한조의 것.
 Dialogue: 0,0:03:27.72,0:03:31.95,Default,en,0,0,0,,With this, the world is in my hands.
 Dialogue: 0,0:03:42.30,0:03:49.55,Default,ko,0,0,0,,그 쯤 무사시는 코지로를 마음에 두고 있으면서도, 애도 코테츠를 허리에 차고 쭉 에도토피아를 향해 가고 있었다.
-Dialogue: 0,0:03:42.30,0:03:49.55,Default,en,0,0,0,,At that time, minding Kojirou all the time, Musashi was heading to Edotopia, carrying his beloved swords on his waist.
+Dialogue: 0,0:03:42.30,0:03:49.55,Default,en,0,0,0,,At that time, minding Kojirō all the time, Musashi was heading to Edotopia, carrying his beloved swords on his waist.
 Dialogue: 0,0:03:53.55,0:03:54.86,Default,ko,0,0,0,,저건 코지로!
-Dialogue: 0,0:03:53.55,0:03:54.86,Default,en,0,0,0,,That must be Kojirou!
+Dialogue: 0,0:03:53.55,0:03:54.86,Default,en,0,0,0,,That must be Kojirō!
 Dialogue: 0,0:03:55.05,0:03:56.46,Default,ko,0,0,0,,기다리시오!
 Dialogue: 0,0:03:55.05,0:03:56.46,Default,en,0,0,0,,Wait-{\i1}dasu{\i0}!
 Dialogue: 0,0:03:59.04,0:04:00.22,Default,ko,0,0,0,,기다리시오!
@@ -130,7 +130,7 @@ Dialogue: 0,0:04:48.48,0:04:49.72,Default,en,0,0,0,,Is it Zenzou?
 Dialogue: 0,0:04:49.93,0:04:51.34,Default,ko,0,0,0,,-예.\N-뭔 일인가?
 Dialogue: 0,0:04:49.93,0:04:51.34,Default,en,0,0,0,,-Yes.\N-What is it?
 Dialogue: 0,0:04:53.20,0:04:59.47,Default,ko,0,0,0,,며칠 전, 호조인 도장에 경찰 장관 쥬베가 나타났다 합니다.
-Dialogue: 0,0:04:53.20,0:04:59.47,Default,en,0,0,0,,Recently, it is told that Jube, the chief of police, appeared at Houzouin dojo.
+Dialogue: 0,0:04:53.20,0:04:59.47,Default,en,0,0,0,,Recently, it is told that Jube, the chief of police, appeared at Houzouin Dōjō.
 Dialogue: 0,0:04:59.76,0:05:07.24,Default,ko,0,0,0,,쥬베가? 네이놈... 제국의 동세를 정탐하는 놈에게 들키면 안 된다.
 Dialogue: 0,0:04:59.76,0:05:07.24,Default,en,0,0,0,,Jube? That bastard... You must not be revealed to such spy.
 Dialogue: 0,0:05:07.37,0:05:10.84,Default,ko,0,0,0,,내탐꾼인 내 임무를 넘보고 손톱끝으로 다룰 생각을 하다니.
@@ -162,7 +162,7 @@ Dialogue: 0,0:06:04.46,0:06:05.08,Default,en,0,0,0,,Sorry.
 Dialogue: 0,0:06:09.29,0:06:10.19,Default,ko,0,0,0,,잡아라!
 Dialogue: 0,0:06:09.29,0:06:10.19,Default,en,0,0,0,,Get him!
 Dialogue: 0,0:06:21.34,0:06:27.32,Default,ko,0,0,0,,그 쯤 코지로는 무사시를 전혀 신경쓰지 않고 쭉 에도토피아를 향하고 있었다.
-Dialogue: 0,0:06:21.34,0:06:27.32,Default,en,0,0,0,,Meanwhile, Kojirou was heading to Edotopia without even thinking about Musashi.
+Dialogue: 0,0:06:21.34,0:06:27.32,Default,en,0,0,0,,Meanwhile, Kojirō was heading to Edotopia without even thinking about Musashi.
 Dialogue: 0,0:06:34.28,0:06:36.65,Default,ko,0,0,0,,무슨 일인가, 대체?! 정신 차려라!
 Dialogue: 0,0:06:34.28,0:06:36.65,Default,en,0,0,0,,What happened? Wake up!
 Dialogue: 0,0:06:41.52,0:06:43.08,Default,ko,0,0,0,,쥬, 쥬베 님께...
@@ -258,7 +258,7 @@ Dialogue: 0,0:10:26.60,0:10:27.26,Default,en,0,0,0,,Wait!
 Dialogue: 0,0:10:28.65,0:10:29.48,Default,ko,0,0,0,,너, 너는!
 Dialogue: 0,0:10:28.65,0:10:29.48,Default,en,0,0,0,,Yo- you are!
 Dialogue: 0,0:10:30.04,0:10:30.68,Default,ko,0,0,0,,코지로!
-Dialogue: 0,0:10:30.04,0:10:30.68,Default,en,0,0,0,,Kojirou!
+Dialogue: 0,0:10:30.04,0:10:30.68,Default,en,0,0,0,,Kojirō!
 Dialogue: 0,0:10:33.21,0:10:35.26,Default,ko,0,0,0,,뭔 짓이오!
 Dialogue: 0,0:10:33.21,0:10:35.26,Default,en,0,0,0,,What are you doing-{\i1}dasu{\i0}?!
 Dialogue: 0,0:10:35.82,0:10:39.43,Default,ko,0,0,0,,이 비둘기가 가진 것, 죽은 자하고 상관있는 것인 듯 하구나.
@@ -331,11 +331,11 @@ Dialogue: 0,0:13:00.97,0:13:02.59,Default,en,0,0,0,,What are you saying-{\i1}das
 Dialogue: 0,0:13:02.97,0:13:04.33,Default,ko,0,0,0,,알아채지 못했나, 무사시!
 Dialogue: 0,0:13:02.97,0:13:04.33,Default,en,0,0,0,,Didn't you get it, Musashi?!
 Dialogue: 0,0:13:11.79,0:13:12.32,Default,ko,0,0,0,,코지로!
-Dialogue: 0,0:13:11.79,0:13:12.32,Default,en,0,0,0,,Kojirou!
+Dialogue: 0,0:13:11.79,0:13:12.32,Default,en,0,0,0,,Kojirō!
 Dialogue: 0,0:13:12.60,0:13:15.00,Default,ko,0,0,0,,생명을 소홀히 여기지 마라! 다시 만나자!
 Dialogue: 0,0:13:12.60,0:13:15.00,Default,en,0,0,0,,Don't neglect your life! See you again!
 Dialogue: 0,0:13:15.53,0:13:17.04,Default,ko,0,0,0,,기다리시오, 코지로!
-Dialogue: 0,0:13:15.53,0:13:17.04,Default,en,0,0,0,,Wait for me, Kojirou!
+Dialogue: 0,0:13:15.53,0:13:17.04,Default,en,0,0,0,,Wait for me, Kojirō!
 Dialogue: 0,0:13:21.84,0:13:26.88,Default,ko,0,0,0,,따라오지 마라! 둘로 나뉘어서 위기를 속이는 것이다! 다른 길로 돌려라!
 Dialogue: 0,0:13:21.84,0:13:26.88,Default,en,0,0,0,,Do not follow! Divide up to two and evade the situation! Change your path!
 Dialogue: 0,0:13:27.15,0:13:31.10,Default,ko,0,0,0,,그런 말을 해도 혼자 달아날 수는 없소!
@@ -377,7 +377,7 @@ Dialogue: 0,0:14:58.72,0:15:00.62,Default,en,0,0,0,,Stop right there! Running aw
 Dialogue: 0,0:15:11.60,0:15:12.59,Default,ko,0,0,0,,이, 이건!
 Dialogue: 0,0:15:11.60,0:15:12.59,Default,en,0,0,0,,Wh- what the...
 Dialogue: 0,0:15:12.64,0:15:15.80,Default,ko,0,0,0,,젠장, 코지로 놈, 달아났소!
-Dialogue: 0,0:15:12.64,0:15:15.80,Default,en,0,0,0,,Damn... Kojirou ran away-{\i1}dasu{\i0}!
+Dialogue: 0,0:15:12.64,0:15:15.80,Default,en,0,0,0,,Damn... Kojirō ran away-{\i1}dasu{\i0}!
 Dialogue: 0,0:15:16.24,0:15:18.24,Default,ko,0,0,0,,어쩔 수 없지. 어쨌든 퇴각이다.
 Dialogue: 0,0:15:16.24,0:15:18.24,Default,en,0,0,0,,It's no use. Retreating for now.
 Dialogue: 0,0:15:19.26,0:15:23.58,Default,ko,0,0,0,,이 녀석이라도 있으면 어떻게든 되겠지. 충분히 알아볼 테니까.
@@ -423,17 +423,17 @@ Dialogue: 0,0:16:56.04,0:16:57.55,Default,en,0,0,0,,Help me!
 Dialogue: 0,0:16:57.87,0:17:02.51,Default,ko,0,0,0,,왜 내가 이런 꼴에 처해야 하오!
 Dialogue: 0,0:16:57.87,0:17:02.51,Default,en,0,0,0,,Why do I have to be in this situation-{\i1}dasu{\i0}!
 Dialogue: 0,0:17:02.88,0:17:04.96,Default,ko,0,0,0,,그래! 코지로다!
-Dialogue: 0,0:17:02.88,0:17:04.96,Default,en,0,0,0,,That's it! Kojirou!
+Dialogue: 0,0:17:02.88,0:17:04.96,Default,en,0,0,0,,That's it! Kojirō!
 Dialogue: 0,0:17:05.42,0:17:09.07,Default,ko,0,0,0,,그렇소! 코지로가 달아난 탓이오!
-Dialogue: 0,0:17:05.42,0:17:09.07,Default,en,0,0,0,,That's it-{\i1}dasu{\i0}! Because Kojirou ran away!
+Dialogue: 0,0:17:05.42,0:17:09.07,Default,en,0,0,0,,That's it-{\i1}dasu{\i0}! Because Kojirō ran away!
 Dialogue: 0,0:17:09.26,0:17:11.34,Default,ko,0,0,0,,코지로 개새끼!
-Dialogue: 0,0:17:09.26,0:17:11.34,Default,en,0,0,0,,Kojirou's an idiot!
+Dialogue: 0,0:17:09.26,0:17:11.34,Default,en,0,0,0,,Kojirō's an idiot!
 Dialogue: 0,0:17:11.45,0:17:13.80,Default,ko,0,0,0,,고통스럽소, 비겁자!
 Dialogue: 0,0:17:11.45,0:17:13.80,Default,en,0,0,0,,I'm suffering, you coward!
 Dialogue: 0,0:17:16.51,0:17:18.43,Default,ko,0,0,0,,더 말하면 안 살려준다.
 Dialogue: 0,0:17:16.51,0:17:18.43,Default,en,0,0,0,,Say once more and I'm not saving you.
 Dialogue: 0,0:17:22.12,0:17:23.82,Default,ko,0,0,0,,코지로! 어느 순간에...
-Dialogue: 0,0:17:22.12,0:17:23.82,Default,en,0,0,0,,Kojirou! When did you...
+Dialogue: 0,0:17:22.12,0:17:23.82,Default,en,0,0,0,,Kojirō! When did you...
 Dialogue: 0,0:17:24.22,0:17:29.26,Default,ko,0,0,0,,연기 속에서 갈아입었다. 너 같은 녀석이라도 없으면 허전하니 말이지.
 Dialogue: 0,0:17:24.22,0:17:29.26,Default,en,0,0,0,,I changed my clothes in the smoke. Even if it's you, I will miss you if you disappear.
 Dialogue: 0,0:17:30.65,0:17:31.95,Default,ko,0,0,0,,자! 달아나자!
@@ -523,7 +523,7 @@ Dialogue: 0,0:21:50.09,0:21:51.07,Default,en,0,0,0,,Idiot.
 Dialogue: 0,0:21:54.89,0:21:57.39,Default,ko,0,0,0,,비겁하오!
 Dialogue: 0,0:21:54.89,0:21:57.39,Default,en,0,0,0,,That was cowardly-{\i1}dasu{\i0}!
 Dialogue: 0,0:21:58.65,0:22:01.34,Default,ko,0,0,0,,젠장, 코지로!
-Dialogue: 0,0:21:58.65,0:22:01.34,Default,en,0,0,0,,Damn you, Kojirou!
+Dialogue: 0,0:21:58.65,0:22:01.34,Default,en,0,0,0,,Damn you, Kojirō!
 Dialogue: 0,0:22:01.56,0:22:05.60,Default,ko,0,0,0,,어라, 배가 고파서 똑바로 설 수가 없소...
 Dialogue: 0,0:22:01.56,0:22:05.60,Default,en,0,0,0,,Huh, I'm too hungry to stand up straight-{\i1}dasu{\i0}...
 Dialogue: 0,0:22:06.89,0:22:13.61,Default,ko,0,0,0,,이렇게, 한조의 마의 손은 피해갔지만 그 무서운 음모를 밝히는 밀서를 잃어버렸다.

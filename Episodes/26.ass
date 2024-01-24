@@ -35,7 +35,7 @@ Comment: 0,0:00:00.00,0:00:00.00,SETTINGS,,0,0,0,,complete:false;song:song.*;lan
 Dialogue: 0,0:00:03.19,0:00:05.34,Default,ko,0,0,0,,어지러운 전국 시대.
 Dialogue: 0,0:00:03.19,0:00:05.34,Default,en,0,0,0,,It is the turbulent Sengoku period.
 Dialogue: 0,0:00:05.71,0:00:10.53,Default,ko,0,0,0,,카라쿠리인이 사는 지팡구국에서는 군웅할거하여 밤낮으로 접전이 계속되고
-Dialogue: 0,0:00:05.71,0:00:10.53,Default,en,0,0,0,,Warlords keep on fighting day and night over\Nthe Jipangu State, where Karakuri people live.
+Dialogue: 0,0:00:05.71,0:00:10.53,Default,en,0,0,0,,Warlords keep on fighting day and night over\NJipangu State, where Karakuri people live.
 Dialogue: 0,0:00:10.53,0:00:15.48,Default,ko,0,0,0,,카라쿠리 무예가들도 승리와 영광을 꿈꾸며 맹렬히 싸우고 있었다.
 Dialogue: 0,0:00:10.53,0:00:15.48,Default,en,0,0,0,,Karakuri Martial Artists were sharpening their swords, dreaming of victory and honor.
 Dialogue: 0,0:00:15.48,0:00:22.21,Default,ko,0,0,0,,그리고 지금, 카라쿠리 무예자 제일을 꿈꾸는 터무니없는 영웅이 탄생했다!
@@ -49,37 +49,37 @@ Dialogue: 0,0:00:26.69,0:00:31.87,TitleOP,en,0,0,0,,{\fs24}(The Story of {\i1}Ka
 Dialogue: 0,0:00:31.87,0:00:36.70,SongOP,ko,0,0,0,,사내는 언제나 세계 한가운데서
 Dialogue: 0,0:00:31.87,0:00:36.70,SongOP,en,0,0,0,,A man always dreams of the day
 Dialogue: 0,0:00:37.54,0:00:40.46,SongOP,ko,0,0,0,,제일 강해질 날을
-Dialogue: 0,0:00:37.54,0:00:40.46,SongOP,en,0,0,0,,when he'll become the world's
+Dialogue: 0,0:00:37.54,0:00:40.46,SongOP,en,0,0,0,,in the center of the world to become
 Dialogue: 0,0:00:40.46,0:00:43.33,SongOP,ko,0,0,0,,아! 아! 꿈꿔라
-Dialogue: 0,0:00:40.46,0:00:43.33,SongOP,en,0,0,0,,AH! AH! strongest
+Dialogue: 0,0:00:40.46,0:00:43.33,SongOP,en,0,0,0,,AH! AH! the strongest
 Dialogue: 0,0:00:43.33,0:00:48.37,SongOP,ko,0,0,0,,마음의 칼을 넓은 하늘로 번쩍 쳐들어
-Dialogue: 0,0:00:43.33,0:00:48.37,SongOP,en,0,0,0,,Raise your spirit's sword high to the wide sky
+Dialogue: 0,0:00:43.33,0:00:48.37,SongOP,en,0,0,0,,Raise the sword of your heart high to the wide sky
 Dialogue: 0,0:00:49.01,0:00:53.01,SongOP,ko,0,0,0,,모험의 길의 막을 연다
 Dialogue: 0,0:00:49.01,0:00:53.01,SongOP,en,0,0,0,,Raise the curtain to the road of adventure
 Dialogue: 0,0:00:54.34,0:00:59.60,SongOP,ko,0,0,0,,지팡구국을 떠도는 검호
-Dialogue: 0,0:00:54.34,0:00:59.60,SongOP,en,0,0,0,,A skilled Martial Artist wanders Jipangu Country
+Dialogue: 0,0:00:54.34,0:00:59.60,SongOP,en,0,0,0,,A skilled swordsman roams on Jipangu State
 Dialogue: 0,0:01:00.18,0:01:05.21,SongOP,ko,0,0,0,,그 이름은 카라쿠리인 무사시
 Dialogue: 0,0:01:00.18,0:01:05.21,SongOP,en,0,0,0,,His name is Musashi, a Karakuri man
-Dialogue: 0,0:01:06.72,0:01:09.63,SongOP,ko,0,0,0,,격렬한 칼의 소리가
-Dialogue: 0,0:01:06.72,0:01:09.63,SongOP,en,0,0,0,,An intense clash of swords
+Dialogue: 0,0:01:06.72,0:01:09.63,SongOP,ko,0,0,0,,격렬한 승부의 소리는
+Dialogue: 0,0:01:06.72,0:01:09.63,SongOP,en,0,0,0,,The sound of fierce duels
 Dialogue: 0,0:01:09.63,0:01:12.49,SongOP,ko,0,0,0,,눈부신 인생
 Dialogue: 0,0:01:09.63,0:01:12.49,SongOP,en,0,0,0,,makes life dazzling
 Dialogue: 0,0:01:12.49,0:01:17.95,SongOP,ko,0,0,0,,싸웠던 어제보다도 오늘 강해진다
-Dialogue: 0,0:01:12.49,0:01:17.95,SongOP,en,0,0,0,,Yesterday's battles makes you stronger today
+Dialogue: 0,0:01:12.49,0:01:17.95,SongOP,en,0,0,0,,Battles of yesterdays make you stronger today
 Dialogue: 0,0:01:18.00,0:01:24.19,SongOP,ko,0,0,0,,무예! 이도류 무사시
-Dialogue: 0,0:01:18.00,0:01:24.19,SongOP,en,0,0,0,,Martial Art! Dual Blade Musashi
+Dialogue: 0,0:01:18.00,0:01:24.19,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
 Dialogue: 0,0:01:24.19,0:01:27.20,SongOP,ko,0,0,0,,내일은 빛난다
 Dialogue: 0,0:01:24.19,0:01:27.20,SongOP,en,0,0,0,,Tomorrow will be glorious
-Dialogue: 0,0:01:27.20,0:01:29.67,SongOP,ko,0,0,0,,격렬한 칼의 소리가
-Dialogue: 0,0:01:27.20,0:01:29.67,SongOP,en,0,0,0,,An intense clash of swords
+Dialogue: 0,0:01:27.20,0:01:29.67,SongOP,ko,0,0,0,,격렬한 승부의 소리는
+Dialogue: 0,0:01:27.20,0:01:29.67,SongOP,en,0,0,0,,The sound of fierce duels
 Dialogue: 0,0:01:29.67,0:01:32.16,SongOP,ko,0,0,0,,눈부신 인생
 Dialogue: 0,0:01:29.67,0:01:32.16,SongOP,en,0,0,0,,makes life dazzling
 Dialogue: 0,0:01:32.87,0:01:38.27,SongOP,ko,0,0,0,,싸우는 한껏 고요함과 함께
-Dialogue: 0,0:01:32.87,0:01:38.27,SongOP,en,0,0,0,,Fight your hardest with tranquility
+Dialogue: 0,0:01:32.87,0:01:38.27,SongOP,en,0,0,0,,Fight the utmost with the stillness
 Dialogue: 0,0:01:38.29,0:01:44.52,SongOP,ko,0,0,0,,무예! 이도류 무사시
-Dialogue: 0,0:01:38.29,0:01:44.52,SongOP,en,0,0,0,,Martial Art! Dual Blade Musashi
-Dialogue: 0,0:01:44.52,0:01:49.78,SongOP,ko,0,0,0,,미간이 빛나고 있었다 무사시!!
-Dialogue: 0,0:01:44.52,0:01:49.78,SongOP,en,0,0,0,,Shining brow! Musashi!
+Dialogue: 0,0:01:38.29,0:01:44.52,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
+Dialogue: 0,0:01:44.52,0:01:49.78,SongOP,ko,0,0,0,,미간이 반짝였다 무사시!!
+Dialogue: 0,0:01:44.52,0:01:49.78,SongOP,en,0,0,0,,His eyes shined! Musashi!
 Comment: 0,0:01:59.40,0:02:06.15,Default,ja,0,0,0,,はるばるきたぜ北海道舞台に、総力戦となったハンゾウとムサシ、センヒメたち一行。
 Dialogue: 0,0:01:59.40,0:02:06.15,Default,ko,0,0,0,,멀리서 와서 홋카이도를 무대로 총력을 다해 싸운 한조와 무사시, 센히메 일행.
 Dialogue: 0,0:01:59.40,0:02:06.15,Default,en,0,0,0,,Came from a place far away, Musashi and Senhime's group has fought against Hanzo with all their force.
@@ -259,7 +259,7 @@ Dialogue: 0,0:06:21.94,0:06:23.40,Default,ko,0,0,0,,그럼 실례하겠습니다
 Dialogue: 0,0:06:21.94,0:06:23.40,Default,en,0,0,0,,Then, excuse me.
 Comment: 0,0:06:24.80,0:06:25.90,Default,ja,0,0,0,,じゃ、コジロー！
 Dialogue: 0,0:06:24.80,0:06:25.90,Default,ko,0,0,0,,그럼, 코지로!
-Dialogue: 0,0:06:24.80,0:06:25.90,Default,en,0,0,0,,See ya, kojiro-!
+Dialogue: 0,0:06:24.80,0:06:25.90,Default,en,0,0,0,,See ya, Kojirō-!
 Comment: 0,0:06:26.44,0:06:28.29,Default,ja,0,0,0,,え？！あたしが？！
 Dialogue: 0,0:06:26.44,0:06:28.29,Default,ko,0,0,0,,어?! 내가?!
 Dialogue: 0,0:06:26.44,0:06:28.29,Default,en,0,0,0,,What?! Me?!
@@ -661,7 +661,7 @@ Dialogue: 0,0:18:18.34,0:18:19.39,Default,ko,0,0,0,,계셔?!
 Dialogue: 0,0:18:18.34,0:18:19.39,Default,en,0,0,0,,You're here?
 Comment: 0,0:18:30.15,0:18:31.25,Default,ja,0,0,0,,あ、コジローだ！
 Dialogue: 0,0:18:30.15,0:18:31.25,Default,ko,0,0,0,,아, 코지로다!
-Dialogue: 0,0:18:30.15,0:18:31.25,Default,en,0,0,0,,Hey, Kojiro!
+Dialogue: 0,0:18:30.15,0:18:31.25,Default,en,0,0,0,,Hey, Kojirō!
 Comment: 0,0:18:33.46,0:18:35.00,Default,ja,0,0,0,,あ、センヒメ様！
 Dialogue: 0,0:18:33.46,0:18:35.00,Default,ko,0,0,0,,아, 센히메 님!
 Dialogue: 0,0:18:33.46,0:18:35.00,Default,en,0,0,0,,Oh, Senhime!
@@ -779,7 +779,7 @@ Dialogue: 0,0:21:44.54,0:21:46.76,Default,ko,0,0,0,,곤란하네...
 Dialogue: 0,0:21:44.54,0:21:46.76,Default,en,0,0,0,,That's bad...
 Comment: 0,0:21:47.52,0:21:54.03,Default,ja,0,0,0,,殿、センヒメ様も旅にお慣れになったことだし、コジロー殿とムサシ殿を警護に着ければ。
 Dialogue: 0,0:21:47.52,0:21:54.03,Default,ko,0,0,0,,영주님. 센히메 님도 여행에 익숙해졌기도 하고, 코지로 님과 무사시 님을 경호로 붙인다면.
-Dialogue: 0,0:21:47.52,0:21:54.03,Default,en,0,0,0,,Feudal lord, Senhime has become familiar with long trips, and as long as Mr. Kojiro and Mr. Musashi as her guards...
+Dialogue: 0,0:21:47.52,0:21:54.03,Default,en,0,0,0,,Feudal lord, Senhime has become familiar with long trips, and as long as Mr. Kojirō and Mr. Musashi as her guards...
 Comment: 0,0:21:55.84,0:22:00.83,Default,ja,0,0,0,,え、そうじゃな、言い出したら聞かないセンヒメのこと、仕方ないか。
 Dialogue: 0,0:21:55.84,0:22:00.83,Default,ko,0,0,0,,어, 그렇구나. 아무리 말해도 안 듣는 센히메이니 어쩔 수 없나.
 Dialogue: 0,0:21:55.84,0:22:00.83,Default,en,0,0,0,,Well, that's right. Senhime never listen to me no matter what I say.
@@ -823,7 +823,7 @@ Dialogue: 0,0:23:44.87,0:23:50.47,SongED1,ko,0,0,0,,양손을 벌리고 웃고 �
 Dialogue: 0,0:23:44.87,0:23:50.47,SongED1,en,0,0,0,,is opening its hands and smiling at us!
 Comment: 0,0:24:04.06,0:24:11.39,Default,ja,0,0,0,,お団子早食いコンクールに出場したばっかりにコジローと喧嘩になるは（し）、おせんちゃんはシラヌイ一族に捕まっちゃうは（し）と、めちゃくちゃ！
 Dialogue: 0,0:24:04.06,0:24:11.39,Default,ko,0,0,0,,단고 빨리 먹기 콩쿠르에 출전했다는 이유만으로 코지로하고 싸우고, 센짱은 시라누이 일족에게 잡히고, 엉망진창!
-Dialogue: 0,0:24:04.06,0:24:07.96,Default,en,0,0,0,,Just because I entered {\i1}dango{\i0} quick eating contest I fought with Kojiro,
+Dialogue: 0,0:24:04.06,0:24:07.96,Default,en,0,0,0,,Just because I entered {\i1}dango{\i0} quick eating contest I fought with Kojirō,
 Dialogue: 0,0:24:07.96,0:24:11.39,Default,en,0,0,0,,Sen-chan was taken by Shiranui clan, and it's a mess!
 Comment: 0,0:24:11.68,0:24:15.10,Default,ja,0,0,0,,そんなとき、サイゴーさんと懐かしいのリョウマさんに出会っただス！
 Dialogue: 0,0:24:11.68,0:24:15.10,Default,ko,0,0,0,,그 때, 사이고 씨하고 오랜만에 료마 씨하고 만났소!

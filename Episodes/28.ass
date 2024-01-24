@@ -36,7 +36,7 @@ Comment: 0,0:00:00.00,0:00:00.00,SETTINGS,,0,0,0,,complete:false;song:song.*;lan
 Dialogue: 0,0:00:03.18,0:00:05.33,Default,ko,0,0,0,,어지러운 전국 시대.
 Dialogue: 0,0:00:03.18,0:00:05.33,Default,en,0,0,0,,It is the turbulent Sengoku period.
 Dialogue: 0,0:00:05.81,0:00:10.26,Default,ko,0,0,0,,카라쿠리인이 사는 지팡구국에서는 군웅할거하여 밤낮으로 접전이 계속되고
-Dialogue: 0,0:00:05.81,0:00:10.26,Default,en,0,0,0,,Warlords keep on fighting day and night over\Nthe Jipangu State, where Karakuri people live.
+Dialogue: 0,0:00:05.81,0:00:10.26,Default,en,0,0,0,,Warlords keep on fighting day and night over\NJipangu State, where Karakuri people live.
 Dialogue: 0,0:00:10.66,0:00:15.01,Default,ko,0,0,0,,카라쿠리 무예가들도 승리와 영광을 꿈꾸며 맹렬히 싸우고 있었다.
 Dialogue: 0,0:00:10.66,0:00:15.01,Default,en,0,0,0,,Karakuri Martial Artists were sharpening their swords, dreaming of victory and honor.
 Dialogue: 0,0:00:15.63,0:00:22.02,Default,ko,0,0,0,,그리고 지금, 카라쿠리 무예자 제일을 꿈꾸는 터무니없는 영웅이 탄생했다!
@@ -50,49 +50,49 @@ Dialogue: 0,0:00:26.50,0:00:31.84,TitleOP,en,0,0,0,,{\fade(770,0)\fs24}(The Stor
 Dialogue: 0,0:00:31.84,0:00:36.68,SongOP,ko,0,0,0,,사내는 언제나 세계 한가운데서
 Dialogue: 0,0:00:31.84,0:00:36.68,SongOP,en,0,0,0,,A man always dreams of the day
 Dialogue: 0,0:00:37.51,0:00:40.43,SongOP,ko,0,0,0,,제일 강해질 날을
-Dialogue: 0,0:00:37.51,0:00:40.43,SongOP,en,0,0,0,,when he'll become the world's
+Dialogue: 0,0:00:37.51,0:00:40.43,SongOP,en,0,0,0,,in the center of the world to become
 Dialogue: 0,0:00:40.43,0:00:43.31,SongOP,ko,0,0,0,,아! 아! 꿈꿔라
-Dialogue: 0,0:00:40.43,0:00:43.31,SongOP,en,0,0,0,,AH! AH! strongest
+Dialogue: 0,0:00:40.43,0:00:43.31,SongOP,en,0,0,0,,AH! AH! the strongest
 Dialogue: 0,0:00:43.31,0:00:48.36,SongOP,ko,0,0,0,,마음의 칼을 넓은 하늘로 번쩍 쳐들어
-Dialogue: 0,0:00:43.31,0:00:48.36,SongOP,en,0,0,0,,Raise your spirit's sword high to the wide sky
+Dialogue: 0,0:00:43.31,0:00:48.36,SongOP,en,0,0,0,,Raise the sword of your heart high to the wide sky
 Dialogue: 0,0:00:48.98,0:00:52.99,SongOP,ko,0,0,0,,모험의 길의 막을 연다
 Dialogue: 0,0:00:48.98,0:00:52.99,SongOP,en,0,0,0,,Raise the curtain to the road of adventure
 Dialogue: 0,0:00:54.32,0:00:59.58,SongOP,ko,0,0,0,,지팡구국을 떠도는 검호
-Dialogue: 0,0:00:54.32,0:00:59.58,SongOP,en,0,0,0,,A skilled Martial Artist wanders Jipangu Country
+Dialogue: 0,0:00:54.32,0:00:59.58,SongOP,en,0,0,0,,A skilled swordsman roams on Jipangu State
 Dialogue: 0,0:01:00.16,0:01:05.21,SongOP,ko,0,0,0,,그 이름은 카라쿠리인 무사시
 Dialogue: 0,0:01:00.16,0:01:05.21,SongOP,en,0,0,0,,His name is Musashi, a Karakuri man
-Dialogue: 0,0:01:06.71,0:01:09.63,SongOP,ko,0,0,0,,격렬한 칼의 소리가
-Dialogue: 0,0:01:06.71,0:01:09.63,SongOP,en,0,0,0,,An intense clash of swords
+Dialogue: 0,0:01:06.71,0:01:09.63,SongOP,ko,0,0,0,,격렬한 승부의 소리는
+Dialogue: 0,0:01:06.71,0:01:09.63,SongOP,en,0,0,0,,The sound of fierce duels
 Dialogue: 0,0:01:09.63,0:01:12.46,SongOP,ko,0,0,0,,눈부신 인생
 Dialogue: 0,0:01:09.63,0:01:12.46,SongOP,en,0,0,0,,makes life dazzling
 Dialogue: 0,0:01:12.46,0:01:17.93,SongOP,ko,0,0,0,,싸웠던 어제보다도 오늘 강해진다
-Dialogue: 0,0:01:12.46,0:01:17.93,SongOP,en,0,0,0,,Yesterday's battles makes you stronger today
+Dialogue: 0,0:01:12.46,0:01:17.93,SongOP,en,0,0,0,,Battles of yesterdays make you stronger today
 Dialogue: 0,0:01:17.97,0:01:24.18,SongOP,ko,0,0,0,,무예! 이도류 무사시
-Dialogue: 0,0:01:17.97,0:01:24.18,SongOP,en,0,0,0,,Martial Art! Dual Blade Musashi
+Dialogue: 0,0:01:17.97,0:01:24.18,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
 Dialogue: 0,0:01:24.18,0:01:27.14,SongOP,ko,0,0,0,,내일은 빛난다
 Dialogue: 0,0:01:24.18,0:01:27.14,SongOP,en,0,0,0,,Tomorrow will be glorious
-Dialogue: 0,0:01:27.14,0:01:29.65,SongOP,ko,0,0,0,,격렬한 칼의 소리가
-Dialogue: 0,0:01:27.14,0:01:29.65,SongOP,en,0,0,0,,An intense clash of swords
+Dialogue: 0,0:01:27.14,0:01:29.65,SongOP,ko,0,0,0,,격렬한 승부의 소리는
+Dialogue: 0,0:01:27.14,0:01:29.65,SongOP,en,0,0,0,,The sound of fierce duels
 Dialogue: 0,0:01:29.65,0:01:32.15,SongOP,ko,0,0,0,,눈부신 인생
 Dialogue: 0,0:01:29.65,0:01:32.15,SongOP,en,0,0,0,,makes life dazzling
 Dialogue: 0,0:01:32.86,0:01:38.24,SongOP,ko,0,0,0,,싸우는 한껏 고요함과 함께
-Dialogue: 0,0:01:32.86,0:01:38.24,SongOP,en,0,0,0,,Fight your hardest with tranquility
+Dialogue: 0,0:01:32.86,0:01:38.24,SongOP,en,0,0,0,,Fight the utmost with the stillness
 Dialogue: 0,0:01:38.28,0:01:44.54,SongOP,ko,0,0,0,,무예! 이도류 무사시
-Dialogue: 0,0:01:38.28,0:01:44.54,SongOP,en,0,0,0,,Martial Art! Dual Blade Musashi
-Dialogue: 0,0:01:44.54,0:01:49.75,SongOP,ko,0,0,0,,미간이 빛나고 있었다 무사시!!
-Dialogue: 0,0:01:44.54,0:01:49.75,SongOP,en,0,0,0,,Shining brow! Musashi!
+Dialogue: 0,0:01:38.28,0:01:44.54,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
+Dialogue: 0,0:01:44.54,0:01:49.75,SongOP,ko,0,0,0,,미간이 반짝였다 무사시!!
+Dialogue: 0,0:01:44.54,0:01:49.75,SongOP,en,0,0,0,,His eyes shined! Musashi!
 Comment: 0,0:01:59.21,0:02:02.88,Default,ja,0,0,0,,つまらぬことで喧嘩するムサシ、コジロー、センヒメ。
 Dialogue: 0,0:01:59.21,0:02:02.88,Default,ko,0,0,0,,시시한 일로 싸운 무사시, 코지로, 센히메.
-Dialogue: 0,0:01:59.21,0:02:02.88,Default,en,0,0,0,,Musashi, Kojiro, and Senhime have fought over an insignificant thing.
+Dialogue: 0,0:01:59.21,0:02:02.88,Default,en,0,0,0,,Musashi, Kojirō, and Senhime have fought over an insignificant thing.
 Comment: 0,0:02:03.29,0:02:09.17,Default,ja,0,0,0,,ムサシはサイゴーをおつけまわし、センヒメはシラヌイを探り、コジローは痴漢で捕まる。
 Dialogue: 0,0:02:03.29,0:02:09.17,Default,ko,0,0,0,,무사시는 사이고를 쫒아다니고, 센히메는 시라누이를 정탐하고, 코지로는 치한으로 잡힌다.
-Dialogue: 0,0:02:03.29,0:02:09.17,Default,en,0,0,0,,Musashi chased Saigo, Senhime spied on Shiranui, and Kojiro was caught as a pervert.
+Dialogue: 0,0:02:03.29,0:02:09.17,Default,en,0,0,0,,Musashi chased Saigo, Senhime spied on Shiranui, and Kojirō was caught as a pervert.
 Comment: 0,0:02:09.64,0:02:16.84,Default,ja,0,0,0,,サイゴーをシラヌイの仲間だと勘違いしたムサシは天空丸で切りかかるが、なんと、そこにはリョウマさんが！
 Dialogue: 0,0:02:09.64,0:02:16.84,Default,ko,0,0,0,,사이고를 시라누이의 동료로 착각한 무사시는 천공환으로 달려들지만, 아니, 그 곳엔 료마 씨가!
 Dialogue: 0,0:02:09.64,0:02:16.84,Default,en,0,0,0,,Musashi misjudged Saigo as on Shiranui's side and slashed at Saigo, but there was Mr. Ryoma with him!
 Comment: 0,0:02:17.10,0:02:20.78,Default,ja,0,0,0,,不知火に捕まったコジロー、センヒメを助けに行くムサシ。
 Dialogue: 0,0:02:17.10,0:02:20.78,Default,ko,0,0,0,,시라누이에게 잡힌 코지로와 센히메를 구하러 간 무사시.
-Dialogue: 0,0:02:17.10,0:02:20.78,Default,en,0,0,0,,Musashi went to rescue Kojiro and Senhime captured by Shiranui.
+Dialogue: 0,0:02:17.10,0:02:20.78,Default,en,0,0,0,,Musashi went to rescue Kojirō and Senhime captured by Shiranui.
 Comment: 0,0:02:21.18,0:02:27.25,Default,ja,0,0,0,,戦いの中で一先ず三人は仲直りし、九州へと旅辰の出会った。
 Dialogue: 0,0:02:21.18,0:02:27.25,Default,ko,0,0,0,,싸움 후 일단 셋은 화해하고 규슈를 향해 갔다.
 Dialogue: 0,0:02:21.18,0:02:27.25,Default,en,0,0,0,,After the battle, those three made up, and went to Kyushu.
@@ -108,7 +108,7 @@ Dialogue: 0,0:02:53.84,0:02:56.04,Default,ko,0,0,0,,-사츠마니아이오.\N-�
 Dialogue: 0,0:02:53.84,0:02:56.04,Default,en,0,0,0,,-That must be Satsumania-{\i1}dasu{\i0}.\N-Yeah.
 Comment: 0,0:02:59.62,0:03:05.21,Default,ja,0,0,0,,いよいよシラヌイ一族のいるサツマニアへ乗り込むムサシ、コジロー、センヒメであった。
 Dialogue: 0,0:02:59.62,0:03:05.21,Default,ko,0,0,0,,드디어 시라누이 일족이 있는 사츠마니아에 진입한 무사시, 코지로, 센히메였다.
-Dialogue: 0,0:02:59.62,0:03:05.21,Default,en,0,0,0,,Musashi, Kojiro, and Senhime finally entered Satsumania where Shiranui Clan is.
+Dialogue: 0,0:02:59.62,0:03:05.21,Default,en,0,0,0,,Musashi, Kojirō, and Senhime finally entered Satsumania where Shiranui Clan is.
 Comment: 0,0:03:12.30,0:03:14.68,Default,ja,0,0,0,,ここがサツマニアダスか。
 Dialogue: 0,0:03:12.30,0:03:14.68,Default,ko,0,0,0,,여기가 사츠마니아이오.
 Dialogue: 0,0:03:12.30,0:03:14.68,Default,en,0,0,0,,So this is Satsumania-{\i1}dasu{\i0}!
@@ -236,7 +236,7 @@ Dialogue: 0,0:05:53.41,0:05:54.54,Default,ko,0,0,0,,해 보잔 것이오?!
 Dialogue: 0,0:05:53.41,0:05:54.54,Default,en,0,0,0,,Up for a fight-{\i1}dasu{\i0}?!
 Comment: 0,0:05:54.76,0:05:55.70,Default,ja,0,0,0,,待って、コジロー。
 Dialogue: 0,0:05:54.76,0:05:55.70,Default,ko,0,0,0,,잠깐, 코지로.
-Dialogue: 0,0:05:54.76,0:05:55.70,Default,en,0,0,0,,Stop, Kojiro.
+Dialogue: 0,0:05:54.76,0:05:55.70,Default,en,0,0,0,,Stop, Kojirō.
 Comment: 0,0:05:56.45,0:05:59.05,Default,ja,0,0,0,,ムサシ。あんたが一番悪いわよ！
 Dialogue: 0,0:05:56.45,0:05:59.05,Default,ko,0,0,0,,무사시. 네가 제일 나빠!
 Dialogue: 0,0:05:56.45,0:05:59.05,Default,en,0,0,0,,Musashi. You are the worst!
@@ -516,7 +516,7 @@ Dialogue: 0,0:13:13.58,0:13:19.24,Default,ko,0,0,0,,그런 식욕을 어떻게 �
 Dialogue: 0,0:13:13.58,0:13:19.24,Default,en,0,0,0,,How can I understand appetite like that?! Also, he wouldn't be really delinquent even if he try so hard.
 Comment: 0,0:13:20.34,0:13:25.16,Default,ja,0,0,0,,コジロー、お願い。何だか心配。なんとしてもムサシを探して！
 Dialogue: 0,0:13:20.34,0:13:25.16,Default,ko,0,0,0,,코지로. 부탁이야. 왠지 걱정돼. 어떻게든 무사시를 찾아 줘.
-Dialogue: 0,0:13:20.34,0:13:25.16,Default,en,0,0,0,,Kojiro. Please. I'm worried about him. Find Musashi for me.
+Dialogue: 0,0:13:20.34,0:13:25.16,Default,en,0,0,0,,Kojirō. Please. I'm worried about him. Find Musashi for me.
 Comment: 0,0:13:26.75,0:13:28.87,Default,ja,0,0,0,,センヒメ様の願いとあらば。。。
 Dialogue: 0,0:13:26.75,0:13:28.87,Default,ko,0,0,0,,센히메 님의 부탁이라면...
 Dialogue: 0,0:13:26.75,0:13:28.87,Default,en,0,0,0,,If it's you who're asking me, Senhime...
@@ -753,7 +753,7 @@ Dialogue: 0,0:20:47.26,0:20:48.72,Default,ko,0,0,0,,무사시!
 Dialogue: 0,0:20:47.26,0:20:48.72,Default,en,0,0,0,,Musashi!
 Comment: 0,0:20:49.20,0:20:50.00,Default,ja,0,0,0,,コジロー！
 Dialogue: 0,0:20:49.20,0:20:50.00,Default,ko,0,0,0,,코지로!
-Dialogue: 0,0:20:49.20,0:20:50.00,Default,en,0,0,0,,Kojiro!
+Dialogue: 0,0:20:49.20,0:20:50.00,Default,en,0,0,0,,Kojirō!
 Comment: 0,0:20:51.44,0:20:53.65,Default,ja,0,0,0,,まったく、どこにいてたんだ！
 Dialogue: 0,0:20:51.44,0:20:53.65,Default,ko,0,0,0,,정말, 어디 갔었냐!
 Dialogue: 0,0:20:51.44,0:20:53.65,Default,en,0,0,0,,Really... where did you go to?!
@@ -851,7 +851,7 @@ Dialogue: 0,0:24:02.56,0:24:08.73,Default,ko,0,0,0,,먹을 것에 약한 나는 
 Dialogue: 0,0:24:02.56,0:24:08.73,Default,en,0,0,0,,Because I am weak for foods, I fall into the trap of Shiranui Clan by eating poisonous foods and gets paralyzed-{\i1}dasu{\i0}.
 Comment: 0,0:24:09.05,0:24:11.75,Default,ja,0,0,0,,その間にコジローは大切な刀をおられてしまい。
 Dialogue: 0,0:24:09.05,0:24:11.75,Default,ko,0,0,0,,그 동안 코지로는 소중한 칼이 부러지고 마오.
-Dialogue: 0,0:24:09.05,0:24:11.75,Default,en,0,0,0,,Meanwhile, Kojiro's precious sword has been broken-{\i1}dasu{\i0}.
+Dialogue: 0,0:24:09.05,0:24:11.75,Default,en,0,0,0,,Meanwhile, Kojirō's precious sword has been broken-{\i1}dasu{\i0}.
 Comment: 0,0:24:12.01,0:24:13.79,Default,ja,0,0,0,,しっかり落ち込んでしまったダス。
 Dialogue: 0,0:24:12.01,0:24:13.79,Default,ko,0,0,0,,완전히 침울해져 버렸소.
 Dialogue: 0,0:24:12.01,0:24:13.79,Default,en,0,0,0,,He got totally depressed-{\i1}dasu{\i0}.
@@ -860,7 +860,7 @@ Dialogue: 0,0:24:14.22,0:24:19.04,Default,ko,0,0,0,,모노호시자오를 대신
 Dialogue: 0,0:24:14.22,0:24:19.04,Default,en,0,0,0,,I looked for a sword that will replace Monohoshizao, but it's nowhere to be found-{\i1}dasu{\i0}!
 Comment: 0,0:24:19.37,0:24:22.29,Default,ja,0,0,0,,次回！ゲ⁉落ち込みコジローだス
 Dialogue: 0,0:24:19.37,0:24:22.29,Default,ko,0,0,0,,다음 이야기! 어?! 침울한 코지로이오!
-Dialogue: 0,0:24:19.37,0:24:22.29,Default,en,0,0,0,,Next story! Huh?! Depressed Kojiro
+Dialogue: 0,0:24:19.37,0:24:22.29,Default,en,0,0,0,,Next story! Huh?! Depressed Kojirō
 Comment: 0,0:24:22.59,0:24:26.85,Default,ja,0,0,0,,疾風怒濤の燕返しをもう一度だす！
 Dialogue: 0,0:24:22.59,0:24:26.85,Default,ko,0,0,0,,질풍노도의 츠바메가에시를 다시 보겠소!
 Dialogue: 0,0:24:22.59,0:24:26.85,Default,en,0,0,0,,We'll see his stormy Tsubamegaeshi again-{\i1}dasu{\i0}!
@@ -871,5 +871,5 @@ Dialogue: 0,0:24:25.26,0:24:29.27,TitleEP,ko,0,0,110,,침울한 코지로이오
 Dialogue: 0,0:24:25.26,0:24:29.27,NoteOnAnime,ko,0,60,30,,{\an3\fs32}재미있게 보세요!
 Dialogue: 0,0:24:25.26,0:24:29.27,NoteOnAnime,en,60,0,60,,{\an7}Next Story
 Dialogue: 0,0:24:25.26,0:24:29.27,TitleEP,en,0,0,225,,That's Bad!
-Dialogue: 0,0:24:25.26,0:24:29.27,TitleEP,en,0,0,110,,Depressed Kojiro
+Dialogue: 0,0:24:25.26,0:24:29.27,TitleEP,en,0,0,110,,Depressed Kojirō
 Dialogue: 0,0:24:25.26,0:24:29.27,NoteOnAnime,en,0,60,30,,{\an3\fs32}We hope you enjoy!

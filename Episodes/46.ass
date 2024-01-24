@@ -35,7 +35,7 @@ Comment: 0,0:00:00.00,0:00:00.00,SETTINGS,,0,0,0,,complete:false;song:song.*;lan
 Dialogue: 0,0:00:04.42,0:00:06.58,Default,ko,0,0,0,,어지러운 전국 시대.
 Dialogue: 0,0:00:04.42,0:00:06.58,Default,en,0,0,0,,It is the turbulent Sengoku period.
 Dialogue: 0,0:00:07.12,0:00:11.53,Default,ko,0,0,0,,카라쿠리인이 사는 지팡구국에서는 군웅할거하여 밤낮으로 접전이 계속되고
-Dialogue: 0,0:00:07.12,0:00:11.53,Default,en,0,0,0,,Warlords keep on fighting day and night over\Nthe Jipangu State, where Karakuri people live.
+Dialogue: 0,0:00:07.12,0:00:11.53,Default,en,0,0,0,,Warlords keep on fighting day and night over\NJipangu State, where Karakuri people live.
 Dialogue: 0,0:00:11.88,0:00:16.24,Default,ko,0,0,0,,카라쿠리 무예가들도 승리와 영광을 꿈꾸며 맹렬히 싸우고 있었다.
 Dialogue: 0,0:00:11.88,0:00:16.24,Default,en,0,0,0,,Karakuri Martial Artists were sharpening their swords, dreaming of victory and honor.
 Dialogue: 0,0:00:16.87,0:00:23.19,Default,ko,0,0,0,,그리고 지금, 카라쿠리 무예자 제일을 꿈꾸는 터무니없는 영웅이 탄생했다!
@@ -49,37 +49,37 @@ Dialogue: 0,0:00:27.90,0:00:33.24,TitleOP,en,0,0,0,,{\fade(770,0)\fs24}(The Stor
 Dialogue: 0,0:00:33.24,0:00:38.08,SongOP,ko,0,0,0,,사내는 언제나 세계 한가운데서
 Dialogue: 0,0:00:33.24,0:00:38.08,SongOP,en,0,0,0,,A man always dreams of the day
 Dialogue: 0,0:00:38.91,0:00:41.83,SongOP,ko,0,0,0,,제일 강해질 날을
-Dialogue: 0,0:00:38.91,0:00:41.83,SongOP,en,0,0,0,,when he'll become the world's
+Dialogue: 0,0:00:38.91,0:00:41.83,SongOP,en,0,0,0,,in the center of the world to become
 Dialogue: 0,0:00:41.83,0:00:44.71,SongOP,ko,0,0,0,,아! 아! 꿈꿔라
-Dialogue: 0,0:00:41.83,0:00:44.71,SongOP,en,0,0,0,,AH! AH! strongest
+Dialogue: 0,0:00:41.83,0:00:44.71,SongOP,en,0,0,0,,AH! AH! the strongest
 Dialogue: 0,0:00:44.71,0:00:49.76,SongOP,ko,0,0,0,,마음의 칼을 넓은 하늘로 번쩍 쳐들어
-Dialogue: 0,0:00:44.71,0:00:49.76,SongOP,en,0,0,0,,Raise your spirit's sword high to the wide sky
+Dialogue: 0,0:00:44.71,0:00:49.76,SongOP,en,0,0,0,,Raise the sword of your heart high to the wide sky
 Dialogue: 0,0:00:50.38,0:00:54.39,SongOP,ko,0,0,0,,모험의 길의 막을 연다
 Dialogue: 0,0:00:50.38,0:00:54.39,SongOP,en,0,0,0,,Raise the curtain to the road of adventure
 Dialogue: 0,0:00:55.72,0:01:00.98,SongOP,ko,0,0,0,,지팡구국을 떠도는 검호
-Dialogue: 0,0:00:55.72,0:01:00.98,SongOP,en,0,0,0,,A skilled Martial Artist wanders Jipangu Country
+Dialogue: 0,0:00:55.72,0:01:00.98,SongOP,en,0,0,0,,A skilled swordsman roams on Jipangu State
 Dialogue: 0,0:01:01.56,0:01:06.61,SongOP,ko,0,0,0,,그 이름은 카라쿠리인 무사시
 Dialogue: 0,0:01:01.56,0:01:06.61,SongOP,en,0,0,0,,His name is Musashi, a Karakuri man
-Dialogue: 0,0:01:08.11,0:01:11.03,SongOP,ko,0,0,0,,격렬한 칼의 소리가
-Dialogue: 0,0:01:08.11,0:01:11.03,SongOP,en,0,0,0,,An intense clash of swords
+Dialogue: 0,0:01:08.11,0:01:11.03,SongOP,ko,0,0,0,,격렬한 승부의 소리는
+Dialogue: 0,0:01:08.11,0:01:11.03,SongOP,en,0,0,0,,The sound of fierce duels
 Dialogue: 0,0:01:11.03,0:01:13.87,SongOP,ko,0,0,0,,눈부신 인생
 Dialogue: 0,0:01:11.03,0:01:13.87,SongOP,en,0,0,0,,makes life dazzling
 Dialogue: 0,0:01:13.87,0:01:19.33,SongOP,ko,0,0,0,,싸웠던 어제보다도 오늘 강해진다
-Dialogue: 0,0:01:13.87,0:01:19.33,SongOP,en,0,0,0,,Yesterday's battles makes you stronger today
+Dialogue: 0,0:01:13.87,0:01:19.33,SongOP,en,0,0,0,,Battles of yesterdays make you stronger today
 Dialogue: 0,0:01:19.37,0:01:25.59,SongOP,ko,0,0,0,,무예! 이도류 무사시
-Dialogue: 0,0:01:19.37,0:01:25.59,SongOP,en,0,0,0,,Martial Art! Dual Blade Musashi
+Dialogue: 0,0:01:19.37,0:01:25.59,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
 Dialogue: 0,0:01:25.59,0:01:28.47,SongOP,ko,0,0,0,,내일은 빛난다
 Dialogue: 0,0:01:25.59,0:01:28.47,SongOP,en,0,0,0,,Tomorrow will be glorious
-Dialogue: 0,0:01:28.47,0:01:31.05,SongOP,ko,0,0,0,,격렬한 칼의 소리가
-Dialogue: 0,0:01:28.47,0:01:31.05,SongOP,en,0,0,0,,An intense clash of swords
+Dialogue: 0,0:01:28.47,0:01:31.05,SongOP,ko,0,0,0,,격렬한 승부의 소리는
+Dialogue: 0,0:01:28.47,0:01:31.05,SongOP,en,0,0,0,,The sound of fierce duels
 Dialogue: 0,0:01:31.05,0:01:33.55,SongOP,ko,0,0,0,,눈부신 인생
 Dialogue: 0,0:01:31.05,0:01:33.55,SongOP,en,0,0,0,,makes life dazzling
 Dialogue: 0,0:01:34.26,0:01:39.64,SongOP,ko,0,0,0,,싸우는 한껏 고요함과 함께
-Dialogue: 0,0:01:34.26,0:01:39.64,SongOP,en,0,0,0,,Fight your hardest with tranquility
+Dialogue: 0,0:01:34.26,0:01:39.64,SongOP,en,0,0,0,,Fight the utmost with the stillness
 Dialogue: 0,0:01:39.69,0:01:45.90,SongOP,ko,0,0,0,,무예! 이도류 무사시
-Dialogue: 0,0:01:39.69,0:01:45.90,SongOP,en,0,0,0,,Martial Art! Dual Blade Musashi
-Dialogue: 0,0:01:45.90,0:01:51.11,SongOP,ko,0,0,0,,미간이 빛나고 있었다 무사시!!
-Dialogue: 0,0:01:45.90,0:01:51.11,SongOP,en,0,0,0,,Shining brow! Musashi!
+Dialogue: 0,0:01:39.69,0:01:45.90,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
+Dialogue: 0,0:01:45.90,0:01:51.11,SongOP,ko,0,0,0,,미간이 반짝였다 무사시!!
+Dialogue: 0,0:01:45.90,0:01:51.11,SongOP,en,0,0,0,,His eyes shined! Musashi!
 Comment: 0,0:02:00.45,0:02:08.45,Default,ja,0,0,0,,スケベな発明家ゲンナイに潜水艦を作ってもらったムサシ達は、海中を探し回り、メガトンジョーを見つけた。
 Dialogue: 0,0:02:00.45,0:02:08.45,Default,ko,0,0,0,,호색한 발명가 겐나이에게 잠수함을 만들어 받은 무사시 일행은 바닷속을 찾아 돌아다녀, 메가톤성을 발견한다.
 Dialogue: 0,0:02:00.45,0:02:08.45,Default,en,0,0,0,,After making a perverted inventor Gennai make a submarine, Musashi and others search the sea, and found Megaton Castle.
@@ -138,7 +138,7 @@ Dialogue: 0,0:03:32.52,0:03:36.82,Default,ko,0,0,0,,그런 걸 알 리가 없잖
 Dialogue: 0,0:03:32.52,0:03:36.82,Default,en,0,0,0,,There's no way for me to know that. Just go back to the grounds!
 Comment: 0,0:03:37.41,0:03:45.11,Default,ja,0,0,0,,コジロー殿、～3時間以上潜りっぱなしですが、このあたりで一休みしたほうが良いのではないでしょうか。
 Dialogue: 0,0:03:37.41,0:03:45.11,Default,ko,0,0,0,,코지로 님. 이러니저러니 해도 3시간 이상 있었던 것 같으니, 이 주변에서 일단 쉬는 게 좋지 않을까요.
-Dialogue: 0,0:03:37.41,0:03:45.11,Default,en,0,0,0,,Mr. Kojiro. We've been underwater more than 3 hours. Maybe it's best for us to take a rest around here.
+Dialogue: 0,0:03:37.41,0:03:45.11,Default,en,0,0,0,,Mr. Kojirō. We've been underwater more than 3 hours. Maybe it's best for us to take a rest around here.
 Comment: 0,0:03:45.11,0:03:46.99,Default,ja,0,0,0,,賛成。
 Dialogue: 0,0:03:45.11,0:03:46.99,Default,ko,0,0,0,,찬성.
 Dialogue: 0,0:03:45.11,0:03:46.99,Default,en,0,0,0,,Agreed.
@@ -156,7 +156,7 @@ Dialogue: 0,0:04:00.59,0:04:01.78,Default,ko,0,0,0,,저건 뭣이오?
 Dialogue: 0,0:04:00.59,0:04:01.78,Default,en,0,0,0,,What's that-{\i1}dasu{\i0}?
 Comment: 0,0:04:08.01,0:04:09.65,Default,ja,0,0,0,,コジロー殿。・はい。
 Dialogue: 0,0:04:08.01,0:04:09.65,Default,ko,0,0,0,,-코지로 님.\N-예.
-Dialogue: 0,0:04:08.01,0:04:09.65,Default,en,0,0,0,,-Mr. Kojiro.\N-Roger.
+Dialogue: 0,0:04:08.01,0:04:09.65,Default,en,0,0,0,,-Mr. Kojirō.\N-Roger.
 Comment: 0,0:04:27.17,0:04:28.03,Default,ja,0,0,0,,こ、これは！
 Dialogue: 0,0:04:27.17,0:04:28.03,Default,ko,0,0,0,,이, 이건!
 Dialogue: 0,0:04:27.17,0:04:28.03,Default,en,0,0,0,,L- look!
@@ -252,7 +252,7 @@ Dialogue: 0,0:07:00.27,0:07:02.77,Default,ko,0,0,0,,다른 방법을 생각해�
 Dialogue: 0,0:07:00.27,0:07:02.77,Default,en,0,0,0,,We have to think of something else.
 Comment: 0,0:07:03.51,0:07:05.00,Default,ja,0,0,0,,コジロー殿、何か？
 Dialogue: 0,0:07:03.51,0:07:05.00,Default,ko,0,0,0,,코지로 님, 무언가?
-Dialogue: 0,0:07:03.51,0:07:05.00,Default,en,0,0,0,,Mr. Kojiro, do you have any idea?
+Dialogue: 0,0:07:03.51,0:07:05.00,Default,en,0,0,0,,Mr. Kojirō, do you have any idea?
 Comment: 0,0:07:05.00,0:07:11.51,Default,ja,0,0,0,,ああ、あの深い海のそこで、やつらが生き続けるには、どこからか空気を取り込まなければ不可能のはず。
 Dialogue: 0,0:07:05.00,0:07:11.51,Default,ko,0,0,0,,예. 저 깊은 바닷속에서 놈들이 살아가는 건 어디선가 공기를 집어들이지 않으면 불가능합니다.
 Dialogue: 0,0:07:05.00,0:07:11.51,Default,en,0,0,0,,Yes. For them to live in that deep sea, they have to take air from somewhere.
@@ -282,7 +282,7 @@ Dialogue: 0,0:07:51.55,0:07:55.90,Default,ko,0,0,0,,그래도 무사시 씨, 단
 Dialogue: 0,0:07:51.55,0:07:55.90,Default,en,0,0,0,,But Mr. Musashi can't do collective actions...
 Comment: 0,0:08:02.56,0:08:09.22,Default,ja,0,0,0,,熱いだスな、この島。まるで南の島に来たみたいだス。な、コジロー？
 Dialogue: 0,0:08:02.56,0:08:09.22,Default,ko,0,0,0,,덥소, 이 섬... 마치 남쪽 섬에 간 느낌이오. 그렇지 않소, 코지로?
-Dialogue: 0,0:08:02.56,0:08:09.22,Default,en,0,0,0,,This island is hot-{\i1}dasu{\i0}... It's like we're on a southern island-{\i1}dasu{\i0}. Don't you agree, Kojiro?
+Dialogue: 0,0:08:02.56,0:08:09.22,Default,en,0,0,0,,This island is hot-{\i1}dasu{\i0}... It's like we're on a southern island-{\i1}dasu{\i0}. Don't you agree, Kojirō?
 Comment: 0,0:08:09.86,0:08:11.84,Default,ja,0,0,0,,なんだ、ムサシ。疲れたのか？
 Dialogue: 0,0:08:09.86,0:08:11.84,Default,ko,0,0,0,,뭐냐, 코지로. 힘드냐?
 Dialogue: 0,0:08:09.86,0:08:11.84,Default,en,0,0,0,,What is it, Musashi? Are you tired already?
@@ -324,7 +324,7 @@ Dialogue: 0,0:08:56.57,0:08:57.72,Default,ko,0,0,0,,저기이오!
 Dialogue: 0,0:08:56.57,0:08:57.72,Default,en,0,0,0,,That-{\i1}dasu{\i0}!
 Comment: 0,0:08:59.87,0:09:00.51,Default,ja,0,0,0,,コジロー殿。
 Dialogue: 0,0:08:59.87,0:09:00.51,Default,ko,0,0,0,,코지로 님.
-Dialogue: 0,0:08:59.87,0:09:00.51,Default,en,0,0,0,,Mr. Kojiro.
+Dialogue: 0,0:08:59.87,0:09:00.51,Default,en,0,0,0,,Mr. Kojirō.
 Comment: 0,0:09:01.00,0:09:01.82,Default,ja,0,0,0,,行ってみましょう。
 Dialogue: 0,0:09:01.00,0:09:01.82,Default,ko,0,0,0,,가 봅시다.
 Dialogue: 0,0:09:01.00,0:09:01.82,Default,en,0,0,0,,Let's go.
@@ -348,7 +348,7 @@ Dialogue: 0,0:09:40.97,0:09:43.33,Default,ko,0,0,0,,수영하고 있긴 한 거�
 Dialogue: 0,0:09:40.97,0:09:43.33,Default,en,0,0,0,,Are they even swimming or what?
 Comment: 0,0:09:43.84,0:09:48.09,Default,ja,0,0,0,,確か、ムサシ殿の泳ぎはコジロー殿に習ったとか。
 Dialogue: 0,0:09:43.84,0:09:48.09,Default,ko,0,0,0,,분명 무사시 님의 수영은 코지로 님께서 배웠을 터.
-Dialogue: 0,0:09:43.84,0:09:48.09,Default,en,0,0,0,,I heard that Mr. Musashi learned swimming from you, Mr. Kojiro.
+Dialogue: 0,0:09:43.84,0:09:48.09,Default,en,0,0,0,,I heard that Mr. Musashi learned swimming from you, Mr. Kojirō.
 Comment: 0,0:09:56.52,0:09:59.59,Default,ja,0,0,0,,いや！なんちゅうでっかい土管だス！
 Dialogue: 0,0:09:56.52,0:09:59.59,Default,ko,0,0,0,,이야, 정말 거대한 토관이오!
 Dialogue: 0,0:09:56.52,0:09:59.59,Default,en,0,0,0,,What a giant earthen pipe-{\i1}dasu{\i0}!
@@ -526,7 +526,7 @@ Dialogue: 0,0:14:38.03,0:14:38.97,Default,ko,0,0,0,,무사시 씨!
 Dialogue: 0,0:14:38.03,0:14:38.97,Default,en,0,0,0,,Mr. Musashi!
 Comment: 0,0:14:39.50,0:14:43.91,Default,ja,0,0,0,,いい？コジローさんのいうことよく聞いてみんなに迷惑かけちゃだめよ。
 Dialogue: 0,0:14:39.50,0:14:43.91,Default,ko,0,0,0,,알겠어? 코지로 씨가 말하는 거 잘 듣고, 누구도 귀찮게 하면 안 돼.
-Dialogue: 0,0:14:39.50,0:14:43.91,Default,en,0,0,0,,Listen to Mr. Kojiro well, and try not to bother anybody.
+Dialogue: 0,0:14:39.50,0:14:43.91,Default,en,0,0,0,,Listen to Mr. Kojirō well, and try not to bother anybody.
 Comment: 0,0:14:44.35,0:14:45.73,Default,ja,0,0,0,,わかってるだすよ。
 Dialogue: 0,0:14:44.35,0:14:45.73,Default,ko,0,0,0,,알겠소.
 Dialogue: 0,0:14:44.35,0:14:45.73,Default,en,0,0,0,,Got it-{\i1}dasu{\i0}.
@@ -637,7 +637,7 @@ Dialogue: 0,0:17:41.00,0:17:43.59,Default,ko,0,0,0,,이거 위험한데. 함정�
 Dialogue: 0,0:17:41.00,0:17:43.59,Default,en,0,0,0,,This isn't good. This has to be a trap.
 Comment: 0,0:17:44.06,0:17:46.55,Default,ja,0,0,0,,いかがなさいます。コジロー殿。
 Dialogue: 0,0:17:44.06,0:17:46.55,Default,ko,0,0,0,,어떻게 하시겠습니까, 코지로 님.
-Dialogue: 0,0:17:44.06,0:17:46.55,Default,en,0,0,0,,What are we going to do, Mr. Kojiro?
+Dialogue: 0,0:17:44.06,0:17:46.55,Default,en,0,0,0,,What are we going to do, Mr. Kojirō?
 Comment: 0,0:17:49.83,0:17:52.31,Default,ja,0,0,0,,行ってみるしかないでしょ。
 Dialogue: 0,0:17:49.83,0:17:52.31,Default,ko,0,0,0,,가 볼 수밖에 없겠군요.
 Dialogue: 0,0:17:49.83,0:17:52.31,Default,en,0,0,0,,I guess we'll have to go.

@@ -38,7 +38,7 @@ Comment: 0,0:00:00.00,0:00:00.00,SETTINGS,,0,0,0,,complete:false;song:song.*;lan
 Dialogue: 0,0:00:04.48,0:00:06.63,Default,ko,0,0,0,,어지러운 전국 시대.
 Dialogue: 0,0:00:04.48,0:00:06.63,Default,en,0,0,0,,It is the turbulent Sengoku period.
 Dialogue: 0,0:00:07.00,0:00:11.82,Default,ko,0,0,0,,카라쿠리인이 사는 지팡구국에서는 군웅할거하여 밤낮으로 접전이 계속되고
-Dialogue: 0,0:00:07.00,0:00:11.82,Default,en,0,0,0,,Warlords keep on fighting day and night over\Nthe Jipangu State, where Karakuri people live.
+Dialogue: 0,0:00:07.00,0:00:11.82,Default,en,0,0,0,,Warlords keep on fighting day and night over\NJipangu State, where Karakuri people live.
 Dialogue: 0,0:00:11.82,0:00:16.77,Default,ko,0,0,0,,카라쿠리 무예가들도 승리와 영광을 꿈꾸며 맹렬히 싸우고 있었다.
 Dialogue: 0,0:00:11.82,0:00:16.77,Default,en,0,0,0,,Karakuri Martial Artists were sharpening their swords, dreaming of victory and honor.
 Dialogue: 0,0:00:16.77,0:00:23.50,Default,ko,0,0,0,,그리고 지금, 카라쿠리 무예자 제일을 꿈꾸는 터무니없는 영웅이 탄생했다!
@@ -50,41 +50,41 @@ Dialogue: 0,0:00:28.09,0:00:33.15,TitleOP,en,0,0,90,,{\an8\fs32}Karakuri Kengoud
 Dialogue: 0,0:00:28.09,0:00:33.15,TitleOP,en,0,0,48,,Musashi Road
 Dialogue: 0,0:00:28.09,0:00:33.15,TitleOP,en,0,0,0,,{\fs24}(The Story of {\i1}Karakuri{\i0} Martial Artist: Road of Musashi)
 Dialogue: 0,0:00:33.15,0:00:37.99,SongOP,ko,0,0,0,,사내는 언제나 세계 한가운데서
-Dialogue: 0,0:00:33.15,0:00:37.99,SongOP,en,0,0,0,,A man always dreams of a day
+Dialogue: 0,0:00:33.15,0:00:37.99,SongOP,en,0,0,0,,A man always dreams of the day
 Dialogue: 0,0:00:38.83,0:00:41.75,SongOP,ko,0,0,0,,제일 강해질 날을
 Dialogue: 0,0:00:38.83,0:00:41.75,SongOP,en,0,0,0,,in the center of the world to become
 Dialogue: 0,0:00:41.75,0:00:44.62,SongOP,ko,0,0,0,,아! 아! 꿈꿔라
 Dialogue: 0,0:00:41.75,0:00:44.62,SongOP,en,0,0,0,,AH! AH! the strongest
 Dialogue: 0,0:00:44.62,0:00:49.67,SongOP,ko,0,0,0,,마음의 칼을 넓은 하늘로 번쩍 쳐들어
-Dialogue: 0,0:00:44.62,0:00:49.67,SongOP,en,0,0,0,,Raise the sword of spirit high to the wide sky
+Dialogue: 0,0:00:44.62,0:00:49.67,SongOP,en,0,0,0,,Raise the sword of your heart high to the wide sky
 Dialogue: 0,0:00:50.30,0:00:54.30,SongOP,ko,0,0,0,,모험의 길의 막을 연다
 Dialogue: 0,0:00:50.30,0:00:54.30,SongOP,en,0,0,0,,Raise the curtain to the road of adventure
 Dialogue: 0,0:00:55.64,0:01:00.89,SongOP,ko,0,0,0,,지팡구국을 떠도는 검호
-Dialogue: 0,0:00:55.64,0:01:00.89,SongOP,en,0,0,0,,A skilled Martial Artist wanders Jipangu Country
+Dialogue: 0,0:00:55.64,0:01:00.89,SongOP,en,0,0,0,,A skilled swordsman roams on Jipangu State
 Dialogue: 0,0:01:01.47,0:01:06.52,SongOP,ko,0,0,0,,그 이름은 카라쿠리인 무사시
-Dialogue: 0,0:01:01.47,0:01:06.52,SongOP,en,0,0,0,,His name is Musashi, a Karakuri Man
-Dialogue: 0,0:01:08.02,0:01:10.94,SongOP,ko,0,0,0,,격렬한 칼의 소리가
-Dialogue: 0,0:01:08.02,0:01:10.94,SongOP,en,0,0,0,,Intense clash of swords
+Dialogue: 0,0:01:01.47,0:01:06.52,SongOP,en,0,0,0,,His name is Musashi, a Karakuri man
+Dialogue: 0,0:01:08.02,0:01:10.94,SongOP,ko,0,0,0,,격렬한 승부의 소리는
+Dialogue: 0,0:01:08.02,0:01:10.94,SongOP,en,0,0,0,,The sound of fierce duels
 Dialogue: 0,0:01:10.94,0:01:13.78,SongOP,ko,0,0,0,,눈부신 인생
 Dialogue: 0,0:01:10.94,0:01:13.78,SongOP,en,0,0,0,,makes a life dazzle
 Dialogue: 0,0:01:13.78,0:01:19.24,SongOP,ko,0,0,0,,싸웠던 어제보다도 오늘 강해진다
-Dialogue: 0,0:01:13.78,0:01:19.24,SongOP,en,0,0,0,,Fight yesterday and become stronger today
+Dialogue: 0,0:01:13.78,0:01:19.24,SongOP,en,0,0,0,,Battles of yesterdays make you stronger today
 Dialogue: 0,0:01:19.28,0:01:25.50,SongOP,ko,0,0,0,,무예! 이도류 무사시
-Dialogue: 0,0:01:19.28,0:01:25.50,SongOP,en,0,0,0,,Martial Art! Dual Blade is Musashi
+Dialogue: 0,0:01:19.28,0:01:25.50,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
 Dialogue: 0,0:01:25.50,0:01:28.42,SongOP,ko,0,0,0,,내일은 빛난다
 Dialogue: 0,0:01:25.50,0:01:28.42,SongOP,en,0,0,0,,Tomorrow will be glorious
-Dialogue: 0,0:01:28.42,0:01:30.98,SongOP,ko,0,0,0,,격렬한 칼의 소리가
-Dialogue: 0,0:01:28.42,0:01:30.98,SongOP,en,0,0,0,,Intense clash of swords
+Dialogue: 0,0:01:28.42,0:01:30.98,SongOP,ko,0,0,0,,격렬한 승부의 소리는
+Dialogue: 0,0:01:28.42,0:01:30.98,SongOP,en,0,0,0,,The sound of fierce duels
 Dialogue: 0,0:01:30.96,0:01:33.46,SongOP,ko,0,0,0,,눈부신 인생
 Dialogue: 0,0:01:30.96,0:01:33.46,SongOP,en,0,0,0,,makes a life dazzle
 Dialogue: 0,0:01:34.17,0:01:39.55,SongOP,ko,0,0,0,,싸우는 한껏 고요함과 함께
-Dialogue: 0,0:01:34.17,0:01:39.55,SongOP,en,0,0,0,,Fight the utmost with the tranquility
+Dialogue: 0,0:01:34.17,0:01:39.55,SongOP,en,0,0,0,,Fight the utmost with the stillness
 Dialogue: 0,0:01:39.60,0:01:45.81,SongOP,ko,0,0,0,,무예! 이도류 무사시
-Dialogue: 0,0:01:39.60,0:01:45.81,SongOP,en,0,0,0,,Martial Art! Dual Blade is Musashi
-Dialogue: 0,0:01:45.81,0:01:51.07,SongOP,ko,0,0,0,,미간이 빛나고 있었다 무사시!!
-Dialogue: 0,0:01:45.81,0:01:51.07,SongOP,en,0,0,0,,The brow was shining! Musashi!!
+Dialogue: 0,0:01:39.60,0:01:45.81,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
+Dialogue: 0,0:01:45.81,0:01:51.07,SongOP,ko,0,0,0,,미간이 반짝였다 무사시!!
+Dialogue: 0,0:01:45.81,0:01:51.07,SongOP,en,0,0,0,,His eyes shined! Musashi!!
 Dialogue: 0,0:01:59.95,0:02:05.87,Default,ko,0,0,0,,지팡구 제일의 무예가를 꿈꾸며 여행을 떠난 무사시는 칼 장인 코테츠에게 제자임을 보이고
-Dialogue: 0,0:01:59.95,0:02:05.87,Default,en,0,0,0,,[?] Dreaming for the number one Martial Artist of Jipangu country, Musashi showed Kotetsu, the master sword craftsman, that he is a pupil.
+Dialogue: 0,0:01:59.95,0:02:05.87,Default,en,0,0,0,,[?] Dreaming for the number one Martial Artist of Jipangu State, Musashi showed Kotetsu, the master sword craftsman, that he is a pupil.
 Dialogue: 0,0:02:05.87,0:02:08.81,Default,ko,0,0,0,,결국엔 명검을 손에 넣게 되었다.
 Dialogue: 0,0:02:05.87,0:02:08.81,Default,en,0,0,0,,Finally he managed to get those master's swords.
 Dialogue: 0,0:02:09.16,0:02:17.97,Default,ko,0,0,0,,대만족, 기분은 지팡구 제일이었지만, 과연 앞길에서 기다리는 것은 바람인가 폭풍인가?
@@ -113,7 +113,7 @@ Dialogue: 0,0:02:50.76,0:02:52.16,Default,en,0,0,0,,Hmph! How unsightly.
 Dialogue: 0,0:02:52.44,0:02:52.89,Default,ko,0,0,0,,뭐라?
 Dialogue: 0,0:02:52.44,0:02:52.89,Default,en,0,0,0,,What?!
 Dialogue: 0,0:02:56.12,0:02:57.76,Default,ko,0,0,0,,어? 저건 코지로!
-Dialogue: 0,0:02:56.12,0:02:57.76,Default,en,0,0,0,,Huh? You are Kojiro!
+Dialogue: 0,0:02:56.12,0:02:57.76,Default,en,0,0,0,,Huh? You are Kojirō!
 Dialogue: 0,0:02:58.23,0:03:04.01,Default,ko,0,0,0,,흥, 뭐가 무예의 단련이냐? 집오리가 춤추는 것만 같은 흉한 꼴을 하고!
 Dialogue: 0,0:02:58.23,0:03:04.01,Default,en,0,0,0,,You call that training for martial arts? You look very unsightly, like a dancing house duck!
 Dialogue: 0,0:03:04.16,0:03:05.50,Default,ko,0,0,0,,집오리가 춤춘다?
@@ -137,7 +137,7 @@ Dialogue: 0,0:03:37.10,0:03:42.77,Default,en,0,0,0,,N- no way! This is the excel
 Dialogue: 0,0:03:43.07,0:03:45.29,Default,ko,0,0,0,,승부를 보면 날카로움을 볼 수 있을 것이오!
 Dialogue: 0,0:03:43.07,0:03:45.29,Default,en,0,0,0,,By having a match, you will see its sharpness-{\i1}dasu{\i0}!
 Dialogue: 0,0:03:45.41,0:03:46.59,Default,ko,0,0,0,,칼을 꺼내시오, 코지로!
-Dialogue: 0,0:03:45.41,0:03:46.59,Default,en,0,0,0,,Pull your sword out, Kojiro!
+Dialogue: 0,0:03:45.41,0:03:46.59,Default,en,0,0,0,,Pull your sword out, Kojirō!
 Dialogue: 0,0:03:46.83,0:03:48.23,Default,ko,0,0,0,,답이 없는 녀석이군.
 Dialogue: 0,0:03:46.83,0:03:48.23,Default,en,0,0,0,,What a hopeless guy.
 Dialogue: 0,0:03:49.37,0:03:51.19,Default,ko,0,0,0,,좋다, 저긴 어떠냐.
@@ -145,7 +145,7 @@ Dialogue: 0,0:03:49.37,0:03:51.19,Default,en,0,0,0,,Okay then. Let's have a matc
 Dialogue: 0,0:03:54.33,0:03:55.04,Default,ko,0,0,0,,좋소!
 Dialogue: 0,0:03:54.33,0:03:55.04,Default,en,0,0,0,,Agreed!
 Dialogue: 0,0:04:03.36,0:04:07.23,Default,ko,0,0,0,,자, 코지로! 오늘로 결판을 내겠소!
-Dialogue: 0,0:04:03.36,0:04:07.23,Default,en,0,0,0,,Now, Kojiro! I'll finish this as of today-{\i1}dasu{\i0}!
+Dialogue: 0,0:04:03.36,0:04:07.23,Default,en,0,0,0,,Now, Kojirō! I'll finish this as of today-{\i1}dasu{\i0}!
 Dialogue: 0,0:04:08.06,0:04:08.57,Default,ko,0,0,0,,어?
 Dialogue: 0,0:04:08.06,0:04:08.57,Default,en,0,0,0,,Huh?
 Dialogue: 0,0:04:08.57,0:04:13.24,Default,ko,0,0,0,,너같은 멧돼지같은 꼬마하고 놀고 있을 여유 따위 없다는 걸 잊어먹고 있었다!
@@ -153,7 +153,7 @@ Dialogue: 0,0:04:08.57,0:04:13.24,Default,en,0,0,0,,I forgot that I had no time 
 Dialogue: 0,0:04:15.87,0:04:17.10,Default,ko,0,0,0,,뭐, 뭐시라?
 Dialogue: 0,0:04:15.87,0:04:17.10,Default,en,0,0,0,,What did you say-{\i1}dasu{\i0}?!
 Dialogue: 0,0:04:17.10,0:04:21.12,Default,ko,0,0,0,,코지로! 비겁하오! 사내답지 않소! 무예가도 아니오!
-Dialogue: 0,0:04:17.10,0:04:21.12,Default,en,0,0,0,,Kojiro, you're cowardly-{\i1}dasu{\i0}! You're not a man-{\i1}dasu{\i0}! You're not even a Martial Artist-{\i1}dasu{\i0}!
+Dialogue: 0,0:04:17.10,0:04:21.12,Default,en,0,0,0,,Kojirō, you're cowardly-{\i1}dasu{\i0}! You're not a man-{\i1}dasu{\i0}! You're not even a Martial Artist-{\i1}dasu{\i0}!
 Dialogue: 0,0:04:21.26,0:04:24.57,Note,ko,0,0,0,,(무수승류: 無手勝流, 무테카츠류. 싸우지 않고 이김)
 Dialogue: 0,0:04:21.26,0:04:24.57,Default,ko,0,0,0,,이건 머리를 쓰는 고도 전술, 무수승류다!
 Dialogue: 0,0:04:21.26,0:04:24.57,Note,en,0,0,0,,(Mutekatsu-ryu: 無手勝流. Winning without fighting)
@@ -163,13 +163,13 @@ Dialogue: 0,0:04:24.57,0:04:27.34,Default,en,0,0,0,,Have a time examining yourse
 Dialogue: 0,0:04:27.66,0:04:30.28,Default,ko,0,0,0,,시끄럽소! 닥치시오! 닥치시오!
 Dialogue: 0,0:04:27.66,0:04:30.28,Default,en,0,0,0,,You're noisy-{\i1}dasu{\i0}! Shut up! Shut up-{\i1}dasu{\i0}!
 Dialogue: 0,0:04:35.68,0:04:39.00,Default,ko,0,0,0,,네이놈, 코지로! 비겁한 자식!
-Dialogue: 0,0:04:35.68,0:04:39.00,Default,en,0,0,0,,Damn you, Kojiro! You cowardly bastard!
+Dialogue: 0,0:04:35.68,0:04:39.00,Default,en,0,0,0,,Damn you, Kojirō! You cowardly bastard!
 Dialogue: 0,0:04:39.60,0:04:41.29,Default,ko,0,0,0,,아, 비참하오...
 Dialogue: 0,0:04:39.60,0:04:41.29,Default,en,0,0,0,,I feel so miserable-{\i1}dasu{\i0}...
 Dialogue: 0,0:04:47.64,0:04:50.96,Default,ko,0,0,0,,이 분함, 절대 잊지 않겠소!
 Dialogue: 0,0:04:47.64,0:04:50.96,Default,en,0,0,0,,I will never forget this bitterness-{\i1}dasu{\i0}!
 Dialogue: 0,0:04:55.23,0:04:59.48,Default,ko,0,0,0,,코지로 놈! 다시 만나면 10등분으로 베어 주겠소!
-Dialogue: 0,0:04:55.23,0:04:59.48,Default,en,0,0,0,,Damn that Kojiro! If we meet again, I'll cut you into pieces-{\i1}dasu{\i0}!
+Dialogue: 0,0:04:55.23,0:04:59.48,Default,en,0,0,0,,Damn that Kojirō! If we meet again, I'll cut you into pieces-{\i1}dasu{\i0}!
 Dialogue: 0,0:05:05.28,0:05:06.89,Default,ko,0,0,0,,역시 명검!
 Dialogue: 0,0:05:05.28,0:05:06.89,Default,en,0,0,0,,Expected from this sword!
 Dialogue: 0,0:05:09.42,0:05:13.88,Default,ko,0,0,0,,이야, 훌륭하오! 대단한 검술. 진정으로 감탄했습니다.
@@ -545,7 +545,7 @@ Dialogue: 0,0:18:37.58,0:18:38.35,Default,en,0,0,0,,Finishing move!
 Dialogue: 0,0:18:40.62,0:18:42.22,Default,ko,0,0,0,,달아가냐, 꼬맹아!
 Dialogue: 0,0:18:40.62,0:18:42.22,Default,en,0,0,0,,Are you running away, you brat?!
 Dialogue: 0,0:18:42.22,0:18:46.68,Default,ko,0,0,0,,아니오! 좁은 도장에서는 의의가 막히니까 밖으로 나왔을 뿐이오!
-Dialogue: 0,0:18:42.22,0:18:46.68,Default,en,0,0,0,,That's not it! I just came out because my spirit was blocked inside the limited space inside dojo!
+Dialogue: 0,0:18:42.22,0:18:46.68,Default,en,0,0,0,,That's not it! I just came out because my spirit was blocked inside the limited space inside Dōjō!
 Dialogue: 0,0:18:47.28,0:18:49.63,Default,ko,0,0,0,,패배를 인정하기 1초 전이군!
 Dialogue: 0,0:18:47.28,0:18:49.63,Default,en,0,0,0,,One second before you admit your loss!
 Dialogue: 0,0:18:57.85,0:18:59.37,Default,ko,0,0,0,,움직일 수가 없소!

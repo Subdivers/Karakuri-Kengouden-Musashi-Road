@@ -28,7 +28,7 @@ Style: Note,Candara,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,
 Style: Eyecatch,Candara,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,10,10,10,1
 Style: NoteOnAnimeVert,@맑은 고딕,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,10,1
 Style: SongZenigatan,Candara,28,&H00FFFFFF,&H000000FF,&H00AA3D30,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,8,10,10,10,1
-Style: SongKojiro,Candara,28,&H00FFFFFF,&H000000FF,&H000000FF,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,8,10,10,10,1
+Style: SongKojirō,Candara,28,&H00FFFFFF,&H000000FF,&H000000FF,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,8,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -36,7 +36,7 @@ Comment: 0,0:00:00.00,0:00:00.00,SETTINGS,,0,0,0,,complete:false;song:song.*;lan
 Dialogue: 0,0:00:04.38,0:00:06.54,Default,ko,0,0,0,,어지러운 전국 시대.
 Dialogue: 0,0:00:04.38,0:00:06.54,Default,en,0,0,0,,It is the turbulent Sengoku period.
 Dialogue: 0,0:00:07.08,0:00:11.49,Default,ko,0,0,0,,카라쿠리인이 사는 지팡구국에서는 군웅할거하여 밤낮으로 접전이 계속되고
-Dialogue: 0,0:00:07.08,0:00:11.49,Default,en,0,0,0,,Warlords keep on fighting day and night over\Nthe Jipangu State, where Karakuri people live.
+Dialogue: 0,0:00:07.08,0:00:11.49,Default,en,0,0,0,,Warlords keep on fighting day and night over\NJipangu State, where Karakuri people live.
 Dialogue: 0,0:00:11.84,0:00:16.20,Default,ko,0,0,0,,카라쿠리 무예가들도 승리와 영광을 꿈꾸며 맹렬히 싸우고 있었다.
 Dialogue: 0,0:00:11.84,0:00:16.20,Default,en,0,0,0,,Karakuri Martial Artists were sharpening their swords, dreaming of victory and honor.
 Dialogue: 0,0:00:16.83,0:00:23.15,Default,ko,0,0,0,,그리고 지금, 카라쿠리 무예자 제일을 꿈꾸는 터무니없는 영웅이 탄생했다!
@@ -50,37 +50,37 @@ Dialogue: 0,0:00:27.86,0:00:33.20,TitleOP,en,0,0,0,,{\fade(770,0)\fs24}(The Stor
 Dialogue: 0,0:00:33.20,0:00:38.04,SongOP,ko,0,0,0,,사내는 언제나 세계 한가운데서
 Dialogue: 0,0:00:33.20,0:00:38.04,SongOP,en,0,0,0,,A man always dreams of the day
 Dialogue: 0,0:00:38.87,0:00:41.79,SongOP,ko,0,0,0,,제일 강해질 날을
-Dialogue: 0,0:00:38.87,0:00:41.79,SongOP,en,0,0,0,,when he'll become the world's
+Dialogue: 0,0:00:38.87,0:00:41.79,SongOP,en,0,0,0,,in the center of the world to become
 Dialogue: 0,0:00:41.79,0:00:44.67,SongOP,ko,0,0,0,,아! 아! 꿈꿔라
-Dialogue: 0,0:00:41.79,0:00:44.67,SongOP,en,0,0,0,,AH! AH! strongest
+Dialogue: 0,0:00:41.79,0:00:44.67,SongOP,en,0,0,0,,AH! AH! the strongest
 Dialogue: 0,0:00:44.67,0:00:49.72,SongOP,ko,0,0,0,,마음의 칼을 넓은 하늘로 번쩍 쳐들어
-Dialogue: 0,0:00:44.67,0:00:49.72,SongOP,en,0,0,0,,Raise your spirit's sword high to the wide sky
+Dialogue: 0,0:00:44.67,0:00:49.72,SongOP,en,0,0,0,,Raise the sword of your heart high to the wide sky
 Dialogue: 0,0:00:50.34,0:00:54.35,SongOP,ko,0,0,0,,모험의 길의 막을 연다
 Dialogue: 0,0:00:50.34,0:00:54.35,SongOP,en,0,0,0,,Raise the curtain to the road of adventure
 Dialogue: 0,0:00:55.68,0:01:00.94,SongOP,ko,0,0,0,,지팡구국을 떠도는 검호
-Dialogue: 0,0:00:55.68,0:01:00.94,SongOP,en,0,0,0,,A skilled Martial Artist wanders Jipangu Country
+Dialogue: 0,0:00:55.68,0:01:00.94,SongOP,en,0,0,0,,A skilled swordsman roams on Jipangu State
 Dialogue: 0,0:01:01.52,0:01:06.57,SongOP,ko,0,0,0,,그 이름은 카라쿠리인 무사시
 Dialogue: 0,0:01:01.52,0:01:06.57,SongOP,en,0,0,0,,His name is Musashi, a Karakuri man
-Dialogue: 0,0:01:08.07,0:01:10.99,SongOP,ko,0,0,0,,격렬한 칼의 소리가
-Dialogue: 0,0:01:08.07,0:01:10.99,SongOP,en,0,0,0,,An intense clash of swords
+Dialogue: 0,0:01:08.07,0:01:10.99,SongOP,ko,0,0,0,,격렬한 승부의 소리는
+Dialogue: 0,0:01:08.07,0:01:10.99,SongOP,en,0,0,0,,The sound of fierce duels
 Dialogue: 0,0:01:10.99,0:01:13.83,SongOP,ko,0,0,0,,눈부신 인생
 Dialogue: 0,0:01:10.99,0:01:13.83,SongOP,en,0,0,0,,makes life dazzling
 Dialogue: 0,0:01:13.83,0:01:19.29,SongOP,ko,0,0,0,,싸웠던 어제보다도 오늘 강해진다
-Dialogue: 0,0:01:13.83,0:01:19.29,SongOP,en,0,0,0,,Yesterday's battles makes you stronger today
+Dialogue: 0,0:01:13.83,0:01:19.29,SongOP,en,0,0,0,,Battles of yesterdays make you stronger today
 Dialogue: 0,0:01:19.33,0:01:25.55,SongOP,ko,0,0,0,,무예! 이도류 무사시
-Dialogue: 0,0:01:19.33,0:01:25.55,SongOP,en,0,0,0,,Martial Art! Dual Blade Musashi
+Dialogue: 0,0:01:19.33,0:01:25.55,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
 Dialogue: 0,0:01:25.55,0:01:28.43,SongOP,ko,0,0,0,,내일은 빛난다
 Dialogue: 0,0:01:25.55,0:01:28.43,SongOP,en,0,0,0,,Tomorrow will be glorious
-Dialogue: 0,0:01:28.43,0:01:31.01,SongOP,ko,0,0,0,,격렬한 칼의 소리가
-Dialogue: 0,0:01:28.43,0:01:31.01,SongOP,en,0,0,0,,An intense clash of swords
+Dialogue: 0,0:01:28.43,0:01:31.01,SongOP,ko,0,0,0,,격렬한 승부의 소리는
+Dialogue: 0,0:01:28.43,0:01:31.01,SongOP,en,0,0,0,,The sound of fierce duels
 Dialogue: 0,0:01:31.01,0:01:33.51,SongOP,ko,0,0,0,,눈부신 인생
 Dialogue: 0,0:01:31.01,0:01:33.51,SongOP,en,0,0,0,,makes life dazzling
 Dialogue: 0,0:01:34.22,0:01:39.60,SongOP,ko,0,0,0,,싸우는 한껏 고요함과 함께
-Dialogue: 0,0:01:34.22,0:01:39.60,SongOP,en,0,0,0,,Fight your hardest with tranquility
+Dialogue: 0,0:01:34.22,0:01:39.60,SongOP,en,0,0,0,,Fight the utmost with the stillness
 Dialogue: 0,0:01:39.65,0:01:45.86,SongOP,ko,0,0,0,,무예! 이도류 무사시
-Dialogue: 0,0:01:39.65,0:01:45.86,SongOP,en,0,0,0,,Martial Art! Dual Blade Musashi
-Dialogue: 0,0:01:45.86,0:01:51.07,SongOP,ko,0,0,0,,미간이 빛나고 있었다 무사시!!
-Dialogue: 0,0:01:45.86,0:01:51.07,SongOP,en,0,0,0,,Shining brow! Musashi!
+Dialogue: 0,0:01:39.65,0:01:45.86,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
+Dialogue: 0,0:01:45.86,0:01:51.07,SongOP,ko,0,0,0,,미간이 반짝였다 무사시!!
+Dialogue: 0,0:01:45.86,0:01:51.07,SongOP,en,0,0,0,,His eyes shined! Musashi!
 Comment: 0,0:02:00.69,0:02:04.75,Default,ja,0,0,0,,天下を握るため再び聖剣を奪わるとする六道魔王。
 Dialogue: 0,0:02:00.69,0:02:04.75,Default,ko,0,0,0,,천하를 손에 잡기 위해 다시 성검을 노리는 육도마왕.
 Dialogue: 0,0:02:00.69,0:02:04.75,Default,en,0,0,0,,Rikudomaoh is looking to get the sacred sword to take the world under his hands.
@@ -643,7 +643,7 @@ Dialogue: 0,0:16:39.82,0:16:42.65,Default,ko,0,0,0,,이야, 꽤나 맛있어.
 Dialogue: 0,0:16:39.82,0:16:42.65,Default,en,0,0,0,,These are pretty delicious!
 Comment: 0,0:16:43.15,0:16:45.76,Default,ja,0,0,0,,あれ？そういえばコジローはどこだス？
 Dialogue: 0,0:16:43.15,0:16:45.76,Default,ko,0,0,0,,어라? 그러고 보니 코지로는 어디 갔소?
-Dialogue: 0,0:16:43.15,0:16:45.76,Default,en,0,0,0,,Huh? Where's Kojiro, by the way-{\i1}dasu{\i0}?
+Dialogue: 0,0:16:43.15,0:16:45.76,Default,en,0,0,0,,Huh? Where's Kojirō, by the way-{\i1}dasu{\i0}?
 Comment: 0,0:16:46.32,0:16:48.24,Default,ja,0,0,0,,今、見張りんだってもらってます。
 Dialogue: 0,0:16:46.32,0:16:48.24,Default,ko,0,0,0,,지금 망을 보고 있어요.
 Dialogue: 0,0:16:46.32,0:16:48.24,Default,en,0,0,0,,He's working as a guard.
@@ -662,57 +662,57 @@ Dialogue: 0,0:16:57.63,0:17:02.58,Default,en,0,0,0,,Oh, my. They'll be fine if I
 Comment: 0,0:17:03.75,0:17:04.94,Default,ja,0,0,0,,死にはしないわ。
 Dialogue: 0,0:17:03.75,0:17:04.94,Default,ko,0,0,0,,죽지는 않아.
 Dialogue: 0,0:17:03.75,0:17:04.94,Default,en,0,0,0,,He won't die.
-Comment: 0,0:17:13.44,0:17:18.72,SongKojiro,ja,0,0,0,,Lonely　強い男には
-Dialogue: 0,0:17:13.44,0:17:18.72,SongKojiro,ko,0,0,0,,고독한 강한 사내는
-Dialogue: 0,0:17:13.44,0:17:18.72,SongKojiro,en,0,0,0,,To a lonely strong man,
-Comment: 0,0:17:19.02,0:17:22.42,SongKojiro,ja,0,0,0,,勝つことさえも
-Dialogue: 0,0:17:19.02,0:17:22.42,SongKojiro,ko,0,0,0,,이기는 일마저도
-Dialogue: 0,0:17:19.02,0:17:22.42,SongKojiro,en,0,0,0,,even winning
-Comment: 0,0:17:22.66,0:17:26.05,SongKojiro,ja,0,0,0,,辛くなる
-Dialogue: 0,0:17:22.66,0:17:26.05,SongKojiro,ko,0,0,0,,쓰라려지지
-Dialogue: 0,0:17:22.66,0:17:26.05,SongKojiro,en,0,0,0,,is painful
-Comment: 0,0:17:27.69,0:17:33.12,SongKojiro,ja,0,0,0,,Lonely　優しい男は
-Dialogue: 0,0:17:27.69,0:17:33.12,SongKojiro,ko,0,0,0,,고독한 고운 사내는
-Dialogue: 0,0:17:27.69,0:17:33.12,SongKojiro,en,0,0,0,,A lonely tender man
-Comment: 0,0:17:33.53,0:17:36.61,SongKojiro,ja,0,0,0,,愛する人には
-Dialogue: 0,0:17:33.53,0:17:36.61,SongKojiro,ko,0,0,0,,사랑하는 사람에게는
-Dialogue: 0,0:17:33.53,0:17:36.61,SongKojiro,en,0,0,0,,becomes cold
-Comment: 0,0:17:36.61,0:17:40.44,SongKojiro,ja,0,0,0,,冷たくなる
-Dialogue: 0,0:17:36.61,0:17:40.44,SongKojiro,ko,0,0,0,,차가워지지
-Dialogue: 0,0:17:36.61,0:17:40.44,SongKojiro,en,0,0,0,,to lovers
-Comment: 0,0:17:42.18,0:17:49.01,SongKojiro,ja,0,0,0,,暗闇に揺れる　City Light
-Dialogue: 0,0:17:42.18,0:17:49.01,SongKojiro,ko,0,0,0,,어둠에 흔들리는 도시 불빛
-Dialogue: 0,0:17:42.18,0:17:49.01,SongKojiro,en,0,0,0,,Shaking in darkness, City Light
-Comment: 0,0:17:49.36,0:17:57.41,SongKojiro,ja,0,0,0,,ままならぬ　浮世の風
-Dialogue: 0,0:17:49.36,0:17:57.41,SongKojiro,ko,0,0,0,,뜻대로 안 되는 세상 풍조
-Dialogue: 0,0:17:49.36,0:17:57.41,SongKojiro,en,0,0,0,,The tide of the world isn't following my will
-Comment: 0,0:17:57.87,0:18:01.83,SongKojiro,ja,0,0,0,,Like a swallow in the blue sky
-Dialogue: 0,0:17:57.87,0:18:01.83,SongKojiro,ko,0,0,0,,파란 하늘의 제비처럼
-Dialogue: 0,0:17:57.87,0:18:01.83,SongKojiro,en,0,0,0,,Like a swallow in the blue sky
-Comment: 0,0:18:02.43,0:18:05.14,SongKojiro,ja,0,0,0,,風を切り
-Dialogue: 0,0:18:02.43,0:18:05.14,SongKojiro,ko,0,0,0,,바람을 갈라
-Dialogue: 0,0:18:02.43,0:18:05.14,SongKojiro,en,0,0,0,,Cutting through the wind
-Comment: 0,0:18:05.14,0:18:12.23,SongKojiro,ja,0,0,0,,乱れ街の空を飛ぶ　TSUBAME
-Dialogue: 0,0:18:05.14,0:18:12.23,SongKojiro,ko,0,0,0,,요동치는 하늘길을 날아가는 제비
-Dialogue: 0,0:18:05.14,0:18:12.23,SongKojiro,en,0,0,0,,I'm a swallow flying through the disordered sky
-Comment: 0,0:18:12.54,0:18:16.50,SongKojiro,ja,0,0,0,,swallow in the blue sky
-Dialogue: 0,0:18:12.54,0:18:16.50,SongKojiro,ko,0,0,0,,파란 하늘의 제비
-Dialogue: 0,0:18:12.54,0:18:16.50,SongKojiro,en,0,0,0,,Swallow in the blue sky
-Comment: 0,0:18:16.78,0:18:19.57,SongKojiro,ja,0,0,0,,ひとりきり
-Dialogue: 0,0:18:16.78,0:18:19.57,SongKojiro,ko,0,0,0,,혼자서
-Dialogue: 0,0:18:16.78,0:18:19.57,SongKojiro,en,0,0,0,,On all one's own
-Comment: 0,0:18:19.57,0:18:26.45,SongKojiro,ja,0,0,0,,いつか別の　Lonely birdが
-Dialogue: 0,0:18:19.57,0:18:26.45,SongKojiro,ko,0,0,0,,언젠가 또다른 외로운 새가
-Dialogue: 0,0:18:19.57,0:18:26.45,SongKojiro,en,0,0,0,,Until the day that another lonely bird
-Comment: 0,0:18:26.75,0:18:36.17,SongKojiro,ja,0,0,0,,追い越して行く　その日まで
-Dialogue: 0,0:18:26.75,0:18:36.17,SongKojiro,ko,0,0,0,,앞질러가는 그 날까지
-Dialogue: 0,0:18:26.75,0:18:36.17,SongKojiro,en,0,0,0,,gets ahead of me
+Comment: 0,0:17:13.44,0:17:18.72,SongKojirō,ja,0,0,0,,Lonely　強い男には
+Dialogue: 0,0:17:13.44,0:17:18.72,SongKojirō,ko,0,0,0,,고독한 강한 사내는
+Dialogue: 0,0:17:13.44,0:17:18.72,SongKojirō,en,0,0,0,,To a lonely strong man,
+Comment: 0,0:17:19.02,0:17:22.42,SongKojirō,ja,0,0,0,,勝つことさえも
+Dialogue: 0,0:17:19.02,0:17:22.42,SongKojirō,ko,0,0,0,,이기는 일마저도
+Dialogue: 0,0:17:19.02,0:17:22.42,SongKojirō,en,0,0,0,,even winning
+Comment: 0,0:17:22.66,0:17:26.05,SongKojirō,ja,0,0,0,,辛くなる
+Dialogue: 0,0:17:22.66,0:17:26.05,SongKojirō,ko,0,0,0,,쓰라려지지
+Dialogue: 0,0:17:22.66,0:17:26.05,SongKojirō,en,0,0,0,,is painful
+Comment: 0,0:17:27.69,0:17:33.12,SongKojirō,ja,0,0,0,,Lonely　優しい男は
+Dialogue: 0,0:17:27.69,0:17:33.12,SongKojirō,ko,0,0,0,,고독한 고운 사내는
+Dialogue: 0,0:17:27.69,0:17:33.12,SongKojirō,en,0,0,0,,A lonely tender man
+Comment: 0,0:17:33.53,0:17:36.61,SongKojirō,ja,0,0,0,,愛する人には
+Dialogue: 0,0:17:33.53,0:17:36.61,SongKojirō,ko,0,0,0,,사랑하는 사람에게는
+Dialogue: 0,0:17:33.53,0:17:36.61,SongKojirō,en,0,0,0,,becomes cold
+Comment: 0,0:17:36.61,0:17:40.44,SongKojirō,ja,0,0,0,,冷たくなる
+Dialogue: 0,0:17:36.61,0:17:40.44,SongKojirō,ko,0,0,0,,차가워지지
+Dialogue: 0,0:17:36.61,0:17:40.44,SongKojirō,en,0,0,0,,to lovers
+Comment: 0,0:17:42.18,0:17:49.01,SongKojirō,ja,0,0,0,,暗闇に揺れる　City Light
+Dialogue: 0,0:17:42.18,0:17:49.01,SongKojirō,ko,0,0,0,,어둠에 흔들리는 도시 불빛
+Dialogue: 0,0:17:42.18,0:17:49.01,SongKojirō,en,0,0,0,,Shaking in darkness, City Light
+Comment: 0,0:17:49.36,0:17:57.41,SongKojirō,ja,0,0,0,,ままならぬ　浮世の風
+Dialogue: 0,0:17:49.36,0:17:57.41,SongKojirō,ko,0,0,0,,뜻대로 안 되는 세상 풍조
+Dialogue: 0,0:17:49.36,0:17:57.41,SongKojirō,en,0,0,0,,The tide of the world isn't following my will
+Comment: 0,0:17:57.87,0:18:01.83,SongKojirō,ja,0,0,0,,Like a swallow in the blue sky
+Dialogue: 0,0:17:57.87,0:18:01.83,SongKojirō,ko,0,0,0,,파란 하늘의 제비처럼
+Dialogue: 0,0:17:57.87,0:18:01.83,SongKojirō,en,0,0,0,,Like a swallow in the blue sky
+Comment: 0,0:18:02.43,0:18:05.14,SongKojirō,ja,0,0,0,,風を切り
+Dialogue: 0,0:18:02.43,0:18:05.14,SongKojirō,ko,0,0,0,,바람을 갈라
+Dialogue: 0,0:18:02.43,0:18:05.14,SongKojirō,en,0,0,0,,Cutting through the wind
+Comment: 0,0:18:05.14,0:18:12.23,SongKojirō,ja,0,0,0,,乱れ街の空を飛ぶ　TSUBAME
+Dialogue: 0,0:18:05.14,0:18:12.23,SongKojirō,ko,0,0,0,,요동치는 하늘길을 날아가는 제비
+Dialogue: 0,0:18:05.14,0:18:12.23,SongKojirō,en,0,0,0,,I'm a swallow flying through the disordered sky
+Comment: 0,0:18:12.54,0:18:16.50,SongKojirō,ja,0,0,0,,swallow in the blue sky
+Dialogue: 0,0:18:12.54,0:18:16.50,SongKojirō,ko,0,0,0,,파란 하늘의 제비
+Dialogue: 0,0:18:12.54,0:18:16.50,SongKojirō,en,0,0,0,,Swallow in the blue sky
+Comment: 0,0:18:16.78,0:18:19.57,SongKojirō,ja,0,0,0,,ひとりきり
+Dialogue: 0,0:18:16.78,0:18:19.57,SongKojirō,ko,0,0,0,,혼자서
+Dialogue: 0,0:18:16.78,0:18:19.57,SongKojirō,en,0,0,0,,On all one's own
+Comment: 0,0:18:19.57,0:18:26.45,SongKojirō,ja,0,0,0,,いつか別の　Lonely birdが
+Dialogue: 0,0:18:19.57,0:18:26.45,SongKojirō,ko,0,0,0,,언젠가 또다른 외로운 새가
+Dialogue: 0,0:18:19.57,0:18:26.45,SongKojirō,en,0,0,0,,Until the day that another lonely bird
+Comment: 0,0:18:26.75,0:18:36.17,SongKojirō,ja,0,0,0,,追い越して行く　その日まで
+Dialogue: 0,0:18:26.75,0:18:36.17,SongKojirō,ko,0,0,0,,앞질러가는 그 날까지
+Dialogue: 0,0:18:26.75,0:18:36.17,SongKojirō,en,0,0,0,,gets ahead of me
 Comment: 0,0:18:46.08,0:18:49.81,Default,ja,0,0,0,,あ、千姫様。聞いていらしたんですか。恥ずかしい。
 Dialogue: 0,0:18:46.08,0:18:49.81,Default,ko,0,0,0,,아, 센히메 님. 듣고 계셨습니까. 부끄...
 Dialogue: 0,0:18:46.08,0:18:49.81,Default,en,0,0,0,,Ah, Senhime, you were listening to my song? How embarassing...
 Comment: 0,0:18:49.81,0:18:51.63,Default,ja,0,0,0,,うまいじゃないの、コジロー。
 Dialogue: 0,0:18:49.81,0:18:51.63,Default,ko,0,0,0,,잘 하잖아, 코지로?
-Dialogue: 0,0:18:49.81,0:18:51.63,Default,en,0,0,0,,Aren't you good, Kojiro?
+Dialogue: 0,0:18:49.81,0:18:51.63,Default,en,0,0,0,,Aren't you good, Kojirō?
 Comment: 0,0:18:53.29,0:18:55.82,Default,ja,0,0,0,,時々、カラオケボックスへ行ってますから。
 Dialogue: 0,0:18:53.29,0:18:55.82,Default,ko,0,0,0,,종종 상자노래방에 가니까요...
 Dialogue: 0,0:18:53.29,0:18:55.82,Default,en,0,0,0,,I often use karaoke boxes...

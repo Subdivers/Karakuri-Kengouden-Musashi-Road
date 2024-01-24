@@ -35,7 +35,7 @@ Comment: 0,0:00:00.00,0:00:00.00,SETTINGS,,0,0,0,,complete:false;song:song.*;lan
 Dialogue: 0,0:00:04.31,0:00:06.46,Default,ko,0,0,0,,어지러운 전국 시대.
 Dialogue: 0,0:00:04.31,0:00:06.46,Default,en,0,0,0,,It is the turbulent Sengoku period.
 Dialogue: 0,0:00:06.83,0:00:11.65,Default,ko,0,0,0,,카라쿠리인이 사는 지팡구국에서는 군웅할거하여 밤낮으로 접전이 계속되고
-Dialogue: 0,0:00:06.83,0:00:11.65,Default,en,0,0,0,,Warlords keep on fighting day and night over\Nthe Jipangu State, where Karakuri people live.
+Dialogue: 0,0:00:06.83,0:00:11.65,Default,en,0,0,0,,Warlords keep on fighting day and night over\NJipangu State, where Karakuri people live.
 Dialogue: 0,0:00:11.65,0:00:16.60,Default,ko,0,0,0,,카라쿠리 무예가들도 승리와 영광을 꿈꾸며 맹렬히 싸우고 있었다.
 Dialogue: 0,0:00:11.65,0:00:16.60,Default,en,0,0,0,,Karakuri Martial Artists were sharpening their swords, dreaming of victory and honor.
 Dialogue: 0,0:00:16.60,0:00:23.33,Default,ko,0,0,0,,그리고 지금, 카라쿠리 무예자 제일을 꿈꾸는 터무니없는 영웅이 탄생했다!
@@ -49,37 +49,37 @@ Dialogue: 0,0:00:27.81,0:00:32.99,TitleOP,en,0,0,0,,{\fs24}(The Story of {\i1}Ka
 Dialogue: 0,0:00:32.99,0:00:37.82,SongOP,ko,0,0,0,,사내는 언제나 세계 한가운데서
 Dialogue: 0,0:00:32.99,0:00:37.82,SongOP,en,0,0,0,,A man always dreams of the day
 Dialogue: 0,0:00:38.66,0:00:41.58,SongOP,ko,0,0,0,,제일 강해질 날을
-Dialogue: 0,0:00:38.66,0:00:41.58,SongOP,en,0,0,0,,when he'll become the world's
+Dialogue: 0,0:00:38.66,0:00:41.58,SongOP,en,0,0,0,,in the center of the world to become
 Dialogue: 0,0:00:41.58,0:00:44.45,SongOP,ko,0,0,0,,아! 아! 꿈꿔라
-Dialogue: 0,0:00:41.58,0:00:44.45,SongOP,en,0,0,0,,AH! AH! strongest
+Dialogue: 0,0:00:41.58,0:00:44.45,SongOP,en,0,0,0,,AH! AH! the strongest
 Dialogue: 0,0:00:44.45,0:00:49.49,SongOP,ko,0,0,0,,마음의 칼을 넓은 하늘로 번쩍 쳐들어
-Dialogue: 0,0:00:44.45,0:00:49.49,SongOP,en,0,0,0,,Raise your spirit's sword high to the wide sky
+Dialogue: 0,0:00:44.45,0:00:49.49,SongOP,en,0,0,0,,Raise the sword of your heart high to the wide sky
 Dialogue: 0,0:00:50.13,0:00:54.13,SongOP,ko,0,0,0,,모험의 길의 막을 연다
 Dialogue: 0,0:00:50.13,0:00:54.13,SongOP,en,0,0,0,,Raise the curtain to the road of adventure
 Dialogue: 0,0:00:55.46,0:01:00.72,SongOP,ko,0,0,0,,지팡구국을 떠도는 검호
-Dialogue: 0,0:00:55.46,0:01:00.72,SongOP,en,0,0,0,,A skilled Martial Artist wanders Jipangu Country
+Dialogue: 0,0:00:55.46,0:01:00.72,SongOP,en,0,0,0,,A skilled swordsman roams on Jipangu State
 Dialogue: 0,0:01:01.30,0:01:06.33,SongOP,ko,0,0,0,,그 이름은 카라쿠리인 무사시
 Dialogue: 0,0:01:01.30,0:01:06.33,SongOP,en,0,0,0,,His name is Musashi, a Karakuri man
-Dialogue: 0,0:01:07.84,0:01:10.75,SongOP,ko,0,0,0,,격렬한 칼의 소리가
-Dialogue: 0,0:01:07.84,0:01:10.75,SongOP,en,0,0,0,,An intense clash of swords
+Dialogue: 0,0:01:07.84,0:01:10.75,SongOP,ko,0,0,0,,격렬한 승부의 소리는
+Dialogue: 0,0:01:07.84,0:01:10.75,SongOP,en,0,0,0,,The sound of fierce duels
 Dialogue: 0,0:01:10.75,0:01:13.61,SongOP,ko,0,0,0,,눈부신 인생
 Dialogue: 0,0:01:10.75,0:01:13.61,SongOP,en,0,0,0,,makes life dazzling
 Dialogue: 0,0:01:13.61,0:01:19.07,SongOP,ko,0,0,0,,싸웠던 어제보다도 오늘 강해진다
-Dialogue: 0,0:01:13.61,0:01:19.07,SongOP,en,0,0,0,,Yesterday's battles makes you stronger today
+Dialogue: 0,0:01:13.61,0:01:19.07,SongOP,en,0,0,0,,Battles of yesterdays make you stronger today
 Dialogue: 0,0:01:19.12,0:01:25.31,SongOP,ko,0,0,0,,무예! 이도류 무사시
-Dialogue: 0,0:01:19.12,0:01:25.31,SongOP,en,0,0,0,,Martial Art! Dual Blade Musashi
+Dialogue: 0,0:01:19.12,0:01:25.31,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
 Dialogue: 0,0:01:25.31,0:01:28.32,SongOP,ko,0,0,0,,내일은 빛난다
 Dialogue: 0,0:01:25.31,0:01:28.32,SongOP,en,0,0,0,,Tomorrow will be glorious
-Dialogue: 0,0:01:28.32,0:01:30.79,SongOP,ko,0,0,0,,격렬한 칼의 소리가
-Dialogue: 0,0:01:28.32,0:01:30.79,SongOP,en,0,0,0,,An intense clash of swords
+Dialogue: 0,0:01:28.32,0:01:30.79,SongOP,ko,0,0,0,,격렬한 승부의 소리는
+Dialogue: 0,0:01:28.32,0:01:30.79,SongOP,en,0,0,0,,The sound of fierce duels
 Dialogue: 0,0:01:30.79,0:01:33.28,SongOP,ko,0,0,0,,눈부신 인생
 Dialogue: 0,0:01:30.79,0:01:33.28,SongOP,en,0,0,0,,makes life dazzling
 Dialogue: 0,0:01:33.99,0:01:39.39,SongOP,ko,0,0,0,,싸우는 한껏 고요함과 함께
-Dialogue: 0,0:01:33.99,0:01:39.39,SongOP,en,0,0,0,,Fight your hardest with tranquility
+Dialogue: 0,0:01:33.99,0:01:39.39,SongOP,en,0,0,0,,Fight the utmost with the stillness
 Dialogue: 0,0:01:39.41,0:01:45.64,SongOP,ko,0,0,0,,무예! 이도류 무사시
-Dialogue: 0,0:01:39.41,0:01:45.64,SongOP,en,0,0,0,,Martial Art! Dual Blade Musashi
-Dialogue: 0,0:01:45.64,0:01:50.90,SongOP,ko,0,0,0,,미간이 빛나고 있었다 무사시!!
-Dialogue: 0,0:01:45.64,0:01:50.90,SongOP,en,0,0,0,,Shining brow! Musashi!
+Dialogue: 0,0:01:39.41,0:01:45.64,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
+Dialogue: 0,0:01:45.64,0:01:50.90,SongOP,ko,0,0,0,,미간이 반짝였다 무사시!!
+Dialogue: 0,0:01:45.64,0:01:50.90,SongOP,en,0,0,0,,His eyes shined! Musashi!
 Comment: 0,0:02:02.13,0:02:09.96,Default,ja,0,0,0,,北海道へわたぬく道中、ムサシたちの船は北の海を荒らしまわる海賊の～しまった。
 Dialogue: 0,0:02:02.13,0:02:09.96,Default,ko,0,0,0,,홋카이도로 건너가던 도중, 무사시 일행의 배는 북쪽 바다를 어지럽히는 해적 오니고로시에게 공격받고 말았다.
 Dialogue: 0,0:02:02.13,0:02:05.89,Default,en,0,0,0,,During their trip to Hokkaido, Musashi and others were
@@ -90,7 +90,7 @@ Dialogue: 0,0:02:10.72,0:02:14.78,Default,en,0,0,0,,Senhime met with Daisuke, wh
 Dialogue: 0,0:02:14.78,0:02:17.54,Default,en,0,0,0,,revenge for his father,and was moved by his valiantness.
 Comment: 0,0:02:18.44,0:02:20.98,Default,ja,0,0,0,,だいすけに協力して戦うムサシたち。
 Dialogue: 0,0:02:18.44,0:02:20.98,Default,ko,0,0,0,,다이스케를 도와 싸운 무사시와 코지로.
-Dialogue: 0,0:02:18.44,0:02:20.98,Default,en,0,0,0,,Musashi and Kojiro fought, helping Daisuke.
+Dialogue: 0,0:02:18.44,0:02:20.98,Default,en,0,0,0,,Musashi and Kojirō fought, helping Daisuke.
 Comment: 0,0:02:21.30,0:02:27.52,Default,ja,0,0,0,,激しい死闘の末、戦いには勝ったが、センヒメの恋は破れてしまった。
 Dialogue: 0,0:02:21.30,0:02:27.52,Default,ko,0,0,0,,세찬 사투 끝에, 싸움은 이겼지만, 센히메의 마음은 찌부러지고 말았다.
 Dialogue: 0,0:02:21.30,0:02:27.52,Default,en,0,0,0,,After an intense fight, they won the fight, but Senhime's heart was crushed.
@@ -156,7 +156,7 @@ Dialogue: 0,0:04:01.13,0:04:04.81,Default,ko,0,0,0,,헤, 어라? 그렇게나 �
 Dialogue: 0,0:04:01.13,0:04:04.81,Default,en,0,0,0,,Oh, is that true? Did I take that much time?
 Comment: 0,0:04:06.05,0:04:08.50,Default,ja,0,0,0,,コジロー！おぬし、なにしてただす。
 Dialogue: 0,0:04:06.05,0:04:08.50,Default,ko,0,0,0,,코지로! 너 뭐하고 있었소!
-Dialogue: 0,0:04:06.05,0:04:08.50,Default,en,0,0,0,,Kojiro! What were you doing-{\i1}dasu{\i0}?!
+Dialogue: 0,0:04:06.05,0:04:08.50,Default,en,0,0,0,,Kojirō! What were you doing-{\i1}dasu{\i0}?!
 Comment: 0,0:04:08.65,0:04:11.73,Default,ja,0,0,0,,わ、私は出発まえの準備を。。。
 Dialogue: 0,0:04:08.65,0:04:11.73,Default,ko,0,0,0,,나, 나는 출발 전의 준비를...
 Dialogue: 0,0:04:08.65,0:04:11.73,Default,en,0,0,0,,I- I was preparing for another trip...
@@ -609,7 +609,7 @@ Dialogue: 0,0:16:03.36,0:16:04.69,Default,ko,0,0,0,,기다리시오!
 Dialogue: 0,0:16:03.36,0:16:04.69,Default,en,0,0,0,,Wait for me-{\i1}dasu{\i0}!
 Comment: 0,0:16:05.17,0:16:10.08,Default,ja,0,0,0,,いや、しかし、さすがコジローどの！火薬の爆風で火を消すとは足した門倍！
 Dialogue: 0,0:16:05.17,0:16:10.08,Default,ko,0,0,0,,그래도 말야, 역시 코지로 님! 화약의 폭풍으로 불을 끌 생각을 하다니 대단해!
-Dialogue: 0,0:16:05.17,0:16:10.08,Default,en,0,0,0,,Anyway, Kojiro really is bright, for thinking to put off the fire with the detonation blast of gunpowder!
+Dialogue: 0,0:16:05.17,0:16:10.08,Default,en,0,0,0,,Anyway, Kojirō really is bright, for thinking to put off the fire with the detonation blast of gunpowder!
 Comment: 0,0:16:34.17,0:16:35.71,Default,ja,0,0,0,,刀じゃ負けんダス！
 Dialogue: 0,0:16:34.17,0:16:35.71,Default,ko,0,0,0,,칼이라면 지지 않소!
 Dialogue: 0,0:16:34.17,0:16:35.71,Default,en,0,0,0,,I do not lose in a sword fight-{\i1}dasu{\i0}!

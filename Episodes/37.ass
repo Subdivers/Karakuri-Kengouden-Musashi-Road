@@ -35,7 +35,7 @@ Comment: 0,0:00:00.00,0:00:00.00,SETTINGS,,0,0,0,,complete:false;song:song.*;lan
 Dialogue: 0,0:00:04.41,0:00:06.57,Default,ko,0,0,0,,어지러운 전국 시대.
 Dialogue: 0,0:00:04.41,0:00:06.57,Default,en,0,0,0,,It is the turbulent Sengoku period.
 Dialogue: 0,0:00:07.11,0:00:11.52,Default,ko,0,0,0,,카라쿠리인이 사는 지팡구국에서는 군웅할거하여 밤낮으로 접전이 계속되고
-Dialogue: 0,0:00:07.11,0:00:11.52,Default,en,0,0,0,,Warlords keep on fighting day and night over\Nthe Jipangu State, where Karakuri people live.
+Dialogue: 0,0:00:07.11,0:00:11.52,Default,en,0,0,0,,Warlords keep on fighting day and night over\NJipangu State, where Karakuri people live.
 Dialogue: 0,0:00:11.87,0:00:16.23,Default,ko,0,0,0,,카라쿠리 무예가들도 승리와 영광을 꿈꾸며 맹렬히 싸우고 있었다.
 Dialogue: 0,0:00:11.87,0:00:16.23,Default,en,0,0,0,,Karakuri Martial Artists were sharpening their swords, dreaming of victory and honor.
 Dialogue: 0,0:00:16.86,0:00:23.18,Default,ko,0,0,0,,그리고 지금, 카라쿠리 무예자 제일을 꿈꾸는 터무니없는 영웅이 탄생했다!
@@ -49,37 +49,37 @@ Dialogue: 0,0:00:27.89,0:00:33.23,TitleOP,en,0,0,0,,{\fade(770,0)\fs24}(The Stor
 Dialogue: 0,0:00:33.23,0:00:38.07,SongOP,ko,0,0,0,,사내는 언제나 세계 한가운데서
 Dialogue: 0,0:00:33.23,0:00:38.07,SongOP,en,0,0,0,,A man always dreams of the day
 Dialogue: 0,0:00:38.90,0:00:41.82,SongOP,ko,0,0,0,,제일 강해질 날을
-Dialogue: 0,0:00:38.90,0:00:41.82,SongOP,en,0,0,0,,when he'll become the world's
+Dialogue: 0,0:00:38.90,0:00:41.82,SongOP,en,0,0,0,,in the center of the world to become
 Dialogue: 0,0:00:41.82,0:00:44.70,SongOP,ko,0,0,0,,아! 아! 꿈꿔라
-Dialogue: 0,0:00:41.82,0:00:44.70,SongOP,en,0,0,0,,AH! AH! strongest
+Dialogue: 0,0:00:41.82,0:00:44.70,SongOP,en,0,0,0,,AH! AH! the strongest
 Dialogue: 0,0:00:44.70,0:00:49.75,SongOP,ko,0,0,0,,마음의 칼을 넓은 하늘로 번쩍 쳐들어
-Dialogue: 0,0:00:44.70,0:00:49.75,SongOP,en,0,0,0,,Raise your spirit's sword high to the wide sky
+Dialogue: 0,0:00:44.70,0:00:49.75,SongOP,en,0,0,0,,Raise the sword of your heart high to the wide sky
 Dialogue: 0,0:00:50.37,0:00:54.38,SongOP,ko,0,0,0,,모험의 길의 막을 연다
 Dialogue: 0,0:00:50.37,0:00:54.38,SongOP,en,0,0,0,,Raise the curtain to the road of adventure
 Dialogue: 0,0:00:55.71,0:01:00.97,SongOP,ko,0,0,0,,지팡구국을 떠도는 검호
-Dialogue: 0,0:00:55.71,0:01:00.97,SongOP,en,0,0,0,,A skilled Martial Artist wanders Jipangu Country
+Dialogue: 0,0:00:55.71,0:01:00.97,SongOP,en,0,0,0,,A skilled swordsman roams on Jipangu State
 Dialogue: 0,0:01:01.55,0:01:06.60,SongOP,ko,0,0,0,,그 이름은 카라쿠리인 무사시
 Dialogue: 0,0:01:01.55,0:01:06.60,SongOP,en,0,0,0,,His name is Musashi, a Karakuri man
-Dialogue: 0,0:01:08.10,0:01:11.02,SongOP,ko,0,0,0,,격렬한 칼의 소리가
-Dialogue: 0,0:01:08.10,0:01:11.02,SongOP,en,0,0,0,,An intense clash of swords
+Dialogue: 0,0:01:08.10,0:01:11.02,SongOP,ko,0,0,0,,격렬한 승부의 소리는
+Dialogue: 0,0:01:08.10,0:01:11.02,SongOP,en,0,0,0,,The sound of fierce duels
 Dialogue: 0,0:01:11.02,0:01:13.86,SongOP,ko,0,0,0,,눈부신 인생
 Dialogue: 0,0:01:11.02,0:01:13.86,SongOP,en,0,0,0,,makes life dazzling
 Dialogue: 0,0:01:13.86,0:01:19.32,SongOP,ko,0,0,0,,싸웠던 어제보다도 오늘 강해진다
-Dialogue: 0,0:01:13.86,0:01:19.32,SongOP,en,0,0,0,,Yesterday's battles makes you stronger today
+Dialogue: 0,0:01:13.86,0:01:19.32,SongOP,en,0,0,0,,Battles of yesterdays make you stronger today
 Dialogue: 0,0:01:19.36,0:01:25.58,SongOP,ko,0,0,0,,무예! 이도류 무사시
-Dialogue: 0,0:01:19.36,0:01:25.58,SongOP,en,0,0,0,,Martial Art! Dual Blade Musashi
+Dialogue: 0,0:01:19.36,0:01:25.58,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
 Dialogue: 0,0:01:25.58,0:01:28.46,SongOP,ko,0,0,0,,내일은 빛난다
 Dialogue: 0,0:01:25.58,0:01:28.46,SongOP,en,0,0,0,,Tomorrow will be glorious
-Dialogue: 0,0:01:28.46,0:01:31.04,SongOP,ko,0,0,0,,격렬한 칼의 소리가
-Dialogue: 0,0:01:28.46,0:01:31.04,SongOP,en,0,0,0,,An intense clash of swords
+Dialogue: 0,0:01:28.46,0:01:31.04,SongOP,ko,0,0,0,,격렬한 승부의 소리는
+Dialogue: 0,0:01:28.46,0:01:31.04,SongOP,en,0,0,0,,The sound of fierce duels
 Dialogue: 0,0:01:31.04,0:01:33.54,SongOP,ko,0,0,0,,눈부신 인생
 Dialogue: 0,0:01:31.04,0:01:33.54,SongOP,en,0,0,0,,makes life dazzling
 Dialogue: 0,0:01:34.25,0:01:39.63,SongOP,ko,0,0,0,,싸우는 한껏 고요함과 함께
-Dialogue: 0,0:01:34.25,0:01:39.63,SongOP,en,0,0,0,,Fight your hardest with tranquility
+Dialogue: 0,0:01:34.25,0:01:39.63,SongOP,en,0,0,0,,Fight the utmost with the stillness
 Dialogue: 0,0:01:39.68,0:01:45.89,SongOP,ko,0,0,0,,무예! 이도류 무사시
-Dialogue: 0,0:01:39.68,0:01:45.89,SongOP,en,0,0,0,,Martial Art! Dual Blade Musashi
-Dialogue: 0,0:01:45.89,0:01:51.10,SongOP,ko,0,0,0,,미간이 빛나고 있었다 무사시!!
-Dialogue: 0,0:01:45.89,0:01:51.10,SongOP,en,0,0,0,,Shining brow! Musashi!
+Dialogue: 0,0:01:39.68,0:01:45.89,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
+Dialogue: 0,0:01:45.89,0:01:51.10,SongOP,ko,0,0,0,,미간이 반짝였다 무사시!!
+Dialogue: 0,0:01:45.89,0:01:51.10,SongOP,en,0,0,0,,His eyes shined! Musashi!
 Comment: 0,0:02:00.00,0:02:08.48,Default,ja,0,0,0,,桜島へ乗り込んだムサシ達は、不知火一族に最後の決戦を挑むが、ハンゾウはサツマニアへ向けてミサイルを発射する。
 Dialogue: 0,0:02:00.00,0:02:08.48,Default,ko,0,0,0,,사쿠라지마에 들어간 무사시 일행은 시라누이 일족에게 최후의 결전을 도전하지만, 한조는 사츠마니아를 향해 미사일을 발사한다.
 Dialogue: 0,0:02:00.00,0:02:05.49,Default,en,0,0,0,,After getting into Sakurajima, Musashi and others challenge for the last decisive battle against Shiranui Clan,
@@ -94,7 +94,7 @@ Comment: 0,0:02:18.30,0:02:23.30,Default,ja,0,0,0,,コジローに勝っただ�
 Dialogue: 0,0:02:18.30,0:02:23.30,TitleEP,ko,0,0,200,,코지로에게
 Dialogue: 0,0:02:18.30,0:02:23.30,TitleEP,ko,0,0,60,,이겼소!
 Dialogue: 0,0:02:18.30,0:02:23.30,TitleEP,en,0,0,200,,I Defeated
-Dialogue: 0,0:02:18.30,0:02:23.30,TitleEP,en,0,0,60,,Kojiro!
+Dialogue: 0,0:02:18.30,0:02:23.30,TitleEP,en,0,0,60,,Kojirō!
 Comment: 0,0:02:38.18,0:02:40.65,Default,ja,0,0,0,,ムサシ？さっさとしなさいよね。
 Dialogue: 0,0:02:38.18,0:02:40.65,Default,ko,0,0,0,,무사시? 어서 해.
 Dialogue: 0,0:02:38.18,0:02:40.65,Default,en,0,0,0,,Musashi? Finish it already!
@@ -118,7 +118,7 @@ Dialogue: 0,0:02:59.40,0:03:02.18,Default,ko,0,0,0,,센히메 님! 저는 그런
 Dialogue: 0,0:02:59.40,0:03:02.18,Default,en,0,0,0,,Senhime! I do not do that.
 Comment: 0,0:03:02.18,0:03:06.92,Default,ja,0,0,0,,まったく、コジローたら、かっこつけちゃって、おいら知ってるだすよ、この前立ちションしたの。
 Dialogue: 0,0:03:02.18,0:03:06.92,Default,ko,0,0,0,,정말, 코지로도 참. 멋진 척은. 나 알고 있소! 이 전에 노상방뇨한 걸.
-Dialogue: 0,0:03:02.18,0:03:06.92,Default,en,0,0,0,,Really, Kojiro, stop bragging off-{\i1}dasu{\i0}! I know that you peed outdoors before today-{\i1}dasu{\i0}.
+Dialogue: 0,0:03:02.18,0:03:06.92,Default,en,0,0,0,,Really, Kojirō, stop bragging off-{\i1}dasu{\i0}! I know that you peed outdoors before today-{\i1}dasu{\i0}.
 Comment: 0,0:03:06.92,0:03:11.21,Default,ja,0,0,0,,な、なんだと？！・やめてよ！さあ、今日はここに泊まりましょう。
 Dialogue: 0,0:03:06.92,0:03:11.21,Default,ko,0,0,0,,-뭐, 뭐라고!?\N-그만둬! 자, 오늘은 여기에 묵자.
 Dialogue: 0,0:03:06.92,0:03:11.21,Default,en,0,0,0,,-W- what did you say!?\N-Forget it! Let's stay in here today.
@@ -133,7 +133,7 @@ Dialogue: 0,0:03:30.99,0:03:31.55,Default,ko,0,0,0,,무사시!
 Dialogue: 0,0:03:30.99,0:03:31.55,Default,en,0,0,0,,Musashi!
 Comment: 0,0:03:34.38,0:03:36.02,Default,ja,0,0,0,,コジロー！おしっこだすか？
 Dialogue: 0,0:03:34.38,0:03:36.02,Default,ko,0,0,0,,코지로! 오줌이오?
-Dialogue: 0,0:03:34.38,0:03:36.02,Default,en,0,0,0,,Kojiro! Are you here to pee-{\i1}dasu{\i0}?
+Dialogue: 0,0:03:34.38,0:03:36.02,Default,en,0,0,0,,Kojirō! Are you here to pee-{\i1}dasu{\i0}?
 Comment: 0,0:03:36.33,0:03:40.90,Default,ja,0,0,0,,ムサシ。よくも私が立ちションしたことを千姫様の前でばらしたな！
 Dialogue: 0,0:03:36.33,0:03:40.90,Default,ko,0,0,0,,무사시. 잘도 내가 노상방뇨한 걸 센히메 님 앞에서 밝혔겠다!
 Dialogue: 0,0:03:36.33,0:03:40.90,Default,en,0,0,0,,Musashi! How dare you reveal to Senhime that I peed outdoor!?
@@ -160,10 +160,10 @@ Dialogue: 0,0:04:05.97,0:04:09.09,Default,ko,0,0,0,,세월의 정. 목숨만은 
 Dialogue: 0,0:04:05.97,0:04:09.09,Default,en,0,0,0,,Sympathy of years. I'll let you live-{\i1}dasu{\i0}.
 Comment: 0,0:04:09.09,0:04:12.48,Default,ja,0,0,0,,コジロー！コジロー！コジロー！
 Dialogue: 0,0:04:09.09,0:04:12.48,Default,ko,0,0,0,,코지로! 코지로! 코지로!
-Dialogue: 0,0:04:09.09,0:04:12.48,Default,en,0,0,0,,Kojiro! Kojiro! Kojiro!
+Dialogue: 0,0:04:09.09,0:04:12.48,Default,en,0,0,0,,Kojirō! Kojirō! Kojirō!
 Comment: 0,0:04:13.36,0:04:17.24,Default,ja,0,0,0,,死んじゃだめよ！あなたが死んだらわたくしも死にます、コジロー！
 Dialogue: 0,0:04:13.36,0:04:17.24,Default,ko,0,0,0,,죽으면 안 돼! 당신이 죽으면 저도 죽을 겁니다, 코지로!
-Dialogue: 0,0:04:13.36,0:04:17.24,Default,en,0,0,0,,Do not die! If you die, then I'll die too, Kojiro!
+Dialogue: 0,0:04:13.36,0:04:17.24,Default,en,0,0,0,,Do not die! If you die, then I'll die too, Kojirō!
 Comment: 0,0:04:17.96,0:04:24.06,Default,ja,0,0,0,,あたくし、ずっと前からあなたのことが好きだったもん。だから、だから、死んじゃだめ！
 Dialogue: 0,0:04:17.96,0:04:24.06,Default,ko,0,0,0,,저, 오래 전부터 당신이 좋았어요. 그러니까, 그러니까 죽으면 안 돼요!
 Dialogue: 0,0:04:17.96,0:04:24.06,Default,en,0,0,0,,I loved you from a long time ago. So... please don't die!
@@ -172,7 +172,7 @@ Dialogue: 0,0:04:24.06,0:04:29.45,Default,ko,0,0,0,,센히메 님. 저도 마찬
 Dialogue: 0,0:04:24.06,0:04:29.45,Default,en,0,0,0,,Senhime, that's same for me. I love you, princess!
 Comment: 0,0:04:29.45,0:04:34.28,Default,ja,0,0,0,,コジロー！二人で平凡でもいいから、幸せな家庭を築きましょう！
 Dialogue: 0,0:04:29.45,0:04:34.28,Default,ko,0,0,0,,코지로! 둘이서 평범해도 좋으니가 행복하게 가정을 꾸려요!
-Dialogue: 0,0:04:29.45,0:04:34.28,Default,en,0,0,0,,Kojiro! Let's make make a happy household together, even if it's an ordinary one!
+Dialogue: 0,0:04:29.45,0:04:34.28,Default,en,0,0,0,,Kojirō! Let's make make a happy household together, even if it's an ordinary one!
 Comment: 0,0:04:34.28,0:04:38.40,Default,ja,0,0,0,,そうしましょう。子供は、そう、三人がいいですね。
 Dialogue: 0,0:04:34.28,0:04:38.40,Default,ko,0,0,0,,그럽시다. 아이는, 흠, 3명이 좋네요.
 Dialogue: 0,0:04:34.28,0:04:38.40,Default,en,0,0,0,,Let's do so. We'll have, um, 3 children!
@@ -444,7 +444,7 @@ Dialogue: 0,0:16:33.86,0:16:36.57,Default,ko,0,0,0,,제군! 때가 왔다!
 Dialogue: 0,0:16:33.86,0:16:36.57,Default,en,0,0,0,,Everyone! The time has come!
 Comment: 0,0:16:36.80,0:16:41.56,Default,ja,0,0,0,,ゼネラルイエヤスを倒し、ジパング国を我らの手中に収めるのだ。
 Dialogue: 0,0:16:36.80,0:16:41.56,Default,ko,0,0,0,,제너럴 이에야스를 쓰러트리고 지팡구국을 우리 수중에 넣을 것이다!
-Dialogue: 0,0:16:36.80,0:16:41.56,Default,en,0,0,0,,We will take General Ieyasu down and claim Jipangu country into our hands!
+Dialogue: 0,0:16:36.80,0:16:41.56,Default,en,0,0,0,,We will take General Ieyasu down and claim Jipangu State into our hands!
 Comment: 0,0:16:42.88,0:16:47.28,Default,ja,0,0,0,,ジライヤンが言う通り、ヒミコさんが不知火の女王だったんだすか。
 Dialogue: 0,0:16:42.88,0:16:47.28,Default,ko,0,0,0,,{\i1}지라이얀이 말한 대로 히미코 씨는 시라누이의 여왕이었소...
 Dialogue: 0,0:16:42.88,0:16:47.28,Default,en,0,0,0,,{\i1}Just like Jiraiyan said, Ms. Himiko is the queen of Shiranui...
@@ -543,7 +543,7 @@ Dialogue: 0,0:21:01.04,0:21:02.91,Default,ko,0,0,0,,센히메 님이 있네요.
 Dialogue: 0,0:21:01.04,0:21:02.91,Default,en,0,0,0,,Senhime, you're there.
 Comment: 0,0:21:03.45,0:21:04.63,Default,ja,0,0,0,,コジローも。
 Dialogue: 0,0:21:03.45,0:21:04.63,Default,ko,0,0,0,,코지로도.
-Dialogue: 0,0:21:03.45,0:21:04.63,Default,en,0,0,0,,You too, Kojiro.
+Dialogue: 0,0:21:03.45,0:21:04.63,Default,en,0,0,0,,You too, Kojirō.
 Comment: 0,0:21:04.63,0:21:09.02,Default,ja,0,0,0,,おや、まあ、また狸に化かされたんだすな。
 Dialogue: 0,0:21:04.63,0:21:09.02,Default,ko,0,0,0,,저런저런, 또 너구리에게 속았군요.
 Dialogue: 0,0:21:04.63,0:21:09.02,Default,en,0,0,0,,Oh my, he's fooled by raccoons again.

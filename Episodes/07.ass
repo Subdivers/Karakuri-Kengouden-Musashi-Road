@@ -37,7 +37,7 @@ Comment: 0,0:19:55.84,0:19:58.30,SETTINGS,,0,0,0,,complete:false;song:song.*;lan
 Dialogue: 0,0:00:04.33,0:00:06.56,Default,ko,0,0,0,,어지러운 전국 시대.
 Dialogue: 0,0:00:04.33,0:00:06.56,Default,en,0,0,0,,It is the turbulent Sengoku period.
 Dialogue: 0,0:00:06.97,0:00:11.54,Default,ko,0,0,0,,카라쿠리인이 사는 지팡구국에서는 군웅할거하여 밤낮으로 접전이 계속되고
-Dialogue: 0,0:00:06.97,0:00:11.79,Default,en,0,0,0,,Warlords keep on fighting day and night over\Nthe Jipangu State, where Karakuri people live.
+Dialogue: 0,0:00:06.97,0:00:11.79,Default,en,0,0,0,,Warlords keep on fighting day and night over\NJipangu State, where Karakuri people live.
 Dialogue: 0,0:00:11.79,0:00:16.49,Default,ko,0,0,0,,카라쿠리 무예가들도 승리와 영광을 꿈꾸며 맹렬히 싸우고 있었다.
 Dialogue: 0,0:00:11.79,0:00:16.75,Default,en,0,0,0,,Karakuri Martial Artists were sharpening their swords, dreaming of victory and honor.
 Dialogue: 0,0:00:16.75,0:00:23.22,Default,ko,0,0,0,,그리고 지금, 카라쿠리 무예자 제일을 꿈꾸는 터무니없는 영웅이 탄생했다!
@@ -49,39 +49,39 @@ Dialogue: 0,0:00:27.81,0:00:32.99,TitleOP,en,0,0,90,,{\an8\fs32}Karakuri Kengoud
 Dialogue: 0,0:00:27.81,0:00:32.99,TitleOP,en,0,0,48,,Musashi Road
 Dialogue: 0,0:00:27.81,0:00:32.99,TitleOP,en,0,0,0,,{\fs24}(The Story of {\i1}Karakuri{\i0} Martial Artist: Road of Musashi)
 Dialogue: 0,0:00:32.99,0:00:37.82,SongOP,ko,0,0,0,,사내는 언제나 세계 한가운데서
-Dialogue: 0,0:00:32.99,0:00:37.82,SongOP,en,0,0,0,,A man always dreams of a day
+Dialogue: 0,0:00:32.99,0:00:37.82,SongOP,en,0,0,0,,A man always dreams of the day
 Dialogue: 0,0:00:38.66,0:00:41.58,SongOP,ko,0,0,0,,제일 강해질 날을
 Dialogue: 0,0:00:38.66,0:00:41.58,SongOP,en,0,0,0,,in the center of the world to become
 Dialogue: 0,0:00:41.58,0:00:44.45,SongOP,ko,0,0,0,,아! 아! 꿈꿔라
 Dialogue: 0,0:00:41.58,0:00:44.45,SongOP,en,0,0,0,,AH! AH! the strongest
 Dialogue: 0,0:00:44.45,0:00:49.49,SongOP,ko,0,0,0,,마음의 칼을 넓은 하늘로 번쩍 쳐들어
-Dialogue: 0,0:00:44.45,0:00:49.49,SongOP,en,0,0,0,,Raise the sword of spirit high to the wide sky
+Dialogue: 0,0:00:44.45,0:00:49.49,SongOP,en,0,0,0,,Raise the sword of your heart high to the wide sky
 Dialogue: 0,0:00:50.13,0:00:54.13,SongOP,ko,0,0,0,,모험의 길의 막을 연다
 Dialogue: 0,0:00:50.13,0:00:54.13,SongOP,en,0,0,0,,Raise the curtain to the road of adventure
 Dialogue: 0,0:00:55.46,0:01:00.72,SongOP,ko,0,0,0,,지팡구국을 떠도는 검호
-Dialogue: 0,0:00:55.46,0:01:00.72,SongOP,en,0,0,0,,A skilled Martial Artist wanders Jipangu Country
+Dialogue: 0,0:00:55.46,0:01:00.72,SongOP,en,0,0,0,,A skilled swordsman roams on Jipangu State
 Dialogue: 0,0:01:01.30,0:01:06.34,SongOP,ko,0,0,0,,그 이름은 카라쿠리인 무사시
-Dialogue: 0,0:01:01.30,0:01:06.34,SongOP,en,0,0,0,,His name is Musashi, a Karakuri Man
-Dialogue: 0,0:01:07.84,0:01:10.77,SongOP,ko,0,0,0,,격렬한 칼의 소리가
-Dialogue: 0,0:01:07.84,0:01:10.77,SongOP,en,0,0,0,,Intense clash of swords
+Dialogue: 0,0:01:01.30,0:01:06.34,SongOP,en,0,0,0,,His name is Musashi, a Karakuri man
+Dialogue: 0,0:01:07.84,0:01:10.77,SongOP,ko,0,0,0,,격렬한 승부의 소리는
+Dialogue: 0,0:01:07.84,0:01:10.77,SongOP,en,0,0,0,,The sound of fierce duels
 Dialogue: 0,0:01:10.77,0:01:13.61,SongOP,ko,0,0,0,,눈부신 인생
 Dialogue: 0,0:01:10.77,0:01:13.61,SongOP,en,0,0,0,,makes a life dazzle
 Dialogue: 0,0:01:13.61,0:01:19.07,SongOP,ko,0,0,0,,싸웠던 어제보다도 오늘 강해진다
-Dialogue: 0,0:01:13.61,0:01:19.07,SongOP,en,0,0,0,,Fight yesterday and become stronger today
+Dialogue: 0,0:01:13.61,0:01:19.07,SongOP,en,0,0,0,,Battles of yesterdays make you stronger today
 Dialogue: 0,0:01:19.12,0:01:25.30,SongOP,ko,0,0,0,,무예! 이도류 무사시
-Dialogue: 0,0:01:19.12,0:01:25.30,SongOP,en,0,0,0,,Martial Art! Dual Blade is Musashi
+Dialogue: 0,0:01:19.12,0:01:25.30,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
 Dialogue: 0,0:01:25.30,0:01:28.32,SongOP,ko,0,0,0,,내일은 빛난다
 Dialogue: 0,0:01:25.30,0:01:28.32,SongOP,en,0,0,0,,Tomorrow will be glorious
-Dialogue: 0,0:01:28.32,0:01:30.79,SongOP,ko,0,0,0,,격렬한 칼의 소리가
-Dialogue: 0,0:01:28.32,0:01:30.79,SongOP,en,0,0,0,,Intense clash of swords
+Dialogue: 0,0:01:28.32,0:01:30.79,SongOP,ko,0,0,0,,격렬한 승부의 소리는
+Dialogue: 0,0:01:28.32,0:01:30.79,SongOP,en,0,0,0,,The sound of fierce duels
 Dialogue: 0,0:01:30.79,0:01:33.30,SongOP,ko,0,0,0,,눈부신 인생
 Dialogue: 0,0:01:30.79,0:01:33.30,SongOP,en,0,0,0,,makes a life dazzle
 Dialogue: 0,0:01:34.00,0:01:39.39,SongOP,ko,0,0,0,,싸우는 한껏 고요함과 함께
-Dialogue: 0,0:01:34.00,0:01:39.39,SongOP,en,0,0,0,,Fight the utmost with the tranquility
+Dialogue: 0,0:01:34.00,0:01:39.39,SongOP,en,0,0,0,,Fight the utmost with the stillness
 Dialogue: 0,0:01:39.41,0:01:45.64,SongOP,ko,0,0,0,,무예! 이도류 무사시
-Dialogue: 0,0:01:39.41,0:01:45.64,SongOP,en,0,0,0,,Martial Art! Dual Blade is Musashi
-Dialogue: 0,0:01:45.64,0:01:50.90,SongOP,ko,0,0,0,,미간이 빛나고 있었다 무사시!!
-Dialogue: 0,0:01:45.64,0:01:50.90,SongOP,en,0,0,0,,The brow was shining! Musashi!!
+Dialogue: 0,0:01:39.41,0:01:45.64,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
+Dialogue: 0,0:01:45.64,0:01:50.90,SongOP,ko,0,0,0,,미간이 반짝였다 무사시!!
+Dialogue: 0,0:01:45.64,0:01:50.90,SongOP,en,0,0,0,,His eyes shined! Musashi!!
 Dialogue: 0,0:02:00.64,0:02:06.39,Default,ko,0,0,0,,쥬베에게서 에도토피아에서 열리는 연말 향례의 지팡구 무예 대회에 대해서 알게 된 무사시는
 Dialogue: 0,0:02:00.64,0:02:06.39,Default,en,0,0,0,,Jube told Musashi about the yearly Jipangu Martial Arts Competition.
 Dialogue: 0,0:02:07.16,0:02:13.44,Default,ko,0,0,0,,창의 호조인과 한판 붙은 후, 미야코의 에도토피아를 꿈꾸며 여행을 계속하고 있었다.
@@ -569,7 +569,7 @@ Dialogue: 0,0:23:47.19,0:23:52.78,SongED1,en,0,0,0,,is opening its hands and smi
 Dialogue: 0,0:24:05.85,0:24:12.75,Default,ko,0,0,0,,에도토피아를 꿈꾸는 도중, 상처를 입은 비둘기를 구했을 뿐인데, 말도 안 되는 패거리에게 노려지는 처지가 되었소.
 Dialogue: 0,0:24:05.85,0:24:12.75,Default,en,0,0,0,,Heading to Edotopia, simply by helping a wounded dove, I was being chased by some terrible gang of punks-{\i1}dasu{\i0}.
 Dialogue: 0,0:24:13.34,0:24:20.42,Default,ko,0,0,0,,그 이름도 밤의 지배자, 한조! 무서운 닌자 군단과의 격투 후 라이벌 코지로까지도 휩쓸리고 말았소.
-Dialogue: 0,0:24:13.34,0:24:20.42,Default,en,0,0,0,,Their boss is Hanzo, the ruler of night! After a fight against frightening ninja corps, my rival Kojirou is now involved-{\i1}dasu{\i0}.
+Dialogue: 0,0:24:13.34,0:24:20.42,Default,en,0,0,0,,Their boss is Hanzo, the ruler of night! After a fight against frightening ninja corps, my rival Kojirō is now involved-{\i1}dasu{\i0}.
 Dialogue: 0,0:24:21.36,0:24:23.97,Default,ko,0,0,0,,다음 이야기! 악의 한조, 살며서 다가오오!
 Dialogue: 0,0:24:21.36,0:24:23.97,Default,en,0,0,0,,Next story! Evil Hanzo Creeps
 Dialogue: 0,0:24:24.67,0:24:27.82,Default,ko,0,0,0,,질풍노도의 활약을 보시오!

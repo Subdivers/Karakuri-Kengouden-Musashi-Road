@@ -38,7 +38,7 @@ Comment: 0,0:00:00.00,0:00:00.00,SETTINGS,,0,0,0,,complete:false;song:song.*;lan
 Dialogue: 0,0:00:04.11,0:00:06.34,Default,ko,0,0,0,,어지러운 전국 시대.
 Dialogue: 0,0:00:04.11,0:00:06.34,Default,en,0,0,0,,It is the turbulent Sengoku period.
 Dialogue: 0,0:00:06.75,0:00:11.57,Default,ko,0,0,0,,카라쿠리인이 사는 지팡구국에서는 군웅할거하여 밤낮으로 접전이 계속되고
-Dialogue: 0,0:00:06.75,0:00:11.57,Default,en,0,0,0,,Warlords keep on fighting day and night over\Nthe Jipangu State, where Karakuri people live.
+Dialogue: 0,0:00:06.75,0:00:11.57,Default,en,0,0,0,,Warlords keep on fighting day and night over\NJipangu State, where Karakuri people live.
 Dialogue: 0,0:00:11.57,0:00:16.53,Default,ko,0,0,0,,카라쿠리 무예가들도 승리와 영광을 꿈꾸며 맹렬히 싸우고 있었다.
 Dialogue: 0,0:00:11.57,0:00:16.53,Default,en,0,0,0,,Karakuri Martial Artists were sharpening their swords, dreaming of victory and honor.
 Dialogue: 0,0:00:16.53,0:00:23.00,Default,ko,0,0,0,,그리고 지금, 카라쿠리 무예자 제일을 꿈꾸는 터무니없는 영웅이 탄생했다!
@@ -50,39 +50,39 @@ Dialogue: 0,0:00:27.81,0:00:32.99,TitleOP,en,0,0,90,,{\an8\fs32}Karakuri Kengoud
 Dialogue: 0,0:00:27.81,0:00:32.99,TitleOP,en,0,0,48,,Musashi Road
 Dialogue: 0,0:00:27.81,0:00:32.99,TitleOP,en,0,0,0,,{\fs24}(The Story of {\i1}Karakuri{\i0} Martial Artist: Road of Musashi)
 Dialogue: 0,0:00:32.99,0:00:37.82,SongOP,ko,0,0,0,,사내는 언제나 세계 한가운데서
-Dialogue: 0,0:00:32.99,0:00:37.82,SongOP,en,0,0,0,,A man always dreams of a day
+Dialogue: 0,0:00:32.99,0:00:37.82,SongOP,en,0,0,0,,A man always dreams of the day
 Dialogue: 0,0:00:38.66,0:00:41.58,SongOP,ko,0,0,0,,제일 강해질 날을
 Dialogue: 0,0:00:38.66,0:00:41.58,SongOP,en,0,0,0,,in the center of the world to become
 Dialogue: 0,0:00:41.58,0:00:44.45,SongOP,ko,0,0,0,,아! 아! 꿈꿔라
 Dialogue: 0,0:00:41.58,0:00:44.45,SongOP,en,0,0,0,,AH! AH! the strongest
 Dialogue: 0,0:00:44.45,0:00:49.49,SongOP,ko,0,0,0,,마음의 칼을 넓은 하늘로 번쩍 쳐들어
-Dialogue: 0,0:00:44.45,0:00:49.49,SongOP,en,0,0,0,,Raise the sword of spirit high to the wide sky
+Dialogue: 0,0:00:44.45,0:00:49.49,SongOP,en,0,0,0,,Raise the sword of your heart high to the wide sky
 Dialogue: 0,0:00:50.13,0:00:54.13,SongOP,ko,0,0,0,,모험의 길의 막을 연다
 Dialogue: 0,0:00:50.13,0:00:54.13,SongOP,en,0,0,0,,Raise the curtain to the road of adventure
 Dialogue: 0,0:00:55.46,0:01:00.72,SongOP,ko,0,0,0,,지팡구국을 떠도는 검호
-Dialogue: 0,0:00:55.46,0:01:00.72,SongOP,en,0,0,0,,A skilled Martial Artist wanders Jipangu Country
+Dialogue: 0,0:00:55.46,0:01:00.72,SongOP,en,0,0,0,,A skilled swordsman roams on Jipangu State
 Dialogue: 0,0:01:01.30,0:01:06.34,SongOP,ko,0,0,0,,그 이름은 카라쿠리인 무사시
-Dialogue: 0,0:01:01.30,0:01:06.34,SongOP,en,0,0,0,,His name is Musashi, a Karakuri Man
-Dialogue: 0,0:01:07.84,0:01:10.80,SongOP,ko,0,0,0,,격렬한 칼의 소리가
-Dialogue: 0,0:01:07.84,0:01:10.80,SongOP,en,0,0,0,,Intense clash of swords
+Dialogue: 0,0:01:01.30,0:01:06.34,SongOP,en,0,0,0,,His name is Musashi, a Karakuri man
+Dialogue: 0,0:01:07.84,0:01:10.80,SongOP,ko,0,0,0,,격렬한 승부의 소리는
+Dialogue: 0,0:01:07.84,0:01:10.80,SongOP,en,0,0,0,,The sound of fierce duels
 Dialogue: 0,0:01:10.80,0:01:13.61,SongOP,ko,0,0,0,,눈부신 인생
 Dialogue: 0,0:01:10.80,0:01:13.61,SongOP,en,0,0,0,,makes a life dazzle
 Dialogue: 0,0:01:13.61,0:01:19.07,SongOP,ko,0,0,0,,싸웠던 어제보다도 오늘 강해진다
-Dialogue: 0,0:01:13.61,0:01:19.07,SongOP,en,0,0,0,,Fight yesterday and become stronger today
+Dialogue: 0,0:01:13.61,0:01:19.07,SongOP,en,0,0,0,,Battles of yesterdays make you stronger today
 Dialogue: 0,0:01:19.12,0:01:25.35,SongOP,ko,0,0,0,,무예! 이도류 무사시
-Dialogue: 0,0:01:19.12,0:01:25.35,SongOP,en,0,0,0,,Martial Art! Dual Blade is Musashi
+Dialogue: 0,0:01:19.12,0:01:25.35,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
 Dialogue: 0,0:01:25.35,0:01:28.32,SongOP,ko,0,0,0,,내일은 빛난다
 Dialogue: 0,0:01:25.35,0:01:28.32,SongOP,en,0,0,0,,Tomorrow will be glorious
-Dialogue: 0,0:01:28.32,0:01:30.79,SongOP,ko,0,0,0,,격렬한 칼의 소리가
-Dialogue: 0,0:01:28.32,0:01:30.79,SongOP,en,0,0,0,,Intense clash of swords
+Dialogue: 0,0:01:28.32,0:01:30.79,SongOP,ko,0,0,0,,격렬한 승부의 소리는
+Dialogue: 0,0:01:28.32,0:01:30.79,SongOP,en,0,0,0,,The sound of fierce duels
 Dialogue: 0,0:01:30.79,0:01:33.30,SongOP,ko,0,0,0,,눈부신 인생
 Dialogue: 0,0:01:30.79,0:01:33.30,SongOP,en,0,0,0,,makes a life dazzle
 Dialogue: 0,0:01:34.00,0:01:39.39,SongOP,ko,0,0,0,,싸우는 한껏 고요함과 함께
-Dialogue: 0,0:01:34.00,0:01:39.39,SongOP,en,0,0,0,,Fight the utmost with the tranquility
+Dialogue: 0,0:01:34.00,0:01:39.39,SongOP,en,0,0,0,,Fight the utmost with the stillness
 Dialogue: 0,0:01:39.41,0:01:45.64,SongOP,ko,0,0,0,,무예! 이도류 무사시
-Dialogue: 0,0:01:39.41,0:01:45.64,SongOP,en,0,0,0,,Martial Art! Dual Blade is Musashi
-Dialogue: 0,0:01:45.64,0:01:50.90,SongOP,ko,0,0,0,,미간이 빛나고 있었다 무사시!!
-Dialogue: 0,0:01:45.64,0:01:50.90,SongOP,en,0,0,0,,The brow was shining! Musashi!!
+Dialogue: 0,0:01:39.41,0:01:45.64,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
+Dialogue: 0,0:01:45.64,0:01:50.90,SongOP,ko,0,0,0,,미간이 반짝였다 무사시!!
+Dialogue: 0,0:01:45.64,0:01:50.90,SongOP,en,0,0,0,,His eyes shined! Musashi!!
 Comment: 0,0:01:59.84,0:02:04.68,Default,ja,0,0,0,,エドトピアにやってきたムサシはゼニガタンに捕まって牢獄に出られた。
 Dialogue: 0,0:01:59.84,0:02:04.68,Default,ko,0,0,0,,에도토피아에 도달한 무사시는 제니가탄에게 잡혀 감옥에 들어가게 되었다.
 Dialogue: 0,0:01:59.84,0:02:04.68,Default,en,0,0,0,,Musashi finally came to Edotopia, but he was caught by Zenigatan and jailed.
@@ -134,7 +134,7 @@ Dialogue: 0,0:03:14.12,0:03:16.24,Default,ko,0,0,0,,여자 앞에 잘 보이려�
 Dialogue: 0,0:03:14.12,0:03:16.24,Default,en,0,0,0,,How unsightly is your ogling!
 Comment: 0,0:03:16.65,0:03:20.81,Default,ja,0,0,0,,お、我がライバルコジロウ！今日こそ決着をつけるダス！
 Dialogue: 0,0:03:16.65,0:03:20.81,Default,ko,0,0,0,,오, 내 라이벌 코지로! 오늘로 결판을 내소!
-Dialogue: 0,0:03:16.65,0:03:20.81,Default,en,0,0,0,,Oh, my rival Kojirou! I'll finish you as of today-{\i1}dasu{\i0}!
+Dialogue: 0,0:03:16.65,0:03:20.81,Default,en,0,0,0,,Oh, my rival Kojirō! I'll finish you as of today-{\i1}dasu{\i0}!
 Comment: 0,0:03:20.81,0:03:22.85,Default,ja,0,0,0,,祖言うセリフは十年早い！
 Dialogue: 0,0:03:20.81,0:03:22.85,Default,ko,0,0,0,,그런 대사를 하기엔 10년은 이르다!
 Dialogue: 0,0:03:20.81,0:03:22.85,Default,en,0,0,0,,You're 10 years early to say that!
@@ -357,16 +357,16 @@ Dialogue: 0,0:08:10.22,0:08:11.15,Default,ko,0,0,0,,무사시 씨...
 Dialogue: 0,0:08:10.22,0:08:11.15,Default,en,0,0,0,,Mr. Musashi...
 Comment: 0,0:08:12.59,0:08:18.72,Default,ja,0,0,0,,号外！号外！第三予選会場でコジロウが燕返しで三人抜きだよ！
 Dialogue: 0,0:08:12.59,0:08:18.72,Default,ko,0,0,0,,호외! 호외! 제 3 예선 회장에서 코지로가 츠바메가에시로 3명을 쓰러트렸대요!
-Dialogue: 0,0:08:12.59,0:08:18.72,Default,en,0,0,0,,Extra! Extra! At the third preliminary place, Kojirou took down three people with his {\i1}Tsubamegaeshi{\i0}!
+Dialogue: 0,0:08:12.59,0:08:18.72,Default,en,0,0,0,,Extra! Extra! At the third preliminary place, Kojirō took down three people with his {\i1}Tsubamegaeshi{\i0}!
 Comment: 0,0:08:18.72,0:08:22.86,Default,ja,0,0,0,,ああ、ハンサムね！・かっこいいわ、あたしの好みよ!
 Dialogue: 0,0:08:18.72,0:08:22.86,Default,ko,0,0,0,,-잘생겼어!\N-멋지다! 딱 내 취향이야!
 Dialogue: 0,0:08:18.72,0:08:22.86,Default,en,0,0,0,,-He's so handsome!\N-So cool! He's totally my type!
 Comment: 0,0:08:22.86,0:08:24.67,Default,ja,0,0,0,,コジロウ様！
 Dialogue: 0,0:08:22.86,0:08:24.67,Default,ko,0,0,0,,코지로 님!
-Dialogue: 0,0:08:22.86,0:08:24.67,Default,en,0,0,0,,Mr. Kojirou!
+Dialogue: 0,0:08:22.86,0:08:24.67,Default,en,0,0,0,,Mr. Kojirō!
 Comment: 0,0:08:25.90,0:08:26.75,Default,ja,0,0,0,,コジロウ？
 Dialogue: 0,0:08:25.90,0:08:26.75,Default,ko,0,0,0,,코지로...?
-Dialogue: 0,0:08:25.90,0:08:26.75,Default,en,0,0,0,,Kojirou!
+Dialogue: 0,0:08:25.90,0:08:26.75,Default,en,0,0,0,,Kojirō!
 Comment: 0,0:08:27.66,0:08:29.66,Default,ja,0,0,0,,河童がねだ！
 Dialogue: 0,0:08:27.66,0:08:29.66,Default,ko,0,0,0,,물귀신이다!
 Dialogue: 0,0:08:27.66,0:08:29.66,Default,en,0,0,0,,It's a Kappa!
@@ -378,13 +378,13 @@ Dialogue: 0,0:08:36.62,0:08:41.29,Default,ko,0,0,0,,제 1회 무예 대회에서
 Dialogue: 0,0:08:36.62,0:08:41.29,Default,en,0,0,0,,The one who appeared in the first martial arts competition by going through with {\i1}Tsubamegaeshi{\i0} is...
 Comment: 0,0:08:41.29,0:08:43.18,Default,ja,0,0,0,,天才剣士、コジロウ。
 Dialogue: 0,0:08:41.29,0:08:43.18,Default,ko,0,0,0,,천재 검사, 코지로...
-Dialogue: 0,0:08:41.29,0:08:43.18,Default,en,0,0,0,,a genius Martial Artist, Kojirou...
+Dialogue: 0,0:08:41.29,0:08:43.18,Default,en,0,0,0,,a genius Martial Artist, Kojirō...
 Comment: 0,0:08:44.49,0:08:46.41,Default,ja,0,0,0,,秘剣！燕返し！
 Dialogue: 0,0:08:44.49,0:08:46.41,Default,ko,0,0,0,,비검! 츠바메가에시!
 Dialogue: 0,0:08:44.49,0:08:46.41,Default,en,0,0,0,,Secret sword! {\i1}Tsubamegaeshi{\i0}!
 Comment: 0,0:08:47.07,0:08:50.92,Default,ja,0,0,0,,かっこいい！コジロウ様！
 Dialogue: 0,0:08:47.07,0:08:50.92,Default,ko,0,0,0,,멋져! 코지로 님!
-Dialogue: 0,0:08:47.07,0:08:50.92,Default,en,0,0,0,,So cool! Mr. Kojirou!
+Dialogue: 0,0:08:47.07,0:08:50.92,Default,en,0,0,0,,So cool! Mr. Kojirō!
 Comment: 0,0:08:50.92,0:08:56.19,Default,ja,0,0,0,,優勝候補の一角にマークされたが、特にエドトピアの女性の人気はナンバーワン！
 Dialogue: 0,0:08:50.92,0:08:56.19,Default,ko,0,0,0,,우승 후보 중 하나로 유망하고, 특히 에도토피아의 여성에게 인기는 제일이다.
 Dialogue: 0,0:08:50.92,0:08:56.19,Default,en,0,0,0,,He is one of the promising champion candidates, and he is popular among the girls in Edotopia.
@@ -473,10 +473,10 @@ Dialogue: 0,0:10:26.03,0:10:29.94,Default,ko,0,0,0,,미야모토 마을의 무�
 Dialogue: 0,0:10:26.03,0:10:29.94,Default,en,0,0,0,,Musashi from Miyamoto village... no, um...
 Comment: 0,0:10:29.94,0:10:31.58,Default,ja,0,0,0,,コジロウでござるダス！
 Dialogue: 0,0:10:29.94,0:10:31.58,Default,ko,0,0,0,,코지로이오!
-Dialogue: 0,0:10:29.94,0:10:31.58,Default,en,0,0,0,,I am Kojirou-{\i1}dasu{\i0}!
+Dialogue: 0,0:10:29.94,0:10:31.58,Default,en,0,0,0,,I am Kojirō-{\i1}dasu{\i0}!
 Comment: 0,0:10:32.20,0:10:35.28,Default,ja,0,0,0,,コジロウどのは。。。第三会場だ。
 Dialogue: 0,0:10:32.20,0:10:35.28,Default,ko,0,0,0,,코지로 님은... 제 3 회장이다.
-Dialogue: 0,0:10:32.20,0:10:35.28,Default,en,0,0,0,,Mr. Kojirou will go to the third contest place.
+Dialogue: 0,0:10:32.20,0:10:35.28,Default,en,0,0,0,,Mr. Kojirō will go to the third contest place.
 Comment: 0,0:10:35.28,0:10:36.41,Default,ja,0,0,0,,ここではない。
 Dialogue: 0,0:10:35.28,0:10:36.41,Default,ko,0,0,0,,여기가 아니다.
 Dialogue: 0,0:10:35.28,0:10:36.41,Default,en,0,0,0,,Not here.

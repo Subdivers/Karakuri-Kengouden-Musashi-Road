@@ -35,7 +35,7 @@ Comment: 0,0:00:00.00,0:00:00.00,SETTINGS,,0,0,0,,complete:false;song:song.*;lan
 Dialogue: 0,0:00:04.46,0:00:06.61,Default,ko,0,0,0,,어지러운 전국 시대.
 Dialogue: 0,0:00:04.46,0:00:06.61,Default,en,0,0,0,,It is the turbulent Sengoku period.
 Dialogue: 0,0:00:06.98,0:00:11.80,Default,ko,0,0,0,,카라쿠리인이 사는 지팡구국에서는 군웅할거하여 밤낮으로 접전이 계속되고
-Dialogue: 0,0:00:06.98,0:00:11.80,Default,en,0,0,0,,Warlords keep on fighting day and night over\Nthe Jipangu State, where Karakuri people live.
+Dialogue: 0,0:00:06.98,0:00:11.80,Default,en,0,0,0,,Warlords keep on fighting day and night over\NJipangu State, where Karakuri people live.
 Dialogue: 0,0:00:11.80,0:00:16.75,Default,ko,0,0,0,,카라쿠리 무예가들도 승리와 영광을 꿈꾸며 맹렬히 싸우고 있었다.
 Dialogue: 0,0:00:11.80,0:00:16.75,Default,en,0,0,0,,Karakuri Martial Artists were sharpening their swords, dreaming of victory and honor.
 Dialogue: 0,0:00:16.75,0:00:23.48,Default,ko,0,0,0,,그리고 지금, 카라쿠리 무예자 제일을 꿈꾸는 터무니없는 영웅이 탄생했다!
@@ -49,37 +49,37 @@ Dialogue: 0,0:00:27.96,0:00:33.14,TitleOP,en,0,0,0,,{\fs24}(The Story of {\i1}Ka
 Dialogue: 0,0:00:33.14,0:00:37.97,SongOP,ko,0,0,0,,사내는 언제나 세계 한가운데서
 Dialogue: 0,0:00:33.14,0:00:37.97,SongOP,en,0,0,0,,A man always dreams of the day
 Dialogue: 0,0:00:38.81,0:00:41.73,SongOP,ko,0,0,0,,제일 강해질 날을
-Dialogue: 0,0:00:38.81,0:00:41.73,SongOP,en,0,0,0,,when he'll become the world's
+Dialogue: 0,0:00:38.81,0:00:41.73,SongOP,en,0,0,0,,in the center of the world to become
 Dialogue: 0,0:00:41.73,0:00:44.60,SongOP,ko,0,0,0,,아! 아! 꿈꿔라
-Dialogue: 0,0:00:41.73,0:00:44.60,SongOP,en,0,0,0,,AH! AH! strongest
+Dialogue: 0,0:00:41.73,0:00:44.60,SongOP,en,0,0,0,,AH! AH! the strongest
 Dialogue: 0,0:00:44.60,0:00:49.64,SongOP,ko,0,0,0,,마음의 칼을 넓은 하늘로 번쩍 쳐들어
-Dialogue: 0,0:00:44.60,0:00:49.64,SongOP,en,0,0,0,,Raise your spirit's sword high to the wide sky
+Dialogue: 0,0:00:44.60,0:00:49.64,SongOP,en,0,0,0,,Raise the sword of your heart high to the wide sky
 Dialogue: 0,0:00:50.28,0:00:54.28,SongOP,ko,0,0,0,,모험의 길의 막을 연다
 Dialogue: 0,0:00:50.28,0:00:54.28,SongOP,en,0,0,0,,Raise the curtain to the road of adventure
 Dialogue: 0,0:00:55.61,0:01:00.87,SongOP,ko,0,0,0,,지팡구국을 떠도는 검호
-Dialogue: 0,0:00:55.61,0:01:00.87,SongOP,en,0,0,0,,A skilled Martial Artist wanders Jipangu Country
+Dialogue: 0,0:00:55.61,0:01:00.87,SongOP,en,0,0,0,,A skilled swordsman roams on Jipangu State
 Dialogue: 0,0:01:01.45,0:01:06.48,SongOP,ko,0,0,0,,그 이름은 카라쿠리인 무사시
 Dialogue: 0,0:01:01.45,0:01:06.48,SongOP,en,0,0,0,,His name is Musashi, a Karakuri man
-Dialogue: 0,0:01:07.99,0:01:10.90,SongOP,ko,0,0,0,,격렬한 칼의 소리가
-Dialogue: 0,0:01:07.99,0:01:10.90,SongOP,en,0,0,0,,An intense clash of swords
+Dialogue: 0,0:01:07.99,0:01:10.90,SongOP,ko,0,0,0,,격렬한 승부의 소리는
+Dialogue: 0,0:01:07.99,0:01:10.90,SongOP,en,0,0,0,,The sound of fierce duels
 Dialogue: 0,0:01:10.90,0:01:13.76,SongOP,ko,0,0,0,,눈부신 인생
 Dialogue: 0,0:01:10.90,0:01:13.76,SongOP,en,0,0,0,,makes life dazzling
 Dialogue: 0,0:01:13.76,0:01:19.22,SongOP,ko,0,0,0,,싸웠던 어제보다도 오늘 강해진다
-Dialogue: 0,0:01:13.76,0:01:19.22,SongOP,en,0,0,0,,Yesterday's battles makes you stronger today
+Dialogue: 0,0:01:13.76,0:01:19.22,SongOP,en,0,0,0,,Battles of yesterdays make you stronger today
 Dialogue: 0,0:01:19.27,0:01:25.46,SongOP,ko,0,0,0,,무예! 이도류 무사시
-Dialogue: 0,0:01:19.27,0:01:25.46,SongOP,en,0,0,0,,Martial Art! Dual Blade Musashi
+Dialogue: 0,0:01:19.27,0:01:25.46,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
 Dialogue: 0,0:01:25.46,0:01:28.47,SongOP,ko,0,0,0,,내일은 빛난다
 Dialogue: 0,0:01:25.46,0:01:28.47,SongOP,en,0,0,0,,Tomorrow will be glorious
-Dialogue: 0,0:01:28.47,0:01:30.94,SongOP,ko,0,0,0,,격렬한 칼의 소리가
-Dialogue: 0,0:01:28.47,0:01:30.94,SongOP,en,0,0,0,,An intense clash of swords
+Dialogue: 0,0:01:28.47,0:01:30.94,SongOP,ko,0,0,0,,격렬한 승부의 소리는
+Dialogue: 0,0:01:28.47,0:01:30.94,SongOP,en,0,0,0,,The sound of fierce duels
 Dialogue: 0,0:01:30.94,0:01:33.43,SongOP,ko,0,0,0,,눈부신 인생
 Dialogue: 0,0:01:30.94,0:01:33.43,SongOP,en,0,0,0,,makes life dazzling
 Dialogue: 0,0:01:34.14,0:01:39.54,SongOP,ko,0,0,0,,싸우는 한껏 고요함과 함께
-Dialogue: 0,0:01:34.14,0:01:39.54,SongOP,en,0,0,0,,Fight your hardest with tranquility
+Dialogue: 0,0:01:34.14,0:01:39.54,SongOP,en,0,0,0,,Fight the utmost with the stillness
 Dialogue: 0,0:01:39.56,0:01:45.79,SongOP,ko,0,0,0,,무예! 이도류 무사시
-Dialogue: 0,0:01:39.56,0:01:45.79,SongOP,en,0,0,0,,Martial Art! Dual Blade Musashi
-Dialogue: 0,0:01:45.79,0:01:51.05,SongOP,ko,0,0,0,,미간이 빛나고 있었다 무사시!!
-Dialogue: 0,0:01:45.79,0:01:51.05,SongOP,en,0,0,0,,Shining brow! Musashi!
+Dialogue: 0,0:01:39.56,0:01:45.79,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
+Dialogue: 0,0:01:45.79,0:01:51.05,SongOP,ko,0,0,0,,미간이 반짝였다 무사시!!
+Dialogue: 0,0:01:45.79,0:01:51.05,SongOP,en,0,0,0,,His eyes shined! Musashi!
 Comment: 0,0:02:01.84,0:02:07.57,Default,ja,0,0,0,,北海道へ渡ったムサシたち一行は、忍者たちに襲われている人々を助けた。
 Dialogue: 0,0:02:01.84,0:02:07.57,Default,ko,0,0,0,,홋카이도에 건너온 무사시 일행은 닌자들에게 쫒기던 사람들을 도왔다.
 Dialogue: 0,0:02:01.84,0:02:07.57,Default,en,0,0,0,,After crossing to Hokkaido, Musashi and his friends helped people being chased by ninjas.
@@ -189,7 +189,7 @@ Dialogue: 0,0:04:48.44,0:04:52.92,Default,ko,0,0,0,,이 카라쿠리 매는 네�
 Dialogue: 0,0:04:48.44,0:04:52.92,Default,en,0,0,0,,You have been using this Karakuri Hawk to urgently communicate with your subordinates.
 Comment: 0,0:04:53.70,0:04:58.40,Default,ja,0,0,0,,ムサシ、コジローを切って、センヒメ様を奪えとる司令であったな。
 Dialogue: 0,0:04:53.70,0:04:58.40,Default,ko,0,0,0,,무사시, 코지로를 베고, 센히메님을 탈취하라는 지령이었군.
-Dialogue: 0,0:04:53.70,0:04:58.40,Default,en,0,0,0,,There was a directive to cut Musashi and Kojiro, and steal Senhime.
+Dialogue: 0,0:04:53.70,0:04:58.40,Default,en,0,0,0,,There was a directive to cut Musashi and Kojirō, and steal Senhime.
 Comment: 0,0:04:58.88,0:05:04.61,Default,ja,0,0,0,,ハンゾウ。すべてはジュウベエの調べて明確である。潔く腹を切れ。
 Dialogue: 0,0:04:58.88,0:05:04.61,Default,ko,0,0,0,,한조. 모든 것은 쥬베가 조사하여 명확하다. 미련 없이 할복해라.
 Dialogue: 0,0:04:58.88,0:05:04.61,Default,en,0,0,0,,Hanzo, everything is clear as Jube investigated about this. Disembowel yourself to reclaim yourself.
@@ -348,7 +348,7 @@ Dialogue: 0,0:09:45.65,0:09:48.50,Default,ko,0,0,0,,그녀는 뭔가 불행을 �
 Dialogue: 0,0:09:45.65,0:09:48.50,Default,en,0,0,0,,It seems that she's under some kind of misery.
 Comment: 0,0:09:49.36,0:09:53.05,Default,ja,0,0,0,,コジロー！かっこつけてないで早く助けて呉れダス！
 Dialogue: 0,0:09:49.36,0:09:53.05,Default,ko,0,0,0,,코지로! 멋진 척 작작 하고 빨리 구하러 오시오!
-Dialogue: 0,0:09:49.36,0:09:53.05,Default,en,0,0,0,,Kojiro! Quit your showing off and come to rescue me right now-{\i1}dasu{\i0}!
+Dialogue: 0,0:09:49.36,0:09:53.05,Default,en,0,0,0,,Kojirō! Quit your showing off and come to rescue me right now-{\i1}dasu{\i0}!
 Comment: 0,0:09:53.38,0:09:53.98,Default,ja,0,0,0,,すまん。
 Dialogue: 0,0:09:53.38,0:09:53.98,Default,ko,0,0,0,,미안.
 Dialogue: 0,0:09:53.38,0:09:53.98,Default,en,0,0,0,,Sorry.
@@ -390,7 +390,7 @@ Dialogue: 0,0:10:57.48,0:10:59.20,Default,ko,0,0,0,,내가 대드니까 이렇�
 Dialogue: 0,0:10:57.48,0:10:59.20,Default,en,0,0,0,,This is because you defied me.
 Comment: 0,0:11:00.09,0:11:05.37,Default,ja,0,0,0,,さすがのコジローもムサシも雪崩の前にはどうすることもできなかった。
 Dialogue: 0,0:11:00.09,0:11:05.37,Default,ko,0,0,0,,그 대단한 코지로와 무사시도 눈사태 앞에서는 이러지도 저러지도 못했다.
-Dialogue: 0,0:11:00.09,0:11:05.37,Default,en,0,0,0,,That mighty Kojiro and Musashi couldn't do anything in front of a snowslide.
+Dialogue: 0,0:11:00.09,0:11:05.37,Default,en,0,0,0,,That mighty Kojirō and Musashi couldn't do anything in front of a snowslide.
 Comment: 0,0:11:07.65,0:11:10.88,Default,ja,0,0,0,,そのころ、ハンゾウはからくり砦にいた。
 Dialogue: 0,0:11:07.65,0:11:10.88,Default,ko,0,0,0,,그 쯤, 한조는 카라쿠리 요새에 있었다.
 Dialogue: 0,0:11:07.65,0:11:10.88,Default,en,0,0,0,,Meanwhile, Hanzo was at Karakuri Stronghold.
@@ -420,19 +420,19 @@ Dialogue: 0,0:11:42.45,0:11:44.38,Default,ko,0,0,0,,센히메를 잡아왔습니
 Dialogue: 0,0:11:42.45,0:11:44.38,Default,en,0,0,0,,I've caught Senhime.
 Comment: 0,0:11:46.34,0:11:49.88,Default,ja,0,0,0,,おお、でかしたぞ。さて、ムサシとコジローは？
 Dialogue: 0,0:11:46.34,0:11:49.88,Default,ko,0,0,0,,오, 잘 했다. 근데 무사시와 코지로는?
-Dialogue: 0,0:11:46.34,0:11:49.88,Default,en,0,0,0,,Good job, But what about Musashi and Kojiro?
+Dialogue: 0,0:11:46.34,0:11:49.88,Default,en,0,0,0,,Good job, But what about Musashi and Kojirō?
 Comment: 0,0:11:50.25,0:11:51.47,Default,ja,0,0,0,,雪崩とともに。
 Dialogue: 0,0:11:50.25,0:11:51.47,Default,ko,0,0,0,,눈사태와 함께.
 Dialogue: 0,0:11:50.25,0:11:51.47,Default,en,0,0,0,,They're under a snowslide.
 Comment: 0,0:11:52.01,0:11:58.09,Default,ja,0,0,0,,うん、まずは処刑のようだな。ムサシたちが毎日していればセンヒメをえさになる。
 Dialogue: 0,0:11:52.01,0:11:58.09,Default,ko,0,0,0,,좋다. 일단 처형된 것 같군. 무사시 놈들이 만일 온다면 센히메를 미끼로 해야겠어.
-Dialogue: 0,0:11:52.01,0:11:58.09,Default,en,0,0,0,,Good. They're as good as gone. But if Musashi and Kojiro appear, we'll use Senhime as a bait.
+Dialogue: 0,0:11:52.01,0:11:58.09,Default,en,0,0,0,,Good. They're as good as gone. But if Musashi and Kojirō appear, we'll use Senhime as a bait.
 Comment: 0,0:12:01.06,0:12:03.57,Default,ja,0,0,0,,ついに捕まってしまったセンヒメ。
 Dialogue: 0,0:12:01.06,0:12:03.57,Default,ko,0,0,0,,결국 잡히고 만 센히메.
 Dialogue: 0,0:12:01.06,0:12:03.57,Default,en,0,0,0,,Senhime has finally been captured.
 Comment: 0,0:12:03.89,0:12:10.07,Default,ja,0,0,0,,雪崩に巻き込まれたムサシ、コジローの運命は、からくり砦は地獄の入り口となるか。
 Dialogue: 0,0:12:03.89,0:12:10.07,Default,ko,0,0,0,,눈사태에 휩쓸린 무사시와 코지로의 운명은? 카라쿠리 요새는 지옥의 입구가 되는가?
-Dialogue: 0,0:12:03.89,0:12:10.07,Default,en,0,0,0,,What will happen to Musashi and Kojiro swallowed up by a snowslide? Will Karakuri Stronghold be an entrance to hell?
+Dialogue: 0,0:12:03.89,0:12:10.07,Default,en,0,0,0,,What will happen to Musashi and Kojirō swallowed up by a snowslide? Will Karakuri Stronghold be an entrance to hell?
 Comment: 0,0:12:10.70,0:12:13.40,Default,ja,0,0,0,,疾風怒濤のご飯を待って！
 Dialogue: 0,0:12:10.70,0:12:13.40,Default,ko,0,0,0,,질풍노도의 후반을 기다려라!
 Dialogue: 0,0:12:10.70,0:12:13.40,Default,en,0,0,0,,Wait for the stormy latter half!
@@ -445,10 +445,10 @@ Dialogue: 0,0:12:32.21,0:12:36.80,Default,ko,0,0,0,,엄청 춥소. 까딱하단 
 Dialogue: 0,0:12:32.21,0:12:36.80,Default,en,0,0,0,,So cold-{\i1}dasu{\i0}. I might have ended up as an ice-{\i1}dasu{\i0}.
 Comment: 0,0:12:38.26,0:12:41.29,Default,ja,0,0,0,,おせんちゃん！コジロー！どこだすか！
 Dialogue: 0,0:12:38.26,0:12:41.29,Default,ko,0,0,0,,센짱! 코지로! 어디이오!
-Dialogue: 0,0:12:38.26,0:12:41.29,Default,en,0,0,0,,Sen-chan! Kojiro! Where are you-{\i1}dasu{\i0}?!
+Dialogue: 0,0:12:38.26,0:12:41.29,Default,en,0,0,0,,Sen-chan! Kojirō! Where are you-{\i1}dasu{\i0}?!
 Comment: 0,0:12:44.05,0:12:47.81,Default,ja,0,0,0,,おせおちゃんはさらわれてしまって、コジローは行方不明。。。
 Dialogue: 0,0:12:44.05,0:12:47.81,Default,ko,0,0,0,,센짱은 빼앗겼고 코지로는 행방불명...
-Dialogue: 0,0:12:44.05,0:12:47.81,Default,en,0,0,0,,Sen-chan has been taken away and Kojiro's nowhere to be found-{\i1}dasu{\i0}...
+Dialogue: 0,0:12:44.05,0:12:47.81,Default,en,0,0,0,,Sen-chan has been taken away and Kojirō's nowhere to be found-{\i1}dasu{\i0}...
 Comment: 0,0:12:48.72,0:12:50.72,Default,ja,0,0,0,,どうすりゃいいんだす？
 Dialogue: 0,0:12:48.72,0:12:50.72,Default,ko,0,0,0,,이걸 어쩌오?
 Dialogue: 0,0:12:48.72,0:12:50.72,Default,en,0,0,0,,What should I do now-{\i1}dasu{\i0}?
@@ -460,7 +460,7 @@ Dialogue: 0,0:13:01.12,0:13:02.40,Default,ko,0,0,0,,눈 뒤집히지 마라, 무
 Dialogue: 0,0:13:01.12,0:13:02.40,Default,en,0,0,0,,Don't lose your mind, Musashi!
 Comment: 0,0:13:04.33,0:13:05.22,Default,ja,0,0,0,,コジロー！
 Dialogue: 0,0:13:04.33,0:13:05.22,Default,ko,0,0,0,,코지로!
-Dialogue: 0,0:13:04.33,0:13:05.22,Default,en,0,0,0,,Kojiro!
+Dialogue: 0,0:13:04.33,0:13:05.22,Default,en,0,0,0,,Kojirō!
 Comment: 0,0:13:07.22,0:13:08.89,Default,ja,0,0,0,,脅かしくなしだス！
 Dialogue: 0,0:13:07.22,0:13:08.89,Default,ko,0,0,0,,놀래키지 마시오!
 Dialogue: 0,0:13:07.22,0:13:08.89,Default,en,0,0,0,,Don't surprise me like that-{\i1}dasu{\i0}!
@@ -568,7 +568,7 @@ Dialogue: 0,0:15:01.24,0:15:04.97,Default,ko,0,0,0,,그래. 우리를 속일 생
 Dialogue: 0,0:15:01.24,0:15:04.97,Default,en,0,0,0,,Yes. She tried to fool us, but we won't be fooled.
 Comment: 0,0:15:05.50,0:15:07.42,Default,ja,0,0,0,,コジローって頭いいダスな。
 Dialogue: 0,0:15:05.50,0:15:07.42,Default,ko,0,0,0,,코지로 머리 좋소.
-Dialogue: 0,0:15:05.50,0:15:07.42,Default,en,0,0,0,,Kojiro, aren't you clever-{\i1}dasu{\i0}.
+Dialogue: 0,0:15:05.50,0:15:07.42,Default,en,0,0,0,,Kojirō, aren't you clever-{\i1}dasu{\i0}.
 Comment: 0,0:15:07.88,0:15:08.69,Default,ja,0,0,0,,勿論だ。
 Dialogue: 0,0:15:07.88,0:15:08.69,Default,ko,0,0,0,,물론이지.
 Dialogue: 0,0:15:07.88,0:15:08.69,Default,en,0,0,0,,Of course.
@@ -580,7 +580,7 @@ Dialogue: 0,0:15:12.00,0:15:12.36,Default,ko,0,0,0,,그래.
 Dialogue: 0,0:15:12.00,0:15:12.36,Default,en,0,0,0,,Yes.
 Comment: 0,0:15:26.01,0:15:30.39,Default,ja,0,0,0,,来たな。ムサシ、コジロー！まずは歓迎してやろう。
 Dialogue: 0,0:15:26.01,0:15:30.39,Default,ko,0,0,0,,왔군, 무사시, 코지로! 일단 환영해 주지.
-Dialogue: 0,0:15:26.01,0:15:30.39,Default,en,0,0,0,,So you've appeared, Musashi and Kojiro! Let me greet you first.
+Dialogue: 0,0:15:26.01,0:15:30.39,Default,en,0,0,0,,So you've appeared, Musashi and Kojirō! Let me greet you first.
 Comment: 0,0:15:30.54,0:15:31.73,Default,ja,0,0,0,,行くぞ！ケロ吉！
 Dialogue: 0,0:15:30.54,0:15:31.73,Default,ko,0,0,0,,가자! 케로키치!
 Dialogue: 0,0:15:30.54,0:15:31.73,Default,en,0,0,0,,Let's go, Kerokichi!
@@ -598,7 +598,7 @@ Dialogue: 0,0:15:49.68,0:15:50.37,Default,ko,0,0,0,,네이놈!
 Dialogue: 0,0:15:49.68,0:15:50.37,Default,en,0,0,0,,You bastard!
 Comment: 0,0:16:03.73,0:16:06.69,Default,ja,0,0,0,,やるな、コジロー。しかしそこまでだ。
 Dialogue: 0,0:16:03.73,0:16:06.69,Default,ko,0,0,0,,꽤 하는군, 코지로. 그렇지만 거기까지다.
-Dialogue: 0,0:16:03.73,0:16:06.69,Default,en,0,0,0,,Aren't you pretty good, Kojiro? But that will be your last.
+Dialogue: 0,0:16:03.73,0:16:06.69,Default,en,0,0,0,,Aren't you pretty good, Kojirō? But that will be your last.
 Comment: 0,0:16:09.48,0:16:15.29,Default,ja,0,0,0,,あびらうんけんすわか。あびらうんけんすわか。大吹雪の術。
 Dialogue: 0,0:16:09.48,0:16:15.29,Default,ko,0,0,0,,a vi ra hū{\fnArial\fscx80\fscy80}ṃ{\r} kha{\fnArial\fscx80\fscy80}ṃ{\r}, a vi ra hū{\fnArial\fscx80\fscy80}ṃ{\r} kha{\fnArial\fscx80\fscy80}ṃ{\r}, 대설풍술!
 Dialogue: 0,0:16:09.48,0:16:15.29,Default,en,0,0,0,,a vi ra hū{\fnArial\fscx80\fscy80}ṃ{\r} kha{\fnArial\fscx80\fscy80}ṃ{\r}, a vi ra hū{\fnArial\fscx80\fscy80}ṃ{\r} kha{\fnArial\fscx80\fscy80}ṃ{\r}, technique of big snowstorm!
@@ -649,7 +649,7 @@ Dialogue: 0,0:17:46.29,0:17:48.20,Default,ko,0,0,0,,그래. 무슨 일이 있어
 Dialogue: 0,0:17:46.29,0:17:48.20,Default,en,0,0,0,,Yes. We must rescue her no matter what!
 Comment: 0,0:17:54.14,0:17:56.78,Default,ja,0,0,0,,来たな。ムサシ。コジロー。
 Dialogue: 0,0:17:54.14,0:17:56.78,Default,ko,0,0,0,,왔구나, 무사시, 코지로.
-Dialogue: 0,0:17:54.14,0:17:56.78,Default,en,0,0,0,,So you're here, Musashi and Kojiro.
+Dialogue: 0,0:17:54.14,0:17:56.78,Default,en,0,0,0,,So you're here, Musashi and Kojirō.
 Comment: 0,0:17:57.74,0:18:01.23,Default,ja,0,0,0,,我が四天王の二人までも倒した憎しいやつ。
 Dialogue: 0,0:17:57.74,0:18:01.23,Default,ko,0,0,0,,내 사천왕 중 둘이나 쓰러뜨린 미운 놈.
 Dialogue: 0,0:17:57.74,0:18:01.23,Default,en,0,0,0,,Those abominable bastards who took two of my Four Iga Kings.
@@ -742,7 +742,7 @@ Dialogue: 0,0:20:14.94,0:20:15.56,Default,ko,0,0,0,,좋소!
 Dialogue: 0,0:20:14.94,0:20:15.56,Default,en,0,0,0,,Got it-{\i1}dasu{\i0}!
 Comment: 0,0:20:34.41,0:20:36.59,Default,ja,0,0,0,,そこまでだ、ムサシ！コジロー！
 Dialogue: 0,0:20:34.41,0:20:36.59,Default,ko,0,0,0,,거기까지다, 무사시, 코지로!
-Dialogue: 0,0:20:34.41,0:20:36.59,Default,en,0,0,0,,That's as far as you go, Musashi and Kojiro!
+Dialogue: 0,0:20:34.41,0:20:36.59,Default,en,0,0,0,,That's as far as you go, Musashi and Kojirō!
 Comment: 0,0:20:37.37,0:20:39.99,Default,ja,0,0,0,,まず、二人とも刀を捨ててもらおうか。
 Dialogue: 0,0:20:37.37,0:20:39.99,Default,ko,0,0,0,,먼저 둘 다 칼을 떨어뜨려라.
 Dialogue: 0,0:20:37.37,0:20:39.99,Default,en,0,0,0,,First, put your swords down.
@@ -757,7 +757,7 @@ Dialogue: 0,0:20:50.48,0:20:51.26,Default,ko,0,0,0,,센짱!
 Dialogue: 0,0:20:50.48,0:20:51.26,Default,en,0,0,0,,Sen-chan!
 Comment: 0,0:20:52.56,0:20:54.27,Default,ja,0,0,0,,ムサシ。。。コジロー。。。
 Dialogue: 0,0:20:52.56,0:20:54.27,Default,ko,0,0,0,,무사시... 코지로...
-Dialogue: 0,0:20:52.56,0:20:54.27,Default,en,0,0,0,,Musashi... Kojiro...
+Dialogue: 0,0:20:52.56,0:20:54.27,Default,en,0,0,0,,Musashi... Kojirō...
 Comment: 0,0:20:55.04,0:20:56.80,Default,ja,0,0,0,,二人とも刀を捨てろ。
 Dialogue: 0,0:20:55.04,0:20:56.80,Default,ko,0,0,0,,둘 다 칼을 떨어뜨려라.
 Dialogue: 0,0:20:55.04,0:20:56.80,Default,en,0,0,0,,Both of you, drop your swords.
@@ -775,7 +775,7 @@ Dialogue: 0,0:21:07.73,0:21:10.49,Default,ko,0,0,0,,이 자가 말하는 걸 믿
 Dialogue: 0,0:21:07.73,0:21:10.49,Default,en,0,0,0,,You must not trust what they're saying.
 Comment: 0,0:21:11.05,0:21:13.96,Default,ja,0,0,0,,ムサシ。コジロー。戦うのです。
 Dialogue: 0,0:21:11.05,0:21:13.96,Default,ko,0,0,0,,무사시, 코지로, 싸우세요.
-Dialogue: 0,0:21:11.05,0:21:13.96,Default,en,0,0,0,,Musashi. Kojiro. Fight.
+Dialogue: 0,0:21:11.05,0:21:13.96,Default,en,0,0,0,,Musashi. Kojirō. Fight.
 Comment: 0,0:21:14.53,0:21:15.23,Default,ja,0,0,0,,おせんちゃん。。。
 Dialogue: 0,0:21:14.53,0:21:15.23,Default,ko,0,0,0,,센짱...
 Dialogue: 0,0:21:14.53,0:21:15.23,Default,en,0,0,0,,Sen-chan...
@@ -790,13 +790,13 @@ Dialogue: 0,0:21:30.65,0:21:31.50,Default,ko,0,0,0,,센짱!
 Dialogue: 0,0:21:30.65,0:21:31.50,Default,en,0,0,0,,Sen-chan!
 Comment: 0,0:21:32.85,0:21:41.94,Default,ja,0,0,0,,ムサシはドジでおっちぇこっちょで食いしん坊だったから、とっても楽しかった。コジローは～だから強くて、頼もしかった。
 Dialogue: 0,0:21:32.85,0:21:41.94,Default,ko,0,0,0,,무사시는 바보에 덜렁대며 먹보였으니까 참 즐거웠어요. 코지로는 아니꼬워도 강하고 믿음직스러웠어요.
-Dialogue: 0,0:21:32.85,0:21:41.94,Default,en,0,0,0,,Musashi was a stupid fidgeting glutton, and that made the trip enjoyable. Kojiro was pompous yet strong and dependable.
+Dialogue: 0,0:21:32.85,0:21:41.94,Default,en,0,0,0,,Musashi was a stupid fidgeting glutton, and that made the trip enjoyable. Kojirō was pompous yet strong and dependable.
 Comment: 0,0:21:43.57,0:21:46.45,Default,ja,0,0,0,,おせんちゃん！おいらも一緒に死ぬダス！
 Dialogue: 0,0:21:43.57,0:21:46.45,Default,ko,0,0,0,,센짱! 나도 같이 죽소!
 Dialogue: 0,0:21:43.57,0:21:46.45,Default,en,0,0,0,,Senchan! I'll die with you-{\i1}dasu{\i0}!
 Comment: 0,0:21:47.69,0:21:50.01,Default,ja,0,0,0,,さぁ、コジロー。お前はどうする。
 Dialogue: 0,0:21:47.69,0:21:50.01,Default,ko,0,0,0,,그럼 코지로, 넌 어쩔래?
-Dialogue: 0,0:21:47.69,0:21:50.01,Default,en,0,0,0,,Then, Kojiro, what's your choice?
+Dialogue: 0,0:21:47.69,0:21:50.01,Default,en,0,0,0,,Then, Kojirō, what's your choice?
 Comment: 0,0:21:50.52,0:21:55.61,Default,ja,0,0,0,,私も命は惜しくない。しかし、センヒメ様の命は助けてくれるな。
 Dialogue: 0,0:21:50.52,0:21:55.61,Default,ko,0,0,0,,나도 목숨은 아깝지 않다. 다만, 센히메 님의 목숨은 구해 줘라.
 Dialogue: 0,0:21:50.52,0:21:55.61,Default,en,0,0,0,,I also do not value my life. But instead, keep Senhime alive.
@@ -805,7 +805,7 @@ Dialogue: 0,0:21:55.91,0:21:56.81,Default,ko,0,0,0,,약속하지.
 Dialogue: 0,0:21:55.91,0:21:56.81,Default,en,0,0,0,,I promise.
 Comment: 0,0:22:00.30,0:22:05.40,Default,ja,0,0,0,,絶体絶命の時は来た。手も足も出ないムサシ、コジロー。
 Dialogue: 0,0:22:00.30,0:22:05.40,Default,ko,0,0,0,,절체절명의 때가 왔다. 옴싹달싹도 못하는 무사시와 코지로.
-Dialogue: 0,0:22:00.30,0:22:05.40,Default,en,0,0,0,,A desperate moment has come. Musashi and Kojiro can't do a thing.
+Dialogue: 0,0:22:00.30,0:22:05.40,Default,en,0,0,0,,A desperate moment has come. Musashi and Kojirō can't do a thing.
 Comment: 0,0:22:05.92,0:22:08.82,Default,ja,0,0,0,,センヒメを無事助けることはできるのだろうか。
 Dialogue: 0,0:22:05.92,0:22:08.82,Default,ko,0,0,0,,센히메를 무사하게 구할 수 있을까.
 Dialogue: 0,0:22:05.92,0:22:08.82,Default,en,0,0,0,,Will they manage to rescue Senhime safely?

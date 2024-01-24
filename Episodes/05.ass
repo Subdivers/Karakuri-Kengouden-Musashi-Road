@@ -38,7 +38,7 @@ Comment: 0,0:00:00.00,0:00:00.00,SETTINGS,,0,0,0,,complete:false;song:song.*;lan
 Dialogue: 0,0:00:04.54,0:00:06.69,Default,ko,0,0,0,,어지러운 전국 시대.
 Dialogue: 0,0:00:04.54,0:00:06.69,Default,en,0,0,0,,It is the turbulent Sengoku period.
 Dialogue: 0,0:00:07.06,0:00:11.88,Default,ko,0,0,0,,카라쿠리인이 사는 지팡구국에서는 군웅할거하여 밤낮으로 접전이 계속되고
-Dialogue: 0,0:00:07.06,0:00:11.88,Default,en,0,0,0,,Warlords keep on fighting day and night over\Nthe Jipangu State, where Karakuri people live.
+Dialogue: 0,0:00:07.06,0:00:11.88,Default,en,0,0,0,,Warlords keep on fighting day and night over\NJipangu State, where Karakuri people live.
 Dialogue: 0,0:00:11.88,0:00:16.83,Default,ko,0,0,0,,카라쿠리 무예가들도 승리와 영광을 꿈꾸며 맹렬히 싸우고 있었다.
 Dialogue: 0,0:00:11.88,0:00:16.83,Default,en,0,0,0,,Karakuri Martial Artists were sharpening their swords, dreaming of victory and honor.
 Dialogue: 0,0:00:16.83,0:00:23.56,Default,ko,0,0,0,,그리고 지금, 카라쿠리 무예자 제일을 꿈꾸는 터무니없는 영웅이 탄생했다!
@@ -50,43 +50,43 @@ Dialogue: 0,0:00:28.03,0:00:33.21,TitleOP,en,0,0,90,,{\an8\fs32}Karakuri Kengoud
 Dialogue: 0,0:00:28.03,0:00:33.21,TitleOP,en,0,0,48,,Musashi Road
 Dialogue: 0,0:00:28.03,0:00:33.21,TitleOP,en,0,0,0,,{\fs24}(The Story of {\i1}Karakuri{\i0} Martial Artist: Road of Musashi)
 Dialogue: 0,0:00:33.21,0:00:38.05,SongOP,ko,0,0,0,,사내는 언제나 세계 한가운데서
-Dialogue: 0,0:00:33.21,0:00:38.05,SongOP,en,0,0,0,,A man always dreams of a day
+Dialogue: 0,0:00:33.21,0:00:38.05,SongOP,en,0,0,0,,A man always dreams of the day
 Dialogue: 0,0:00:38.89,0:00:41.82,SongOP,ko,0,0,0,,제일 강해질 날을
 Dialogue: 0,0:00:38.89,0:00:41.82,SongOP,en,0,0,0,,in the center of the world to become
 Dialogue: 0,0:00:41.82,0:00:44.69,SongOP,ko,0,0,0,,아! 아! 꿈꿔라
 Dialogue: 0,0:00:41.82,0:00:44.69,SongOP,en,0,0,0,,AH! AH! the strongest
 Dialogue: 0,0:00:44.69,0:00:49.73,SongOP,ko,0,0,0,,마음의 칼을 넓은 하늘로 번쩍 쳐들어
-Dialogue: 0,0:00:44.69,0:00:49.73,SongOP,en,0,0,0,,Raise the sword of spirit high to the wide sky
+Dialogue: 0,0:00:44.69,0:00:49.73,SongOP,en,0,0,0,,Raise the sword of your heart high to the wide sky
 Dialogue: 0,0:00:50.36,0:00:54.36,SongOP,ko,0,0,0,,모험의 길의 막을 연다
 Dialogue: 0,0:00:50.36,0:00:54.36,SongOP,en,0,0,0,,Raise the curtain to the road of adventure
 Dialogue: 0,0:00:55.70,0:01:00.95,SongOP,ko,0,0,0,,지팡구국을 떠도는 검호
-Dialogue: 0,0:00:55.70,0:01:00.95,SongOP,en,0,0,0,,A skilled Martial Artist wanders Jipangu Country
+Dialogue: 0,0:00:55.70,0:01:00.95,SongOP,en,0,0,0,,A skilled swordsman roams on Jipangu State
 Dialogue: 0,0:01:01.53,0:01:06.58,SongOP,ko,0,0,0,,그 이름은 카라쿠리인 무사시
-Dialogue: 0,0:01:01.53,0:01:06.58,SongOP,en,0,0,0,,His name is Musashi, a Karakuri Man
-Dialogue: 0,0:01:08.08,0:01:11.00,SongOP,ko,0,0,0,,격렬한 칼의 소리가
-Dialogue: 0,0:01:08.08,0:01:11.00,SongOP,en,0,0,0,,Intense clash of swords
+Dialogue: 0,0:01:01.53,0:01:06.58,SongOP,en,0,0,0,,His name is Musashi, a Karakuri man
+Dialogue: 0,0:01:08.08,0:01:11.00,SongOP,ko,0,0,0,,격렬한 승부의 소리는
+Dialogue: 0,0:01:08.08,0:01:11.00,SongOP,en,0,0,0,,The sound of fierce duels
 Dialogue: 0,0:01:11.00,0:01:13.84,SongOP,ko,0,0,0,,눈부신 인생
 Dialogue: 0,0:01:11.00,0:01:13.84,SongOP,en,0,0,0,,makes a life dazzle
 Dialogue: 0,0:01:13.84,0:01:19.30,SongOP,ko,0,0,0,,싸웠던 어제보다도 오늘 강해진다
-Dialogue: 0,0:01:13.84,0:01:19.30,SongOP,en,0,0,0,,Fight yesterday and become stronger today
+Dialogue: 0,0:01:13.84,0:01:19.30,SongOP,en,0,0,0,,Battles of yesterdays make you stronger today
 Dialogue: 0,0:01:19.34,0:01:25.56,SongOP,ko,0,0,0,,무예! 이도류 무사시
-Dialogue: 0,0:01:19.34,0:01:25.56,SongOP,en,0,0,0,,Martial Art! Dual Blade is Musashi
+Dialogue: 0,0:01:19.34,0:01:25.56,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
 Dialogue: 0,0:01:25.56,0:01:28.48,SongOP,ko,0,0,0,,내일은 빛난다
 Dialogue: 0,0:01:25.56,0:01:28.48,SongOP,en,0,0,0,,Tomorrow will be glorious
-Dialogue: 0,0:01:28.48,0:01:31.02,SongOP,ko,0,0,0,,격렬한 칼의 소리가
-Dialogue: 0,0:01:28.48,0:01:31.02,SongOP,en,0,0,0,,Intense clash of swords
+Dialogue: 0,0:01:28.48,0:01:31.02,SongOP,ko,0,0,0,,격렬한 승부의 소리는
+Dialogue: 0,0:01:28.48,0:01:31.02,SongOP,en,0,0,0,,The sound of fierce duels
 Dialogue: 0,0:01:31.02,0:01:33.52,SongOP,ko,0,0,0,,눈부신 인생
 Dialogue: 0,0:01:31.02,0:01:33.52,SongOP,en,0,0,0,,makes a life dazzle
 Dialogue: 0,0:01:34.23,0:01:39.61,SongOP,ko,0,0,0,,싸우는 한껏 고요함과 함께
-Dialogue: 0,0:01:34.23,0:01:39.61,SongOP,en,0,0,0,,Fight the utmost with the tranquility
+Dialogue: 0,0:01:34.23,0:01:39.61,SongOP,en,0,0,0,,Fight the utmost with the stillness
 Dialogue: 0,0:01:39.66,0:01:45.87,SongOP,ko,0,0,0,,무예! 이도류 무사시
-Dialogue: 0,0:01:39.66,0:01:45.87,SongOP,en,0,0,0,,Martial Art! Dual Blade is Musashi
-Dialogue: 0,0:01:45.87,0:01:51.13,SongOP,ko,0,0,0,,미간이 빛나고 있었다 무사시!!
-Dialogue: 0,0:01:45.87,0:01:51.13,SongOP,en,0,0,0,,The brow was shining! Musashi!!
+Dialogue: 0,0:01:39.66,0:01:45.87,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
+Dialogue: 0,0:01:45.87,0:01:51.13,SongOP,ko,0,0,0,,미간이 반짝였다 무사시!!
+Dialogue: 0,0:01:45.87,0:01:51.13,SongOP,en,0,0,0,,His eyes shined! Musashi!!
 Dialogue: 0,0:01:59.83,0:02:06.25,Default,ko,0,0,0,,지팡구국 제일의 무예가를 꿈꾸는 무사시는 무수한 무예가와 검을 주고받고 있었지만
-Dialogue: 0,0:01:59.83,0:02:06.25,Default,en,0,0,0,,Dreaming for the number one Martial Artist of Jipangu country, Musashi was fighting against numberless Martial Artists,
+Dialogue: 0,0:01:59.83,0:02:06.25,Default,en,0,0,0,,Dreaming for the number one Martial Artist of Jipangu State, Musashi was fighting against numberless Martial Artists,
 Dialogue: 0,0:02:06.83,0:02:14.21,Default,ko,0,0,0,,상대를 잘못 만났다. 지금은 전국에서 많은 회원을 가진 악명 높은 요시오카 도장의 보스,
-Dialogue: 0,0:02:06.83,0:02:14.21,Default,en,0,0,0,,but he met a wrong opponent. Denshichiro, the boss of Yoshika Dojo with the most members in the country,
+Dialogue: 0,0:02:06.83,0:02:14.21,Default,en,0,0,0,,but he met a wrong opponent. Denshichiro, the boss of Yoshika Dōjō with the most members in the country,
 Dialogue: 0,0:02:14.59,0:02:17.73,Default,ko,0,0,0,,덴시치로를 적으로 맞이하고야 말았다.
 Dialogue: 0,0:02:14.59,0:02:17.73,Default,en,0,0,0,,is now his opponent.
 Dialogue: 0,0:02:18.15,0:02:23.16,TitleEP,ko,0,0,60,,명검 장인, 폭풍을 부르오
@@ -116,18 +116,18 @@ Dialogue: 0,0:03:31.14,0:03:35.02,Default,ko,0,0,0,,이곳은 상인의 마을�
 Dialogue: 0,0:03:31.14,0:03:35.02,Default,en,0,0,0,,This place is Sakai harbor, a village of merchants.
 Dialogue: 0,0:03:39.61,0:03:43.61,NoteOnAnimeVert,ko,0,0,0,,{\an4\fs105\q2\frz-88\frx2\fax-0.1\move(345,134,345,-500)}(주) 요시오카 도장
 Dialogue: 0,0:03:40.28,0:03:43.61,NoteOnAnimeVert,ko,0,0,0,,{\an4\fs80\frz-88\frx2\fax-0.1\move(263,471,263,-63)}사카이 지점
-Dialogue: 0,0:03:39.61,0:03:43.61,NoteOnAnime,en,0,0,0,,{\an4\fs105\q2\frz-88\frx2\fax-0.1\move(345,134,345,-500)}Yoshioka Dojo Inc.
+Dialogue: 0,0:03:39.61,0:03:43.61,NoteOnAnime,en,0,0,0,,{\an4\fs105\q2\frz-88\frx2\fax-0.1\move(345,134,345,-500)}Yoshioka Dōjō Inc.
 Dialogue: 0,0:03:40.28,0:03:43.61,NoteOnAnime,en,0,0,0,,{\an4\fs80\frz-88\frx2\fax-0.1\move(263,471,263,-63)}Sakai Branch
 Dialogue: 0,0:03:35.35,0:03:41.37,Default,ko,0,0,0,,덴시치로는 무사시를 쫒으려 이곳 요시오카 도장 사카이 지점에 왔다.
-Dialogue: 0,0:03:35.35,0:03:41.37,Default,en,0,0,0,,Denshichiro came to Yoshioka dojo Sakai branch to get Musashi.
+Dialogue: 0,0:03:35.35,0:03:41.37,Default,en,0,0,0,,Denshichiro came to Yoshioka Dōjō Sakai branch to get Musashi.
 Dialogue: 0,0:03:43.64,0:03:47.64,NoteOnAnimeVert,ko,0,0,0,,{\an4\fs46\frz-82.5\frx2\fax-0.1\t(0,4000,\fs58)\move(520,-1,660,-73)}(주) 요시오카 도장
 Dialogue: 0,0:03:43.64,0:03:47.64,NoteOnAnimeVert,ko,0,0,0,,{\an4\fs36\frz-82.5\frx2\fax-0.1\t(0,4000,\fs40)\move(500,174,650,169)}사카이 지점
 Dialogue: 0,0:03:43.64,0:03:47.64,NoteOnAnime,ko,0,0,0,,{\an5\pos(314,266)\fs24\t(0,4000,\fs30)\frx20\frz2.5}환영
-Dialogue: 0,0:03:43.64,0:03:47.64,NoteOnAnime,en,0,0,0,,{\an4\fs46\frz-82.5\frx2\fax-0.1\t(0,4000,\fs58)\move(520,-1,660,-73)}Yoshioka Dojo Inc.
+Dialogue: 0,0:03:43.64,0:03:47.64,NoteOnAnime,en,0,0,0,,{\an4\fs46\frz-82.5\frx2\fax-0.1\t(0,4000,\fs58)\move(520,-1,660,-73)}Yoshioka Dōjō Inc.
 Dialogue: 0,0:03:43.64,0:03:47.64,NoteOnAnime,en,0,0,0,,{\an4\fs36\frz-82.5\frx2\fax-0.1\t(0,4000,\fs40)\move(500,174,650,169)}Sakai Branch
 Dialogue: 0,0:03:43.64,0:03:47.64,NoteOnAnime,en,0,0,0,,{\an5\fs24\t(0,4000,\fs30)\frx20\frz2.5\pos(314,266)}Welcome
 Dialogue: 0,0:03:48.14,0:03:52.63,Default,ko,0,0,0,,이 자가 우리 요시오카 도장에 행패를 부린 무사시의 얼굴이다.
-Dialogue: 0,0:03:48.14,0:03:52.63,Default,en,0,0,0,,This is the face of Musashi who play havoc on our Yoshioka dojo.
+Dialogue: 0,0:03:48.14,0:03:52.63,Default,en,0,0,0,,This is the face of Musashi who play havoc on our Yoshioka Dōjō.
 Dialogue: 0,0:03:53.56,0:03:55.35,Default,ko,0,0,0,,매우 교활한 얼굴이군!
 Dialogue: 0,0:03:53.56,0:03:55.35,Default,en,0,0,0,,What a sly face!
 Dialogue: 0,0:03:56.63,0:04:01.34,NoteOnAnime,ko,0,0,0,,{\an5\fs36\move(329,115,330,95)\t(0,4670,\fs40)}무도는 형태이다
@@ -149,13 +149,13 @@ Dialogue: 0,0:04:15.27,0:04:17.10,Default,en,0,0,0,,Sword craftsman you asked fo
 Dialogue: 0,0:04:17.56,0:04:18.98,Default,ko,0,0,0,,좋다. 지금 가겠다.
 Dialogue: 0,0:04:17.56,0:04:18.98,Default,en,0,0,0,,Good. Let's go right now.
 Dialogue: 0,0:04:24.76,0:04:32.38,Default,ko,0,0,0,,이 인물, 켄모치 코테츠야말로, 지팡구국의 기나긴 전국 시대의 역사적으로 유명한 칼 장인이다.
-Dialogue: 0,0:04:24.76,0:04:32.38,Default,en,0,0,0,,This person, Kenmochi Kotetsu, is a historically famous sword craftsman of a long period of Sengoku era of Jipangu country.
+Dialogue: 0,0:04:24.76,0:04:32.38,Default,en,0,0,0,,This person, Kenmochi Kotetsu, is a historically famous sword craftsman of a long period of Sengoku era of Jipangu State.
 Dialogue: 0,0:04:32.37,0:04:34.37,NoteOnAnime,ko,0,0,0,,{\an8\frz26\fs32\fad(0,300)\pos(337,242)\c&H8989FF&}코테츠 작
 Dialogue: 0,0:04:32.37,0:04:34.37,NoteOnAnime,en,0,0,0,,{\an8\frz26\fs32\fad(0,300)\pos(337,242)\c&H8989FF&}Made by Kotetsu
 Dialogue: 0,0:04:33.14,0:04:40.38,Default,ko,0,0,0,,그가 만든 칼은 코테츠라 불리며, 검의 길을 끝까지 걸은 자만이 손에 넣을 수 있다고 불려진다.
 Dialogue: 0,0:04:33.14,0:04:40.38,Default,en,0,0,0,,A sword crafted by him is called Kotetsu, and it is told that only masters of swords can have one.
 Dialogue: 0,0:04:46.74,0:04:51.25,Default,ko,0,0,0,,나는 요시오카 도장의 대리 사범, 요시오카 덴시치로라고 하오.
-Dialogue: 0,0:04:46.74,0:04:51.25,Default,en,0,0,0,,I am Yoshioka Denshichiro, a substitute instructor of Yoshioka dojo.
+Dialogue: 0,0:04:46.74,0:04:51.25,Default,en,0,0,0,,I am Yoshioka Denshichiro, a substitute instructor of Yoshioka Dōjō.
 Dialogue: 0,0:04:51.85,0:04:53.44,Default,ko,0,0,0,,켄모치 코테츠이오.
 Dialogue: 0,0:04:51.85,0:04:53.44,Default,en,0,0,0,,Kenmochi Kotetsu.
 Dialogue: 0,0:04:53.58,0:04:57.37,Default,ko,0,0,0,,본론부터 말하자면, 내게 명도 코테츠를 만들어 주셨으면 한다.
@@ -163,9 +163,9 @@ Dialogue: 0,0:04:53.58,0:04:57.37,Default,en,0,0,0,,Long story short, I'd like t
 Dialogue: 0,0:04:59.93,0:05:00.98,Default,ko,0,0,0,,거절하오.
 Dialogue: 0,0:04:59.93,0:05:00.98,Default,en,0,0,0,,I reject.
 Dialogue: 0,0:05:01.43,0:05:05.90,Default,ko,0,0,0,,뭐라?! 이 요시오카 도장의 대리 사범의 요청을 거절한다고?
-Dialogue: 0,0:05:01.43,0:05:05.90,Default,en,0,0,0,,What?! You dare to reject the request from the substitute instructor of Yoshioka dojo?
+Dialogue: 0,0:05:01.43,0:05:05.90,Default,en,0,0,0,,What?! You dare to reject the request from the substitute instructor of Yoshioka Dōjō?
 Dialogue: 0,0:05:07.78,0:05:14.18,Default,ko,0,0,0,,너, 설마 지팡구국에 이름을 떨치는 요시오카 덴시치로 님을 모르는 것이오?
-Dialogue: 0,0:05:07.78,0:05:14.18,Default,en,0,0,0,,Don't you know Yoshioka Denshichiro, a name famous all over Jipangu country?
+Dialogue: 0,0:05:07.78,0:05:14.18,Default,en,0,0,0,,Don't you know Yoshioka Denshichiro, a name famous all over Jipangu State?
 Dialogue: 0,0:05:14.54,0:05:15.65,Default,ko,0,0,0,,이름은 안다.
 Dialogue: 0,0:05:14.54,0:05:15.65,Default,en,0,0,0,,I know.
 Dialogue: 0,0:05:15.93,0:05:22.08,Default,ko,0,0,0,,그럼 어째서 거절하나? 칼을 만드는 게 그렇게 체면 구기는 일은 아니지 않소이까.
@@ -340,7 +340,7 @@ Dialogue: 0,0:10:51.52,0:10:53.02,Default,en,0,0,0,,What a relief-{\i1}dasu{\i0}
 Dialogue: 0,0:10:53.50,0:10:54.66,Default,ko,0,0,0,,이름이...
 Dialogue: 0,0:10:53.50,0:10:54.66,Default,en,0,0,0,,What's your name?
 Dialogue: 0,0:10:55.06,0:10:56.28,Default,ko,0,0,0,,코지로!
-Dialogue: 0,0:10:55.06,0:10:56.28,Default,en,0,0,0,,Kojiro!
+Dialogue: 0,0:10:55.06,0:10:56.28,Default,en,0,0,0,,Kojirō!
 Dialogue: 0,0:10:56.58,0:11:00.51,Default,ko,0,0,0,,예의 모르는 놈. 생명의 은인 이름을 막 부르는 놈이 있는가!
 Dialogue: 0,0:10:56.58,0:11:00.51,Default,en,0,0,0,,You insolent brat. Who dare to call the name of your lifesaver?
 Dialogue: 0,0:11:01.56,0:11:02.55,Default,ko,0,0,0,,미안하오!
@@ -376,9 +376,9 @@ Dialogue: 0,0:11:59.96,0:12:02.73,Default,en,0,0,0,,Don't act cool-{\i1}dasu{\i0
 Dialogue: 0,0:12:08.68,0:12:10.49,Default,ko,0,0,0,,살았소...
 Dialogue: 0,0:12:08.68,0:12:10.49,Default,en,0,0,0,,That was danger-{\i1}dasu{\i0}...
 Dialogue: 0,0:12:11.60,0:12:13.02,Default,ko,0,0,0,,코지로 놈!
-Dialogue: 0,0:12:11.60,0:12:13.02,Default,en,0,0,0,,Damn that Kojiro!
+Dialogue: 0,0:12:11.60,0:12:13.02,Default,en,0,0,0,,Damn that Kojirō!
 Dialogue: 0,0:12:13.36,0:12:20.71,Default,ko,0,0,0,,코지로에게 놀림받은 무사시. 칼을 손에 넣을 수 있을 것인가? 질풍노도의 후반을 기다려라!
-Dialogue: 0,0:12:13.36,0:12:20.71,Default,en,0,0,0,,Musashi was insulted by Kojiro. Will he ever be able to get a sword? Wait for the stormy latter half!
+Dialogue: 0,0:12:13.36,0:12:20.71,Default,en,0,0,0,,Musashi was insulted by Kojirō. Will he ever be able to get a sword? Wait for the stormy latter half!
 Dialogue: 0,0:12:20.71,0:12:25.59,Eyecatch,ko,0,0,0,,카라쿠리 검호전 무사시 로드
 Dialogue: 0,0:12:20.71,0:12:25.59,Eyecatch,en,0,0,0,,Karakuri Kengouden: Musashi Road!
 Dialogue: 0,0:12:20.71,0:12:25.59,Eyecatch,,0,0,0,,{\an2}by Subdivers
@@ -568,7 +568,7 @@ Dialogue: 0,0:19:14.47,0:19:16.22,Default,en,0,0,0,,Dear! Big problem!
 Dialogue: 0,0:19:17.53,0:19:19.10,Default,ko,0,0,0,,무, 무슨 일인가?
 Dialogue: 0,0:19:17.53,0:19:19.10,Default,en,0,0,0,,Wha- what's up?
 Dialogue: 0,0:19:20.36,0:19:22.41,Default,ko,0,0,0,,요시오카 도장의 사람들이 와서...
-Dialogue: 0,0:19:20.36,0:19:22.41,Default,en,0,0,0,,People from Yoshioka dojo came and...
+Dialogue: 0,0:19:20.36,0:19:22.41,Default,en,0,0,0,,People from Yoshioka Dōjō came and...
 Dialogue: 0,0:19:24.12,0:19:27.51,Default,ko,0,0,0,,뭐라? 내가 부탁한 칼을 만들지 않겠다고?
 Dialogue: 0,0:19:24.12,0:19:27.51,Default,en,0,0,0,,What? He didn't made the sword I asked?
 Dialogue: 0,0:19:27.86,0:19:31.54,Default,ko,0,0,0,,어떤 분의 의뢰라도 들을 수 없습니다!
@@ -593,7 +593,7 @@ Dialogue: 0,0:20:10.10,0:20:12.31,Default,ko,0,0,0,,코타로! 기다리시오!
 Dialogue: 0,0:20:10.10,0:20:12.31,Default,en,0,0,0,,Kotaro! I'm going to save you-{\i1}dasu{\i0}!
 Dialogue: 0,0:20:12.31,0:20:17.61,NoteOnAnimeVert,ko,0,0,0,,{\an6\fs64\frz-89.7\frx2\fax0.1\move(558,372,558,372)}(주) 요시오카 도장
 Dialogue: 0,0:20:12.31,0:20:17.61,NoteOnAnimeVert,ko,0,0,0,,{\an4\fs36\frz-89.7\frx2\fax0.1\move(512,168,512,168)}사카이 지점
-Dialogue: 0,0:20:12.31,0:20:17.61,NoteOnAnime,en,0,0,0,,{\an6\fs64\frz-89.7\frx2\fax0.1\move(558,372,558,372)}Yoshioka Dojo Inc.
+Dialogue: 0,0:20:12.31,0:20:17.61,NoteOnAnime,en,0,0,0,,{\an6\fs64\frz-89.7\frx2\fax0.1\move(558,372,558,372)}Yoshioka Dōjō Inc.
 Dialogue: 0,0:20:12.31,0:20:17.61,NoteOnAnime,en,0,0,0,,{\an4\fs36\frz-89.7\frx2\fax0.1\move(512,168,512,168)}Sakai Branch
 Dialogue: 0,0:20:16.48,0:20:18.55,Default,ko,0,0,0,,무사시가 있다!
 Dialogue: 0,0:20:16.48,0:20:18.55,Default,en,0,0,0,,Musashi has appeared!

@@ -38,7 +38,7 @@ Comment: 0,0:00:00.00,0:00:00.00,SETTINGS,,0,0,0,,complete:false;song:song.*;lan
 Dialogue: 0,0:00:04.44,0:00:06.57,Default,ko,0,0,0,,어지러운 전국 시대.
 Dialogue: 0,0:00:04.44,0:00:06.57,Default,en,0,0,0,,It is the turbulent Sengoku period.
 Dialogue: 0,0:00:07.07,0:00:11.89,Default,ko,0,0,0,,카라쿠리인이 사는 지팡구국에서는 군웅할거하여 밤낮으로 접전이 계속되고
-Dialogue: 0,0:00:07.07,0:00:11.89,Default,en,0,0,0,,Warlords keep on fighting day and night over\Nthe Jipangu State, where Karakuri people live.
+Dialogue: 0,0:00:07.07,0:00:11.89,Default,en,0,0,0,,Warlords keep on fighting day and night over\NJipangu State, where Karakuri people live.
 Dialogue: 0,0:00:11.89,0:00:16.84,Default,ko,0,0,0,,카라쿠리 무예가들도 승리와 영광을 꿈꾸며 맹렬히 싸우고 있었다.
 Dialogue: 0,0:00:11.89,0:00:16.84,Default,en,0,0,0,,Karakuri Martial Artists were sharpening their swords, dreaming of victory and honor.
 Dialogue: 0,0:00:16.84,0:00:23.57,Default,ko,0,0,0,,그리고 지금, 카라쿠리 무예자 제일을 꿈꾸는 터무니없는 영웅이 탄생했다!
@@ -50,45 +50,45 @@ Dialogue: 0,0:00:28.00,0:00:33.18,TitleOP,en,0,0,90,,{\an8\fs32}Karakuri Kengoud
 Dialogue: 0,0:00:28.00,0:00:33.18,TitleOP,en,0,0,48,,Musashi Road
 Dialogue: 0,0:00:28.00,0:00:33.18,TitleOP,en,0,0,0,,{\fs24}(The Story of {\i1}Karakuri{\i0} Martial Artist: Road of Musashi)
 Dialogue: 0,0:00:33.18,0:00:38.02,SongOP,ko,0,0,0,,사내는 언제나 세계 한가운데서
-Dialogue: 0,0:00:33.18,0:00:38.02,SongOP,en,0,0,0,,A man always dreams of a day
+Dialogue: 0,0:00:33.18,0:00:38.02,SongOP,en,0,0,0,,A man always dreams of the day
 Dialogue: 0,0:00:38.85,0:00:41.77,SongOP,ko,0,0,0,,제일 강해질 날을
 Dialogue: 0,0:00:38.85,0:00:41.77,SongOP,en,0,0,0,,in the center of the world to become
 Dialogue: 0,0:00:41.77,0:00:44.65,SongOP,ko,0,0,0,,아! 아! 꿈꿔라
 Dialogue: 0,0:00:41.77,0:00:44.65,SongOP,en,0,0,0,,AH! AH! the strongest
 Dialogue: 0,0:00:44.65,0:00:49.70,SongOP,ko,0,0,0,,마음의 칼을 넓은 하늘로 번쩍 쳐들어
-Dialogue: 0,0:00:44.65,0:00:49.70,SongOP,en,0,0,0,,Raise the sword of spirit high to the wide sky
+Dialogue: 0,0:00:44.65,0:00:49.70,SongOP,en,0,0,0,,Raise the sword of your heart high to the wide sky
 Dialogue: 0,0:00:50.32,0:00:54.33,SongOP,ko,0,0,0,,모험의 길의 막을 연다
 Dialogue: 0,0:00:50.32,0:00:54.33,SongOP,en,0,0,0,,Raise the curtain to the road of adventure
 Dialogue: 0,0:00:55.66,0:01:00.92,SongOP,ko,0,0,0,,지팡구국을 떠도는 검호
-Dialogue: 0,0:00:55.66,0:01:00.92,SongOP,en,0,0,0,,A skilled Martial Artist wanders Jipangu Country
+Dialogue: 0,0:00:55.66,0:01:00.92,SongOP,en,0,0,0,,A skilled swordsman roams on Jipangu State
 Dialogue: 0,0:01:01.50,0:01:06.55,SongOP,ko,0,0,0,,그 이름은 카라쿠리인 무사시
-Dialogue: 0,0:01:01.50,0:01:06.55,SongOP,en,0,0,0,,His name is Musashi, a Karakuri Man
-Dialogue: 0,0:01:08.05,0:01:10.97,SongOP,ko,0,0,0,,격렬한 칼의 소리가
-Dialogue: 0,0:01:08.05,0:01:10.97,SongOP,en,0,0,0,,Intense clash of swords
+Dialogue: 0,0:01:01.50,0:01:06.55,SongOP,en,0,0,0,,His name is Musashi, a Karakuri man
+Dialogue: 0,0:01:08.05,0:01:10.97,SongOP,ko,0,0,0,,격렬한 승부의 소리는
+Dialogue: 0,0:01:08.05,0:01:10.97,SongOP,en,0,0,0,,The sound of fierce duels
 Dialogue: 0,0:01:10.97,0:01:13.80,SongOP,ko,0,0,0,,눈부신 인생
 Dialogue: 0,0:01:10.97,0:01:13.80,SongOP,en,0,0,0,,makes a life dazzle
 Dialogue: 0,0:01:13.80,0:01:19.27,SongOP,ko,0,0,0,,싸웠던 어제보다도 오늘 강해진다
-Dialogue: 0,0:01:13.80,0:01:19.27,SongOP,en,0,0,0,,Fight yesterday and become stronger today
+Dialogue: 0,0:01:13.80,0:01:19.27,SongOP,en,0,0,0,,Battles of yesterdays make you stronger today
 Dialogue: 0,0:01:19.31,0:01:25.52,SongOP,ko,0,0,0,,무예! 이도류 무사시
-Dialogue: 0,0:01:19.31,0:01:25.52,SongOP,en,0,0,0,,Martial Art! Dual Blade is Musashi
+Dialogue: 0,0:01:19.31,0:01:25.52,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
 Dialogue: 0,0:01:25.52,0:01:28.44,SongOP,ko,0,0,0,,내일은 빛난다
 Dialogue: 0,0:01:25.52,0:01:28.44,SongOP,en,0,0,0,,Tomorrow will be glorious
-Dialogue: 0,0:01:28.44,0:01:30.99,SongOP,ko,0,0,0,,격렬한 칼의 소리가
-Dialogue: 0,0:01:28.44,0:01:30.99,SongOP,en,0,0,0,,Intense clash of swords
+Dialogue: 0,0:01:28.44,0:01:30.99,SongOP,ko,0,0,0,,격렬한 승부의 소리는
+Dialogue: 0,0:01:28.44,0:01:30.99,SongOP,en,0,0,0,,The sound of fierce duels
 Dialogue: 0,0:01:30.99,0:01:33.49,SongOP,ko,0,0,0,,눈부신 인생
 Dialogue: 0,0:01:30.99,0:01:33.49,SongOP,en,0,0,0,,makes a life dazzle
 Dialogue: 0,0:01:34.20,0:01:39.58,SongOP,ko,0,0,0,,싸우는 한껏 고요함과 함께
-Dialogue: 0,0:01:34.20,0:01:39.58,SongOP,en,0,0,0,,Fight the utmost with the tranquility
+Dialogue: 0,0:01:34.20,0:01:39.58,SongOP,en,0,0,0,,Fight the utmost with the stillness
 Dialogue: 0,0:01:39.62,0:01:45.84,SongOP,ko,0,0,0,,무예! 이도류 무사시
-Dialogue: 0,0:01:39.62,0:01:45.84,SongOP,en,0,0,0,,Martial Art! Dual Blade is Musashi
-Dialogue: 0,0:01:45.84,0:01:51.09,SongOP,ko,0,0,0,,미간이 빛나고 있었다 무사시!!
-Dialogue: 0,0:01:45.84,0:01:51.09,SongOP,en,0,0,0,,The brow was shining! Musashi!!
+Dialogue: 0,0:01:39.62,0:01:45.84,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
+Dialogue: 0,0:01:45.84,0:01:51.09,SongOP,ko,0,0,0,,미간이 반짝였다 무사시!!
+Dialogue: 0,0:01:45.84,0:01:51.09,SongOP,en,0,0,0,,His eyes shined! Musashi!!
 Dialogue: 0,0:02:01.15,0:02:05.88,Default,ko,0,0,0,,산속의 미야모토 마을에서 목검을 쳐들고 난폭하게 굴던 무사시는
-Dialogue: 0,0:02:01.15,0:02:05.88,Default,en,0,0,0,,Once being rough in the Miyamoto villege in mountains, Musashi was punished
+Dialogue: 0,0:02:01.15,0:02:05.88,Default,en,0,0,0,,Once being rough in the Miyamoto village in mountains, Musashi was punished
 Dialogue: 0,0:02:06.20,0:02:11.55,Default,ko,0,0,0,,타쿠안에게 처벌받게 되었지만 오츠루에게 구해져 수련의 길에 나섰다.
 Dialogue: 0,0:02:06.20,0:02:11.55,Default,en,0,0,0,,by Takuan, but Otsuru rescued him and Musashi went to train himself.
 Dialogue: 0,0:02:11.98,0:02:15.82,Default,ko,0,0,0,,그리고 평생의 라이벌이 될 코지로하고 만났지만
-Dialogue: 0,0:02:11.98,0:02:15.82,Default,en,0,0,0,,He met Kojirou who will become his rival of life,
+Dialogue: 0,0:02:11.98,0:02:15.82,Default,en,0,0,0,,He met Kojirō who will become his rival of life,
 Dialogue: 0,0:02:15.82,0:02:19.19,Default,ko,0,0,0,,무참히 완패하고 만 무사시.
 Dialogue: 0,0:02:15.82,0:02:19.19,Default,en,0,0,0,,and he was completely defeated without mercy.
 Dialogue: 0,0:02:19.70,0:02:22.99,Default,ko,0,0,0,,그의 앞길에는 먹구름이 닥친 것이었다.
@@ -189,16 +189,16 @@ Dialogue: 0,0:05:42.99,0:05:45.41,Default,en,0,0,0,,You're going to be hurt-{\i1
 Dialogue: 0,0:06:00.62,0:06:03.26,Default,ko,0,0,0,,감사하오! 감사하오! 정말 고맙소!
 Dialogue: 0,0:06:00.62,0:06:03.26,Default,en,0,0,0,,Thanks! Thank you! Thank you so much!
 Dialogue: 0,0:06:07.10,0:06:10.69,Default,ko,0,0,0,,그 무예가들은 요시오카 도장의 사람들입니다.
-Dialogue: 0,0:06:07.10,0:06:10.69,Default,en,0,0,0,,Those Martial Artists are from Yoshioka Dojo.
+Dialogue: 0,0:06:07.10,0:06:10.69,Default,en,0,0,0,,Those Martial Artists are from Yoshioka Dōjō.
 Dialogue: 0,0:06:11.10,0:06:12.25,Default,ko,0,0,0,,요시오카 도장?
-Dialogue: 0,0:06:11.10,0:06:12.25,Default,en,0,0,0,,Yoshioka Dojo?
+Dialogue: 0,0:06:11.10,0:06:12.25,Default,en,0,0,0,,Yoshioka Dōjō?
 Dialogue: 0,0:06:12.25,0:06:17.07,Default,ko,0,0,0,,네. 미야코에 있는 지팡구에서 제일 강한 무예가들이 모인 도장입니다.
-Dialogue: 0,0:06:12.25,0:06:17.07,Default,en,0,0,0,,Yes. It's a dojo in Miyako that the most powerful Martial Artists of Jipangu are at.
+Dialogue: 0,0:06:12.25,0:06:17.07,Default,en,0,0,0,,Yes. It's a Dōjō in Miyako that the most powerful Martial Artists of Jipangu are at.
 Dialogue: 0,0:06:17.83,0:06:19.65,Default,ko,0,0,0,,지팡구에서 제일 강하다고 하셨소?
 Dialogue: 0,0:06:17.83,0:06:19.65,Default,en,0,0,0,,Most powerful of Jipangu-{\i1}dasu{\i0}?
 Dialogue: 0,0:06:20.16,0:06:27.33,Default,ko,0,0,0,,그 지부가 최근 이 조우카 마을에 생겼답니다. 요시오카 도장 소속이라 말만 하는 것으로 모두가 벌벌 떨 뿐이니...
 Dialogue: 0,0:06:20.16,0:06:23.82,Default,en,0,0,0,,Its branch has opened recently at here, Jouka.
-Dialogue: 0,0:06:23.82,0:06:27.33,Default,en,0,0,0,,Everyone tremble all over only by saying that one's a member of Yoshioka Dojo...
+Dialogue: 0,0:06:23.82,0:06:27.33,Default,en,0,0,0,,Everyone tremble all over only by saying that one's a member of Yoshioka Dōjō...
 Dialogue: 0,0:06:27.93,0:06:29.63,Default,ko,0,0,0,,뭐든 제 것인 양 행동하고...
 Dialogue: 0,0:06:27.93,0:06:29.63,Default,en,0,0,0,,They act as if everything is theirs.
 Dialogue: 0,0:06:30.06,0:06:34.59,Default,ko,0,0,0,,그래도 이 무사시가 있는 한 더 이상 무서워 할 필요 없소!
@@ -234,7 +234,7 @@ Dialogue: 0,0:07:28.87,0:07:31.44,Default,en,0,0,0,,Yoshioka Seijuro!
 Dialogue: 0,0:07:31.87,0:07:36.51,Default,ko,0,0,0,,수도에서 오신 요시오카 가문의 대선생의 자제분으로 우리들의 스승이시다!
 Dialogue: 0,0:07:31.87,0:07:36.51,Default,en,0,0,0,,He is our master who is a son of the master of Yoshioka Family from the capital!
 Dialogue: 0,0:07:36.53,0:07:43.50,Default,ko,0,0,0,,여기 오카야마에 요시오카 도장 지부 문을 열고 난 이후 처음으로 특별히 왕림하신 것이다!
-Dialogue: 0,0:07:36.53,0:07:43.50,Default,en,0,0,0,,It's the first time he came to specially visit someone by himself ever since he opened Yoshioka dojo at here, Okayama!
+Dialogue: 0,0:07:36.53,0:07:43.50,Default,en,0,0,0,,It's the first time he came to specially visit someone by himself ever since he opened Yoshioka Dōjō at here, Okayama!
 Dialogue: 0,0:07:45.35,0:07:47.86,Default,ko,0,0,0,,난 미야모토 마을의 무사시라고 하오.
 Dialogue: 0,0:07:45.35,0:07:47.86,Default,en,0,0,0,,I am Musashi from Miyamoto village-{\i1}dasu{\i0}.
 Dialogue: 0,0:07:48.19,0:07:49.99,Default,ko,0,0,0,,그래서 용건이 무엇이오?
@@ -496,7 +496,7 @@ Dialogue: 0,0:19:36.31,0:19:40.01,Default,en,0,0,0,,Musashi! If you drop dead in
 Dialogue: 0,0:19:41.81,0:19:42.75,Default,ko,0,0,0,,바보 녀석.
 Dialogue: 0,0:19:41.81,0:19:42.75,Default,en,0,0,0,,Idiot.
 Dialogue: 0,0:19:43.12,0:19:44.22,Default,ko,0,0,0,,코지로!
-Dialogue: 0,0:19:43.12,0:19:44.22,Default,en,0,0,0,,Kojirou!
+Dialogue: 0,0:19:43.12,0:19:44.22,Default,en,0,0,0,,Kojirō!
 Dialogue: 0,0:20:14.46,0:20:17.85,Default,ko,0,0,0,,괜찮은 녀석이었다... 죽을 때까지 검을 놓지 않다니.
 Dialogue: 0,0:20:14.46,0:20:17.85,Default,en,0,0,0,,He was a fine guy... I'm surprised that he's still holding his sword after death.
 Dialogue: 0,0:20:18.30,0:20:19.75,Default,ko,0,0,0,,빈틈이오!

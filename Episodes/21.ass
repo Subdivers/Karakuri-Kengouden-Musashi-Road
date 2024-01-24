@@ -35,7 +35,7 @@ Comment: 0,0:00:00.00,0:00:00.00,SETTINGS,,0,0,0,,complete:false;song:song.*;lan
 Dialogue: 0,0:00:04.27,0:00:06.50,Default,ko,0,0,0,,어지러운 전국 시대.
 Dialogue: 0,0:00:04.27,0:00:06.50,Default,en,0,0,0,,It is the turbulent Sengoku period.
 Dialogue: 0,0:00:06.91,0:00:11.73,Default,ko,0,0,0,,카라쿠리인이 사는 지팡구국에서는 군웅할거하여 밤낮으로 접전이 계속되고
-Dialogue: 0,0:00:06.91,0:00:11.73,Default,en,0,0,0,,Warlords keep on fighting day and night over\Nthe Jipangu State, where Karakuri people live.
+Dialogue: 0,0:00:06.91,0:00:11.73,Default,en,0,0,0,,Warlords keep on fighting day and night over\NJipangu State, where Karakuri people live.
 Dialogue: 0,0:00:11.73,0:00:16.69,Default,ko,0,0,0,,카라쿠리 무예가들도 승리와 영광을 꿈꾸며 맹렬히 싸우고 있었다.
 Dialogue: 0,0:00:11.73,0:00:16.69,Default,en,0,0,0,,Karakuri Martial Artists were sharpening their swords, dreaming of victory and honor.
 Dialogue: 0,0:00:16.69,0:00:23.16,Default,ko,0,0,0,,그리고 지금, 카라쿠리 무예자 제일을 꿈꾸는 터무니없는 영웅이 탄생했다!
@@ -49,43 +49,43 @@ Dialogue: 0,0:00:27.81,0:00:32.99,TitleOP,en,0,0,0,,{\fs24}(The Story of {\i1}Ka
 Dialogue: 0,0:00:32.99,0:00:37.82,SongOP,ko,0,0,0,,사내는 언제나 세계 한가운데서
 Dialogue: 0,0:00:32.99,0:00:37.82,SongOP,en,0,0,0,,A man always dreams of the day
 Dialogue: 0,0:00:38.66,0:00:41.58,SongOP,ko,0,0,0,,제일 강해질 날을
-Dialogue: 0,0:00:38.66,0:00:41.58,SongOP,en,0,0,0,,when he'll become the world's
+Dialogue: 0,0:00:38.66,0:00:41.58,SongOP,en,0,0,0,,in the center of the world to become
 Dialogue: 0,0:00:41.58,0:00:44.45,SongOP,ko,0,0,0,,아! 아! 꿈꿔라
-Dialogue: 0,0:00:41.58,0:00:44.45,SongOP,en,0,0,0,,AH! AH! strongest
+Dialogue: 0,0:00:41.58,0:00:44.45,SongOP,en,0,0,0,,AH! AH! the strongest
 Dialogue: 0,0:00:44.45,0:00:49.49,SongOP,ko,0,0,0,,마음의 칼을 넓은 하늘로 번쩍 쳐들어
-Dialogue: 0,0:00:44.45,0:00:49.49,SongOP,en,0,0,0,,Raise your spirit's sword high to the wide sky
+Dialogue: 0,0:00:44.45,0:00:49.49,SongOP,en,0,0,0,,Raise the sword of your heart high to the wide sky
 Dialogue: 0,0:00:50.13,0:00:54.13,SongOP,ko,0,0,0,,모험의 길의 막을 연다
 Dialogue: 0,0:00:50.13,0:00:54.13,SongOP,en,0,0,0,,Raise the curtain to the road of adventure
 Dialogue: 0,0:00:55.46,0:01:00.72,SongOP,ko,0,0,0,,지팡구국을 떠도는 검호
-Dialogue: 0,0:00:55.46,0:01:00.72,SongOP,en,0,0,0,,A skilled Martial Artist wanders Jipangu Country
+Dialogue: 0,0:00:55.46,0:01:00.72,SongOP,en,0,0,0,,A skilled swordsman roams on Jipangu State
 Dialogue: 0,0:01:01.30,0:01:06.37,SongOP,ko,0,0,0,,그 이름은 카라쿠리인 무사시
 Dialogue: 0,0:01:01.30,0:01:06.37,SongOP,en,0,0,0,,His name is Musashi, a Karakuri man
-Dialogue: 0,0:01:07.84,0:01:10.80,SongOP,ko,0,0,0,,격렬한 칼의 소리가
-Dialogue: 0,0:01:07.84,0:01:10.80,SongOP,en,0,0,0,,An intense clash of swords
+Dialogue: 0,0:01:07.84,0:01:10.80,SongOP,ko,0,0,0,,격렬한 승부의 소리는
+Dialogue: 0,0:01:07.84,0:01:10.80,SongOP,en,0,0,0,,The sound of fierce duels
 Dialogue: 0,0:01:10.80,0:01:13.61,SongOP,ko,0,0,0,,눈부신 인생
 Dialogue: 0,0:01:10.80,0:01:13.61,SongOP,en,0,0,0,,makes life dazzling
 Dialogue: 0,0:01:13.61,0:01:19.07,SongOP,ko,0,0,0,,싸웠던 어제보다도 오늘 강해진다
-Dialogue: 0,0:01:13.61,0:01:19.07,SongOP,en,0,0,0,,Yesterday's battles makes you stronger today
+Dialogue: 0,0:01:13.61,0:01:19.07,SongOP,en,0,0,0,,Battles of yesterdays make you stronger today
 Dialogue: 0,0:01:19.12,0:01:25.34,SongOP,ko,0,0,0,,무예! 이도류 무사시
-Dialogue: 0,0:01:19.12,0:01:25.34,SongOP,en,0,0,0,,Martial Art! Dual Blade Musashi
+Dialogue: 0,0:01:19.12,0:01:25.34,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
 Dialogue: 0,0:01:25.34,0:01:28.32,SongOP,ko,0,0,0,,내일은 빛난다
 Dialogue: 0,0:01:25.34,0:01:28.32,SongOP,en,0,0,0,,Tomorrow will be glorious
-Dialogue: 0,0:01:28.32,0:01:30.79,SongOP,ko,0,0,0,,격렬한 칼의 소리가
-Dialogue: 0,0:01:28.32,0:01:30.79,SongOP,en,0,0,0,,An intense clash of swords
+Dialogue: 0,0:01:28.32,0:01:30.79,SongOP,ko,0,0,0,,격렬한 승부의 소리는
+Dialogue: 0,0:01:28.32,0:01:30.79,SongOP,en,0,0,0,,The sound of fierce duels
 Dialogue: 0,0:01:30.79,0:01:33.32,SongOP,ko,0,0,0,,눈부신 인생
 Dialogue: 0,0:01:30.79,0:01:33.32,SongOP,en,0,0,0,,makes life dazzling
 Dialogue: 0,0:01:34.03,0:01:39.39,SongOP,ko,0,0,0,,싸우는 한껏 고요함과 함께
-Dialogue: 0,0:01:34.03,0:01:39.39,SongOP,en,0,0,0,,Fight your hardest with tranquility
+Dialogue: 0,0:01:34.03,0:01:39.39,SongOP,en,0,0,0,,Fight the utmost with the stillness
 Dialogue: 0,0:01:39.41,0:01:45.64,SongOP,ko,0,0,0,,무예! 이도류 무사시
-Dialogue: 0,0:01:39.41,0:01:45.64,SongOP,en,0,0,0,,Martial Art! Dual Blade Musashi
-Dialogue: 0,0:01:45.64,0:01:50.90,SongOP,ko,0,0,0,,미간이 빛나고 있었다 무사시!!
-Dialogue: 0,0:01:45.64,0:01:50.90,SongOP,en,0,0,0,,Shining brow! Musashi!
+Dialogue: 0,0:01:39.41,0:01:45.64,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
+Dialogue: 0,0:01:45.64,0:01:50.90,SongOP,ko,0,0,0,,미간이 반짝였다 무사시!!
+Dialogue: 0,0:01:45.64,0:01:50.90,SongOP,en,0,0,0,,His eyes shined! Musashi!
 Comment: 0,0:02:02.32,0:02:07.40,Default,ja,0,0,0,,シュテンタイガーは砂金を取るために村の人々を働かせていた。
 Dialogue: 0,0:02:02.32,0:02:07.40,Default,ko,0,0,0,,슈텐타이거는 사금을 얻기 위해 마을 사람들에게 노동을 강제하고 있었다.
 Dialogue: 0,0:02:02.32,0:02:07.40,Default,en,0,0,0,,Shutentiger was forcing the villagers to work to mine alluvial gold.
 Comment: 0,0:02:08.50,0:02:17.34,Default,ja,0,0,0,,ムサシ、コジローは三太の願いを聞き、激しい戦いの末、シュテンタイガーを、大爆発させてしまったのだった。
 Dialogue: 0,0:02:08.50,0:02:17.34,Default,ko,0,0,0,,무사시, 코지로는 산타의 부탁을 들어 격심한 전투 끝에 슈텐타이거를 대폭발시켰다.
-Dialogue: 0,0:02:08.50,0:02:17.34,Default,en,0,0,0,,Musashi and Kojiro responded to Santa's wish by making Shutentiger explode after a intense fight.
+Dialogue: 0,0:02:08.50,0:02:17.34,Default,en,0,0,0,,Musashi and Kojirō responded to Santa's wish by making Shutentiger explode after a intense fight.
 Comment: 0,0:02:18.15,0:02:23.20,Default,ja,0,0,0,,ヒ～！イシマツの幽霊だす
 Comment: 0,0:02:18.15,0:02:23.20,Default,ko,0,0,0,,히익! 이시마츠의 유령이오
 Comment: 0,0:02:18.15,0:02:23.20,Default,en,0,0,0,,Woah! It's Ishimatsu's Ghost!
@@ -101,7 +101,7 @@ Dialogue: 0,0:02:37.92,0:02:40.09,Default,ko,0,0,0,,뭐가 어쨌더라도 온�
 Dialogue: 0,0:02:37.92,0:02:40.09,Default,en,0,0,0,,Hot springs are the best no matter what.
 Comment: 0,0:02:46.88,0:02:50.37,Default,ja,0,0,0,,なあ、コジロー。おいらたちも温泉に入ろうだす。
 Dialogue: 0,0:02:46.88,0:02:50.37,Default,ko,0,0,0,,저기, 코지로, 우리도 온천에 들어가오.
-Dialogue: 0,0:02:46.88,0:02:50.37,Default,en,0,0,0,,Hey, Kojiro, let's get into the hot spring too-{\i1}dasu{\i0}.
+Dialogue: 0,0:02:46.88,0:02:50.37,Default,en,0,0,0,,Hey, Kojirō, let's get into the hot spring too-{\i1}dasu{\i0}.
 Comment: 0,0:02:50.74,0:02:55.20,Default,ja,0,0,0,,センヒメ様が襲われたらどうするんだ。そんなのんびりしたことできるか！
 Dialogue: 0,0:02:50.74,0:02:55.20,Default,ko,0,0,0,,센히메 님이 습격당하면 어쩔 셈이냐? 그런 태평한 일할 틈이 있을 것 같냐!
 Dialogue: 0,0:02:50.74,0:02:55.20,Default,en,0,0,0,,What if Senhime gets attacked? Do you think we have time to enjoy something at leisure?
@@ -221,10 +221,10 @@ Dialogue: 0,0:06:10.70,0:06:16.41,Default,ko,0,0,0,,싫어. 겨우 유령을 볼
 Dialogue: 0,0:06:10.70,0:06:16.41,Default,en,0,0,0,,Nope! This is a rare chance to see ghosts with my bare eyes. Do you think I can sleep without missing that chance?
 Comment: 0,0:06:16.78,0:06:17.91,Default,ja,0,0,0,,ね、コジロー？
 Dialogue: 0,0:06:16.78,0:06:17.91,Default,ko,0,0,0,,그렇지, 코지로?
-Dialogue: 0,0:06:16.78,0:06:17.91,Default,en,0,0,0,,Don't you agree, Kojiro?
+Dialogue: 0,0:06:16.78,0:06:17.91,Default,en,0,0,0,,Don't you agree, Kojirō?
 Comment: 0,0:06:21.30,0:06:23.48,Default,ja,0,0,0,,コジロー？あなたは怖くないの？
 Dialogue: 0,0:06:21.30,0:06:23.48,Default,ko,0,0,0,,코지로? 넌 무섭지 않아?
-Dialogue: 0,0:06:21.30,0:06:23.48,Default,en,0,0,0,,Kojiro, aren't you scared?
+Dialogue: 0,0:06:21.30,0:06:23.48,Default,en,0,0,0,,Kojirō, aren't you scared?
 Comment: 0,0:06:23.86,0:06:28.12,Default,ja,0,0,0,,え。あたしはあいにく幽霊などのいうものを信じないしゅい。
 Dialogue: 0,0:06:23.86,0:06:28.12,Default,ko,0,0,0,,예. 저는 마침 유령이란 걸 믿지 않아서요.
 Dialogue: 0,0:06:23.86,0:06:28.12,Default,en,0,0,0,,Yes. Coincidentally, I don't believe in ghosts at the moment.
@@ -236,7 +236,7 @@ Dialogue: 0,0:06:30.99,0:06:35.91,Default,ko,0,0,0,,나는 센히메 님을 호�
 Dialogue: 0,0:06:30.99,0:06:35.91,Default,en,0,0,0,,My objective is to protect Senhime. Nothing more or less than that.
 Comment: 0,0:06:36.17,0:06:37.93,Default,ja,0,0,0,,やっぱコジローも怖いダス。
 Dialogue: 0,0:06:36.17,0:06:37.93,Default,ko,0,0,0,,역시 코지로도 겁에 질렸소.
-Dialogue: 0,0:06:36.17,0:06:37.93,Default,en,0,0,0,,I see that you're scared too, Kojiro-{\i1}dasu{\i0}.
+Dialogue: 0,0:06:36.17,0:06:37.93,Default,en,0,0,0,,I see that you're scared too, Kojirō-{\i1}dasu{\i0}.
 Comment: 0,0:06:42.22,0:06:48.57,Default,ja,0,0,0,,ああ、こんな時は決まって幽霊が出るでございます。やったごゆっくり。
 Dialogue: 0,0:06:42.22,0:06:48.57,Default,ko,0,0,0,,이런 때는 분명 유령이 나올 것입니다. 그럼 저는...
 Dialogue: 0,0:06:42.22,0:06:48.57,Default,en,0,0,0,,This means that ghosts will show up soon. Then...
@@ -254,7 +254,7 @@ Dialogue: 0,0:06:56.45,0:06:57.71,Default,ko,0,0,0,,어째서이오...
 Dialogue: 0,0:06:56.45,0:06:57.71,Default,en,0,0,0,,How-{\i1}dasu{\i0}...
 Comment: 0,0:06:58.14,0:07:00.13,Default,ja,0,0,0,,行くわよ、ムサシ、コジロー！
 Dialogue: 0,0:06:58.14,0:07:00.13,Default,ko,0,0,0,,가자, 무사시, 코지로!
-Dialogue: 0,0:06:58.14,0:07:00.13,Default,en,0,0,0,,Go, Musashi, Kojiro!
+Dialogue: 0,0:06:58.14,0:07:00.13,Default,en,0,0,0,,Go, Musashi, Kojirō!
 Comment: 0,0:07:00.32,0:07:04.06,Default,ja,0,0,0,,おっと、その前にちょっとトイレに行ってくるだす
 Dialogue: 0,0:07:00.32,0:07:04.06,Default,ko,0,0,0,,아, 그 전에 잠깐 화장실에 갔다 오겠소!
 Dialogue: 0,0:07:00.32,0:07:04.06,Default,en,0,0,0,,B- before that, let me go to toilet-{\i1}dasu{\i0}!
@@ -281,7 +281,7 @@ Dialogue: 0,0:07:22.64,0:07:24.01,Default,ko,0,0,0,,누, 누, 누구이오!
 Dialogue: 0,0:07:22.64,0:07:24.01,Default,en,0,0,0,,W- w- who is that-{\i1}dasu{\i0}?!
 Comment: 0,0:07:27.98,0:07:34.00,Default,ja,0,0,0,,あら、何でこんなところにお団子が。ああ、コジロー奴、きいきかせてたらしい！
 Dialogue: 0,0:07:27.98,0:07:34.00,Default,ko,0,0,0,,어라, 왜 이런 곳에 단고... 코지로 놈도 참, 가끔은 소원도 들어주오!
-Dialogue: 0,0:07:27.98,0:07:34.00,Default,en,0,0,0,,Hey, why are dangos here? Kojiro sure grant me my wish sometimes-{\i1}dasu{\i0}!
+Dialogue: 0,0:07:27.98,0:07:34.00,Default,en,0,0,0,,Hey, why are dangos here? Kojirō sure grant me my wish sometimes-{\i1}dasu{\i0}!
 Comment: 0,0:07:34.69,0:07:37.83,Default,ja,0,0,0,,食べ物があるならあるとすなをいえばいいだす。
 Dialogue: 0,0:07:34.69,0:07:37.83,Default,ko,0,0,0,,먹을 게 있으면 고분고분히 말하면 될 것이오.
 Dialogue: 0,0:07:34.69,0:07:37.83,Default,en,0,0,0,,If he's with something to eat, he should tell me as-is-{\i1}dasu{\i0}.
@@ -531,7 +531,7 @@ Dialogue: 0,0:12:56.88,0:12:58.64,Default,ko,0,0,0,,아니, 이건 대체...
 Dialogue: 0,0:12:56.88,0:12:58.64,Default,en,0,0,0,,What's going on?
 Comment: 0,0:12:58.88,0:13:02.87,Default,ja,0,0,0,,コジロー！おせんちゃん！どこだスか！
 Dialogue: 0,0:12:58.88,0:13:02.87,Default,ko,0,0,0,,코지로! 센짱! 어디이오!
-Dialogue: 0,0:12:58.88,0:13:02.87,Default,en,0,0,0,,Kojiro! Sen-chan! Where are you-{\i1}dasu{\i0}?!
+Dialogue: 0,0:12:58.88,0:13:02.87,Default,en,0,0,0,,Kojirō! Sen-chan! Where are you-{\i1}dasu{\i0}?!
 Comment: 0,0:13:02.87,0:13:04.13,Default,ja,0,0,0,,私はここにいる！
 Dialogue: 0,0:13:02.87,0:13:04.13,Default,ko,0,0,0,,난 여기 있어!
 Dialogue: 0,0:13:02.87,0:13:04.13,Default,en,0,0,0,,I'm here!
@@ -552,7 +552,7 @@ Dialogue: 0,0:13:15.22,0:13:16.58,Default,ko,0,0,0,,알겠소!
 Dialogue: 0,0:13:15.22,0:13:16.58,Default,en,0,0,0,,Roger-{\i1}dasu{\i0}!
 Comment: 0,0:13:17.56,0:13:18.50,Default,ja,0,0,0,,うん？コジローか？
 Dialogue: 0,0:13:17.56,0:13:18.50,Default,ko,0,0,0,,어? 코지로이오?
-Dialogue: 0,0:13:17.56,0:13:18.50,Default,en,0,0,0,,Huh? Is it Kojiro?
+Dialogue: 0,0:13:17.56,0:13:18.50,Default,en,0,0,0,,Huh? Is it Kojirō?
 Comment: 0,0:13:20.05,0:13:22.18,Default,ja,0,0,0,,よ、ムサシ。・イシマツさん！
 Dialogue: 0,0:13:20.05,0:13:22.18,Default,ko,0,0,0,,-어이, 무사시.\N-이시마츠 씨!
 Dialogue: 0,0:13:20.05,0:13:22.18,Default,en,0,0,0,,-Hey, Musashi.\N-Mr. Ishimatsu!
@@ -717,7 +717,7 @@ Dialogue: 0,0:16:36.56,0:16:38.24,Default,ko,0,0,0,,저 세상에서 배웠지.
 Dialogue: 0,0:16:36.56,0:16:38.24,Default,en,0,0,0,,In the other world.
 Comment: 0,0:16:40.02,0:16:40.64,Default,ja,0,0,0,,コジロー！
 Dialogue: 0,0:16:40.02,0:16:40.64,Default,ko,0,0,0,,코지로!
-Dialogue: 0,0:16:40.02,0:16:40.64,Default,en,0,0,0,,Kojiro!
+Dialogue: 0,0:16:40.02,0:16:40.64,Default,en,0,0,0,,Kojirō!
 Comment: 0,0:16:41.21,0:16:43.27,Default,ja,0,0,0,,死ね、ムサシ！
 Dialogue: 0,0:16:41.21,0:16:43.27,Default,ko,0,0,0,,죽어라, 무사시!
 Dialogue: 0,0:16:41.21,0:16:43.27,Default,en,0,0,0,,Die, Musashi!
@@ -798,7 +798,7 @@ Dialogue: 0,0:18:41.00,0:18:46.48,Default,ko,0,0,0,,인간의 마음을 가지�
 Dialogue: 0,0:18:41.00,0:18:46.48,Default,en,0,0,0,,Playing with humans' minds, and even trying to fiddle with General Ieyasu is unforgivable!
 Comment: 0,0:18:46.97,0:18:51.20,Default,ja,0,0,0,,ジュウベエさん、コジロー！あの呪術、なんとしてもそうちゅしてやるだす！
 Dialogue: 0,0:18:46.97,0:18:51.20,Default,ko,0,0,0,,쥬베 씨, 코지로! 저 주술, 어떻게든 조치해 주겠소!
-Dialogue: 0,0:18:46.97,0:18:51.20,Default,en,0,0,0,,Mr. Jube and Kojiro! We will do something with that sorcery-{\i1}dasu{\i0}!
+Dialogue: 0,0:18:46.97,0:18:51.20,Default,en,0,0,0,,Mr. Jube and Kojirō! We will do something with that sorcery-{\i1}dasu{\i0}!
 Comment: 0,0:18:52.14,0:18:54.24,Default,ja,0,0,0,,～て、みんな！
 Dialogue: 0,0:18:52.14,0:18:54.24,Default,ko,0,0,0,,힘내, 모두!
 Dialogue: 0,0:18:52.14,0:18:54.24,Default,en,0,0,0,,Do your best, everyone!

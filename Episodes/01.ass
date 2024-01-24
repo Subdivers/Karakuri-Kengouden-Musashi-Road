@@ -37,7 +37,7 @@ Comment: 0,0:00:00.00,0:00:00.00,SETTINGS,,0,0,0,,complete:false;song:song.*;lan
 Dialogue: 0,0:00:04.17,0:00:06.44,Default,ko,0,0,0,,어지러운 전국 시대.
 Dialogue: 0,0:00:04.17,0:00:06.44,Default,en,0,0,0,,It is the turbulent Sengoku period.
 Dialogue: 0,0:00:06.81,0:00:11.63,Default,ko,0,0,0,,카라쿠리인이 사는 지팡구국에서는 군웅할거하여 밤낮으로 접전이 계속되고
-Dialogue: 0,0:00:06.81,0:00:11.63,Default,en,0,0,0,,Warlords keep on fighting day and night over\Nthe Jipangu State, where Karakuri people live.
+Dialogue: 0,0:00:06.81,0:00:11.63,Default,en,0,0,0,,Warlords keep on fighting day and night over\NJipangu State, where Karakuri people live.
 Dialogue: 0,0:00:11.63,0:00:16.58,Default,ko,0,0,0,,카라쿠리 무예가들도 승리와 영광을 꿈꾸며 맹렬히 싸우고 있었다.
 Dialogue: 0,0:00:11.63,0:00:16.58,Default,en,0,0,0,,Karakuri Martial Artists were sharpening their swords, dreaming of victory and honor.
 Dialogue: 0,0:00:16.58,0:00:23.31,Default,ko,0,0,0,,그리고 지금, 카라쿠리 무예자 제일을 꿈꾸는 터무니없는 영웅이 탄생했다!
@@ -51,45 +51,45 @@ Dialogue: 0,0:00:27.81,0:00:32.99,TitleOP,en,0,0,0,,{\fs24}(The Story of {\i1}Ka
 Dialogue: 0,0:00:32.99,0:00:37.80,SongOP,ko,0,0,0,,사내는 언제나 세계 한가운데서
 Dialogue: 0,0:00:32.99,0:00:37.80,SongOP,en,0,0,0,,A man always dreams of the day
 Dialogue: 0,0:00:38.64,0:00:41.56,SongOP,ko,0,0,0,,제일 강해질 날을
-Dialogue: 0,0:00:38.64,0:00:41.56,SongOP,en,0,0,0,,when he'll become the world's
+Dialogue: 0,0:00:38.64,0:00:41.56,SongOP,en,0,0,0,,in the center of the world to become
 Dialogue: 0,0:00:41.56,0:00:44.44,SongOP,ko,0,0,0,,아! 아! 꿈꿔라
-Dialogue: 0,0:00:41.56,0:00:44.44,SongOP,en,0,0,0,,AH! AH! strongest
+Dialogue: 0,0:00:41.56,0:00:44.44,SongOP,en,0,0,0,,AH! AH! the strongest
 Dialogue: 0,0:00:44.44,0:00:49.48,SongOP,ko,0,0,0,,마음의 칼을 넓은 하늘로 번쩍 쳐들어
-Dialogue: 0,0:00:44.44,0:00:49.48,SongOP,en,0,0,0,,Raise your spirit's sword high to the wide sky
+Dialogue: 0,0:00:44.44,0:00:49.48,SongOP,en,0,0,0,,Raise the sword of your heart high to the wide sky
 Dialogue: 0,0:00:50.11,0:00:54.11,SongOP,ko,0,0,0,,모험의 길의 막을 연다
 Dialogue: 0,0:00:50.11,0:00:54.11,SongOP,en,0,0,0,,Raise the curtain to the road of adventure
 Dialogue: 0,0:00:55.45,0:01:00.70,SongOP,ko,0,0,0,,지팡구국을 떠도는 검호
-Dialogue: 0,0:00:55.45,0:01:00.70,SongOP,en,0,0,0,,A skilled Martial Artist wanders Jipangu Country
+Dialogue: 0,0:00:55.45,0:01:00.70,SongOP,en,0,0,0,,A skilled swordsman roams on Jipangu State
 Dialogue: 0,0:01:01.29,0:01:06.33,SongOP,ko,0,0,0,,그 이름은 카라쿠리인 무사시
 Dialogue: 0,0:01:01.29,0:01:06.33,SongOP,en,0,0,0,,His name is Musashi, a Karakuri man
-Dialogue: 0,0:01:07.83,0:01:10.75,SongOP,ko,0,0,0,,격렬한 칼의 소리가
-Dialogue: 0,0:01:07.83,0:01:10.75,SongOP,en,0,0,0,,An intense clash of swords
+Dialogue: 0,0:01:07.83,0:01:10.75,SongOP,ko,0,0,0,,격렬한 승부의 소리는
+Dialogue: 0,0:01:07.83,0:01:10.75,SongOP,en,0,0,0,,The sound of fierce duels
 Dialogue: 0,0:01:10.75,0:01:13.59,SongOP,ko,0,0,0,,눈부신 인생
 Dialogue: 0,0:01:10.75,0:01:13.59,SongOP,en,0,0,0,,makes life dazzling
 Dialogue: 0,0:01:13.59,0:01:19.05,SongOP,ko,0,0,0,,싸웠던 어제보다도 오늘 강해진다
-Dialogue: 0,0:01:13.59,0:01:19.05,SongOP,en,0,0,0,,Yesterday's battles makes you stronger today
+Dialogue: 0,0:01:13.59,0:01:19.05,SongOP,en,0,0,0,,Battles of yesterdays make you stronger today
 Dialogue: 0,0:01:19.10,0:01:25.31,SongOP,ko,0,0,0,,무예! 이도류 무사시
-Dialogue: 0,0:01:19.10,0:01:25.31,SongOP,en,0,0,0,,Martial Art! Dual Blade Musashi
+Dialogue: 0,0:01:19.10,0:01:25.31,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
 Dialogue: 0,0:01:25.31,0:01:28.23,SongOP,ko,0,0,0,,내일은 빛난다
 Dialogue: 0,0:01:25.31,0:01:28.23,SongOP,en,0,0,0,,Tomorrow will be glorious
-Dialogue: 0,0:01:28.23,0:01:30.77,SongOP,ko,0,0,0,,격렬한 칼의 소리가
-Dialogue: 0,0:01:28.23,0:01:30.77,SongOP,en,0,0,0,,An intense clash of swords
+Dialogue: 0,0:01:28.23,0:01:30.77,SongOP,ko,0,0,0,,격렬한 승부의 소리는
+Dialogue: 0,0:01:28.23,0:01:30.77,SongOP,en,0,0,0,,The sound of fierce duels
 Dialogue: 0,0:01:30.77,0:01:33.28,SongOP,ko,0,0,0,,눈부신 인생
 Dialogue: 0,0:01:30.77,0:01:33.28,SongOP,en,0,0,0,,makes life dazzling
 Dialogue: 0,0:01:33.98,0:01:39.37,SongOP,ko,0,0,0,,싸우는 한껏 고요함과 함께
-Dialogue: 0,0:01:33.98,0:01:39.37,SongOP,en,0,0,0,,Fight your hardest with tranquility
+Dialogue: 0,0:01:33.98,0:01:39.37,SongOP,en,0,0,0,,Fight the utmost with the stillness
 Dialogue: 0,0:01:39.41,0:01:45.62,SongOP,ko,0,0,0,,무예! 이도류 무사시
-Dialogue: 0,0:01:39.41,0:01:45.62,SongOP,en,0,0,0,,Martial Art! Dual Blade Musashi
-Dialogue: 0,0:01:45.62,0:01:50.88,SongOP,ko,0,0,0,,미간이 빛나고 있었다 무사시!!
-Dialogue: 0,0:01:45.62,0:01:50.88,SongOP,en,0,0,0,,Shining brow! Musashi!
+Dialogue: 0,0:01:39.41,0:01:45.62,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
+Dialogue: 0,0:01:45.62,0:01:50.88,SongOP,ko,0,0,0,,미간이 반짝였다 무사시!!
+Dialogue: 0,0:01:45.62,0:01:50.88,SongOP,en,0,0,0,,His eyes shined! Musashi!
 Dialogue: 0,0:02:09.46,0:02:13.58,Default,ko,0,0,0,,카라쿠리인이라는 것은 지팡구국에 사는 슈퍼 인류이다.
-Dialogue: 0,0:02:09.46,0:02:13.58,Default,en,0,0,0,,The Karakuri people are a race of superhuman beings who live in Jipangu Country.
+Dialogue: 0,0:02:09.46,0:02:13.58,Default,en,0,0,0,,The Karakuri people are a race of superhuman beings who live in Jipangu State.
 Dialogue: 0,0:02:15.36,0:02:20.48,Default,ko,0,0,0,,매일 무예의 실력을 갈고 닦으며 힘을 모아 승리와 영광을 위해 전력으로 싸운다.
 Dialogue: 0,0:02:15.36,0:02:20.48,Default,en,0,0,0,,They develop their martial arts skills every day and fight with all their power for victory and honor.
 Dialogue: 0,0:02:21.67,0:02:24.39,Default,ko,0,0,0,,그 뜻은 명예를 위해서인가?
 Dialogue: 0,0:02:21.67,0:02:24.39,Default,en,0,0,0,,Are they looking for fame?
 Dialogue: 0,0:02:25.13,0:02:29.58,Default,ko,0,0,0,,지금 온 지팡구국에 사랑과 우정의 혼이 작렬한다.
-Dialogue: 0,0:02:25.13,0:02:29.58,Default,en,0,0,0,,Now, the spirit of love and friendship bursts in the whole Jipangu Country.
+Dialogue: 0,0:02:25.13,0:02:29.58,Default,en,0,0,0,,Now, the spirit of love and friendship bursts in the whole Jipangu State.
 Dialogue: 0,0:02:30.58,0:02:35.59,TitleEP,ko,0,0,80,,대모험의 길로 떠나오!
 Dialogue: 0,0:02:30.58,0:02:35.59,TitleEP,en,0,0,80,,To the road of adventure!
 Dialogue: 0,0:02:38.02,0:02:47.09,Default,ko,0,0,0,,전국 시대는 어지러운 시기였지만, 이곳 츄고쿠 산지의 미야모토 마을은 평화로운 곳이었다.
@@ -107,7 +107,7 @@ Dialogue: 0,0:03:18.85,0:03:21.24,Default,en,0,0,0,,Are you making fun of me? Un
 Dialogue: 0,0:03:21.34,0:03:26.26,NoteOnAnime,ko,0,0,80,,무사시
 Dialogue: 0,0:03:21.34,0:03:26.26,NoteOnAnime,en,0,0,80,,Musashi
 Dialogue: 0,0:03:21.58,0:03:26.11,Default,ko,0,0,0,,놀려먹는 것 아니오. 내가 지팡구 제일의 무예가가 된다면
-Dialogue: 0,0:03:21.58,0:03:26.11,Default,en,0,0,0,,I'm not making fun of you-{\i1}dasu{\i0}. When I become the number one Martial Artist in Jipangu Country,
+Dialogue: 0,0:03:21.58,0:03:26.11,Default,en,0,0,0,,I'm not making fun of you-{\i1}dasu{\i0}. When I become the number one Martial Artist in Jipangu State,
 Dialogue: 0,0:03:26.11,0:03:30.02,Default,ko,0,0,0,,열 배, 아니, 백 배로 돌려주겠소이다!
 Dialogue: 0,0:03:26.11,0:03:30.02,Default,en,0,0,0,,I'll repay you by tenfold, no, by hundredfold-{\i1}dasu{\i0}!
 Dialogue: 0,0:03:30.02,0:03:33.93,Default,ko,0,0,0,,뭐가 제일의 무예가냐? 이 입만 살아가지고!
@@ -247,15 +247,15 @@ Dialogue: 0,0:08:31.37,0:08:33.11,Default,en,0,0,0,,What's going on?
 Dialogue: 0,0:08:33.11,0:08:35.50,Default,ko,0,0,0,,위험하오! 모두 비키시오!
 Dialogue: 0,0:08:33.11,0:08:35.50,Default,en,0,0,0,,Watch out-{\i1}dasu{\i0}! Everyone move!
 Dialogue: 0,0:08:38.74,0:08:41.50,NoteOnAnime,ko,0,0,100,,코지로
-Dialogue: 0,0:08:38.74,0:08:41.50,NoteOnAnime,en,0,0,100,,Kojiro
+Dialogue: 0,0:08:38.74,0:08:41.50,NoteOnAnime,en,0,0,100,,Kojirō
 Dialogue: 0,0:08:41.55,0:08:43.55,Default,ko,0,0,0,,위험하오!
 Dialogue: 0,0:08:41.55,0:08:43.55,Default,en,0,0,0,,Watch out-{\i1}dasu{\i0}!
 Dialogue: 0,0:08:48.83,0:08:51.41,Default,ko,0,0,0,,비키시오! 다치오!
 Dialogue: 0,0:08:48.83,0:08:51.41,Default,en,0,0,0,,Move or you'll get hurt-{\i1}dasu{\i0}!
 Dialogue: 0,0:09:09.25,0:09:13.11,Default,ko,0,0,0,,이것이 무사시와 코지로의 운명의 만남이었다.
-Dialogue: 0,0:09:09.25,0:09:13.11,Default,en,0,0,0,,This was the fated encounter between Musashi and Kojiro.
+Dialogue: 0,0:09:09.25,0:09:13.11,Default,en,0,0,0,,This was the fated encounter between Musashi and Kojirō.
 Dialogue: 0,0:09:13.46,0:09:16.34,Default,ko,0,0,0,,그 때, 코지로, 13살.
-Dialogue: 0,0:09:13.46,0:09:16.34,Default,en,0,0,0,,Back then, Kojiro was 13 years old.
+Dialogue: 0,0:09:13.46,0:09:16.34,Default,en,0,0,0,,Back then, Kojirō was 13 years old.
 Dialogue: 0,0:09:17.45,0:09:21.67,Default,ko,0,0,0,,까불면 다친다. 조심해라, 꼬마야.
 Dialogue: 0,0:09:17.45,0:09:21.67,Default,en,0,0,0,,You shouldn't act so carelessly. Be careful, kiddo.
 Dialogue: 0,0:09:23.43,0:09:28.81,Default,ko,0,0,0,,꼬마라고? 날 모욕하는 건 참을 수 없소! 무예가라면 승부를 보시오!
@@ -522,11 +522,11 @@ Dialogue: 0,0:20:28.50,0:20:30.61,Default,en,0,0,0,,That doesn't matter-{\i1}das
 Dialogue: 0,0:20:30.97,0:20:33.14,Default,ko,0,0,0,,머리 안 돌아가는 녀석이군.
 Dialogue: 0,0:20:30.97,0:20:33.14,Default,en,0,0,0,,What a dimwit.
 Dialogue: 0,0:20:33.51,0:20:37.59,Default,ko,0,0,0,,그래도 이 미스터 코지로는 비겁하다 불리고선 그냥 넘어갈 수 없다!
-Dialogue: 0,0:20:33.51,0:20:37.59,Default,en,0,0,0,,But I, Kojiro, won't forgive whoever calls me a coward!
+Dialogue: 0,0:20:33.51,0:20:37.59,Default,en,0,0,0,,But I, Kojirō, won't forgive whoever calls me a coward!
 Dialogue: 0,0:20:38.02,0:20:39.87,Default,ko,0,0,0,,네 녀석은 코지로라고 하는 놈이오?
-Dialogue: 0,0:20:38.02,0:20:39.87,Default,en,0,0,0,,So your name is Kojiro-{\i1}dasu{\i0}?
+Dialogue: 0,0:20:38.02,0:20:39.87,Default,en,0,0,0,,So your name is Kojirō-{\i1}dasu{\i0}?
 Dialogue: 0,0:20:40.27,0:20:45.06,Default,ko,0,0,0,,무예에 뜻이 흐르는 코지로를 모른다는 것은 벌레라 부를지 바보천치라 부를지!
-Dialogue: 0,0:20:40.27,0:20:45.06,Default,en,0,0,0,,What shall I call someone who doesn't know of me, the famous Kojiro? A worm? A moron?
+Dialogue: 0,0:20:40.27,0:20:45.06,Default,en,0,0,0,,What shall I call someone who doesn't know of me, the famous Kojirō? A worm? A moron?
 Dialogue: 0,0:20:45.27,0:20:46.24,Default,ko,0,0,0,,멍청한 놈이다!
 Dialogue: 0,0:20:45.27,0:20:46.24,Default,en,0,0,0,,A moron, that's it!
 Dialogue: 0,0:20:46.82,0:20:51.52,Default,ko,0,0,0,,좋소! 명성이 높은 무예가라면 내가 쓰러뜨려 보여드리겠소!
@@ -556,7 +556,7 @@ Dialogue: 0,0:22:00.03,0:22:06.34,Default,en,0,0,0,,Musashi stood up and started
 Dialogue: 0,0:22:06.34,0:22:16.59,Default,ko,0,0,0,,앞으로 어떠한 가혹한 운명이 기다리는가. 그러나 꺾이지 마라, 무사시! 앞으로 나아가라! 그것이 사내의 길이다.
 Dialogue: 0,0:22:06.34,0:22:16.59,Default,en,0,0,0,,What kind of harsh fate will be waiting for him? Whatever it is, never give up, Musashi! Keep walking to become a man.
 Dialogue: 0,0:22:16.59,0:22:19.02,Default,ko,0,0,0,,두고 보시오, 코지로여!
-Dialogue: 0,0:22:16.59,0:22:19.02,Default,en,0,0,0,,You wait and see, Kojiro!
+Dialogue: 0,0:22:16.59,0:22:19.02,Default,en,0,0,0,,You wait and see, Kojirō!
 Dialogue: 0,0:22:41.71,0:22:43.75,SongED1,ko,0,0,0,,허공의 주머니에 달이
 Dialogue: 0,0:22:41.71,0:22:43.75,SongED1,en,0,0,0,,Sometimes the moon jumps over
 Dialogue: 0,0:22:44.46,0:22:47.01,SongED1,ko,0,0,0,,뛰어넘어가는 일도 있어
@@ -586,7 +586,7 @@ Dialogue: 0,0:23:45.86,0:23:51.45,SongED1,en,0,0,0,,is opening its hands and smi
 Dialogue: 0,0:24:05.19,0:24:09.24,Default,ko,0,0,0,,나보다 강한 놈이 있다니, 이야, 세계는 넓소!
 Dialogue: 0,0:24:05.19,0:24:09.24,Default,en,0,0,0,,To think that there's someone stronger than me, wow! The world is broad-{\i1}dasu{\i0}!
 Dialogue: 0,0:24:09.73,0:24:13.30,Default,ko,0,0,0,,일이 꼬여 요시오카 도장과 척을 지게 되었지만,
-Dialogue: 0,0:24:09.73,0:24:13.30,Default,en,0,0,0,,Things get messed up and I fight against Yoshioka Dojo,
+Dialogue: 0,0:24:09.73,0:24:13.30,Default,en,0,0,0,,Things get messed up and I fight against Yoshioka Dōjō,
 Dialogue: 0,0:24:13.60,0:24:17.45,Default,ko,0,0,0,,그 순간, 바람과도 같이 나타난 보쿠덴 선생님.
 Dialogue: 0,0:24:13.60,0:24:17.45,Default,en,0,0,0,,but Master Bokuden appears like the wind and saves me.
 Dialogue: 0,0:24:17.85,0:24:20.88,Default,ko,0,0,0,,난 바로 따라가서 제자가 되었소.
