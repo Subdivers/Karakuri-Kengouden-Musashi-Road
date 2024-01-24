@@ -682,7 +682,7 @@ Dialogue: 0,0:24:24.60,0:24:27.01,Default,ko,0,0,0,,질풍노도의 활약을 �
 Dialogue: 0,0:24:24.60,0:24:27.01,Default,en,0,0,0,,Be sure to check out the next stormy story-{\i1}dasu{\i0}!
 Dialogue: 0,0:24:27.02,0:24:30.98,NoteOnAnime,ko,60,0,60,,{\an7}다음 이야기
 Dialogue: 0,0:24:27.02,0:24:30.98,TitleEP,ko,0,0,70,,나는 스승이오\N훌륭하오!
-Dialogue: 0,0:24:27.02,0:24:30.98,NoteOnAnime,ko,0,60,30,,{\an3\fs32}재미있게 보세요!
-Dialogue: 0,0:24:27.02,0:24:30.98,NoteOnAnime,en,60,0,60,,{\an7}Next Story
+Dialogue: 0,0:24:27.02,0:24:30.98,NoteOnAnime,ko,0,60,30,,{\an3\fs32}기대하세요!
+Dialogue: 0,0:24:27.02,0:24:30.98,NoteOnAnime,en,60,0,60,,{\an7}Next Episode
 Dialogue: 0,0:24:27.02,0:24:30.98,TitleEP,en,0,0,80,,I am a Master\NExcellent!
-Dialogue: 0,0:24:27.02,0:24:30.98,NoteOnAnime,en,0,60,30,,{\an3\fs32}We hope you enjoy!
+Dialogue: 0,0:24:27.02,0:24:30.98,NoteOnAnime,en,0,60,30,,{\an3\fs32}Look forwards for it!

@@ -704,7 +704,7 @@ Dialogue: 0,0:24:25.47,0:24:28.09,Default,ko,0,0,0,,{\pos(320,470)}질풍노도�
 Dialogue: 0,0:24:25.47,0:24:28.09,Default,en,0,0,0,,{\pos(320,470)}Be sure to check out the next stormy story-{\i1}dasu{\i0}!
 Dialogue: 0,0:24:27.63,0:24:32.07,NoteOnAnime,ko,60,0,60,,{\an7}다음 이야기
 Dialogue: 0,0:24:27.63,0:24:32.07,TitleEP,ko,0,0,70,,명검 장인, 폭풍을 부르오
-Dialogue: 0,0:24:27.63,0:24:32.07,NoteOnAnime,ko,0,60,30,,{\an3\fs32}재미있게 보세요!
-Dialogue: 0,0:24:27.63,0:24:32.07,NoteOnAnime,en,60,0,60,,{\an7}Next Story
+Dialogue: 0,0:24:27.63,0:24:32.07,NoteOnAnime,ko,0,60,30,,{\an3\fs32}기대하세요!
+Dialogue: 0,0:24:27.63,0:24:32.07,NoteOnAnime,en,60,0,60,,{\an7}Next Episode
 Dialogue: 0,0:24:27.63,0:24:32.07,TitleEP,en,0,0,80,,Master of Sword Maker\NCalls for a Storm
-Dialogue: 0,0:24:27.63,0:24:32.07,NoteOnAnime,en,0,60,30,,{\an3\fs32}We hope you enjoy!
+Dialogue: 0,0:24:27.63,0:24:32.07,NoteOnAnime,en,0,60,30,,{\an3\fs32}Look forwards for it!

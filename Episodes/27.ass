@@ -971,9 +971,9 @@ Dialogue: 0,0:24:24.18,0:24:27.50,Default,en,0,0,0,,{\pos(320,470)}It's a stormy
 Dialogue: 0,0:24:27.50,0:24:31.47,NoteOnAnime,ko,60,0,60,,{\an7}다음 이야기
 Dialogue: 0,0:24:27.50,0:24:31.47,TitleEP,ko,0,0,225,,나
 Dialogue: 0,0:24:27.50,0:24:31.47,TitleEP,ko,0,0,110,,비뚤어지오
-Dialogue: 0,0:24:27.50,0:24:31.47,NoteOnAnime,ko,0,60,30,,{\an3\fs32}재미있게 보세요!
-Dialogue: 0,0:24:27.50,0:24:31.47,NoteOnAnime,en,60,0,60,,{\an7}Next Story
+Dialogue: 0,0:24:27.50,0:24:31.47,NoteOnAnime,ko,0,60,30,,{\an3\fs32}기대하세요!
+Dialogue: 0,0:24:27.50,0:24:31.47,NoteOnAnime,en,60,0,60,,{\an7}Next Episode
 Dialogue: 0,0:24:27.50,0:24:31.47,TitleEP,en,0,0,225,,I
 Dialogue: 0,0:24:27.50,0:24:31.47,TitleEP,en,0,0,110,,Become Delinquent
-Dialogue: 0,0:24:27.50,0:24:31.47,NoteOnAnime,en,0,60,30,,{\an3\fs32}We hope you enjoy!
+Dialogue: 0,0:24:27.50,0:24:31.47,NoteOnAnime,en,0,60,30,,{\an3\fs32}Look forwards for it!
 Dialogue: 0,0:00:00.01,0:00:05.01,Default,,0,0,0,,

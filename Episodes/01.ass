@@ -605,8 +605,8 @@ Dialogue: 0,0:24:24.50,0:24:25.74,Default,ko,0,0,0,,꼭 봐야 하오!
 Dialogue: 0,0:24:24.50,0:24:25.74,Default,en,0,0,0,,Don't miss it-{\i1}dasu{\i0}!
 Dialogue: 0,0:24:26.48,0:24:30.48,NoteOnAnime,ko,60,0,60,,{\an7}다음 이야기
 Dialogue: 0,0:24:26.48,0:24:30.48,TitleEP,ko,0,0,70,,눈물의 수행은 배가 고프오
-Dialogue: 0,0:24:26.48,0:24:30.48,NoteOnAnime,ko,0,60,30,,{\an3\fs32}재미있게 보세요!
-Dialogue: 0,0:24:26.48,0:24:30.48,NoteOnAnime,en,60,0,60,,{\an7}Next Story
+Dialogue: 0,0:24:26.48,0:24:30.48,NoteOnAnime,ko,0,60,30,,{\an3\fs32}기대하세요!
+Dialogue: 0,0:24:26.48,0:24:30.48,NoteOnAnime,en,60,0,60,,{\an7}Next Episode
 Dialogue: 0,0:24:26.48,0:24:30.48,TitleEP,en,0,0,190,,Training In Tears
 Dialogue: 0,0:24:26.48,0:24:30.48,TitleEP,en,0,0,80,,Makes Me Hungry
-Dialogue: 0,0:24:26.48,0:24:30.48,NoteOnAnime,en,0,60,30,,{\an3\fs32}We hope you enjoy it!
+Dialogue: 0,0:24:26.48,0:24:30.48,NoteOnAnime,en,0,60,30,,{\an3\fs32}Look forwards for it!
