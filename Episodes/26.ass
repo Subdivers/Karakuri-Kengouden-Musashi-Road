@@ -33,13 +33,13 @@ Style: InsOtsuru,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,SETTINGS,,0,0,0,,complete:false;song:song.*;lang:en,ko
 Dialogue: 0,0:00:03.19,0:00:05.34,Default,ko,0,0,0,,어지러운 전국 시대.
-Dialogue: 0,0:00:03.19,0:00:05.34,Default,en,0,0,0,,The Sengoku era, a turbulent age.
-Dialogue: 0,0:00:05.71,0:00:10.53,Default,ko,0,0,0,,카라쿠리인이 사는 지팡구국에서는 방방곡곡 접전이 계속되고
-Dialogue: 0,0:00:05.71,0:00:10.53,Default,en,0,0,0,,Jipangu Country, where the Karakuri people live, is a place of constant conflict.
-Dialogue: 0,0:00:10.53,0:00:15.48,Default,ko,0,0,0,,카라쿠리 무예자들도 승리와 영광을 꿈꾸며 떨쳐 일어나고 있었다.
-Dialogue: 0,0:00:10.53,0:00:15.48,Default,en,0,0,0,,Karakuri Martial Artists take part in these battles, dreaming of victory and honor.
+Dialogue: 0,0:00:03.19,0:00:05.34,Default,en,0,0,0,,It is the turbulent Sengoku period.
+Dialogue: 0,0:00:05.71,0:00:10.53,Default,ko,0,0,0,,카라쿠리인이 사는 지팡구국에서는 군웅할거하여 밤낮으로 접전이 계속되고
+Dialogue: 0,0:00:05.71,0:00:10.53,Default,en,0,0,0,,Warlords keep on fighting day and night over\Nthe Jipangu State, where Karakuri people live.
+Dialogue: 0,0:00:10.53,0:00:15.48,Default,ko,0,0,0,,카라쿠리 무예가들도 승리와 영광을 꿈꾸며 맹렬히 싸우고 있었다.
+Dialogue: 0,0:00:10.53,0:00:15.48,Default,en,0,0,0,,Karakuri Martial Artists were sharpening their swords, dreaming of victory and honor.
 Dialogue: 0,0:00:15.48,0:00:22.21,Default,ko,0,0,0,,그리고 지금, 카라쿠리 무예자 제일을 꿈꾸는 터무니없는 영웅이 탄생했다!
-Dialogue: 0,0:00:15.48,0:00:22.21,Default,en,0,0,0,,And now, a wild hero has arrived, who wants to be the number one Karakuri Martial Artist!
+Dialogue: 0,0:00:15.48,0:00:22.21,Default,en,0,0,0,,And now, a wild hero has arrived, seeking to be the number one Karakuri Martial Artist!
 Dialogue: 0,0:00:23.07,0:00:25.80,Default,ko,0,0,0,,무사시 등장이오!
 Dialogue: 0,0:00:23.07,0:00:25.80,Default,en,0,0,0,,Musashi enters-{\i1}dasu{\i0}!
 Dialogue: 0,0:00:26.69,0:00:31.87,TitleOP,ko,0,0,40,,카라쿠리 검호전: 무사시 로드
@@ -431,7 +431,7 @@ Comment: 0,0:10:56.63,0:10:59.14,Default,ja,0,0,0,,え、縁日でござるダ�
 Dialogue: 0,0:10:56.63,0:10:59.14,Default,ko,0,0,0,,제, 제사제이오?
 Dialogue: 0,0:10:56.63,0:10:59.14,Default,en,0,0,0,,T- the memorial ceremony?
 Comment: 0,0:11:01.26,0:11:05.89,Default,ja,0,0,0,,そう。ムサシさんが立派な武芸者になれるようにお祈りしなぎゃ。
-Dialogue: 0,0:11:01.26,0:11:05.89,Default,ko,0,0,0,,그래, 무사시 씨가 훌륭한 무예자가 될 수 있도록 기도해야지.
+Dialogue: 0,0:11:01.26,0:11:05.89,Default,ko,0,0,0,,그래, 무사시 씨가 훌륭한 무예가가 될 수 있도록 기도해야지.
 Dialogue: 0,0:11:01.26,0:11:05.89,Default,en,0,0,0,,Right. We must pray so that Musashi will become a splendid martial artist!
 Comment: 0,0:11:06.14,0:11:09.34,Default,ja,0,0,0,,うん、本当だ！いいこと言うじゃないか、アカネ。
 Dialogue: 0,0:11:06.14,0:11:09.34,Default,ko,0,0,0,,응, 그렇지! 좋은 생각이네, 아카네!

@@ -36,13 +36,13 @@ Style: NoteOnAnimeVert,@맑은 고딕,48,&H00FFFFFF,&H000000FF,&H00000000,&H0000
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,SETTINGS,,0,0,0,,complete:false;song:song.*;lang:en,ko
 Dialogue: 0,0:00:04.20,0:00:06.35,Default,ko,0,0,0,,어지러운 전국 시대.
-Dialogue: 0,0:00:04.20,0:00:06.35,Default,en,0,0,0,,Sengoku Era, a turbulent age.
-Dialogue: 0,0:00:06.72,0:00:11.54,Default,ko,0,0,0,,카라쿠리인이 사는 지팡구국에서는 방방곡곡 접전이 계속되고
-Dialogue: 0,0:00:06.72,0:00:11.54,Default,en,0,0,0,,In Jipangu Country where Karakuri people live, combats happen all the time,
-Dialogue: 0,0:00:11.54,0:00:16.49,Default,ko,0,0,0,,카라쿠리 무예가들도 승리와 영광을 꿈꾸며 떨쳐 일어나고 있었다.
-Dialogue: 0,0:00:11.54,0:00:16.49,Default,en,0,0,0,,and Karakuri Martial Artists were fighting along too, dreaming for victory and honor.
-Dialogue: 0,0:00:16.49,0:00:23.22,Default,ko,0,0,0,,그리고 지금, 카라쿠리 무예가 제일을 꿈꾸는 터무니없는 영웅이 탄생했다!
-Dialogue: 0,0:00:16.49,0:00:23.22,Default,en,0,0,0,,And now, a wild hero is here, who desires to be the number one Karakuri Martial Artist!
+Dialogue: 0,0:00:04.20,0:00:06.35,Default,en,0,0,0,,It is the turbulent Sengoku period.
+Dialogue: 0,0:00:06.72,0:00:11.54,Default,ko,0,0,0,,카라쿠리인이 사는 지팡구국에서는 군웅할거하여 밤낮으로 접전이 계속되고
+Dialogue: 0,0:00:06.72,0:00:11.54,Default,en,0,0,0,,Warlords keep on fighting day and night over\Nthe Jipangu State, where Karakuri people live.
+Dialogue: 0,0:00:11.54,0:00:16.49,Default,ko,0,0,0,,카라쿠리 무예가들도 승리와 영광을 꿈꾸며 맹렬히 싸우고 있었다.
+Dialogue: 0,0:00:11.54,0:00:16.49,Default,en,0,0,0,,Karakuri Martial Artists were sharpening their swords, dreaming of victory and honor.
+Dialogue: 0,0:00:16.49,0:00:23.22,Default,ko,0,0,0,,그리고 지금, 카라쿠리 무예자 제일을 꿈꾸는 터무니없는 영웅이 탄생했다!
+Dialogue: 0,0:00:16.49,0:00:23.22,Default,en,0,0,0,,And now, a wild hero has arrived, seeking to be the number one Karakuri Martial Artist!
 Dialogue: 0,0:00:24.08,0:00:26.81,Default,ko,0,0,0,,무사시 등장이오!
 Dialogue: 0,0:00:24.08,0:00:26.81,Default,en,0,0,0,,Musashi enters-{\i1}dasu{\i0}!
 Dialogue: 0,0:00:27.81,0:00:32.99,TitleOP,ko,0,0,40,,카라쿠리 검호전: 무사시 로드

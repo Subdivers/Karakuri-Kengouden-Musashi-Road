@@ -34,13 +34,13 @@ Style: InsOtsuru,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,SETTINGS,,0,0,0,,complete:false;song:song.*;lang:en,ko
 Dialogue: 0,0:00:04.37,0:00:06.37,Default,ko,0,0,0,,어지러운 전국 시대.
-Dialogue: 0,0:00:04.37,0:00:06.37,Default,en,0,0,0,,The Sengoku era, a turbulent age.
-Dialogue: 0,0:00:06.89,0:00:11.37,Default,ko,0,0,0,,카라쿠리인이 사는 지팡구국에서는 방방곡곡 접전이 계속되고
-Dialogue: 0,0:00:06.89,0:00:11.37,Default,en,0,0,0,,Jipangu Country, where the Karakuri people live, is a place of constant conflict.
-Dialogue: 0,0:00:11.73,0:00:16.24,Default,ko,0,0,0,,카라쿠리 무예자들도 승리와 영광을 꿈꾸며 떨쳐 일어나고 있었다.
-Dialogue: 0,0:00:11.73,0:00:16.24,Default,en,0,0,0,,Karakuri Martial Artists take part in these battles, dreaming of victory and honor.
+Dialogue: 0,0:00:04.37,0:00:06.37,Default,en,0,0,0,,It is the turbulent Sengoku period.
+Dialogue: 0,0:00:06.89,0:00:11.37,Default,ko,0,0,0,,카라쿠리인이 사는 지팡구국에서는 군웅할거하여 밤낮으로 접전이 계속되고
+Dialogue: 0,0:00:06.89,0:00:11.37,Default,en,0,0,0,,Warlords keep on fighting day and night over\Nthe Jipangu State, where Karakuri people live.
+Dialogue: 0,0:00:11.73,0:00:16.24,Default,ko,0,0,0,,카라쿠리 무예가들도 승리와 영광을 꿈꾸며 맹렬히 싸우고 있었다.
+Dialogue: 0,0:00:11.73,0:00:16.24,Default,en,0,0,0,,Karakuri Martial Artists were sharpening their swords, dreaming of victory and honor.
 Dialogue: 0,0:00:16.73,0:00:23.19,Default,ko,0,0,0,,그리고 지금, 카라쿠리 무예자 제일을 꿈꾸는 터무니없는 영웅이 탄생했다!
-Dialogue: 0,0:00:16.73,0:00:23.19,Default,en,0,0,0,,And now, a wild hero has arrived, who wants to be the number one Karakuri Martial Artist!
+Dialogue: 0,0:00:16.73,0:00:23.19,Default,en,0,0,0,,And now, a wild hero has arrived, seeking to be the number one Karakuri Martial Artist!
 Dialogue: 0,0:00:24.32,0:00:26.80,Default,ko,0,0,0,,무사시 등장이오!
 Dialogue: 0,0:00:24.32,0:00:26.80,Default,en,0,0,0,,Musashi enters-{\i1}dasu{\i0}!
 Dialogue: 0,0:00:27.85,0:00:33.19,TitleOP,ko,0,0,40,,{\fade(770,0)}카라쿠리 검호전: 무사시 로드
@@ -820,7 +820,7 @@ Comment: 0,0:21:13.08,0:21:14.17,Default,ja,0,0,0,,虹の橋だす！
 Dialogue: 0,0:21:13.08,0:21:14.17,Default,ko,0,0,0,,무지개 다리이오!
 Dialogue: 0,0:21:13.08,0:21:14.17,Default,en,0,0,0,,It's the rainbow bridge-{\i1}dasu{\i0}!
 Comment: 0,0:21:17.77,0:21:24.68,Default,ja,0,0,0,,ムサシ。お前の武芸者ナンバーワンの夢は私がしっかり引き継ぐから。前は成仏しよ。
-Dialogue: 0,0:21:17.77,0:21:24.68,Default,ko,0,0,0,,무사시. 네 무예자 제일의 꿈은 내가 확실히 이어받아 주겠다. 넌 성불해라.
+Dialogue: 0,0:21:17.77,0:21:24.68,Default,ko,0,0,0,,무사시. 네 무예가 제일의 꿈은 내가 확실히 이어받아 주겠다. 넌 성불해라.
 Dialogue: 0,0:21:17.77,0:21:24.68,Default,en,0,0,0,,Musashi. I will inherit your dreams of becoming the best of martial artists. You may enter Nirvana and rest in peace.
 Comment: 0,0:21:30.52,0:21:31.49,Default,ja,0,0,0,,ただいま！
 Dialogue: 0,0:21:30.52,0:21:31.49,Default,ko,0,0,0,,돌아왔소!
@@ -859,7 +859,7 @@ Comment: 0,0:22:11.16,0:22:16.82,Default,ja,0,0,0,,一度は死んだムサシ�
 Dialogue: 0,0:22:11.16,0:22:16.82,Default,ko,0,0,0,,한번 죽은 무사시. 그렇지만 이시마츠와의 우정으로 되살아나는 게 가능했다.
 Dialogue: 0,0:22:11.16,0:22:16.82,Default,en,0,0,0,,Musashi had died once. But thanks to the friendship with Ishimatsu, he managed to revive.
 Comment: 0,0:22:17.17,0:22:24.94,Default,ja,0,0,0,,その友情にこたえるためにも、がんばれ、ムサシ！戦え、ムサシ！ジパングナンバーワンの武芸者になれ！
-Dialogue: 0,0:22:17.17,0:22:24.94,Default,ko,0,0,0,,그 우정에 답하기 위해서라도, 힘내라, 무사시! 싸워라, 무사시! 지팡구 제일의 무예자가 되어라!
+Dialogue: 0,0:22:17.17,0:22:24.94,Default,ko,0,0,0,,그 우정에 답하기 위해서라도, 힘내라, 무사시! 싸워라, 무사시! 지팡구 제일의 무예가가 되어라!
 Dialogue: 0,0:22:17.17,0:22:24.94,Default,en,0,0,0,,To respond to that friendship, go for it, Musashi! Fight, Musashi! Become the number one martial artist of Jipangu!
 Dialogue: 0,0:22:41.82,0:22:43.86,SongED1,ko,0,0,0,,허공의 주머니에 달이
 Dialogue: 0,0:22:41.82,0:22:43.86,SongED1,en,0,0,0,,Sometimes the moon jumps over

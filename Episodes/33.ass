@@ -33,13 +33,13 @@ Style: InsOtsuru,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,SETTINGS,,0,0,0,,complete:false;song:song.*;lang:en,ko
 Dialogue: 0,0:00:04.19,0:00:06.35,Default,ko,0,0,0,,어지러운 전국 시대.
-Dialogue: 0,0:00:04.19,0:00:06.35,Default,en,0,0,0,,The Sengoku era, a turbulent age.
-Dialogue: 0,0:00:06.89,0:00:11.30,Default,ko,0,0,0,,카라쿠리인이 사는 지팡구국에서는 방방곡곡 접전이 계속되고
+Dialogue: 0,0:00:04.19,0:00:06.35,Default,en,0,0,0,,It is the turbulent Sengoku period.
+Dialogue: 0,0:00:06.89,0:00:11.30,Default,ko,0,0,0,,카라쿠리인이 사는 지팡구국에서는 군웅할거하여 밤낮으로 접전이 계속되고
 Dialogue: 0,0:00:06.89,0:00:11.30,Default,en,0,0,0,,Zipang Country, where the Karakuri people live, is a place of constant conflict.
-Dialogue: 0,0:00:11.65,0:00:16.01,Default,ko,0,0,0,,카라쿠리 무예자들도 승리와 영광을 꿈꾸며 떨쳐 일어나고 있었다.
-Dialogue: 0,0:00:11.65,0:00:16.01,Default,en,0,0,0,,Karakuri Martial Artists take part in these battles, dreaming of victory and honor.
+Dialogue: 0,0:00:11.65,0:00:16.01,Default,ko,0,0,0,,카라쿠리 무예가들도 승리와 영광을 꿈꾸며 맹렬히 싸우고 있었다.
+Dialogue: 0,0:00:11.65,0:00:16.01,Default,en,0,0,0,,Karakuri Martial Artists were sharpening their swords, dreaming of victory and honor.
 Dialogue: 0,0:00:16.64,0:00:22.96,Default,ko,0,0,0,,그리고 지금, 카라쿠리 무예자 제일을 꿈꾸는 터무니없는 영웅이 탄생했다!
-Dialogue: 0,0:00:16.64,0:00:22.96,Default,en,0,0,0,,And now, a wild hero has arrived, who wants to be the number one Karakuri Martial Artist!
+Dialogue: 0,0:00:16.64,0:00:22.96,Default,en,0,0,0,,And now, a wild hero has arrived, seeking to be the number one Karakuri Martial Artist!
 Dialogue: 0,0:00:24.25,0:00:26.68,Default,ko,0,0,0,,무사시 등장이오!
 Dialogue: 0,0:00:24.25,0:00:26.68,Default,en,0,0,0,,Musashi enters-{\i1}dasu{\i0}!
 Dialogue: 0,0:00:27.67,0:00:33.01,TitleOP,ko,0,0,40,,{\fade(770,0)}카라쿠리 검호전: 무사시 로드
@@ -511,7 +511,7 @@ Comment: 0,0:15:13.07,0:15:20.28,Default,ja,0,0,0,,ムサシ。目を覚まし�
 Dialogue: 0,0:15:13.07,0:15:20.28,Default,ko,0,0,0,,무사시, 눈을 뜨세요. 무사시, 정신을 차리세요. 죽으면 안 됩니다.
 Dialogue: 0,0:15:13.07,0:15:20.28,Default,en,0,0,0,,Musashi, open your eyes. Musashi, wake up. You must not die.
 Comment: 0,0:15:20.80,0:15:27.42,Default,ja,0,0,0,,お前はジパング一のからくり武芸者になるんでしょう。その夢をかなえるためにもここで死んではいけません！
-Dialogue: 0,0:15:20.80,0:15:27.42,Default,ko,0,0,0,,너는 지팡구 제일의 카라쿠리 무예자가 될 겁니다. 그 꿈을 이루기 위해서라도 여기서 죽으면 안 됩니다.
+Dialogue: 0,0:15:20.80,0:15:27.42,Default,ko,0,0,0,,너는 지팡구 제일의 카라쿠리 무예가가 될 겁니다. 그 꿈을 이루기 위해서라도 여기서 죽으면 안 됩니다.
 Dialogue: 0,0:15:20.80,0:15:27.42,Default,en,0,0,0,,You will become the strongest Karakuri martial artist of Jipangu. For that dream to come true, you must not die here.
 Comment: 0,0:15:27.42,0:15:32.59,Default,ja,0,0,0,,さ、ムサシ！戦うのです！目を開けなさい！生きるのです、ムサシ！
 Dialogue: 0,0:15:27.42,0:15:32.59,Default,ko,0,0,0,,자, 무사시! 싸우세요! 눈을 뜨세요! 사세요, 무사시!

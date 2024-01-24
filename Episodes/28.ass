@@ -34,13 +34,13 @@ Style: InsOtsuru,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,SETTINGS,,0,0,0,,complete:false;song:song.*;lang:en,ko
 Dialogue: 0,0:00:03.18,0:00:05.33,Default,ko,0,0,0,,어지러운 전국 시대.
-Dialogue: 0,0:00:03.18,0:00:05.33,Default,en,0,0,0,,The Sengoku era, a turbulent age.
-Dialogue: 0,0:00:05.81,0:00:10.26,Default,ko,0,0,0,,카라쿠리인이 사는 지팡구국에서는 방방곡곡 접전이 계속되고
-Dialogue: 0,0:00:05.81,0:00:10.26,Default,en,0,0,0,,Jipangu Country, where the Karakuri people live, is a place of constant conflict.
-Dialogue: 0,0:00:10.66,0:00:15.01,Default,ko,0,0,0,,카라쿠리 무예자들도 승리와 영광을 꿈꾸며 떨쳐 일어나고 있었다.
-Dialogue: 0,0:00:10.66,0:00:15.01,Default,en,0,0,0,,Karakuri Martial Artists take part in these battles, dreaming of victory and honor.
+Dialogue: 0,0:00:03.18,0:00:05.33,Default,en,0,0,0,,It is the turbulent Sengoku period.
+Dialogue: 0,0:00:05.81,0:00:10.26,Default,ko,0,0,0,,카라쿠리인이 사는 지팡구국에서는 군웅할거하여 밤낮으로 접전이 계속되고
+Dialogue: 0,0:00:05.81,0:00:10.26,Default,en,0,0,0,,Warlords keep on fighting day and night over\Nthe Jipangu State, where Karakuri people live.
+Dialogue: 0,0:00:10.66,0:00:15.01,Default,ko,0,0,0,,카라쿠리 무예가들도 승리와 영광을 꿈꾸며 맹렬히 싸우고 있었다.
+Dialogue: 0,0:00:10.66,0:00:15.01,Default,en,0,0,0,,Karakuri Martial Artists were sharpening their swords, dreaming of victory and honor.
 Dialogue: 0,0:00:15.63,0:00:22.02,Default,ko,0,0,0,,그리고 지금, 카라쿠리 무예자 제일을 꿈꾸는 터무니없는 영웅이 탄생했다!
-Dialogue: 0,0:00:15.63,0:00:22.02,Default,en,0,0,0,,And now, a wild hero has arrived, who wants to be the number one Karakuri Martial Artist!
+Dialogue: 0,0:00:15.63,0:00:22.02,Default,en,0,0,0,,And now, a wild hero has arrived, seeking to be the number one Karakuri Martial Artist!
 Dialogue: 0,0:00:23.21,0:00:25.67,Default,ko,0,0,0,,무사시 등장이오!
 Dialogue: 0,0:00:23.21,0:00:25.67,Default,en,0,0,0,,Musashi enters-{\i1}dasu{\i0}!
 Dialogue: 0,0:00:26.50,0:00:31.84,TitleOP,ko,0,0,40,,{\fade(770,0)}카라쿠리 검호전: 무사시 로드
@@ -217,7 +217,7 @@ Comment: 0,0:05:23.02,0:05:25.92,Default,ja,0,0,0,,そ、そんなこと言っ�
 Dialogue: 0,0:05:23.02,0:05:25.92,Default,ko,0,0,0,,그, 그런 소릴 해도 내 배가...
 Dialogue: 0,0:05:23.02,0:05:25.92,Default,en,0,0,0,,N- no matter what you say, my stomach is empty...
 Comment: 0,0:05:30.32,0:05:33.79,Default,ja,0,0,0,,本当にそれでも武芸者ナンバーワンを目指す武士か！
-Dialogue: 0,0:05:30.32,0:05:33.79,Default,ko,0,0,0,,정말 그래도 제일의 무예자를 노리는 무사냐!
+Dialogue: 0,0:05:30.32,0:05:33.79,Default,ko,0,0,0,,정말 그래도 제일의 무예가를 노리는 무사냐!
 Dialogue: 0,0:05:30.32,0:05:33.79,Default,en,0,0,0,,Are you serious that you want to be the best martial artist?!
 Comment: 0,0:05:34.17,0:05:39.29,Default,ja,0,0,0,,そんなこといったって、ことわざにまいにだすよ！腹が減っては戦はできないって！
 Dialogue: 0,0:05:34.17,0:05:39.29,Default,ko,0,0,0,,뭔 소리를 해도, 속담에 이런 게 있소! 배가 고파선 싸울 수 없다고!
