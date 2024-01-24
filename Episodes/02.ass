@@ -16,9 +16,9 @@ Video File: ../Videos/02.mp4
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 512
-Active Line: 555
-Video Position: 35175
+Scroll Position: 525
+Active Line: 551
+Video Position: 35187
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -104,16 +104,16 @@ Dialogue: 0,0:02:19.70,0:02:22.99,Default,en,0,0,0,,Dark clouds were in front of
 Dialogue: 0,0:02:23.46,0:02:28.46,TitleEP,ko,0,0,80,,눈물의 수행은 배가 고프오
 Dialogue: 0,0:02:23.46,0:02:28.46,TitleEP,en,0,0,230,,Training in Tears
 Dialogue: 0,0:02:23.46,0:02:28.46,TitleEP,en,0,0,110,,Makes Me Hungry
-Dialogue: 0,0:02:29.54,0:02:32.97,Default,ko,0,0,0,,이곳은 오카야마 성의 조우카 마을이다.
-Dialogue: 0,0:02:29.54,0:02:32.97,Default,en,0,0,0,,This place is Jouka village in Okayama castle.
-Dialogue: 0,0:02:36.41,0:02:43.10,Default,ko,0,0,0,,이야기는 들었지만 조우카 마을이 이렇게 활기찰 줄은 몰랐소!
+Dialogue: 0,0:02:29.54,0:02:32.97,Default,ko,0,0,0,,이곳은 오카야마나 성시이다.
+Dialogue: 0,0:02:29.54,0:02:32.97,Default,en,0,0,0,,This place is Okayamāna castle town.
+Dialogue: 0,0:02:36.41,0:02:43.10,Default,ko,0,0,0,,이야기는 들었지만 성시가 이렇게 활기찰 줄은 몰랐소!
 Dialogue: 0,0:02:36.41,0:02:43.10,Default,en,0,0,0,,I've heard about this place, but I never thought this place would be so lively-{\i1}dasu{\i0}!
 Dialogue: 0,0:03:01.13,0:03:06.62,Default,ko,0,0,0,,이렇게 아름다운 기모노가 있다니, 오츠루 씨에게 입혀보고 싶소!
-Dialogue: 0,0:03:01.13,0:03:06.62,Default,en,0,0,0,,To know that beautiful kimono exists, I want to see Otsuru wearing one-{\i1}dasu{\i0}!
+Dialogue: 0,0:03:01.13,0:03:06.62,Default,en,0,0,0,,{\i1}What a beautiful kimono! I want to have Otsuru wear one-{\i0}dasu{\i1}!
 Dialogue: 0,0:03:10.60,0:03:12.70,Default,ko,0,0,0,,오츠루 씨!
 Dialogue: 0,0:03:10.60,0:03:12.70,Default,en,0,0,0,,Otsuru!
 Dialogue: 0,0:03:21.93,0:03:26.40,Default,ko,0,0,0,,시골뜨기 무사시에게 이곳의 모든 것은 놀랄 만한 것이었다.
-Dialogue: 0,0:03:21.93,0:03:26.40,Default,en,0,0,0,,Everything here surprised Musashi, a boor.
+Dialogue: 0,0:03:21.93,0:03:26.40,Default,en,0,0,0,,Everything here was rightfully surprising to country-bred Musashi.
 Dialogue: 0,0:03:33.11,0:03:35.35,Default,ko,0,0,0,,마츠카시의 석류 아니오!
 Dialogue: 0,0:03:33.11,0:03:35.35,Default,en,0,0,0,,Aren't these pomegranates from Matsukasi-{\i1}dasu{\i0}!?
 Dialogue: 0,0:03:39.24,0:03:39.98,Default,ko,0,0,0,,2문.
@@ -151,21 +151,21 @@ Dialogue: 0,0:04:21.05,0:04:22.42,Default,en,0,0,0,,I'm talking about you!
 Dialogue: 0,0:04:22.99,0:04:23.97,Default,ko,0,0,0,,나?
 Dialogue: 0,0:04:22.99,0:04:23.97,Default,en,0,0,0,,Me?
 Dialogue: 0,0:04:28.38,0:04:36.91,Default,ko,0,0,0,,지팡구 제일의 무예가가 될 이 무사시에게 도둑이라고 부르는 건 무슨 소리오!
-Dialogue: 0,0:04:28.38,0:04:36.91,Default,en,0,0,0,,What do you mean, to call this Musashi who will be the number one Martial Artist in Jipangu a thief-{\i1}dasu{\i0}?!
+Dialogue: 0,0:04:28.38,0:04:36.91,Default,en,0,0,0,,What do you mean, to call this Musashi who will be the number one martial artist of Jipangu a thief-{\i1}dasu{\i0}?!
 Dialogue: 0,0:04:38.12,0:04:39.18,Default,ko,0,0,0,,살려주세요!
 Dialogue: 0,0:04:38.12,0:04:39.18,Default,en,0,0,0,,Help me!
 Dialogue: 0,0:04:39.74,0:04:42.32,Default,ko,0,0,0,,저건 분명히 여자아이의 비명!
 Dialogue: 0,0:04:39.74,0:04:42.32,Default,en,0,0,0,,That voice must be a scream from a girl!
 Dialogue: 0,0:04:43.40,0:04:45.99,Default,ko,0,0,0,,이곳에서 한시라도 지체한다면 사내의 자격이 없소!
 Dialogue: 0,0:04:43.40,0:04:45.99,Default,en,0,0,0,,It is not manly to not go rescue her right now-{\i1}dasu{\i0}!
-Dialogue: 0,0:04:45.99,0:04:48.99,Default,ko,0,0,0,,아저씨! 참수를 면했다니 운이 좋소!
-Dialogue: 0,0:04:45.99,0:04:48.99,Default,en,0,0,0,,Mister! Consider yourself lucky to be alive-{\i1}dasu{\i0}!
-Dialogue: 0,0:04:50.07,0:04:52.31,Default,ko,0,0,0,,다행이네...
-Dialogue: 0,0:04:50.07,0:04:52.31,Default,en,0,0,0,,That's a relief...
+Dialogue: 0,0:04:45.99,0:04:48.99,Default,ko,0,0,0,,아저씨! 넌 목이 계속 붙어있는 게 운이 좋소!
+Dialogue: 0,0:04:45.99,0:04:48.99,Default,en,0,0,0,,Mister! Consider yourself lucky to have your head intact-{\i1}dasu{\i0}!
+Dialogue: 0,0:04:50.07,0:04:52.31,Default,ko,0,0,0,,다행이오...
+Dialogue: 0,0:04:50.07,0:04:52.31,Default,en,0,0,0,,That's a relief-{\i1}dasu{\i0}...
 Dialogue: 0,0:04:52.31,0:04:54.22,Default,ko,0,0,0,,아! 돈!
 Dialogue: 0,0:04:52.31,0:04:54.22,Default,en,0,0,0,,Hey! You still gotta pay!
 Dialogue: 0,0:04:54.97,0:05:00.61,Default,ko,0,0,0,,여러 명의 무예가에게 둘러싸여 있던 건 니시다 히카루라는 여자아이였다.
-Dialogue: 0,0:04:54.97,0:05:00.61,Default,en,0,0,0,,The one surrounded by Martial Artists was a girl named Nishida Hikaru.
+Dialogue: 0,0:04:54.97,0:05:00.61,Default,en,0,0,0,,The one surrounded by martial artists was a girl named Nishida Hikaru.
 Dialogue: 0,0:05:01.37,0:05:03.04,Default,ko,0,0,0,,누나, 차 안 마실래?
 Dialogue: 0,0:05:01.37,0:05:03.04,Default,en,0,0,0,,Miss, would you like to have a tea?
 Dialogue: 0,0:05:03.40,0:05:05.39,Default,ko,0,0,0,,한잔 하는건 어때?
@@ -195,18 +195,20 @@ Dialogue: 0,0:05:40.75,0:05:42.46,Default,en,0,0,0,,You might get hurt!
 Dialogue: 0,0:05:42.99,0:05:45.41,Default,ko,0,0,0,,다치는 건 그쪽이오!
 Dialogue: 0,0:05:42.99,0:05:45.41,Default,en,0,0,0,,You're going to be hurt-{\i1}dasu{\i0}!
 Dialogue: 0,0:06:00.62,0:06:03.26,Default,ko,0,0,0,,감사하오! 감사하오! 정말 고맙소!
-Dialogue: 0,0:06:00.62,0:06:03.26,Default,en,0,0,0,,Thanks! Thank you! Thank you so much!
+Dialogue: 0,0:06:00.62,0:06:03.26,Default,en,0,0,0,,Thanks! Thank you! Thank you so much-{\i1}dasu{\i0}!
 Dialogue: 0,0:06:07.10,0:06:10.69,Default,ko,0,0,0,,그 무예가들은 요시오카 도장의 사람들입니다.
-Dialogue: 0,0:06:07.10,0:06:10.69,Default,en,0,0,0,,Those Martial Artists are from Yoshioka Dōjō.
+Dialogue: 0,0:06:07.10,0:06:10.69,Default,en,0,0,0,,Those martial artists are from Yoshioka Dōjō.
 Dialogue: 0,0:06:11.10,0:06:12.25,Default,ko,0,0,0,,요시오카 도장?
 Dialogue: 0,0:06:11.10,0:06:12.25,Default,en,0,0,0,,Yoshioka Dōjō?
 Dialogue: 0,0:06:12.25,0:06:17.07,Default,ko,0,0,0,,네. 미야코에 있는 지팡구에서 제일 강한 무예가들이 모인 도장입니다.
-Dialogue: 0,0:06:12.25,0:06:17.07,Default,en,0,0,0,,Yes. It's a Dōjō in Miyako that the most powerful Martial Artists of Jipangu are at.
+Dialogue: 0,0:06:12.25,0:06:17.07,Default,en,0,0,0,,Yes. It's a Dōjō in Miyako with the strongest martial artists in Jipangu.
+Dialogue: 0,0:06:12.25,0:06:17.07,Note,ko,0,0,0,,(미야코: 도읍지)
+Dialogue: 0,0:06:12.25,0:06:17.07,Note,en,0,0,0,,(Miyako: the capital)
 Dialogue: 0,0:06:17.83,0:06:19.65,Default,ko,0,0,0,,지팡구에서 제일 강하다고 하셨소?
-Dialogue: 0,0:06:17.83,0:06:19.65,Default,en,0,0,0,,Most powerful of Jipangu-{\i1}dasu{\i0}?
-Dialogue: 0,0:06:20.16,0:06:27.33,Default,ko,0,0,0,,그 지부가 최근 이 조우카 마을에 생겼답니다. 요시오카 도장 소속이라 말만 하는 것으로 모두가 벌벌 떨 뿐이니...
-Dialogue: 0,0:06:20.16,0:06:23.82,Default,en,0,0,0,,Its branch has opened recently at here, Jouka.
-Dialogue: 0,0:06:23.82,0:06:27.33,Default,en,0,0,0,,Everyone tremble all over only by saying that one's a member of Yoshioka Dōjō...
+Dialogue: 0,0:06:17.83,0:06:19.65,Default,en,0,0,0,,Strongest in Jipangu?
+Dialogue: 0,0:06:20.16,0:06:27.33,Default,ko,0,0,0,,그 지부가 최근 이 성시에 생겼답니다. 요시오카 일문이라는 것만으로 모두가 벌벌 떨 뿐이니...
+Dialogue: 0,0:06:20.16,0:06:23.82,Default,en,0,0,0,,A branch has opened recently at this castle town.
+Dialogue: 0,0:06:23.82,0:06:27.33,Default,en,0,0,0,,Everyone tremble all over only by saying that one's a member of Yoshioka clan...
 Dialogue: 0,0:06:27.93,0:06:29.63,Default,ko,0,0,0,,뭐든 제 것인 양 행동하고...
 Dialogue: 0,0:06:27.93,0:06:29.63,Default,en,0,0,0,,They act as if everything is theirs.
 Dialogue: 0,0:06:30.06,0:06:34.59,Default,ko,0,0,0,,그래도 이 무사시가 있는 한 더 이상 무서워 할 필요 없소!
@@ -216,10 +218,10 @@ Dialogue: 0,0:06:34.84,0:06:41.18,Default,en,0,0,0,,Don't let your guards down. 
 Dialogue: 0,0:06:41.68,0:06:47.54,Default,ko,0,0,0,,에이, 괜찮소! 지금까지 나, 단 한번밖에 진 적이 없소!
 Dialogue: 0,0:06:41.68,0:06:47.54,Default,en,0,0,0,,No need to worry! Until now, I only lost a battle once-{\i1}dasu{\i0}!
 Dialogue: 0,0:06:47.93,0:06:50.41,Default,ko,0,0,0,,무사시 씨라면 정말 믿고 맡겨도 될 것 같은 분이네요!
-Dialogue: 0,0:06:47.93,0:06:50.41,Default,en,0,0,0,,I think I really can trust upon you, Musashi!
-Dialogue: 0,0:06:51.36,0:06:54.81,Default,ko,0,0,0,,자, 드세요! 아지지만의 단고에요.
-Dialogue: 0,0:06:51.36,0:06:54.81,Default,en,0,0,0,,You can eat this! They are dangos exclusively from Ajijiman.
-Dialogue: 0,0:06:54.81,0:06:57.87,Default,ko,0,0,0,,우와, 맛있어 보이는 단고오!
+Dialogue: 0,0:06:47.93,0:06:50.41,Default,en,0,0,0,,Musashi really sounds like a name that I can depend on!
+Dialogue: 0,0:06:51.36,0:06:54.81,Default,ko,0,0,0,,자, 드세요! 맛 한번 끝내주는 단고에요.
+Dialogue: 0,0:06:51.36,0:06:54.81,Default,en,0,0,0,,You can eat this! These are be the best dangos you will ever have.
+Dialogue: 0,0:06:54.81,0:06:57.87,Default,ko,0,0,0,,우와, 맛있어 보이는 단고이오!
 Dialogue: 0,0:06:54.81,0:06:57.87,Default,en,0,0,0,,Whoa, these dangos really look tasty-{\i1}dasu{\i0}!
 Dialogue: 0,0:06:57.87,0:06:59.42,Default,ko,0,0,0,,잘 먹겠소!
 Dialogue: 0,0:06:57.87,0:06:59.42,Default,en,0,0,0,,Thank you for the meal!
@@ -240,33 +242,33 @@ Dialogue: 0,0:07:24.21,0:07:28.33,Default,en,0,0,0,,I am Yoshioka. Yoshioka Seij
 Dialogue: 0,0:07:28.87,0:07:31.44,Default,ko,0,0,0,,요시오카 세쥬로!
 Dialogue: 0,0:07:28.87,0:07:31.44,Default,en,0,0,0,,Yoshioka Seijuro!
 Dialogue: 0,0:07:31.87,0:07:36.51,Default,ko,0,0,0,,수도에서 오신 요시오카 가문의 대선생의 자제분으로 우리들의 스승이시다!
-Dialogue: 0,0:07:31.87,0:07:36.51,Default,en,0,0,0,,He is our master who is a son of the master of Yoshioka Family from the capital!
-Dialogue: 0,0:07:36.53,0:07:43.50,Default,ko,0,0,0,,여기 오카야마에 요시오카 도장 지부 문을 열고 난 이후 처음으로 특별히 왕림하신 것이다!
-Dialogue: 0,0:07:36.53,0:07:43.50,Default,en,0,0,0,,It's the first time he came to specially visit someone by himself ever since he opened Yoshioka Dōjō at here, Okayama!
+Dialogue: 0,0:07:31.87,0:07:36.51,Default,en,0,0,0,,He is our master who is a son of the master of Yoshioka clan from Miyako!
+Dialogue: 0,0:07:36.53,0:07:43.50,Default,ko,0,0,0,,요시오카 도장 지부가 여기 오카야마에 문을 연 이후 처음으로 특별히 경고하러 오셨다!
+Dialogue: 0,0:07:36.53,0:07:43.50,Default,en,0,0,0,,He took the trouble for the first time ever since the Yoshioka Dōjō branch here opened to issue a warning from himself!
 Dialogue: 0,0:07:45.35,0:07:47.86,Default,ko,0,0,0,,난 미야모토 마을의 무사시라고 하오.
 Dialogue: 0,0:07:45.35,0:07:47.86,Default,en,0,0,0,,I am Musashi from Miyamoto village-{\i1}dasu{\i0}.
 Dialogue: 0,0:07:48.19,0:07:49.99,Default,ko,0,0,0,,그래서 용건이 무엇이오?
 Dialogue: 0,0:07:48.19,0:07:49.99,Default,en,0,0,0,,So what's your business-{\i1}dasu{\i0}?
-Dialogue: 0,0:07:49.99,0:07:54.30,Default,ko,0,0,0,,우리 젊은이가 불쌍하게 당했다고 하서 그 예를 다하러 왔다.
-Dialogue: 0,0:07:49.99,0:07:54.30,Default,en,0,0,0,,I heard that our young students were attacked, so I came to repay you.
+Dialogue: 0,0:07:49.99,0:07:54.08,Default,ko,0,0,0,,우리 젊은이가 불쌍하게 당했다고 하서 그 예를 다하러 왔다.
+Dialogue: 0,0:07:49.99,0:07:54.08,Default,en,0,0,0,,I heard that our young students were attacked, so I came to repay you.
 Dialogue: 0,0:07:54.30,0:07:57.71,Default,ko,0,0,0,,예? 음... 나 말이오?
 Dialogue: 0,0:07:54.30,0:07:57.71,Default,en,0,0,0,,Huh? That's a honor.
 Dialogue: 0,0:07:58.06,0:07:59.78,Default,ko,0,0,0,,그래서 뭘 주실 거오?
 Dialogue: 0,0:07:58.06,0:07:59.78,Default,en,0,0,0,,So what's your payment-{\i1}dasu{\i0}?
-Dialogue: 0,0:08:00.28,0:08:01.26,Default,ko,0,0,0,,만두?
+Dialogue: 0,0:08:00.28,0:08:01.26,Default,ko,0,0,0,,만주?
 Dialogue: 0,0:08:00.28,0:08:01.26,Default,en,0,0,0,,Manju?
 Dialogue: 0,0:08:01.89,0:08:02.79,Default,ko,0,0,0,,물양갱?
 Dialogue: 0,0:08:01.89,0:08:02.79,Default,en,0,0,0,,Red bean paste?
 Dialogue: 0,0:08:03.37,0:08:04.67,Default,ko,0,0,0,,카스텔라?
-Dialogue: 0,0:08:03.37,0:08:04.67,Default,en,0,0,0,,Sponge cake?
-Dialogue: 0,0:08:04.97,0:08:05.99,Default,ko,0,0,0,,이거다!
-Dialogue: 0,0:08:04.97,0:08:05.99,Default,en,0,0,0,,This!
+Dialogue: 0,0:08:03.37,0:08:04.67,Default,en,0,0,0,,Castella?
+Dialogue: 0,0:08:04.97,0:08:05.39,Default,ko,0,0,0,,이거다!
+Dialogue: 0,0:08:04.97,0:08:05.39,Default,en,0,0,0,,This!
 Dialogue: 0,0:08:34.23,0:08:36.72,Default,ko,0,0,0,,목검이...
 Dialogue: 0,0:08:34.23,0:08:36.72,Default,en,0,0,0,,My wooden sword...
-Dialogue: 0,0:08:43.90,0:08:49.27,Default,ko,0,0,0,,이자식!
-Dialogue: 0,0:08:43.90,0:08:49.27,Default,en,0,0,0,,{\an3\q2\move(0,470,3600,470,0,5370)}You! Pay! You! Pay! You! Pay! You! Pay! You! Pay! You! Pay! You! Pay! You! Pay! You! Pay! You! Pay! You! Pay! You! Pay! You! Pay! You! Pay! You! Pay! You! Pay! You! Pay! You! Pay! You! Pay! You! Pay! You! Pay! You! Pay! You! Pay! You! Pay! You! Pay! You! Pay! You! Pay! You! Pay! You! Pay! You! Pay! You! Pay!
+Dialogue: 0,0:08:43.90,0:08:49.27,Default,ko,0,0,0,,이자식! 이자식! 이자식! 이자식! 이자식! 이자식!
+Dialogue: 0,0:08:43.90,0:08:49.27,Default,en,0,0,0,,Damn you! Damn you! Damn you! Damn you!
 Dialogue: 0,0:09:07.60,0:09:08.95,Default,ko,0,0,0,,칼등이다.
-Dialogue: 0,0:09:07.60,0:09:08.95,Default,en,0,0,0,,Back side of sword.
+Dialogue: 0,0:09:07.60,0:09:08.95,Default,en,0,0,0,,That's a back side of my sword.
 Dialogue: 0,0:09:12.15,0:09:14.92,Default,ko,0,0,0,,역시 세쥬로 님!
 Dialogue: 0,0:09:12.15,0:09:14.92,Default,en,0,0,0,,That's our master Seijuro!
 Dialogue: 0,0:09:15.29,0:09:15.94,Default,ko,0,0,0,,무사시!
@@ -278,13 +280,13 @@ Dialogue: 0,0:09:25.21,0:09:29.34,Default,en,0,0,0,,Thus there is no way to let 
 Dialogue: 0,0:09:30.27,0:09:34.82,Default,ko,0,0,0,,세상을 위해서는 이런 자는 빨리 사라지는 게 낫다.
 Dialogue: 0,0:09:30.27,0:09:34.82,Default,en,0,0,0,,A man like this should disappear for the world as soon as possible.
 Dialogue: 0,0:09:37.96,0:09:39.88,Default,ko,0,0,0,,각오해라!
-Dialogue: 0,0:09:37.96,0:09:39.88,Default,en,0,0,0,,Be prepared!
+Dialogue: 0,0:09:37.96,0:09:39.88,Default,en,0,0,0,,Prepare yourself!
 Dialogue: 0,0:09:47.38,0:09:48.69,Default,ko,0,0,0,,시원하다!
 Dialogue: 0,0:09:47.38,0:09:48.69,Default,en,0,0,0,,How refreshing!
 Dialogue: 0,0:09:50.97,0:09:51.99,Default,ko,0,0,0,,네이놈, 어디서 감히!
 Dialogue: 0,0:09:50.97,0:09:51.99,Default,en,0,0,0,,How dare you!
-Dialogue: 0,0:09:52.41,0:09:57.24,Default,ko,0,0,0,,이런, 어린이를 상대로 어른들이 열이 뻗치셨구만.
-Dialogue: 0,0:09:52.41,0:09:57.24,Default,en,0,0,0,,Ho ho ho. I see you adults are angry about a young kid.
+Dialogue: 0,0:09:52.41,0:09:57.24,Default,ko,0,0,0,,이런, 그렇게 열을 내면 모처럼의 오줌이 증발해.
+Dialogue: 0,0:09:52.41,0:09:57.24,Default,en,0,0,0,,Oh my, if you get all heated up, you'll end up making all that pee evaporate.
 Dialogue: 0,0:09:52.28,0:09:57.24,NoteOnAnime,ko,0,0,80,,보쿠덴
 Dialogue: 0,0:09:52.28,0:09:57.24,NoteOnAnime,en,0,0,80,,Bokuden
 Dialogue: 0,0:09:57.47,0:10:01.58,Default,ko,0,0,0,,이게... 네놈부터 쓰러트려주마! 내려와라!
@@ -295,40 +297,38 @@ Dialogue: 0,0:10:12.23,0:10:13.38,Default,ko,0,0,0,,뭐, 뭐야?!
 Dialogue: 0,0:10:12.23,0:10:13.38,Default,en,0,0,0,,Wha... what the?!
 Dialogue: 0,0:10:14.41,0:10:15.61,Default,ko,0,0,0,,젠장!
 Dialogue: 0,0:10:14.41,0:10:15.61,Default,en,0,0,0,,Damn!
-Dialogue: 0,0:10:22.24,0:10:28.36,Default,ko,0,0,0,,어떻냐, 칼을 빼려는 순간! 너는 이 몸에게 한 방이란다.
-Dialogue: 0,0:10:22.24,0:10:28.36,Default,en,0,0,0,,How's that? By taking your sword out, I easily determined your ability at once.
-Dialogue: 0,0:10:41.79,0:10:44.79,Note,ko,0,0,0,,(무토도리: 無刀取り. 자신은 칼을 들지 않고 칼을 든 상대를 이김)
-Dialogue: 0,0:10:41.79,0:10:42.84,Default,ko,0,0,0,,무토도리!
-Dialogue: 0,0:10:41.79,0:10:44.79,Note,en,0,0,0,,({\i1}Mutodori{\i0}: 無刀取り. Defeating opponent with sword without using one)
+Dialogue: 0,0:10:22.24,0:10:28.36,Default,ko,0,0,0,,어떻냐, 칼을 빼잡는 순간 너는 이 몸에게 한 방이란다.
+Dialogue: 0,0:10:22.24,0:10:28.36,Default,en,0,0,0,,How's that? Should I take my sword out, you will not stand a chance.
+Dialogue: 0,0:10:41.79,0:10:42.84,Default,ko,0,0,0,,{\i1}무토도리!
 Dialogue: 0,0:10:41.79,0:10:42.84,Default,en,0,0,0,,{\i1}Mutodori{\i0}!
+Dialogue: 0,0:10:41.79,0:10:44.79,Note,ko,0,0,0,,(무토도리: 無刀取り. 자신은 칼을 들지 않고 칼을 든 상대를 이김)
+Dialogue: 0,0:10:41.79,0:10:44.79,Note,en,0,0,0,,({\i1}Mutodori{\i0}: 無刀取り. Defeating opponent with sword without using one)
 Dialogue: 0,0:10:55.56,0:10:58.15,Default,ko,0,0,0,,너도 잠깐 여기서 자고 있어라.
 Dialogue: 0,0:10:55.56,0:10:58.15,Default,en,0,0,0,,You should take a short nap too.
-Dialogue: 0,0:11:04.17,0:11:06.71,Default,ko,0,0,0,,졸린 참에 가볍게 운동을 했군.
-Dialogue: 0,0:11:04.17,0:11:06.71,Default,en,0,0,0,,That was a nice stretch to wake me up.
-Dialogue: 0,0:11:06.71,0:11:07.69,Default,ko,0,0,0,,이것 참, 고맙구만.
-Dialogue: 0,0:11:06.71,0:11:07.69,Default,en,0,0,0,,Thank you for the service.
-Dialogue: 0,0:11:08.06,0:11:12.68,Default,ko,0,0,0,,자, 잠깐 기다리시오. 이런 대단한 무예가가 이런 곳에 있을 줄은...
-Dialogue: 0,0:11:08.06,0:11:12.68,Default,en,0,0,0,,Wait for a moment. I didn't thought such excellent Martial Artist would be here...
+Dialogue: 0,0:11:04.17,0:11:07.69,Default,ko,0,0,0,,졸린 참에 가볍게 운동을 했군. 이것 참, 고맙구만.
+Dialogue: 0,0:11:04.17,0:11:07.69,Default,en,0,0,0,,That was a nice stretch to wake me up. Thank you for the service.
+Dialogue: 0,0:11:08.06,0:11:12.68,Default,ko,0,0,0,,자, 잠깐 기다리시오. 필시 이름 있는 무예가라고 보인다만...
+Dialogue: 0,0:11:08.06,0:11:12.68,Default,en,0,0,0,,W- wait for a moment. You seem to be a famed martial artist...
 Dialogue: 0,0:11:12.88,0:11:15.14,Default,ko,0,0,0,,무슨, 단지 늙은이일 뿐이다.
 Dialogue: 0,0:11:12.88,0:11:15.14,Default,en,0,0,0,,Nah, I'm just a plain old guy.
 Dialogue: 0,0:11:15.56,0:11:18.11,Default,ko,0,0,0,,하다못해 존함이라도...
 Dialogue: 0,0:11:15.56,0:11:18.11,Default,en,0,0,0,,Name, at least...
 Dialogue: 0,0:11:19.43,0:11:20.82,Default,ko,0,0,0,,보쿠덴이다.
 Dialogue: 0,0:11:19.43,0:11:20.82,Default,en,0,0,0,,Bokuden.
-Dialogue: 0,0:11:21.74,0:11:24.35,Default,ko,0,0,0,,켄세토에게 당했다던 츠카하라 보쿠덴!
-Dialogue: 0,0:11:21.74,0:11:24.35,Default,en,0,0,0,,Tsukahara Bokuden! You were told to be defeated by Kenseitou!
+Dialogue: 0,0:11:21.74,0:11:24.35,Default,ko,0,0,0,,검성이라는 평을 받던 츠카하라 보쿠덴!
+Dialogue: 0,0:11:21.74,0:11:24.35,Default,en,0,0,0,,The one to be called a master swordsman, Tsukahara Bokuden!
 Dialogue: 0,0:11:25.74,0:11:27.59,Default,ko,0,0,0,,실례했습니다!
 Dialogue: 0,0:11:25.74,0:11:27.59,Default,en,0,0,0,,I sincerely apologize!
-Dialogue: 0,0:11:30.03,0:11:34.76,Default,ko,0,0,0,,저 사람이 츠카하라 보쿠덴! 허점 가득해 보였는데 어디에도 허점이 없어!
-Dialogue: 0,0:11:30.03,0:11:34.76,Default,en,0,0,0,,That guy is Tsukahara Bokuden! He looked like he was full of weak points, and yet he has none at all!
+Dialogue: 0,0:11:30.03,0:11:34.76,Default,ko,0,0,0,,{\i1}저 사람이 츠카하라 보쿠덴! 허점 가득해 보였는데 어디에도 허점이 없어!
+Dialogue: 0,0:11:30.03,0:11:34.76,Default,en,0,0,0,,{\i1}He's that Tsukahara Bokuden! It looks like he's full of weak points, but he got none!
 Dialogue: 0,0:11:36.57,0:11:37.48,Default,ko,0,0,0,,보쿠덴...
 Dialogue: 0,0:11:36.57,0:11:37.48,Default,en,0,0,0,,Bokuden...
 Dialogue: 0,0:11:44.65,0:11:46.67,Default,ko,0,0,0,,무사시 님, 상처는?
-Dialogue: 0,0:11:44.65,0:11:46.67,Default,en,0,0,0,,Mr. Musashi, are you hurt?
+Dialogue: 0,0:11:44.65,0:11:46.67,Default,en,0,0,0,,Musashi, are you hurt?
 Dialogue: 0,0:11:47.45,0:11:48.27,Default,ko,0,0,0,,무사시 님!
-Dialogue: 0,0:11:47.45,0:11:48.27,Default,en,0,0,0,,Mr. Musashi!
+Dialogue: 0,0:11:47.45,0:11:48.27,Default,en,0,0,0,,Musashi!
 Dialogue: 0,0:11:49.69,0:11:50.87,Default,ko,0,0,0,,무사시 님!
-Dialogue: 0,0:11:49.69,0:11:50.87,Default,en,0,0,0,,Mr. Musashi!
+Dialogue: 0,0:11:49.69,0:11:50.87,Default,en,0,0,0,,Musashi!
 Dialogue: 0,0:11:52.06,0:11:58.95,Default,ko,0,0,0,,보쿠덴을 따라가 어디에 갈 것이냐, 무사시! 질풍노도의 후반을 기다려라!
 Dialogue: 0,0:11:52.06,0:11:58.95,Default,en,0,0,0,,Where do you think you're going by following Bokuden, Musashi? Wait for the stormy latter half!
 Dialogue: 0,0:12:04.45,0:12:05.46,Default,ko,0,0,0,,기다려 주시오!
@@ -336,15 +336,15 @@ Dialogue: 0,0:12:04.45,0:12:05.46,Default,en,0,0,0,,Please wait!
 Dialogue: 0,0:12:07.92,0:12:11.88,Default,ko,0,0,0,,거기! 기다리라는 말이 안 들리시오!
 Dialogue: 0,0:12:07.92,0:12:11.88,Default,en,0,0,0,,Hey there! Can't you hear me asking you to stop-{\i1}dasu{\i0}?
 Dialogue: 0,0:12:13.84,0:12:14.91,Default,ko,0,0,0,,그래!
-Dialogue: 0,0:12:13.84,0:12:14.91,Default,en,0,0,0,,Right!
+Dialogue: 0,0:12:13.84,0:12:14.91,Default,en,0,0,0,,That's it!
 Dialogue: 0,0:12:15.82,0:12:17.80,Default,ko,0,0,0,,돈을 떨어뜨렸소!
 Dialogue: 0,0:12:15.82,0:12:17.80,Default,en,0,0,0,,You've dropped your money!
 Dialogue: 0,0:12:18.22,0:12:19.51,Default,ko,0,0,0,,어, 뭐?
 Dialogue: 0,0:12:18.22,0:12:19.51,Default,en,0,0,0,,Wait, what?
 Dialogue: 0,0:12:19.91,0:12:21.71,Default,ko,0,0,0,,절 제자로 받아들여 주시오!
 Dialogue: 0,0:12:19.91,0:12:21.71,Default,en,0,0,0,,Please accept me as your pupil-{\i1}dasu{\i0}!
-Dialogue: 0,0:12:21.89,0:12:25.16,Default,ko,0,0,0,,떨어뜨린 돈을 돌려주는 대신 제자로 삼아 달라니 말도 안 된다.
-Dialogue: 0,0:12:21.89,0:12:25.16,Default,en,0,0,0,,You're asking me to have you as a pupil in exchange for the money I dropped? Nonsense.
+Dialogue: 0,0:12:21.89,0:12:25.16,Default,ko,0,0,0,,떨어뜨린 돈을 돌려주는 대신 제자로 삼는다니 말도 안 된다.
+Dialogue: 0,0:12:21.89,0:12:25.16,Default,en,0,0,0,,If you give me back the money I dropped, I'll take you as a pupil... not.
 Dialogue: 0,0:12:25.16,0:12:25.97,Default,ko,0,0,0,,뭐라?
 Dialogue: 0,0:12:25.16,0:12:25.97,Default,en,0,0,0,,What?
 Dialogue: 0,0:12:27.58,0:12:28.65,Default,ko,0,0,0,,멈춰라, 바보쿠덴!
@@ -353,26 +353,27 @@ Dialogue: 0,0:12:28.65,0:12:30.35,Default,ko,0,0,0,,이 녀석! 난 보쿠덴이
 Dialogue: 0,0:12:28.65,0:12:30.35,Default,en,0,0,0,,Hey, now! I am Bokuden!
 Dialogue: 0,0:12:30.75,0:12:31.90,Default,ko,0,0,0,,날 제자로 해라!
 Dialogue: 0,0:12:30.75,0:12:31.90,Default,en,0,0,0,,Take me as your pupil!
-Dialogue: 0,0:12:31.90,0:12:33.73,Default,ko,0,0,0,,난 제자 키우는 취미는 없다.
-Dialogue: 0,0:12:31.90,0:12:33.73,Default,en,0,0,0,,Raising pupil isn't my hobby.
-Dialogue: 0,0:12:34.01,0:12:36.70,Default,ko,0,0,0,,난 제자 되는 것이 취미이오!
-Dialogue: 0,0:12:34.01,0:12:36.70,Default,en,0,0,0,,My hobby is to be a pupil-{\i1}dasu{\i0}!
-Dialogue: 0,0:12:39.91,0:12:45.67,Default,ko,0,0,0,,날... 제자로...
+Dialogue: 0,0:12:31.90,0:12:33.73,Default,ko,0,0,0,,난 제자 키우는 주의가 아니라 말이지.
+Dialogue: 0,0:12:31.90,0:12:33.73,Default,en,0,0,0,,Raising pupils isn't my thing.
+Dialogue: 0,0:12:34.01,0:12:36.70,Default,ko,0,0,0,,난 제자 되는 주의이오!
+Dialogue: 0,0:12:34.01,0:12:36.70,Default,en,0,0,0,,My thing is to be a pupil-{\i1}dasu{\i0}!
+Dialogue: 0,0:12:39.91,0:12:45.67,Default,ko,0,0,0,,날... 제자로... 날... 제자로...
 Dialogue: 0,0:12:39.91,0:12:45.67,Default,en,0,0,0,,Make... me... your... pupil...
-Dialogue: 0,0:12:45.67,0:12:47.93,Default,ko,0,0,0,,보쿠덴을 따라 삼천리,
-Dialogue: 0,0:12:45.67,0:12:47.93,Default,en,0,0,0,,Following Bokuden for 10,000 kilometers...
+Dialogue: 0,0:12:45.67,0:12:47.93,Default,ko,0,0,0,,보쿠덴을 따라 삼만리,
+Dialogue: 0,0:12:45.67,0:12:47.93,Default,en,0,0,0,,Following Bokuden for 3,000 ris,
+Dialogue: 0,0:12:45.67,0:12:47.93,Note,en,0,0,0,,(3,000 {\i1}ri{\i0} ≒ 11,781 km ≒ 7,320 mi.)
 Dialogue: 0,0:12:48.25,0:12:53.26,Default,ko,0,0,0,,까진 아니어도, 무사시는 끈질기게 따라갔다.
-Dialogue: 0,0:12:48.25,0:12:53.26,Default,en,0,0,0,,...well, not that much, but anyway, Musashi stubbornly kept following.
+Dialogue: 0,0:12:48.25,0:12:53.26,Default,en,0,0,0,,well, not that much, but anyway, Musashi stubbornly kept following.
 Dialogue: 0,0:13:00.65,0:13:01.29,Default,ko,0,0,0,,해냈다...
 Dialogue: 0,0:13:00.65,0:13:01.29,Default,en,0,0,0,,I did it...
 Dialogue: 0,0:13:05.91,0:13:07.31,Default,ko,0,0,0,,부탁이오!
 Dialogue: 0,0:13:05.91,0:13:07.31,Default,en,0,0,0,,Please!
-Dialogue: 0,0:13:08.06,0:13:15.78,Default,ko,0,0,0,,깊이 마음먹고 목숨을 거는 것, 이것이 무사시의 방법이오!
-Dialogue: 0,0:13:08.06,0:13:15.78,Default,en,0,0,0,,Hardening and risking myself are the way of Musashi-{\i1}dasu{\i0}!
+Dialogue: 0,0:13:08.06,0:13:15.78,Default,ko,0,0,0,,한번 결심하면 목숨을 거는 것, 이것이 무사시의 방법이오!
+Dialogue: 0,0:13:08.06,0:13:15.78,Default,en,0,0,0,,Once decided, stake my life. It is the way of Musashi-{\i1}dasu{\i0}!
 Dialogue: 0,0:13:16.67,0:13:19.87,Default,ko,0,0,0,,어이! 왜 그러냐! 정신 차려라!
 Dialogue: 0,0:13:16.67,0:13:19.87,Default,en,0,0,0,,Hey! What's wrong? Wake up!
-Dialogue: 0,0:13:25.93,0:13:26.76,Default,ko,0,0,0,,한 그릇 더!
-Dialogue: 0,0:13:25.93,0:13:26.76,Default,en,0,0,0,,Another dish!
+Dialogue: 0,0:13:25.93,0:13:27.00,Default,ko,0,0,0,,한 그릇 더!
+Dialogue: 0,0:13:25.93,0:13:27.00,Default,en,0,0,0,,Another dish!
 Dialogue: 0,0:13:29.72,0:13:30.83,Default,ko,0,0,0,,한 그릇 더!
 Dialogue: 0,0:13:29.72,0:13:30.83,Default,en,0,0,0,,Another dish!
 Dialogue: 0,0:13:33.19,0:13:34.07,Default,ko,0,0,0,,한 그릇 더!
@@ -382,13 +383,13 @@ Dialogue: 0,0:13:35.26,0:13:35.87,Default,en,0,0,0,,Another dish!
 Dialogue: 0,0:13:36.75,0:13:38.09,Default,ko,0,0,0,,한 그릇 더!
 Dialogue: 0,0:13:36.75,0:13:38.09,Default,en,0,0,0,,Another dish!
 Dialogue: 0,0:13:41.05,0:13:42.06,Default,ko,0,0,0,,부탁이오!
-Dialogue: 0,0:13:41.05,0:13:42.06,Default,en,0,0,0,,Please-{\i1}dasu{\i0}!
+Dialogue: 0,0:13:41.05,0:13:42.06,Default,en,0,0,0,,I beg of you-{\i1}dasu{\i0}!
 Dialogue: 0,0:13:42.26,0:13:46.13,Default,ko,0,0,0,,그렇게까지 굴면 어쩔 수 없지. 제자로 해 주겠다.
-Dialogue: 0,0:13:42.26,0:13:46.13,Default,en,0,0,0,,You're too impolite to reject, so what can I do? You're my pupil from now on.
+Dialogue: 0,0:13:42.26,0:13:46.13,Default,en,0,0,0,,Everything you've done considered, I don't really have a choice, do I? I will take you a pupil.
 Dialogue: 0,0:13:47.20,0:13:49.56,Default,ko,0,0,0,,그 대신! 수련은 쓰라릴 것이다.
 Dialogue: 0,0:13:47.20,0:13:49.56,Default,en,0,0,0,,But! The training will be painful!
 Dialogue: 0,0:13:49.90,0:13:51.45,Default,ko,0,0,0,,쓰라리니까 수련이잖소?
-Dialogue: 0,0:13:49.90,0:13:51.45,Default,en,0,0,0,,Aren't all trainings painful-{\i1}dasu{\i0}?
+Dialogue: 0,0:13:49.90,0:13:51.45,Default,en,0,0,0,,Aren't all trainings painful?
 Dialogue: 0,0:13:51.77,0:13:53.03,Default,ko,0,0,0,,어? 뭐, 그렇지.
 Dialogue: 0,0:13:51.77,0:13:53.03,Default,en,0,0,0,,Huh? Well, I guess.
 Dialogue: 0,0:13:53.27,0:13:59.93,Default,ko,0,0,0,,지팡구 제일의 무예가가 되기 위해서라면 불 속이든 물 속이든 어디든 어떤 쓰라린 수련이라도 받아 보이겠소!
@@ -396,58 +397,54 @@ Dialogue: 0,0:13:53.27,0:13:55.84,Default,en,0,0,0,,To become the number one Mar
 Dialogue: 0,0:13:55.84,0:13:59.93,Default,en,0,0,0,,I'll do my best for any training no matter how painful it is - in water or in fire-{\i1}dasu{\i0}!
 Dialogue: 0,0:13:59.93,0:14:05.75,Default,ko,0,0,0,,알겠소? 어떤 어려운 상대라도 구름 머얼리... 날려 주겠소.
 Dialogue: 0,0:13:59.93,0:14:05.75,Default,en,0,0,0,,Got it? No matter what kind of opponent is, I'll hit him hard and make him fly... over the cloud-{\i1}dasu{\i0}.
-Dialogue: 0,0:14:06.49,0:14:08.85,Default,ko,0,0,0,,참 이상한 녀석이군.
-Dialogue: 0,0:14:06.49,0:14:08.85,Default,en,0,0,0,,What a strange guy.
-Dialogue: 0,0:14:10.75,0:14:14.01,Default,ko,0,0,0,,무사시! 츠카하라 보쿠덴의 제자가 되었냐!
-Dialogue: 0,0:14:10.75,0:14:14.01,Default,en,0,0,0,,Musashi! You managed to become the pupil of Tsukahara Bokuden?
-Dialogue: 0,0:14:14.78,0:14:18.16,Default,ko,0,0,0,,네 녀석은 좋은 라이벌이 될 지도 모르겠군.
-Dialogue: 0,0:14:14.78,0:14:18.16,Default,en,0,0,0,,You might become my good rival after all.
+Dialogue: 0,0:14:06.49,0:14:08.85,Default,ko,0,0,0,,{\i1}참 이상한 녀석이군.
+Dialogue: 0,0:14:06.49,0:14:08.85,Default,en,0,0,0,,{\i1}What a strange guy.
+Dialogue: 0,0:14:10.75,0:14:14.01,Default,ko,0,0,0,,{\i1}무사시! 츠카하라 보쿠덴의 제자가 되었냐!
+Dialogue: 0,0:14:10.75,0:14:14.01,Default,en,0,0,0,,{\i1}Musashi! You're a pupil of Tsukahara Bokuden now?
+Dialogue: 0,0:14:14.78,0:14:18.16,Default,ko,0,0,0,,{\i1}눈이 뜨여 좋은 라이벌이 되어 주기를 바란다.
+Dialogue: 0,0:14:14.78,0:14:18.16,Default,en,0,0,0,,{\i1}I pray for you to open your eyes and become a good rival of mine.
 Dialogue: 0,0:14:36.38,0:14:38.07,Default,ko,0,0,0,,허리에 힘이 없다! 허리에!
 Dialogue: 0,0:14:36.38,0:14:38.07,Default,en,0,0,0,,Keep your waist straight!
-Dialogue: 0,0:14:38.51,0:14:42.03,Default,ko,0,0,0,,검을 다룰 때 제일 중요한 것은 허리에 힘을 주는 것이다!
-Dialogue: 0,0:14:38.51,0:14:42.03,Default,en,0,0,0,,The most important step of using a sword is keeping your waist straight!
-Dialogue: 0,0:14:42.55,0:14:43.42,Default,ko,0,0,0,,네!
+Dialogue: 0,0:14:38.51,0:14:42.03,Default,ko,0,0,0,,검을 다룰 때 제일 중요한 것은 허리로 베는 것이다!
+Dialogue: 0,0:14:38.51,0:14:42.03,Default,en,0,0,0,,The most important thing when yielding a sword is to use your waist to cleave!
+Dialogue: 0,0:14:42.55,0:14:43.42,Default,ko,0,0,0,,예!
 Dialogue: 0,0:14:42.55,0:14:43.42,Default,en,0,0,0,,Got it!
 Dialogue: 0,0:14:50.57,0:14:51.66,Default,ko,0,0,0,,알겠느냐, 무사시?
 Dialogue: 0,0:14:50.57,0:14:51.66,Default,en,0,0,0,,Do you understand, Musashi?
-Dialogue: 0,0:14:51.66,0:14:59.63,NoteOnAnimeVert,ko,0,0,0,,{\pos(585,291)\frz-90\fsp120}단련
-Dialogue: 0,0:14:51.66,0:14:59.63,NoteOnAnime,en,0,0,0,,{\pos(496,240)}Body\NTraining
-Dialogue: 0,0:14:51.66,0:14:59.63,NoteOnAnimeVert,ko,0,0,0,,{\pos(255,291)\frz-90\fsp120}담련
-Dialogue: 0,0:14:51.66,0:14:59.63,NoteOnAnime,en,0,0,0,,{\pos(166,240)}Mental\NTraining
 Dialogue: 0,0:14:52.01,0:14:53.54,Default,ko,0,0,0,,단련은 단련!
-Dialogue: 0,0:14:52.01,0:14:53.54,Default,en,0,0,0,,You will train your body!
+Dialogue: 0,0:14:52.01,0:14:53.54,Default,en,0,0,0,,Body training is what it is!
 Dialogue: 0,0:14:53.90,0:14:55.35,Default,ko,0,0,0,,담련은 즉 담력.
-Dialogue: 0,0:14:53.90,0:14:55.35,Default,en,0,0,0,,You will raise guts by mental training.
+Dialogue: 0,0:14:53.90,0:14:55.35,Default,en,0,0,0,,Mental training will raise your guts.
 Dialogue: 0,0:14:55.70,0:15:01.68,Default,ko,0,0,0,,담력은 어떤 일이 있어도 당황하지 않는 강한 정신력을 말한다.
-Dialogue: 0,0:14:55.70,0:15:01.68,Default,en,0,0,0,,Gut means the spiritual strength of not getting perplexed no matter what happens.
+Dialogue: 0,0:14:55.70,0:15:01.68,Default,en,0,0,0,,Gut means the spiritual strength of not getting perplexed no matter what.
 Dialogue: 0,0:15:01.94,0:15:06.15,Default,ko,0,0,0,,그 담력을 훈련하기 위해서는 자연과 기술을 단련하는 것이다.
 Dialogue: 0,0:15:01.94,0:15:06.15,Default,en,0,0,0,,To raise your guts, you must understand the nature and train your skills.
-Dialogue: 0,0:15:06.66,0:15:07.07,Default,ko,0,0,0,,네!
+Dialogue: 0,0:15:06.66,0:15:07.07,Default,ko,0,0,0,,예!
 Dialogue: 0,0:15:06.66,0:15:07.07,Default,en,0,0,0,,Got it!
 Dialogue: 0,0:15:11.93,0:15:14.76,Default,ko,0,0,0,,상대에게 이기기 위해서는 발도 빨라지지 않으면 안 된다!
 Dialogue: 0,0:15:11.93,0:15:14.76,Default,en,0,0,0,,To defeat an opponent, your feet must be as quick as your sword!
 Dialogue: 0,0:15:14.76,0:15:17.18,Default,ko,0,0,0,,가끔은 달아나는 게 이기는 것일 때도 있다!
 Dialogue: 0,0:15:14.76,0:15:17.18,Default,en,0,0,0,,Sometimes to run away is to win!
-Dialogue: 0,0:15:17.18,0:15:18.42,Default,ko,0,0,0,,네!
+Dialogue: 0,0:15:17.18,0:15:18.42,Default,ko,0,0,0,,예!
 Dialogue: 0,0:15:17.18,0:15:18.42,Default,en,0,0,0,,Got it!
 Dialogue: 0,0:15:21.75,0:15:24.51,Default,ko,0,0,0,,몸도 당연 강해지지 않으면 안 된다.
 Dialogue: 0,0:15:21.75,0:15:24.51,Default,en,0,0,0,,Of course your body also has to become strong.
-Dialogue: 0,0:15:24.51,0:15:25.58,Default,ko,0,0,0,,네!
+Dialogue: 0,0:15:24.51,0:15:25.58,Default,ko,0,0,0,,예!
 Dialogue: 0,0:15:24.51,0:15:25.58,Default,en,0,0,0,,Got it!
 Dialogue: 0,0:15:32.62,0:15:34.07,Default,ko,0,0,0,,10년은 이르군.
 Dialogue: 0,0:15:32.62,0:15:34.07,Default,en,0,0,0,,Ten years early, I see.
 Dialogue: 0,0:15:41.05,0:15:44.59,Default,ko,0,0,0,,알았냐, 무사시. 현실 수련에서 가장 중요한 것은
-Dialogue: 0,0:15:41.05,0:15:44.59,Default,en,0,0,0,,Do you understand, Musashi? The most essential elements of real-life training are
-Dialogue: 0,0:15:44.59,0:15:47.35,Default,ko,0,0,0,,1. 눈 (일안), 2. 발 (이족), 3. 배짱 (삼담), 4. 힘 (사력)이다.
-Dialogue: 0,0:15:44.59,0:15:47.35,Default,en,0,0,0,,Vision (eye) first, pace (foot) second, audacity third, and force fourth.
-Dialogue: 0,0:15:47.35,0:15:50.37,Default,ko,0,0,0,,이 힘과 담력과 속도는 이미 배웠지.
-Dialogue: 0,0:15:47.35,0:15:50.37,Default,en,0,0,0,,You've already learned the force, audacity, and the pace.
+Dialogue: 0,0:15:41.05,0:15:44.59,Default,en,0,0,0,,Focus, Musashi. The most essential elements of real-life training are
+Dialogue: 0,0:15:44.59,0:15:47.35,Default,ko,0,0,0,,첫째, "안", 둘째, "족", 셋째, "담", 넷째, "력"이다.
+Dialogue: 0,0:15:44.59,0:15:47.35,Default,en,0,0,0,,"Sight" first, "foot" second, "guts" third, and "force" fourth.
+Dialogue: 0,0:15:47.35,0:15:50.37,Default,ko,0,0,0,,이 력과 담과 족은 이미 배웠지.
+Dialogue: 0,0:15:47.35,0:15:50.37,Default,en,0,0,0,,You've already learned "force", "guts", and "foot".
 Dialogue: 0,0:15:51.98,0:15:56.40,Default,ko,0,0,0,,이 "안"이라는 것은 보는 걸 말한다. 한마디로 말하자면 상대를 보는 것.
-Dialogue: 0,0:15:51.98,0:15:56.40,Default,en,0,0,0,,Vision means to see. To be exact, it means to see your opponent.
+Dialogue: 0,0:15:51.98,0:15:56.40,Default,en,0,0,0,,"Sight" here means to see. To see your opponent.
 Dialogue: 0,0:15:56.97,0:15:59.86,Default,ko,0,0,0,,여기에는 "안"의 눈과 "검"의 눈이라는 게 있다.
-Dialogue: 0,0:15:56.97,0:15:59.86,Default,en,0,0,0,,There are two kinds of Vision: Vision of eye, and Vision of sword.
+Dialogue: 0,0:15:56.97,0:15:59.86,Default,en,0,0,0,,There are two kinds of sight: sight of eyes, and sight of swords.
 Dialogue: 0,0:16:00.33,0:16:04.85,Default,ko,0,0,0,,"안"의 눈은 직감, "검"의 눈은 사물의 현상을 보는 것이다.
-Dialogue: 0,0:16:00.33,0:16:04.85,Default,en,0,0,0,,Vision of eye means intuition; Vision of sword means to observe the phenomenon of objects.
+Dialogue: 0,0:16:00.33,0:16:04.85,Default,en,0,0,0,,Sight of eye means intuition; sight of sword means to observe the phenomenon of objects.
 Dialogue: 0,0:16:09.86,0:16:14.70,Default,ko,0,0,0,,이 녀석아, 내가 기껏 먹을 시간까지 아껴가며 가르쳐주고 있는데...
 Dialogue: 0,0:16:09.86,0:16:14.70,Default,en,0,0,0,,I'm teaching you even using my dinner time and you're...
 Dialogue: 0,0:16:16.46,0:16:18.75,Default,ko,0,0,0,,내 밥까지 먹었구나...
@@ -456,10 +453,10 @@ Dialogue: 0,0:16:58.25,0:16:59.83,Default,ko,0,0,0,,해, 해냈다!
 Dialogue: 0,0:16:58.25,0:16:59.83,Default,en,0,0,0,,I did it!
 Dialogue: 0,0:17:03.80,0:17:08.25,Default,ko,0,0,0,,휼륭하다, 무사시. 오늘부터는 제 2단계로 나아가겠다.
 Dialogue: 0,0:17:03.80,0:17:08.25,Default,en,0,0,0,,Good job, Musashi. From today we will go to the second step.
-Dialogue: 0,0:17:08.49,0:17:08.95,Default,ko,0,0,0,,네!
+Dialogue: 0,0:17:08.49,0:17:08.95,Default,ko,0,0,0,,예!
 Dialogue: 0,0:17:08.49,0:17:08.95,Default,en,0,0,0,,Thank you!
 Dialogue: 0,0:17:25.05,0:17:26.55,Default,ko,0,0,0,,왜 그러냐, 오츠루.
-Dialogue: 0,0:17:25.05,0:17:26.55,Default,en,0,0,0,,What's the problem, Otsuru?
+Dialogue: 0,0:17:25.05,0:17:26.55,Default,en,0,0,0,,What's bothering you, Otsuru?
 Dialogue: 0,0:17:27.79,0:17:32.62,Default,ko,0,0,0,,아, 스님... 저, 사과해야만 하는 것이...
 Dialogue: 0,0:17:27.79,0:17:32.62,Default,en,0,0,0,,Master... I have something I must apologize.
 Dialogue: 0,0:17:32.92,0:17:34.76,Default,ko,0,0,0,,무사시를 달아나게 둔 것 말이냐?
@@ -474,8 +471,8 @@ Dialogue: 0,0:17:45.77,0:17:55.00,Default,ko,0,0,0,,그러나 내가 용서해 �
 Dialogue: 0,0:17:45.77,0:17:55.00,Default,en,0,0,0,,I forgave him for now, but as I did, sometimes you just have to stop thinking much of him and be harsh to him.
 Dialogue: 0,0:17:55.53,0:17:57.69,Default,ko,0,0,0,,뭐든 무사시를 위해서 잘 될 테다!
 Dialogue: 0,0:17:55.53,0:17:57.69,Default,en,0,0,0,,Everything will turn out to be well for Musashi!
-Dialogue: 0,0:17:59.41,0:18:03.26,Default,ko,0,0,0,,무사시 녀석, 지금쯤 어디서 뭘 하고 있으려나.
-Dialogue: 0,0:17:59.41,0:18:03.26,Default,en,0,0,0,,I wonder what's Musashi doing at where.
+Dialogue: 0,0:17:59.41,0:18:02.94,Default,ko,0,0,0,,무사시 녀석, 지금쯤 어디서 뭘 하고 있으려나.
+Dialogue: 0,0:17:59.41,0:18:02.94,Default,en,0,0,0,,I wonder what's Musashi doing at where.
 Dialogue: 0,0:18:05.91,0:18:08.65,Default,ko,0,0,0,,뭐, 그래도 어떻게든 걱정할 필요는 없다!
 Dialogue: 0,0:18:05.91,0:18:08.65,Default,en,0,0,0,,But no need to worry at all!
 Dialogue: 0,0:18:08.65,0:18:12.01,Default,ko,0,0,0,,무사시니까. 씩씩하게 뭐든 해낼 테니까!
@@ -487,23 +484,23 @@ Dialogue: 0,0:18:46.09,0:18:47.14,Default,en,0,0,0,,Master!
 Dialogue: 0,0:18:50.70,0:18:51.99,Default,ko,0,0,0,,뭔 짓이오!
 Dialogue: 0,0:18:50.70,0:18:51.99,Default,en,0,0,0,,What are you doing-{\i1}dasu{\i0}?!
 Dialogue: 0,0:18:52.17,0:18:56.95,Default,ko,0,0,0,,바보 녀석! 실제 싸움에서 구해주는 놈이 있을 거라 생각하나!
-Dialogue: 0,0:18:52.17,0:18:56.95,Default,en,0,0,0,,You idiot! Do you think your opponent is going to save you in the real battle?
+Dialogue: 0,0:18:52.17,0:18:56.95,Default,en,0,0,0,,You idiot! Do you think your opponent is going to save you in real battles?
 Dialogue: 0,0:19:23.79,0:19:24.51,Default,ko,0,0,0,,무사시 씨!
 Dialogue: 0,0:19:23.79,0:19:24.51,Default,en,0,0,0,,Musashi!
 Dialogue: 0,0:19:25.42,0:19:26.20,Default,ko,0,0,0,,무사시 씨!
 Dialogue: 0,0:19:25.42,0:19:26.20,Default,en,0,0,0,,Musashi!
-Dialogue: 0,0:19:28.14,0:19:32.84,Default,ko,0,0,0,,무사시 씨! 정신 차려요! 이런 곳에서 죽어도 괜찮아요?
-Dialogue: 0,0:19:28.14,0:19:32.84,Default,en,0,0,0,,Musashi! Get a grip! Do you think it is fine to die in such place?
+Dialogue: 0,0:19:28.14,0:19:32.84,Default,ko,0,0,0,,{\i1}무사시 씨! 정신 차려요! 이런 곳에서 죽어도 괜찮아요?
+Dialogue: 0,0:19:28.14,0:19:32.84,Default,en,0,0,0,,{\i1}Musashi! Get a grip! Do you want to die at such a place?
 Dialogue: 0,0:19:33.18,0:19:33.87,Default,ko,0,0,0,,오츠루 씨.
 Dialogue: 0,0:19:33.18,0:19:33.87,Default,en,0,0,0,,Otsuru.
-Dialogue: 0,0:19:36.31,0:19:40.01,Default,ko,0,0,0,,무사시! 이런 곳에서 뻗다니 말할 가치도 없는 놈이구나!
-Dialogue: 0,0:19:36.31,0:19:40.01,Default,en,0,0,0,,Musashi! If you drop dead in such place, you don't even worth being discussed about!
-Dialogue: 0,0:19:41.81,0:19:42.75,Default,ko,0,0,0,,바보 녀석.
-Dialogue: 0,0:19:41.81,0:19:42.75,Default,en,0,0,0,,Idiot.
+Dialogue: 0,0:19:36.31,0:19:40.01,Default,ko,0,0,0,,{\i1}무사시! 이런 곳에서 뻗다니 말할 가치도 없는 놈이구나!
+Dialogue: 0,0:19:36.31,0:19:40.01,Default,en,0,0,0,,{\i1}Musashi! To drop dead at such a place, you truly were a waste of time!
+Dialogue: 0,0:19:41.81,0:19:42.75,Default,ko,0,0,0,,{\i1}바보 녀석.
+Dialogue: 0,0:19:41.81,0:19:42.75,Default,en,0,0,0,,{\i1}Idiot.
 Dialogue: 0,0:19:43.12,0:19:44.22,Default,ko,0,0,0,,코지로!
 Dialogue: 0,0:19:43.12,0:19:44.22,Default,en,0,0,0,,Kojirō!
-Dialogue: 0,0:20:14.46,0:20:17.85,Default,ko,0,0,0,,괜찮은 녀석이었다... 죽을 때까지 검을 놓지 않다니.
-Dialogue: 0,0:20:14.46,0:20:17.85,Default,en,0,0,0,,He was a fine guy... I'm surprised that he's still holding his sword after death.
+Dialogue: 0,0:20:14.46,0:20:17.85,Default,ko,0,0,0,,아까운 녀석이었다... 죽을 때까지 검을 놓지 않다니.
+Dialogue: 0,0:20:14.46,0:20:17.85,Default,en,0,0,0,,He was a fine guy, to keep onto his sword to his death.
 Dialogue: 0,0:20:18.30,0:20:19.75,Default,ko,0,0,0,,빈틈이오!
 Dialogue: 0,0:20:18.30,0:20:19.75,Default,en,0,0,0,,Chink in the armor!
 Dialogue: 0,0:20:49.64,0:20:51.12,Default,ko,0,0,0,,잘 했다, 무사시.
@@ -518,16 +515,16 @@ Dialogue: 0,0:21:02.41,0:21:05.37,Default,ko,0,0,0,,무사시! 넌 미야코에 
 Dialogue: 0,0:21:02.41,0:21:05.37,Default,en,0,0,0,,Musashi! You shall go to Miyako!
 Dialogue: 0,0:21:05.72,0:21:06.41,Default,ko,0,0,0,,미야코에?
 Dialogue: 0,0:21:05.72,0:21:06.41,Default,en,0,0,0,,To Miyako?
-Dialogue: 0,0:21:07.05,0:21:12.19,Default,ko,0,0,0,,너에게는 더 이상 알려줄 게 없다. 내가 가진 모든 것을 알려준 셈이다.
-Dialogue: 0,0:21:07.05,0:21:12.19,Default,en,0,0,0,,I do have nothing more to teach. It's like I taught everything I know to you.
+Dialogue: 0,0:21:07.05,0:21:12.19,Default,ko,0,0,0,,네게는 더 이상 가르칠 게 없다. 내가 가진 모든 것을 가르쳤단 게다.
+Dialogue: 0,0:21:07.05,0:21:12.19,Default,en,0,0,0,,I have nothing more to teach. I taught everything I know to you.
 Dialogue: 0,0:21:12.60,0:21:16.42,Default,ko,0,0,0,,나머지는 무사시, 네가 네 손으로 직접 발전시켜 나가거라.
-Dialogue: 0,0:21:12.60,0:21:16.42,Default,en,0,0,0,,For the rest, Musashi, you shall develop yourself with your hands!
+Dialogue: 0,0:21:12.60,0:21:16.42,Default,en,0,0,0,,For the rest, Musashi, you shall hone yourself with your own hands!
 Dialogue: 0,0:21:17.52,0:21:19.70,Default,ko,0,0,0,,할 수 있겠나, 무사시?
-Dialogue: 0,0:21:17.52,0:21:19.70,Default,en,0,0,0,,Can you do so, Musashi?
-Dialogue: 0,0:21:20.92,0:21:21.45,Default,ko,0,0,0,,네!
+Dialogue: 0,0:21:17.52,0:21:19.70,Default,en,0,0,0,,Can you do it, Musashi?
+Dialogue: 0,0:21:20.92,0:21:21.45,Default,ko,0,0,0,,예!
 Dialogue: 0,0:21:20.92,0:21:21.45,Default,en,0,0,0,,Yes!
 Dialogue: 0,0:21:25.45,0:21:29.05,Default,ko,0,0,0,,무사시! 우선 지팡구 제일의 무예가가 되어라!
-Dialogue: 0,0:21:25.45,0:21:29.05,Default,en,0,0,0,,Musashi! First, become the number one Martial Artist in Jipangu!
+Dialogue: 0,0:21:25.45,0:21:29.05,Default,en,0,0,0,,Musashi! First, become the number one martial artist of Jipangu!
 Dialogue: 0,0:21:29.80,0:21:31.04,Default,ko,0,0,0,,감사합니다!
 Dialogue: 0,0:21:29.80,0:21:31.04,Default,en,0,0,0,,Thank you!
 Dialogue: 0,0:21:31.56,0:21:35.20,Default,ko,0,0,0,,마지막으로 검의 궁극의 목적은 단 하나!
@@ -538,16 +535,16 @@ Dialogue: 0,0:21:39.27,0:21:40.85,Default,ko,0,0,0,,싸우지 않고 이기는 �
 Dialogue: 0,0:21:39.27,0:21:40.85,Default,en,0,0,0,,To win without fighting.
 Dialogue: 0,0:21:41.72,0:21:44.43,Default,ko,0,0,0,,가라, 무사시! 미래의 지팡구를 위해서!
 Dialogue: 0,0:21:41.72,0:21:44.43,Default,en,0,0,0,,Go, Musashi! For the future of Jipangu!
-Dialogue: 0,0:21:44.82,0:21:45.21,Default,ko,0,0,0,,네!
+Dialogue: 0,0:21:44.82,0:21:45.21,Default,ko,0,0,0,,예!
 Dialogue: 0,0:21:44.82,0:21:45.21,Default,en,0,0,0,,Got it!
 Dialogue: 0,0:21:59.92,0:22:02.46,Default,ko,0,0,0,,이 이상 무리하면 견딜 수가 없겠군.
 Dialogue: 0,0:21:59.92,0:22:02.46,Default,en,0,0,0,,It will be a problem if I get tired over my limits.
 Dialogue: 0,0:22:02.79,0:22:07.43,Default,ko,0,0,0,,그래도 녀석, 꽤 근성있고 재미있는 녀석이었어.
-Dialogue: 0,0:22:02.79,0:22:07.43,Default,en,0,0,0,,Still, he was an interesting guy with a good gut.
-Dialogue: 0,0:22:08.57,0:22:16.30,Default,ko,0,0,0,,청운의 뜻을 품고 미야코에! 미야코에! 그 무사시의 앞길을 기다리는 것은 꽃인가, 폭풍인가!
-Dialogue: 0,0:22:08.57,0:22:16.30,Default,en,0,0,0,,To Miyako with a high ambition! Go, Musashi! What will be waiting for him? A flower, or a storm?
+Dialogue: 0,0:22:02.79,0:22:07.43,Default,en,0,0,0,,Still, he was an interesting guy with good guts.
+Dialogue: 0,0:22:08.57,0:22:16.30,Default,ko,0,0,0,,청운의 뜻을 품고 미야코에, 미야코에! 그 무사시의 앞길을 기다리는 것은 꽃인가, 폭풍인가!
+Dialogue: 0,0:22:08.57,0:22:16.30,Default,en,0,0,0,,With a high ambition, he heads to Miyako! What will be waiting for him? A flower, or a storm?
 Dialogue: 0,0:22:16.30,0:22:24.30,Default,ko,0,0,0,,그러나! 무사시여, 가라! 꽃에도 폭풍에도 뛰어들어라! 그것이야말로 검을 잡은 사내의 길.
-Dialogue: 0,0:22:16.30,0:22:24.30,Default,en,0,0,0,,That does not matter! Go forward, Musashi! Dive into flowers and storms! That's the road of a man with a sword.
+Dialogue: 0,0:22:16.30,0:22:24.30,Default,en,0,0,0,,That does not matter! Go forward, Musashi! Dive into flowers and storms! That's the path of swordsmanship of a man.
 Dialogue: 0,0:22:42.51,0:22:44.55,SongED1,ko,0,0,0,,허공의 주머니에 달이
 Dialogue: 0,0:22:42.51,0:22:44.55,SongED1,en,0,0,0,,Sometimes the moon jumps over
 Dialogue: 0,0:22:45.26,0:22:47.81,SongED1,ko,0,0,0,,뛰어넘어가는 일도 있어
@@ -574,19 +571,19 @@ Dialogue: 0,0:23:38.44,0:23:46.41,SongED1,ko,0,0,0,,미래도 그런 거야! 내
 Dialogue: 0,0:23:38.44,0:23:46.41,SongED1,en,0,0,0,,That's how future also is! Look, tomorrow
 Dialogue: 0,0:23:46.66,0:23:52.24,SongED1,ko,0,0,0,,양손을 벌리고 웃고 있어!
 Dialogue: 0,0:23:46.66,0:23:52.24,SongED1,en,0,0,0,,is opening its hands and smiling at us!
-Dialogue: 0,0:24:03.82,0:24:08.73,Default,ko,0,0,0,,혹독한 수련 후에, 한층 강해진 나는 미야코 궁전을 향하오.
-Dialogue: 0,0:24:03.82,0:24:08.73,Default,en,0,0,0,,After a severe training, I became stronger and now I'm heading for Miyako palace-{\i1}dasu{\i0}.
+Dialogue: 0,0:24:03.82,0:24:08.73,Default,ko,0,0,0,,혹독한 수련 후에, 한층 강해진 나는 궁전을 향하오.
+Dialogue: 0,0:24:03.82,0:24:08.73,Default,en,0,0,0,,After a harsh training, I became stronger and now I'm heading for the Miyako Palace-{\i1}dasu{\i0}.
 Dialogue: 0,0:24:09.26,0:24:13.81,Default,ko,0,0,0,,이야, 역시나 대도시, 이상한 녀석이 많소!
 Dialogue: 0,0:24:09.26,0:24:13.81,Default,en,0,0,0,,Wow, it sure is a big city, and there sure are lots of weird guys-{\i1}dasu{\i0}!
 Dialogue: 0,0:24:14.39,0:24:21.36,Default,ko,0,0,0,,칼을 천 개 모으는 것이 취미라는 거대한 괴승 앞에 나타난 것은, 어린아이 같은 용모의 누군가.
 Dialogue: 0,0:24:14.39,0:24:21.36,Default,en,0,0,0,,In front of a giant fighter whose hobby is collecting thousands swords, some child-looking guy appears.
 Dialogue: 0,0:24:21.75,0:24:24.75,Default,ko,0,0,0,,다음 이야기! 수도의 고조의 벤케이오
-Dialogue: 0,0:24:21.75,0:24:24.75,Default,en,0,0,0,,Next story! Benkei from Gojo in the Capital
+Dialogue: 0,0:24:21.75,0:24:24.75,Default,en,0,0,0,,Next episode: Benkei from Gojo in Miyako-{\i1}dasu{\i0}.
 Dialogue: 0,0:24:24.75,0:24:27.27,Default,ko,0,0,0,,네 눈동자를 뚫고 갈 것이오!
 Dialogue: 0,0:24:24.75,0:24:27.27,Default,en,0,0,0,,It will pierce through your eyes-{\i1}dasu{\i0}!
 Dialogue: 0,0:24:27.28,0:24:31.24,NoteOnAnime,ko,60,0,60,,{\an7}다음 이야기
-Dialogue: 0,0:24:27.28,0:24:31.24,TitleEP,ko,0,0,70,,수도의 고조의 벤케이오
+Dialogue: 0,0:24:27.28,0:24:31.24,TitleEP,ko,0,0,70,,미야코 고조의 벤케이오
 Dialogue: 0,0:24:27.28,0:24:31.24,NoteOnAnime,ko,0,60,30,,{\an3\fs32}기대하세요!
 Dialogue: 0,0:24:27.28,0:24:31.24,NoteOnAnime,en,60,0,60,,{\an7}Next Episode
-Dialogue: 0,0:24:27.28,0:24:31.24,TitleEP,en,0,0,80,,Benkei from Gojo in the Capital
+Dialogue: 0,0:24:27.28,0:24:31.24,TitleEP,en,0,0,80,,Benkei from Gojo in Miyako-{\i1}dasu{\i0}
 Dialogue: 0,0:24:27.28,0:24:31.24,NoteOnAnime,en,0,60,30,,{\an3\fs32}Look forwards for it!

@@ -16,9 +16,9 @@ Video File: ../Videos/01.mp4
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 538
-Active Line: 563
-Video Position: 35045
+Scroll Position: 552
+Active Line: 571
+Video Position: 30231
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -117,7 +117,7 @@ Dialogue: 0,0:03:18.85,0:03:21.24,Default,en,0,0,0,,Are you making fun of me? Un
 Dialogue: 0,0:03:21.34,0:03:26.26,NoteOnAnime,ko,0,0,80,,무사시
 Dialogue: 0,0:03:21.34,0:03:26.26,NoteOnAnime,en,0,0,80,,Musashi
 Dialogue: 0,0:03:21.58,0:03:26.11,Default,ko,0,0,0,,놀려먹는 것 아니오. 내가 지팡구 제일의 무예가가 된다면
-Dialogue: 0,0:03:21.58,0:03:26.11,Default,en,0,0,0,,I'm not making fun of you-{\i1}dasu{\i0}. When I become the number one Martial Artist in Jipangu State,
+Dialogue: 0,0:03:21.58,0:03:26.11,Default,en,0,0,0,,I'm not making fun of you-{\i1}dasu{\i0}. When I become the number one martial artist of Jipangu State,
 Dialogue: 0,0:03:26.11,0:03:30.02,Default,ko,0,0,0,,열 배, 아니, 백 배로 돌려주겠소이다!
 Dialogue: 0,0:03:26.11,0:03:30.02,Default,en,0,0,0,,I'll repay you by tenfold, no, by hundredfold-{\i1}dasu{\i0}!
 Dialogue: 0,0:03:30.02,0:03:33.93,Default,ko,0,0,0,,뭐가 제일의 무예가냐? 이 입만 살아가지고!
@@ -543,10 +543,10 @@ Dialogue: 0,0:20:51.85,0:20:55.76,Default,ko,0,0,0,,좋다! 무예의 길이란 
 Dialogue: 0,0:20:51.85,0:20:55.76,Default,en,0,0,0,,Sure! I'll show you how relentless is the path of martial arts!
 Dialogue: 0,0:20:55.98,0:20:57.46,Default,ko,0,0,0,,무사시 등장!
 Dialogue: 0,0:20:55.98,0:20:57.46,Default,en,0,0,0,,Here I come!
-Dialogue: 0,0:21:00.86,0:21:05.25,Note,ko,0,0,0,,(츠바메가에시: 燕返し. 말 그대로는 제비 뒤집기)
 Dialogue: 0,0:21:00.86,0:21:05.18,Default,ko,0,0,0,,비검! 츠바메가에시!
-Dialogue: 0,0:21:00.86,0:21:05.25,Note,en,0,0,0,,({\i1}Tsubamegaeshi{\i0}: 燕返し. lit. Swallow Reversal)
 Dialogue: 0,0:21:00.86,0:21:05.18,Default,en,0,0,0,,Secret Sword Tsubamegaeshi!
+Dialogue: 0,0:21:00.86,0:21:05.25,Note,ko,0,0,0,,(츠바메가에시: 燕返し. 말 그대로는 제비 뒤집기)
+Dialogue: 0,0:21:00.86,0:21:05.25,Note,en,0,0,0,,({\i1}Tsubamegaeshi{\i0}: 燕返し. lit. Swallow Reversal)
 Dialogue: 0,0:21:12.93,0:21:15.04,Default,ko,0,0,0,,안녕이다, 무사시. 바보 녀석.
 Dialogue: 0,0:21:12.93,0:21:15.04,Default,en,0,0,0,,Farewell, Musashi. Idiot.
 Dialogue: 0,0:21:15.27,0:21:17.99,Default,ko,0,0,0,,야! 승부는 아직...
