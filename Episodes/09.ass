@@ -11,8 +11,8 @@ PlayResY: 480
 
 [Aegisub Project Garbage]
 Last Style Storage: Karakuri
-Audio File: ANIME DVD からくり剣豪伝ムサシロード 第09話 「男イシマツ友情にちるだス」 640x480 WMV9-3QcwaWTn3zY.mp4
-Video File: ANIME DVD からくり剣豪伝ムサシロード 第09話 「男イシマツ友情にちるだス」 640x480 WMV9-3QcwaWTn3zY.mp4
+Audio File: ../Videos/09.mp4
+Video File: ../Videos/09.mp4
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000

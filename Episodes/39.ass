@@ -6,8 +6,8 @@ PlayResX: 640
 PlayResY: 480
 
 [Aegisub Project Garbage]
-Audio File: DVD/39.mp4
-Video File: DVD/39.mp4
+Audio File: ../Videos/39.mp4
+Video File: ../Videos/39.mp4
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000

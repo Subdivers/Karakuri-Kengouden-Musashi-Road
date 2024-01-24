@@ -7,9 +7,9 @@ PlayResY: 480
 
 [Aegisub Project Garbage]
 Last Style Storage: Karakuri
-Audio File: DVD/28.mp4
-Video File: DVD/28.mp4
-Timecodes File: DVD/28.mp4.ffindex_track00.tc.txt
+Audio File: ../Videos/28.mp4
+Video File: ../Videos/28.mp4
+Timecodes File: ../Videos/28.mp4.ffindex_track00.tc.txt
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
