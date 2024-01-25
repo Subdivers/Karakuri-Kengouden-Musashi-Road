@@ -232,7 +232,7 @@ Dialogue: 0,0:07:19.96,0:07:24.07,Default,en,0,0,0,,-Stop right there!\N-Suspici
 Dialogue: 0,0:07:27.84,0:07:28.80,Default,ko,0,0,0,,뭐냐, 이 녀석은?
 Dialogue: 0,0:07:27.84,0:07:28.80,Default,en,0,0,0,,Who is this guy?
 Dialogue: 0,0:07:29.02,0:07:33.70,Default,ko,0,0,0,,예, 저택 안을 헤매고 있던 수상한 자입니다, 세쥬로 님.
-Dialogue: 0,0:07:29.02,0:07:33.70,Default,en,0,0,0,,He is a suspicious guy who was wandering around inside the house, Master Seijuro.
+Dialogue: 0,0:07:29.02,0:07:33.70,Default,en,0,0,0,,He is a suspicious guy who was wandering around inside the house, Master Seijūrō.
 Dialogue: 0,0:07:33.85,0:07:36.00,Default,ko,0,0,0,,어쩌면 도둑일 지도 모릅니다.
 Dialogue: 0,0:07:33.85,0:07:36.00,Default,en,0,0,0,,He might be a thief as well.
 Dialogue: 0,0:07:36.13,0:07:40.45,Default,ko,0,0,0,,내 도장에 몰래 들어오다니, 적반하장은 널 말하는군.
@@ -325,7 +325,7 @@ Dialogue: 0,0:10:26.16,0:10:30.40,Default,en,0,0,0,,I'm not finished yet! If exe
 Dialogue: 0,0:10:30.40,0:10:32.21,Default,ko,0,0,0,,이랴!
 Dialogue: 0,0:10:30.40,0:10:32.21,Default,en,0,0,0,,Here it goes!
 Dialogue: 0,0:10:33.29,0:10:36.40,Default,ko,0,0,0,,이겼다! 드디어 세쥬로에게 이겼소!
-Dialogue: 0,0:10:33.29,0:10:36.40,Default,en,0,0,0,,I won! I finally defeated Seijūrou-{\i1}dasu{\i0}!
+Dialogue: 0,0:10:33.29,0:10:36.40,Default,en,0,0,0,,I won! I finally defeated Seijūrō-{\i1}dasu{\i0}!
 Dialogue: 0,0:10:37.65,0:10:43.29,Default,ko,0,0,0,,네이놈, 꼬맹이! 잘도 형님을! 이제 상관없다! 이 꼬맹이를 해치워버려라!
 Dialogue: 0,0:10:37.65,0:10:43.29,Default,en,0,0,0,,How dare you do that to my brother, you brat! Nothing matters now! Finish off this brat!
 Dialogue: 0,0:10:48.94,0:10:52.96,Default,ko,0,0,0,,이러면 내가 압도적으로 불리하오. 어떻게 하지 않으면...
@@ -479,7 +479,7 @@ Dialogue: 0,0:15:53.41,0:15:54.56,Default,en,0,0,0,,Do you know?
 Dialogue: 0,0:15:54.56,0:15:59.29,Default,ko,0,0,0,,뭐... 조금은 알지만. 이 자가 뭔 짓을 했습니까?
 Dialogue: 0,0:15:54.56,0:15:59.29,Default,en,0,0,0,,Well... a bit. Did he do something?
 Dialogue: 0,0:15:59.29,0:16:04.97,Default,ko,0,0,0,,예. 제 요시오카 일족의 주인 세쥬로 님의 머리를 타격해... 읍읍
-Dialogue: 0,0:15:59.29,0:16:04.97,Default,en,0,0,0,,Yes. He hit on the head of Seijūrou, the head of Yoshioka...
+Dialogue: 0,0:15:59.29,0:16:04.97,Default,en,0,0,0,,Yes. He hit on the head of Seijūrō, the head of Yoshioka...
 Dialogue: 0,0:16:05.42,0:16:08.94,Default,ko,0,0,0,,뭐라?! 무사시가 요시오카의 도장의 주인을 쓰러뜨렸다고?!
 Dialogue: 0,0:16:05.42,0:16:08.94,Default,en,0,0,0,,What?! Musashi took down the head of Yoshioka Dōjō?
 Dialogue: 0,0:16:09.28,0:16:12.89,Default,ko,0,0,0,,오! 귀하도 우리의 분함을 이해해 주시는 것입니까!

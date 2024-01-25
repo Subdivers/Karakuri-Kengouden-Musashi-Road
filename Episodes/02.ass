@@ -18,7 +18,7 @@ Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
 Scroll Position: 525
 Active Line: 551
-Video Position: 35187
+Video Position: 35175
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -117,9 +117,9 @@ Dialogue: 0,0:03:21.93,0:03:26.40,Default,en,0,0,0,,Everything here was rightful
 Dialogue: 0,0:03:33.11,0:03:35.35,Default,ko,0,0,0,,마츠카시의 석류 아니오!
 Dialogue: 0,0:03:33.11,0:03:35.35,Default,en,0,0,0,,Aren't these pomegranates from Matsukasi-{\i1}dasu{\i0}!?
 Dialogue: 0,0:03:39.24,0:03:39.98,Default,ko,0,0,0,,2문.
-Dialogue: 0,0:03:39.24,0:03:39.98,Default,en,0,0,0,,2 mons.
+Dialogue: 0,0:03:39.24,0:03:39.98,Default,en,0,0,0,,2 {\i1}mon{\i0}s.
 Dialogue: 0,0:03:41.75,0:03:42.71,Default,ko,0,0,0,,2문.
-Dialogue: 0,0:03:41.75,0:03:42.71,Default,en,0,0,0,,2 mons.
+Dialogue: 0,0:03:41.75,0:03:42.71,Default,en,0,0,0,,2 {\i1}mon{\i0}s.
 Dialogue: 0,0:03:43.98,0:03:45.19,Default,ko,0,0,0,,돈을 내!
 Dialogue: 0,0:03:43.98,0:03:45.19,Default,en,0,0,0,,Pay the price!
 Dialogue: 0,0:03:45.64,0:03:46.46,Default,ko,0,0,0,,돈?
@@ -230,7 +230,7 @@ Dialogue: 0,0:06:59.42,0:07:00.59,Default,en,0,0,0,,That dish!
 Dialogue: 0,0:07:01.07,0:07:02.76,Default,ko,0,0,0,,과연 살아서 먹을 수 있을까.
 Dialogue: 0,0:07:01.07,0:07:02.76,Default,en,0,0,0,,Will you be able to eat it alive?
 Dialogue: 0,0:07:12.37,0:07:15.33,NoteOnAnime,ko,0,0,70,,세쥬로
-Dialogue: 0,0:07:12.37,0:07:15.33,NoteOnAnime,en,0,0,70,,Seijuro
+Dialogue: 0,0:07:12.37,0:07:15.33,NoteOnAnime,en,0,0,70,,Seijūrō
 Dialogue: 0,0:07:12.87,0:07:15.33,Default,ko,0,0,0,,어이, 거기. 뭐라고 말 좀 해봐라.
 Dialogue: 0,0:07:12.87,0:07:15.33,Default,en,0,0,0,,Hey, you. Say something.
 Dialogue: 0,0:07:15.64,0:07:17.95,Default,ko,0,0,0,,알고 싶으면 먼저 이름을 대시오.
@@ -238,9 +238,9 @@ Dialogue: 0,0:07:15.64,0:07:17.95,Default,en,0,0,0,,Tell me your name first if y
 Dialogue: 0,0:07:18.76,0:07:20.02,Default,ko,0,0,0,,뭐라고?!
 Dialogue: 0,0:07:18.76,0:07:20.02,Default,en,0,0,0,,What did you say?!
 Dialogue: 0,0:07:24.21,0:07:28.33,Default,ko,0,0,0,,난 요시오카. 요시오카 세쥬로!
-Dialogue: 0,0:07:24.21,0:07:28.33,Default,en,0,0,0,,I am Yoshioka. Yoshioka Seijuro!
+Dialogue: 0,0:07:24.21,0:07:28.33,Default,en,0,0,0,,I am Yoshioka. Yoshioka Seijūrō!
 Dialogue: 0,0:07:28.87,0:07:31.44,Default,ko,0,0,0,,요시오카 세쥬로!
-Dialogue: 0,0:07:28.87,0:07:31.44,Default,en,0,0,0,,Yoshioka Seijuro!
+Dialogue: 0,0:07:28.87,0:07:31.44,Default,en,0,0,0,,Yoshioka Seijūrō!
 Dialogue: 0,0:07:31.87,0:07:36.51,Default,ko,0,0,0,,수도에서 오신 요시오카 가문의 대선생의 자제분으로 우리들의 스승이시다!
 Dialogue: 0,0:07:31.87,0:07:36.51,Default,en,0,0,0,,He is our master who is a son of the master of Yoshioka clan from Miyako!
 Dialogue: 0,0:07:36.53,0:07:43.50,Default,ko,0,0,0,,요시오카 도장 지부가 여기 오카야마에 문을 연 이후 처음으로 특별히 경고하러 오셨다!
@@ -270,7 +270,7 @@ Dialogue: 0,0:08:43.90,0:08:49.27,Default,en,0,0,0,,Damn you! Damn you! Damn you
 Dialogue: 0,0:09:07.60,0:09:08.95,Default,ko,0,0,0,,칼등이다.
 Dialogue: 0,0:09:07.60,0:09:08.95,Default,en,0,0,0,,That's a back side of my sword.
 Dialogue: 0,0:09:12.15,0:09:14.92,Default,ko,0,0,0,,역시 세쥬로 님!
-Dialogue: 0,0:09:12.15,0:09:14.92,Default,en,0,0,0,,That's our master Seijuro!
+Dialogue: 0,0:09:12.15,0:09:14.92,Default,en,0,0,0,,That's our master Seijūrō!
 Dialogue: 0,0:09:15.29,0:09:15.94,Default,ko,0,0,0,,무사시!
 Dialogue: 0,0:09:15.29,0:09:15.94,Default,en,0,0,0,,Musashi!
 Dialogue: 0,0:09:20.73,0:09:22.34,Default,ko,0,0,0,,흥. 입만 큰 녀석.
@@ -578,12 +578,12 @@ Dialogue: 0,0:24:09.26,0:24:13.81,Default,en,0,0,0,,Wow, it sure is a big city, 
 Dialogue: 0,0:24:14.39,0:24:21.36,Default,ko,0,0,0,,칼을 천 개 모으는 것이 취미라는 거대한 괴승 앞에 나타난 것은, 어린아이 같은 용모의 누군가.
 Dialogue: 0,0:24:14.39,0:24:21.36,Default,en,0,0,0,,In front of a giant fighter whose hobby is collecting thousands swords, some child-looking guy appears.
 Dialogue: 0,0:24:21.75,0:24:24.75,Default,ko,0,0,0,,다음 이야기! 수도의 고조의 벤케이오
-Dialogue: 0,0:24:21.75,0:24:24.75,Default,en,0,0,0,,Next episode: Benkei from Gojo in Miyako-{\i1}dasu{\i0}.
+Dialogue: 0,0:24:21.75,0:24:24.75,Default,en,0,0,0,,Next episode: Benkei at the Capital Castle City-{\i1}dasu{\i0}.
 Dialogue: 0,0:24:24.75,0:24:27.27,Default,ko,0,0,0,,네 눈동자를 뚫고 갈 것이오!
 Dialogue: 0,0:24:24.75,0:24:27.27,Default,en,0,0,0,,It will pierce through your eyes-{\i1}dasu{\i0}!
 Dialogue: 0,0:24:27.28,0:24:31.24,NoteOnAnime,ko,60,0,60,,{\an7}다음 이야기
 Dialogue: 0,0:24:27.28,0:24:31.24,TitleEP,ko,0,0,70,,미야코 고조의 벤케이오
 Dialogue: 0,0:24:27.28,0:24:31.24,NoteOnAnime,ko,0,60,30,,{\an3\fs32}기대하세요!
 Dialogue: 0,0:24:27.28,0:24:31.24,NoteOnAnime,en,60,0,60,,{\an7}Next Episode
-Dialogue: 0,0:24:27.28,0:24:31.24,TitleEP,en,0,0,80,,Benkei from Gojo in Miyako-{\i1}dasu{\i0}
+Dialogue: 0,0:24:27.28,0:24:31.24,TitleEP,en,0,0,80,,Benkei at the Capital Castle City
 Dialogue: 0,0:24:27.28,0:24:31.24,NoteOnAnime,en,0,60,30,,{\an3\fs32}Look forwards for it!

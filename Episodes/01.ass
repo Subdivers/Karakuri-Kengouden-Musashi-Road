@@ -17,8 +17,8 @@ Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
 Scroll Position: 552
-Active Line: 571
-Video Position: 30231
+Active Line: 567
+Video Position: 35101
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -600,7 +600,7 @@ Dialogue: 0,0:24:13.60,0:24:17.45,Default,en,0,0,0,,but Master Bokuden appeared 
 Dialogue: 0,0:24:17.85,0:24:20.88,Default,ko,0,0,0,,난 바로 따라가서 제자가 되었소.
 Dialogue: 0,0:24:17.85,0:24:20.88,Default,en,0,0,0,,I followed him and manage to become his pupil-{\i1}dasu{\i0}.
 Dialogue: 0,0:24:21.45,0:24:24.04,Default,ko,0,0,0,,다음 이야기! 눈물의 수행은 배가 고프오
-Dialogue: 0,0:24:21.45,0:24:24.04,Default,en,0,0,0,,Next story! {\i1}Training in Tears Makes Me Hungry{\i0}
+Dialogue: 0,0:24:21.45,0:24:24.04,Default,en,0,0,0,,Next episode: {\i1}Training in Tears Makes Me Hungry{\i0}-{\i1}dasu{\i0}.
 Dialogue: 0,0:24:24.50,0:24:25.74,Default,ko,0,0,0,,꼭 봐야 하오!
 Dialogue: 0,0:24:24.50,0:24:25.74,Default,en,0,0,0,,Don't miss it-{\i1}dasu{\i0}!
 Dialogue: 0,0:24:26.48,0:24:30.48,NoteOnAnime,ko,60,0,60,,{\an7}다음 이야기
