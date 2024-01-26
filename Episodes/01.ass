@@ -47,9 +47,9 @@ Dialogue: 0,0:00:04.17,0:00:06.44,Default,en,0,0,0,,It is the turbulent Sengoku 
 Dialogue: 0,0:00:06.81,0:00:11.63,Default,ko,0,0,0,,카라쿠리인이 사는 지팡구국에서는 군웅할거하여 밤낮으로 접전이 계속되고
 Dialogue: 0,0:00:06.81,0:00:11.63,Default,en,0,0,0,,Warlords keep on fighting day and night over\NJipangu State, where Karakuri people live.
 Dialogue: 0,0:00:11.63,0:00:16.58,Default,ko,0,0,0,,카라쿠리 무예가들도 승리와 영광을 꿈꾸며 맹렬히 싸우고 있었다.
-Dialogue: 0,0:00:11.63,0:00:16.58,Default,en,0,0,0,,Karakuri Martial Artists were sharpening their swords, dreaming of victory and honor.
+Dialogue: 0,0:00:11.63,0:00:16.58,Default,en,0,0,0,,Karakuri martial artists were sharpening their swords, dreaming of victory and honor.
 Dialogue: 0,0:00:16.58,0:00:23.31,Default,ko,0,0,0,,그리고 지금, 카라쿠리 무예가 제일을 꿈꾸는 터무니없는 영웅이 탄생했다!
-Dialogue: 0,0:00:16.58,0:00:23.31,Default,en,0,0,0,,And now, a wild hero has arrived, seeking to be the number one Karakuri Martial Artist!
+Dialogue: 0,0:00:16.58,0:00:23.31,Default,en,0,0,0,,And now, a wild hero has arrived, seeking to be the number one Karakuri martial artist!
 Dialogue: 0,0:00:24.17,0:00:26.90,Default,ko,0,0,0,,무사시 등장이오!
 Dialogue: 0,0:00:24.17,0:00:26.90,Default,en,0,0,0,,Musashi is here-{\i1}dasu{\i0}!
 Dialogue: 0,0:00:27.81,0:00:32.99,TitleOP,ko,0,0,40,,카라쿠리 검호전: 무사시 로드
@@ -121,7 +121,7 @@ Dialogue: 0,0:03:21.58,0:03:26.11,Default,en,0,0,0,,I'm not making fun of you-{\
 Dialogue: 0,0:03:26.11,0:03:30.02,Default,ko,0,0,0,,열 배, 아니, 백 배로 돌려주겠소이다!
 Dialogue: 0,0:03:26.11,0:03:30.02,Default,en,0,0,0,,I'll repay you by tenfold, no, by hundredfold-{\i1}dasu{\i0}!
 Dialogue: 0,0:03:30.02,0:03:33.93,Default,ko,0,0,0,,뭐가 제일의 무예가냐? 이 입만 살아가지고!
-Dialogue: 0,0:03:30.02,0:03:33.93,Default,en,0,0,0,,What kind of {\i1}number one{\i0} Martial Artist will you be with that wide open mouth!?
+Dialogue: 0,0:03:30.02,0:03:33.93,Default,en,0,0,0,,What kind of {\i1}number one{\i0} martial artist will you be with that wide open mouth!?
 Dialogue: 0,0:03:34.53,0:03:35.92,Default,ko,0,0,0,,더 이상 못 달려...
 Dialogue: 0,0:03:34.53,0:03:35.92,Default,en,0,0,0,,My legs have given out...
 Dialogue: 0,0:03:39.62,0:03:42.59,Default,ko,0,0,0,,오늘도 손님이 많이 오도록...
@@ -135,7 +135,7 @@ Dialogue: 0,0:03:53.89,0:03:56.47,Default,en,0,0,0,,Hey! Musashi, you wretch!
 Dialogue: 0,0:03:59.35,0:04:03.05,Default,ko,0,0,0,,-맛있어 보여!\N-대단해!
 Dialogue: 0,0:03:59.35,0:04:03.05,Default,en,0,0,0,,-Looks tasty!\N-Awesome!
 Dialogue: 0,0:04:03.28,0:04:07.63,Default,ko,0,0,0,,지팡구 제일의 무예가가 되기 위해선 먼저 스태미나와 파워이오!
-Dialogue: 0,0:04:03.28,0:04:07.63,Default,en,0,0,0,,You need power and stamina to become the number one Martial Artist of Jipangu-{\i1}dasu{\i0}!
+Dialogue: 0,0:04:03.28,0:04:07.63,Default,en,0,0,0,,You need power and stamina to become the number one martial artist of Jipangu-{\i1}dasu{\i0}!
 Dialogue: 0,0:04:07.63,0:04:09.26,Default,ko,0,0,0,,자, 모두 먹으시오!
 Dialogue: 0,0:04:07.63,0:04:09.26,Default,en,0,0,0,,Here, eat up-{\i1}dasu{\i0}!
 Dialogue: 0,0:04:09.26,0:04:10.53,Default,ko,0,0,0,,네!
@@ -173,7 +173,7 @@ Dialogue: 0,0:05:21.62,0:05:24.35,Default,en,0,0,0,,Huh? Did you say something-{
 Dialogue: 0,0:05:24.35,0:05:26.89,Default,ko,0,0,0,,아, 아무 소리도 안 했습니다!
 Dialogue: 0,0:05:24.35,0:05:26.89,Default,en,0,0,0,,Nope, not a thing!
 Dialogue: 0,0:05:27.29,0:05:30.47,Default,ko,0,0,0,,아니오. 무예가의 귀를 간지럽히면 곤란하오.
-Dialogue: 0,0:05:27.29,0:05:30.47,Default,en,0,0,0,,I don't believe you. You shall not trick the ears of a Martial Artist-{\i1}dasu{\i0}.
+Dialogue: 0,0:05:27.29,0:05:30.47,Default,en,0,0,0,,I don't believe you. You shall not trick the ears of a martial artist-{\i1}dasu{\i0}.
 Dialogue: 0,0:05:30.47,0:05:33.67,Default,ko,0,0,0,,분명히 뚝심에 밥보라고 말했소.
 Dialogue: 0,0:05:30.47,0:05:33.67,Default,en,0,0,0,,I definitely heard you calling me names-{\i1}dasu{\i0}.
 Dialogue: 0,0:05:34.73,0:05:37.17,Default,ko,0,0,0,,무사시 형 화났다! 도망쳐!
@@ -199,7 +199,7 @@ Dialogue: 0,0:06:25.20,0:06:27.53,Default,en,0,0,0,,Otsuru, are you hurt-{\i1}da
 Dialogue: 0,0:06:28.12,0:06:31.03,Default,ko,0,0,0,,네, 무사시 씨! 고마워요!
 Dialogue: 0,0:06:28.12,0:06:31.03,Default,en,0,0,0,,Nope! Musashi, thank you!
 Dialogue: 0,0:06:31.52,0:06:35.98,Default,ko,0,0,0,,별 말씀을! 연약한 소녀를 구하는 것은 무예가의 일이오!
-Dialogue: 0,0:06:31.52,0:06:35.98,Default,en,0,0,0,,Don't mention it. A Martial Artist must rescue girls in trouble-{\i1}dasu{\i0}!
+Dialogue: 0,0:06:31.52,0:06:35.98,Default,en,0,0,0,,Don't mention it. A martial artist must rescue girls in trouble-{\i1}dasu{\i0}!
 Dialogue: 0,0:06:36.07,0:06:37.80,Default,ko,0,0,0,,무사시 씨 강하네요.
 Dialogue: 0,0:06:36.07,0:06:37.80,Default,en,0,0,0,,You're so strong, Musashi.
 Dialogue: 0,0:06:38.03,0:06:40.14,Default,ko,0,0,0,,그, 그런 정도이오?
@@ -269,7 +269,7 @@ Dialogue: 0,0:09:13.46,0:09:16.34,Default,en,0,0,0,,Back then, Kojirō was 13 ye
 Dialogue: 0,0:09:17.45,0:09:21.67,Default,ko,0,0,0,,까불면 다친다. 조심해라, 꼬마야.
 Dialogue: 0,0:09:17.45,0:09:21.67,Default,en,0,0,0,,You shouldn't act so carelessly. Be careful, kiddo.
 Dialogue: 0,0:09:23.43,0:09:28.81,Default,ko,0,0,0,,꼬마라고? 날 모욕하는 건 참을 수 없소! 무예가라면 승부를 보시오!
-Dialogue: 0,0:09:23.43,0:09:28.81,Default,en,0,0,0,,Kiddo? I won't forgive anyone who insults me-{\i1}dasu{\i0}! If you're a Martial Artist, then I challenge you-{\i1}dasu{\i0}!
+Dialogue: 0,0:09:23.43,0:09:28.81,Default,en,0,0,0,,Kiddo? I won't forgive anyone who insults me-{\i1}dasu{\i0}! If you're a martial artist, then I challenge you-{\i1}dasu{\i0}!
 Dialogue: 0,0:09:28.81,0:09:31.59,Default,ko,0,0,0,,거기, 멈추시오! 안 멈추면 뒤쫓겠소!
 Dialogue: 0,0:09:28.81,0:09:31.59,Default,en,0,0,0,,Hey! Stop! If you don't stop, I'll chase you-{\i1}dasu{\i0}!
 Dialogue: 0,0:09:32.55,0:09:34.07,Default,ko,0,0,0,,그만 못할까, 무사시!
@@ -329,7 +329,7 @@ Dialogue: 0,0:11:26.02,0:11:32.65,Default,en,0,0,0,,Will he end up being a crow'
 Dialogue: 0,0:11:44.52,0:11:48.68,Default,ko,0,0,0,,까불면 다친다. 조심해라, 꼬마야.
 Dialogue: 0,0:11:44.52,0:11:48.68,Default,en,0,0,0,,You shouldn't act so carelessly. Be careful, kiddo.
 Dialogue: 0,0:12:02.35,0:12:07.53,Default,ko,0,0,0,,{\i1}저 아니꼬운 무예가 놈, 키보다도 긴 칼이나 만지는 주제에!
-Dialogue: 0,0:12:02.35,0:12:07.53,Default,en,0,0,0,,{\i1}That stupid unworthy so-called Martial Artist, using a sword longer than himself!
+Dialogue: 0,0:12:02.35,0:12:07.53,Default,en,0,0,0,,{\i1}That stupid unworthy so-called martial artist, using a sword longer than himself!
 Dialogue: 0,0:12:08.03,0:12:12.41,Default,ko,0,0,0,,{\i1}언젠가는 내가 제일이 되어 웃음거리로 삼아 주겠소!
 Dialogue: 0,0:12:08.03,0:12:12.41,Default,en,0,0,0,,{\i1}Some day, I'll become the best and make him a laughingstock-{\i0}dasu{\i1}!
 Dialogue: 0,0:12:14.10,0:12:15.99,Default,ko,0,0,0,,배고프오...
@@ -343,7 +343,7 @@ Dialogue: 0,0:12:27.55,0:12:29.55,Default,en,0,0,0,,Never, even if I have to die
 Dialogue: 0,0:12:29.79,0:12:33.01,Default,ko,0,0,0,,오? 그 근성만은 칭찬해 주지.
 Dialogue: 0,0:12:29.79,0:12:33.01,Default,en,0,0,0,,Oh? I praise your determination and determination alone.
 Dialogue: 0,0:12:33.26,0:12:37.40,Default,ko,0,0,0,,당연하오! 난 지팡구 제일의 무예가로...
-Dialogue: 0,0:12:33.26,0:12:37.40,Default,en,0,0,0,,Of course-{\i1}dasu{\i0}! I will become the best Martial Artist of Jipangu...
+Dialogue: 0,0:12:33.26,0:12:37.40,Default,en,0,0,0,,Of course-{\i1}dasu{\i0}! I will become the best martial artist of Jipangu...
 Dialogue: 0,0:12:41.18,0:12:48.68,Default,ko,0,0,0,,세상은 넓다! 너 따위는 저 우물 안 개구리보다도 세상에 물정에 어두운 주제에 힘 자랑이고 실력 자랑이고 하는 게 구리터분하다!
 Dialogue: 0,0:12:41.18,0:12:45.70,Default,en,0,0,0,,The world is broad! You are even more ignorant of the ways of the world than those frogs in the well,
 Dialogue: 0,0:12:45.70,0:12:48.68,Default,en,0,0,0,,yet you show off your strength and skills. Such an intolerable attitude!
@@ -370,7 +370,7 @@ Dialogue: 0,0:13:35.42,0:13:37.77,Default,en,0,0,0,,I don't do that-{\i1}dasu{\i
 Dialogue: 0,0:13:38.31,0:13:39.21,Default,ko,0,0,0,,무사시 씨!
 Dialogue: 0,0:13:38.31,0:13:39.21,Default,en,0,0,0,,Musashi!
 Dialogue: 0,0:13:39.58,0:13:45.65,Default,ko,0,0,0,,지팡구 제일의 무예가가 되기 위해선 어떤 아픈 일에도 꺾이지 않소!
-Dialogue: 0,0:13:39.58,0:13:45.65,Default,en,0,0,0,,To become the number one Martial Artist of Jipangu, I will never break down, no matter what-{\i1}dasu{\i0}!
+Dialogue: 0,0:13:39.58,0:13:45.65,Default,en,0,0,0,,To become the number one martial artist of Jipangu, I will never break down, no matter what-{\i1}dasu{\i0}!
 Dialogue: 0,0:13:47.02,0:13:49.32,Default,ko,0,0,0,,그것이 사내라는 것이오!
 Dialogue: 0,0:13:47.02,0:13:49.32,Default,en,0,0,0,,That's what it means to be a man-{\i1}dasu{\i0}!
 Dialogue: 0,0:13:51.67,0:13:53.22,Default,ko,0,0,0,,주먹밥 만들어 왔어요.
@@ -484,7 +484,7 @@ Dialogue: 0,0:18:31.89,0:18:32.42,Default,en,0,0,0,,Quick!
 Dialogue: 0,0:18:34.66,0:18:36.50,Default,ko,0,0,0,,꼭 꿈을 이루세요!
 Dialogue: 0,0:18:34.66,0:18:36.50,Default,en,0,0,0,,Follow your dreams.
 Dialogue: 0,0:18:36.98,0:18:41.37,Default,ko,0,0,0,,고맙소. 전 꼭 지팡구 제일의 무예가가 되겠소!
-Dialogue: 0,0:18:36.98,0:18:41.37,Default,en,0,0,0,,Thank you. I will definitely become the number one Martial Artist of Jipangu-{\i1}dasu{\i0}!
+Dialogue: 0,0:18:36.98,0:18:41.37,Default,en,0,0,0,,Thank you. I will definitely become the number one martial artist of Jipangu-{\i1}dasu{\i0}!
 Dialogue: 0,0:18:42.09,0:18:44.71,Default,ko,0,0,0,,오츠루 씨, 저... 저...
 Dialogue: 0,0:18:42.09,0:18:44.71,Default,en,0,0,0,,Otsuru, I... I...
 Dialogue: 0,0:18:44.71,0:18:45.83,Default,ko,0,0,0,,네, 뭐에요?
@@ -496,7 +496,7 @@ Dialogue: 0,0:18:52.75,0:18:56.51,Default,en,0,0,0,,Stay well, Musashi!
 Dialogue: 0,0:18:56.97,0:18:59.92,Default,ko,0,0,0,,무사시 씨!
 Dialogue: 0,0:18:56.97,0:18:59.92,Default,en,0,0,0,,Musashi!
 Dialogue: 0,0:19:01.50,0:19:06.84,Default,ko,0,0,0,,{\i1}나, 최강의 무예가가 된다면 꼭 오츠루 씨를 부인으로 맞이하겠소!
-Dialogue: 0,0:19:01.50,0:19:06.84,Default,en,0,0,0,,{\i1}When I manage to become the number one Martial Artist, I will definitely marry Otsuru-{\i0}dasu{\i1}!
+Dialogue: 0,0:19:01.50,0:19:06.84,Default,en,0,0,0,,{\i1}When I manage to become the number one martial artist, I will marry Otsuru-{\i0}dasu{\i1}!
 Dialogue: 0,0:19:07.18,0:19:10.08,Default,ko,0,0,0,,{\i1}그 때까지 기다려 주시오!
 Dialogue: 0,0:19:07.18,0:19:10.08,Default,en,0,0,0,,{\i1}Please wait until then-{\i0}dasu{\i1}!
 Dialogue: 0,0:19:25.32,0:19:29.08,Default,ko,0,0,0,,오츠루 씨가 만들어 준 주먹밥 정말 맛있소!
@@ -538,7 +538,7 @@ Dialogue: 0,0:20:40.27,0:20:45.06,Default,en,0,0,0,,What shall I call someone wh
 Dialogue: 0,0:20:45.27,0:20:46.24,Default,ko,0,0,0,,기막힌 놈이구나!
 Dialogue: 0,0:20:45.27,0:20:46.24,Default,en,0,0,0,,How astonishing!
 Dialogue: 0,0:20:46.82,0:20:51.52,Default,ko,0,0,0,,좋소! 이름 있는 무예가라면 내가 쓰러뜨려 이름을 세우겠소!
-Dialogue: 0,0:20:46.82,0:20:51.52,Default,en,0,0,0,,Fine-{\i1}dasu{\i0}! If you're a famous Martial Artist, then I will take you down and make myself famous-{\i1}dasu{\i0}!
+Dialogue: 0,0:20:46.82,0:20:51.52,Default,en,0,0,0,,Fine-{\i1}dasu{\i0}! If you're a famous martial artist, then I will take you down and make myself famous-{\i1}dasu{\i0}!
 Dialogue: 0,0:20:51.85,0:20:55.76,Default,ko,0,0,0,,좋다! 무예의 길이란 얼마나 혹독한 것인지 알려 주겠다!
 Dialogue: 0,0:20:51.85,0:20:55.76,Default,en,0,0,0,,Sure! I'll show you how relentless is the path of martial arts!
 Dialogue: 0,0:20:55.98,0:20:57.46,Default,ko,0,0,0,,무사시 등장!

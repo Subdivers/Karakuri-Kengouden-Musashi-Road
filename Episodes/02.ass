@@ -48,9 +48,9 @@ Dialogue: 0,0:00:04.44,0:00:06.57,Default,en,0,0,0,,It is the turbulent Sengoku 
 Dialogue: 0,0:00:07.07,0:00:11.89,Default,ko,0,0,0,,카라쿠리인이 사는 지팡구국에서는 군웅할거하여 밤낮으로 접전이 계속되고
 Dialogue: 0,0:00:07.07,0:00:11.89,Default,en,0,0,0,,Warlords keep on fighting day and night over\NJipangu State, where Karakuri people live.
 Dialogue: 0,0:00:11.89,0:00:16.84,Default,ko,0,0,0,,카라쿠리 무예가들도 승리와 영광을 꿈꾸며 맹렬히 싸우고 있었다.
-Dialogue: 0,0:00:11.89,0:00:16.84,Default,en,0,0,0,,Karakuri Martial Artists were sharpening their swords, dreaming of victory and honor.
+Dialogue: 0,0:00:11.89,0:00:16.84,Default,en,0,0,0,,Karakuri martial artists were sharpening their swords, dreaming of victory and honor.
 Dialogue: 0,0:00:16.84,0:00:23.57,Default,ko,0,0,0,,그리고 지금, 카라쿠리 무예가 제일을 꿈꾸는 터무니없는 영웅이 탄생했다!
-Dialogue: 0,0:00:16.84,0:00:23.57,Default,en,0,0,0,,And now, a wild hero has arrived, seeking to be the number one Karakuri Martial Artist!
+Dialogue: 0,0:00:16.84,0:00:23.57,Default,en,0,0,0,,And now, a wild hero has arrived, seeking to be the number one Karakuri martial artist!
 Dialogue: 0,0:00:24.43,0:00:27.16,Default,ko,0,0,0,,무사시 등장이오!
 Dialogue: 0,0:00:24.43,0:00:27.16,Default,en,0,0,0,,Musashi is here-{\i1}dasu{\i0}!
 Dialogue: 0,0:00:28.00,0:00:33.18,TitleOP,ko,0,0,40,,카라쿠리 검호전: 무사시 로드
@@ -183,7 +183,7 @@ Dialogue: 0,0:05:21.66,0:05:22.49,Default,en,0,0,0,,What the?
 Dialogue: 0,0:05:26.99,0:05:28.43,Default,ko,0,0,0,,뭐, 뭐냐, 네놈은!
 Dialogue: 0,0:05:26.99,0:05:28.43,Default,en,0,0,0,,Who are you?!
 Dialogue: 0,0:05:29.07,0:05:31.95,Default,ko,0,0,0,,지팡구 제일의 무예가가 될!
-Dialogue: 0,0:05:29.07,0:05:31.95,Default,en,0,0,0,,The future number one Martial Artist of Jipangu!
+Dialogue: 0,0:05:29.07,0:05:31.95,Default,en,0,0,0,,The future number one martial artist of Jipangu!
 Dialogue: 0,0:05:32.63,0:05:34.54,Default,ko,0,0,0,,미야모토 마을의
 Dialogue: 0,0:05:32.63,0:05:34.54,Default,en,0,0,0,,From Miyamaoto village,
 Dialogue: 0,0:05:35.10,0:05:36.73,Default,ko,0,0,0,,무사시라고 하오!
@@ -230,7 +230,7 @@ Dialogue: 0,0:06:59.42,0:07:00.59,Default,en,0,0,0,,That dish!
 Dialogue: 0,0:07:01.07,0:07:02.76,Default,ko,0,0,0,,과연 살아서 먹을 수 있을까.
 Dialogue: 0,0:07:01.07,0:07:02.76,Default,en,0,0,0,,Will you be able to eat it alive?
 Dialogue: 0,0:07:12.37,0:07:15.33,NoteOnAnime,ko,0,0,70,,세쥬로
-Dialogue: 0,0:07:12.37,0:07:15.33,NoteOnAnime,en,0,0,70,,Seijūrō
+Dialogue: 0,0:07:12.37,0:07:15.33,NoteOnAnime,en,0,0,70,,Sējūrō
 Dialogue: 0,0:07:12.87,0:07:15.33,Default,ko,0,0,0,,어이, 거기. 뭐라고 말 좀 해봐라.
 Dialogue: 0,0:07:12.87,0:07:15.33,Default,en,0,0,0,,Hey, you. Say something.
 Dialogue: 0,0:07:15.64,0:07:17.95,Default,ko,0,0,0,,알고 싶으면 먼저 이름을 대시오.
@@ -238,9 +238,9 @@ Dialogue: 0,0:07:15.64,0:07:17.95,Default,en,0,0,0,,Tell me your name first if y
 Dialogue: 0,0:07:18.76,0:07:20.02,Default,ko,0,0,0,,뭐라고?!
 Dialogue: 0,0:07:18.76,0:07:20.02,Default,en,0,0,0,,What did you say?!
 Dialogue: 0,0:07:24.21,0:07:28.33,Default,ko,0,0,0,,난 요시오카. 요시오카 세쥬로!
-Dialogue: 0,0:07:24.21,0:07:28.33,Default,en,0,0,0,,I am Yoshioka. Yoshioka Seijūrō!
+Dialogue: 0,0:07:24.21,0:07:28.33,Default,en,0,0,0,,I am Yoshioka. Yoshioka Sējūrō!
 Dialogue: 0,0:07:28.87,0:07:31.44,Default,ko,0,0,0,,요시오카 세쥬로!
-Dialogue: 0,0:07:28.87,0:07:31.44,Default,en,0,0,0,,Yoshioka Seijūrō!
+Dialogue: 0,0:07:28.87,0:07:31.44,Default,en,0,0,0,,Yoshioka Sējūrō!
 Dialogue: 0,0:07:31.87,0:07:36.51,Default,ko,0,0,0,,수도에서 오신 요시오카 가문의 대선생의 자제분으로 우리들의 스승이시다!
 Dialogue: 0,0:07:31.87,0:07:36.51,Default,en,0,0,0,,He is our master who is a son of the master of Yoshioka clan from Miyako!
 Dialogue: 0,0:07:36.53,0:07:43.50,Default,ko,0,0,0,,요시오카 도장 지부가 여기 오카야마에 문을 연 이후 처음으로 특별히 경고하러 오셨다!
@@ -270,7 +270,7 @@ Dialogue: 0,0:08:43.90,0:08:49.27,Default,en,0,0,0,,Damn you! Damn you! Damn you
 Dialogue: 0,0:09:07.60,0:09:08.95,Default,ko,0,0,0,,칼등이다.
 Dialogue: 0,0:09:07.60,0:09:08.95,Default,en,0,0,0,,That's a back side of my sword.
 Dialogue: 0,0:09:12.15,0:09:14.92,Default,ko,0,0,0,,역시 세쥬로 님!
-Dialogue: 0,0:09:12.15,0:09:14.92,Default,en,0,0,0,,That's our master Seijūrō!
+Dialogue: 0,0:09:12.15,0:09:14.92,Default,en,0,0,0,,That's our master Sējūrō!
 Dialogue: 0,0:09:15.29,0:09:15.94,Default,ko,0,0,0,,무사시!
 Dialogue: 0,0:09:15.29,0:09:15.94,Default,en,0,0,0,,Musashi!
 Dialogue: 0,0:09:20.73,0:09:22.34,Default,ko,0,0,0,,흥. 입만 큰 녀석.
@@ -393,7 +393,7 @@ Dialogue: 0,0:13:49.90,0:13:51.45,Default,en,0,0,0,,Aren't all trainings painful
 Dialogue: 0,0:13:51.77,0:13:53.03,Default,ko,0,0,0,,어? 뭐, 그렇지.
 Dialogue: 0,0:13:51.77,0:13:53.03,Default,en,0,0,0,,Huh? Well, I guess.
 Dialogue: 0,0:13:53.27,0:13:59.93,Default,ko,0,0,0,,지팡구 제일의 무예가가 되기 위해서라면 불 속이든 물 속이든 어디든 어떤 쓰라린 수련이라도 받아 보이겠소!
-Dialogue: 0,0:13:53.27,0:13:55.84,Default,en,0,0,0,,To become the number one Martial Artist of Jipangu,
+Dialogue: 0,0:13:53.27,0:13:55.84,Default,en,0,0,0,,To become the number one martial artist of Jipangu,
 Dialogue: 0,0:13:55.84,0:13:59.93,Default,en,0,0,0,,I'll do my best for any training no matter how painful it is - in water or in fire-{\i1}dasu{\i0}!
 Dialogue: 0,0:13:59.93,0:14:05.75,Default,ko,0,0,0,,알겠소? 어떤 어려운 상대라도 구름 머얼리... 날려 주겠소.
 Dialogue: 0,0:13:59.93,0:14:05.75,Default,en,0,0,0,,Got it? No matter what kind of opponent is, I'll hit him hard and make him fly... over the cloud-{\i1}dasu{\i0}.
