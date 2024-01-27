@@ -82,7 +82,7 @@ Dialogue: 0,0:01:45.62,0:01:50.84,SongOP,ko,0,0,0,,미간이 반짝였다 무사
 Dialogue: 0,0:01:45.62,0:01:50.84,SongOP,en,0,0,0,,His eyes shined! Musashi!
 Comment: 0,0:01:59.51,0:02:08.18,Default,ja,0,0,0,,地獄谷へ落ちてしまったムサシ。一同の必死の看病もむなしく、団子の匂いに誘われたムサシは死んでしまった。
 Dialogue: 0,0:01:59.51,0:02:08.18,Default,ko,0,0,0,,지고쿠다니에 떨어지고 만 무사시. 일동의 필사적인 간병에도 불구하고 단고 냄새에 끌려버린 무사시는 죽고 말았다.
-Dialogue: 0,0:01:59.51,0:02:08.18,Default,en,0,0,0,,Musashi fell into Jigokudani. Despite everyone's nursing, Musashi was lured by dango's smell and died.
+Dialogue: 0,0:01:59.51,0:02:08.18,Default,en,0,0,0,,Musashi fell into Jigokudani. Despite everyone's nursing, Musashi was lured by {\i1}dango{\i0}'s smell and died.
 Comment: 0,0:02:08.50,0:02:12.77,Default,ja,0,0,0,,しかし、地獄で再開したのは懐かしいイシマツであった。
 Dialogue: 0,0:02:08.50,0:02:12.77,Default,ko,0,0,0,,그러나 지옥에서 재회한 건 그리운 이시마츠였다.
 Dialogue: 0,0:02:08.50,0:02:12.77,Default,en,0,0,0,,But who he met in hell was deary Ishimatsu.

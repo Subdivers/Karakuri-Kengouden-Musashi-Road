@@ -209,7 +209,7 @@ Dialogue: 0,0:04:23.49,0:04:26.15,Default,ko,0,0,0,,무예가 주제에 되는 �
 Dialogue: 0,0:04:23.49,0:04:26.15,Default,en,0,0,0,,For a martial artist, he's trying his best to be disgraceful.
 Comment: 0,0:04:26.67,0:04:32.13,Default,ja,0,0,0,,頑張れ、ムサシ！賞金もらったらお祝いにみんなでお団子食べましょう！
 Dialogue: 0,0:04:26.67,0:04:32.13,Default,ko,0,0,0,,힘내, 무사시! 상금 받으면 축하로 다 같이 단고 먹자!
-Dialogue: 0,0:04:26.67,0:04:32.13,Default,en,0,0,0,,You can do it, Musashi! Let's have a dango party if you win!
+Dialogue: 0,0:04:26.67,0:04:32.13,Default,en,0,0,0,,You can do it, Musashi! Let's have a {\i1}dango{\i0} party if you win!
 Comment: 0,0:04:38.55,0:04:41.08,Default,ja,0,0,0,,くそ、よく食いやがるな！
 Dialogue: 0,0:04:38.55,0:04:41.08,Default,ko,0,0,0,,{\i1}제기랄, 잘도 쳐먹네!
 Dialogue: 0,0:04:38.55,0:04:41.08,Default,en,0,0,0,,{\i1}Damn, he's such an extreme eater!
@@ -706,13 +706,13 @@ Dialogue: 0,0:16:00.28,0:16:02.50,Default,ko,0,0,0,,사이고 씨, 당신이라�
 Dialogue: 0,0:16:00.28,0:16:02.50,Default,en,0,0,0,,Mr. Saigo, who are you?!
 Comment: 0,0:16:02.75,0:16:08.96,Default,ja,0,0,0,,おはんは、昼間のお団子君ではないでごわすか。変な所から出てきて何をするでゴわす！
 Dialogue: 0,0:16:02.75,0:16:08.96,Default,ko,0,0,0,,그대는 낮에 단고 군이군. 이상한 곳에서 튀어나와 뭔 짓이냐!
-Dialogue: 0,0:16:02.75,0:16:08.96,Default,en,0,0,0,,You are that dango boy I saw during the day-{\i1}gowasu{\i0}. What are you doing, springing out from a weird place-{\i1}gowasu{\i0}?!
+Dialogue: 0,0:16:02.75,0:16:08.96,Default,en,0,0,0,,You are that {\i1}dango{\i0} boy I saw during the day-{\i1}gowasu{\i0}. What are you doing, springing out from a weird place-{\i1}gowasu{\i0}?!
 Comment: 0,0:16:09.27,0:16:15.30,Default,ja,0,0,0,,おいら、あんた、いい人だと思っていただスが、不知火の仲間だったとはがっかりしたでござるだす！
 Dialogue: 0,0:16:09.27,0:16:15.30,Default,ko,0,0,0,,나, 당신, 좋은 사람이라 생각했지만 시라누이의 동료라니 놀랐소!
 Dialogue: 0,0:16:09.27,0:16:15.30,Default,en,0,0,0,,I thought you were a good guy, but I was surprised when I realized you are Shiranui's comrade-{\i1}dasu{\i0}!
 Comment: 0,0:16:15.54,0:16:21.18,Default,ja,0,0,0,,ちょ、ちょっとまってくれ、お団子君。おいどんにはなんのことがさっぱりわからないでゴわす。
 Dialogue: 0,0:16:15.54,0:16:21.18,Default,ko,0,0,0,,자, 잠깐만, 단고 군. 난 그대가 뭔 말을 하고 있는지 전혀 모르겠다.
-Dialogue: 0,0:16:15.54,0:16:21.18,Default,en,0,0,0,,J- just a moment, dango guy-{\i1}gowasu{\i0}. I do not get what you're talking about at all-{\i1}gowasu{\i0}.
+Dialogue: 0,0:16:15.54,0:16:21.18,Default,en,0,0,0,,J- just a moment, {\i1}dango{\i0} guy-{\i1}gowasu{\i0}. I do not get what you're talking about at all-{\i1}gowasu{\i0}.
 Comment: 0,0:16:21.96,0:16:28.03,Default,ja,0,0,0,,えい、この期に及んでまだ白を切るつもりだスか！往生際の悪い奴でござるダス！
 Dialogue: 0,0:16:21.96,0:16:28.03,Default,ko,0,0,0,,에잇, 이 마당에 와서 아직 시치미 뗄 생각이오! 깨끗히 죽지 못하는 놈이오!
 Dialogue: 0,0:16:21.96,0:16:28.03,Default,en,0,0,0,,Are you still trying to play innocent at the last moment-{\i1}dasu{\i0}?! Know when to give up-{\i1}dasu{\i0}!
@@ -907,7 +907,7 @@ Dialogue: 0,0:21:37.94,0:21:42.57,Default,ko,0,0,0,,아, 마침 적당하게 구
 Dialogue: 0,0:21:37.94,0:21:42.57,Default,en,0,0,0,,It is a big relief that we could rescue you in time-{\i1}dasu{\i0}, Sen-chan and Kojirō!
 Comment: 0,0:21:42.87,0:21:47.87,Default,ja,0,0,0,,ふん！こんな目にあったのも、元後を言えばお前が団子の早食いなどに出たからだぞ！
 Dialogue: 0,0:21:42.87,0:21:47.87,Default,ko,0,0,0,,흥! 이런 꼴이 된 것도 애초에 네놈이 단고 빨리 먹기를 해서 그런 것이다!
-Dialogue: 0,0:21:42.87,0:21:47.87,Default,en,0,0,0,,Hmph! This also is because you ate dangos quickly at the first place!
+Dialogue: 0,0:21:42.87,0:21:47.87,Default,en,0,0,0,,Hmph! This also is because you ate {\i1}dango{\i0}s quickly at the first place!
 Comment: 0,0:21:48.29,0:21:49.29,Default,ja,0,0,0,,なんだスと？！
 Dialogue: 0,0:21:48.29,0:21:49.29,Default,ko,0,0,0,,뭣이오?!
 Dialogue: 0,0:21:48.29,0:21:49.29,Default,en,0,0,0,,What-{\i1}dasu{\i0}?!

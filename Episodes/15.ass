@@ -554,7 +554,7 @@ Dialogue: 0,0:13:17.80,0:13:19.75,Default,ko,0,0,0,,분명 책임감 때문일�
 Dialogue: 0,0:13:17.80,0:13:19.75,Default,en,0,0,0,,Must be his sense of responsibility.
 Comment: 0,0:13:20.29,0:13:22.48,Default,ja,0,0,0,,残りのお団子、持って行ってあげましょう。
 Dialogue: 0,0:13:20.29,0:13:22.48,Default,ko,0,0,0,,남은 단고는 가지고 가자.
-Dialogue: 0,0:13:20.29,0:13:22.48,Default,en,0,0,0,,Let's bvring the leftover dangos.
+Dialogue: 0,0:13:20.29,0:13:22.48,Default,en,0,0,0,,Let's bvring the leftover {\i1}dango{\i0}s.
 Comment: 0,0:13:22.48,0:13:23.08,Default,ja,0,0,0,,は。
 Dialogue: 0,0:13:22.48,0:13:23.08,Default,ko,0,0,0,,예.
 Dialogue: 0,0:13:22.48,0:13:23.08,Default,en,0,0,0,,Right.
@@ -572,7 +572,7 @@ Dialogue: 0,0:13:34.32,0:13:36.94,Default,ko,0,0,0,,그래! 그래서 흥미롭�
 Dialogue: 0,0:13:34.32,0:13:36.94,Default,en,0,0,0,,Yeah! Isn't that interesting?
 Comment: 0,0:13:37.56,0:13:41.21,Default,ja,0,0,0,,すみません！残りのお団子包んでください！
 Dialogue: 0,0:13:37.56,0:13:41.21,Default,ko,0,0,0,,저기요! 남은 단고는 포장해 주세요!
-Dialogue: 0,0:13:37.56,0:13:41.21,Default,en,0,0,0,,Excuse me! Please wrap the leftover dangos!
+Dialogue: 0,0:13:37.56,0:13:41.21,Default,en,0,0,0,,Excuse me! Please wrap the leftover {\i1}dango{\i0}s!
 Comment: 0,0:13:41.21,0:13:43.99,Default,ja,0,0,0,,私の方がよっぽどハンサムだと思うが。。。
 Dialogue: 0,0:13:41.21,0:13:43.99,Default,ko,0,0,0,,내가 훨씬 잘생겼다 생각하지만...
 Dialogue: 0,0:13:41.21,0:13:43.99,Default,en,0,0,0,,I think I am a whole lot more handsome...

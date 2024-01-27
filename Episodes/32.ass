@@ -160,7 +160,7 @@ Dialogue: 0,0:03:45.30,0:03:50.07,Default,ko,0,0,0,,함께 시라누이를 쓰�
 Dialogue: 0,0:03:45.30,0:03:50.07,Default,en,0,0,0,,You said we're going to take Shiranui down together! You said you're gonna be a champion in the martial arts competition!
 Comment: 0,0:03:50.94,0:03:55.21,Default,ja,0,0,0,,お団子５００皿に出戦するってやつの～じゃない！
 Dialogue: 0,0:03:50.94,0:03:55.21,Default,ko,0,0,0,,단고 500그릇 먹기에 도전한 놈답지 않잖아!
-Dialogue: 0,0:03:50.94,0:03:55.21,Default,en,0,0,0,,That is not expected from someone who can eat 500 dishes of dangos at once!
+Dialogue: 0,0:03:50.94,0:03:55.21,Default,en,0,0,0,,That is not expected from someone who can eat 500 dishes of {\i1}dango{\i0}s at once!
 Comment: 0,0:03:55.21,0:03:57.61,Default,ja,0,0,0,,このままで死んじゃったら許せないから！
 Dialogue: 0,0:03:55.21,0:03:57.61,Default,ko,0,0,0,,이대로 죽으면 용서하지 않을 거야!
 Dialogue: 0,0:03:55.21,0:03:57.61,Default,en,0,0,0,,I won't forgive you if you die like this!
@@ -220,7 +220,7 @@ Dialogue: 0,0:05:11.76,0:05:13.55,Default,ko,0,0,0,,좋은 냄새가 나오!
 Dialogue: 0,0:05:11.76,0:05:13.55,Default,en,0,0,0,,That's a good smell-{\i1}dasu{\i0}!
 Comment: 0,0:05:17.66,0:05:22.54,Default,ja,0,0,0,,うわ、お団子の花だす！ヤフー！
 Dialogue: 0,0:05:17.66,0:05:22.54,Default,ko,0,0,0,,우와, 단고 꽃이오! 이얏호!
-Dialogue: 0,0:05:17.66,0:05:22.54,Default,en,0,0,0,,Those are dango flowers-{\i1}dasu{\i0}! Yeah!
+Dialogue: 0,0:05:17.66,0:05:22.54,Default,en,0,0,0,,Those are {\i1}dango{\i0} flowers-{\i1}dasu{\i0}! Yeah!
 Comment: 0,0:05:28.95,0:05:30.36,Default,ja,0,0,0,,ご臨終です。
 Dialogue: 0,0:05:28.95,0:05:30.36,Default,ko,0,0,0,,임종입니다.
 Dialogue: 0,0:05:28.95,0:05:30.36,Default,en,0,0,0,,He has passed away.
@@ -256,7 +256,7 @@ Dialogue: 0,0:06:10.92,0:06:11.87,Default,ko,0,0,0,,파티?
 Dialogue: 0,0:06:10.92,0:06:11.87,Default,en,0,0,0,,Party?
 Comment: 0,0:06:14.07,0:06:15.48,Default,ja,0,0,0,,あ、でも、お団子が！
 Dialogue: 0,0:06:14.07,0:06:15.48,Default,ko,0,0,0,,그래도 단고...!
-Dialogue: 0,0:06:14.07,0:06:15.48,Default,en,0,0,0,,But the dangos...!
+Dialogue: 0,0:06:14.07,0:06:15.48,Default,en,0,0,0,,But the {\i1}dango{\i0}s...!
 Comment: 0,0:06:15.74,0:06:18.35,Default,ja,0,0,0,,ごちそうもたくさん用意してありますのよ！
 Dialogue: 0,0:06:15.74,0:06:18.35,Default,ko,0,0,0,,먹을거리도 잔뜩 준비되어 있어요!
 Dialogue: 0,0:06:15.74,0:06:18.35,Default,en,0,0,0,,There will be food that you can eat!
@@ -888,7 +888,7 @@ Dialogue: 0,0:23:45.96,0:23:51.55,SongED1,ko,0,0,0,,양손을 벌리고 웃고 �
 Dialogue: 0,0:23:45.96,0:23:51.55,SongED1,en,0,0,0,,is opening its hands and smiling at us!
 Comment: 0,0:24:05.16,0:24:11.23,Default,ja,0,0,0,,生き返ってよかっただす！お団子もいっぱい食べられるだすね。おいら、幸せもんだす。
 Dialogue: 0,0:24:05.16,0:24:11.23,Default,ko,0,0,0,,살아돌아와 다행이오! 단고도 잔뜩 먹어서 정말 기쁘오!
-Dialogue: 0,0:24:05.16,0:24:11.23,Default,en,0,0,0,,It is great to be revived-{\i1}dasu{\i0}! After eating lots of dangos, I'm so happy-{\i1}dasu{\i0}!
+Dialogue: 0,0:24:05.16,0:24:11.23,Default,en,0,0,0,,It is great to be revived-{\i1}dasu{\i0}! After eating lots of {\i1}dango{\i0}s, I'm so happy-{\i1}dasu{\i0}!
 Comment: 0,0:24:11.79,0:24:15.54,Default,ja,0,0,0,,しかし、不知火の連中からまたおいらたちを襲ってきたダス。
 Dialogue: 0,0:24:11.79,0:24:15.54,Default,ko,0,0,0,,그런데 시라누이 놈들, 또 우리한테 덤비러 왔소.
 Dialogue: 0,0:24:11.79,0:24:15.54,Default,en,0,0,0,,But those Shiranui bastards came to attack us again-{\i1}dasu{\i0}!

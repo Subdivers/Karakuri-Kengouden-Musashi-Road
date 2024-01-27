@@ -405,10 +405,10 @@ Dialogue: 0,0:09:09.08,0:09:10.99,Default,ko,0,0,0,,그러니까, 걱정스럽�
 Dialogue: 0,0:09:09.08,0:09:10.99,Default,en,0,0,0,,I was worried, you know.
 Comment: 0,0:09:11.29,0:09:12.37,Default,ja,0,0,0,,はい、お団子！
 Dialogue: 0,0:09:11.29,0:09:12.37,Default,ko,0,0,0,,여기, 단고!
-Dialogue: 0,0:09:11.29,0:09:12.37,Default,en,0,0,0,,Here's your dangos!
+Dialogue: 0,0:09:11.29,0:09:12.37,Default,en,0,0,0,,Here's your {\i1}dango{\i0}s!
 Comment: 0,0:09:12.90,0:09:16.26,Default,ja,0,0,0,,おいらのために団子もって来てくれて幸せだス！
 Dialogue: 0,0:09:12.90,0:09:16.26,Default,ko,0,0,0,,날 위해서 단고를 가져와 주다니 행복하오!
-Dialogue: 0,0:09:12.90,0:09:16.26,Default,en,0,0,0,,I'm so happy that you brought dangos for me-dasu!
+Dialogue: 0,0:09:12.90,0:09:16.26,Default,en,0,0,0,,I'm so happy that you brought {\i1}dango{\i0}s for me-dasu!
 Comment: 0,0:09:17.71,0:09:21.85,Default,ja,0,0,0,,ムサシさん、私も一緒に連れて行って。
 Dialogue: 0,0:09:17.71,0:09:21.85,Default,ko,0,0,0,,무사시 씨, 나도 같이 갈래.
 Dialogue: 0,0:09:17.71,0:09:21.85,Default,en,0,0,0,,Mr. Musashi, I'd like to go with you.
@@ -420,8 +420,8 @@ Dialogue: 0,0:09:26.13,0:09:27.05,Default,ko,0,0,0,,오츠루!
 Dialogue: 0,0:09:26.13,0:09:27.05,Default,en,0,0,0,,Otsuru!
 Comment: 0,0:09:27.48,0:09:36.34,Default,ja,0,0,0,,それにね、ケロ吉君がお団子の屋台は運んでくれたの！だから、毎日いくらでもお団子作ってあげられるのよ。皆さんもどうぞ。
 Dialogue: 0,0:09:27.48,0:09:36.34,Default,ko,0,0,0,,게다가, 케로키치 군이 단고 판매대도 옮겨 줬어! 그러니까 매일 얼마든지 단고 만들어 줄 수 있어. 모두 먹을 수 있고!
-Dialogue: 0,0:09:27.48,0:09:31.49,Default,en,0,0,0,,Moreover, Kerokichi brought dango stand, too!
-Dialogue: 0,0:09:31.49,0:09:36.34,Default,en,0,0,0,,Therefore you can have dangos as much as you want every day! Everyone can eat, too!
+Dialogue: 0,0:09:27.48,0:09:31.49,Default,en,0,0,0,,Moreover, Kerokichi brought {\i1}dango{\i0} stand, too!
+Dialogue: 0,0:09:31.49,0:09:36.34,Default,en,0,0,0,,Therefore you can have {\i1}dango{\i0}s as much as you want every day! Everyone can eat, too!
 Comment: 0,0:09:36.34,0:09:38.62,Default,ja,0,0,0,,おい、そりゃいいや！
 Dialogue: 0,0:09:36.34,0:09:38.62,Default,ko,0,0,0,,오, 그거 좋네!
 Dialogue: 0,0:09:36.34,0:09:38.62,Default,en,0,0,0,,That's good to know!

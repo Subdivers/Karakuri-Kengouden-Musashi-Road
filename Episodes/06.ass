@@ -193,11 +193,11 @@ Dialogue: 0,0:05:48.92,0:05:51.55,Default,en,0,0,0,,Then I'll accept-{\i1}dasu{\
 Dialogue: 0,0:05:52.27,0:05:58.14,Default,ko,0,0,0,,자, 자, 저기에 찻집이 보입니다. 단고라도 드실 동안 대선생의 말씀을 생각하고 싶습니다.
 Dialogue: 0,0:05:52.27,0:05:58.14,Default,en,0,0,0,,I see a tea house over there. I want to think about your teachings while you have some {\i1}dango{\i0}s.
 Dialogue: 0,0:05:58.14,0:05:58.93,Default,ko,0,0,0,,단고?!
-Dialogue: 0,0:05:58.14,0:05:58.93,Default,en,0,0,0,,Dango?!
+Dialogue: 0,0:05:58.14,0:05:58.93,Default,en,0,0,0,,{\i1}Dango{\i0}?!
 Dialogue: 0,0:06:01.64,0:06:08.51,Default,ko,0,0,0,,어, 어쩔 수가 없소. 단고에는 눈이 돌아, 아니아니, 네 열의에 눈이 돌았으니 이야기를 하겠소.
-Dialogue: 0,0:06:01.64,0:06:08.51,Default,en,0,0,0,,I can't refuse that-{\i1}dasu{\i0}. I have no eyes for dango, no, for your enthusiasm, so I'll talk with you-{\i1}dasu{\i0}.
+Dialogue: 0,0:06:01.64,0:06:08.51,Default,en,0,0,0,,I can't refuse that-{\i1}dasu{\i0}. I have no eyes for {\i1}dango{\i0}, no, for your enthusiasm, so I'll talk with you-{\i1}dasu{\i0}.
 Dialogue: 0,0:06:11.20,0:06:16.59,Default,ko,0,0,0,,이야, 역시 대선생! 단고를 먹는 방법도 참으로 사내답게 호쾌하시군요.
-Dialogue: 0,0:06:11.20,0:06:16.59,Default,en,0,0,0,,That's my master! The way you eat dangos is so manly and superb.
+Dialogue: 0,0:06:11.20,0:06:16.59,Default,en,0,0,0,,That's my master! The way you eat {\i1}dango{\i0}s is so manly and superb.
 Dialogue: 0,0:06:16.59,0:06:22.62,Default,ko,0,0,0,,응, 무예가라면 먹을 때에도 사양하면 안 되오.
 Dialogue: 0,0:06:16.59,0:06:22.62,Default,en,0,0,0,,Righ{\alphaa0}t{\alpha0}, if you a{\alphaa0}re{\alpha0} a s{\alphaa0}w{\alpha0}o{\alphaa0}rds{\alpha0}man, e{\alphaa0}ve{\alpha0}n w{\alphaa0}h{\alpha0}en you ea{\alphaa0}t{\alpha0}, you mus{\alphaa0}t{\alpha0} no{\alpha0}t {\alphaa0}b{\alpha0}e mo{\alphaa0}d{\alpha0}es{\alphaa0}t{\alpha0}.
 Dialogue: 0,0:06:22.92,0:06:25.44,Default,ko,0,0,0,,그렇군요. 훌륭한 마음으로...
@@ -451,7 +451,7 @@ Dialogue: 0,0:15:27.37,0:15:31.30,Default,en,0,0,0,,Here it is. Your favorite fo
 Dialogue: 0,0:15:32.80,0:15:35.27,Default,ko,0,0,0,,맛있소! 정말 맛있소!
 Dialogue: 0,0:15:32.80,0:15:35.27,Default,en,0,0,0,,So good! It's excellent-{\i1}dasu{\i0}!
 Dialogue: 0,0:15:36.09,0:15:42.21,Default,ko,0,0,0,,이건 찹쌀이나 참깨를 뿌린 벌꿀 등으로 개어서 굳힌 비상식으로 영양이 듬뿍 당긴 단고입니다.
-Dialogue: 0,0:15:36.09,0:15:42.21,Default,en,0,0,0,,These are nutritious dangos made with sticky rice, sesame, honey.
+Dialogue: 0,0:15:36.09,0:15:42.21,Default,en,0,0,0,,These are nutritious {\i1}dango{\i0}s made with sticky rice, sesame, honey.
 Dialogue: 0,0:15:42.97,0:15:45.08,Default,ko,0,0,0,,대단한 걸 가지고 있소!
 Dialogue: 0,0:15:42.97,0:15:45.08,Default,en,0,0,0,,You have awesome things-{\i1}dasu{\i0}!
 Dialogue: 0,0:15:45.90,0:15:48.35,Default,ko,0,0,0,,스승님, 진정하세요!

@@ -500,7 +500,7 @@ Dialogue: 0,0:12:52.53,0:12:53.12,Default,ko,0,0,0,,그렇지.
 Dialogue: 0,0:12:52.53,0:12:53.12,Default,en,0,0,0,,Yeah.
 Comment: 0,0:12:53.85,0:12:59.35,Default,ja,0,0,0,,これが、団子とか饅頭とか、甘い～好きだス、しょっぱいは苦手なんだス。
 Dialogue: 0,0:12:53.85,0:12:59.35,Default,ko,0,0,0,,그게, 단고나 만두 단 건 좋아하는데, 짠 건 잘 못 먹소.
-Dialogue: 0,0:12:53.85,0:12:59.35,Default,en,0,0,0,,That is, I like sweet dangos and dumplings, but not the salty ones-{\i1}dasu{\i0}.
+Dialogue: 0,0:12:53.85,0:12:59.35,Default,en,0,0,0,,That is, I like sweet {\i1}dango{\i0}s and dumplings, but not the salty ones-{\i1}dasu{\i0}.
 Comment: 0,0:12:59.35,0:13:00.16,Default,ja,0,0,0,,あ？
 Dialogue: 0,0:12:59.35,0:13:00.16,Default,ko,0,0,0,,어?
 Dialogue: 0,0:12:59.35,0:13:00.16,Default,en,0,0,0,,What?
@@ -647,10 +647,10 @@ Dialogue: 0,0:18:06.17,0:18:09.37,Default,ko,0,0,0,,자, 꼬맹아! 네 앞길�
 Dialogue: 0,0:18:06.17,0:18:09.37,Default,en,0,0,0,,Now, a hell is waiting in front of you brat!
 Comment: 0,0:18:09.81,0:18:14.83,Default,ja,0,0,0,,ふんだ！地獄に行くのはあんただス！おいらが行くのは団子やだす！
 Dialogue: 0,0:18:09.81,0:18:14.83,Default,ko,0,0,0,,흥이다! 지옥에 가는건 당신이오! 내가 가는 곳은 단고집이오!
-Dialogue: 0,0:18:09.81,0:18:14.83,Default,en,0,0,0,,That's hmph for you! You're the one to go to the hell-{\i1}dasu{\i0}! I'm going to dango store-{\i1}dasu{\i0}!
+Dialogue: 0,0:18:09.81,0:18:14.83,Default,en,0,0,0,,That's hmph for you! You're the one to go to the hell-{\i1}dasu{\i0}! I'm going to {\i1}dango{\i0} store-{\i1}dasu{\i0}!
 Comment: 0,0:18:14.88,0:18:17.14,Default,ja,0,0,0,,地獄の団子やにいきやがれ！
 Dialogue: 0,0:18:14.88,0:18:17.14,Default,ko,0,0,0,,지옥의 단고집에나 가라!
-Dialogue: 0,0:18:14.88,0:18:17.14,Default,en,0,0,0,,Then go to the dango store in hell!
+Dialogue: 0,0:18:14.88,0:18:17.14,Default,en,0,0,0,,Then go to the {\i1}dango{\i0} store in hell!
 Comment: 0,0:18:27.77,0:18:30.72,Default,ja,0,0,0,,このままではだめだ。何とかしなくては！
 Dialogue: 0,0:18:27.77,0:18:30.72,Default,ko,0,0,0,,{\i1}이대로는 안 되겠어. 어떻게든 해야...
 Dialogue: 0,0:18:27.77,0:18:30.72,Default,en,0,0,0,,{\i1}This isn't working. I must do something...

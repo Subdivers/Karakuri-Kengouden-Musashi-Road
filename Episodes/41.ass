@@ -117,7 +117,7 @@ Dialogue: 0,0:02:51.15,0:02:55.84,Default,ko,0,0,0,,늦네요. 출발 시각을 
 Dialogue: 0,0:02:51.15,0:02:55.84,Default,en,0,0,0,,He's late. It's not like he forgot the departure time.
 Comment: 0,0:02:56.61,0:03:01.58,Default,ja,0,0,0,,たぶん、オツルちゃんの茶店におって、団子でも食ってんじゃないの？
 Dialogue: 0,0:02:56.61,0:03:01.58,Default,ko,0,0,0,,분명 오츠루네 찻집에라도 들러서 단고라도 먹는거 아녀?
-Dialogue: 0,0:02:56.61,0:03:01.58,Default,en,0,0,0,,Isn't it likely that he's staying at Otsuru's tea store and eating dango?
+Dialogue: 0,0:02:56.61,0:03:01.58,Default,en,0,0,0,,Isn't it likely that he's staying at Otsuru's tea store and eating {\i1}dango{\i0}?
 Comment: 0,0:03:01.83,0:03:03.41,Default,ja,0,0,0,,うん、ありそうなことだ。
 Dialogue: 0,0:03:01.83,0:03:03.41,Default,ko,0,0,0,,그래, 있을 법한 일이다.
 Dialogue: 0,0:03:01.83,0:03:03.41,Default,en,0,0,0,,Yes, that is possible.
@@ -627,7 +627,7 @@ Dialogue: 0,0:16:26.48,0:16:27.98,Default,ko,0,0,0,,이건 뭐라 하나?
 Dialogue: 0,0:16:26.48,0:16:27.98,Default,en,0,0,0,,How do you call this?
 Comment: 0,0:16:28.63,0:16:30.33,Default,ja,0,0,0,,焼き団子でございます。
 Dialogue: 0,0:16:28.63,0:16:30.33,Default,ko,0,0,0,,구운 단고라 합니다.
-Dialogue: 0,0:16:28.63,0:16:30.33,Default,en,0,0,0,,Those are roasted dangos.
+Dialogue: 0,0:16:28.63,0:16:30.33,Default,en,0,0,0,,Those are roasted {\i1}dango{\i0}s.
 Comment: 0,0:16:31.00,0:16:32.89,Default,ja,0,0,0,,なかなか美味なものだな。
 Dialogue: 0,0:16:31.00,0:16:32.89,Default,ko,0,0,0,,꽤 맛있는 것이구나.
 Dialogue: 0,0:16:31.00,0:16:32.89,Default,en,0,0,0,,They're pretty delicious.
@@ -636,7 +636,7 @@ Dialogue: 0,0:16:33.51,0:16:35.54,Default,ko,0,0,0,,입에 맞으니 다행이�
 Dialogue: 0,0:16:33.51,0:16:35.54,Default,en,0,0,0,,Great to know that you like these.
 Comment: 0,0:16:35.81,0:16:38.91,Default,ja,0,0,0,,オツルちゃんの焼き団子はジパング一だす。
 Dialogue: 0,0:16:35.81,0:16:38.91,Default,ko,0,0,0,,오츠루의 구운 단고는 지팡구 제일이오.
-Dialogue: 0,0:16:35.81,0:16:38.91,Default,en,0,0,0,,Otsuru's roasted dangos are the best of jipang-{\i1}dasu{\i0}.
+Dialogue: 0,0:16:35.81,0:16:38.91,Default,en,0,0,0,,Otsuru's roasted {\i1}dango{\i0}s are the best of jipang-{\i1}dasu{\i0}.
 Comment: 0,0:16:39.82,0:16:42.65,Default,ja,0,0,0,,いや、なかなか本にうまい。
 Dialogue: 0,0:16:39.82,0:16:42.65,Default,ko,0,0,0,,이야, 꽤나 맛있어.
 Dialogue: 0,0:16:39.82,0:16:42.65,Default,en,0,0,0,,These are pretty delicious!
@@ -648,7 +648,7 @@ Dialogue: 0,0:16:46.32,0:16:48.24,Default,ko,0,0,0,,지금 망을 보고 있어�
 Dialogue: 0,0:16:46.32,0:16:48.24,Default,en,0,0,0,,He's working as a guard.
 Comment: 0,0:16:49.34,0:16:51.78,Default,ja,0,0,0,,じゃ、あたし、お団子もっていってあげるわ。
 Dialogue: 0,0:16:49.34,0:16:51.78,Default,ko,0,0,0,,그럼 내가 단고 가져다 주고 올게.
-Dialogue: 0,0:16:49.34,0:16:51.78,Default,en,0,0,0,,Then I'll go give him dangos.
+Dialogue: 0,0:16:49.34,0:16:51.78,Default,en,0,0,0,,Then I'll go give him {\i1}dango{\i0}s.
 Comment: 0,0:16:52.09,0:16:54.87,Default,ja,0,0,0,,千姫殿は本当に心優しいですね。
 Dialogue: 0,0:16:52.09,0:16:54.87,Default,ko,0,0,0,,센히메 님은 정말 마음이 착하시네요.
 Dialogue: 0,0:16:52.09,0:16:54.87,Default,en,0,0,0,,Senhime, you're really kind.
@@ -717,13 +717,13 @@ Dialogue: 0,0:18:53.29,0:18:55.82,Default,ko,0,0,0,,종종 상자노래방에 �
 Dialogue: 0,0:18:53.29,0:18:55.82,Default,en,0,0,0,,I often use karaoke boxes...
 Comment: 0,0:18:56.26,0:18:57.79,Default,ja,0,0,0,,はい、お団子どうぞ！
 Dialogue: 0,0:18:56.26,0:18:57.79,Default,ko,0,0,0,,여기, 단고 먹어!
-Dialogue: 0,0:18:56.26,0:18:57.79,Default,en,0,0,0,,Here! Have some dangos!
+Dialogue: 0,0:18:56.26,0:18:57.79,Default,en,0,0,0,,Here! Have some {\i1}dango{\i0}s!
 Comment: 0,0:18:57.79,0:18:59.22,Default,ja,0,0,0,,あ！いただきます！
 Dialogue: 0,0:18:57.79,0:18:59.22,Default,ko,0,0,0,,네! 잘 먹겠습니다!
 Dialogue: 0,0:18:57.79,0:18:59.22,Default,en,0,0,0,,Yes! Thank you!
 Comment: 0,0:19:02.61,0:19:04.16,Default,ja,0,0,0,,お団子に石が。。。
 Dialogue: 0,0:19:02.61,0:19:04.16,Default,ko,0,0,0,,단고에 돌이...
-Dialogue: 0,0:19:02.61,0:19:04.16,Default,en,0,0,0,,There're stones in dangos...
+Dialogue: 0,0:19:02.61,0:19:04.16,Default,en,0,0,0,,There're stones in {\i1}dango{\i0}s...
 Comment: 0,0:19:05.24,0:19:08.56,Default,ja,0,0,0,,そう？どうしてかしら、おかしいわね。
 Dialogue: 0,0:19:05.24,0:19:08.56,Default,ko,0,0,0,,그래? 왜일까, 이상하네!
 Dialogue: 0,0:19:05.24,0:19:08.56,Default,en,0,0,0,,Really? How could that be? That's weird!

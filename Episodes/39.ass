@@ -372,7 +372,7 @@ Dialogue: 0,0:09:33.54,0:09:39.61,Default,ko,0,0,0,,괜찮소! 엎드리면 코 
 Dialogue: 0,0:09:33.54,0:09:39.61,Default,en,0,0,0,,It'll be alright-{\i1}dasu{\i0}! That Edo Castle is within a stone's throw-{\i1}dasu{\i0}. I'll skip the guard duty and come see you-{\i1}dasu{\i0}!
 Comment: 0,0:09:40.87,0:09:45.49,Default,ja,0,0,0,,そうよね。あたしも毎日お団子を差し入れに行くわ。
 Dialogue: 0,0:09:40.87,0:09:45.49,Default,ko,0,0,0,,그렇네. 나도 매일 단고 보내러 갈게.
-Dialogue: 0,0:09:40.87,0:09:45.49,Default,en,0,0,0,,That's right. I'll go everyday to give you dangos!
+Dialogue: 0,0:09:40.87,0:09:45.49,Default,en,0,0,0,,That's right. I'll go everyday to give you {\i1}dango{\i0}s!
 Comment: 0,0:09:45.78,0:09:46.65,Default,ja,0,0,0,,オツルちゃん！
 Dialogue: 0,0:09:45.78,0:09:46.65,Default,ko,0,0,0,,오츠루!
 Dialogue: 0,0:09:45.78,0:09:46.65,Default,en,0,0,0,,Otsuru!
@@ -402,7 +402,7 @@ Dialogue: 0,0:10:10.07,0:10:11.89,Default,ko,0,0,0,,아니아니아니아니, �
 Dialogue: 0,0:10:10.07,0:10:11.89,Default,en,0,0,0,,Nonononono... that's...
 Comment: 0,0:10:11.89,0:10:18.03,Default,ja,0,0,0,,お団子なんか買っている場合じゃないでしょう？一刻も早くお城の戻らなくちゃならないっていうのに。
 Dialogue: 0,0:10:11.89,0:10:18.03,Default,ko,0,0,0,,단고 따위 사고 있을 때가 아니잖아? 한시라도 빨리 성에 돌아가야 하는데!
-Dialogue: 0,0:10:11.89,0:10:18.03,Default,en,0,0,0,,It's not the time to buy dangos! We have to go back to the castle as soon as possible!
+Dialogue: 0,0:10:11.89,0:10:18.03,Default,en,0,0,0,,It's not the time to buy {\i1}dango{\i0}s! We have to go back to the castle as soon as possible!
 Comment: 0,0:10:18.03,0:10:23.47,Default,ja,0,0,0,,違うダス。おいら、オツルちゃんにしばらく会えなくなるって言いに来ただけだす！
 Dialogue: 0,0:10:18.03,0:10:23.47,Default,ko,0,0,0,,아니오! 나 오츠루한테 잠시 못 만난다고 말하러 왔을 뿐이오!
 Dialogue: 0,0:10:18.03,0:10:23.47,Default,en,0,0,0,,No-{\i1}dasu{\i0}! I'm here just to tell Otsuru that I can't come to meet her for a while-{\i1}dasu{\i0}!
@@ -444,7 +444,7 @@ Dialogue: 0,0:10:59.87,0:11:01.04,Default,ko,0,0,0,,어, 오츠루!
 Dialogue: 0,0:10:59.87,0:11:01.04,Default,en,0,0,0,,Hey, Otsuru!
 Comment: 0,0:11:01.40,0:11:02.84,Default,ja,0,0,0,,オツルちゃん！お団子！
 Dialogue: 0,0:11:01.40,0:11:02.84,Default,ko,0,0,0,,오츠루! 단고!
-Dialogue: 0,0:11:01.40,0:11:02.84,Default,en,0,0,0,,Otsuru! Dangos!
+Dialogue: 0,0:11:01.40,0:11:02.84,Default,en,0,0,0,,Otsuru! {\i1}Dango{\i0}s!
 Comment: 0,0:11:02.84,0:11:03.65,Default,ja,0,0,0,,知らない！
 Dialogue: 0,0:11:02.84,0:11:03.65,Default,ko,0,0,0,,몰라!
 Dialogue: 0,0:11:02.84,0:11:03.65,Default,en,0,0,0,,I don't care!
@@ -778,7 +778,7 @@ Dialogue: 0,0:21:27.15,0:21:28.54,Default,ko,0,0,0,,자, 여기!
 Dialogue: 0,0:21:27.15,0:21:28.54,Default,en,0,0,0,,Have this!
 Comment: 0,0:21:28.60,0:21:34.05,Default,ja,0,0,0,,うわ、感激ダス！戦いの後のお団子、一番うまいダスよな！
 Dialogue: 0,0:21:28.60,0:21:34.05,Default,ko,0,0,0,,우와, 감격이오! 전투 후의 단고는 제일 맛있소!
-Dialogue: 0,0:21:28.60,0:21:34.05,Default,en,0,0,0,,I'm so deeply happy-{\i1}dasu{\i0}! Dangos after a battle are the best-{\i1}dasu{\i0}!
+Dialogue: 0,0:21:28.60,0:21:34.05,Default,en,0,0,0,,I'm so deeply happy-{\i1}dasu{\i0}! {\i1}Dango{\i0}s after a battle are the best-{\i1}dasu{\i0}!
 Comment: 0,0:21:35.98,0:21:37.18,Default,ja,0,0,0,,おせんちゃん！
 Dialogue: 0,0:21:35.98,0:21:37.18,Default,ko,0,0,0,,센짱!
 Dialogue: 0,0:21:35.98,0:21:37.18,Default,en,0,0,0,,Sen-chan!
@@ -790,7 +790,7 @@ Dialogue: 0,0:21:45.56,0:21:48.85,Default,ko,0,0,0,,아니아니, 그만하시�
 Dialogue: 0,0:21:45.56,0:21:48.85,Default,en,0,0,0,,No, no, stop it-{\i1}dasu{\i0}! Stop it-{\i1}dasu{\i0}!
 Comment: 0,0:21:50.02,0:21:54.02,Default,ja,0,0,0,,さあ、コジローさんたち、おなかすいたでしょ？お団子食べてください。
 Dialogue: 0,0:21:50.02,0:21:54.02,Default,ko,0,0,0,,자, 코지로 씨하고 여러분, 배고프시죠? 단고 드세요.
-Dialogue: 0,0:21:50.02,0:21:54.02,Default,en,0,0,0,,Now, Mr. Kojirō and everyone, you must be hungry! Have some dangos.
+Dialogue: 0,0:21:50.02,0:21:54.02,Default,en,0,0,0,,Now, Mr. Kojirō and everyone, you must be hungry! Have some {\i1}dango{\i0}s.
 Comment: 0,0:21:54.02,0:21:55.51,Default,ja,0,0,0,,あ、はい、いただきます。
 Dialogue: 0,0:21:54.02,0:21:55.51,Default,ko,0,0,0,,아, 예, 잘 먹겠습니다.
 Dialogue: 0,0:21:54.02,0:21:55.51,Default,en,0,0,0,,Oh, right, thank you!
@@ -799,7 +799,7 @@ Dialogue: 0,0:21:55.51,0:21:56.35,Default,ko,0,0,0,,네!
 Dialogue: 0,0:21:55.51,0:21:56.35,Default,en,0,0,0,,Yeah!
 Comment: 0,0:21:58.78,0:22:01.48,Default,ja,0,0,0,,ああ、おいらの団子が！
 Dialogue: 0,0:21:58.78,0:22:01.48,Default,ko,0,0,0,,아, 내 단고!
-Dialogue: 0,0:21:58.78,0:22:01.48,Default,en,0,0,0,,My dangos!
+Dialogue: 0,0:21:58.78,0:22:01.48,Default,en,0,0,0,,My {\i1}dango{\i0}s!
 Comment: 0,0:22:05.28,0:22:08.87,Default,ja,0,0,0,,オツルちゃんん。・ほら、ムサシ！笑って、笑って！
 Dialogue: 0,0:22:05.28,0:22:08.87,Default,ko,0,0,0,,-오츠루!\N-야, 무사시, 웃어, 웃어!
 Dialogue: 0,0:22:05.28,0:22:08.87,Default,en,0,0,0,,-Otsuru!\N-Hey, Musashi, smile! Smile!
@@ -850,13 +850,13 @@ Dialogue: 0,0:24:11.45,0:24:15.72,Default,ko,0,0,0,,거기에 다시 메가톤�
 Dialogue: 0,0:24:11.45,0:24:15.72,Default,en,0,0,0,,Megaton Castle came to attack again, and Edotopia's on big fire-{\i1}dasu{\i0}!
 Comment: 0,0:24:16.23,0:24:22.08,Default,ja,0,0,0,,ジライヤンたちが必死に消火作業に当たるだすが、オツルちゃんの団子屋もやってちゃうだス！
 Dialogue: 0,0:24:16.23,0:24:22.08,Default,ko,0,0,0,,지라이얀 일행이 필사적으로 소화 작업을 하고 있지만 오츠루의 단고집이 불타버렸소!
-Dialogue: 0,0:24:16.23,0:24:22.08,Default,en,0,0,0,,Jiraiyan and others are doing their best to put off fire, but Otsuru's dango store is also burnt-{\i1}dasu{\i0}!
+Dialogue: 0,0:24:16.23,0:24:22.08,Default,en,0,0,0,,Jiraiyan and others are doing their best to put off fire, but Otsuru's {\i1}dango{\i0} store is also burnt-{\i1}dasu{\i0}!
 Comment: 0,0:24:22.55,0:24:25.16,Default,ja,0,0,0,,次回！センヒメの愛は勝つだス
 Dialogue: 0,0:24:22.55,0:24:25.16,Default,ko,0,0,0,,다음 이야기! 센히메의 사랑은 이기오
 Dialogue: 0,0:24:22.55,0:24:25.16,Default,en,0,0,0,,Next story! Senhime's Love Wins
 Comment: 0,0:24:25.42,0:24:28.29,Default,ja,0,0,0,,疾風怒濤の焼き団子だス！
 Dialogue: 0,0:24:25.42,0:24:28.29,Default,ko,0,0,0,,질풍노도의 구운 단고오!
-Dialogue: 0,0:24:25.42,0:24:28.29,Default,en,0,0,0,,It's a stormy cooked dango-{\i1}dasu{\i0}!
+Dialogue: 0,0:24:25.42,0:24:28.29,Default,en,0,0,0,,It's a stormy cooked {\i1}dango{\i0}-{\i1}dasu{\i0}!
 Dialogue: 0,0:24:26.97,0:24:30.97,NoteOnAnime,ko,60,0,60,,{\an7}다음 이야기
 Dialogue: 0,0:24:26.97,0:24:30.97,TitleEP,ko,0,0,220,,센히메의 사랑은
 Dialogue: 0,0:24:26.97,0:24:30.97,TitleEP,ko,0,0,80,,이기오

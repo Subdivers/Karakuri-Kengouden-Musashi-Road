@@ -114,7 +114,7 @@ Dialogue: 0,0:02:46.60,0:02:49.15,Default,ko,0,0,0,,젠장! 이런 곳에서 죽
 Dialogue: 0,0:02:46.60,0:02:49.15,Default,en,0,0,0,,Damn! I don't want to die here!
 Comment: 0,0:02:49.62,0:02:54.02,Default,ja,0,0,0,,おいら、オツルちゃんの作ったお団子もっともっと食べるまで死なないだス！
 Dialogue: 0,0:02:49.62,0:02:54.02,Default,ko,0,0,0,,나, 오츠루가 만든 단고 더 많이 먹기 전까지는 못 죽소!
-Dialogue: 0,0:02:49.62,0:02:54.02,Default,en,0,0,0,,I can't die until I eat more of Otsuru's dangos-{\i1}dasu{\i0}!
+Dialogue: 0,0:02:49.62,0:02:54.02,Default,en,0,0,0,,I can't die until I eat more of Otsuru's {\i1}dango{\i0}s-{\i1}dasu{\i0}!
 Comment: 0,0:02:54.85,0:02:56.46,Default,ja,0,0,0,,助けてやってもいいぞ。
 Dialogue: 0,0:02:54.85,0:02:56.46,Default,ko,0,0,0,,살려줘도 좋다.
 Dialogue: 0,0:02:54.85,0:02:56.46,Default,en,0,0,0,,You can release them.
@@ -703,7 +703,7 @@ Dialogue: 0,0:18:22.82,0:18:27.90,Default,ko,0,0,0,,나, 방금 그것으로 힘
 Dialogue: 0,0:18:22.82,0:18:27.90,Default,en,0,0,0,,I just used up all my power by that-{\i1}dasu{\i0}. I'm hungry-{\i1}dasu{\i0}...
 Comment: 0,0:18:28.72,0:18:30.54,Default,ja,0,0,0,,はい、ムサシさん！お団子！
 Dialogue: 0,0:18:28.72,0:18:30.54,Default,ko,0,0,0,,자, 무사시 씨! 단고!
-Dialogue: 0,0:18:28.72,0:18:30.54,Default,en,0,0,0,,Here, Mr. Musashi! Your dangos!
+Dialogue: 0,0:18:28.72,0:18:30.54,Default,en,0,0,0,,Here, Mr. Musashi! Your {\i1}dango{\i0}s!
 Comment: 0,0:18:30.54,0:18:33.06,Default,ja,0,0,0,,うわ、オツルちゃん、ありがとうだス！
 Dialogue: 0,0:18:30.54,0:18:33.06,Default,ko,0,0,0,,우오아, 오츠루, 고맙소!
 Dialogue: 0,0:18:30.54,0:18:33.06,Default,en,0,0,0,,Otsuru, thank you-{\i1}dasu{\i0}!
