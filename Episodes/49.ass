@@ -619,8 +619,8 @@ Comment: 0,0:17:42.14,0:17:42.52,Default,ja,0,0,0,,はい。
 Dialogue: 0,0:17:42.14,0:17:42.52,Default,ko,0,0,0,,네.
 Dialogue: 0,0:17:42.14,0:17:42.52,Default,en,0,0,0,,Understood.
 Comment: 0,0:17:43.02,0:17:46.46,Default,ja,0,0,0,,ムサシ。コジロー。ジュウベエ。頑張るのよ。
-Dialogue: 0,0:17:43.02,0:17:46.46,Default,ko,0,0,0,,{\i1}무사시. 코지로. 쥬베. 힘내.
-Dialogue: 0,0:17:43.02,0:17:46.46,Default,en,0,0,0,,{\i1}Musashi. Kojirō. Jube. Make it.
+Dialogue: 0,0:17:43.02,0:17:46.46,Default,ko,0,0,0,,{\i1}무사시. 코지로. 주베. 힘내.
+Dialogue: 0,0:17:43.02,0:17:46.46,Default,en,0,0,0,,{\i1}Musashi. Kojirō. Jūbē. Make it.
 Comment: 0,0:17:46.71,0:17:51.20,Default,ja,0,0,0,,ハンゾウ目。どこまでわしに楯突けば気が済むのだ、まったく。
 Dialogue: 0,0:17:46.71,0:17:51.20,Default,ko,0,0,0,,한조 놈. 어디까지 내게 대들어야 만족스러운 거냐, 거 참.
 Dialogue: 0,0:17:46.71,0:17:51.20,Default,en,0,0,0,,That Hanzo bastard. How much more do he have to defy me for him to be satisfied?
@@ -661,8 +661,8 @@ Comment: 0,0:19:15.08,0:19:15.84,Default,ja,0,0,0,,ムサシ殿！
 Dialogue: 0,0:19:15.08,0:19:15.84,Default,ko,0,0,0,,무사시 님!
 Dialogue: 0,0:19:15.08,0:19:15.84,Default,en,0,0,0,,Mr. Musashi!
 Comment: 0,0:19:16.85,0:19:18.57,Default,ja,0,0,0,,ジュウベエさん、助かったダス！
-Dialogue: 0,0:19:16.85,0:19:18.57,Default,ko,0,0,0,,쥬베 씨, 살았소!
-Dialogue: 0,0:19:16.85,0:19:18.57,Default,en,0,0,0,,Mr. Jube, you saved me-dasu!
+Dialogue: 0,0:19:16.85,0:19:18.57,Default,ko,0,0,0,,주베 씨, 살았소!
+Dialogue: 0,0:19:16.85,0:19:18.57,Default,en,0,0,0,,Mr. Jūbē, you saved me-dasu!
 Comment: 0,0:19:19.52,0:19:21.10,Default,ja,0,0,0,,ちぇ、余計なことを！
 Dialogue: 0,0:19:19.52,0:19:21.10,Default,ko,0,0,0,,쳇, 쓸데없는 짓을!
 Dialogue: 0,0:19:19.52,0:19:21.10,Default,en,0,0,0,,Tch, how dare he do that!?

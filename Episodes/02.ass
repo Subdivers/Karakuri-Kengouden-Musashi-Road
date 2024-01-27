@@ -229,7 +229,7 @@ Dialogue: 0,0:06:59.42,0:07:00.59,Default,ko,0,0,0,,그 요리!
 Dialogue: 0,0:06:59.42,0:07:00.59,Default,en,0,0,0,,That dish!
 Dialogue: 0,0:07:01.07,0:07:02.76,Default,ko,0,0,0,,과연 살아서 먹을 수 있을까.
 Dialogue: 0,0:07:01.07,0:07:02.76,Default,en,0,0,0,,Will you be able to eat it alive?
-Dialogue: 0,0:07:12.37,0:07:15.33,NoteOnAnime,ko,0,0,70,,세쥬로
+Dialogue: 0,0:07:12.37,0:07:15.33,NoteOnAnime,ko,0,0,70,,세주로
 Dialogue: 0,0:07:12.37,0:07:15.33,NoteOnAnime,en,0,0,70,,Sējūrō
 Dialogue: 0,0:07:12.87,0:07:15.33,Default,ko,0,0,0,,어이, 거기. 뭐라고 말 좀 해봐라.
 Dialogue: 0,0:07:12.87,0:07:15.33,Default,en,0,0,0,,Hey, you. Say something.
@@ -237,9 +237,9 @@ Dialogue: 0,0:07:15.64,0:07:17.95,Default,ko,0,0,0,,알고 싶으면 먼저 이�
 Dialogue: 0,0:07:15.64,0:07:17.95,Default,en,0,0,0,,Tell me your name first if you want to know-{\i1}dasu{\i0}.
 Dialogue: 0,0:07:18.76,0:07:20.02,Default,ko,0,0,0,,뭐라고?!
 Dialogue: 0,0:07:18.76,0:07:20.02,Default,en,0,0,0,,What did you say?!
-Dialogue: 0,0:07:24.21,0:07:28.33,Default,ko,0,0,0,,난 요시오카. 요시오카 세쥬로!
+Dialogue: 0,0:07:24.21,0:07:28.33,Default,ko,0,0,0,,난 요시오카. 요시오카 세주로!
 Dialogue: 0,0:07:24.21,0:07:28.33,Default,en,0,0,0,,I am Yoshioka. Yoshioka Sējūrō!
-Dialogue: 0,0:07:28.87,0:07:31.44,Default,ko,0,0,0,,요시오카 세쥬로!
+Dialogue: 0,0:07:28.87,0:07:31.44,Default,ko,0,0,0,,요시오카 세주로!
 Dialogue: 0,0:07:28.87,0:07:31.44,Default,en,0,0,0,,Yoshioka Sējūrō!
 Dialogue: 0,0:07:31.87,0:07:36.51,Default,ko,0,0,0,,수도에서 오신 요시오카 가문의 대선생의 자제분으로 우리들의 스승이시다!
 Dialogue: 0,0:07:31.87,0:07:36.51,Default,en,0,0,0,,He is our master who is a son of the master of Yoshioka clan from Miyako!
@@ -269,7 +269,7 @@ Dialogue: 0,0:08:43.90,0:08:49.27,Default,ko,0,0,0,,이자식! 이자식! 이자
 Dialogue: 0,0:08:43.90,0:08:49.27,Default,en,0,0,0,,Damn you! Damn you! Damn you! Damn you!
 Dialogue: 0,0:09:07.60,0:09:08.95,Default,ko,0,0,0,,칼등이다.
 Dialogue: 0,0:09:07.60,0:09:08.95,Default,en,0,0,0,,That's a back side of my sword.
-Dialogue: 0,0:09:12.15,0:09:14.92,Default,ko,0,0,0,,역시 세쥬로 님!
+Dialogue: 0,0:09:12.15,0:09:14.92,Default,ko,0,0,0,,역시 세주로 님!
 Dialogue: 0,0:09:12.15,0:09:14.92,Default,en,0,0,0,,That's our master Sējūrō!
 Dialogue: 0,0:09:15.29,0:09:15.94,Default,ko,0,0,0,,무사시!
 Dialogue: 0,0:09:15.29,0:09:15.94,Default,en,0,0,0,,Musashi!
@@ -342,9 +342,9 @@ Dialogue: 0,0:12:15.82,0:12:17.80,Default,en,0,0,0,,You've dropped your money!
 Dialogue: 0,0:12:18.22,0:12:19.51,Default,ko,0,0,0,,어, 뭐?
 Dialogue: 0,0:12:18.22,0:12:19.51,Default,en,0,0,0,,Wait, what?
 Dialogue: 0,0:12:19.91,0:12:21.71,Default,ko,0,0,0,,절 제자로 받아들여 주시오!
-Dialogue: 0,0:12:19.91,0:12:21.71,Default,en,0,0,0,,Please accept me as your pupil-{\i1}dasu{\i0}!
+Dialogue: 0,0:12:19.91,0:12:21.71,Default,en,0,0,0,,Please accept me as your student-{\i1}dasu{\i0}!
 Dialogue: 0,0:12:21.89,0:12:25.16,Default,ko,0,0,0,,떨어뜨린 돈을 돌려주는 대신 제자로 삼는다니 말도 안 된다.
-Dialogue: 0,0:12:21.89,0:12:25.16,Default,en,0,0,0,,If you give me back the money I dropped, I'll take you as a pupil... not.
+Dialogue: 0,0:12:21.89,0:12:25.16,Default,en,0,0,0,,If you give me back the money I dropped, I'll take you as a student... not.
 Dialogue: 0,0:12:25.16,0:12:25.97,Default,ko,0,0,0,,뭐라?
 Dialogue: 0,0:12:25.16,0:12:25.97,Default,en,0,0,0,,What?
 Dialogue: 0,0:12:27.58,0:12:28.65,Default,ko,0,0,0,,멈춰라, 바보쿠덴!
@@ -352,13 +352,13 @@ Dialogue: 0,0:12:27.58,0:12:28.65,Default,en,0,0,0,,Stop! {\i1}Baka{\i0}den!
 Dialogue: 0,0:12:28.65,0:12:30.35,Default,ko,0,0,0,,이 녀석! 난 보쿠덴이다!
 Dialogue: 0,0:12:28.65,0:12:30.35,Default,en,0,0,0,,Hey, now! I am Bokuden!
 Dialogue: 0,0:12:30.75,0:12:31.90,Default,ko,0,0,0,,날 제자로 해라!
-Dialogue: 0,0:12:30.75,0:12:31.90,Default,en,0,0,0,,Take me as your pupil!
+Dialogue: 0,0:12:30.75,0:12:31.90,Default,en,0,0,0,,Take me as your student!
 Dialogue: 0,0:12:31.90,0:12:33.73,Default,ko,0,0,0,,난 제자 키우는 주의가 아니라 말이지.
-Dialogue: 0,0:12:31.90,0:12:33.73,Default,en,0,0,0,,Raising pupils isn't my thing.
+Dialogue: 0,0:12:31.90,0:12:33.73,Default,en,0,0,0,,Raising students isn't my thing.
 Dialogue: 0,0:12:34.01,0:12:36.70,Default,ko,0,0,0,,난 제자 되는 주의이오!
-Dialogue: 0,0:12:34.01,0:12:36.70,Default,en,0,0,0,,My thing is to be a pupil-{\i1}dasu{\i0}!
+Dialogue: 0,0:12:34.01,0:12:36.70,Default,en,0,0,0,,My thing is to be a student-{\i1}dasu{\i0}!
 Dialogue: 0,0:12:39.91,0:12:45.67,Default,ko,0,0,0,,날... 제자로... 날... 제자로...
-Dialogue: 0,0:12:39.91,0:12:45.67,Default,en,0,0,0,,Make... me... your... pupil...
+Dialogue: 0,0:12:39.91,0:12:45.67,Default,en,0,0,0,,Make... me... your... student...
 Dialogue: 0,0:12:45.67,0:12:47.93,Default,ko,0,0,0,,보쿠덴을 따라 삼만리,
 Dialogue: 0,0:12:45.67,0:12:47.93,Default,en,0,0,0,,Following Bokuden for 3,000 ris,
 Dialogue: 0,0:12:45.67,0:12:47.93,Note,en,0,0,0,,(3,000 {\i1}ri{\i0} ≒ 11,781 km ≒ 7,320 mi.)
@@ -385,7 +385,7 @@ Dialogue: 0,0:13:36.75,0:13:38.09,Default,en,0,0,0,,Another dish!
 Dialogue: 0,0:13:41.05,0:13:42.06,Default,ko,0,0,0,,부탁이오!
 Dialogue: 0,0:13:41.05,0:13:42.06,Default,en,0,0,0,,I beg of you-{\i1}dasu{\i0}!
 Dialogue: 0,0:13:42.26,0:13:46.13,Default,ko,0,0,0,,그렇게까지 굴면 어쩔 수 없지. 제자로 해 주겠다.
-Dialogue: 0,0:13:42.26,0:13:46.13,Default,en,0,0,0,,Everything you've done considered, I don't really have a choice, do I? I will take you a pupil.
+Dialogue: 0,0:13:42.26,0:13:46.13,Default,en,0,0,0,,Everything you've done considered, I don't really have a choice, do I? I will take you a student.
 Dialogue: 0,0:13:47.20,0:13:49.56,Default,ko,0,0,0,,그 대신! 수련은 쓰라릴 것이다.
 Dialogue: 0,0:13:47.20,0:13:49.56,Default,en,0,0,0,,But! The training will be painful!
 Dialogue: 0,0:13:49.90,0:13:51.45,Default,ko,0,0,0,,쓰라리니까 수련이잖소?
@@ -400,7 +400,7 @@ Dialogue: 0,0:13:59.93,0:14:05.75,Default,en,0,0,0,,Got it? No matter what kind 
 Dialogue: 0,0:14:06.49,0:14:08.85,Default,ko,0,0,0,,{\i1}참 이상한 녀석이군.
 Dialogue: 0,0:14:06.49,0:14:08.85,Default,en,0,0,0,,{\i1}What a strange guy.
 Dialogue: 0,0:14:10.75,0:14:14.01,Default,ko,0,0,0,,{\i1}무사시! 츠카하라 보쿠덴의 제자가 되었냐!
-Dialogue: 0,0:14:10.75,0:14:14.01,Default,en,0,0,0,,{\i1}Musashi! You're a pupil of Tsukahara Bokuden now?
+Dialogue: 0,0:14:10.75,0:14:14.01,Default,en,0,0,0,,{\i1}Musashi! You're a student of Tsukahara Bokuden now?
 Dialogue: 0,0:14:14.78,0:14:18.16,Default,ko,0,0,0,,{\i1}눈이 뜨여 좋은 라이벌이 되어 주기를 바란다.
 Dialogue: 0,0:14:14.78,0:14:18.16,Default,en,0,0,0,,{\i1}I pray for you to open your eyes and become a good rival of mine.
 Dialogue: 0,0:14:36.38,0:14:38.07,Default,ko,0,0,0,,허리에 힘이 없다! 허리에!

@@ -259,20 +259,20 @@ Comment: 0,0:07:02.22,0:07:03.44,Default,ja,0,0,0,,待て、ジライヤン。
 Dialogue: 0,0:07:02.22,0:07:03.44,Default,ko,0,0,0,,기다려라, 지라이얀.
 Dialogue: 0,0:07:02.22,0:07:03.44,Default,en,0,0,0,,Wait, Jiraiyan.
 Comment: 0,0:07:04.13,0:07:08.56,Default,ja,0,0,0,,金山をシュテンに任せろ。お前はジュウベエをマークするのだ。
-Dialogue: 0,0:07:04.13,0:07:08.56,Default,ko,0,0,0,,금산은 슈텐에게 맡겨라. 너는 쥬베를 쫓아라.
-Dialogue: 0,0:07:04.13,0:07:08.56,Default,en,0,0,0,,Leave the gold mountain to Shuten. You will keep an eye on Jube.
+Dialogue: 0,0:07:04.13,0:07:08.56,Default,ko,0,0,0,,금산은 슈텐에게 맡겨라. 너는 주베를 쫓아라.
+Dialogue: 0,0:07:04.13,0:07:08.56,Default,en,0,0,0,,Leave the gold mountain to Shuten. You will keep an eye on Jūbē.
 Comment: 0,0:07:09.29,0:07:10.12,Default,ja,0,0,0,,ジュウベエを？
-Dialogue: 0,0:07:09.29,0:07:10.12,Default,ko,0,0,0,,쥬베를?
-Dialogue: 0,0:07:09.29,0:07:10.12,Default,en,0,0,0,,Jube?
+Dialogue: 0,0:07:09.29,0:07:10.12,Default,ko,0,0,0,,주베를?
+Dialogue: 0,0:07:09.29,0:07:10.12,Default,en,0,0,0,,Jūbē?
 Comment: 0,0:07:10.53,0:07:11.44,Default,ja,0,0,0,,ジュウベエ目。。。
-Dialogue: 0,0:07:10.53,0:07:11.44,Default,ko,0,0,0,,쥬베 놈...
-Dialogue: 0,0:07:10.53,0:07:11.44,Default,en,0,0,0,,That Jube bastard...
+Dialogue: 0,0:07:10.53,0:07:11.44,Default,ko,0,0,0,,주베 놈...
+Dialogue: 0,0:07:10.53,0:07:11.44,Default,en,0,0,0,,That Jūbē bastard...
 Comment: 0,0:07:11.92,0:07:18.66,Default,ja,0,0,0,,センヒメ一行を陰から守りながら、しそかに我らの動きを探っておることが明白となった。
 Dialogue: 0,0:07:11.92,0:07:18.66,Default,ko,0,0,0,,센히메 일행을 그림자 속에서 지키며 뒤에서 우리 행동을 감시하고 있는 게 명백하다.
 Dialogue: 0,0:07:11.92,0:07:18.66,Default,en,0,0,0,,It is clear that he is protecting Senhime and others in shadow and observing us in the back.
 Comment: 0,0:07:19.46,0:07:24.94,Default,ja,0,0,0,,そこでジライヤン、お前はジュウベエの行方を突き止め、暗殺しろ。
-Dialogue: 0,0:07:19.46,0:07:24.94,Default,ko,0,0,0,,그러니까, 지라이얀, 너는 쥬베의 행방을 밝혀내어 암살해라.
-Dialogue: 0,0:07:19.46,0:07:24.94,Default,en,0,0,0,,That's why I'm ordering you, Jiraiyan, to find out Jube's traces and assassinate him.
+Dialogue: 0,0:07:19.46,0:07:24.94,Default,ko,0,0,0,,그러니까, 지라이얀, 너는 주베의 행방을 밝혀내어 암살해라.
+Dialogue: 0,0:07:19.46,0:07:24.94,Default,en,0,0,0,,That's why I'm ordering you, Jiraiyan, to find out Jūbē's traces and assassinate him.
 Comment: 0,0:07:25.65,0:07:26.00,Default,ja,0,0,0,,は。
 Dialogue: 0,0:07:25.65,0:07:26.00,Default,ko,0,0,0,,예.
 Dialogue: 0,0:07:25.65,0:07:26.00,Default,en,0,0,0,,Yessir.

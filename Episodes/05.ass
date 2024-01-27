@@ -491,9 +491,9 @@ Dialogue: 0,0:16:18.82,0:16:22.14,Default,en,0,0,0,,I must ask you; who is the m
 Dialogue: 0,0:16:22.46,0:16:24.63,Default,ko,0,0,0,,제 스승은 츠카하라 보쿠덴이오.
 Dialogue: 0,0:16:22.46,0:16:24.63,Default,en,0,0,0,,My master is Tsukahara Bokuden-{\i1}dasu{\i0}.
 Dialogue: 0,0:16:25.10,0:16:28.59,Default,ko,0,0,0,,거짓말하지 마라! 보쿠덴 님은 제자를 받지 않을 터이다!
-Dialogue: 0,0:16:25.10,0:16:28.59,Default,en,0,0,0,,Do not lie! Bokuden does not take pupils!
+Dialogue: 0,0:16:25.10,0:16:28.59,Default,en,0,0,0,,Do not lie! Bokuden does not take students!
 Dialogue: 0,0:16:29.17,0:16:32.29,Default,ko,0,0,0,,그, 근데 나 틀림없이 제자이오.
-Dialogue: 0,0:16:29.17,0:16:32.29,Default,en,0,0,0,,Bu- but I really am his pupil-{\i1}dasu{\i0}.
+Dialogue: 0,0:16:29.17,0:16:32.29,Default,en,0,0,0,,Bu- but I really am his student-{\i1}dasu{\i0}.
 Dialogue: 0,0:16:32.87,0:16:36.52,Default,ko,0,0,0,,그렇다면 보쿠덴 님의 검의 궁극의 목적을 말해 보아라!
 Dialogue: 0,0:16:32.87,0:16:36.52,Default,en,0,0,0,,Then tell me, the ultimate purpose of a sword, according to Master Bokuden!
 Dialogue: 0,0:16:37.27,0:16:38.61,Default,ko,0,0,0,,어... 뭐였더라?
@@ -669,11 +669,11 @@ Dialogue: 0,0:23:46.44,0:23:52.03,SongED1,en,0,0,0,,is opening its hands and smi
 Dialogue: 0,0:24:05.98,0:24:08.25,Default,ko,0,0,0,,스승, 좋은 울림을 가진 단어이오.
 Dialogue: 0,0:24:05.98,0:24:08.25,Default,en,0,0,0,,Master. A word with good echo-{\i1}dasu{\i0}.
 Dialogue: 0,0:24:08.52,0:24:10.87,Default,ko,0,0,0,,결국엔 나도 제자를 가지게 되었소!
-Dialogue: 0,0:24:08.52,0:24:10.87,Default,en,0,0,0,,Finally, I got a pupil-{\i1}dasu{\i0}!
+Dialogue: 0,0:24:08.52,0:24:10.87,Default,en,0,0,0,,Finally, I got a student-{\i1}dasu{\i0}!
 Dialogue: 0,0:24:11.10,0:24:17.05,Default,ko,0,0,0,,제자라는 것은 편리하오! 돈 걱정 없이 단고를 먹게 해 주고, 길을 안내해 주고.
-Dialogue: 0,0:24:11.10,0:24:17.05,Default,en,0,0,0,,A pupil is convinient! He lets me eat {\i1}dango{\i0}s without worry, and guides my path.
+Dialogue: 0,0:24:11.10,0:24:17.05,Default,en,0,0,0,,A student is convinient! He lets me eat {\i1}dango{\i0}s without worry, and guides my path.
 Dialogue: 0,0:24:17.32,0:24:20.47,Default,ko,0,0,0,,근데 이 제자라는 자, 나보다 강하오...
-Dialogue: 0,0:24:17.32,0:24:20.47,Default,en,0,0,0,,But this pupil is powerful than me, heh...
+Dialogue: 0,0:24:17.32,0:24:20.47,Default,en,0,0,0,,But this student is powerful than me, heh...
 Dialogue: 0,0:24:21.39,0:24:24.25,Default,ko,0,0,0,,다음 이야기! 나는 스승이오. 훌륭하오!
 Dialogue: 0,0:24:21.39,0:24:24.25,Default,en,0,0,0,,Next story! I am a Master! Excellent!
 Dialogue: 0,0:24:24.60,0:24:27.01,Default,ko,0,0,0,,질풍노도의 활약을 보시오!

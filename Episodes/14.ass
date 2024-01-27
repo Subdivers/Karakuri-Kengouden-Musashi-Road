@@ -88,8 +88,8 @@ Comment: 0,0:01:59.34,0:02:04.35,Default,ja,0,0,0,,謀反人の汚名を着せ�
 Dialogue: 0,0:01:59.34,0:02:04.35,Default,ko,0,0,0,,반역자라는 오명을 썼던 무사시는 한조의 손에 처형되게 되었다.
 Dialogue: 0,0:01:59.34,0:02:04.35,Default,en,0,0,0,,Once called a traitor, Musashi was on the verge of the execution by Hanzo.
 Comment: 0,0:02:04.35,0:02:07.84,Default,ja,0,0,0,,しかし、この時、ジュウベエたちが助けに来てくれたのだ。
-Dialogue: 0,0:02:04.35,0:02:07.84,Default,ko,0,0,0,,그러나 그 때, 쥬베가 검호들을 이끌고 구하러 와 주었다.
-Dialogue: 0,0:02:04.35,0:02:07.84,Default,en,0,0,0,,But at the right moment, Jube and others came to save him.
+Dialogue: 0,0:02:04.35,0:02:07.84,Default,ko,0,0,0,,그러나 그 때, 주베가 검호들을 이끌고 구하러 와 주었다.
+Dialogue: 0,0:02:04.35,0:02:07.84,Default,en,0,0,0,,But at the right moment, Jūbē and others came to save him.
 Comment: 0,0:02:07.84,0:02:11.02,Default,ja,0,0,0,,ムサシは熱い友情に男泣きするのであった。
 Dialogue: 0,0:02:07.84,0:02:11.02,Default,ko,0,0,0,,무사시는 뜨거운 우정에 울고 말았다.
 Dialogue: 0,0:02:07.84,0:02:11.02,Default,en,0,0,0,,Musashi cried, by the burning hot friendship.
@@ -383,8 +383,8 @@ Comment: 0,0:09:10.99,0:09:13.31,Default,ja,0,0,0,,宮本村のムサシでご�
 Dialogue: 0,0:09:10.99,0:09:13.31,Default,ko,0,0,0,,미야모토 마을의 무사시이오!
 Dialogue: 0,0:09:10.99,0:09:13.31,Default,en,0,0,0,,I'm Musashi from Miyamoto village-{\i1}dasu{\i0}!
 Comment: 0,0:09:13.31,0:09:15.88,Default,ja,0,0,0,,ジュウベエどのにお目に掛かるダス！
-Dialogue: 0,0:09:13.31,0:09:15.88,Default,ko,0,0,0,,쥬베 님을 뵙고 싶소!
-Dialogue: 0,0:09:13.31,0:09:15.88,Default,en,0,0,0,,I want to meet Mr. Jube-{\i1}dasu{\i0}!
+Dialogue: 0,0:09:13.31,0:09:15.88,Default,ko,0,0,0,,주베 님을 뵙고 싶소!
+Dialogue: 0,0:09:13.31,0:09:15.88,Default,en,0,0,0,,I want to meet Mr. Jūbē-{\i1}dasu{\i0}!
 Comment: 0,0:09:17.10,0:09:18.52,Default,ja,0,0,0,,これはようこそムサシどの。
 Dialogue: 0,0:09:17.10,0:09:18.52,Default,ko,0,0,0,,환영합니다, 무사시 님.
 Dialogue: 0,0:09:17.10,0:09:18.52,Default,en,0,0,0,,Welcome, Mr. Musashi.
@@ -392,8 +392,8 @@ Comment: 0,0:09:19.21,0:09:21.41,Default,ja,0,0,0,,しかしこんな時間に�
 Dialogue: 0,0:09:19.21,0:09:21.41,Default,ko,0,0,0,,그래도 이런 시간에 어쩐 일이십니까?
 Dialogue: 0,0:09:19.21,0:09:21.41,Default,en,0,0,0,,It must be something important to find me this late.
 Comment: 0,0:09:21.74,0:09:25.87,Default,ja,0,0,0,,おいら、ジュウベエさんに勝ちたいダス。お手合わせをお願いしたいでござるダス！
-Dialogue: 0,0:09:21.74,0:09:25.87,Default,ko,0,0,0,,나, 쥬베 씨를 이기고 싶소. 상대해 주시기를 부탁드리오!
-Dialogue: 0,0:09:21.74,0:09:25.87,Default,en,0,0,0,,I want to defeat Mr. Jube-{\i1}dasu{\i0}. I ask you to be my opponent-{\i1}dasu{\i0}!
+Dialogue: 0,0:09:21.74,0:09:25.87,Default,ko,0,0,0,,나, 주베 씨를 이기고 싶소. 상대해 주시기를 부탁드리오!
+Dialogue: 0,0:09:21.74,0:09:25.87,Default,en,0,0,0,,I want to defeat Mr. Jūbē-{\i1}dasu{\i0}. I ask you to be my opponent-{\i1}dasu{\i0}!
 Comment: 0,0:09:27.56,0:09:29.23,Default,ja,0,0,0,,これはまたムサシどのらしい
 Dialogue: 0,0:09:27.56,0:09:29.23,Default,ko,0,0,0,,이것 역시 무사시 님답군요.
 Dialogue: 0,0:09:27.56,0:09:29.23,Default,en,0,0,0,,This also is expected from Mr. Musashi.
@@ -468,7 +468,7 @@ Dialogue: 0,0:10:41.34,0:10:43.85,Default,ko,0,0,0,,자! 얘야! 얼렁 비켜�
 Dialogue: 0,0:10:41.34,0:10:43.85,Default,en,0,0,0,,Now, get lost, kid!
 Comment: 0,0:10:43.85,0:10:52.75,Default,ja,0,0,0,,黙れ！おいら、子供じゃないダス！ 剣聖ボクデンの免許皆伝の一番弟子でござるダス！
 Dialogue: 0,0:10:43.85,0:10:52.75,Default,ko,0,0,0,,닥치시오! 난 아이가 아니오! 검성 보쿠덴의 가르침을 받은 제일의 제자이오!
-Dialogue: 0,0:10:43.85,0:10:52.75,Default,en,0,0,0,,Shut up! I am not a kid! I am the only pupil of Bokuden, the master Martial Artist!
+Dialogue: 0,0:10:43.85,0:10:52.75,Default,en,0,0,0,,Shut up! I am not a kid! I am the only student of Bokuden, the master Martial Artist!
 Comment: 0,0:11:02.40,0:11:05.78,Default,ja,0,0,0,,うるさい小前が！
 Dialogue: 0,0:11:02.40,0:11:05.78,Default,ko,0,0,0,,시끄러운 애새끼가!
 Dialogue: 0,0:11:02.40,0:11:05.78,Default,en,0,0,0,,What a noisy kid!
@@ -580,8 +580,8 @@ Dialogue: 0,0:13:55.26,0:13:59.55,Default,en,0,0,0,,This is no time to be shying
 Dialogue: 0,0:13:59.55,0:14:04.55,Eyecatch,ko,0,0,0,,카라쿠리 검호전 무사시 로드
 Dialogue: 0,0:13:59.55,0:14:04.55,Eyecatch,en,0,0,0,,Karakuri Kengouden: Musashi Road
 Comment: 0,0:14:06.20,0:14:11.50,Default,ja,0,0,0,,ムサシとジュウベエの武芸談には夜が更けてもまだ続いていた
-Dialogue: 0,0:14:06.20,0:14:11.50,Default,ko,0,0,0,,무사시와 쥬베의 무예담은 밤이 깊어져도 끝나지 않았따.
-Dialogue: 0,0:14:06.20,0:14:11.50,Default,en,0,0,0,,There was no end to Musashi and Jube's conversation even in deep night.
+Dialogue: 0,0:14:06.20,0:14:11.50,Default,ko,0,0,0,,무사시와 주베의 무예담은 밤이 깊어져도 끝나지 않았따.
+Dialogue: 0,0:14:06.20,0:14:11.50,Default,en,0,0,0,,There was no end to Musashi and Jūbē's conversation even in deep night.
 Comment: 0,0:14:13.16,0:14:16.75,Default,ja,0,0,0,,そして私と旅をしたときに出会ったのがホウゾウインどの。
 Dialogue: 0,0:14:13.16,0:14:16.75,Default,ko,0,0,0,,그리고 저와 같이 있을 때 만난 자가 호조인 님.
 Dialogue: 0,0:14:13.16,0:14:16.75,Default,en,0,0,0,,And we met Mr. Houzouin when we were walking together.
@@ -655,8 +655,8 @@ Comment: 0,0:16:10.59,0:16:14.52,Default,ja,0,0,0,,相手はまだ少年。た�
 Dialogue: 0,0:16:10.59,0:16:14.52,Default,ko,0,0,0,,상대는 아직 소년. 굳이 날뛰어야 한다면 소생이 상대하겠습니다.
 Dialogue: 0,0:16:10.59,0:16:14.52,Default,en,0,0,0,,The opponent is a boy. If you must be savage, I will content with you.
 Comment: 0,0:16:16.95,0:16:22.29,Default,ja,0,0,0,,{\i1}葵の紋章。諸国を見回る警察の長官のジュウベエどのか！
-Dialogue: 0,0:16:16.95,0:16:22.29,Default,ko,0,0,0,,{\i1}접시꽃 문장. 제국을 돌아보는 경찰 장관 쥬베 님인가...
-Dialogue: 0,0:16:16.95,0:16:22.29,Default,en,0,0,0,,{\i1}Emblem of hollyhock. He must be Jube, the director of police who takes care of whole empire...
+Dialogue: 0,0:16:16.95,0:16:22.29,Default,ko,0,0,0,,{\i1}접시꽃 문장. 제국을 돌아보는 경찰 장관 주베 님인가...
+Dialogue: 0,0:16:16.95,0:16:22.29,Default,en,0,0,0,,{\i1}Emblem of hollyhock. He must be Jūbē, the director of police who takes care of whole empire...
 Comment: 0,0:16:28.84,0:16:31.96,Default,ja,0,0,0,,勝負を忘れたか、ホウゾウイン！覚悟！
 Dialogue: 0,0:16:28.84,0:16:31.96,Default,ko,0,0,0,,승부를 잊었소, 호조인? 각오하시오!
 Dialogue: 0,0:16:28.84,0:16:31.96,Default,en,0,0,0,,Did you forget the match-{\i1}dasu{\i0}, Houzouin? Prepare yourself!
@@ -682,8 +682,8 @@ Comment: 0,0:17:09.45,0:17:11.82,Default,ja,0,0,0,,あの時のムサシどの�
 Dialogue: 0,0:17:09.45,0:17:11.82,Default,ko,0,0,0,,그 때의 무사시 님도 강했지요.
 Dialogue: 0,0:17:09.45,0:17:11.82,Default,en,0,0,0,,Mr. Musashi, you were strong too back then.
 Comment: 0,0:17:13.61,0:17:15.98,Default,ja,0,0,0,,でもジュウベエさんのお陰です！
-Dialogue: 0,0:17:13.61,0:17:15.98,Default,ko,0,0,0,,그래도 쥬베 씨 덕이오!
-Dialogue: 0,0:17:13.61,0:17:15.98,Default,en,0,0,0,,But it's all thanks to Mr. Jube-{\i1}dasu{\i0}!
+Dialogue: 0,0:17:13.61,0:17:15.98,Default,ko,0,0,0,,그래도 주베 씨 덕이오!
+Dialogue: 0,0:17:13.61,0:17:15.98,Default,en,0,0,0,,But it's all thanks to Mr. Jūbē-{\i1}dasu{\i0}!
 Comment: 0,0:17:16.54,0:17:18.73,Default,ja,0,0,0,,そして鎖鎌の使い手バイケンどの。
 Dialogue: 0,0:17:16.54,0:17:18.73,Default,ko,0,0,0,,그리고 쿠사리가마를 쓰는 바이켄 님.
 Dialogue: 0,0:17:16.54,0:17:18.73,Default,en,0,0,0,,And Mr. Baiken, the user of Kusarigama.
@@ -769,8 +769,8 @@ Comment: 0,0:19:58.51,0:19:59.66,Default,ja,0,0,0,,二刀流。。。
 Dialogue: 0,0:19:58.51,0:19:59.66,Default,ko,0,0,0,,이도류...
 Dialogue: 0,0:19:58.51,0:19:59.66,Default,en,0,0,0,,Dual blade...
 Comment: 0,0:20:04.28,0:20:08.24,Default,ja,0,0,0,,武芸大会でのムサシとジュウベエの番外試合。
-Dialogue: 0,0:20:04.28,0:20:08.24,Default,ko,0,0,0,,무예 대회에서의 무사시와 쥬베의 번외 시합.
-Dialogue: 0,0:20:04.28,0:20:08.24,Default,en,0,0,0,,Musashi and Jube's extra match in the martial arts competition.
+Dialogue: 0,0:20:04.28,0:20:08.24,Default,ko,0,0,0,,무예 대회에서의 무사시와 주베의 번외 시합.
+Dialogue: 0,0:20:04.28,0:20:08.24,Default,en,0,0,0,,Musashi and Jūbē's extra match in the martial arts competition.
 Comment: 0,0:20:10.03,0:20:11.05,Default,ja,0,0,0,,初め！
 Dialogue: 0,0:20:10.03,0:20:11.05,Default,ko,0,0,0,,시작!
 Dialogue: 0,0:20:10.03,0:20:11.05,Default,en,0,0,0,,Start!
@@ -815,8 +815,8 @@ Comment: 0,0:21:57.63,0:22:01.60,Default,ja,0,0,0,,その時こそムサシど�
 Dialogue: 0,0:21:57.63,0:22:01.60,Default,ko,0,0,0,,그 때야말로 무사시 님은 천하제일의 검호가 되겠죠. 
 Dialogue: 0,0:21:57.63,0:22:01.60,Default,en,0,0,0,,When that time comes, Mr. Musashi, you'll become the best of the master swordsmen in the world.
 Comment: 0,0:22:02.12,0:22:04.38,Default,ja,0,0,0,,ジュウベエさん、ありがとうダス！
-Dialogue: 0,0:22:02.12,0:22:04.38,Default,ko,0,0,0,,쥬베 씨, 감사하오!
-Dialogue: 0,0:22:02.12,0:22:04.38,Default,en,0,0,0,,Thank you so much, Mr. Jube-{\i1}dasu{\i0}!
+Dialogue: 0,0:22:02.12,0:22:04.38,Default,ko,0,0,0,,주베 씨, 감사하오!
+Dialogue: 0,0:22:02.12,0:22:04.38,Default,en,0,0,0,,Thank you so much, Mr. Jūbē-{\i1}dasu{\i0}!
 Comment: 0,0:22:05.92,0:22:07.76,Default,ja,0,0,0,,おいら、目一杯やるダス！
 Dialogue: 0,0:22:05.92,0:22:07.76,Default,ko,0,0,0,,나, 힘껏 해 보겠소!
 Dialogue: 0,0:22:05.92,0:22:07.76,Default,en,0,0,0,,I'll do that with all my might!

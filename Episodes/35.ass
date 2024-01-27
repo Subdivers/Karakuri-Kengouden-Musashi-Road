@@ -84,8 +84,8 @@ Comment: 0,0:01:59.47,0:02:06.51,Default,ja,0,0,0,,ジライヤンにヒミコ�
 Dialogue: 0,0:01:59.47,0:02:06.51,Default,ko,0,0,0,,지라이얀은 무사시에게 히미코가 시라누이 일족의 여왕이라고 말했다. 그러나 믿기지 않는 일이었다.
 Dialogue: 0,0:01:59.47,0:02:06.51,Default,en,0,0,0,,Jiraiyan told Musashi that Himiko is the queen of Shiranui Clan. But he couldn't believe that.
 Comment: 0,0:02:07.03,0:02:11.45,Default,ja,0,0,0,,ジュウベエの調べで、不知火一族は火の国の子孫であることがわかる。
-Dialogue: 0,0:02:07.03,0:02:11.45,Default,ko,0,0,0,,쥬베의 조사로 시라누이 일족은 불의 나라의 자손이라는 것을 알게 됐다.
-Dialogue: 0,0:02:07.03,0:02:11.45,Default,en,0,0,0,,By Jube's investigation, they found out that Shiranui Clan is the descendants of the Fire Country.
+Dialogue: 0,0:02:07.03,0:02:11.45,Default,ko,0,0,0,,주베의 조사로 시라누이 일족은 불의 나라의 자손이라는 것을 알게 됐다.
+Dialogue: 0,0:02:07.03,0:02:11.45,Default,en,0,0,0,,By Jūbē's investigation, they found out that Shiranui Clan is the descendants of the Fire Country.
 Comment: 0,0:02:11.81,0:02:15.83,Default,ja,0,0,0,,しかし、そこをガエンマに襲われ、あわやの危機に陥る。
 Dialogue: 0,0:02:11.81,0:02:15.83,Default,ko,0,0,0,,그러나 거기서 가엔마에게 당해, 아차하며 위기에 빠졌다.
 Dialogue: 0,0:02:11.81,0:02:15.83,Default,en,0,0,0,,But by Gaenma's attack, they fell into a crisis in an instant.
@@ -155,8 +155,8 @@ Comment: 0,0:03:52.62,0:03:54.53,Default,ja,0,0,0,,私も準備OKよ。
 Dialogue: 0,0:03:52.62,0:03:54.53,Default,ko,0,0,0,,나도 준비 OK야.
 Dialogue: 0,0:03:52.62,0:03:54.53,Default,en,0,0,0,,I'm ready, too.
 Comment: 0,0:03:55.39,0:03:55.91,Default,ja,0,0,0,,ジュウベエ！
-Dialogue: 0,0:03:55.39,0:03:55.91,Default,ko,0,0,0,,쥬베!
-Dialogue: 0,0:03:55.39,0:03:55.91,Default,en,0,0,0,,Jube!
+Dialogue: 0,0:03:55.39,0:03:55.91,Default,ko,0,0,0,,주베!
+Dialogue: 0,0:03:55.39,0:03:55.91,Default,en,0,0,0,,Jūbē!
 Comment: 0,0:04:00.39,0:04:05.20,Default,ja,0,0,0,,不知火一族なんて、この薙刀でげちょんげちょんにしてやる！
 Dialogue: 0,0:04:00.39,0:04:05.20,Default,ko,0,0,0,,시라누이 일족 따위 이 언월도로 엉망진창으로 만들어 주겠어!
 Dialogue: 0,0:04:00.39,0:04:05.20,Default,en,0,0,0,,I'll use my halberd to get rid of those Shiranuis!

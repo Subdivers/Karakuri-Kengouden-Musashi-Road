@@ -92,7 +92,7 @@ Dialogue: 0,0:01:39.61,0:01:45.85,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musa
 Dialogue: 0,0:01:45.85,0:01:51.06,SongOP,ko,0,0,0,,미간이 반짝였다 무사시!!
 Dialogue: 0,0:01:45.85,0:01:51.06,SongOP,en,0,0,0,,His eyes shined! Musashi!!
 Dialogue: 0,0:02:00.30,0:02:06.52,Default,ko,0,0,0,,한번 결심하면 목숨을 거는 것! 천하의 검성 보쿠덴에게 "무슨 일이 있어도 제자로 받아들여 달라"고.
-Dialogue: 0,0:02:00.30,0:02:06.52,Default,en,0,0,0,,Once decided, stake the life. Musashi has been asking Bokuden, the master swordsman, to accept him as a pupil.
+Dialogue: 0,0:02:00.30,0:02:06.52,Default,en,0,0,0,,Once decided, stake the life. Musashi has been asking Bokuden, the master swordsman, to accept him as a student.
 Dialogue: 0,0:02:06.52,0:02:11.82,Default,ko,0,0,0,,마음에 새긴 무사시의 열의가 인정받아, 길고 쓰라린 수련이 시작되었다.
 Dialogue: 0,0:02:06.52,0:02:11.82,Default,en,0,0,0,,At last, with his strong desire recognized, he embarked on the long and bitter journey of training.
 Dialogue: 0,0:02:12.51,0:02:18.42,Default,ko,0,0,0,,보쿠덴의 검의 극의를 배운 무사시는 살아남아 미야코 팔레스에 간다.
@@ -516,7 +516,7 @@ Dialogue: 0,0:17:09.28,0:17:12.83,Default,en,0,0,0,,I decided the opponent to be
 Dialogue: 0,0:17:13.17,0:17:15.29,Default,ko,0,0,0,,자! 얘야! 얼렁 비켜라!
 Dialogue: 0,0:17:13.17,0:17:15.29,Default,en,0,0,0,,Now, get lost, kid!
 Dialogue: 0,0:17:16.26,0:17:23.39,Default,ko,0,0,0,,닥치시오! 난 아이가 아니오! 검성 보쿠덴의 가르침을 받은 제일의 제자이오!
-Dialogue: 0,0:17:16.26,0:17:23.39,Default,en,0,0,0,,Shut up! I am not a kid! I am the only pupil of Bokuden, the master swordsman!
+Dialogue: 0,0:17:16.26,0:17:23.39,Default,en,0,0,0,,Shut up! I am not a kid! I am the only student of Bokuden, the master swordsman!
 Dialogue: 0,0:17:35.87,0:17:37.71,Default,ko,0,0,0,,녀석, 꽤 하네!
 Dialogue: 0,0:17:35.87,0:17:37.71,Default,en,0,0,0,,He's pretty good!
 Dialogue: 0,0:17:38.05,0:17:41.31,Default,ko,0,0,0,,어떻소! 물러나지 않은 걸 후회하지 마시오!
@@ -651,8 +651,8 @@ Dialogue: 0,0:23:38.55,0:23:46.52,SongED1,ko,0,0,0,,미래도 그런 거야! 내
 Dialogue: 0,0:23:38.55,0:23:46.52,SongED1,en,0,0,0,,That's how future also is! Look, tomorrow
 Dialogue: 0,0:23:46.77,0:23:52.36,SongED1,ko,0,0,0,,양손을 벌리고 웃고 있어!
 Dialogue: 0,0:23:46.77,0:23:52.36,SongED1,en,0,0,0,,is opening its hands and smiling at us!
-Dialogue: 0,0:24:05.58,0:24:11.00,Default,ko,0,0,0,,요시오카 도장의 젊은 선생, 세쥬로를 쓰러뜨린 나는 제자들에게 쫒기는 신세에.
-Dialogue: 0,0:24:05.58,0:24:11.00,Default,en,0,0,0,,As I defeated Sējūrō, the young teacher of Yoshioka Dōjō, I am being chased by their pupils.
+Dialogue: 0,0:24:05.58,0:24:11.00,Default,ko,0,0,0,,요시오카 도장의 젊은 선생, 세주로를 쓰러뜨린 나는 제자들에게 쫒기는 신세에.
+Dialogue: 0,0:24:05.58,0:24:11.00,Default,en,0,0,0,,As I defeated Sējūrō, the young teacher of Yoshioka Dōjō, I am being chased by their students.
 Dialogue: 0,0:24:11.10,0:24:13.08,Default,ko,0,0,0,,그 때 구해준 분은 료마 씨.
 Dialogue: 0,0:24:11.10,0:24:13.08,Default,en,0,0,0,,At that moment, Ryoma appeared and saved me.
 Dialogue: 0,0:24:13.50,0:24:17.77,Default,ko,0,0,0,,그러나 이 사람, 달아나는 것도 훌륭한 병법의 하나라고 하오.

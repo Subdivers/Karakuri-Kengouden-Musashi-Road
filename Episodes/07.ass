@@ -82,8 +82,8 @@ Dialogue: 0,0:01:39.41,0:01:45.64,SongOP,ko,0,0,0,,무예! 이도류 무사시
 Dialogue: 0,0:01:39.41,0:01:45.64,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
 Dialogue: 0,0:01:45.64,0:01:50.90,SongOP,ko,0,0,0,,미간이 반짝였다 무사시!!
 Dialogue: 0,0:01:45.64,0:01:50.90,SongOP,en,0,0,0,,His eyes shined! Musashi!!
-Dialogue: 0,0:02:00.64,0:02:06.39,Default,ko,0,0,0,,쥬베에게서 에도토피아에서 열리는 연말 향례의 지팡구 무예 대회에 대해서 알게 된 무사시는
-Dialogue: 0,0:02:00.64,0:02:06.39,Default,en,0,0,0,,Jube told Musashi about the yearly Jipangu Martial Arts Competition.
+Dialogue: 0,0:02:00.64,0:02:06.39,Default,ko,0,0,0,,주베에게서 에도토피아에서 열리는 연말 향례의 지팡구 무예 대회에 대해서 알게 된 무사시는
+Dialogue: 0,0:02:00.64,0:02:06.39,Default,en,0,0,0,,Jūbē told Musashi about the yearly Jipangu Martial Arts Competition.
 Dialogue: 0,0:02:07.16,0:02:13.44,Default,ko,0,0,0,,창의 호조인과 한판 붙은 후, 미야코의 에도토피아를 꿈꾸며 여행을 계속하고 있었다.
 Dialogue: 0,0:02:07.16,0:02:13.44,Default,en,0,0,0,,After fighting against spear-wielding Houzouin, Musashi kept heading to Edotopia of Miyako.
 Dialogue: 0,0:02:14.22,0:02:18.41,Default,ko,0,0,0,,무사시의 길에서 기다리는 것은 꽃인가 폭풍인가?
@@ -274,7 +274,7 @@ Dialogue: 0,0:10:36.14,0:10:40.08,Default,en,0,0,0,,A real Martial Artist does n
 Dialogue: 0,0:10:40.22,0:10:45.05,Default,ko,0,0,0,,닥쳐, 닥치시오! 나는 보쿠덴을 스승으로 모신, 별거 생활을 했던 무예가이오!
 Dialogue: 0,0:10:40.22,0:10:45.05,Default,en,0,0,0,,Shut your mouth up! I am a Martial Artist who had to live apart to serve Bokuden as my master-{\i1}dasu{\i0}!
 Dialogue: 0,0:10:45.26,0:10:49.52,Default,ko,0,0,0,,뭐라? 그 무토도리의 검성이라고 널리 알려진 보쿠덴의 제자?
-Dialogue: 0,0:10:45.26,0:10:49.52,Default,en,0,0,0,,What? A pupil of Bokuden, the master Martial Artist of {\i1}mutodori{\i0}?
+Dialogue: 0,0:10:45.26,0:10:49.52,Default,en,0,0,0,,What? A student of Bokuden, the master Martial Artist of {\i1}mutodori{\i0}?
 Dialogue: 0,0:10:50.73,0:10:54.00,Default,ko,0,0,0,,나를 향해 가짜라고 하는 것은 뭐오, 가짜는!
 Dialogue: 0,0:10:50.73,0:10:54.00,Default,en,0,0,0,,How dare you call me a fake-{\i1}dasu{\i0}?!
 Dialogue: 0,0:10:56.30,0:10:57.53,Default,ko,0,0,0,,무례를 저질렀다.
@@ -397,7 +397,7 @@ Dialogue: 0,0:16:01.77,0:16:09.10,Default,ko,0,0,0,,그래도 말야, 매실엿�
 Dialogue: 0,0:16:01.77,0:16:09.10,Default,en,0,0,0,,But still, even without pickled plums, only by thinking about those, I can feel the sourness and eat the porridge deliciously!
 Dialogue: 0,0:16:14.51,0:16:24.86,Default,ko,0,0,0,,무사시. 아까는 네가 형제들을 감싸 주었는데, 보쿠덴의 제자라는 것을 듣고 그 실력을 시험해 보고 싶어져 승부를 보자고 해 미안했다.
 Dialogue: 0,0:16:14.51,0:16:18.45,Default,en,0,0,0,,Musashi, I have to apologize. You've covered for my siblings earlier in the day,
-Dialogue: 0,0:16:18.70,0:16:24.86,Default,en,0,0,0,,but after hearing from you that you're a pupil of Bokuden, I asked you for a match because I wanted to test your ability.
+Dialogue: 0,0:16:18.70,0:16:24.86,Default,en,0,0,0,,but after hearing from you that you're a student of Bokuden, I asked you for a match because I wanted to test your ability.
 Dialogue: 0,0:16:26.04,0:16:30.34,Default,ko,0,0,0,,아니, 말도 안 되오. 나도 쿠사리가마로 싸워서 배울 수 있었소.
 Dialogue: 0,0:16:26.04,0:16:30.34,Default,en,0,0,0,,Nonsense-{\i1}dasu{\i0}. I could learn by fighting against an opponent with a {\i1}kusarigama{\i0}-{\i1}dasu{\i0}.
 Dialogue: 0,0:16:31.10,0:16:34.06,Default,ko,0,0,0,,그래도 흥미로운 무기이오.

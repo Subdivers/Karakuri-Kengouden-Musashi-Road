@@ -629,8 +629,8 @@ Comment: 0,0:19:10.63,0:19:13.85,Default,ja,0,0,0,,すまん、みんな。俺�
 Dialogue: 0,0:19:10.63,0:19:13.85,Default,ko,0,0,0,,미안, 다들. 내가 지켜야 했는데...
 Dialogue: 0,0:19:10.63,0:19:13.85,Default,en,0,0,0,,I'm sorry. I couldn't protect them...
 Comment: 0,0:19:14.36,0:19:19.56,Default,ja,0,0,0,,待っておったぞ、ムサシ、コジロー、ジュウベエ。三人まとめてあの世へ送ってやるわ！
-Dialogue: 0,0:19:14.36,0:19:19.56,Default,ko,0,0,0,,기다리고 있었다, 무사시, 코지로, 쥬베. 셋이서 한꺼번에 저 세상에 보내 주겠다!
-Dialogue: 0,0:19:14.36,0:19:19.56,Default,en,0,0,0,,I was waiting for you, Musashi, Kojirō, and Jube. You three are going to the other world this instant!
+Dialogue: 0,0:19:14.36,0:19:19.56,Default,ko,0,0,0,,기다리고 있었다, 무사시, 코지로, 주베. 셋이서 한꺼번에 저 세상에 보내 주겠다!
+Dialogue: 0,0:19:14.36,0:19:19.56,Default,en,0,0,0,,I was waiting for you, Musashi, Kojirō, and Jūbē. You three are going to the other world this instant!
 Comment: 0,0:19:20.10,0:19:21.42,Default,ja,0,0,0,,卑怯だス、ハンゾウ！
 Dialogue: 0,0:19:20.10,0:19:21.42,Default,ko,0,0,0,,비겁하오, 한조!
 Dialogue: 0,0:19:20.10,0:19:21.42,Default,en,0,0,0,,That's cowardly, Hanzo!
@@ -662,8 +662,8 @@ Comment: 0,0:20:21.13,0:20:25.83,Default,ja,0,0,0,,からくり変化！チョ�
 Dialogue: 0,0:20:21.13,0:20:25.83,Default,ko,0,0,0,,카라쿠리 변화! 초히 아머!
 Dialogue: 0,0:20:21.13,0:20:25.83,Default,en,0,0,0,,Karakuri Shift! Chohi Armor!
 Comment: 0,0:20:32.04,0:20:33.70,Default,ja,0,0,0,,ジュウベエまで鎧を！
-Dialogue: 0,0:20:32.04,0:20:33.70,Default,ko,0,0,0,,쥬베까지 갑주를!
-Dialogue: 0,0:20:32.04,0:20:33.70,Default,en,0,0,0,,Even Jube got an armor!
+Dialogue: 0,0:20:32.04,0:20:33.70,Default,ko,0,0,0,,주베까지 갑주를!
+Dialogue: 0,0:20:32.04,0:20:33.70,Default,en,0,0,0,,Even Jūbē got an armor!
 Comment: 0,0:20:53.42,0:20:55.09,Default,ja,0,0,0,,ハンゾウ！覚悟するダス！
 Dialogue: 0,0:20:53.42,0:20:55.09,Default,ko,0,0,0,,한조! 각오하시오!
 Dialogue: 0,0:20:53.42,0:20:55.09,Default,en,0,0,0,,Hanzo! Prepare yourself-dasu!
@@ -695,8 +695,8 @@ Comment: 0,0:21:41.78,0:21:43.74,Default,ja,0,0,0,,うん、おいら、感動�
 Dialogue: 0,0:21:41.78,0:21:43.74,Default,ko,0,0,0,,응, 나, 감동했어!
 Dialogue: 0,0:21:41.78,0:21:43.74,Default,en,0,0,0,,Yeah, I was moved!
 Comment: 0,0:21:44.07,0:21:46.13,Default,ja,0,0,0,,ジュウベエさん、おかわりします？
-Dialogue: 0,0:21:44.07,0:21:46.13,Default,ko,0,0,0,,쥬베 씨, 더 드실래요?
-Dialogue: 0,0:21:44.07,0:21:46.13,Default,en,0,0,0,,Mr. Jube, do you need more?
+Dialogue: 0,0:21:44.07,0:21:46.13,Default,ko,0,0,0,,주베 씨, 더 드실래요?
+Dialogue: 0,0:21:44.07,0:21:46.13,Default,en,0,0,0,,Mr. Jūbē, do you need more?
 Comment: 0,0:21:46.45,0:21:48.96,Default,ja,0,0,0,,あ、かたじけない。お願いします。
 Dialogue: 0,0:21:46.45,0:21:48.96,Default,ko,0,0,0,,아, 감사합니다. 부탁드립니다.
 Dialogue: 0,0:21:46.45,0:21:48.96,Default,en,0,0,0,,I'd like more. Thank you.

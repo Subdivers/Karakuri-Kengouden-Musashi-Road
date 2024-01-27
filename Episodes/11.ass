@@ -338,8 +338,8 @@ Comment: 0,0:07:41.60,0:07:43.37,Default,ja,0,0,0,,ま、参りました！
 Dialogue: 0,0:07:41.60,0:07:43.37,Default,ko,0,0,0,,져, 졌습니다!
 Dialogue: 0,0:07:41.60,0:07:43.37,Default,en,0,0,0,,I- I lost!
 Comment: 0,0:07:43.79,0:07:46.46,Default,ja,0,0,0,,勝負終わり！ジュウベエどのの勝ち！
-Dialogue: 0,0:07:43.79,0:07:46.46,Default,ko,0,0,0,,승부 끝! 쥬베 님의 승리!
-Dialogue: 0,0:07:43.79,0:07:46.46,Default,en,0,0,0,,Match set! Mr. Jube wins!
+Dialogue: 0,0:07:43.79,0:07:46.46,Default,ko,0,0,0,,승부 끝! 주베 님의 승리!
+Dialogue: 0,0:07:43.79,0:07:46.46,Default,en,0,0,0,,Match set! Mr. Jūbē wins!
 Comment: 0,0:07:51.16,0:07:54.92,Default,ja,0,0,0,,押尾様。。。・この予選会場ではないようだな。
 Dialogue: 0,0:07:51.16,0:07:54.92,Default,ko,0,0,0,,-스님...\N-이 예선장에도 없는 모양이구나.
 Dialogue: 0,0:07:51.16,0:07:54.92,Default,en,0,0,0,,-Master...\N-I guess he's not here too.
@@ -600,8 +600,8 @@ Comment: 0,0:13:08.88,0:13:11.06,Default,ja,0,0,0,,{\i1}幕府を倒そうっと
 Dialogue: 0,0:13:08.88,0:13:11.06,Default,ko,0,0,0,,{\i1}막부를 쓰러뜨리겠다는 나쁜 놈이오.
 Dialogue: 0,0:13:08.88,0:13:11.06,Default,en,0,0,0,,{\i1}a bad guy who's trying to take down shogunate.
 Comment: 0,0:13:11.50,0:13:14.05,Default,ja,0,0,0,,{\i1}おいら、ジュウベエさんに知らせようっと思ってただす！
-Dialogue: 0,0:13:11.50,0:13:14.05,Default,ko,0,0,0,,{\i1}나, 쥬베 씨에게 알려야겠다고 생각했소.
-Dialogue: 0,0:13:11.50,0:13:14.05,Default,en,0,0,0,,{\i1}I did thought I should tell this to Mr. Jube.
+Dialogue: 0,0:13:11.50,0:13:14.05,Default,ko,0,0,0,,{\i1}나, 주베 씨에게 알려야겠다고 생각했소.
+Dialogue: 0,0:13:11.50,0:13:14.05,Default,en,0,0,0,,{\i1}I did thought I should tell this to Mr. Jūbē.
 Comment: 0,0:13:16.06,0:13:19.02,Default,ja,0,0,0,,いかんだス！おいら、武芸大会に来たんだス！
 Dialogue: 0,0:13:16.06,0:13:19.02,Default,ko,0,0,0,,안되오! 나, 무예 대회에 온 것이오!
 Dialogue: 0,0:13:16.06,0:13:19.02,Default,en,0,0,0,,No-{\i1}dasu{\i0}! I came to the martial arts competition!
@@ -1008,8 +1008,8 @@ Comment: 0,0:24:09.93,0:24:14.83,Default,ja,0,0,0,,その子、実はイエヤ�
 Dialogue: 0,0:24:09.93,0:24:14.83,Default,ko,0,0,0,,그 아이, 사실은 이에야스의 손녀인 센히메였지만 그걸 몰랐던 나는
 Dialogue: 0,0:24:09.93,0:24:14.83,Default,en,0,0,0,,That child actually was Senhime who is a granddaughter of Ieyasu, but not knowing that,
 Comment: 0,0:24:14.83,0:24:19.14,Default,ja,0,0,0,,武芸大会会場へ乗り込んで、ジュウベエさんと戦うことになった出す！
-Dialogue: 0,0:24:14.83,0:24:19.14,Default,ko,0,0,0,,무예 대회 회장에 몰래 들어가 쥬베 님과 싸우게 됐소.
-Dialogue: 0,0:24:14.83,0:24:19.14,Default,en,0,0,0,,I sneaked into the martial arts competition place and had a match against Mr. Jube-{\i1}dasu{\i0}.
+Dialogue: 0,0:24:14.83,0:24:19.14,Default,ko,0,0,0,,무예 대회 회장에 몰래 들어가 주베 님과 싸우게 됐소.
+Dialogue: 0,0:24:14.83,0:24:19.14,Default,en,0,0,0,,I sneaked into the martial arts competition place and had a match against Mr. Jūbē-{\i1}dasu{\i0}.
 Comment: 0,0:24:19.60,0:24:22.30,Default,ja,0,0,0,,次回！センヒメ助けて勝負ダス！
 Dialogue: 0,0:24:19.60,0:24:22.30,Default,ko,0,0,0,,다음 이야기! 센히메를 구하고 승부이오
 Dialogue: 0,0:24:19.60,0:24:22.30,Default,en,0,0,0,,Next story! Rescue Senhime and Have a Match
