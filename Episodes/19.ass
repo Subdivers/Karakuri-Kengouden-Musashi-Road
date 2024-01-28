@@ -45,6 +45,7 @@ Dialogue: 0,0:00:44.40,0:00:49.44,SongOP,OP!Lyric04,0,0,0,,心の刃　大空に
 Dialogue: 0,0:00:50.08,0:00:54.08,SongOP,OP!Lyric05,0,0,0,,冒険の旅の　幕を開ける
 Dialogue: 0,0:00:55.41,0:01:00.67,SongOP,OP!Lyric06,0,0,0,,ジパング国を　さすらう剣豪
 Dialogue: 0,0:01:01.25,0:01:06.29,SongOP,OP!Lyric07,0,0,0,,その名　からくりびと　ムサシ
+Dialogue: 0,0:01:06.29,0:01:07.79,SongOP,OP!Lyric08,0,0,0,,GO! FIGHT!
 Dialogue: 0,0:01:07.79,0:01:10.75,SongOP,OP!Lyric09,0,0,0,,鍔迫り合いの音が
 Dialogue: 0,0:01:10.75,0:01:13.56,SongOP,OP!Lyric10,0,0,0,,眩しい人生
 Dialogue: 0,0:01:13.56,0:01:19.02,SongOP,OP!Lyric11,0,0,0,,戦い　昨日よりも　今日　強い
@@ -54,7 +55,7 @@ Dialogue: 0,0:01:28.27,0:01:30.74,SongOP,OP!Lyric14,0,0,0,,鍔迫り合いの音
 Dialogue: 0,0:01:30.74,0:01:33.25,SongOP,OP!Lyric15,0,0,0,,眩しい人生
 Dialogue: 0,0:01:33.95,0:01:39.34,SongOP,OP!Lyric16,0,0,0,,戦い　思い切りと　静けさと
 Dialogue: 0,0:01:39.36,0:01:45.59,SongOP,OP!Lyric17,0,0,0,,BUGEI! 二刀流　ムサシ
-Dialogue: 0,0:01:45.59,0:01:50.85,SongOP,OP!Lyric17,0,0,0,,みけんが　きらめいた　ムサシ！！
+Dialogue: 0,0:01:45.59,0:01:50.85,SongOP,OP!Lyric18,0,0,0,,みけんが　きらめいた　ムサシ！！
 Comment: 0,0:02:00.58,0:02:06.45,Default,ja,0,0,0,,天空丸、天地丸のにとうをわがとしたムサシは、二天一流の勘違いを目指した。
 Dialogue: 0,0:02:00.58,0:02:06.45,Default,ko,0,0,0,,천공환, 천지환과 이도류를 자기 것으로 만든 무사시는 이천일류의 완성을 노린다.
 Dialogue: 0,0:02:00.58,0:02:06.45,Note,en,0,0,0,,({\i1}Niten'ichi-ryu{\i0}: {\fnMeiryo UI}二天一流{\r}, {\i1}Musashi-ryu{\i0}; the art of using two swords)

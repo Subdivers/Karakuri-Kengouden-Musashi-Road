@@ -45,6 +45,7 @@ Dialogue: 0,0:00:44.48,0:00:49.53,SongOP,OP!Lyric04,0,0,0,,心の刃　大空に
 Dialogue: 0,0:00:50.15,0:00:54.16,SongOP,OP!Lyric05,0,0,0,,冒険の旅の　幕を開ける
 Dialogue: 0,0:00:55.49,0:01:00.75,SongOP,OP!Lyric06,0,0,0,,ジパング国を　さすらう剣豪
 Dialogue: 0,0:01:01.33,0:01:06.38,SongOP,OP!Lyric07,0,0,0,,その名　からくりびと　ムサシ
+Dialogue: 0,0:01:06.38,0:01:07.88,SongOP,OP!Lyric08,0,0,0,,GO! FIGHT!
 Dialogue: 0,0:01:07.88,0:01:10.80,SongOP,OP!Lyric09,0,0,0,,鍔迫り合いの音が
 Dialogue: 0,0:01:10.80,0:01:13.64,SongOP,OP!Lyric10,0,0,0,,眩しい人生
 Dialogue: 0,0:01:13.64,0:01:19.10,SongOP,OP!Lyric11,0,0,0,,戦い　昨日よりも　今日　強い
@@ -54,7 +55,7 @@ Dialogue: 0,0:01:28.24,0:01:30.82,SongOP,OP!Lyric14,0,0,0,,鍔迫り合いの音
 Dialogue: 0,0:01:30.82,0:01:33.32,SongOP,OP!Lyric15,0,0,0,,眩しい人生
 Dialogue: 0,0:01:34.03,0:01:39.41,SongOP,OP!Lyric16,0,0,0,,戦い　思い切りと　静けさと
 Dialogue: 0,0:01:39.46,0:01:45.67,SongOP,OP!Lyric17,0,0,0,,BUGEI! 二刀流　ムサシ
-Dialogue: 0,0:01:45.67,0:01:50.88,SongOP,OP!Lyric17,0,0,0,,みけんが　きらめいた　ムサシ！！
+Dialogue: 0,0:01:45.67,0:01:50.88,SongOP,OP!Lyric18,0,0,0,,みけんが　きらめいた　ムサシ！！
 Comment: 0,0:01:59.41,0:02:04.57,Default,ja,0,0,0,,ムサシ達はリョウマからの情報で、メガトンジョーを折って、瀬戸内海へまかう。
 Dialogue: 0,0:01:59.41,0:02:04.57,Default,ko,0,0,0,,무사시 일행은 료마에게서 받은 정보로 메가톤성을 쫒아 세토 내해로 향한다.
 Dialogue: 0,0:01:59.41,0:02:04.57,Default,en,0,0,0,,According to the information by Ryoma, Musashi and others head to Seto Inland Sea to chase Megaton Castle.

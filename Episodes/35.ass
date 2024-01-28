@@ -45,6 +45,7 @@ Dialogue: 0,0:00:44.39,0:00:49.44,SongOP,OP!Lyric04,0,0,0,,心の刃　大空に
 Dialogue: 0,0:00:50.06,0:00:54.07,SongOP,OP!Lyric05,0,0,0,,冒険の旅の　幕を開ける
 Dialogue: 0,0:00:55.40,0:01:00.66,SongOP,OP!Lyric06,0,0,0,,ジパング国を　さすらう剣豪
 Dialogue: 0,0:01:01.24,0:01:06.29,SongOP,OP!Lyric07,0,0,0,,その名　からくりびと　ムサシ
+Dialogue: 0,0:01:06.29,0:01:07.79,SongOP,OP!Lyric08,0,0,0,,GO! FIGHT!
 Dialogue: 0,0:01:07.79,0:01:10.71,SongOP,OP!Lyric09,0,0,0,,鍔迫り合いの音が
 Dialogue: 0,0:01:10.71,0:01:13.55,SongOP,OP!Lyric10,0,0,0,,眩しい人生
 Dialogue: 0,0:01:13.55,0:01:19.01,SongOP,OP!Lyric11,0,0,0,,戦い　昨日よりも　今日　強い
@@ -54,7 +55,7 @@ Dialogue: 0,0:01:28.15,0:01:30.73,SongOP,OP!Lyric14,0,0,0,,鍔迫り合いの音
 Dialogue: 0,0:01:30.73,0:01:33.23,SongOP,OP!Lyric15,0,0,0,,眩しい人生
 Dialogue: 0,0:01:33.94,0:01:39.32,SongOP,OP!Lyric16,0,0,0,,戦い　思い切りと　静けさと
 Dialogue: 0,0:01:39.37,0:01:45.58,SongOP,OP!Lyric17,0,0,0,,BUGEI! 二刀流　ムサシ
-Dialogue: 0,0:01:45.58,0:01:50.79,SongOP,OP!Lyric17,0,0,0,,みけんが　きらめいた　ムサシ！！
+Dialogue: 0,0:01:45.58,0:01:50.79,SongOP,OP!Lyric18,0,0,0,,みけんが　きらめいた　ムサシ！！
 Comment: 0,0:01:59.47,0:02:06.51,Default,ja,0,0,0,,ジライヤンにヒミコは不知火一族の女王だといわれたムサシ。しかし、そんなことは信じられなかった。
 Dialogue: 0,0:01:59.47,0:02:06.51,Default,ko,0,0,0,,지라이얀은 무사시에게 히미코가 시라누이 일족의 여왕이라고 말했다. 그러나 믿기지 않는 일이었다.
 Dialogue: 0,0:01:59.47,0:02:06.51,Default,en,0,0,0,,Jiraiyan told Musashi that Himiko is the queen of Shiranui Clan. But he couldn't believe that.

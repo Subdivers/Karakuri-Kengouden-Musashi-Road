@@ -55,6 +55,7 @@ Dialogue: 0,0:00:44.64,0:00:49.69,SongOP,OP!Lyric04,0,0,0,,心の刃　大空に
 Dialogue: 0,0:00:50.32,0:00:54.32,SongOP,OP!Lyric05,0,0,0,,冒険の旅の　幕を開ける
 Dialogue: 0,0:00:55.66,0:01:00.91,SongOP,OP!Lyric06,0,0,0,,ジパング国を　さすらう剣豪
 Dialogue: 0,0:01:01.49,0:01:06.54,SongOP,OP!Lyric07,0,0,0,,その名　からくりびと　ムサシ
+Dialogue: 0,0:01:06.54,0:01:08.04,SongOP,OP!Lyric08,0,0,0,,GO! FIGHT!
 Dialogue: 0,0:01:08.04,0:01:10.96,SongOP,OP!Lyric09,0,0,0,,鍔迫り合いの音が
 Dialogue: 0,0:01:10.96,0:01:13.80,SongOP,OP!Lyric10,0,0,0,,眩しい人生
 Dialogue: 0,0:01:13.80,0:01:19.26,SongOP,OP!Lyric11,0,0,0,,戦い　昨日よりも　今日　強い
@@ -64,7 +65,7 @@ Dialogue: 0,0:01:28.51,0:01:30.98,SongOP,OP!Lyric14,0,0,0,,鍔迫り合いの音
 Dialogue: 0,0:01:30.98,0:01:33.48,SongOP,OP!Lyric15,0,0,0,,眩しい人生
 Dialogue: 0,0:01:34.19,0:01:39.57,SongOP,OP!Lyric16,0,0,0,,戦い　思い切りと　静けさと
 Dialogue: 0,0:01:39.62,0:01:45.83,SongOP,OP!Lyric17,0,0,0,,BUGEI! 二刀流　ムサシ
-Dialogue: 0,0:01:45.83,0:01:51.09,SongOP,OP!Lyric17,0,0,0,,みけんが　きらめいた　ムサシ！！
+Dialogue: 0,0:01:45.83,0:01:51.09,SongOP,OP!Lyric18,0,0,0,,みけんが　きらめいた　ムサシ！！
 Comment: 0,0:02:01.72,0:02:07.51,Default,ja,0,0,0,,一路エドトピアへ向かうムサシは伊賀忍者を率いるハンゾウにとらえられてしまった。
 Dialogue: 0,0:02:01.72,0:02:07.51,Default,ko,0,0,0,,여행하며 에도토피아에 향하던 무사시는 이하 닌자를 이끄는 한조에게 붙잡히고 말았다.
 Dialogue: 0,0:02:01.72,0:02:07.51,Default,en,0,0,0,,While heading to Edotopia, Musashi was captured by Hanzō, the leader of Iga ninjas.
