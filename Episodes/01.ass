@@ -16,9 +16,8 @@ Video File: ../Videos/01.mp4
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 738
-Active Line: 770
-Video Position: 35174
+Active Line: 85
+Video Position: 5420
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -118,7 +117,7 @@ Dialogue: 0,0:03:34.53,0:03:35.92,Default,en,0,0,0,,My legs have given out...
 Comment: 0,0:03:39.62,0:03:42.59,Default,ja,0,0,0,,今日もお客さんがたくさん来ますように！
 Dialogue: 0,0:03:39.62,0:03:42.59,Default,ko,0,0,0,,오늘도 손님이 많이 오도록...
 Dialogue: 0,0:03:39.62,0:03:42.59,Default,en,0,0,0,,May I be visited by many customers today...
-Comment: 0,0:03:43.06,0:03:46.10,Default,ja,0,0,0,,ほんでもってたくさんも借りますように！
+Comment: 0,0:03:43.06,0:03:46.10,Default,ja,0,0,0,,{???}ほんでもってたくさんも借りますように！
 Dialogue: 0,0:03:43.06,0:03:46.10,Default,ko,0,0,0,,정말 많이 오도록!
 Dialogue: 0,0:03:43.06,0:03:46.10,Default,en,0,0,0,,As if it'd be raining with customers!
 Comment: 0,0:03:47.74,0:03:49.47,Default,ja,0,0,0,,いっただき！
@@ -289,7 +288,7 @@ Dialogue: 0,0:07:56.91,0:07:59.37,Default,en,0,0,0,,Hey! What are you doing!?
 Comment: 0,0:07:59.46,0:08:04.55,Default,ja,0,0,0,,本当は選択好きじゃないのよ～
 Dialogue: 0,0:07:59.46,0:08:04.55,Default,ko,0,0,0,,사실은 세탁 싫어~
 Dialogue: 0,0:07:59.46,0:08:04.55,Default,en,0,0,0,,I actually don't like washing~
-Comment: 0,0:08:04.55,0:08:05.73,Default,ja,0,0,0,,
+Comment: 0,0:08:04.55,0:08:05.73,Default,ja,0,0,0,,{???}
 Dialogue: 0,0:08:04.55,0:08:05.73,Default,ko,0,0,0,,멈춰라!
 Dialogue: 0,0:08:04.55,0:08:05.73,Default,en,0,0,0,,Stop running!
 Comment: 0,0:08:06.22,0:08:06.81,Default,ja,0,0,0,,あ？
@@ -372,7 +371,7 @@ Dialogue: 0,0:10:07.57,0:10:14.34,Default,en,0,0,0,,That's right, my chicken cag
 Comment: 0,0:10:14.47,0:10:17.23,Default,ja,0,0,0,,さあ！洲巻にして川にぶち込むんだ！
 Dialogue: 0,0:10:14.47,0:10:17.23,Default,ko,0,0,0,,자! 대발로 감아 강에 쳐넣자!
 Dialogue: 0,0:10:14.47,0:10:17.23,Default,en,0,0,0,,Let's tie him up and throw him into a river!
-Comment: 0,0:10:18.23,0:10:22.39,Default,ja,0,0,0,,分かったよ！さっさと焼くなり見るなり、勝手にするでござるだス！
+Comment: 0,0:10:18.23,0:10:22.39,Default,ja,0,0,0,,分かったよ！さっさと焼くなり見るなり{???}、勝手にするでござるだス！
 Dialogue: 0,0:10:18.23,0:10:22.39,Default,ko,0,0,0,,알았소! 빨랑빨랑 태우든 매달든 마음대로 하시오!
 Dialogue: 0,0:10:18.23,0:10:22.39,Default,en,0,0,0,,Sure, then! Throw me into a fire, hang me on a tree, do whatever you want-{\i1}dasu{\i0}!
 Comment: 0,0:10:22.39,0:10:24.53,Default,ja,0,0,0,,よし、望み通りにしやるぞ。
@@ -658,7 +657,7 @@ Dialogue: 0,0:18:42.09,0:18:44.71,Default,en,0,0,0,,Otsuru, I... I...
 Comment: 0,0:18:44.71,0:18:45.83,Default,ja,0,0,0,,ええ、なに？
 Dialogue: 0,0:18:44.71,0:18:45.83,Default,ko,0,0,0,,네, 뭐에요?
 Dialogue: 0,0:18:44.71,0:18:45.83,Default,en,0,0,0,,Yes, what is it?
-Comment: 0,0:18:46.00,0:18:48.82,Default,ja,0,0,0,,あの、た、達者で言ってほしいだス。
+Comment: 0,0:18:46.00,0:18:48.82,Default,ja,0,0,0,,あの、た、達者で言って{???}ほしいだス。
 Dialogue: 0,0:18:46.00,0:18:48.82,Default,ko,0,0,0,,저... 작별인사를 해 주면 고맙겠소!
 Dialogue: 0,0:18:46.00,0:18:48.82,Default,en,0,0,0,,I... I'd like a farewell from you-{\i1}dasu{\i0}!
 Comment: 0,0:18:52.75,0:18:56.51,Default,ja,0,0,0,,元気でね、ムサシさん！
@@ -685,7 +684,7 @@ Dialogue: 0,0:19:34.87,0:19:36.91,Default,en,0,0,0,,Wait a moment-{\i1}dasu{\i0}
 Comment: 0,0:19:39.40,0:19:41.49,Default,ja,0,0,0,,待てと言うのは私のことか。
 Dialogue: 0,0:19:39.40,0:19:41.49,Default,ko,0,0,0,,기다리라는 건 나 말인가.
 Dialogue: 0,0:19:39.40,0:19:41.49,Default,en,0,0,0,,Are you talking to me?
-Comment: 0,0:19:42.02,0:19:47.29,Default,ja,0,0,0,,そ、そうだす。おいら、武芸の修行中のみ、お手合わせを願うでござるだス。
+Comment: 0,0:19:42.02,0:19:47.29,Default,ja,0,0,0,,そ、そうだす。おいら、武芸の修行中のみ{???}、お手合わせを願うでござるだス。
 Dialogue: 0,0:19:42.02,0:19:47.29,Default,ko,0,0,0,,그, 그렇소. 나, 무예의 수련을 위해 상대가 되어 주길 부탁드리오.
 Dialogue: 0,0:19:42.02,0:19:47.29,Default,en,0,0,0,,That's right-{\i1}dasu{\i0}. For my training, I'd like you to be my opponent-{\i1}dasu{\i0}.
 Comment: 0,0:19:47.99,0:19:49.83,Default,ja,0,0,0,,お弁当付けて何をいう。
@@ -730,7 +729,7 @@ Dialogue: 0,0:20:40.27,0:20:45.06,Default,en,0,0,0,,How shall I call someone who
 Comment: 0,0:20:45.27,0:20:46.24,Default,ja,0,0,0,,あきれたやつだ！
 Dialogue: 0,0:20:45.27,0:20:46.24,Default,ko,0,0,0,,기막힌 놈이구나!
 Dialogue: 0,0:20:45.27,0:20:46.24,Default,en,0,0,0,,How astonishing!
-Comment: 0,0:20:46.82,0:20:51.52,Default,ja,0,0,0,,じょうとだス！名のある武芸者なら、おいらが倒して名をあげるだス！
+Comment: 0,0:20:46.82,0:20:51.52,Default,ja,0,0,0,,{???}じょうとだス！名のある武芸者なら、おいらが倒して名をあげるだス！
 Dialogue: 0,0:20:46.82,0:20:51.52,Default,ko,0,0,0,,좋소! 이름 있는 무예가라면 내가 쓰러뜨려 이름을 세우겠소!
 Dialogue: 0,0:20:46.82,0:20:51.52,Default,en,0,0,0,,Fine-{\i1}dasu{\i0}! If you're a famous martial artist, then I will take you down and make myself famous-{\i1}dasu{\i0}!
 Comment: 0,0:20:51.85,0:20:55.76,Default,ja,0,0,0,,よかろう！武芸の道がいたに厳しいものか教えてやろう！
@@ -790,7 +789,7 @@ Dialogue: 0,0:24:05.19,0:24:09.24,Default,en,0,0,0,,To think that there's someon
 Comment: 0,0:24:09.73,0:24:13.30,Default,ja,0,0,0,,ひょんなことからヨシオカ一門と一戦交えることになったんだスが、
 Dialogue: 0,0:24:09.73,0:24:13.30,Default,ko,0,0,0,,일이 꼬여 요시오카 일족과 척을 지게 되었지만,
 Dialogue: 0,0:24:09.73,0:24:13.30,Default,en,0,0,0,,Things get messed up and I fight against Yoshioka clan,
-Comment: 0,0:24:13.60,0:24:17.45,Default,ja,0,0,0,,なんとも早く寡勢に無勢！そこに現れたのがボクデン先生。
+Comment: 0,0:24:13.60,0:24:17.45,Default,ja,0,0,0,,なんとも早く多勢に無勢！そこに現れたのがボクデン先生。
 Dialogue: 0,0:24:13.60,0:24:17.45,Default,ko,0,0,0,,그 순간, 바람과도 같이 나타난 보쿠덴 선생님.
 Dialogue: 0,0:24:13.60,0:24:17.45,Default,en,0,0,0,,but Master Bokuden appeared like a wind and saved me.
 Comment: 0,0:24:17.85,0:24:20.88,Default,ja,0,0,0,,おいらはさっそく押しかけて弟子にしてもらったでござる。
