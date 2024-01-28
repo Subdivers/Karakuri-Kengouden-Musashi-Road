@@ -92,7 +92,7 @@ Dialogue: 0,0:02:06.28,0:02:10.57,Default,ko,0,0,0,,야규신카게류의 비검
 Dialogue: 0,0:02:06.28,0:02:10.57,Default,en,0,0,0,,But he ended in defeat in front of the secret sword of Yagyū Shinkage Style.
 Comment: 0,0:02:11.27,0:02:18.03,Default,ja,0,0,0,,意気消沈してそこに出たムサシを待っていたのはハンゾウの恐るべき罠だった。
 Dialogue: 0,0:02:11.27,0:02:18.03,Default,ko,0,0,0,,의기소침해 바깥으로 나온 무사시를 기다리고 있던 것은 한조의 무서운 함정이었다.
-Dialogue: 0,0:02:11.27,0:02:18.03,Default,en,0,0,0,,Dispirited, Musashi went out, and Hanzo's frightening trap was waiting for him.
+Dialogue: 0,0:02:11.27,0:02:18.03,Default,en,0,0,0,,Dispirited, Musashi went out, and Hanzō's frightening trap was waiting for him.
 Dialogue: 0,0:02:18.03,0:02:23.03,TitleEP,ko,0,0,70,,카라쿠리 검호 총출격
 Dialogue: 0,0:02:18.03,0:02:23.03,TitleEP,en,0,0,90,,Go Out at Once!
 Dialogue: 0,0:02:18.03,0:02:23.03,TitleEP,en,0,0,235,,Karakuri Martial Artists
@@ -128,7 +128,7 @@ Dialogue: 0,0:03:36.62,0:03:38.56,Default,ko,0,0,0,,코지로, 대단하구먼.
 Dialogue: 0,0:03:36.62,0:03:38.56,Default,en,0,0,0,,Kojirō's pretty good.
 Comment: 0,0:03:52.49,0:03:56.81,Default,ja,0,0,0,,そのころ、ハンゾウ屋敷にとらえられたムサシは。。。
 Dialogue: 0,0:03:52.49,0:03:56.81,Default,ko,0,0,0,,그 동안, 한조의 저택에 잡힌 무사시는...
-Dialogue: 0,0:03:52.49,0:03:56.81,Default,en,0,0,0,,Meanwhile, Musashi trapped in Hanzo's mansion was...
+Dialogue: 0,0:03:52.49,0:03:56.81,Default,en,0,0,0,,Meanwhile, Musashi trapped in Hanzō's mansion was...
 Comment: 0,0:03:58.40,0:03:59.82,Default,ja,0,0,0,,誰か！
 Dialogue: 0,0:03:58.40,0:03:59.82,Default,ko,0,0,0,,아무나!
 Dialogue: 0,0:03:58.40,0:03:59.82,Default,en,0,0,0,,Anyone!
@@ -158,7 +158,7 @@ Dialogue: 0,0:04:17.36,0:04:21.57,Default,ko,0,0,0,,날 속이고 멋대로 사�
 Dialogue: 0,0:04:17.36,0:04:21.57,Default,en,0,0,0,,Deceive me and arrange execution as you please? Completely unforgivable-{\i1}dasu{\i0}!
 Comment: 0,0:04:21.93,0:04:25.50,Default,ja,0,0,0,,ハンゾウ様が決めたんだ。じたばたしたって無駄だぜ。
 Dialogue: 0,0:04:21.93,0:04:25.50,Default,ko,0,0,0,,한조 님이 정했다. 버둥쳐도 소용없다!
-Dialogue: 0,0:04:21.93,0:04:25.50,Default,en,0,0,0,,It's Lord Hanzo's decision. A struggle is futile!
+Dialogue: 0,0:04:21.93,0:04:25.50,Default,en,0,0,0,,It's Lord Hanzō's decision. A struggle is futile!
 Comment: 0,0:04:26.00,0:04:28.44,Default,ja,0,0,0,,おいら、悪いことなんてしてないでござるダス！
 Dialogue: 0,0:04:26.00,0:04:28.44,Default,ko,0,0,0,,난 나쁜 짓 따위 하지 않았소!
 Dialogue: 0,0:04:26.00,0:04:28.44,Default,en,0,0,0,,I never did something bad-{\i1}dasu{\i0}!
@@ -383,7 +383,7 @@ Dialogue: 0,0:11:41.45,0:11:47.76,Default,ko,0,0,0,,지금부터 제 1회 지팡
 Dialogue: 0,0:11:41.45,0:11:47.76,Default,en,0,0,0,,From now on, we will begin the award ceremony of the 1st Jipangu Martial Arts Competition!
 Comment: 0,0:11:56.20,0:11:59.16,Default,ja,0,0,0,,そのころ、ハンゾウの屋敷では。。。
 Dialogue: 0,0:11:56.20,0:11:59.16,Default,ko,0,0,0,,그 쯤, 한조의 저택에서는...
-Dialogue: 0,0:11:56.20,0:11:59.16,Default,en,0,0,0,,Meanwhile, in Hanzo's mansion...
+Dialogue: 0,0:11:56.20,0:11:59.16,Default,en,0,0,0,,Meanwhile, in Hanzō's mansion...
 Comment: 0,0:11:59.16,0:12:02.64,Default,ja,0,0,0,,離せ！どうするつもりだす、こら！
 Dialogue: 0,0:11:59.16,0:12:02.64,Default,ko,0,0,0,,놓아! 어쩔 생각이냐! 이놈!
 Dialogue: 0,0:11:59.16,0:12:02.64,Default,en,0,0,0,,Let me go! What are you going to do with me-{\i1}dasu{\i0}? Hey!
@@ -433,7 +433,7 @@ Dialogue: 0,0:13:08.30,0:13:11.15,Default,ko,0,0,0,,센히메, 지금 수상식�
 Dialogue: 0,0:13:08.30,0:13:11.15,Default,en,0,0,0,,Senhime, we're in the middle of...
 Comment: 0,0:13:11.15,0:13:17.81,Default,ja,0,0,0,,悪いけどそれところじゃないの。ムサシさんが、ハンゾウたちに捕まって屋敷に連れていかれちゃったんです！
 Dialogue: 0,0:13:11.15,0:13:17.81,Default,ko,0,0,0,,안됐지만 그럴 때가 아니야! 무사시 씨가 한조에게 잡혀서 저택에 끌려갔어!
-Dialogue: 0,0:13:11.15,0:13:17.81,Default,en,0,0,0,,I'm sorry, but this is no time for that! Hanzo captured Mr. Musashi and took him to his mansion!
+Dialogue: 0,0:13:11.15,0:13:17.81,Default,en,0,0,0,,I'm sorry, but this is no time for that! Hanzō captured Mr. Musashi and took him to his mansion!
 Comment: 0,0:13:17.81,0:13:19.13,Default,ja,0,0,0,,ムサシ？
 Dialogue: 0,0:13:17.81,0:13:19.13,Default,ko,0,0,0,,무사시?
 Dialogue: 0,0:13:17.81,0:13:19.13,Default,en,0,0,0,,Musashi?
@@ -559,7 +559,7 @@ Dialogue: 0,0:15:58.25,0:15:59.04,Default,ko,0,0,0,,주베 씨?
 Dialogue: 0,0:15:58.25,0:15:59.04,Default,en,0,0,0,,Mr. Jūbē?
 Comment: 0,0:16:00.44,0:16:03.61,Default,ja,0,0,0,,いやしくも将軍家のお庭番、イガハンゾウのお屋敷。
 Dialogue: 0,0:16:00.44,0:16:03.61,Default,ko,0,0,0,,일단 이곳은 쇼군의 직속 밀정, 이가 닌자 한조의 저택이다.
-Dialogue: 0,0:16:00.44,0:16:03.61,Default,en,0,0,0,,First, this place is the mansion of Iga Ninja Hanzo, the Shogun's spy.
+Dialogue: 0,0:16:00.44,0:16:03.61,Default,en,0,0,0,,First, this place is the mansion of Iga Ninja Hanzō, the Shogun's spy.
 Comment: 0,0:16:03.92,0:16:07.75,Default,ja,0,0,0,,たとえジュウベエ殿であろうと、狼藉を許すわけにはまいらぬ。
 Dialogue: 0,0:16:03.92,0:16:07.75,Default,ko,0,0,0,,설마 주베 님이라 하더라도 반역은 용서할 수 없다.
 Dialogue: 0,0:16:03.92,0:16:07.75,Default,en,0,0,0,,Even for you, Mr. Jūbē, I will not forgive your treachery.
@@ -643,7 +643,7 @@ Dialogue: 0,0:17:41.21,0:17:43.07,Default,ko,0,0,0,,네이놈, 주베 놈.
 Dialogue: 0,0:17:41.21,0:17:43.07,Default,en,0,0,0,,Jūbē, you bastard...
 Comment: 0,0:17:43.61,0:17:49.00,Default,ja,0,0,0,,斯くなる上はこのハンゾウ、ムサシを必ずや地獄に送り届けてくれる。
 Dialogue: 0,0:17:43.61,0:17:49.00,Default,ko,0,0,0,,이렇게 된 바에는 이 한조가 무사시를 반드시 지옥으로 보내 주겠다.
-Dialogue: 0,0:17:43.61,0:17:49.00,Default,en,0,0,0,,Since it came to this, I, Hanzo, will send Musashi to hell no matter what.
+Dialogue: 0,0:17:43.61,0:17:49.00,Default,en,0,0,0,,Since it came to this, I, Hanzō, will send Musashi to hell no matter what.
 Comment: 0,0:17:54.24,0:17:59.50,Default,ja,0,0,0,,こんなに探しても見つからないなんて、本当にどこへ行っちゃたのかしら。
 Dialogue: 0,0:17:54.24,0:17:59.50,Default,ko,0,0,0,,이렇게 찾아도 발견하지 못하다니, 정말 어디에 갔을까요...
 Dialogue: 0,0:17:54.24,0:17:59.50,Default,en,0,0,0,,Even after looking for him so hardly we couldn't find him. Where could he go to?

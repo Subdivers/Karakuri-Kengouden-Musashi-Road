@@ -988,16 +988,16 @@ Dialogue: 0,0:21:01.17,0:21:04.14,Default,ko,0,0,0,,저, 정말입니까? 그건
 Dialogue: 0,0:21:01.17,0:21:04.14,Default,en,0,0,0,,A- are you serious!? That's a big problem!
 Comment: 0,0:21:04.79,0:21:08.89,Default,ja,0,0,0,,ハンゾウはまだ死んでなかったのよ。ハンゾウがエドトピアを襲っているの！
 Dialogue: 0,0:21:04.79,0:21:08.89,Default,ko,0,0,0,,한조는 아직 죽지 않았던 거야. 한조가 에도토피아를 공격하고 있어!
-Dialogue: 0,0:21:04.79,0:21:08.89,Default,en,0,0,0,,Hanzo wasn't dead yet. Hanzo is attacking Edotopia!
+Dialogue: 0,0:21:04.79,0:21:08.89,Default,en,0,0,0,,Hanzō wasn't dead yet. Hanzō is attacking Edotopia!
 Comment: 0,0:21:08.89,0:21:11.01,Default,ja,0,0,0,,なんだす？・ハンゾウが？！
 Dialogue: 0,0:21:08.89,0:21:11.01,Default,ko,0,0,0,,-뭣이오!?\N-한조가!?
-Dialogue: 0,0:21:08.89,0:21:11.01,Default,en,0,0,0,,-What-{\1}dasu{\i0}?\N-Hanzo!?
+Dialogue: 0,0:21:08.89,0:21:11.01,Default,en,0,0,0,,-What-{\1}dasu{\i0}?\N-Hanzō!?
 Comment: 0,0:21:11.27,0:21:14.76,Default,ja,0,0,0,,みんな、超空殿に乗って！エドトピアへ急ぐに！
 Dialogue: 0,0:21:11.27,0:21:14.76,Default,ko,0,0,0,,다들 초공전에 타! 에도토피아에 가자!
 Dialogue: 0,0:21:11.27,0:21:14.76,Default,en,0,0,0,,Everyone, get onto Chokuden! Let's go to Edotopia!
 Comment: 0,0:21:19.64,0:21:22.55,Default,ja,0,0,0,,まだ生きてるとは、ハンゾウとはしぶといやつだな！
 Dialogue: 0,0:21:19.64,0:21:22.55,Default,ko,0,0,0,,아직 살아 있었다니, 한조도 참 끈질긴 놈이구나!
-Dialogue: 0,0:21:19.64,0:21:22.55,Default,en,0,0,0,,To know that Hanzo's still alive, he's really persistent!
+Dialogue: 0,0:21:19.64,0:21:22.55,Default,en,0,0,0,,To know that Hanzō's still alive, he's really persistent!
 Comment: 0,0:21:22.99,0:21:24.55,Default,ja,0,0,0,,ああ、それは嘘です。
 Dialogue: 0,0:21:22.99,0:21:24.55,Default,ko,0,0,0,,예, 그건 거짓말입니다.
 Dialogue: 0,0:21:22.99,0:21:24.55,Default,en,0,0,0,,Oh, that's a lie.

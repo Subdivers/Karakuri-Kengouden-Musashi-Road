@@ -210,7 +210,7 @@ Dialogue: 0,0:06:00.23,0:06:04.54,Default,ko,0,0,0,,아무리 이 바벨 13을 �
 Dialogue: 0,0:06:00.23,0:06:04.54,Default,en,0,0,0,,They found out Babel 13 at last, but it's not going to help them.
 Comment: 0,0:06:05.05,0:06:07.36,Default,ja,0,0,0,,ハンゾウ。油断するではないぞ。
 Dialogue: 0,0:06:05.05,0:06:07.36,Default,ko,0,0,0,,한조. 방심하면 안 된다.
-Dialogue: 0,0:06:05.05,0:06:07.36,Default,en,0,0,0,,Hanzo. Do not treat this incident lightly.
+Dialogue: 0,0:06:05.05,0:06:07.36,Default,en,0,0,0,,Hanzō. Do not treat this incident lightly.
 Comment: 0,0:06:08.05,0:06:09.52,Default,ja,0,0,0,,それはノブナガ様。
 Dialogue: 0,0:06:08.05,0:06:09.52,Default,ko,0,0,0,,노부나가 님.
 Dialogue: 0,0:06:08.05,0:06:09.52,Default,en,0,0,0,,Lord Nobunaga.
@@ -713,7 +713,7 @@ Dialogue: 0,0:19:55.16,0:20:00.10,Default,ko,0,0,0,,흥. 애초에 너희같은 
 Dialogue: 0,0:19:55.16,0:20:00.10,Default,en,0,0,0,,Hmph. You guys cannot understand my greatness at the first place.
 Comment: 0,0:20:01.16,0:20:03.91,Default,ja,0,0,0,,ハンゾウ！こいつらを皆殺しにしてしまえ。
 Dialogue: 0,0:20:01.16,0:20:03.91,Default,ko,0,0,0,,한조! 이 놈들을 몰살시켜라.
-Dialogue: 0,0:20:01.16,0:20:03.91,Default,en,0,0,0,,Hanzo! Annihilate them.
+Dialogue: 0,0:20:01.16,0:20:03.91,Default,en,0,0,0,,Hanzō! Annihilate them.
 Comment: 0,0:20:04.42,0:20:04.92,Default,ja,0,0,0,,は！
 Dialogue: 0,0:20:04.42,0:20:04.92,Default,ko,0,0,0,,예!
 Dialogue: 0,0:20:04.42,0:20:04.92,Default,en,0,0,0,,Yessir!
@@ -725,7 +725,7 @@ Dialogue: 0,0:20:08.60,0:20:09.62,Default,ko,0,0,0,,저런!
 Dialogue: 0,0:20:08.60,0:20:09.62,Default,en,0,0,0,,Nope!
 Comment: 0,0:20:10.11,0:20:12.03,Default,ja,0,0,0,,ハンゾウ！そこどくだス！
 Dialogue: 0,0:20:10.11,0:20:12.03,Default,ko,0,0,0,,한조! 비키시오!
-Dialogue: 0,0:20:10.11,0:20:12.03,Default,en,0,0,0,,Hanzo! Get out of my way-{\i1}dasu{\i0}!
+Dialogue: 0,0:20:10.11,0:20:12.03,Default,en,0,0,0,,Hanzō! Get out of my way-{\i1}dasu{\i0}!
 Comment: 0,0:20:12.03,0:20:15.62,Default,ja,0,0,0,,ふん。ノブナガ様のさっそいうことあるとはバカなやつだ。
 Dialogue: 0,0:20:12.03,0:20:15.62,Default,ko,0,0,0,,흥. 노부나가 님의 권유를 거절하다니 멍청한 놈들이군.
 Dialogue: 0,0:20:12.03,0:20:15.62,Default,en,0,0,0,,Hmph. Refusing Lord Nobunaga's invitation? How foolish.
@@ -749,13 +749,13 @@ Dialogue: 0,0:20:42.78,0:20:46.75,Default,ko,0,0,0,,카라쿠리 변화! 겐토�
 Dialogue: 0,0:20:42.78,0:20:46.75,Default,en,0,0,0,,Karakuri Shift! Gentoku Armor!
 Comment: 0,0:20:55.93,0:20:57.12,Default,ja,0,0,0,,ハンゾウ！覚悟！
 Dialogue: 0,0:20:55.93,0:20:57.12,Default,ko,0,0,0,,한조! 각오!
-Dialogue: 0,0:20:55.93,0:20:57.12,Default,en,0,0,0,,Hanzo! Prepare yourself!
+Dialogue: 0,0:20:55.93,0:20:57.12,Default,en,0,0,0,,Hanzō! Prepare yourself!
 Comment: 0,0:21:01.47,0:21:05.64,Default,ja,0,0,0,,からくり変化！カンウアーマー！
 Dialogue: 0,0:21:01.47,0:21:05.64,Default,ko,0,0,0,,카라쿠리 변화! 칸우 아머!
 Dialogue: 0,0:21:01.47,0:21:05.64,Default,en,0,0,0,,Karakuri Shift! Kanu Armor!
 Comment: 0,0:21:17.74,0:21:20.23,Default,ja,0,0,0,,ハンゾウ！今回は逃がさないだすからな。
 Dialogue: 0,0:21:17.74,0:21:20.23,Default,ko,0,0,0,,한조! 이번엔 못 달아날 것이오!
-Dialogue: 0,0:21:17.74,0:21:20.23,Default,en,0,0,0,,Hanzo! You're not getting away this time-{\i1}dasu{\i0}!
+Dialogue: 0,0:21:17.74,0:21:20.23,Default,en,0,0,0,,Hanzō! You're not getting away this time-{\i1}dasu{\i0}!
 Comment: 0,0:21:20.74,0:21:23.23,Default,ja,0,0,0,,バカ目。ここをどこだと思っているのだ！
 Dialogue: 0,0:21:20.74,0:21:23.23,Default,ko,0,0,0,,멍청한 놈. 여기가 어디라 생각하냐!
 Dialogue: 0,0:21:20.74,0:21:23.23,Default,en,0,0,0,,You fool. Where do you think you are?
@@ -767,7 +767,7 @@ Dialogue: 0,0:21:36.90,0:21:37.92,Default,ko,0,0,0,,걸려들었구나!
 Dialogue: 0,0:21:36.90,0:21:37.92,Default,en,0,0,0,,You fell into my trap!
 Comment: 0,0:21:38.77,0:21:40.33,Default,ja,0,0,0,,何のつもりだス、ハンゾウ！
 Dialogue: 0,0:21:38.77,0:21:40.33,Default,ko,0,0,0,,어쩔 생각이오, 한조!
-Dialogue: 0,0:21:38.77,0:21:40.33,Default,en,0,0,0,,What are you going to do-{\i1}dasu{\i0}, Hanzo!?
+Dialogue: 0,0:21:38.77,0:21:40.33,Default,en,0,0,0,,What are you going to do-{\i1}dasu{\i0}, Hanzō!?
 Comment: 0,0:21:41.07,0:21:43.38,Default,ja,0,0,0,,これで私たちを生け捕りにしたつもりか！
 Dialogue: 0,0:21:41.07,0:21:43.38,Default,ko,0,0,0,,이걸로 우릴 생포할 셈이냐!
 Dialogue: 0,0:21:41.07,0:21:43.38,Default,en,0,0,0,,Are you going to take us prisoners!?

@@ -83,7 +83,7 @@ Dialogue: 0,0:01:45.89,0:01:51.10,SongOP,en,0,0,0,,His eyes shined! Musashi!
 Comment: 0,0:02:00.00,0:02:08.48,Default,ja,0,0,0,,桜島へ乗り込んだムサシ達は、不知火一族に最後の決戦を挑むが、ハンゾウはサツマニアへ向けてミサイルを発射する。
 Dialogue: 0,0:02:00.00,0:02:08.48,Default,ko,0,0,0,,사쿠라지마에 들어간 무사시 일행은 시라누이 일족에게 최후의 결전을 도전하지만, 한조는 사츠마니아를 향해 미사일을 발사한다.
 Dialogue: 0,0:02:00.00,0:02:05.49,Default,en,0,0,0,,After getting into Sakurajima, Musashi and others challenge for the last decisive battle against Shiranui Clan,
-Dialogue: 0,0:02:05.49,0:02:08.48,Default,en,0,0,0,,but Hanzo launches a missile to Satsumania.
+Dialogue: 0,0:02:05.49,0:02:08.48,Default,en,0,0,0,,but Hanzō launches a missile to Satsumania.
 Comment: 0,0:02:08.99,0:02:12.01,Default,ja,0,0,0,,しかし、ムサシの活躍でこれを～した。
 Dialogue: 0,0:02:08.99,0:02:12.01,Default,ko,0,0,0,,그러나 무사시의 활약으로 그걸 막았다.
 Dialogue: 0,0:02:08.99,0:02:12.01,Default,en,0,0,0,,But thanks to Musashi, it was stopped.
@@ -491,7 +491,7 @@ Dialogue: 0,0:19:17.19,0:19:19.24,Default,ko,0,0,0,,그래서? 어쨌어?
 Dialogue: 0,0:19:17.19,0:19:19.24,Default,en,0,0,0,,And? What happened?
 Comment: 0,0:19:20.06,0:19:24.80,Default,ja,0,0,0,,ハンゾウが、ヒミコさんを裏切って、ヒミコさんが死んじゃったダス。
 Dialogue: 0,0:19:20.06,0:19:24.80,Default,ko,0,0,0,,한조가 히미코 씨를 배신해서 히미코 씨가 죽었소.
-Dialogue: 0,0:19:20.06,0:19:24.80,Default,en,0,0,0,,Hanzo betrayed Ms. Himiko and Ms. Himiko died-{\i1}dasu{\i0}.
+Dialogue: 0,0:19:20.06,0:19:24.80,Default,en,0,0,0,,Hanzō betrayed Ms. Himiko and Ms. Himiko died-{\i1}dasu{\i0}.
 Dialogue: 0,0:19:26.93,0:19:31.44,Default,recap,0,0,0,36#37-01,ムサシ。私を許してくれますか？
 Dialogue: 0,0:19:40.13,0:19:43.88,Default,recap,0,0,0,36#37-02,む、ムサシ。最後にお母さんと呼んでくれ。
 Dialogue: 0,0:19:45.69,0:19:48.02,Default,recap,0,0,0,36#37-03,母ちゃん！
@@ -643,7 +643,7 @@ Dialogue: 0,0:24:11.69,0:24:17.31,Default,ko,0,0,0,,기다리고 기다렸던 �
 Dialogue: 0,0:24:11.69,0:24:17.31,Default,en,0,0,0,,The marial artist competition that I've been waiting for is about to begin, so I'm going to do my best-{\i1}dasu{\i0}!
 Comment: 0,0:24:17.84,0:24:21.36,Default,ja,0,0,0,,しかし、そのころ、ハンゾウは謎の集団の仲間入り！
 Dialogue: 0,0:24:17.84,0:24:21.36,Default,ko,0,0,0,,그런데 그 쯤, 한조가 수수께끼의 집단에 들어가오!
-Dialogue: 0,0:24:17.84,0:24:21.36,Default,en,0,0,0,,But meanwhile, Hanzo joins a mysterious group!
+Dialogue: 0,0:24:17.84,0:24:21.36,Default,en,0,0,0,,But meanwhile, Hanzō joins a mysterious group!
 Comment: 0,0:24:21.78,0:24:25.33,Default,ja,0,0,0,,次回！出た！謎の六道魔王だス
 Dialogue: 0,0:24:21.78,0:24:25.33,Default,ko,0,0,0,,다음 이야기! 나왔다 수수께끼의 육도마왕이오
 Dialogue: 0,0:24:21.78,0:24:25.33,Default,en,0,0,0,,Next story! He Appeared! Mysterious Rikudomaoh

@@ -85,7 +85,7 @@ Dialogue: 0,0:01:59.48,0:02:04.08,Default,ko,0,0,0,,지금 막 사츠마니아�
 Dialogue: 0,0:01:59.48,0:02:04.08,Default,en,0,0,0,,Shiranui Clan is about to do a full out attack on Satsumania.
 Comment: 0,0:02:04.72,0:02:10.95,Default,ja,0,0,0,,ムサシは、そのことをサイゴーに伝えようとするが、逃げたそうとしたところを、ハンゾウにとらえられてしまう。
 Dialogue: 0,0:02:04.72,0:02:10.95,Default,ko,0,0,0,,무사시는 그걸 사이고에게 알리고자 하지만, 달아나려 하던 참에 한조에게 잡히고 만다.
-Dialogue: 0,0:02:04.72,0:02:10.95,Default,en,0,0,0,,Musashi tried to let Saigo know, but Hanzo caught him before he could run away.
+Dialogue: 0,0:02:04.72,0:02:10.95,Default,en,0,0,0,,Musashi tried to let Saigo know, but Hanzō caught him before he could run away.
 Comment: 0,0:02:11.36,0:02:17.43,Default,ja,0,0,0,,ヒミコに催眠術をかけられたムサシは、コジローたちを殺せと、命じられてしまった。
 Dialogue: 0,0:02:11.36,0:02:17.43,Default,ko,0,0,0,,히미코의 최면술에 걸린 무사시는 코지로 일행을 죽이라는 명령을 받고 만다.
 Dialogue: 0,0:02:11.36,0:02:17.43,Default,en,0,0,0,,Under the hypnotism of Himiko, Musashi was ordered to kill Kojirō and others.
@@ -198,13 +198,13 @@ Dialogue: 0,0:06:02.12,0:06:05.24,Default,ko,0,0,0,,히미코 님. 모든 준비
 Dialogue: 0,0:06:02.12,0:06:05.24,Default,en,0,0,0,,Ms. Himiko. Everything is ready.
 Comment: 0,0:06:05.50,0:06:08.90,Default,ja,0,0,0,,ハンゾウ殿、あなたの協力には感謝します。
 Dialogue: 0,0:06:05.50,0:06:08.90,Default,ko,0,0,0,,한조 님. 당신의 협력에 감사합니다.
-Dialogue: 0,0:06:05.50,0:06:08.90,Default,en,0,0,0,,Mr. Hanzo, thank you for your cooperation.
+Dialogue: 0,0:06:05.50,0:06:08.90,Default,en,0,0,0,,Mr. Hanzō, thank you for your cooperation.
 Comment: 0,0:06:09.11,0:06:13.29,Default,ja,0,0,0,,ヒミコ殿に最後のプレゼントをございます。お目にかけましょう。
 Dialogue: 0,0:06:09.11,0:06:13.29,Default,ko,0,0,0,,히미코 님에게 최후의 선물이 있습니다. 직접 보시지요.
 Dialogue: 0,0:06:09.11,0:06:13.29,Default,en,0,0,0,,I have a last present for you, Ms. Himiko. Please look for yourself.
 Comment: 0,0:06:19.82,0:06:21.94,Default,ja,0,0,0,,ハンゾウ殿、あれは何ですか。
 Dialogue: 0,0:06:19.82,0:06:21.94,Default,ko,0,0,0,,한조 님, 저것은 무엇입니까.
-Dialogue: 0,0:06:19.82,0:06:21.94,Default,en,0,0,0,,Mr. Hanzo, what is that?
+Dialogue: 0,0:06:19.82,0:06:21.94,Default,en,0,0,0,,Mr. Hanzō, what is that?
 Comment: 0,0:06:22.74,0:06:28.51,Default,ja,0,0,0,,サイカイ王国の中心都市、サツマニアに向けて打ち込むミサイルでございます。
 Dialogue: 0,0:06:22.74,0:06:28.51,Default,ko,0,0,0,,사이카이 왕국의 중심 도시, 사츠마니아에 향해 쏠 미사일입니다.
 Dialogue: 0,0:06:22.74,0:06:28.51,Default,en,0,0,0,,That is the missile that will hit Satsumania, the central city of the kingdom of Saikai.
@@ -376,7 +376,7 @@ Dialogue: 0,0:11:53.77,0:11:58.96,Default,ko,0,0,0,,알겠습니다. 히미코 �
 Dialogue: 0,0:11:53.77,0:11:58.96,Default,en,0,0,0,,Understood. I will dispose the missile as you said, Ms. Himiko.
 Comment: 0,0:11:59.21,0:12:03.65,Default,ja,0,0,0,,おう、それでこそハンゾウ殿。私たちのよき理解者です。
 Dialogue: 0,0:11:59.21,0:12:03.65,Default,ko,0,0,0,,오, 그래야 한조 님. 저희을 잘 이해해 주시는군요.
-Dialogue: 0,0:11:59.21,0:12:03.65,Default,en,0,0,0,,That's our Mr. Hanzo. You understand us well.
+Dialogue: 0,0:11:59.21,0:12:03.65,Default,en,0,0,0,,That's our Mr. Hanzō. You understand us well.
 Comment: 0,0:12:04.33,0:12:07.11,Default,ja,0,0,0,,では、全軍に出撃のご命令を！
 Dialogue: 0,0:12:04.33,0:12:07.11,Default,ko,0,0,0,,그럼 전군에게 출력 명령을.
 Dialogue: 0,0:12:04.33,0:12:07.11,Default,en,0,0,0,,Then, please make a sortie order to all forces.
@@ -427,14 +427,14 @@ Dialogue: 0,0:13:23.48,0:13:24.29,Default,ko,0,0,0,,무사시!
 Dialogue: 0,0:13:23.48,0:13:24.29,Default,en,0,0,0,,Musashi!
 Comment: 0,0:13:29.23,0:13:31.34,Default,ja,0,0,0,,な、なにをする、ハンゾウ？！
 Dialogue: 0,0:13:29.23,0:13:31.34,Default,ko,0,0,0,,뭐, 뭔 짓입니까, 한조!?
-Dialogue: 0,0:13:29.23,0:13:31.34,Default,en,0,0,0,,W- what are you doing, Hanzo!?
+Dialogue: 0,0:13:29.23,0:13:31.34,Default,en,0,0,0,,W- what are you doing, Hanzō!?
 Comment: 0,0:13:32.18,0:13:40.33,Default,ja,0,0,0,,今ここで兵士の数が少なくなると、わしがジパング国を支配するようしたとき、手ごまが足りなくなってしまうのでな。
 Dialogue: 0,0:13:32.18,0:13:40.33,Default,ko,0,0,0,,지금 여기서 병사의 수가 적어지면 내가 지팡구국을 지배하려 할 때 부하가 적어져서 말이지.
 Dialogue: 0,0:13:32.18,0:13:34.86,Default,en,0,0,0,,If the number of soldiers decrease here,
 Dialogue: 0,0:13:34.86,0:13:40.33,Default,en,0,0,0,,there won't be enough subordinates for me when I'm going to rule over Jipangu State.
 Comment: 0,0:13:40.33,0:13:43.31,Default,ja,0,0,0,,ハンゾウ。それはあなたの目的ですか。
 Dialogue: 0,0:13:40.33,0:13:43.31,Default,ko,0,0,0,,한조. 그게 당신의 목적입니까.
-Dialogue: 0,0:13:40.33,0:13:43.31,Default,en,0,0,0,,Hanzo. Was that your true objective?
+Dialogue: 0,0:13:40.33,0:13:43.31,Default,en,0,0,0,,Hanzō. Was that your true objective?
 Comment: 0,0:13:43.31,0:13:45.88,Default,ja,0,0,0,,ヒミコ、お前の兵者、わしがもらった！
 Dialogue: 0,0:13:43.31,0:13:45.88,Default,ko,0,0,0,,히미코. 네 병사는 내가 가져가겠다!
 Dialogue: 0,0:13:43.31,0:13:45.88,Default,en,0,0,0,,Himiko. I'm claiming your soldiers!
@@ -494,7 +494,7 @@ Dialogue: 0,0:15:05.31,0:15:07.26,Default,ko,0,0,0,,눈이 뒤집혔나, 히미�
 Dialogue: 0,0:15:05.31,0:15:07.26,Default,en,0,0,0,,Are you out of your mind, Himiko!?
 Comment: 0,0:15:08.61,0:15:09.63,Default,ja,0,0,0,,ハンゾウ。
 Dialogue: 0,0:15:08.61,0:15:09.63,Default,ko,0,0,0,,한조.
-Dialogue: 0,0:15:08.61,0:15:09.63,Default,en,0,0,0,,Hanzo.
+Dialogue: 0,0:15:08.61,0:15:09.63,Default,en,0,0,0,,Hanzō.
 Comment: 0,0:15:10.63,0:15:13.38,Default,ja,0,0,0,,お、お前にムサシは殺させません。
 Dialogue: 0,0:15:10.63,0:15:13.38,Default,ko,0,0,0,,네, 네가 무사시를 죽이도록 둘 수 없습니다.
 Dialogue: 0,0:15:10.63,0:15:13.38,Default,en,0,0,0,,I- I can't let you kill Musashi.
@@ -509,7 +509,7 @@ Dialogue: 0,0:15:28.82,0:15:29.63,Default,ko,0,0,0,,히미코 씨!
 Dialogue: 0,0:15:28.82,0:15:29.63,Default,en,0,0,0,,Ms. Himiko!
 Comment: 0,0:15:30.56,0:15:40.60,Default,ja,0,0,0,,ムサシ、私は間違っていました。ハンゾウは己の野望のために、不知火一族を操ろうとしていたのです。
 Dialogue: 0,0:15:30.56,0:15:40.60,Default,ko,0,0,0,,무사시. 제가 잘못 생각하고 있었습니다. 한조는 자신의 야망만을 위해 시라누이 일족을 이용하려 하고 있었습니다.
-Dialogue: 0,0:15:30.56,0:15:40.60,Default,en,0,0,0,,Musashi. I was wrong. Hanzo was trying to use Shiranui Clan only for his own ambition.
+Dialogue: 0,0:15:30.56,0:15:40.60,Default,en,0,0,0,,Musashi. I was wrong. Hanzō was trying to use Shiranui Clan only for his own ambition.
 Comment: 0,0:15:43.04,0:15:47.71,Default,ja,0,0,0,,ムサシ、私を許してくれますか。
 Dialogue: 0,0:15:43.04,0:15:47.71,Default,ko,0,0,0,37-01,무사시. 저를 용서해 주시겠습니까.
 Dialogue: 0,0:15:43.04,0:15:47.71,Default,en,0,0,0,37-01,Musashi. Will you forgive me?
@@ -677,7 +677,7 @@ Dialogue: 0,0:20:39.83,0:20:41.76,Default,ko,0,0,0,,-미사일이다!\N-도망�
 Dialogue: 0,0:20:39.83,0:20:41.76,Default,en,0,0,0,,-It's the missile!\N-Let's get out of here, Kojirō!
 Comment: 0,0:20:41.76,0:20:43.24,Default,ja,0,0,0,,ハンゾウ！勝負は預けた！
 Dialogue: 0,0:20:41.76,0:20:43.24,Default,ko,0,0,0,,한조! 승부는 나중이다!
-Dialogue: 0,0:20:41.76,0:20:43.24,Default,en,0,0,0,,Hanzo! We'll finish this later!
+Dialogue: 0,0:20:41.76,0:20:43.24,Default,en,0,0,0,,Hanzō! We'll finish this later!
 Comment: 0,0:20:45.43,0:20:46.80,Default,ja,0,0,0,,そんな馬鹿な！
 Dialogue: 0,0:20:45.43,0:20:46.80,Default,ko,0,0,0,,그럴 리가!
 Dialogue: 0,0:20:45.43,0:20:46.80,Default,en,0,0,0,,That's impossible!

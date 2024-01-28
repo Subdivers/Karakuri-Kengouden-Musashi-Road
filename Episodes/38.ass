@@ -108,7 +108,7 @@ Dialogue: 0,0:02:32.05,0:02:33.21,Default,ko,0,0,0,,즉시 수용해라.
 Dialogue: 0,0:02:32.05,0:02:33.21,Default,en,0,0,0,,Take him in right now.
 Comment: 0,0:03:12.88,0:03:16.27,Default,ja,0,0,0,,ハンゾウ殿。わがメガトンジョーへようこそ。
 Dialogue: 0,0:03:12.88,0:03:16.27,Default,ko,0,0,0,,한조 님. 우리 메가톤 성에 오신 걸 환영합니다.
-Dialogue: 0,0:03:12.88,0:03:16.27,Default,en,0,0,0,,Mr. Hanzo. Welcome to our Megaton Castle.
+Dialogue: 0,0:03:12.88,0:03:16.27,Default,en,0,0,0,,Mr. Hanzō. Welcome to our Megaton Castle.
 Comment: 0,0:03:16.55,0:03:17.16,Default,ja,0,0,0,,誰だ。
 Dialogue: 0,0:03:16.55,0:03:17.16,Default,ko,0,0,0,,누구냐?
 Dialogue: 0,0:03:16.55,0:03:17.16,Default,en,0,0,0,,Who's there?
@@ -268,7 +268,7 @@ Dialogue: 0,0:06:31.46,0:06:32.98,Default,ko,0,0,0,,싫소!
 Dialogue: 0,0:06:31.46,0:06:32.98,Default,en,0,0,0,,No way-{\i1}dasu{\i0}!
 Comment: 0,0:06:42.34,0:06:44.00,Default,ja,0,0,0,,ハンゾウどのだな。
 Dialogue: 0,0:06:42.34,0:06:44.00,Default,ko,0,0,0,,한조 님이구나.
-Dialogue: 0,0:06:42.34,0:06:44.00,Default,en,0,0,0,,You must be Mr. Hanzo.
+Dialogue: 0,0:06:42.34,0:06:44.00,Default,en,0,0,0,,You must be Mr. Hanzō.
 Comment: 0,0:06:44.54,0:06:47.39,Default,ja,0,0,0,,いかにも。って、お主たちは？
 Dialogue: 0,0:06:44.54,0:06:47.39,Default,ko,0,0,0,,그렇지. 자, 너희들은?
 Dialogue: 0,0:06:44.54,0:06:47.39,Default,en,0,0,0,,Right. And you people?
@@ -289,7 +289,7 @@ Dialogue: 0,0:06:56.46,0:07:00.26,Default,ko,0,0,0,,나를 이런 곳에 데려�
 Dialogue: 0,0:06:56.46,0:07:00.26,Default,en,0,0,0,,What made you call me to a place like this?
 Comment: 0,0:07:00.26,0:07:06.75,Default,ja,0,0,0,,我々はジパング国を向こうに回して戦ったハンゾウ殿の力を高く評価して、
 Dialogue: 0,0:07:00.26,0:07:06.75,Default,ko,0,0,0,,우리는 지팡국을 적으로 싸운 한조 님의 힘을 높이 평가하여.
-Dialogue: 0,0:07:00.26,0:07:06.75,Default,en,0,0,0,,We rate your power high, Mr. Hanzo, for fighting against Jipangu State for a long time.
+Dialogue: 0,0:07:00.26,0:07:06.75,Default,en,0,0,0,,We rate your power high, Mr. Hanzō, for fighting against Jipangu State for a long time.
 Comment: 0,0:07:07.75,0:07:13.07,Default,ja,0,0,0,,この連中、ただものではないな。ここはちょっと出方を試してみる。
 Dialogue: 0,0:07:07.75,0:07:13.07,Default,ko,0,0,0,,{\i1}이 자들, 평범내기가 아니군. 잠시 태도를 시험해 볼까.
 Dialogue: 0,0:07:07.75,0:07:13.07,Default,en,0,0,0,,{\i1}These people aren't ordinary people. Let me test your moves...
@@ -298,10 +298,10 @@ Dialogue: 0,0:07:22.75,0:07:24.27,Default,ko,0,0,0,,걱정할 필요 없다.
 Dialogue: 0,0:07:22.75,0:07:24.27,Default,en,0,0,0,,No need to worry.
 Comment: 0,0:07:24.80,0:07:27.91,Default,ja,0,0,0,,さすがわ、ハンゾウ殿。賢明だな。
 Dialogue: 0,0:07:24.80,0:07:27.91,Default,ko,0,0,0,,역시 한조 님. 현명하시다.
-Dialogue: 0,0:07:24.80,0:07:27.91,Default,en,0,0,0,,Great, Mr. Hanzo. You are bright.
+Dialogue: 0,0:07:24.80,0:07:27.91,Default,en,0,0,0,,Great, Mr. Hanzō. You are bright.
 Comment: 0,0:07:32.55,0:07:36.15,Default,ja,0,0,0,,ハンゾウとやら。よが六道魔王であるぞ。
 Dialogue: 0,0:07:32.55,0:07:36.15,Default,ko,0,0,0,,한조던가. 내가 육도마왕이다.
-Dialogue: 0,0:07:32.55,0:07:36.15,Default,en,0,0,0,,You must be Hanzo. I am Rikudomaoh.
+Dialogue: 0,0:07:32.55,0:07:36.15,Default,en,0,0,0,,You must be Hanzō. I am Rikudomaoh.
 Comment: 0,0:07:36.98,0:07:38.31,Default,ja,0,0,0,,六道魔王。
 Dialogue: 0,0:07:36.98,0:07:38.31,Default,ko,0,0,0,,육도마왕.
 Dialogue: 0,0:07:36.98,0:07:38.31,Default,en,0,0,0,,Rikudomaoh.
@@ -314,13 +314,13 @@ Dialogue: 0,0:07:46.80,0:07:51.15,Default,ko,0,0,0,,육도마왕이던가. 이 �
 Dialogue: 0,0:07:46.80,0:07:51.15,Default,en,0,0,0,,You must be Rikudomaoh. You want me to become your subordinate?
 Comment: 0,0:07:52.54,0:08:01.83,Default,ja,0,0,0,,それはおそれいたわ！何者かがしらんが、このハンゾウ、人の命令を聞くという素直な気持ちは持ち合わせてはおらんのだ。
 Dialogue: 0,0:07:52.54,0:08:01.83,Default,ko,0,0,0,,그건 기가 막히는구나! 누군진 모르겠지만 이 한조, 사람 명령을 듣는 고분고분한 성격이 아니다.
-Dialogue: 0,0:07:52.54,0:08:01.83,Default,en,0,0,0,,How grateful! Whoever you are, I, Hanzo, do not obediently follow orders.
+Dialogue: 0,0:07:52.54,0:08:01.83,Default,en,0,0,0,,How grateful! Whoever you are, I, Hanzō, do not obediently follow orders.
 Comment: 0,0:08:02.09,0:08:03.75,Default,ja,0,0,0,,失礼させていただく。
 Dialogue: 0,0:08:02.09,0:08:03.75,Default,ko,0,0,0,,실례하겠다.
 Dialogue: 0,0:08:02.09,0:08:03.75,Default,en,0,0,0,,Now excuse me.
 Comment: 0,0:08:13.90,0:08:18.50,Default,ja,0,0,0,,ハンゾウ。もう一度訪ねる。力を貸す気はないか。
 Dialogue: 0,0:08:13.90,0:08:18.50,Default,ko,0,0,0,,한조. 다시 한번 묻겠다. 함께할 생각 없나.
-Dialogue: 0,0:08:13.90,0:08:18.50,Default,en,0,0,0,,Hanzo. Let me ask you again. Wouldn't you like to join me?
+Dialogue: 0,0:08:13.90,0:08:18.50,Default,en,0,0,0,,Hanzō. Let me ask you again. Wouldn't you like to join me?
 Comment: 0,0:08:18.50,0:08:22.29,Default,ja,0,0,0,,わ、わかった！きょ、協力しよう。
 Dialogue: 0,0:08:18.50,0:08:22.29,Default,ko,0,0,0,,아, 알겠다! 협력하겠다!
 Dialogue: 0,0:08:18.50,0:08:22.29,Default,en,0,0,0,,I- I understand! I'll join!
@@ -561,7 +561,7 @@ Dialogue: 0,0:13:39.41,0:13:40.85,Default,ko,0,0,0,,총원 해치에 붙어라!
 Dialogue: 0,0:13:39.41,0:13:40.85,Default,en,0,0,0,,Everyone, stick to nearest hatches!
 Comment: 0,0:13:43.00,0:13:50.39,Default,ja,0,0,0,,ハンゾウ、直ちに中部大をひきいて、～パレスを襲い、国王の証の三種の神器を奪ってくるのだ。
 Dialogue: 0,0:13:43.00,0:13:50.39,Default,ko,0,0,0,,한조. 즉시 중부대를 모아서 궁궐 팔레스를 덮쳐, 국왕의 증표인 삼중의 신기를 빼앗아 와라.
-Dialogue: 0,0:13:43.00,0:13:45.76,Default,en,0,0,0,,Hanzo. Gather a serious group of troop,
+Dialogue: 0,0:13:43.00,0:13:45.76,Default,en,0,0,0,,Hanzō. Gather a serious group of troop,
 Dialogue: 0,0:13:45.76,0:13:50.39,Default,en,0,0,0,,make a raid upon the imperial palace, and take the Three Sacred Treasures, the certificates of the king.
 Comment: 0,0:13:51.29,0:13:52.72,Default,ja,0,0,0,,三種の神器？
 Dialogue: 0,0:13:51.29,0:13:52.72,Default,ko,0,0,0,,삼종의 신기?
@@ -603,7 +603,7 @@ Dialogue: 0,0:14:55.33,0:14:56.18,Default,ko,0,0,0,,전하!
 Dialogue: 0,0:14:55.33,0:14:56.18,Default,en,0,0,0,,Your Highness!
 Comment: 0,0:14:56.18,0:14:59.57,Default,ja,0,0,0,,三種の神器、このハンゾウがいただく。
 Dialogue: 0,0:14:56.18,0:14:59.57,Default,ko,0,0,0,,삼종의 신기, 이 한조가 가져가겠다.
-Dialogue: 0,0:14:56.18,0:14:59.57,Default,en,0,0,0,,I, Hanzo, will take that Three Sacred Treasures.
+Dialogue: 0,0:14:56.18,0:14:59.57,Default,en,0,0,0,,I, Hanzō, will take that Three Sacred Treasures.
 Comment: 0,0:14:59.82,0:15:03.74,Default,ja,0,0,0,,????? ～、国王殿下に刃を向けるとは許せん！
 Dialogue: 0,0:14:59.82,0:15:03.74,Default,ko,0,0,0,,얼척이 없군. 국왕 전하께 칼을 향하다니 용서할 수 없다!
 Dialogue: 0,0:14:59.82,0:15:03.74,Default,en,0,0,0,,How impolite of you! Directing your sword towards the Highness is unforgivable!
@@ -724,7 +724,7 @@ Dialogue: 0,0:18:49.41,0:18:55.38,Default,ko,0,0,0,,지금 에도토피아는 �
 Dialogue: 0,0:18:49.41,0:18:55.38,Default,en,0,0,0,,Edotopia is in a festive mood by a martial arts competition. This is the best chance to attack with fire.
 Comment: 0,0:18:56.32,0:19:03.19,Default,ja,0,0,0,,血を見るのは嫌いだが、目的のため、ドクガンリュウ、ハンゾウ！この～に任せろ。
 Dialogue: 0,0:18:56.32,0:19:03.19,Default,ko,0,0,0,,피를 보는 것은 싫지만 목적을 위해서라면, 도쿠간류, 한조, 너희들에게 맡기겠다.
-Dialogue: 0,0:18:56.32,0:19:03.19,Default,en,0,0,0,,I do not like to see bloods, but for our objective, Dokuganryu and Hanzo, you will take care of this.
+Dialogue: 0,0:18:56.32,0:19:03.19,Default,en,0,0,0,,I do not like to see bloods, but for our objective, Dokuganryu and Hanzō, you will take care of this.
 Comment: 0,0:19:03.19,0:19:06.61,Default,ja,0,0,0,,ただし、庶民を苦しめるでないぞ。
 Dialogue: 0,0:19:03.19,0:19:06.61,Default,ko,0,0,0,,그러나 서민을 괴롭히면 안 된다.
 Dialogue: 0,0:19:03.19,0:19:06.61,Default,en,0,0,0,,But you must not harass the commoners.
@@ -791,7 +791,7 @@ Dialogue: 0,0:21:12.78,0:21:15.52,Default,ko,0,0,0,,어? 져서 기쁘오?
 Dialogue: 0,0:21:12.78,0:21:15.52,Default,en,0,0,0,,Huh? Are you happy because you lost-{\i1}dasu{\i0}?
 Comment: 0,0:21:16.48,0:21:23.22,Default,ja,0,0,0,,うん。ハンゾウの手下のまま、悪い世界にいたが、一緒ころ武芸大会の栄光の場に立てなかったんだ。
 Dialogue: 0,0:21:16.48,0:21:23.22,Default,ko,0,0,0,,그래. 한조의 부하였을 때에는 나쁜 세계에 있었지만, 함께 무예 대회의 영광의 장소에 설 수 있어서.
-Dialogue: 0,0:21:16.48,0:21:23.22,Default,en,0,0,0,,Yes. I was in an evil world when I was under Hanzo, but now I could stand on the honorable grounds of martial arts contest.
+Dialogue: 0,0:21:16.48,0:21:23.22,Default,en,0,0,0,,Yes. I was in an evil world when I was under Hanzō, but now I could stand on the honorable grounds of martial arts contest.
 Comment: 0,0:21:24.08,0:21:28.23,Default,ja,0,0,0,,ああ、正々堂々と戦えておいら、うれしいダス。
 Dialogue: 0,0:21:24.08,0:21:28.23,Default,ko,0,0,0,,정정당당하게 싸워서 나도 기쁘오!
 Dialogue: 0,0:21:24.08,0:21:28.23,Default,en,0,0,0,,I'm happy too, since we fought fair and square-{\i1}dasu{\i0}!

@@ -82,20 +82,20 @@ Dialogue: 0,0:01:44.52,0:01:49.78,SongOP,ko,0,0,0,,미간이 반짝였다 무사
 Dialogue: 0,0:01:44.52,0:01:49.78,SongOP,en,0,0,0,,His eyes shined! Musashi!
 Comment: 0,0:01:59.40,0:02:06.15,Default,ja,0,0,0,,はるばるきたぜ北海道舞台に、総力戦となったハンゾウとムサシ、センヒメたち一行。
 Dialogue: 0,0:01:59.40,0:02:06.15,Default,ko,0,0,0,,멀리서 와서 홋카이도를 무대로 총력을 다해 싸운 한조와 무사시, 센히메 일행.
-Dialogue: 0,0:01:59.40,0:02:06.15,Default,en,0,0,0,,Came from a place far away, Musashi and Senhime's group has fought against Hanzo with all their force.
+Dialogue: 0,0:01:59.40,0:02:06.15,Default,en,0,0,0,,Came from a place far away, Musashi and Senhime's group has fought against Hanzō with all their force.
 Comment: 0,0:02:06.58,0:02:13.52,Default,ja,0,0,0,,激しい戦いの末、オニヒメは死に、ジライヤンもムサシたちのチームワークにこころ～された。
 Dialogue: 0,0:02:06.58,0:02:13.52,Default,ko,0,0,0,,기나긴 싸움 끝에 오니히메는 죽고, 지라이얀도 무사시의 팀워크에 넘어갔다.
 Dialogue: 0,0:02:06.58,0:02:13.52,Default,en,0,0,0,,After a long fight, Onihime died, and Jiraiyan has moved by Musashi's teamwork.
 Comment: 0,0:02:13.86,0:02:17.08,Default,ja,0,0,0,,そしてハンゾウはからくり砦と共に
 Dialogue: 0,0:02:13.86,0:02:17.08,Default,ko,0,0,0,,그리고 한조는 카라쿠리 요새와 함께.
-Dialogue: 0,0:02:13.86,0:02:17.08,Default,en,0,0,0,,And Hanzo has gone with Karakuri Stronghold.
+Dialogue: 0,0:02:13.86,0:02:17.08,Default,en,0,0,0,,And Hanzō has gone with Karakuri Stronghold.
 Comment: 0,0:02:17.20,0:02:22.21,Default,ja,0,0,0,,悪一番、ハンゾウの復活だス
 Comment: 0,0:02:17.20,0:02:22.21,Default,ko,0,0,0,,악이라면 제일! 한조의 부활이오
-Comment: 0,0:02:17.20,0:02:22.21,Default,en,0,0,0,,The Most Evil! Hanzo Revives
+Comment: 0,0:02:17.20,0:02:22.21,Default,en,0,0,0,,The Most Evil! Hanzō Revives
 Dialogue: 0,0:02:17.20,0:02:22.21,TitleEP,ko,0,0,225,,악이라면 제일!
 Dialogue: 0,0:02:17.20,0:02:22.21,TitleEP,ko,0,0,110,,한조의 부활이오
 Dialogue: 0,0:02:17.20,0:02:22.21,TitleEP,en,0,0,225,,The Most Evil!
-Dialogue: 0,0:02:17.20,0:02:22.21,TitleEP,en,0,0,110,,Hanzo Revives
+Dialogue: 0,0:02:17.20,0:02:22.21,TitleEP,en,0,0,110,,Hanzō Revives
 Comment: 0,0:02:37.56,0:02:38.90,Default,ja,0,0,0,,気持ちいい！
 Dialogue: 0,0:02:37.56,0:02:38.90,Default,ko,0,0,0,,기분 좋다!
 Dialogue: 0,0:02:37.56,0:02:38.90,Default,en,0,0,0,,This feels good!
@@ -465,7 +465,7 @@ Dialogue: 0,0:11:52.22,0:11:53.14,Default,ko,0,0,0,,알겠다.
 Dialogue: 0,0:11:52.22,0:11:53.14,Default,en,0,0,0,,Understood.
 Comment: 0,0:11:57.08,0:11:59.74,Default,ja,0,0,0,,なんと！生きていたハンゾウ！
 Dialogue: 0,0:11:57.08,0:11:59.74,Default,ko,0,0,0,,무슨! 한조는 살아 있었다!
-Dialogue: 0,0:11:57.08,0:11:59.74,Default,en,0,0,0,,What?! Hanzo was alive!
+Dialogue: 0,0:11:57.08,0:11:59.74,Default,en,0,0,0,,What?! Hanzō was alive!
 Comment: 0,0:12:00.84,0:12:03.40,Default,ja,0,0,0,,疾風怒濤のご飯を待て！
 Dialogue: 0,0:12:00.84,0:12:03.40,Default,ko,0,0,0,,질풍노도의 후반을 기다려라!
 Dialogue: 0,0:12:00.84,0:12:03.40,Default,en,0,0,0,,Wait for the stormy latter half!
@@ -615,7 +615,7 @@ Dialogue: 0,0:17:03.68,0:17:06.22,Default,ko,0,0,0,,수상한 놈이다! 모두 
 Dialogue: 0,0:17:03.68,0:17:06.22,Default,en,0,0,0,,Invaders! Everyone gather!
 Comment: 0,0:17:15.00,0:17:16.93,Default,ja,0,0,0,,ハンゾウ！生きておったか！
 Dialogue: 0,0:17:15.00,0:17:16.93,Default,ko,0,0,0,,한조! 살아 있었냐!
-Dialogue: 0,0:17:15.00,0:17:16.93,Default,en,0,0,0,,Hanzo! Were you alive?!
+Dialogue: 0,0:17:15.00,0:17:16.93,Default,en,0,0,0,,Hanzō! Were you alive?!
 Comment: 0,0:17:17.66,0:17:19.71,Default,ja,0,0,0,,ワシは不死身といったはず。
 Dialogue: 0,0:17:17.66,0:17:19.71,Default,ko,0,0,0,,나는 불사신이라 말했을 터.
 Dialogue: 0,0:17:17.66,0:17:19.71,Default,en,0,0,0,,I told you I am invincible.
@@ -699,7 +699,7 @@ Dialogue: 0,0:19:25.07,0:19:27.30,Default,ko,0,0,0,,영주님! 센히메 님은 
 Dialogue: 0,0:19:25.07,0:19:27.30,Default,en,0,0,0,,Feudal lord! Senhime is safe.
 Comment: 0,0:19:27.72,0:19:30.15,Default,ja,0,0,0,,うん！ハンゾウは見つかったか？
 Dialogue: 0,0:19:27.72,0:19:30.15,Default,ko,0,0,0,,그래! 한조는 찾았느냐?
-Dialogue: 0,0:19:27.72,0:19:30.15,Default,en,0,0,0,,Great. Did you find Hanzo yet?
+Dialogue: 0,0:19:27.72,0:19:30.15,Default,en,0,0,0,,Great. Did you find Hanzō yet?
 Comment: 0,0:19:30.59,0:19:34.43,Default,ja,0,0,0,,それがまだ。しかし、必ず見つけ出します。
 Dialogue: 0,0:19:30.59,0:19:34.43,Default,ko,0,0,0,,그게 아직입니다. 그렇지만 반드시 찾아내겠습니다.
 Dialogue: 0,0:19:30.59,0:19:34.43,Default,en,0,0,0,,Not yet, but I will find him no matter what.
@@ -711,10 +711,10 @@ Dialogue: 0,0:19:41.40,0:19:46.32,Default,ko,0,0,0,,예! 영주님의 생명, �
 Dialogue: 0,0:19:41.40,0:19:46.32,Default,en,0,0,0,,Yessir! I, Jūbē, will protect your life risking my own body!
 Comment: 0,0:19:51.82,0:19:58.25,Default,ja,0,0,0,,ハンゾウが生きていたとは驚きだスが。この厳しい警護を、今度こそ最後でござるだす！
 Dialogue: 0,0:19:51.82,0:19:58.25,Default,ko,0,0,0,,한조가 살아 있었다니 놀랐소이만, 이 엄한 경호 앞에선 이번에야말로 끝이오.
-Dialogue: 0,0:19:51.82,0:19:58.25,Default,en,0,0,0,,It's surprising that Hanzo's still alive-{\i1}dasu{\i0}, but with this level of guard in place, he's really gonna be done for this time-{\i1}dasu{\i0}.
+Dialogue: 0,0:19:51.82,0:19:58.25,Default,en,0,0,0,,It's surprising that Hanzō's still alive-{\i1}dasu{\i0}, but with this level of guard in place, he's really gonna be done for this time-{\i1}dasu{\i0}.
 Comment: 0,0:19:58.25,0:20:01.13,Default,ja,0,0,0,,あのハンゾウという男、侮ることは禁物。
 Dialogue: 0,0:19:58.25,0:20:01.13,Default,ko,0,0,0,,그 한조라는 자, 얕보는 건 금물이다.
-Dialogue: 0,0:19:58.25,0:20:01.13,Default,en,0,0,0,,You must not look down of Hanzo.
+Dialogue: 0,0:19:58.25,0:20:01.13,Default,en,0,0,0,,You must not look down of Hanzō.
 Comment: 0,0:20:13.52,0:20:14.63,Default,ja,0,0,0,,誰もいないダス。
 Dialogue: 0,0:20:13.52,0:20:14.63,Default,ko,0,0,0,,아무도 없소.
 Dialogue: 0,0:20:13.52,0:20:14.63,Default,en,0,0,0,,There's nobody here.
@@ -732,7 +732,7 @@ Dialogue: 0,0:20:33.10,0:20:34.68,Default,ko,0,0,0,,역시 주베.
 Dialogue: 0,0:20:33.10,0:20:34.68,Default,en,0,0,0,,That's Jūbē I know.
 Comment: 0,0:20:36.99,0:20:37.80,Default,ja,0,0,0,,ハンゾウ！
 Dialogue: 0,0:20:36.99,0:20:37.80,Default,ko,0,0,0,,한조!
-Dialogue: 0,0:20:36.99,0:20:37.80,Default,en,0,0,0,,Hanzo!
+Dialogue: 0,0:20:36.99,0:20:37.80,Default,en,0,0,0,,Hanzō!
 Comment: 0,0:20:38.62,0:20:41.08,Default,ja,0,0,0,,イエヤス、この命、頂戴！
 Dialogue: 0,0:20:38.62,0:20:41.08,Default,ko,0,0,0,,이에야스! 그 목숨 가져가겠다!
 Dialogue: 0,0:20:38.62,0:20:41.08,Default,en,0,0,0,,Ieyasu, I will take your life!
@@ -744,7 +744,7 @@ Dialogue: 0,0:21:07.47,0:21:08.32,Default,ko,0,0,0,,저런!
 Dialogue: 0,0:21:07.47,0:21:08.32,Default,en,0,0,0,,Damn!
 Comment: 0,0:21:10.10,0:21:11.75,Default,ja,0,0,0,,ハンゾウ！逃がさんダス！
 Dialogue: 0,0:21:10.10,0:21:11.75,Default,ko,0,0,0,,한조! 못 달아나오!
-Dialogue: 0,0:21:10.10,0:21:11.75,Default,en,0,0,0,,Hanzo! You aren't getting away-{\i1}dasu{\i0}!
+Dialogue: 0,0:21:10.10,0:21:11.75,Default,en,0,0,0,,Hanzō! You aren't getting away-{\i1}dasu{\i0}!
 Comment: 0,0:21:12.46,0:21:15.24,Default,ja,0,0,0,,ちぇ！今日のところは預けた！
 Dialogue: 0,0:21:12.46,0:21:15.24,Default,ko,0,0,0,,쳇! 오늘은 여기까지 하지!
 Dialogue: 0,0:21:12.46,0:21:15.24,Default,en,0,0,0,,Tch! That's all for today!
@@ -756,7 +756,7 @@ Dialogue: 0,0:21:19.86,0:21:22.38,Default,ko,0,0,0,,이 놈! 못 도망간다!
 Dialogue: 0,0:21:19.86,0:21:22.38,Default,en,0,0,0,,You bastard! You aren't getting away!
 Comment: 0,0:21:25.28,0:21:30.24,Default,ja,0,0,0,,いずれにしろ、ハンゾウの懐にあったもの。怪しげなたくらみに違いありません。
 Dialogue: 0,0:21:25.28,0:21:30.24,Default,ko,0,0,0,,결국 한조의 품에 있던 것. 수상한 계획임이 틀림없습니다.
-Dialogue: 0,0:21:25.28,0:21:30.24,Default,en,0,0,0,,Anyway, the one in Hanzo's breast width has a suspicious plan written on it.
+Dialogue: 0,0:21:25.28,0:21:30.24,Default,en,0,0,0,,Anyway, the one in Hanzō's breast width has a suspicious plan written on it.
 Comment: 0,0:21:30.82,0:21:33.91,Default,ja,0,0,0,,サイカイ王国にシラヌイ一族の？
 Dialogue: 0,0:21:30.82,0:21:33.91,Default,ko,0,0,0,,사이카이 왕국의 시라누이 일족이라?
 Dialogue: 0,0:21:30.82,0:21:37.02,Note,en,0,0,0,,(Saikai-do: lit. West Sea Circuit. \NThese administrative districts were used before Muromachi Era.\NShiranui: Atmospheric ghost light told in Kyūshū)

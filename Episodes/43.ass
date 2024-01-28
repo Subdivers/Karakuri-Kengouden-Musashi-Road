@@ -85,7 +85,7 @@ Dialogue: 0,0:01:59.41,0:02:04.57,Default,ko,0,0,0,,무사시 일행은 료마�
 Dialogue: 0,0:01:59.41,0:02:04.57,Default,en,0,0,0,,According to the information by Ryoma, Musashi and others head to Seto Inland Sea to chase Megaton Castle.
 Comment: 0,0:02:04.57,0:02:08.72,Default,ja,0,0,0,,しかし、途中で立ち寄った島では、ハンゾウが罠を仕掛けていた。
 Dialogue: 0,0:02:04.57,0:02:08.72,Default,ko,0,0,0,,그러나 도중에 들른 섬에서는 한조의 함정이 설치되어 있었다.
-Dialogue: 0,0:02:04.57,0:02:08.72,Default,en,0,0,0,,But at the island they stopped by, Hanzo's trap was installed.
+Dialogue: 0,0:02:04.57,0:02:08.72,Default,en,0,0,0,,But at the island they stopped by, Hanzō's trap was installed.
 Comment: 0,0:02:08.96,0:02:13.17,Default,ja,0,0,0,,とらえられてしまう千姫。これを救出せん（しよう）と駆けつける一同。
 Dialogue: 0,0:02:08.96,0:02:13.17,Default,ko,0,0,0,,잡히고 만 센히메. 이를 구출하고자 급히 달려간 일동.
 Dialogue: 0,0:02:08.96,0:02:13.17,Default,en,0,0,0,,Senhime was captured. People went to rescue her.
@@ -942,7 +942,7 @@ Dialogue: 0,0:24:02.78,0:24:07.34,Default,ko,0,0,0,,우주인이 숨겨둔 갑�
 Dialogue: 0,0:24:02.78,0:24:07.34,Default,en,0,0,0,,Hearing that there are armors hidden by aliens, we're heading to the place right away-{\i1}dasu{\i0}.
 Comment: 0,0:24:07.71,0:24:11.31,Default,ja,0,0,0,,なんたって、このままじゃあのハンゾウにかなわないだすからな。
 Dialogue: 0,0:24:07.71,0:24:11.31,Default,ko,0,0,0,,왜냐면, 이대로는 그 한조에게 이길 수 있을 리가 없기 때문이오.
-Dialogue: 0,0:24:07.71,0:24:11.31,Default,en,0,0,0,,That's because it's impossible for us to defeat that Hanzo at this rate-{\i1}dasu{\i0}.
+Dialogue: 0,0:24:07.71,0:24:11.31,Default,en,0,0,0,,That's because it's impossible for us to defeat that Hanzō at this rate-{\i1}dasu{\i0}.
 Comment: 0,0:24:11.69,0:24:16.35,Default,ja,0,0,0,,しっかし、簡単には手に入らないだす。溺れそうになったり、階段から落ちたりと。
 Dialogue: 0,0:24:11.69,0:24:16.35,Default,ko,0,0,0,,그래도 간단하게는 손에 안 들어오오. 물에 빠질 뻔했다던지, 계단에서 떨어진다던지.
 Dialogue: 0,0:24:11.69,0:24:16.35,Default,en,0,0,0,,But it's difficult to claim them-{\i1}dasu{\i0}. We almost drown in waters, and we fell from stairs.

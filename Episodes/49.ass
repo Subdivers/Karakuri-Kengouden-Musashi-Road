@@ -195,7 +195,7 @@ Dialogue: 0,0:05:10.82,0:05:14.38,Default,ko,0,0,0,,자, 무사시는 이 내가
 Dialogue: 0,0:05:10.82,0:05:14.38,Default,en,0,0,0,,I will cut off Musashi with one slash by myself.
 Comment: 0,0:05:15.13,0:05:16.50,Default,ja,0,0,0,,ハンゾウ！案内せい！
 Dialogue: 0,0:05:15.13,0:05:16.50,Default,ko,0,0,0,,한조! 안내해라!
-Dialogue: 0,0:05:15.13,0:05:16.50,Default,en,0,0,0,,Hanzo! Guide me.
+Dialogue: 0,0:05:15.13,0:05:16.50,Default,en,0,0,0,,Hanzō! Guide me.
 Comment: 0,0:05:16.97,0:05:18.38,Default,ja,0,0,0,,は！ノブナガ殿。
 Dialogue: 0,0:05:16.97,0:05:18.38,Default,ko,0,0,0,,예! 노부나가 님!
 Dialogue: 0,0:05:16.97,0:05:18.38,Default,en,0,0,0,,Yessir, Mr. Nobunaga!
@@ -264,7 +264,7 @@ Dialogue: 0,0:07:10.92,0:07:13.21,Default,ko,0,0,0,,이걸로 지팡구국은 �
 Dialogue: 0,0:07:10.92,0:07:13.21,Default,en,0,0,0,,With these, Jipangu State is mine!
 Comment: 0,0:07:13.76,0:07:15.79,Default,ja,0,0,0,,ハンゾウ！お前も喜べ！
 Dialogue: 0,0:07:13.76,0:07:15.79,Default,ko,0,0,0,,한조! 너도 기뻐해라!
-Dialogue: 0,0:07:13.76,0:07:15.79,Default,en,0,0,0,,Hanzo! You should be happy, too!
+Dialogue: 0,0:07:13.76,0:07:15.79,Default,en,0,0,0,,Hanzō! You should be happy, too!
 Comment: 0,0:07:16.12,0:07:18.46,Default,ja,0,0,0,,まことにおめでとうございます。
 Dialogue: 0,0:07:16.12,0:07:18.46,Default,ko,0,0,0,,정말로 축하드립니다.
 Dialogue: 0,0:07:16.12,0:07:18.46,Default,en,0,0,0,,Congratulations with all my respect.
@@ -273,13 +273,13 @@ Dialogue: 0,0:07:21.94,0:07:24.09,Default,ko,0,0,0,,지팡구국은 내 것이�
 Dialogue: 0,0:07:21.94,0:07:24.09,Default,en,0,0,0,,Jipangu State is mine!
 Comment: 0,0:07:37.23,0:07:39.56,Default,ja,0,0,0,,は、ハンゾウ。
 Dialogue: 0,0:07:37.23,0:07:39.56,Default,ko,0,0,0,,하, 한조...
-Dialogue: 0,0:07:37.23,0:07:39.56,Default,en,0,0,0,,H- Hanzo...
+Dialogue: 0,0:07:37.23,0:07:39.56,Default,en,0,0,0,,H- Hanzō...
 Comment: 0,0:07:39.89,0:07:43.81,Default,ja,0,0,0,,ノブナガ。三種の神器はわしが戴く！
 Dialogue: 0,0:07:39.89,0:07:43.81,Default,ko,0,0,0,,노부나가. 삼종의 신기는 내가 가져가겠다!
 Dialogue: 0,0:07:39.89,0:07:43.81,Default,en,0,0,0,,Nobunaga! I shall claim the Three Sacred Treasures!
 Comment: 0,0:07:44.18,0:07:51.15,Default,ja,0,0,0,,裏切ったか、ハンゾウ。お前の命を救ってやったのはこのワシぞ！
 Dialogue: 0,0:07:44.18,0:07:51.15,Default,ko,0,0,0,,배신했나, 한조. 네 목숨을 구한 건 이 나다!
-Dialogue: 0,0:07:44.18,0:07:51.15,Default,en,0,0,0,,Did you betray me, Hanzo? I'm the one who saved your life!
+Dialogue: 0,0:07:44.18,0:07:51.15,Default,en,0,0,0,,Did you betray me, Hanzō? I'm the one who saved your life!
 Comment: 0,0:07:51.53,0:07:51.86,Default,ja,0,0,0,,ふん。
 Dialogue: 0,0:07:51.53,0:07:51.86,Default,ko,0,0,0,,흥.
 Dialogue: 0,0:07:51.53,0:07:51.86,Default,en,0,0,0,,Hmph.
@@ -378,10 +378,10 @@ Dialogue: 0,0:10:12.02,0:10:13.82,Default,ko,0,0,0,,대체 누가 이런 짓을.
 Dialogue: 0,0:10:12.02,0:10:13.82,Default,en,0,0,0,,Who did this?
 Comment: 0,0:10:14.06,0:10:15.10,Default,ja,0,0,0,,ハンゾウでしょう。
 Dialogue: 0,0:10:14.06,0:10:15.10,Default,ko,0,0,0,,한조겠지요.
-Dialogue: 0,0:10:14.06,0:10:15.10,Default,en,0,0,0,,It must be Hanzo.
+Dialogue: 0,0:10:14.06,0:10:15.10,Default,en,0,0,0,,It must be Hanzō.
 Comment: 0,0:10:16.56,0:10:25.07,Default,ja,0,0,0,,ハンゾウは最初、主君であるイエヤス様を裏切り、次に不知火一族の女王ヒミコを裏切り、今またノブナガを裏切ったんです。
 Dialogue: 0,0:10:16.56,0:10:25.07,Default,ko,0,0,0,,한조는 애초에 주군인 이에야스 님을 배신하고 다음엔 시라누이 일족의 히미코 여왕을 배신하고, 지금 또 노부나가를 배신한 것입니다.
-Dialogue: 0,0:10:16.56,0:10:25.07,Default,en,0,0,0,,Hanzo betrayed Lord Ieyasu first, betrayed the queen Himiko of Shiranui Clan, and now he betrayed Nobunaga again.
+Dialogue: 0,0:10:16.56,0:10:25.07,Default,en,0,0,0,,Hanzō betrayed Lord Ieyasu first, betrayed the queen Himiko of Shiranui Clan, and now he betrayed Nobunaga again.
 Comment: 0,0:10:25.75,0:10:27.41,Default,ja,0,0,0,,なんてひどいやつだス！
 Dialogue: 0,0:10:25.75,0:10:27.41,Default,ko,0,0,0,,무슨 끔찍한 놈이오!
 Dialogue: 0,0:10:25.75,0:10:27.41,Default,en,0,0,0,,How cruel of him-dasu!
@@ -399,7 +399,7 @@ Dialogue: 0,0:10:39.89,0:10:41.20,Default,ko,0,0,0,,메가톤 성이오?
 Dialogue: 0,0:10:39.89,0:10:41.20,Default,en,0,0,0,,Megaton Castle?
 Comment: 0,0:10:41.84,0:10:47.81,Default,ja,0,0,0,,は、ハンゾウごときに使われるくらいなら、破壊してくれたほうが～。
 Dialogue: 0,0:10:41.84,0:10:47.81,Default,ko,0,0,0,,하, 한조 따위에게 쓰이느니 파괴되는 쪽이 낫다.
-Dialogue: 0,0:10:41.84,0:10:47.81,Default,en,0,0,0,,It's better to be destroyed than being used by Hanzo.
+Dialogue: 0,0:10:41.84,0:10:47.81,Default,en,0,0,0,,It's better to be destroyed than being used by Hanzō.
 Comment: 0,0:10:47.81,0:10:52.93,Default,ja,0,0,0,,でも、大変でござるダスよ。おっきなトンカチでも1か月や2か月は。
 Dialogue: 0,0:10:47.81,0:10:52.93,Default,ko,0,0,0,,그래도 큰일이오. 거대한 쇠망치라 해도 1개월이나 2개월은...
 Dialogue: 0,0:10:47.81,0:10:52.93,Default,en,0,0,0,,But, it's a big job-dasu! Even with a huge hammer, it'll take a month or two-dasu!
@@ -417,7 +417,7 @@ Dialogue: 0,0:11:08.14,0:11:09.29,Default,ko,0,0,0,,그렇습니다.
 Dialogue: 0,0:11:08.14,0:11:09.29,Default,en,0,0,0,,That's right.
 Comment: 0,0:11:09.77,0:11:14.51,Default,ja,0,0,0,,こんなメガトンジョー、ぶち壊してハンゾウの野望なんか打ち砕いてやるだス！
 Dialogue: 0,0:11:09.77,0:11:14.51,Default,ko,0,0,0,,이런 메가톤성은 쳐부수고 한조의 야망은 깨트려 주겠소!
-Dialogue: 0,0:11:09.77,0:11:14.51,Default,en,0,0,0,,We'll destroy this Megaton Castle and break Hanzo's ambitions-dasu!
+Dialogue: 0,0:11:09.77,0:11:14.51,Default,en,0,0,0,,We'll destroy this Megaton Castle and break Hanzō's ambitions-dasu!
 Comment: 0,0:11:14.92,0:11:15.40,Default,ja,0,0,0,,おう！
 Dialogue: 0,0:11:14.92,0:11:15.40,Default,ko,0,0,0,,좋다!
 Dialogue: 0,0:11:14.92,0:11:15.40,Default,en,0,0,0,,Right!
@@ -482,7 +482,7 @@ Dialogue: 0,0:13:04.09,0:13:05.31,Default,ko,0,0,0,,비 피하자!
 Dialogue: 0,0:13:04.09,0:13:05.31,Default,en,0,0,0,,Let's go somewhere dry!
 Comment: 0,0:13:12.87,0:13:15.10,Default,ja,0,0,0,,嵐になってきました、ハンゾウ様。
 Dialogue: 0,0:13:12.87,0:13:15.10,Default,ko,0,0,0,,폭풍우가 칩니다, 한조 님.
-Dialogue: 0,0:13:12.87,0:13:15.10,Default,en,0,0,0,,The weather is stormy, Lord Hanzo.
+Dialogue: 0,0:13:12.87,0:13:15.10,Default,en,0,0,0,,The weather is stormy, Lord Hanzō.
 Comment: 0,0:13:15.42,0:13:19.06,Default,ja,0,0,0,,うん、巻き込まれないように雲の上に合われ！
 Dialogue: 0,0:13:15.42,0:13:19.06,Default,ko,0,0,0,,그래, 말려들지 않도록 구름 위로 올라라!
 Dialogue: 0,0:13:15.42,0:13:19.06,Default,en,0,0,0,,I see. Go above the clouds, so that we don't get mixed up!
@@ -569,7 +569,7 @@ Dialogue: 0,0:15:48.85,0:15:51.46,Default,ko,0,0,0,,이 세상의 악을 쓰러�
 Dialogue: 0,0:15:48.85,0:15:51.46,Default,en,0,0,0,,We don't die until we're done with all the evil on this world-dasu!
 Comment: 0,0:15:51.96,0:15:55.56,Default,ja,0,0,0,,メガトンジョーはもうおしまいだ！観念するんだな、ハンゾウ！
 Dialogue: 0,0:15:51.96,0:15:55.56,Default,ko,0,0,0,,메가톤성은 이제 끝이다! 포기해라, 한조!
-Dialogue: 0,0:15:51.96,0:15:55.56,Default,en,0,0,0,,Megaton Castle is no more! Give it up, Hanzo!
+Dialogue: 0,0:15:51.96,0:15:55.56,Default,en,0,0,0,,Megaton Castle is no more! Give it up, Hanzō!
 Comment: 0,0:15:55.91,0:15:57.47,Default,ja,0,0,0,,最後の決着をつけてやる。
 Dialogue: 0,0:15:55.91,0:15:57.47,Default,ko,0,0,0,,최후의 결판을 내 주겠다.
 Dialogue: 0,0:15:55.91,0:15:57.47,Default,en,0,0,0,,We will finish this right now!
@@ -608,7 +608,7 @@ Dialogue: 0,0:17:27.93,0:17:32.26,Default,ko,0,0,0,,여기서 바라볼 수밖�
 Dialogue: 0,0:17:27.93,0:17:32.26,Default,en,0,0,0,,How deplorable, that we have to just gave at that!
 Comment: 0,0:17:32.49,0:17:35.40,Default,ja,0,0,0,,みんな、頑張ってハンゾウをやっつけてくれよ！
 Dialogue: 0,0:17:32.49,0:17:35.40,Default,ko,0,0,0,,다들 힘내서 한조를 끝장내 줘!
-Dialogue: 0,0:17:32.49,0:17:35.40,Default,en,0,0,0,,Everyone, do your best to finish Hanzo!
+Dialogue: 0,0:17:32.49,0:17:35.40,Default,en,0,0,0,,Everyone, do your best to finish Hanzō!
 Comment: 0,0:17:35.67,0:17:37.63,Default,ja,0,0,0,,うん、一句できましたよ！
 Dialogue: 0,0:17:35.67,0:17:37.63,Default,ko,0,0,0,,그래, 한 구절 생각났다.
 Dialogue: 0,0:17:35.67,0:17:37.63,Default,en,0,0,0,,Right, I got a new poem.
@@ -623,7 +623,7 @@ Dialogue: 0,0:17:43.02,0:17:46.46,Default,ko,0,0,0,,{\i1}무사시. 코지로. �
 Dialogue: 0,0:17:43.02,0:17:46.46,Default,en,0,0,0,,{\i1}Musashi. Kojirō. Jūbē. Make it.
 Comment: 0,0:17:46.71,0:17:51.20,Default,ja,0,0,0,,ハンゾウ目。どこまでわしに楯突けば気が済むのだ、まったく。
 Dialogue: 0,0:17:46.71,0:17:51.20,Default,ko,0,0,0,,한조 놈. 어디까지 내게 대들어야 만족스러운 거냐, 거 참.
-Dialogue: 0,0:17:46.71,0:17:51.20,Default,en,0,0,0,,That Hanzo bastard. How much more do he have to defy me for him to be satisfied?
+Dialogue: 0,0:17:46.71,0:17:51.20,Default,en,0,0,0,,That Hanzō bastard. How much more do he have to defy me for him to be satisfied?
 Comment: 0,0:17:51.48,0:17:54.06,Default,ja,0,0,0,,ムサシさん、頑張っておくなされ！
 Dialogue: 0,0:17:51.48,0:17:54.06,Default,ko,0,0,0,,무사시 씨, 힘내쇼!
 Dialogue: 0,0:17:51.48,0:17:54.06,Default,en,0,0,0,,Mr. Musashi, do your best!
@@ -668,7 +668,7 @@ Dialogue: 0,0:19:19.52,0:19:21.10,Default,ko,0,0,0,,쳇, 쓸데없는 짓을!
 Dialogue: 0,0:19:19.52,0:19:21.10,Default,en,0,0,0,,Tch, how dare he do that!?
 Comment: 0,0:19:21.32,0:19:21.92,Default,ja,0,0,0,,ハンゾウ！
 Dialogue: 0,0:19:21.32,0:19:21.92,Default,ko,0,0,0,,한조!
-Dialogue: 0,0:19:21.32,0:19:21.92,Default,en,0,0,0,,Hanzo!
+Dialogue: 0,0:19:21.32,0:19:21.92,Default,en,0,0,0,,Hanzō!
 Comment: 0,0:19:23.62,0:19:27.10,Default,ja,0,0,0,,お前の手下はすべて倒したぞ！あとはお前だけだ！
 Dialogue: 0,0:19:23.62,0:19:27.10,Default,ko,0,0,0,,네 부하는 전부 쓰러트렸다. 이제 남은 건 너뿐이다!
 Dialogue: 0,0:19:23.62,0:19:27.10,Default,en,0,0,0,,All your subordinates are now down! You're the only one remaining!
@@ -689,7 +689,7 @@ Dialogue: 0,0:19:42.67,0:19:44.74,Default,ko,0,0,0,,국왕에게서 넘겨받았
 Dialogue: 0,0:19:42.67,0:19:44.74,Default,en,0,0,0,,The king gave this to me.
 Comment: 0,0:19:45.92,0:19:51.41,Default,ja,0,0,0,,ハンゾウ！いくら三種の神器持っていたとしても、誰もお前を国王とは認めんぞ！
 Dialogue: 0,0:19:45.92,0:19:51.41,Default,ko,0,0,0,,한조! 아무리 네가 삼종의 신기를 가지고 있다고 해도 아무도 널 국왕으로 인정하지 않을 테다!
-Dialogue: 0,0:19:45.92,0:19:51.41,Default,en,0,0,0,,Hanzo! Even if you have the Three Sacred Treasures, nobody will recognize you as a king!
+Dialogue: 0,0:19:45.92,0:19:51.41,Default,en,0,0,0,,Hanzō! Even if you have the Three Sacred Treasures, nobody will recognize you as a king!
 Comment: 0,0:19:51.87,0:19:54.37,Default,ja,0,0,0,,認めぬ奴は殺すまでよ！
 Dialogue: 0,0:19:51.87,0:19:54.37,Default,ko,0,0,0,,인정하지 않으면 죽일 뿐!
 Dialogue: 0,0:19:51.87,0:19:54.37,Default,en,0,0,0,,Whoever does not recognize will be killed!
@@ -707,7 +707,7 @@ Dialogue: 0,0:20:12.86,0:20:16.79,Default,ko,0,0,0,,내가 불리한 모양이�
 Dialogue: 0,0:20:12.86,0:20:16.79,Default,en,0,0,0,,It seems that I'm at disadvantage. See you later again!
 Comment: 0,0:20:21.91,0:20:24.57,Default,ja,0,0,0,,ハンゾウ！待つダス！
 Dialogue: 0,0:20:21.91,0:20:24.57,Default,ko,0,0,0,,한조! 멈추시오!
-Dialogue: 0,0:20:21.91,0:20:24.57,Default,en,0,0,0,,Hanzo! Wait-dasu!
+Dialogue: 0,0:20:21.91,0:20:24.57,Default,en,0,0,0,,Hanzō! Wait-dasu!
 Comment: 0,0:20:24.57,0:20:26.09,Default,ja,0,0,0,,逃げるな！
 Dialogue: 0,0:20:24.57,0:20:26.09,Default,ko,0,0,0,,도망치지 마시오!
 Dialogue: 0,0:20:24.57,0:20:26.09,Default,en,0,0,0,,Don't run away!
@@ -737,7 +737,7 @@ Dialogue: 0,0:21:15.10,0:21:16.54,Default,ko,0,0,0,,어? 삼종의 신기가!
 Dialogue: 0,0:21:15.10,0:21:16.54,Default,en,0,0,0,,The Three Sacred Treasures!
 Comment: 0,0:21:17.15,0:21:19.39,Default,ja,0,0,0,,ハンゾウ、ヒミコさんの敵だス！
 Dialogue: 0,0:21:17.15,0:21:19.39,Default,ko,0,0,0,,한조, 히미코 씨를 위한 복수이오!
-Dialogue: 0,0:21:17.15,0:21:19.39,Default,en,0,0,0,,Hanzo, this revenge is for Ms. Himiko-dasu!
+Dialogue: 0,0:21:17.15,0:21:19.39,Default,en,0,0,0,,Hanzō, this revenge is for Ms. Himiko-dasu!
 Comment: 0,0:21:19.92,0:21:22.65,Default,ja,0,0,0,,二天一流、双龍剣！
 Dialogue: 0,0:21:19.92,0:21:22.65,Default,ko,0,0,0,,이천일류 쌍룡검!
 Dialogue: 0,0:21:19.92,0:21:22.65,Default,en,0,0,0,,Nitenichiryu: Double Dragon Sword!
@@ -755,7 +755,7 @@ Dialogue: 0,0:21:57.91,0:21:59.12,Default,ko,0,0,0,,무사시 씨!
 Dialogue: 0,0:21:57.91,0:21:59.12,Default,en,0,0,0,,Mr. Musashi!
 Comment: 0,0:22:00.10,0:22:05.87,Default,ja,0,0,0,,ハンゾウは倒れた。その時、ムサシの胸に去来するものは何か。
 Dialogue: 0,0:22:00.10,0:22:05.87,Default,ko,0,0,0,,한조는 쓰러졌다. 그 때, 무사시의 가슴 속에서 오가는 것은 무엇인가.
-Dialogue: 0,0:22:00.10,0:22:05.87,Default,en,0,0,0,,Hanzo is taken down. Right at that moment, what is recurring in Musashi's heart?
+Dialogue: 0,0:22:00.10,0:22:05.87,Default,en,0,0,0,,Hanzō is taken down. Right at that moment, what is recurring in Musashi's heart?
 Comment: 0,0:22:06.66,0:22:12.64,Default,ja,0,0,0,,長い闘いの日々が終わり、千姫、コジローとの旅も終わりを告げようとしている。
 Dialogue: 0,0:22:06.66,0:22:12.64,Default,ko,0,0,0,,기나긴 싸움의 날들이 끝나고, 센히메, 코지로와의 여행도 끝을 알리고 있었다.
 Dialogue: 0,0:22:06.66,0:22:12.64,Default,en,0,0,0,,The long days of battles are over, and the trip with Senhime and Kojirō is also about to end.

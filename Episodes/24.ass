@@ -138,13 +138,13 @@ Dialogue: 0,0:03:28.45,0:03:29.68,Default,ko,0,0,0,,주베 님이 뭐라고?
 Dialogue: 0,0:03:28.45,0:03:29.68,Default,en,0,0,0,,What did Mr. Jūbē write?
 Comment: 0,0:03:30.61,0:03:35.90,Default,ja,0,0,0,,センヒメ様を亡き者に使用とするたくらみはハンゾウの仕業と判明。
 Dialogue: 0,0:03:30.61,0:03:35.90,Default,ko,0,0,0,,센히메님을 없애 버리고자 하는 음모는 한조의 짓이라 판명.
-Dialogue: 0,0:03:30.61,0:03:35.90,Default,en,0,0,0,,It became clear that the plot of removing Senhime is done by Hanzo.
+Dialogue: 0,0:03:30.61,0:03:35.90,Default,en,0,0,0,,It became clear that the plot of removing Senhime is done by Hanzō.
 Comment: 0,0:03:36.37,0:03:36.98,Default,ja,0,0,0,,なんと！
 Dialogue: 0,0:03:36.37,0:03:36.98,Default,ko,0,0,0,,뭐라!
 Dialogue: 0,0:03:36.37,0:03:36.98,Default,en,0,0,0,,What?!
 Comment: 0,0:03:37.45,0:03:38.68,Default,ja,0,0,0,,あのハンゾウが？
 Dialogue: 0,0:03:37.45,0:03:38.68,Default,ko,0,0,0,,그 한조가?
-Dialogue: 0,0:03:37.45,0:03:38.68,Default,en,0,0,0,,That Hanzo?
+Dialogue: 0,0:03:37.45,0:03:38.68,Default,en,0,0,0,,That Hanzō?
 Comment: 0,0:03:50.41,0:03:52.47,Default,ja,0,0,0,,ジュウベエ殿は何上ここに？
 Dialogue: 0,0:03:50.41,0:03:52.47,Default,ko,0,0,0,,주베 님이 왜 여기에?
 Dialogue: 0,0:03:50.41,0:03:52.47,Default,en,0,0,0,,Why did you come, Mr. Jūbē?
@@ -165,7 +165,7 @@ Dialogue: 0,0:04:13.68,0:04:18.65,Default,ko,0,0,0,,급하게 부르셔서 찾�
 Dialogue: 0,0:04:13.68,0:04:18.65,Default,en,0,0,0,,Since you've called me, I'm ready to do whatever you order.
 Comment: 0,0:04:19.30,0:04:23.54,Default,ja,0,0,0,,うん。実は、ハンゾウ、そっちに訪ねたいことがある。
 Dialogue: 0,0:04:19.30,0:04:23.54,Default,ko,0,0,0,,좋다. 실은, 한조, 자네에게 묻고자 하는 게 있다.
-Dialogue: 0,0:04:19.30,0:04:23.54,Default,en,0,0,0,,Well then. Hanzo, I have something to ask you.
+Dialogue: 0,0:04:19.30,0:04:23.54,Default,en,0,0,0,,Well then. Hanzō, I have something to ask you.
 Comment: 0,0:04:24.01,0:04:25.22,Default,ja,0,0,0,,は。何なりと？
 Dialogue: 0,0:04:24.01,0:04:25.22,Default,ko,0,0,0,,예. 무엇입니까?
 Dialogue: 0,0:04:24.01,0:04:25.22,Default,en,0,0,0,,Yessir. What is it?
@@ -192,13 +192,13 @@ Dialogue: 0,0:04:53.70,0:04:58.40,Default,ko,0,0,0,,무사시, 코지로를 베�
 Dialogue: 0,0:04:53.70,0:04:58.40,Default,en,0,0,0,,There was a directive to cut Musashi and Kojirō, and steal Senhime.
 Comment: 0,0:04:58.88,0:05:04.61,Default,ja,0,0,0,,ハンゾウ。すべてはジュウベエの調べて明確である。潔く腹を切れ。
 Dialogue: 0,0:04:58.88,0:05:04.61,Default,ko,0,0,0,,한조. 모든 것은 주베가 조사하여 명확하다. 미련 없이 할복해라.
-Dialogue: 0,0:04:58.88,0:05:04.61,Default,en,0,0,0,,Hanzo, everything is clear as Jūbē investigated about this. Disembowel yourself to reclaim yourself.
+Dialogue: 0,0:04:58.88,0:05:04.61,Default,en,0,0,0,,Hanzō, everything is clear as Jūbē investigated about this. Disembowel yourself to reclaim yourself.
 Comment: 0,0:05:08.60,0:05:10.49,Default,ja,0,0,0,,ばれたからには仕方がない。
 Dialogue: 0,0:05:08.60,0:05:10.49,Default,ko,0,0,0,,들켰으니 어쩔 수 없군.
 Dialogue: 0,0:05:08.60,0:05:10.49,Default,en,0,0,0,,It can't be helped as you've found out.
 Comment: 0,0:05:19.56,0:05:24.16,Default,ja,0,0,0,,堂々正体を現したな、ハンゾウ！謀反人として切り捨ててやる！
 Dialogue: 0,0:05:19.56,0:05:24.16,Default,ko,0,0,0,,드디어 정체를 드러냈구나, 한조! 반역자는 베어 버리겠다!
-Dialogue: 0,0:05:19.56,0:05:24.16,Default,en,0,0,0,,You've finally showed yourself, Hanzo! I will cut down an insurgent!
+Dialogue: 0,0:05:19.56,0:05:24.16,Default,en,0,0,0,,You've finally showed yourself, Hanzō! I will cut down an insurgent!
 Comment: 0,0:05:24.37,0:05:29.83,Default,ja,0,0,0,,黙れ！イエヤスを倒し、ジパングこのてで支配するのがワシの目的。
 Dialogue: 0,0:05:24.37,0:05:29.83,Default,ko,0,0,0,,닥쳐라! 이에야스를 쓰러뜨리고 지팡구를 이 손으로 지배하는 게 내 목적.
 Dialogue: 0,0:05:24.37,0:05:29.83,Default,en,0,0,0,,Shut up! Taking down Ieyasu and ruling over the whole Jipangu is my objective.
@@ -213,7 +213,7 @@ Dialogue: 0,0:05:45.88,0:05:46.72,Default,ko,0,0,0,,젠장!
 Dialogue: 0,0:05:45.88,0:05:46.72,Default,en,0,0,0,,Damn!
 Comment: 0,0:05:47.37,0:05:48.64,Default,ja,0,0,0,,ハンゾウ、覚悟！
 Dialogue: 0,0:05:47.37,0:05:48.64,Default,ko,0,0,0,,한조, 각오해라!
-Dialogue: 0,0:05:47.37,0:05:48.64,Default,en,0,0,0,,Prepare yourself, Hanzo!
+Dialogue: 0,0:05:47.37,0:05:48.64,Default,en,0,0,0,,Prepare yourself, Hanzō!
 Comment: 0,0:05:49.28,0:05:50.05,Default,ja,0,0,0,,甘いわ！
 Dialogue: 0,0:05:49.28,0:05:50.05,Default,ko,0,0,0,,무르군!
 Dialogue: 0,0:05:49.28,0:05:50.05,Default,en,0,0,0,,How naive!
@@ -234,10 +234,10 @@ Dialogue: 0,0:06:16.53,0:06:18.61,Default,ko,0,0,0,,예! 바로 만나러 가겠
 Dialogue: 0,0:06:16.53,0:06:18.61,Default,en,0,0,0,,Yessir! I will go meet her right away.
 Comment: 0,0:06:22.58,0:06:24.15,Default,ja,0,0,0,,ハンゾウがそのようなことを。
 Dialogue: 0,0:06:22.58,0:06:24.15,Default,ko,0,0,0,,한조가 그런 짓을.
-Dialogue: 0,0:06:22.58,0:06:24.15,Default,en,0,0,0,,How dare Hanzo do that.
+Dialogue: 0,0:06:22.58,0:06:24.15,Default,en,0,0,0,,How dare Hanzō do that.
 Comment: 0,0:06:24.52,0:06:29.64,Default,ja,0,0,0,,は。すでにハンゾウらはこの北海道に渡ってようす。お気を付けください。
 Dialogue: 0,0:06:24.52,0:06:29.64,Default,ko,0,0,0,,예. 한조 놈들은 진작에 여기 홋카이도에 건너온 듯 합니다. 조심해 주세요.
-Dialogue: 0,0:06:24.52,0:06:29.64,Default,en,0,0,0,,Yessir. Hanzo and his subordinates seem to be already at Hokkaido. Please be careful.
+Dialogue: 0,0:06:24.52,0:06:29.64,Default,en,0,0,0,,Yessir. Hanzō and his subordinates seem to be already at Hokkaido. Please be careful.
 Comment: 0,0:06:30.48,0:06:33.01,Default,ja,0,0,0,,ジュウベエ様もすぐに駆け付けて参ります。
 Dialogue: 0,0:06:30.48,0:06:33.01,Default,ko,0,0,0,,주베 님도 바로 만나러 오시고 계십니다.
 Dialogue: 0,0:06:30.48,0:06:33.01,Default,en,0,0,0,,My master Jūbē is coming to meet you at the moment.
@@ -267,7 +267,7 @@ Dialogue: 0,0:07:34.65,0:07:38.03,Default,ko,0,0,0,,혼자 날뛰지 마라, 무
 Dialogue: 0,0:07:34.65,0:07:38.03,Default,en,0,0,0,,Don't act hastily, Musashi! That was a tryout.
 Comment: 0,0:07:38.69,0:07:40.45,Default,ja,0,0,0,,ハンゾウが近くにいるのがしら。
 Dialogue: 0,0:07:38.69,0:07:40.45,Default,ko,0,0,0,,한조가 주변에 있을까.
-Dialogue: 0,0:07:38.69,0:07:40.45,Default,en,0,0,0,,I wonder if Hanzo is nearby.
+Dialogue: 0,0:07:38.69,0:07:40.45,Default,en,0,0,0,,I wonder if Hanzō is nearby.
 Comment: 0,0:07:41.12,0:07:41.83,Default,ja,0,0,0,,おそらく。
 Dialogue: 0,0:07:41.12,0:07:41.83,Default,ko,0,0,0,,분명.
 Dialogue: 0,0:07:41.12,0:07:41.83,Default,en,0,0,0,,Probably.
@@ -393,10 +393,10 @@ Dialogue: 0,0:11:00.09,0:11:05.37,Default,ko,0,0,0,,그 대단한 코지로와 �
 Dialogue: 0,0:11:00.09,0:11:05.37,Default,en,0,0,0,,That mighty Kojirō and Musashi couldn't do anything in front of a snowslide.
 Comment: 0,0:11:07.65,0:11:10.88,Default,ja,0,0,0,,そのころ、ハンゾウはからくり砦にいた。
 Dialogue: 0,0:11:07.65,0:11:10.88,Default,ko,0,0,0,,그 쯤, 한조는 카라쿠리 요새에 있었다.
-Dialogue: 0,0:11:07.65,0:11:10.88,Default,en,0,0,0,,Meanwhile, Hanzo was at Karakuri Stronghold.
+Dialogue: 0,0:11:07.65,0:11:10.88,Default,en,0,0,0,,Meanwhile, Hanzō was at Karakuri Stronghold.
 Comment: 0,0:11:17.50,0:11:20.48,Default,ja,0,0,0,,ハンゾウ様。ようこそからくり砦へ。
 Dialogue: 0,0:11:17.50,0:11:20.48,Default,ko,0,0,0,,한조 님. 카라쿠리 요새에 온 것을 환영합니다.
-Dialogue: 0,0:11:17.50,0:11:20.48,Default,en,0,0,0,,Lord Hanzo. Welcome to Karakuri Stronghold.
+Dialogue: 0,0:11:17.50,0:11:20.48,Default,en,0,0,0,,Lord Hanzō. Welcome to Karakuri Stronghold.
 Comment: 0,0:11:21.36,0:11:25.78,Default,ja,0,0,0,,うん、ジライヤン。見事な砦、気に入ったぞ。
 Dialogue: 0,0:11:21.36,0:11:25.78,Default,ko,0,0,0,,좋다, 지라이얀. 훌륭한 요새, 마음에 들었다.
 Dialogue: 0,0:11:21.36,0:11:25.78,Default,en,0,0,0,,Good job, Jiraiyan. I like this perfect stronghold.
@@ -411,7 +411,7 @@ Dialogue: 0,0:11:36.41,0:11:37.20,Default,ko,0,0,0,,예!
 Dialogue: 0,0:11:36.41,0:11:37.20,Default,en,0,0,0,,Yessir!
 Comment: 0,0:11:38.86,0:11:39.72,Default,ja,0,0,0,,ハンゾウ様。
 Dialogue: 0,0:11:38.86,0:11:39.72,Default,ko,0,0,0,,한조 님.
-Dialogue: 0,0:11:38.86,0:11:39.72,Default,en,0,0,0,,Lord Hanzo.
+Dialogue: 0,0:11:38.86,0:11:39.72,Default,en,0,0,0,,Lord Hanzō.
 Comment: 0,0:11:40.60,0:11:41.77,Default,ja,0,0,0,,おお、オニヒメ。
 Dialogue: 0,0:11:40.60,0:11:41.77,Default,ko,0,0,0,,오, 오니히메.
 Dialogue: 0,0:11:40.60,0:11:41.77,Default,en,0,0,0,,Onihime.
@@ -639,7 +639,7 @@ Dialogue: 0,0:17:40.50,0:17:41.05,Default,ko,0,0,0,,저건?
 Dialogue: 0,0:17:40.50,0:17:41.05,Default,en,0,0,0,,What's that?
 Comment: 0,0:17:41.74,0:17:43.60,Default,ja,0,0,0,,ハンゾウ一味の砦に違いない。
 Dialogue: 0,0:17:41.74,0:17:43.60,Default,ko,0,0,0,,한조 일당의 요새임이 틀림없다.
-Dialogue: 0,0:17:41.74,0:17:43.60,Default,en,0,0,0,,It must be Hanzo gang's stronghold.
+Dialogue: 0,0:17:41.74,0:17:43.60,Default,en,0,0,0,,It must be Hanzō gang's stronghold.
 Comment: 0,0:17:44.32,0:17:46.00,Default,ja,0,0,0,,ここダスな、汚染ちゃんも。
 Dialogue: 0,0:17:44.32,0:17:46.00,Default,ko,0,0,0,,여기 있겠소, 센짱도.
 Dialogue: 0,0:17:44.32,0:17:46.00,Default,en,0,0,0,,Sen-chan must be here-{\i1}dasu{\i0}, too.
@@ -684,7 +684,7 @@ Dialogue: 0,0:19:01.54,0:19:04.11,Default,ko,0,0,0,,아, 잠깐! 무슨 일이�
 Dialogue: 0,0:19:01.54,0:19:04.11,Default,en,0,0,0,,Hey, wait! What's going on here?
 Comment: 0,0:19:04.63,0:19:09.82,Default,ja,0,0,0,,ハンゾウに謀反の桑だてあい、センヒメ様一行が危うるであります。
 Dialogue: 0,0:19:04.63,0:19:09.82,Default,ko,0,0,0,,한조가 반역을 저질러 센히메 님 일행이 위험에 처했다고 합니다.
-Dialogue: 0,0:19:04.63,0:19:09.82,Default,en,0,0,0,,Hanzo has done treachery, and Senhime and others are in danger.
+Dialogue: 0,0:19:04.63,0:19:09.82,Default,en,0,0,0,,Hanzō has done treachery, and Senhime and others are in danger.
 Comment: 0,0:19:09.92,0:19:10.67,Default,ja,0,0,0,,なんと！
 Dialogue: 0,0:19:09.92,0:19:10.67,Default,ko,0,0,0,,뭐라!
 Dialogue: 0,0:19:09.92,0:19:10.67,Default,en,0,0,0,,What?!
@@ -851,7 +851,7 @@ Dialogue: 0,0:24:09.93,0:24:13.75,Default,ko,0,0,0,,주베 씨에 우시와카, 
 Dialogue: 0,0:24:09.93,0:24:13.75,Default,en,0,0,0,,Mr. Jūbē, Ushiwaka, Benkei, and Baiken have joined the fight and it's a big battle!
 Comment: 0,0:24:13.92,0:24:17.20,Default,ja,0,0,0,,オニヒメ、ジライヤン、ハンゾウの雑魚にまで相手にして大変！
 Dialogue: 0,0:24:13.92,0:24:17.20,Default,ko,0,0,0,,오니히메, 지라이얀, 한조의 조무래기까지 상대해야 해서 큰일!
-Dialogue: 0,0:24:13.92,0:24:17.20,Default,en,0,0,0,,Facing Onihime, Jiraiyan, and Hanzo's lackies at once is difficult!
+Dialogue: 0,0:24:13.92,0:24:17.20,Default,en,0,0,0,,Facing Onihime, Jiraiyan, and Hanzō's lackies at once is difficult!
 Comment: 0,0:24:17.58,0:24:20.30,Default,ja,0,0,0,,おせんちゃんを助けることはできるんだスかな！
 Dialogue: 0,0:24:17.58,0:24:20.30,Default,ko,0,0,0,,센짱을 구하는 건 가능할지 모르겠소!
 Dialogue: 0,0:24:17.58,0:24:20.30,Default,en,0,0,0,,I wonder if it's possible to rescue Sen-chan-{\i1}dasu{\i0}!

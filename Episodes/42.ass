@@ -297,7 +297,7 @@ Dialogue: 0,0:06:07.07,0:06:11.59,Default,ko,0,0,0,,{\i1}국왕 전하, 방패�
 Dialogue: 0,0:06:07.07,0:06:11.59,Default,en,0,0,0,,{\i1}Your Highness, I will take the shield and the jewel back for you.
 Comment: 0,0:06:19.59,0:06:21.56,Default,ja,0,0,0,,なんのようだ、ハンゾウ。
 Dialogue: 0,0:06:19.59,0:06:21.56,Default,ko,0,0,0,,뭔 일이냐, 한조.
-Dialogue: 0,0:06:19.59,0:06:21.56,Default,en,0,0,0,,What is it, Hanzo?
+Dialogue: 0,0:06:19.59,0:06:21.56,Default,en,0,0,0,,What is it, Hanzō?
 Comment: 0,0:06:22.68,0:06:25.77,Default,ja,0,0,0,,ドクガンリュウ、メガトンジョーを友ともらえぬか。
 Dialogue: 0,0:06:22.68,0:06:25.77,Default,ko,0,0,0,,도쿠간류. 메가톤성을 멈춰주지 않겠나.
 Dialogue: 0,0:06:22.68,0:06:25.77,Default,en,0,0,0,,Dokuganryu. Wouldn't you want to stop Megaton Castle?
@@ -631,7 +631,7 @@ Dialogue: 0,0:15:41.20,0:15:44.33,Default,ko,0,0,0,,이 인상서로는 잘 모�
 Dialogue: 0,0:15:41.20,0:15:44.33,Default,en,0,0,0,,I can't really distinguish from this description, but you might be true.
 Comment: 0,0:15:45.70,0:15:48.97,Default,ja,0,0,0,,こりゃハンゾウ様に大目玉をくらうところだったぜ。
 Dialogue: 0,0:15:45.70,0:15:48.97,Default,ko,0,0,0,,이래선 한조 님께 혼이라도 날 틈이었군!
-Dialogue: 0,0:15:45.70,0:15:48.97,Default,en,0,0,0,,We might have ended up being scolded by Lord Hanzo!
+Dialogue: 0,0:15:45.70,0:15:48.97,Default,en,0,0,0,,We might have ended up being scolded by Lord Hanzō!
 Comment: 0,0:15:54.06,0:15:57.77,Default,ja,0,0,0,,何するんだよ！放して！
 Dialogue: 0,0:15:54.06,0:15:57.77,Default,ko,0,0,0,,뭔 짓이야! 놔!
 Dialogue: 0,0:15:54.06,0:15:57.77,Default,en,0,0,0,,What are you doing?! Let me go!
@@ -668,7 +668,7 @@ Dialogue: 0,0:16:31.42,0:16:33.74,Default,en,0,0,0,,They left this letter.
 Comment: 0,0:16:34.68,0:16:43.24,Default,ja,0,0,0,,ムサシとコジローに積む。千姫を助けたけば、今宵、酉の刻、二人だけでセンジョウ谷に来るべし。ハンゾウ。
 Dialogue: 0,0:16:34.68,0:16:43.24,Default,ko,0,0,0,,무사시에게 코지로에게 전한다. 센히메를 구하고 싶으면 오늘 밤 유시에 둘이서만 센죠곡에 올 것. 한조.
 Dialogue: 0,0:16:34.68,0:16:43.24,Note,en,0,0,0,,(hour of rooster: 5:00~7:00 PM)
-Dialogue: 0,0:16:34.68,0:16:43.24,Default,en,0,0,0,,To Musashi and Kojirō. To rescue Senhime, come to Senjo Valley at the hour of rooster, only by you two. Hanzo.
+Dialogue: 0,0:16:34.68,0:16:43.24,Default,en,0,0,0,,To Musashi and Kojirō. To rescue Senhime, come to Senjo Valley at the hour of rooster, only by you two. Hanzō.
 Comment: 0,0:16:43.78,0:16:46.33,Default,ja,0,0,0,,いつもいつも汚い手を使うやつだス！
 Dialogue: 0,0:16:43.78,0:16:46.33,Default,ko,0,0,0,,매번이고 더러운 수만 쓰는 놈이오!
 Dialogue: 0,0:16:43.78,0:16:46.33,Default,en,0,0,0,,He always uses dirty tricks-dasu!
@@ -683,7 +683,7 @@ Dialogue: 0,0:16:54.47,0:16:55.33,Default,ko,0,0,0,,무사시 씨...
 Dialogue: 0,0:16:54.47,0:16:55.33,Default,en,0,0,0,,Mr. Musashi...
 Comment: 0,0:16:55.72,0:16:57.76,Default,ja,0,0,0,,ハンゾウ目、許さないだス！
 Dialogue: 0,0:16:55.72,0:16:57.76,Default,ko,0,0,0,,한조 놈, 용서할 수 없소!
-Dialogue: 0,0:16:55.72,0:16:57.76,Default,en,0,0,0,,That Hanzo is unforgivable-dasu!
+Dialogue: 0,0:16:55.72,0:16:57.76,Default,en,0,0,0,,That Hanzō is unforgivable-dasu!
 Comment: 0,0:17:00.83,0:17:02.87,Default,ja,0,0,0,,あの断崖の下が、センジョウ谷だ。
 Dialogue: 0,0:17:00.83,0:17:02.87,Default,ko,0,0,0,,저 낭떠러지 아래가 센죠곡이다.
 Dialogue: 0,0:17:00.83,0:17:02.87,Default,en,0,0,0,,Under that cliff is Senjo Valley.

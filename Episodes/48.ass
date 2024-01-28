@@ -80,7 +80,7 @@ Dialogue: 0,0:01:45.54,0:01:50.75,SongOP,ko,0,0,0,,미간이 반짝였다 무사
 Dialogue: 0,0:01:45.54,0:01:50.75,SongOP,en,0,0,0,,His eyes shined! Musashi!
 Comment: 0,0:02:00.25,0:02:05.34,Default,ja,0,0,0,,バベル13に乗り込んだムサシ達は、ハンゾウのワナにかかり、つかまっしまった。
 Dialogue: 0,0:02:00.25,0:02:05.34,Default,ko,0,0,0,,바벨 13에 잠입한 무사시 일행은 한조의 함정에 걸려 잡히고 말았다.
-Dialogue: 0,0:02:00.25,0:02:05.34,Default,en,0,0,0,,Musashi and others managed to sneak into Babel 13, but they were captured with Hanzo's trap.
+Dialogue: 0,0:02:00.25,0:02:05.34,Default,en,0,0,0,,Musashi and others managed to sneak into Babel 13, but they were captured with Hanzō's trap.
 Comment: 0,0:02:05.84,0:02:10.13,Default,ja,0,0,0,,ノブナガは、千姫を殺してもいいから捕まえろという命令を出す。
 Dialogue: 0,0:02:05.84,0:02:10.13,Default,ko,0,0,0,,노부나가는 센히메를 죽여도 괜찮으니 잡아 오라는 명령을 내린다.
 Dialogue: 0,0:02:05.84,0:02:10.13,Default,en,0,0,0,,Nobunaga orders Dokuganryu to capture Senhime, allowing to kill her.
@@ -242,7 +242,7 @@ Dialogue: 0,0:06:39.18,0:06:41.59,Default,ko,0,0,0,,그랬다간 본전도 못 �
 Dialogue: 0,0:06:39.18,0:06:41.59,Default,en,0,0,0,,That will leave you nothing.
 Comment: 0,0:06:42.16,0:06:45.90,Default,ja,0,0,0,,うん、ハンゾウはまだ分かっておらんようだな。
 Dialogue: 0,0:06:42.16,0:06:45.90,Default,ko,0,0,0,,음, 한조는 아직 모르는 듯 하구나.
-Dialogue: 0,0:06:42.16,0:06:45.90,Default,en,0,0,0,,It seems that you don't know yet, Hanzo.
+Dialogue: 0,0:06:42.16,0:06:45.90,Default,en,0,0,0,,It seems that you don't know yet, Hanzō.
 Comment: 0,0:06:46.32,0:06:46.73,Default,ja,0,0,0,,は？
 Dialogue: 0,0:06:46.32,0:06:46.73,Default,ko,0,0,0,,예?
 Dialogue: 0,0:06:46.32,0:06:46.73,Default,en,0,0,0,,Yes?
@@ -765,7 +765,7 @@ Dialogue: 0,0:21:36.86,0:21:38.48,Default,ko,0,0,0,,뭐라? 무사시 놈들이?
 Dialogue: 0,0:21:36.86,0:21:38.48,Default,en,0,0,0,,What? Musashi bastards!?
 Comment: 0,0:21:43.11,0:21:46.00,Default,ja,0,0,0,,ハンゾウ！部下を集めてついて参れ！
 Dialogue: 0,0:21:43.11,0:21:46.00,Default,ko,0,0,0,,한조! 부하를 모아서 맞서라!
-Dialogue: 0,0:21:43.11,0:21:46.00,Default,en,0,0,0,,Hanzo! Gather subordinates and stop them!
+Dialogue: 0,0:21:43.11,0:21:46.00,Default,en,0,0,0,,Hanzō! Gather subordinates and stop them!
 Comment: 0,0:21:46.00,0:21:46.82,Default,ja,0,0,0,,は！
 Dialogue: 0,0:21:46.00,0:21:46.82,Default,ko,0,0,0,,예!
 Dialogue: 0,0:21:46.00,0:21:46.82,Default,en,0,0,0,,Yessir!
@@ -862,10 +862,10 @@ Dialogue: 0,0:24:11.82,0:24:14.73,Default,ko,0,0,0,,과연 지팡구는 악인�
 Dialogue: 0,0:24:11.82,0:24:14.73,Default,en,0,0,0,,Will Jipangu end up falling over to the hands of bad guy-{\i1}dasu{\i0}?
 Comment: 0,0:24:15.13,0:24:18.93,Default,ja,0,0,0,,しかし、天下を狙うハンゾウはノブナガを殺してしまっただス。
 Dialogue: 0,0:24:15.13,0:24:18.93,Default,ko,0,0,0,,그러나 천하를 노리는 한조는 노부나가를 죽이고 마오!
-Dialogue: 0,0:24:15.13,0:24:18.93,Default,en,0,0,0,,But, looking for the ruling power, Hanzo kills Nobunaga-{\i1}dasu{\i0}!
+Dialogue: 0,0:24:15.13,0:24:18.93,Default,en,0,0,0,,But, looking for the ruling power, Hanzō kills Nobunaga-{\i1}dasu{\i0}!
 Comment: 0,0:24:19.40,0:24:21.96,Default,ja,0,0,0,,本当の悪はやっぱりハンゾウだったダス！
 Dialogue: 0,0:24:19.40,0:24:21.96,Default,ko,0,0,0,,정말 나쁜 건 역시 한조였소!
-Dialogue: 0,0:24:19.40,0:24:21.96,Default,en,0,0,0,,The one who's truly bad really is Hanzo-{\i1}dasu{\i0}!
+Dialogue: 0,0:24:19.40,0:24:21.96,Default,en,0,0,0,,The one who's truly bad really is Hanzō-{\i1}dasu{\i0}!
 Comment: 0,0:24:22.41,0:24:25.52,Default,ja,0,0,0,,次回！花のムサシ　悪を切るだス
 Dialogue: 0,0:24:22.41,0:24:25.52,Default,ko,0,0,0,,다음 이야기! 꽃의 무사시 악을 베오
 Dialogue: 0,0:24:22.41,0:24:25.52,Default,en,0,0,0,,Next story! Flowering Musashi Cuts the Evil

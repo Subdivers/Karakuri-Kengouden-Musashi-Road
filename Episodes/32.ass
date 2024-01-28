@@ -283,13 +283,13 @@ Dialogue: 0,0:06:53.72,0:06:55.60,Default,ko,0,0,0,,어! 슈텐타이가!
 Dialogue: 0,0:06:53.72,0:06:55.60,Default,en,0,0,0,,What?! Shutentiger!
 Comment: 0,0:06:56.03,0:06:59.20,Default,ja,0,0,0,,この者は、以前ムサシに倒されたハンゾウの部下である。
 Dialogue: 0,0:06:56.03,0:06:59.20,Default,ko,0,0,0,,이 자는 이전에 무사시에게 쓰러진 한조의 부하이다.
-Dialogue: 0,0:06:56.03,0:06:59.20,Default,en,0,0,0,,This guy is one of Hanzo's subordinates, who has been taken down by Musashi.
+Dialogue: 0,0:06:56.03,0:06:59.20,Default,en,0,0,0,,This guy is one of Hanzō's subordinates, who has been taken down by Musashi.
 Comment: 0,0:07:00.05,0:07:00.89,Default,ja,0,0,0,,オニヒメ！
 Dialogue: 0,0:07:00.05,0:07:00.89,Default,ko,0,0,0,,오니히메!
 Dialogue: 0,0:07:00.05,0:07:00.89,Default,en,0,0,0,,Onihime!
 Comment: 0,0:07:01.20,0:07:05.22,Default,ja,0,0,0,,って、この者はハンゾウの部下であったが、ハンゾウの裏切りで死んでしまったのである。
 Dialogue: 0,0:07:01.20,0:07:05.22,Default,ko,0,0,0,,그리고 이 자는 한조의 부하였지만 한조의 배신으로 죽고 말았다.
-Dialogue: 0,0:07:01.20,0:07:05.22,Default,en,0,0,0,,And this guy used to be one of Hanzo's subordinates, but she died because of Hanzo's betrayal.
+Dialogue: 0,0:07:01.20,0:07:05.22,Default,en,0,0,0,,And this guy used to be one of Hanzō's subordinates, but she died because of Hanzō's betrayal.
 Comment: 0,0:07:06.50,0:07:08.75,Default,ja,0,0,0,,コジロー様はお元気ですか？
 Dialogue: 0,0:07:06.50,0:07:08.75,Default,ko,0,0,0,,코지로 님은 건강합니까?
 Dialogue: 0,0:07:06.50,0:07:08.75,Default,en,0,0,0,,Is Mr. Kojirō living well?
@@ -397,7 +397,7 @@ Dialogue: 0,0:09:52.74,0:09:55.25,Default,ko,0,0,0,,오, 그러는 너는 무사
 Dialogue: 0,0:09:52.74,0:09:55.25,Default,en,0,0,0,,Oh, and you must be Musashi!
 Comment: 0,0:09:55.25,0:09:58.45,Default,ja,0,0,0,,え、この男もムサシにやられたハンゾウの手下である。
 Dialogue: 0,0:09:55.25,0:09:58.45,Default,ko,0,0,0,,아, 이 사내도 무사시한테 당한 한조의 부하이다.
-Dialogue: 0,0:09:55.25,0:09:58.45,Default,en,0,0,0,,Er, this guy also is one of Hanzo's subordinates that Musashi took care of.
+Dialogue: 0,0:09:55.25,0:09:58.45,Default,en,0,0,0,,Er, this guy also is one of Hanzō's subordinates that Musashi took care of.
 Comment: 0,0:09:58.76,0:10:04.18,Default,ja,0,0,0,,あ、きぐかな、きぐかな。あ、こんなところでムサシにアウトは！
 Dialogue: 0,0:09:58.76,0:10:04.18,Default,ko,0,0,0,,인연이오, 인연이야! 이런 곳에서 무사시하고 만날 줄이야!
 Dialogue: 0,0:09:58.76,0:10:04.18,Default,en,0,0,0,,What a destiny! What a fate! I met Musashi at a place like this!

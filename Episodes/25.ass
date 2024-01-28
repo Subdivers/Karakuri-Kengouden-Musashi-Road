@@ -82,7 +82,7 @@ Dialogue: 0,0:01:45.64,0:01:50.90,SongOP,ko,0,0,0,,미간이 반짝였다 무사
 Dialogue: 0,0:01:45.64,0:01:50.90,SongOP,en,0,0,0,,His eyes shined! Musashi!
 Comment: 0,0:02:01.41,0:02:08.29,Default,ja,0,0,0,,ハンゾウはついにジュウベエに悪だくみを暴かれ、ジパングを支配する野望を明らかにして逃がさった。
 Dialogue: 0,0:02:01.41,0:02:08.29,Default,ko,0,0,0,,한조는 결국에 주베에게 계략을 들켜, 지팡구를 지배하려는 야망을 분명히 하고 달아났다.
-Dialogue: 0,0:02:01.41,0:02:08.29,Default,en,0,0,0,,Hanzo's evil plan was finally discovered by Jūbē, and he ran away after making clear of his ambition to rule over Jipangu.
+Dialogue: 0,0:02:01.41,0:02:08.29,Default,en,0,0,0,,Hanzō's evil plan was finally discovered by Jūbē, and he ran away after making clear of his ambition to rule over Jipangu.
 Comment: 0,0:02:09.26,0:02:13.66,Default,ja,0,0,0,,オニヒメはムサシたち一行を襲ってセンヒメを奪い去った。
 Dialogue: 0,0:02:09.26,0:02:13.66,Default,ko,0,0,0,,오니히메는 무사시 일행을 덮쳐 센히메를 빼앗아 갔다.
 Dialogue: 0,0:02:09.26,0:02:13.66,Default,en,0,0,0,,Onihime attacked Musashi's group and took Senhime away.
@@ -104,13 +104,13 @@ Dialogue: 0,0:02:32.09,0:02:34.73,Default,ko,0,0,0,,자! 칼은 내려뒀다! �
 Dialogue: 0,0:02:32.09,0:02:34.73,Default,en,0,0,0,,See! We've put down our swords! Now keep the promise!
 Comment: 0,0:02:42.93,0:02:43.91,Default,ja,0,0,0,,ハンゾウ！
 Dialogue: 0,0:02:42.93,0:02:43.91,Default,ko,0,0,0,,한조!
-Dialogue: 0,0:02:42.93,0:02:43.91,Default,en,0,0,0,,Hanzo!
+Dialogue: 0,0:02:42.93,0:02:43.91,Default,en,0,0,0,,Hanzō!
 Comment: 0,0:02:44.73,0:02:49.86,Default,ja,0,0,0,,約束などと子供のようなことをいつまで言っているのだ、ムサシ、コジロー？
 Dialogue: 0,0:02:44.73,0:02:49.86,Default,ko,0,0,0,,약속 따위 얘들이나 하는 일을 언제까지 하고 있을 셈이냐, 무사시, 코지로?
 Dialogue: 0,0:02:44.73,0:02:49.86,Default,en,0,0,0,,Only kids make promises. Shouldn't you be old enough to stop being kids, Musashi, Kojirō?
 Comment: 0,0:02:50.24,0:02:54.01,Default,ja,0,0,0,,天下を狙うこのハンゾウ、邪魔者はすべて始末するのよ。
 Dialogue: 0,0:02:50.24,0:02:54.01,Default,ko,0,0,0,,천하를 노리는 이 한조, 방해하는 자는 전부 처치하지.
-Dialogue: 0,0:02:50.24,0:02:54.01,Default,en,0,0,0,,I, Hanzo, am after the domination of the whole globe. Whoever gets in my way will be gotten rid of.
+Dialogue: 0,0:02:50.24,0:02:54.01,Default,en,0,0,0,,I, Hanzō, am after the domination of the whole globe. Whoever gets in my way will be gotten rid of.
 Comment: 0,0:03:04.54,0:03:07.00,Default,ja,0,0,0,,汚いだす！それでも武芸者だスか！
 Dialogue: 0,0:03:04.54,0:03:07.00,Default,ko,0,0,0,,더럽소! 그래도 무예가이오?!
 Dialogue: 0,0:03:04.54,0:03:07.00,Default,en,0,0,0,,That's dirty-{\i1}dasu{\i0}! You call yourself a martial artist-{\i1}dasu{\i0}?1
@@ -248,7 +248,7 @@ Dialogue: 0,0:08:04.65,0:08:05.31,Default,ko,0,0,0,,열렸군!
 Dialogue: 0,0:08:04.65,0:08:05.31,Default,en,0,0,0,,It worked!
 Comment: 0,0:08:25.30,0:08:28.48,Default,ja,0,0,0,,ハンゾウ！もはや逃れる道はない！覚悟！
 Dialogue: 0,0:08:25.30,0:08:28.48,Default,ko,0,0,0,,한조! 이제 달아날 길은 없다! 각오해라!
-Dialogue: 0,0:08:25.30,0:08:28.48,Default,en,0,0,0,,Hanzo! You have nowhere to run now! Prepare yourself!
+Dialogue: 0,0:08:25.30,0:08:28.48,Default,en,0,0,0,,Hanzō! You have nowhere to run now! Prepare yourself!
 Comment: 0,0:08:28.88,0:08:32.01,Default,ja,0,0,0,,なんの。貴様こそ帰る地にしてくれるわ！
 Dialogue: 0,0:08:28.88,0:08:32.01,Default,ko,0,0,0,,무슨. 네놈이야말로 원수를 갚아 주겠다!
 Dialogue: 0,0:08:28.88,0:08:32.01,Default,en,0,0,0,,Instead of that, you'll be paid for everything you did to me!
@@ -302,7 +302,7 @@ Dialogue: 0,0:10:12.34,0:10:13.49,Default,ko,0,0,0,,고맙소!
 Dialogue: 0,0:10:12.34,0:10:13.49,Default,en,0,0,0,,Thank you-{\i1}dasu{\i0}!
 Comment: 0,0:10:13.86,0:10:16.33,Default,ja,0,0,0,,ではいい！これよりハンゾウをやっつけろ！
 Dialogue: 0,0:10:13.86,0:10:16.33,Default,ko,0,0,0,,그럼 됐다! 이제 한조를 잡아라!
-Dialogue: 0,0:10:13.86,0:10:16.33,Default,en,0,0,0,,Now go get Hanzo!
+Dialogue: 0,0:10:13.86,0:10:16.33,Default,en,0,0,0,,Now go get Hanzō!
 Comment: 0,0:10:30.52,0:10:31.42,Default,ja,0,0,0,,ムサシ殿！
 Dialogue: 0,0:10:30.52,0:10:31.42,Default,ko,0,0,0,,무사시 님!
 Dialogue: 0,0:10:30.52,0:10:31.42,Default,en,0,0,0,,Mr. Musashi!
@@ -311,7 +311,7 @@ Dialogue: 0,0:10:31.85,0:10:33.11,Default,ko,0,0,0,,늦어서 미안하오!
 Dialogue: 0,0:10:31.85,0:10:33.11,Default,en,0,0,0,,Sorry for being late!
 Comment: 0,0:10:33.50,0:10:35.32,Default,ja,0,0,0,,ハンゾウ！覚悟するダス！
 Dialogue: 0,0:10:33.50,0:10:35.32,Default,ko,0,0,0,,한조! 각오하시오!
-Dialogue: 0,0:10:33.50,0:10:35.32,Default,en,0,0,0,,Hanzo! Prepare yourself!
+Dialogue: 0,0:10:33.50,0:10:35.32,Default,en,0,0,0,,Hanzō! Prepare yourself!
 Comment: 0,0:10:36.50,0:10:38.93,Default,ja,0,0,0,,己、多勢に無勢、卑怯だぞ！
 Dialogue: 0,0:10:36.50,0:10:38.93,Default,ko,0,0,0,,네이놈, 중과부적이다! 비겁하다!
 Dialogue: 0,0:10:36.50,0:10:38.93,Default,en,0,0,0,,You're outnumbering me, bastards! That's cowardly!
@@ -326,7 +326,7 @@ Dialogue: 0,0:10:44.77,0:10:47.44,Default,ko,0,0,0,,시끄럽다! 지라이얀, 
 Dialogue: 0,0:10:44.77,0:10:47.44,Default,en,0,0,0,,Silence! Jiraiyan, I'm leaving this to you!
 Comment: 0,0:10:50.88,0:10:51.97,Default,ja,0,0,0,,ハンゾウ！どこだ！
 Dialogue: 0,0:10:50.88,0:10:51.97,Default,ko,0,0,0,,한조! 어디냐!
-Dialogue: 0,0:10:50.88,0:10:51.97,Default,en,0,0,0,,Hanzo! Where did you go?!
+Dialogue: 0,0:10:50.88,0:10:51.97,Default,en,0,0,0,,Hanzō! Where did you go?!
 Comment: 0,0:10:52.97,0:10:54.47,Default,ja,0,0,0,,このジライヤンが相手だ！
 Dialogue: 0,0:10:52.97,0:10:54.47,Default,ko,0,0,0,,이 지라이얀이 상대해 주겠다!
 Dialogue: 0,0:10:52.97,0:10:54.47,Default,en,0,0,0,,I, Jiraiyan, will face you!
@@ -338,7 +338,7 @@ Dialogue: 0,0:10:57.33,0:10:59.80,Default,ko,0,0,0,,우리 팀워크에 이길 �
 Dialogue: 0,0:10:57.33,0:10:59.80,Default,en,0,0,0,,Do you think that you can win over our teamwork?!
 Comment: 0,0:11:00.05,0:11:03.21,Default,ja,0,0,0,,ハンゾウ様はわがし！一名かけてお守りする！
 Dialogue: 0,0:11:00.05,0:11:03.21,Default,ko,0,0,0,,한조 님은 우리 일족! 한 목숨 걸고 지키겠다!
-Dialogue: 0,0:11:00.05,0:11:03.21,Default,en,0,0,0,,Lord Hanzo belings to my clan! I will protect him risking my life!
+Dialogue: 0,0:11:00.05,0:11:03.21,Default,en,0,0,0,,Lord Hanzō belings to my clan! I will protect him risking my life!
 Comment: 0,0:11:04.14,0:11:06.29,Default,ja,0,0,0,,その覚悟は見事！参る！
 Dialogue: 0,0:11:04.14,0:11:06.29,Default,ko,0,0,0,,그 각오는 훌륭하다! 그럼 이만 가거라!
 Dialogue: 0,0:11:04.14,0:11:06.29,Default,en,0,0,0,,That determination is respectable! Now disappear!
@@ -350,7 +350,7 @@ Dialogue: 0,0:11:20.41,0:11:21.52,Default,ko,0,0,0,,뭐, 뭣이오?
 Dialogue: 0,0:11:20.41,0:11:21.52,Default,en,0,0,0,,W- what is it-{\i1}dasu{\i0}?1
 Comment: 0,0:11:34.30,0:11:35.09,Default,ja,0,0,0,,ハンゾウ様！
 Dialogue: 0,0:11:34.30,0:11:35.09,Default,ko,0,0,0,,한조 님!
-Dialogue: 0,0:11:34.30,0:11:35.09,Default,en,0,0,0,,Lord Hanzo!
+Dialogue: 0,0:11:34.30,0:11:35.09,Default,en,0,0,0,,Lord Hanzō!
 Comment: 0,0:11:36.41,0:11:39.88,Default,ja,0,0,0,,こうなったら一驚にしまってしてやる。覚悟！
 Dialogue: 0,0:11:36.41,0:11:39.88,Default,ko,0,0,0,,이렇게 된 바 한방에 처리해 주겠다. 각오해라!
 Dialogue: 0,0:11:36.41,0:11:39.88,Default,en,0,0,0,,I have no choice else than to take care of all of you at once. Prepare yourselves!
@@ -393,7 +393,7 @@ Dialogue: 0,0:12:35.37,0:12:38.26,Default,ko,0,0,0,,이 정도의 실력을 갖�
 Dialogue: 0,0:12:35.37,0:12:38.26,Default,en,0,0,0,,Why are you working for evil, with your level of skills?!
 Comment: 0,0:12:38.72,0:12:42.24,Default,ja,0,0,0,,ハンゾウ様はわがし、その恩義のため！しかし。。。
 Dialogue: 0,0:12:38.72,0:12:42.24,Default,ko,0,0,0,,한조 님은 우리 일족. 그 은의를 위해! 그렇지만...
-Dialogue: 0,0:12:38.72,0:12:42.24,Default,en,0,0,0,,Lord Hanzo is my clan. For the obligation! But...
+Dialogue: 0,0:12:38.72,0:12:42.24,Default,en,0,0,0,,Lord Hanzō is my clan. For the obligation! But...
 Comment: 0,0:12:44.70,0:12:46.32,Default,ja,0,0,0,,その心の迷いはなんだ。
 Dialogue: 0,0:12:44.70,0:12:46.32,Default,ko,0,0,0,,그 마음의 방황은 뭔가.
 Dialogue: 0,0:12:44.70,0:12:46.32,Default,en,0,0,0,,Why are you hesitating?
@@ -438,7 +438,7 @@ Dialogue: 0,0:13:51.16,0:13:53.33,Default,ko,0,0,0,,지라이얀! 뭘 어물쩌�
 Dialogue: 0,0:13:51.16,0:13:53.33,Default,en,0,0,0,,Jiraiyan! You're being slow!
 Comment: 0,0:13:53.77,0:13:54.50,Default,ja,0,0,0,,ハンゾウ様！
 Dialogue: 0,0:13:53.77,0:13:54.50,Default,ko,0,0,0,,한조 님!
-Dialogue: 0,0:13:53.77,0:13:54.50,Default,en,0,0,0,,Lord Hanzo!
+Dialogue: 0,0:13:53.77,0:13:54.50,Default,en,0,0,0,,Lord Hanzō!
 Comment: 0,0:13:55.77,0:13:59.32,Default,ja,0,0,0,,ジライヤン！二人をあの世へ案内してやれ。さらばだ！
 Dialogue: 0,0:13:55.77,0:13:59.32,Default,ko,0,0,0,,지라이얀! 저 둘을 저 세상에 안내해 줘라. 작별이다!
 Dialogue: 0,0:13:55.77,0:13:59.32,Default,en,0,0,0,,Jiraiyan! Guide them to the other world! Farewell!
@@ -510,7 +510,7 @@ Dialogue: 0,0:16:01.09,0:16:02.90,Default,ko,0,0,0,,왔군, 무사시 놈.
 Dialogue: 0,0:16:01.09,0:16:02.90,Default,en,0,0,0,,So Musashi's here.
 Comment: 0,0:16:03.46,0:16:04.21,Default,ja,0,0,0,,ハンゾウ様！
 Dialogue: 0,0:16:03.46,0:16:04.21,Default,ko,0,0,0,,한조 님!
-Dialogue: 0,0:16:03.46,0:16:04.21,Default,en,0,0,0,,Lord Hanzo!
+Dialogue: 0,0:16:03.46,0:16:04.21,Default,en,0,0,0,,Lord Hanzō!
 Comment: 0,0:16:06.01,0:16:12.60,Default,ja,0,0,0,,おう、ジライヤン。無事だったか。さすがわ我が四天王ナンバーワン。良かった、よかった。
 Dialogue: 0,0:16:06.01,0:16:12.60,Default,ko,0,0,0,,오, 지라이얀. 무사했구나. 역시 내 사천왕의 제일이군. 잘 됐군, 잘 됐어.
 Dialogue: 0,0:16:06.01,0:16:12.60,Default,en,0,0,0,,Oh, Jiraiyan, were you safe? You are truly the best of my Four Kings. Good job, good job.
@@ -546,7 +546,7 @@ Dialogue: 0,0:16:59.16,0:17:00.60,Default,ko,0,0,0,,기다리고 있었다, 무�
 Dialogue: 0,0:16:59.16,0:17:00.60,Default,en,0,0,0,,I've been waiting for you, Musashi!
 Comment: 0,0:17:02.85,0:17:04.70,Default,ja,0,0,0,,ハンゾウ！おせんちゃんはどこだス！
 Dialogue: 0,0:17:02.85,0:17:04.70,Default,ko,0,0,0,,한조! 센짱은 어디 있소!
-Dialogue: 0,0:17:02.85,0:17:04.70,Default,en,0,0,0,,Hanzo! Where is Sen-chan-{\i1}dasu{\i0}?!
+Dialogue: 0,0:17:02.85,0:17:04.70,Default,en,0,0,0,,Hanzō! Where is Sen-chan-{\i1}dasu{\i0}?!
 Comment: 0,0:17:05.46,0:17:08.09,Default,ja,0,0,0,,ここまで来てみろ。そうすればわかる。
 Dialogue: 0,0:17:05.46,0:17:08.09,Default,ko,0,0,0,,여기까지 와 봐라. 그럼 알게 될 테다.
 Dialogue: 0,0:17:05.46,0:17:08.09,Default,en,0,0,0,,Come here. Then you'll know.
@@ -576,10 +576,10 @@ Dialogue: 0,0:17:38.49,0:17:40.67,Default,ko,0,0,0,,그걸 들으니 만사 안�
 Dialogue: 0,0:17:38.49,0:17:40.67,Default,en,0,0,0,,Hearing that is very relieving-{\i1}dasu{\i0}!
 Comment: 0,0:17:41.98,0:17:44.08,Default,ja,0,0,0,,ハンゾウ！いつの間に！待て！
 Dialogue: 0,0:17:41.98,0:17:44.08,Default,ko,0,0,0,,한조! 어느 순간에! 멈춰라!
-Dialogue: 0,0:17:41.98,0:17:44.08,Default,en,0,0,0,,Hanzo! When did you escape?! Stop!
+Dialogue: 0,0:17:41.98,0:17:44.08,Default,en,0,0,0,,Hanzō! When did you escape?! Stop!
 Comment: 0,0:17:48.61,0:17:49.74,Default,ja,0,0,0,,開けろ、ハンゾウ！
 Dialogue: 0,0:17:48.61,0:17:49.74,Default,ko,0,0,0,,열어라, 한조!
-Dialogue: 0,0:17:48.61,0:17:49.74,Default,en,0,0,0,,Open the door, Hanzo!
+Dialogue: 0,0:17:48.61,0:17:49.74,Default,en,0,0,0,,Open the door, Hanzō!
 Comment: 0,0:17:50.18,0:17:52.34,Default,ja,0,0,0,,もうすぐ時限爆弾が爆発する。
 Dialogue: 0,0:17:50.18,0:17:52.34,Default,ko,0,0,0,,곧 시한폭탄이 폭발한다.
 Dialogue: 0,0:17:50.18,0:17:52.34,Default,en,0,0,0,,A time bomb will soon explode.
@@ -588,7 +588,7 @@ Dialogue: 0,0:17:53.08,0:17:53.93,Default,ko,0,0,0,,뭐?!
 Dialogue: 0,0:17:53.08,0:17:53.93,Default,en,0,0,0,,What?!
 Comment: 0,0:17:53.93,0:17:54.74,Default,ja,0,0,0,,ハンゾウ様！
 Dialogue: 0,0:17:53.93,0:17:54.74,Default,ko,0,0,0,,한조 님!
-Dialogue: 0,0:17:53.93,0:17:54.74,Default,en,0,0,0,,Lord Hanzo!
+Dialogue: 0,0:17:53.93,0:17:54.74,Default,en,0,0,0,,Lord Hanzō!
 Comment: 0,0:17:55.30,0:17:59.81,Default,ja,0,0,0,,ジライヤン、今度こそきっちり二人を地獄に案内してやれ。さらばだ。
 Dialogue: 0,0:17:55.30,0:17:59.81,Default,ko,0,0,0,,지라이얀, 이번에야말로 저 둘을 똑바로 저 세상에 안내해라. 안녕이다.
 Dialogue: 0,0:17:55.30,0:17:59.81,Default,en,0,0,0,,Jiraiyan, guide them to the other world properly this time. Farewell.
@@ -621,10 +621,10 @@ Dialogue: 0,0:18:34.92,0:18:35.89,Default,ko,0,0,0,,다시 한번이오!
 Dialogue: 0,0:18:34.92,0:18:35.89,Default,en,0,0,0,,Again-{\i1}dasu{\i0}!
 Comment: 0,0:18:56.22,0:18:59.64,Default,ja,0,0,0,,ハンゾウ！もう逃げられぬぞ。潔く腹を切れ！
 Dialogue: 0,0:18:56.22,0:18:59.64,Default,ko,0,0,0,,한조! 이제 달아날 수 없을 테다! 명예롭게 할복해라!
-Dialogue: 0,0:18:56.22,0:18:59.64,Default,en,0,0,0,,Hanzo! There's nowhere for you to escape anymore! Disembowel and your death will be honorary!
+Dialogue: 0,0:18:56.22,0:18:59.64,Default,en,0,0,0,,Hanzō! There's nowhere for you to escape anymore! Disembowel and your death will be honorary!
 Comment: 0,0:19:00.28,0:19:03.29,Default,ja,0,0,0,,何を言う。このハンゾウ様は不死身だ！
 Dialogue: 0,0:19:00.28,0:19:03.29,Default,ko,0,0,0,,뭔 소리냐. 이 한조 님은 불사신이다!
-Dialogue: 0,0:19:00.28,0:19:03.29,Default,en,0,0,0,,You must be ignorant of the fact that I, Hanzo, am immortal!
+Dialogue: 0,0:19:00.28,0:19:03.29,Default,en,0,0,0,,You must be ignorant of the fact that I, Hanzō, am immortal!
 Comment: 0,0:19:03.72,0:19:07.65,Default,ja,0,0,0,,いずれジパング国をひっくり返してこの手に天下を握るのだ！
 Dialogue: 0,0:19:03.72,0:19:07.65,Default,ko,0,0,0,,결국엔 지팡구국을 뒤엎어서 이 손에 천하를 넣겠다!
 Dialogue: 0,0:19:03.72,0:19:07.65,Default,en,0,0,0,,I will turn over Jipangu State and take the world into my hands!
@@ -648,7 +648,7 @@ Dialogue: 0,0:19:20.14,0:19:21.61,Default,ko,0,0,0,,네 야망도 끝이다!
 Dialogue: 0,0:19:20.14,0:19:21.61,Default,en,0,0,0,,Your ambition ends here!
 Comment: 0,0:19:21.97,0:19:23.41,Default,ja,0,0,0,,観念するのね、ハンゾウ！
 Dialogue: 0,0:19:21.97,0:19:23.41,Default,ko,0,0,0,,포기해, 한조!
-Dialogue: 0,0:19:21.97,0:19:23.41,Default,en,0,0,0,,Give it up, Hanzo!
+Dialogue: 0,0:19:21.97,0:19:23.41,Default,en,0,0,0,,Give it up, Hanzō!
 Comment: 0,0:19:23.94,0:19:26.38,Default,ja,0,0,0,,いきておったのか。どうやって！
 Dialogue: 0,0:19:23.94,0:19:26.38,Default,ko,0,0,0,,살아 있었군. 어떻게!
 Dialogue: 0,0:19:23.94,0:19:26.38,Default,en,0,0,0,,You were alive! How?!
@@ -752,7 +752,7 @@ Dialogue: 0,0:22:07.53,0:22:07.58,Default,en,0,0,0,,The blood-freezing battle at
 Dialogue: 0,0:22:07.58,0:22:18.44,Default,en,0,0,0,,Something hot is gushing out from Musashi's heart, thanking the comrades who fought for the friendship despite of rivalry.
 Comment: 0,0:22:19.02,0:22:23.64,Default,ja,0,0,0,,しかし、ハンゾウは本当に死んでしまったのだろうか！
 Dialogue: 0,0:22:19.02,0:22:23.64,Default,ko,0,0,0,,그렇지만 한조는 정말 죽고 만 것일까?
-Dialogue: 0,0:22:19.02,0:22:23.64,Default,en,0,0,0,,But is Hanzo truly dead?
+Dialogue: 0,0:22:19.02,0:22:23.64,Default,en,0,0,0,,But is Hanzō truly dead?
 Dialogue: 0,0:22:41.66,0:22:43.70,SongED1,ko,0,0,0,,허공의 주머니에 달이
 Dialogue: 0,0:22:41.66,0:22:43.70,SongED1,en,0,0,0,,Sometimes the moon jumps over
 Dialogue: 0,0:22:44.39,0:22:46.95,SongED1,ko,0,0,0,,뛰어넘어가는 일도 있어
@@ -793,10 +793,10 @@ Dialogue: 0,0:24:15.92,0:24:19.21,Default,ko,0,0,0,,센짱은 맞선과 함께 �
 Dialogue: 0,0:24:15.92,0:24:19.21,Default,en,0,0,0,,Sen-chan was enjoying her marriage mettings and short holidays,
 Comment: 0,0:24:19.21,0:24:21.67,Default,ja,0,0,0,,なんと！あのハンゾウがいきて居たダス！
 Dialogue: 0,0:24:19.21,0:24:21.67,Default,ko,0,0,0,,무슨! 그 한조가 살아 있었소!
-Dialogue: 0,0:24:19.21,0:24:21.67,Default,en,0,0,0,,What?! That Hanzo was still alive-{\i1}dasu{\i0}!
+Dialogue: 0,0:24:19.21,0:24:21.67,Default,en,0,0,0,,What?! That Hanzō was still alive-{\i1}dasu{\i0}!
 Comment: 0,0:24:21.97,0:24:24.89,Default,ja,0,0,0,,次回、悪一番、ハンゾウの復活だス
 Dialogue: 0,0:24:21.97,0:24:24.89,Default,ko,0,0,0,,다음 이야기! 악이라면 제일! 한조의 부활이오
-Dialogue: 0,0:24:21.97,0:24:24.89,Default,en,0,0,0,,Next story! The Most Evil! Hanzo Revives
+Dialogue: 0,0:24:21.97,0:24:24.89,Default,en,0,0,0,,Next story! The Most Evil! Hanzō Revives
 Comment: 0,0:24:25.00,0:24:27.37,Default,ja,0,0,0,,疾風怒濤のエドトピアダス！
 Dialogue: 0,0:24:25.00,0:24:27.37,Default,ko,0,0,0,,질풍노도의 에도토피아이오!
 Dialogue: 0,0:24:25.00,0:24:27.37,Default,en,0,0,0,,It's stormy Edotopia-{\i1}dasu{\i0}!
@@ -806,5 +806,5 @@ Dialogue: 0,0:24:26.29,0:24:30.21,TitleEP,ko,0,0,110,,한조의 부활이오
 Dialogue: 0,0:24:27.37,0:24:30.21,NoteOnAnime,ko,0,60,30,,{\an3\fs32}기대하세요!
 Dialogue: 0,0:24:26.29,0:24:30.21,NoteOnAnime,en,60,0,60,,{\an7}Next Episode
 Dialogue: 0,0:24:26.29,0:24:30.21,TitleEP,en,0,0,225,,The Most Evil!
-Dialogue: 0,0:24:26.29,0:24:30.21,TitleEP,en,0,0,110,,Hanzo Revives
+Dialogue: 0,0:24:26.29,0:24:30.21,TitleEP,en,0,0,110,,Hanzō Revives
 Dialogue: 0,0:24:27.37,0:24:30.21,NoteOnAnime,en,0,60,30,,{\an3\fs32}Look forwards for it!

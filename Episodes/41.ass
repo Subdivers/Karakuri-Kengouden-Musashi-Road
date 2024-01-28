@@ -91,10 +91,10 @@ Comment: 0,0:02:12.12,0:02:15.72,Default,ja,0,0,0,,しかし、ハンゾウは�
 Dialogue: 0,0:02:12.12,0:02:15.72,Note,ko,0,0,0,,(천수각: 성의 중심에서 제일 높게 만든 망루)
 Dialogue: 0,0:02:12.12,0:02:15.72,Note,en,0,0,0,,(Tenshukaku: lit. sky guard house; the highest tower within the castle)
 Dialogue: 0,0:02:12.12,0:02:15.72,Default,ko,0,0,0,,그러나 한조는 에도 성의 천수각에서 국왕을 따라잡는다.
-Dialogue: 0,0:02:12.12,0:02:15.72,Default,en,0,0,0,,But Hanzo caught onto the king at the Tenshukaku of Edo Castle.
+Dialogue: 0,0:02:12.12,0:02:15.72,Default,en,0,0,0,,But Hanzō caught onto the king at the Tenshukaku of Edo Castle.
 Comment: 0,0:02:16.20,0:02:22.57,Default,ja,0,0,0,,だが、千姫の愛の力で、不死身のハンゾウを退け、国王を守るのであった。
 Dialogue: 0,0:02:16.20,0:02:22.57,Default,ko,0,0,0,,그렇지만 센히메의 사랑의 힘으로 불사신 한조를 퇴치하고 국왕을 지켰다.
-Dialogue: 0,0:02:16.20,0:02:22.57,Default,en,0,0,0,,But the power of Senhime's love managed to get rid of Hanzo and protect the king.
+Dialogue: 0,0:02:16.20,0:02:22.57,Default,en,0,0,0,,But the power of Senhime's love managed to get rid of Hanzō and protect the king.
 Comment: 0,0:02:23.31,0:02:28.32,TitleEP,ja,0,0,0,,日光かっこうシンゲンだス
 Dialogue: 0,0:02:23.31,0:02:28.32,TitleEP,ko,0,0,190,,닛코 계획
 Dialogue: 0,0:02:23.31,0:02:28.32,TitleEP,ko,0,0,60,,신겐이오
@@ -349,13 +349,13 @@ Dialogue: 0,0:08:22.11,0:08:22.94,Default,ko,0,0,0,,맡겨 주십시오.
 Dialogue: 0,0:08:22.11,0:08:22.94,Default,en,0,0,0,,Please leave it to me.
 Comment: 0,0:08:23.73,0:08:26.63,Default,ja,0,0,0,,これまでドクガンリュウもハンゾウも。
 Dialogue: 0,0:08:23.73,0:08:26.63,Default,ko,0,0,0,,지금까지 도쿠간류도 한조도...
-Dialogue: 0,0:08:23.73,0:08:26.63,Default,en,0,0,0,,Unlike those Dokuganryu and Hanzo....
+Dialogue: 0,0:08:23.73,0:08:26.63,Default,en,0,0,0,,Unlike those Dokuganryu and Hanzō....
 Comment: 0,0:08:27.67,0:08:29.04,Default,ja,0,0,0,,まあ、いうまい。
 Dialogue: 0,0:08:27.67,0:08:29.04,Default,ko,0,0,0,,뭐, 됐다.
 Dialogue: 0,0:08:27.67,0:08:29.04,Default,en,0,0,0,,Well, that's that.
 Comment: 0,0:08:30.28,0:08:37.79,Default,ja,0,0,0,,ハンゾウ、ドクガンリュウ風情はともかく、無敵といわれるわが軌道走行軍団をもってすれば、失敗は考えられません。
 Dialogue: 0,0:08:30.28,0:08:37.79,Default,ko,0,0,0,,한조, 도쿠간류 따위와는 달리, 무적이라 불리는 궤도주행군단이 있으니 실패는 생각할 수 없습니다.
-Dialogue: 0,0:08:30.28,0:08:37.79,Default,en,0,0,0,,Unlike the lowly Hanzo and Dokuganryu, with practically invincible Track Driving Corps, failure is impossible.
+Dialogue: 0,0:08:30.28,0:08:37.79,Default,en,0,0,0,,Unlike the lowly Hanzō and Dokuganryu, with practically invincible Track Driving Corps, failure is impossible.
 Comment: 0,0:08:38.44,0:08:40.02,Default,ja,0,0,0,,よくぞ申した！
 Dialogue: 0,0:08:38.44,0:08:40.02,Default,ko,0,0,0,,잘 말했다!
 Dialogue: 0,0:08:38.44,0:08:40.02,Default,en,0,0,0,,Well said!
@@ -913,7 +913,7 @@ Dialogue: 0,0:24:08.45,0:24:12.28,Default,ko,0,0,0,,그런데 오츠루가 뒤�
 Dialogue: 0,0:24:08.45,0:24:12.28,Default,en,0,0,0,,But Otsuru followed us and is doing women's quarrel with Sen-chan.
 Comment: 0,0:24:12.80,0:24:16.82,Default,ja,0,0,0,,そんな時、おせんちゃんがハンゾウの罠にはまってつかまってしまうダス。
 Dialogue: 0,0:24:12.80,0:24:16.82,Default,ko,0,0,0,,그 때, 센짱이 한조의 함정에 빠져 잡히고 말았소.
-Dialogue: 0,0:24:12.80,0:24:16.82,Default,en,0,0,0,,At that time, Sen-chan fell into Hanzo's trap and was caught-{\i1}dasu{\i0}.
+Dialogue: 0,0:24:12.80,0:24:16.82,Default,en,0,0,0,,At that time, Sen-chan fell into Hanzō's trap and was caught-{\i1}dasu{\i0}.
 Comment: 0,0:24:17.31,0:24:20.61,Default,ja,0,0,0,,畜生！何とかしなくちゃいけないだス！
 Dialogue: 0,0:24:17.31,0:24:20.61,Default,ko,0,0,0,,젠장! 이건 어떻게든 해야 하오!
 Dialogue: 0,0:24:17.31,0:24:20.61,Default,en,0,0,0,,Damn! I have to do something about this-{\i1}dasu{\i0}!

@@ -310,25 +310,25 @@ Dialogue: 0,0:09:04.62,0:09:12.06,Default,ko,0,0,0,37-01,제군. 잘 들어라. 
 Dialogue: 0,0:09:04.62,0:09:12.06,Default,en,0,0,0,37-01,Listen to me, everyone. A new comrade is going to help us for our revival.
 Comment: 0,0:09:12.33,0:09:13.77,Default,ja,0,0,0,,さあ、ハンゾウ殿。
 Dialogue: 0,0:09:12.33,0:09:13.77,Default,ko,0,0,0,37-02,자, 한조 님.
-Dialogue: 0,0:09:12.33,0:09:13.77,Default,en,0,0,0,37-02,Mr. Hanzo.
+Dialogue: 0,0:09:12.33,0:09:13.77,Default,en,0,0,0,37-02,Mr. Hanzō.
 Comment: 0,0:09:16.04,0:09:17.05,Default,ja,0,0,0,,い、ハンゾウ！
 Dialogue: 0,0:09:16.04,0:09:17.05,Default,ko,0,0,0,,에, 한조!?
-Dialogue: 0,0:09:16.04,0:09:17.05,Default,en,0,0,0,,Wha- Hanzo!?
+Dialogue: 0,0:09:16.04,0:09:17.05,Default,en,0,0,0,,Wha- Hanzō!?
 Comment: 0,0:09:17.05,0:09:17.96,Default,ja,0,0,0,,ハンゾウ！
 Dialogue: 0,0:09:17.05,0:09:17.96,Default,ko,0,0,0,,하, 한조!
-Dialogue: 0,0:09:17.05,0:09:17.96,Default,en,0,0,0,,H- Hanzo!
+Dialogue: 0,0:09:17.05,0:09:17.96,Default,en,0,0,0,,H- Hanzō!
 Comment: 0,0:09:18.80,0:09:24.50,Default,ja,0,0,0,,我、ハンゾウは、全力を挙げ、火の国再建のお手伝いをさせていただく。
 Dialogue: 0,0:09:18.80,0:09:24.50,Default,ko,0,0,0,,나 한조는 전력을 다해 불의 나라 재건을 돕겠다.
-Dialogue: 0,0:09:18.80,0:09:24.50,Default,en,0,0,0,,I, Hanzo will do everything I can to help the revival of the Fire Country.
+Dialogue: 0,0:09:18.80,0:09:24.50,Default,en,0,0,0,,I, Hanzō will do everything I can to help the revival of the Fire Country.
 Comment: 0,0:09:25.22,0:09:27.66,Default,ja,0,0,0,,やっぱりハンゾウがヒミコと。。。
 Dialogue: 0,0:09:25.22,0:09:27.66,Default,ko,0,0,0,,역시 한조가 히미코하고...
-Dialogue: 0,0:09:25.22,0:09:27.66,Default,en,0,0,0,,I knew that Hanzo and Himiko were...
+Dialogue: 0,0:09:25.22,0:09:27.66,Default,en,0,0,0,,I knew that Hanzō and Himiko were...
 Comment: 0,0:09:35.52,0:09:44.97,Default,ja,0,0,0,,諸君！我々の目的達成のためには、まず、不知火一族が武装蜂起し、ジパング国を転覆させることにある。
 Dialogue: 0,0:09:35.52,0:09:44.97,Default,ko,0,0,0,37-03,제군! 우리 목적을 달성하기 위해서는 먼저 시라누이 일족이 무장봉기하고 지팡구국을 전복시켜야 한다.
 Dialogue: 0,0:09:35.52,0:09:44.97,Default,en,0,0,0,37-03,Everyone! For our objective, Shiranui must move first and do an armed uprising to overthrow Jipangu State.
 Comment: 0,0:09:45.79,0:09:49.45,Default,ja,0,0,0,,不知火一族にハンゾウが加わったことはえらいことだす！
 Dialogue: 0,0:09:45.79,0:09:49.45,Default,ko,0,0,0,,{\i1}시라누이 일족에 한조가 가세했다니 큰일이오!
-Dialogue: 0,0:09:45.79,0:09:49.45,Default,en,0,0,0,,{\i1}This really is serious, for that Hanzo to join forces with Shiranui Clan-dasu!
+Dialogue: 0,0:09:45.79,0:09:49.45,Default,en,0,0,0,,{\i1}This really is serious, for that Hanzō to join forces with Shiranui Clan-dasu!
 Comment: 0,0:09:50.22,0:10:02.91,Default,ja,0,0,0,,ジパング国を占領した暁には、人々を～のように～つかい、今までの恨みをはだし、ヒミコ女王のもとに不知火一族の～、火の国を～する。
 Dialogue: 0,0:09:50.22,0:09:55.40,Default,ko,0,0,0,,지팡국을 점령한 새벽에는 사람들을 걸레짝인 양 부려
 Dialogue: 0,0:09:55.40,0:10:02.91,Default,ko,0,0,0,,지금까지의 원한을 풀고 히미코 여왕 아래서 시라누이 일족의 염원, 불의 나라를 장렬히 재건할 것이다.
@@ -361,10 +361,10 @@ Dialogue: 0,0:10:22.37,0:10:24.15,Default,ko,0,0,0,,{\i1}얘 설마... 무사시
 Dialogue: 0,0:10:22.37,0:10:24.15,Default,en,0,0,0,,{\i1}Is this guy Musashi!?
 Comment: 0,0:10:24.87,0:10:29.12,Default,ja,0,0,0,,皆のもの！～とハンゾウに勝利の誓いを！
 Dialogue: 0,0:10:24.87,0:10:29.12,Default,ko,0,0,0,37-04,제군! 나와 한조에게 승리의 맹새를!
-Dialogue: 0,0:10:24.87,0:10:29.12,Default,en,0,0,0,37-04,Everyone! Make an oath of victory to Hanzo and me!
+Dialogue: 0,0:10:24.87,0:10:29.12,Default,en,0,0,0,37-04,Everyone! Make an oath of victory to Hanzō and me!
 Comment: 0,0:10:29.12,0:10:35.26,Default,ja,0,0,0,,おう！ヒミコ女王様！おう！ハンゾウ殿！
 Dialogue: 0,0:10:29.12,0:10:35.26,Default,ko,0,0,0,37-05,예! 히미코 여왕님! 예! 한조 님!
-Dialogue: 0,0:10:29.12,0:10:35.26,Default,en,0,0,0,37-05,Yessir! Queen Himiko! Yesser! Mr. Hanzo!
+Dialogue: 0,0:10:29.12,0:10:35.26,Default,en,0,0,0,37-05,Yessir! Queen Himiko! Yesser! Mr. Hanzō!
 Comment: 0,0:10:35.85,0:10:42.76,Default,ja,0,0,0,,ふん。このくらいの演説でまさに火のように燃え上がるとは。単純なやつらだ。
 Dialogue: 0,0:10:35.85,0:10:42.76,Default,ko,0,0,0,,{\i1}흥. 이 정도의 연설으로 참으로 불처럼 타오른다니 단순한 놈들이구나.
 Dialogue: 0,0:10:35.85,0:10:42.76,Default,en,0,0,0,,{\i1}Hmph. They're burning up just like fire, only because of a speech of this simplicity? What a simple-minded fools.
@@ -753,7 +753,7 @@ Dialogue: 0,0:24:08.21,0:24:09.94,Default,ko,0,0,0,,역시 히미코 씨는 나�
 Dialogue: 0,0:24:08.21,0:24:09.94,Default,en,0,0,0,,Ms. Himiko really is a bad person-{\i1}dasu{\i0}.
 Comment: 0,0:24:10.33,0:24:12.58,Default,ja,0,0,0,,でも、もっと悪いのは、あのハンゾウだす。
 Dialogue: 0,0:24:10.33,0:24:12.58,Default,ko,0,0,0,,그래도 더 나쁜 건 그 한조이오!
-Dialogue: 0,0:24:10.33,0:24:12.58,Default,en,0,0,0,,But even worse is that Hanzo-{\i1}dasu{\i0}!
+Dialogue: 0,0:24:10.33,0:24:12.58,Default,en,0,0,0,,But even worse is that Hanzō-{\i1}dasu{\i0}!
 Comment: 0,0:24:13.01,0:24:17.04,Default,ja,0,0,0,,あいつから、でっかいミサイルを、サツマニアに打ち込むつもりだす。
 Dialogue: 0,0:24:13.01,0:24:17.04,Default,ko,0,0,0,,놈도 참, 거대한 미사일을 사츠마니아에 들이박을 작정이오!
 Dialogue: 0,0:24:13.01,0:24:17.04,Default,en,0,0,0,,That guy is trying to smash a huge missile into Satsumania-{\i1}dasu{\i0}!

@@ -117,7 +117,7 @@ Dialogue: 0,0:03:25.49,0:03:28.60,Default,ko,0,0,0,,육도마왕 님. 이번에�
 Dialogue: 0,0:03:25.49,0:03:28.60,Default,en,0,0,0,,Lord Rikudomaoh. Please allow me this time.
 Comment: 0,0:03:29.37,0:03:31.28,Default,ja,0,0,0,,やってくれるか、ハンゾウ。
 Dialogue: 0,0:03:29.37,0:03:31.28,Default,ko,0,0,0,,해 줄 것이냐, 한조.
-Dialogue: 0,0:03:29.37,0:03:31.28,Default,en,0,0,0,,Will you do this, Hanzo?
+Dialogue: 0,0:03:29.37,0:03:31.28,Default,en,0,0,0,,Will you do this, Hanzō?
 Comment: 0,0:03:31.82,0:03:34.11,Default,ja,0,0,0,,は。秘策がございます。
 Dialogue: 0,0:03:31.82,0:03:34.11,Default,ko,0,0,0,,예. 비책이 있습니다.
 Dialogue: 0,0:03:31.82,0:03:34.11,Default,en,0,0,0,,Yessir. I have a secret measure.
@@ -129,7 +129,7 @@ Dialogue: 0,0:03:35.85,0:03:38.21,Default,ko,0,0,0,,도쿠간류, 말참견 마�
 Dialogue: 0,0:03:35.85,0:03:38.21,Default,en,0,0,0,,Dokuganryu, do not interrupt.
 Comment: 0,0:03:39.80,0:03:42.72,Default,ja,0,0,0,,ハンゾウ。お前の力、見せてみよう。
 Dialogue: 0,0:03:39.80,0:03:42.72,Default,ko,0,0,0,,한조. 네 힘 보여주어 보아라.
-Dialogue: 0,0:03:39.80,0:03:42.72,Default,en,0,0,0,,Hanzo. Try showing me your powers.
+Dialogue: 0,0:03:39.80,0:03:42.72,Default,en,0,0,0,,Hanzō. Try showing me your powers.
 Comment: 0,0:03:42.72,0:03:44.16,Default,ja,0,0,0,,は、はは。
 Dialogue: 0,0:03:42.72,0:03:44.16,Default,ko,0,0,0,,예, 그리하겠습니다.
 Dialogue: 0,0:03:42.72,0:03:44.16,Default,en,0,0,0,,Y- Yessir!
@@ -656,10 +656,10 @@ Dialogue: 0,0:14:15.22,0:14:16.25,Default,ko,0,0,0,,설마 저건!
 Dialogue: 0,0:14:15.22,0:14:16.25,Default,en,0,0,0,,Could that be...!
 Comment: 0,0:14:18.11,0:14:18.76,Default,ja,0,0,0,,ハンゾウ！
 Dialogue: 0,0:14:18.11,0:14:18.76,Default,ko,0,0,0,,한조!
-Dialogue: 0,0:14:18.11,0:14:18.76,Default,en,0,0,0,,Hanzo!
+Dialogue: 0,0:14:18.11,0:14:18.76,Default,en,0,0,0,,Hanzō!
 Comment: 0,0:14:19.44,0:14:21.40,Default,ja,0,0,0,,あ！ハンゾウ⁉
 Dialogue: 0,0:14:19.44,0:14:21.40,Default,ko,0,0,0,,어! 한조!?
-Dialogue: 0,0:14:19.44,0:14:21.40,Default,en,0,0,0,,What!? Hanzo!?
+Dialogue: 0,0:14:19.44,0:14:21.40,Default,en,0,0,0,,What!? Hanzō!?
 Comment: 0,0:14:21.40,0:14:24.58,Default,ja,0,0,0,,しまった！これは私たちをおびき出す罠だったんだ！
 Dialogue: 0,0:14:21.40,0:14:24.58,Default,ko,0,0,0,,당했군! 이건 우리를 끌어낼 함정이었어!
 Dialogue: 0,0:14:21.40,0:14:24.58,Default,en,0,0,0,,We've been fooled! It was a trap to lure us out!
@@ -698,7 +698,7 @@ Dialogue: 0,0:15:07.45,0:15:08.34,Default,ko,0,0,0,,좋아! 가자!
 Dialogue: 0,0:15:07.45,0:15:08.34,Default,en,0,0,0,,Good! Let's proceed!
 Comment: 0,0:15:09.53,0:15:11.97,Default,ja,0,0,0,,なに？！ハンゾウが乗り込んできたと？！
 Dialogue: 0,0:15:09.53,0:15:11.97,Default,ko,0,0,0,,뭣이? 한조가 쳐들어왔다고?
-Dialogue: 0,0:15:09.53,0:15:11.97,Default,en,0,0,0,,What?! Hanzo has invaded?!
+Dialogue: 0,0:15:09.53,0:15:11.97,Default,en,0,0,0,,What?! Hanzō has invaded?!
 Comment: 0,0:15:11.97,0:15:14.30,Default,ja,0,0,0,,はい。手薄な警護をついて。
 Dialogue: 0,0:15:11.97,0:15:14.30,Default,ko,0,0,0,,예. 허술한 경비에...
 Dialogue: 0,0:15:11.97,0:15:14.30,Default,en,0,0,0,,Yes. The guard wasn't enough.
@@ -707,7 +707,7 @@ Dialogue: 0,0:15:14.78,0:15:17.45,Default,ko,0,0,0,,왜 그러냐. 손님이라�
 Dialogue: 0,0:15:14.78,0:15:17.45,Default,en,0,0,0,,What's wrong? If there's a visitor, I won't mind.
 Comment: 0,0:15:17.45,0:15:21.56,Default,ja,0,0,0,,いえいえ、国王殿下！ハンゾウとは我々を襲ったもんでございます。
 Dialogue: 0,0:15:17.45,0:15:21.56,Default,ko,0,0,0,,아니아니, 국왕 전하! 한조는 우리를 노리고 온 자입니다!
-Dialogue: 0,0:15:17.45,0:15:21.56,Default,en,0,0,0,,No, no, your Highness! Hanzo is here for us!
+Dialogue: 0,0:15:17.45,0:15:21.56,Default,en,0,0,0,,No, no, your Highness! Hanzō is here for us!
 Comment: 0,0:15:21.56,0:15:24.65,Default,ja,0,0,0,,そうか。イエヤス、どうするのだ。
 Dialogue: 0,0:15:21.56,0:15:24.65,Default,ko,0,0,0,,그렇구나. 이에야스, 이제 어찌할 것이냐?
 Dialogue: 0,0:15:21.56,0:15:24.65,Default,en,0,0,0,,I see. Ieyasu, what are we going to do now?
@@ -876,7 +876,7 @@ Dialogue: 0,0:20:28.01,0:20:28.76,Default,ko,0,0,0,,됐다!
 Dialogue: 0,0:20:28.01,0:20:28.76,Default,en,0,0,0,,We did it!
 Comment: 0,0:20:29.06,0:20:31.75,Default,ja,0,0,0,,ハンゾウ、ゆっくり大空を楽しんでこい。
 Dialogue: 0,0:20:29.06,0:20:31.75,Default,ko,0,0,0,,한조, 마음 편히 하늘을 즐기다 와라.
-Dialogue: 0,0:20:29.06,0:20:31.75,Default,en,0,0,0,,Hanzo, we'd like to present you a long trip to the wide sky.
+Dialogue: 0,0:20:29.06,0:20:31.75,Default,en,0,0,0,,Hanzō, we'd like to present you a long trip to the wide sky.
 Comment: 0,0:20:35.61,0:20:36.04,Default,ja,0,0,0,,あれ？
 Dialogue: 0,0:20:35.61,0:20:36.04,Default,ko,0,0,0,,어라?
 Dialogue: 0,0:20:35.61,0:20:36.04,Default,en,0,0,0,,Huh?

@@ -117,7 +117,7 @@ Dialogue: 0,0:03:18.86,0:03:19.84,Default,ko,0,0,0,,노부나가 님.
 Dialogue: 0,0:03:18.86,0:03:19.84,Default,en,0,0,0,,Mr. Nobunaga.
 Comment: 0,0:03:20.07,0:03:23.94,Default,ja,0,0,0,,ハンゾウ。・ムサシ達を始末するのは、わたくし目にお任せを。
 Dialogue: 0,0:03:20.07,0:03:23.94,Default,ko,0,0,0,,-한조.\N-무사시 일행의 처리는 이 제게 맡겨 주십시오.
-Dialogue: 0,0:03:20.07,0:03:23.94,Default,en,0,0,0,,-Hanzo.\N-Please leave me with finishing Musashi and others.
+Dialogue: 0,0:03:20.07,0:03:23.94,Default,en,0,0,0,,-Hanzō.\N-Please leave me with finishing Musashi and others.
 Comment: 0,0:03:24.33,0:03:26.43,Default,ja,0,0,0,,うん。よかろう。ただし。
 Dialogue: 0,0:03:24.33,0:03:26.43,Default,ko,0,0,0,,그래. 좋다. 다만...
 Dialogue: 0,0:03:24.33,0:03:26.43,Default,en,0,0,0,,Yes, good. But...
@@ -394,7 +394,7 @@ Dialogue: 0,0:11:39.04,0:11:42.96,Default,ko,0,0,0,,그러나 괴물을 쓰러�
 Dialogue: 0,0:11:39.04,0:11:42.96,Default,en,0,0,0,,But you will need the armor of gods in order to take the monster down.
 Comment: 0,0:11:43.64,0:11:48.93,Default,ja,0,0,0,,え？鎧があるんだすか？おいら、ハンゾウに負けない無敵の鎧がほしいダス。
 Dialogue: 0,0:11:43.64,0:11:48.93,Default,ko,0,0,0,,어? 갑주가 있소? 나, 한조에게 지지 않을 무적의 갑주를 원하오!
-Dialogue: 0,0:11:43.64,0:11:48.93,Default,en,0,0,0,,Huh? Are there armors-dasu? I want an armor that will let me not be defeated by Hanzo-dasu!
+Dialogue: 0,0:11:43.64,0:11:48.93,Default,en,0,0,0,,Huh? Are there armors-dasu? I want an armor that will let me not be defeated by Hanzō-dasu!
 Comment: 0,0:11:50.08,0:11:51.44,Default,ja,0,0,0,,それ、いくらだすか。
 Dialogue: 0,0:11:50.08,0:11:51.44,Default,ko,0,0,0,,그거 얼마이오?
 Dialogue: 0,0:11:50.08,0:11:51.44,Default,en,0,0,0,,How expensive is that-dasu?
@@ -633,7 +633,7 @@ Dialogue: 0,0:19:14.36,0:19:19.56,Default,ko,0,0,0,,기다리고 있었다, 무�
 Dialogue: 0,0:19:14.36,0:19:19.56,Default,en,0,0,0,,I was waiting for you, Musashi, Kojirō, and Jūbē. You three are going to the other world this instant!
 Comment: 0,0:19:20.10,0:19:21.42,Default,ja,0,0,0,,卑怯だス、ハンゾウ！
 Dialogue: 0,0:19:20.10,0:19:21.42,Default,ko,0,0,0,,비겁하오, 한조!
-Dialogue: 0,0:19:20.10,0:19:21.42,Default,en,0,0,0,,That's cowardly, Hanzo!
+Dialogue: 0,0:19:20.10,0:19:21.42,Default,en,0,0,0,,That's cowardly, Hanzō!
 Comment: 0,0:19:21.79,0:19:25.47,Default,ja,0,0,0,,卑怯？それはいつも言われておるわ。
 Dialogue: 0,0:19:21.79,0:19:25.47,Default,ko,0,0,0,,비겁해? 그건 언제라도 듣는 소리지.
 Dialogue: 0,0:19:21.79,0:19:25.47,Default,en,0,0,0,,Cowardly? I hear that a lot.
@@ -666,7 +666,7 @@ Dialogue: 0,0:20:32.04,0:20:33.70,Default,ko,0,0,0,,주베까지 갑주를!
 Dialogue: 0,0:20:32.04,0:20:33.70,Default,en,0,0,0,,Even Jūbē got an armor!
 Comment: 0,0:20:53.42,0:20:55.09,Default,ja,0,0,0,,ハンゾウ！覚悟するダス！
 Dialogue: 0,0:20:53.42,0:20:55.09,Default,ko,0,0,0,,한조! 각오하시오!
-Dialogue: 0,0:20:53.42,0:20:55.09,Default,en,0,0,0,,Hanzo! Prepare yourself-dasu!
+Dialogue: 0,0:20:53.42,0:20:55.09,Default,en,0,0,0,,Hanzō! Prepare yourself-dasu!
 Comment: 0,0:20:57.71,0:21:00.42,Default,ja,0,0,0,,ワシ一人に三人がかりとは卑怯だぞ！
 Dialogue: 0,0:20:57.71,0:21:00.42,Default,ko,0,0,0,,나 혼자에게 셋이서 덤비다니 비겁하다!
 Dialogue: 0,0:20:57.71,0:21:00.42,Default,en,0,0,0,,Three against one is cowardly!
@@ -714,7 +714,7 @@ Dialogue: 0,0:22:04.11,0:22:05.31,Default,ko,0,0,0,,아니, 그렇습니까.
 Dialogue: 0,0:22:04.11,0:22:05.31,Default,en,0,0,0,,Oh, do you think so?
 Comment: 0,0:22:11.41,0:22:18.49,Default,ja,0,0,0,,宿敵ハンゾウは惜しくも逃がした。しかし、ムサシ達は無敵の鎧を手に入れて有機100倍となった。
 Dialogue: 0,0:22:11.41,0:22:18.49,Default,ko,0,0,0,,숙적 한조는 아깝게도 달아났다. 그러나 무사시 일행은 무적의 갑주를 손에 넣어서 용기 100배가 되었다.
-Dialogue: 0,0:22:11.41,0:22:13.94,Default,en,0,0,0,,Their enemy Hanzo has regrettably ran away.
+Dialogue: 0,0:22:11.41,0:22:13.94,Default,en,0,0,0,,Their enemy Hanzō has regrettably ran away.
 Dialogue: 0,0:22:13.94,0:22:18.49,Default,en,0,0,0,,But with the invincible armors, Musashi and others were encouraged by hundredfold.
 Comment: 0,0:22:18.96,0:22:26.43,Default,ja,0,0,0,,六道魔王とノブナガの野望を砕くまで、行け、戦え、ムサシ！それが男の花道だ！
 Dialogue: 0,0:22:18.96,0:22:26.43,Default,ko,0,0,0,,육도마왕 노부나가의 야망을 깨뜨릴 때까지, 가라, 싸워라, 무사시! 그게 사내의 전성기이다!

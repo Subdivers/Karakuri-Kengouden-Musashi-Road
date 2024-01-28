@@ -545,7 +545,7 @@ Dialogue: 0,0:11:39.69,0:11:41.61,Default,ko,0,0,0,,그럼 인사는 나중에.
 Dialogue: 0,0:11:39.69,0:11:41.61,Default,en,0,0,0,,I'll introduce him later.
 Comment: 0,0:11:47.13,0:11:52.00,Default,ja,0,0,0,,
 Dialogue: 0,0:11:47.13,0:11:52.00,Default,ko,0,0,0,,미야모토 마을의 무사시... 눈에 거슬리니 한조 님의 부하에게 알리자!
-Dialogue: 0,0:11:47.13,0:11:52.00,Default,en,0,0,0,,Musashi from Miyamoto village... Let's go tell Hanzo's subordinates!
+Dialogue: 0,0:11:47.13,0:11:52.00,Default,en,0,0,0,,Musashi from Miyamoto village... Let's go tell Hanzō's subordinates!
 Comment: 0,0:11:52.26,0:11:58.75,Default,ja,0,0,0,,果たしてムサシは武芸大会へ出られるのだろうか！疾風怒濤のご飯を待って！
 Dialogue: 0,0:11:52.26,0:11:58.75,Default,ko,0,0,0,,과연 무사시는 무예 대회에 나갈 수 있을까? 질풍노도의 후반을 기다려라!
 Dialogue: 0,0:11:52.26,0:11:58.75,Default,en,0,0,0,,Will Musashi be able to compete in the martial arts competition? Wait for the stormy latter half!
@@ -562,10 +562,10 @@ Dialogue: 0,0:12:14.62,0:12:16.71,Default,ko,0,0,0,,아니오. 그래도 놀랐�
 Dialogue: 0,0:12:14.62,0:12:16.71,Default,en,0,0,0,,It's alright. But I was surprised-{\i1}dasu{\i0}!
 Comment: 0,0:12:17.16,0:12:22.62,Default,ja,0,0,0,,
 Dialogue: 0,0:12:17.16,0:12:22.62,Default,ko,0,0,0,,혹시 뭐가 잘못되어서 만일 반역자로 지목되면 한조 님의 부하에게 쏘아질 수 있으니...
-Dialogue: 0,0:12:17.16,0:12:22.62,Default,en,0,0,0,,If something goes wrong and you are pointed out as a traitor, you might get shot by Hanzo's underlings...
+Dialogue: 0,0:12:17.16,0:12:22.62,Default,en,0,0,0,,If something goes wrong and you are pointed out as a traitor, you might get shot by Hanzō's underlings...
 Comment: 0,0:12:23.37,0:12:24.32,Default,ja,0,0,0,,ハンゾウ？
 Dialogue: 0,0:12:23.37,0:12:24.32,Default,ko,0,0,0,,한조?
-Dialogue: 0,0:12:23.37,0:12:24.32,Default,en,0,0,0,,Hanzo?
+Dialogue: 0,0:12:23.37,0:12:24.32,Default,en,0,0,0,,Hanzō?
 Comment: 0,0:12:25.21,0:12:29.68,Default,ja,0,0,0,,鬼がばんの頭として、
 Dialogue: 0,0:12:25.21,0:12:29.68,Default,ko,0,0,0,,도깨비같은 두목으로, 에도 성의 경비를 맡는 이하 닌자 그룹의 수장이다.
 Dialogue: 0,0:12:25.21,0:12:29.68,Default,en,0,0,0,,He is a monster-like chief of Iga Ninja Force that guards Edo Castle.
@@ -577,7 +577,7 @@ Dialogue: 0,0:12:37.42,0:12:38.70,Default,ko,0,0,0,,저기에도.
 Dialogue: 0,0:12:37.42,0:12:38.70,Default,en,0,0,0,,There too.
 Comment: 0,0:12:39.61,0:12:41.29,Default,ja,0,0,0,,あれがハンゾウの手下だスか？
 Dialogue: 0,0:12:39.61,0:12:41.29,Default,ko,0,0,0,,저게 한조의 부하이오?
-Dialogue: 0,0:12:39.61,0:12:41.29,Default,en,0,0,0,,Are they Hanzo's underlings-{\i1}dasu{\i0}?
+Dialogue: 0,0:12:39.61,0:12:41.29,Default,en,0,0,0,,Are they Hanzō's underlings-{\i1}dasu{\i0}?
 Comment: 0,0:12:41.74,0:12:46.22,Default,ja,0,0,0,,彼らはちっとでも怪しい人間を見かけると、容赦なく始末します。
 Dialogue: 0,0:12:41.74,0:12:46.22,Default,ko,0,0,0,,그들은 조금이라도 수상한 인간을 발견하면 용서없이 처치해요.
 Dialogue: 0,0:12:41.74,0:12:46.22,Default,en,0,0,0,,When they find anyone suspicious, they get rid of one right away.
@@ -595,7 +595,7 @@ Dialogue: 0,0:12:54.25,0:12:55.40,Default,ko,0,0,0,,여기 있어 주세요.
 Dialogue: 0,0:12:54.25,0:12:55.40,Default,en,0,0,0,,Please stay here.
 Comment: 0,0:12:57.21,0:12:58.76,Default,ja,0,0,0,,{\i1}ハンゾウと言えば。。。
 Dialogue: 0,0:12:57.21,0:12:58.76,Default,ko,0,0,0,,{\i1}한조라고 하면...
-Dialogue: 0,0:12:57.21,0:12:58.76,Default,en,0,0,0,,{\i1}Hanzo must be...
+Dialogue: 0,0:12:57.21,0:12:58.76,Default,en,0,0,0,,{\i1}Hanzō must be...
 Comment: 0,0:13:08.88,0:13:11.06,Default,ja,0,0,0,,{\i1}幕府を倒そうっとする悪い奴だス！
 Dialogue: 0,0:13:08.88,0:13:11.06,Default,ko,0,0,0,,{\i1}막부를 쓰러뜨리겠다는 나쁜 놈이오.
 Dialogue: 0,0:13:08.88,0:13:11.06,Default,en,0,0,0,,{\i1}a bad guy who's trying to take down shogunate.

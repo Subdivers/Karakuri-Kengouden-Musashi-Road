@@ -89,7 +89,7 @@ Comment: 0,0:02:08.87,0:02:17.60,Default,ja,0,0,0,,踏んだり蹴ったりの�
 Dialogue: 0,0:01:59.73,0:02:08.39,Default,ko,0,0,0,,지팡구 무예대회에 나가지 못하고 번외 시합에선 주베에게 완패당하는 것으로 모자라 한조에게 잡혀버리고 만
 Dialogue: 0,0:02:08.87,0:02:17.60,Default,ko,0,0,0,,엎친 데 덮친 격이었던 무사시는 이번엔 날뛰는 말과 같은 센히메를 모시고 따라가며 여러 지방을 돌아다니게 되었다.
 Dialogue: 0,0:01:59.73,0:02:05.67,Default,en,0,0,0,,Not only he wasn't able to participate in the martial arts competition, but he also lost to Jūbē in an extra match;
-Dialogue: 0,0:02:05.67,0:02:11.05,Default,en,0,0,0,,he was even captured by Hanzo. All the misfortunes had come at once,
+Dialogue: 0,0:02:05.67,0:02:11.05,Default,en,0,0,0,,he was even captured by Hanzō. All the misfortunes had come at once,
 Dialogue: 0,0:02:11.05,0:02:17.60,Default,en,0,0,0,,and as they went away, Musashi now have to follow Senhime and wander around various places.
 Comment: 0,0:02:17.73,0:02:22.73,TitleEP,ja,0,0,0,,大ガマ妖術ジライヤンだス
 Dialogue: 0,0:02:17.73,0:02:22.73,TitleEP,ko,0,0,0,,큰 두꺼비 요술 지라이얀이오
@@ -220,7 +220,7 @@ Dialogue: 0,0:05:05.27,0:05:06.03,Default,ko,0,0,0,,흥.
 Dialogue: 0,0:05:05.27,0:05:06.03,Default,en,0,0,0,,Uh-huh.
 Comment: 0,0:05:14.25,0:05:24.27,Default,ja,0,0,0,,まずは印旛沼あたりが狙いめ。からくり鷹よ、我がハンゾウ配下の四天王の一人、ジライヤンのところへ行け。
 Dialogue: 0,0:05:14.25,0:05:24.27,Default,ko,0,0,0,,일단은 인바 늪 근처가 노리는 곳. 카라쿠리 부엉이여, 우리 한조 부하 사천왕 중 하나, 지라이얀에게 가라.
-Dialogue: 0,0:05:14.25,0:05:24.27,Default,en,0,0,0,,We're keeping an eye on Inba Swamp. Karakuri Owl, go to Jiraiyan, one of the four kings of Hanzo.
+Dialogue: 0,0:05:14.25,0:05:24.27,Default,en,0,0,0,,We're keeping an eye on Inba Swamp. Karakuri Owl, go to Jiraiyan, one of the four kings of Hanzō.
 Comment: 0,0:05:27.96,0:05:36.89,Default,ja,0,0,0,,センヒメはゼネラルイエヤスの泣き所。これをとらえればイエヤスはこの闇将軍、ハンゾウの意のまま。
 Dialogue: 0,0:05:27.96,0:05:36.89,Default,ko,0,0,0,,센히메는 제너럴 이에야스의 약점. 이걸 붙잡으면 이에야스는 이 배후에 있는 한조 마음대로.
 Dialogue: 0,0:05:27.96,0:05:36.89,Default,en,0,0,0,,Senhime is the weak point of General Ieyasu. If I get to catch her, Ieyasu will fall into my hands.
@@ -782,7 +782,7 @@ Dialogue: 0,0:18:10.41,0:18:13.18,Default,ko,0,0,0,,싫어싫어! 이거 놔!
 Dialogue: 0,0:18:10.41,0:18:13.18,Default,en,0,0,0,,No, no! Let me go!
 Comment: 0,0:18:13.18,0:18:17.48,Default,ja,0,0,0,,おう、これでハンゾウ様から莫大なご褒美がいただけるぞ！
 Dialogue: 0,0:18:13.18,0:18:17.48,Default,ko,0,0,0,,오, 이걸로 한조 님께 막대한 보상을 받을 수 있겠어!
-Dialogue: 0,0:18:13.18,0:18:17.48,Default,en,0,0,0,,Yes! I'm going to receive a colossal reward from Lord Hanzo!
+Dialogue: 0,0:18:13.18,0:18:17.48,Default,en,0,0,0,,Yes! I'm going to receive a colossal reward from Lord Hanzō!
 Comment: 0,0:18:22.08,0:18:24.10,Default,ja,0,0,0,,こら！
 Dialogue: 0,0:18:22.08,0:18:24.10,Default,ko,0,0,0,,이랴!
 Dialogue: 0,0:18:22.08,0:18:24.10,Default,en,0,0,0,,There!
