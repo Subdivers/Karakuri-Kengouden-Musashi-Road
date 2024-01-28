@@ -43,54 +43,29 @@ Comment: 0,0:12:08.11,0:12:12.99,Default,chapter,0,0,0,,Eyecatch
 Comment: 0,0:12:12.99,0:22:29.36,Default,chapter,0,0,0,,Part 2
 Comment: 0,0:22:29.36,0:24:01.33,Default,chapter,0,0,0,,Ending Credits
 Comment: 0,0:24:01.33,0:24:31.36,Default,chapter,0,0,0,,Next Episode Preview
-Dialogue: 0,0:00:04.36,0:00:06.51,Default,ko,0,0,0,,어지러운 전국 시대.
-Dialogue: 0,0:00:04.36,0:00:06.51,Default,en,0,0,0,,It is the turbulent Sengoku period.
-Dialogue: 0,0:00:06.88,0:00:11.70,Default,ko,0,0,0,,카라쿠리인이 사는 지팡구국에서는 군웅할거하여 밤낮으로 접전이 계속되고
-Dialogue: 0,0:00:06.88,0:00:11.70,Default,en,0,0,0,,Warlords keep on fighting day and night over\NJipangu State, where Karakuri people live.
-Dialogue: 0,0:00:11.70,0:00:16.65,Default,ko,0,0,0,,카라쿠리 무예가들도 승리와 영광을 꿈꾸며 맹렬히 싸우고 있었다.
-Dialogue: 0,0:00:11.70,0:00:16.65,Default,en,0,0,0,,Karakuri martial artists were sharpening their swords, dreaming of victory and honor.
-Dialogue: 0,0:00:16.65,0:00:23.38,Default,ko,0,0,0,,그리고 지금, 카라쿠리 무예가 제일을 꿈꾸는 터무니없는 영웅이 탄생했다!
-Dialogue: 0,0:00:16.65,0:00:23.38,Default,en,0,0,0,,And now, a wild hero has arrived, seeking to be the number one Karakuri martial artist!
-Dialogue: 0,0:00:24.24,0:00:26.97,Default,ko,0,0,0,,무사시 등장이오!
-Dialogue: 0,0:00:24.24,0:00:26.97,Default,en,0,0,0,,Musashi is here-{\i1}dasu{\i0}!
-Dialogue: 0,0:00:27.99,0:00:33.17,TitleOP,ko,0,0,40,,카라쿠리 검호전: 무사시 로드
-Dialogue: 0,0:00:27.99,0:00:33.17,TitleOP,en,0,0,90,,{\an8\fs32}Karakuri Kengouden
-Dialogue: 0,0:00:27.99,0:00:33.17,TitleOP,en,0,0,48,,Musashi Road
-Dialogue: 0,0:00:27.99,0:00:33.17,TitleOP,en,0,0,0,,{\fs24}(The Story of {\i1}Karakuri{\i0} Martial Artist: Road of Musashi)
-Dialogue: 0,0:00:33.17,0:00:38.01,SongOP,ko,0,0,0,,사내는 언제나 세계 한가운데서
-Dialogue: 0,0:00:33.17,0:00:38.01,SongOP,en,0,0,0,,A man always dreams of the day
-Dialogue: 0,0:00:38.85,0:00:41.78,SongOP,ko,0,0,0,,제일 강해질 날을
-Dialogue: 0,0:00:38.85,0:00:41.78,SongOP,en,0,0,0,,in the center of the world to become
-Dialogue: 0,0:00:41.78,0:00:44.65,SongOP,ko,0,0,0,,아! 아! 꿈꿔라
-Dialogue: 0,0:00:41.78,0:00:44.65,SongOP,en,0,0,0,,AH! AH! the strongest
-Dialogue: 0,0:00:44.65,0:00:49.69,SongOP,ko,0,0,0,,마음의 칼을 넓은 하늘로 번쩍 쳐들어
-Dialogue: 0,0:00:44.65,0:00:49.69,SongOP,en,0,0,0,,Raise the sword of your heart high to the wide sky
-Dialogue: 0,0:00:50.38,0:00:54.33,SongOP,ko,0,0,0,,모험의 길의 막을 연다
-Dialogue: 0,0:00:50.38,0:00:54.33,SongOP,en,0,0,0,,Raise the curtain to the road of adventure
-Dialogue: 0,0:00:55.66,0:01:00.88,SongOP,ko,0,0,0,,지팡구국을 떠도는 검호
-Dialogue: 0,0:00:55.66,0:01:00.88,SongOP,en,0,0,0,,A skilled swordsman roams on Jipangu State
-Dialogue: 0,0:01:01.50,0:01:06.54,SongOP,ko,0,0,0,,그 이름은 카라쿠리인 무사시
-Dialogue: 0,0:01:01.50,0:01:06.54,SongOP,en,0,0,0,,His name is Musashi, a Karakuri man
-Dialogue: 0,0:01:08.04,0:01:10.98,SongOP,ko,0,0,0,,격렬한 승부의 소리는
-Dialogue: 0,0:01:08.04,0:01:10.98,SongOP,en,0,0,0,,The sound of fierce duels
-Dialogue: 0,0:01:10.98,0:01:13.82,SongOP,ko,0,0,0,,눈부신 인생
-Dialogue: 0,0:01:10.98,0:01:13.82,SongOP,en,0,0,0,,makes a life dazzle
-Dialogue: 0,0:01:13.82,0:01:19.32,SongOP,ko,0,0,0,,싸웠던 어제보다도 오늘 강해진다
-Dialogue: 0,0:01:13.82,0:01:19.32,SongOP,en,0,0,0,,Battles of yesterdays make you stronger today
-Dialogue: 0,0:01:19.32,0:01:25.50,SongOP,ko,0,0,0,,무예! 이도류 무사시
-Dialogue: 0,0:01:19.32,0:01:25.50,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
-Dialogue: 0,0:01:25.50,0:01:28.42,SongOP,ko,0,0,0,,내일은 빛난다
-Dialogue: 0,0:01:25.50,0:01:28.42,SongOP,en,0,0,0,,Tomorrow will be glorious
-Dialogue: 0,0:01:28.42,0:01:31.00,SongOP,ko,0,0,0,,격렬한 승부의 소리는
-Dialogue: 0,0:01:28.42,0:01:31.00,SongOP,en,0,0,0,,The sound of fierce duels
-Dialogue: 0,0:01:31.00,0:01:33.50,SongOP,ko,0,0,0,,눈부신 인생
-Dialogue: 0,0:01:31.00,0:01:33.50,SongOP,en,0,0,0,,makes a life dazzle
-Dialogue: 0,0:01:34.20,0:01:39.61,SongOP,ko,0,0,0,,싸우는 한껏 고요함과 함께
-Dialogue: 0,0:01:34.20,0:01:39.61,SongOP,en,0,0,0,,Fight the utmost with the stillness
-Dialogue: 0,0:01:39.61,0:01:45.85,SongOP,ko,0,0,0,,무예! 이도류 무사시
-Dialogue: 0,0:01:39.61,0:01:45.85,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
-Dialogue: 0,0:01:45.85,0:01:51.06,SongOP,ko,0,0,0,,미간이 반짝였다 무사시!!
-Dialogue: 0,0:01:45.85,0:01:51.06,SongOP,en,0,0,0,,His eyes shined! Musashi!!
+Dialogue: 0,0:00:04.36,0:00:06.51,Default,OP!Intro01,0,0,0,,時は戦国、乱世の時代。
+Dialogue: 0,0:00:06.88,0:00:11.70,Default,OP!Intro02,0,0,0,,からくり人の住むジパング国では群雄割拠して合戦に明け暮れ、
+Dialogue: 0,0:00:11.70,0:00:16.65,Default,OP!Intro03,0,0,0,,からくり武芸者たちも勝利と栄光を目指してしのぎを削っていた。
+Dialogue: 0,0:00:16.65,0:00:23.38,Default,OP!Intro04,0,0,0,,そしていま、からくり武芸者ナンバー１を目指す、とてつもないヒーローが誕生した！
+Dialogue: 0,0:00:24.24,0:00:26.97,Default,OP!Intro05,0,0,0,,ムサシ、見参でござるだス！
+Dialogue: 0,0:00:27.99,0:00:33.17,TitleOP,OP!Title,0,0,40,,からくり剣豪伝ムサシロード
+Dialogue: 0,0:00:33.17,0:00:38.01,SongOP,OP!Lyric01,0,0,0,,男はいつでも　世界の真ん中で
+Dialogue: 0,0:00:38.85,0:00:41.78,SongOP,OP!Lyric02,0,0,0,,いちばん　強くなる日を
+Dialogue: 0,0:00:41.78,0:00:44.65,SongOP,OP!Lyric03,0,0,0,,AH! AH! 夢見て
+Dialogue: 0,0:00:44.65,0:00:49.69,SongOP,OP!Lyric04,0,0,0,,心の刃　大空にふりかざし
+Dialogue: 0,0:00:50.38,0:00:54.33,SongOP,OP!Lyric05,0,0,0,,冒険の旅の　幕を開ける
+Dialogue: 0,0:00:55.66,0:01:00.88,SongOP,OP!Lyric06,0,0,0,,ジパング国を　さすらう剣豪
+Dialogue: 0,0:01:01.50,0:01:06.54,SongOP,OP!Lyric07,0,0,0,,その名　からくりびと　ムサシ
+Dialogue: 0,0:01:08.04,0:01:10.98,SongOP,OP!Lyric09,0,0,0,,鍔迫り合いの音が
+Dialogue: 0,0:01:10.98,0:01:13.82,SongOP,OP!Lyric10,0,0,0,,眩しい人生
+Dialogue: 0,0:01:13.82,0:01:19.32,SongOP,OP!Lyric11,0,0,0,,戦い　昨日よりも　今日　強い
+Dialogue: 0,0:01:19.32,0:01:25.50,SongOP,OP!Lyric12,0,0,0,,BUGEI! 二刀流　ムサシ
+Dialogue: 0,0:01:25.50,0:01:28.42,SongOP,OP!Lyric13,0,0,0,,明日は　輝くぞ
+Dialogue: 0,0:01:28.42,0:01:31.00,SongOP,OP!Lyric14,0,0,0,,鍔迫り合いの音が
+Dialogue: 0,0:01:31.00,0:01:33.50,SongOP,OP!Lyric15,0,0,0,,眩しい人生
+Dialogue: 0,0:01:34.20,0:01:39.61,SongOP,OP!Lyric16,0,0,0,,戦い　思い切りと　静けさと
+Dialogue: 0,0:01:39.61,0:01:45.85,SongOP,OP!Lyric17,0,0,0,,BUGEI! 二刀流　ムサシ
+Dialogue: 0,0:01:45.85,0:01:51.06,SongOP,OP!Lyric17,0,0,0,,みけんが　きらめいた　ムサシ！！
 Dialogue: 0,0:02:00.30,0:02:06.52,Default,ko,0,0,0,,한번 결심하면 목숨을 거는 것! 천하의 검성 보쿠덴에게 "무슨 일이 있어도 제자로 받아들여 달라"고.
 Dialogue: 0,0:02:00.30,0:02:06.52,Default,en,0,0,0,,Once decided, stake the life. Musashi has been asking Bokuden, the master swordsman, to accept him as a student.
 Dialogue: 0,0:02:06.52,0:02:11.82,Default,ko,0,0,0,,마음에 새긴 무사시의 열의가 인정받아, 길고 쓰라린 수련이 시작되었다.

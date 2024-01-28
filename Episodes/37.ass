@@ -32,54 +32,29 @@ Style: InsOtsuru,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,SETTINGS,,0,0,0,,complete:false;song:song.*;lang:en,ko
-Dialogue: 0,0:00:04.41,0:00:06.57,Default,ko,0,0,0,,어지러운 전국 시대.
-Dialogue: 0,0:00:04.41,0:00:06.57,Default,en,0,0,0,,It is the turbulent Sengoku period.
-Dialogue: 0,0:00:07.11,0:00:11.52,Default,ko,0,0,0,,카라쿠리인이 사는 지팡구국에서는 군웅할거하여 밤낮으로 접전이 계속되고
-Dialogue: 0,0:00:07.11,0:00:11.52,Default,en,0,0,0,,Warlords keep on fighting day and night over\NJipangu State, where Karakuri people live.
-Dialogue: 0,0:00:11.87,0:00:16.23,Default,ko,0,0,0,,카라쿠리 무예가들도 승리와 영광을 꿈꾸며 맹렬히 싸우고 있었다.
-Dialogue: 0,0:00:11.87,0:00:16.23,Default,en,0,0,0,,Karakuri martial artists were sharpening their swords, dreaming of victory and honor.
-Dialogue: 0,0:00:16.86,0:00:23.18,Default,ko,0,0,0,,그리고 지금, 카라쿠리 무예가 제일을 꿈꾸는 터무니없는 영웅이 탄생했다!
-Dialogue: 0,0:00:16.86,0:00:23.18,Default,en,0,0,0,,And now, a wild hero has arrived, seeking to be the number one Karakuri martial artist!
-Dialogue: 0,0:00:24.47,0:00:26.90,Default,ko,0,0,0,,무사시 등장이오!
-Dialogue: 0,0:00:24.47,0:00:26.90,Default,en,0,0,0,,Musashi is here-{\i1}dasu{\i0}!
-Dialogue: 0,0:00:27.89,0:00:33.23,TitleOP,ko,0,0,40,,{\fade(770,0)}카라쿠리 검호전: 무사시 로드
-Dialogue: 0,0:00:27.89,0:00:33.23,TitleOP,en,0,0,90,,{\an8\fs32\fade(770,0)}Karakuri Kengouden
-Dialogue: 0,0:00:27.89,0:00:33.23,TitleOP,en,0,0,48,,{\fade(770,0)}Musashi Road
-Dialogue: 0,0:00:27.89,0:00:33.23,TitleOP,en,0,0,0,,{\fade(770,0)\fs24}(The Story of {\i1}Karakuri{\i0} Martial Artist: Road of Musashi)
-Dialogue: 0,0:00:33.23,0:00:38.07,SongOP,ko,0,0,0,,사내는 언제나 세계 한가운데서
-Dialogue: 0,0:00:33.23,0:00:38.07,SongOP,en,0,0,0,,A man always dreams of the day
-Dialogue: 0,0:00:38.90,0:00:41.82,SongOP,ko,0,0,0,,제일 강해질 날을
-Dialogue: 0,0:00:38.90,0:00:41.82,SongOP,en,0,0,0,,in the center of the world to become
-Dialogue: 0,0:00:41.82,0:00:44.70,SongOP,ko,0,0,0,,아! 아! 꿈꿔라
-Dialogue: 0,0:00:41.82,0:00:44.70,SongOP,en,0,0,0,,AH! AH! the strongest
-Dialogue: 0,0:00:44.70,0:00:49.75,SongOP,ko,0,0,0,,마음의 칼을 넓은 하늘로 번쩍 쳐들어
-Dialogue: 0,0:00:44.70,0:00:49.75,SongOP,en,0,0,0,,Raise the sword of your heart high to the wide sky
-Dialogue: 0,0:00:50.37,0:00:54.38,SongOP,ko,0,0,0,,모험의 길의 막을 연다
-Dialogue: 0,0:00:50.37,0:00:54.38,SongOP,en,0,0,0,,Raise the curtain to the road of adventure
-Dialogue: 0,0:00:55.71,0:01:00.97,SongOP,ko,0,0,0,,지팡구국을 떠도는 검호
-Dialogue: 0,0:00:55.71,0:01:00.97,SongOP,en,0,0,0,,A skilled swordsman roams on Jipangu State
-Dialogue: 0,0:01:01.55,0:01:06.60,SongOP,ko,0,0,0,,그 이름은 카라쿠리인 무사시
-Dialogue: 0,0:01:01.55,0:01:06.60,SongOP,en,0,0,0,,His name is Musashi, a Karakuri man
-Dialogue: 0,0:01:08.10,0:01:11.02,SongOP,ko,0,0,0,,격렬한 승부의 소리는
-Dialogue: 0,0:01:08.10,0:01:11.02,SongOP,en,0,0,0,,The sound of fierce duels
-Dialogue: 0,0:01:11.02,0:01:13.86,SongOP,ko,0,0,0,,눈부신 인생
-Dialogue: 0,0:01:11.02,0:01:13.86,SongOP,en,0,0,0,,makes life dazzling
-Dialogue: 0,0:01:13.86,0:01:19.32,SongOP,ko,0,0,0,,싸웠던 어제보다도 오늘 강해진다
-Dialogue: 0,0:01:13.86,0:01:19.32,SongOP,en,0,0,0,,Battles of yesterdays make you stronger today
-Dialogue: 0,0:01:19.36,0:01:25.58,SongOP,ko,0,0,0,,무예! 이도류 무사시
-Dialogue: 0,0:01:19.36,0:01:25.58,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
-Dialogue: 0,0:01:25.58,0:01:28.46,SongOP,ko,0,0,0,,내일은 빛난다
-Dialogue: 0,0:01:25.58,0:01:28.46,SongOP,en,0,0,0,,Tomorrow will be glorious
-Dialogue: 0,0:01:28.46,0:01:31.04,SongOP,ko,0,0,0,,격렬한 승부의 소리는
-Dialogue: 0,0:01:28.46,0:01:31.04,SongOP,en,0,0,0,,The sound of fierce duels
-Dialogue: 0,0:01:31.04,0:01:33.54,SongOP,ko,0,0,0,,눈부신 인생
-Dialogue: 0,0:01:31.04,0:01:33.54,SongOP,en,0,0,0,,makes life dazzling
-Dialogue: 0,0:01:34.25,0:01:39.63,SongOP,ko,0,0,0,,싸우는 한껏 고요함과 함께
-Dialogue: 0,0:01:34.25,0:01:39.63,SongOP,en,0,0,0,,Fight the utmost with the stillness
-Dialogue: 0,0:01:39.68,0:01:45.89,SongOP,ko,0,0,0,,무예! 이도류 무사시
-Dialogue: 0,0:01:39.68,0:01:45.89,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
-Dialogue: 0,0:01:45.89,0:01:51.10,SongOP,ko,0,0,0,,미간이 반짝였다 무사시!!
-Dialogue: 0,0:01:45.89,0:01:51.10,SongOP,en,0,0,0,,His eyes shined! Musashi!
+Dialogue: 0,0:00:04.41,0:00:06.57,Default,OP!Intro01,0,0,0,,時は戦国、乱世の時代。
+Dialogue: 0,0:00:07.11,0:00:11.52,Default,OP!Intro02,0,0,0,,からくり人の住むジパング国では群雄割拠して合戦に明け暮れ、
+Dialogue: 0,0:00:11.87,0:00:16.23,Default,OP!Intro03,0,0,0,,からくり武芸者たちも勝利と栄光を目指してしのぎを削っていた。
+Dialogue: 0,0:00:16.86,0:00:23.18,Default,OP!Intro04,0,0,0,,そしていま、からくり武芸者ナンバー１を目指す、とてつもないヒーローが誕生した！
+Dialogue: 0,0:00:24.47,0:00:26.90,Default,OP!Intro05,0,0,0,,ムサシ、見参でござるだス！
+Dialogue: 0,0:00:27.89,0:00:33.23,TitleOP,OP!Title,0,0,40,,からくり剣豪伝ムサシロード
+Dialogue: 0,0:00:33.23,0:00:38.07,SongOP,OP!Lyric01,0,0,0,,男はいつでも　世界の真ん中で
+Dialogue: 0,0:00:38.90,0:00:41.82,SongOP,OP!Lyric02,0,0,0,,いちばん　強くなる日を
+Dialogue: 0,0:00:41.82,0:00:44.70,SongOP,OP!Lyric03,0,0,0,,AH! AH! 夢見て
+Dialogue: 0,0:00:44.70,0:00:49.75,SongOP,OP!Lyric04,0,0,0,,心の刃　大空にふりかざし
+Dialogue: 0,0:00:50.37,0:00:54.38,SongOP,OP!Lyric05,0,0,0,,冒険の旅の　幕を開ける
+Dialogue: 0,0:00:55.71,0:01:00.97,SongOP,OP!Lyric06,0,0,0,,ジパング国を　さすらう剣豪
+Dialogue: 0,0:01:01.55,0:01:06.60,SongOP,OP!Lyric07,0,0,0,,その名　からくりびと　ムサシ
+Dialogue: 0,0:01:08.10,0:01:11.02,SongOP,OP!Lyric09,0,0,0,,鍔迫り合いの音が
+Dialogue: 0,0:01:11.02,0:01:13.86,SongOP,OP!Lyric10,0,0,0,,眩しい人生
+Dialogue: 0,0:01:13.86,0:01:19.32,SongOP,OP!Lyric11,0,0,0,,戦い　昨日よりも　今日　強い
+Dialogue: 0,0:01:19.36,0:01:25.58,SongOP,OP!Lyric12,0,0,0,,BUGEI! 二刀流　ムサシ
+Dialogue: 0,0:01:25.58,0:01:28.46,SongOP,OP!Lyric13,0,0,0,,明日は　輝くぞ
+Dialogue: 0,0:01:28.46,0:01:31.04,SongOP,OP!Lyric14,0,0,0,,鍔迫り合いの音が
+Dialogue: 0,0:01:31.04,0:01:33.54,SongOP,OP!Lyric15,0,0,0,,眩しい人生
+Dialogue: 0,0:01:34.25,0:01:39.63,SongOP,OP!Lyric16,0,0,0,,戦い　思い切りと　静けさと
+Dialogue: 0,0:01:39.68,0:01:45.89,SongOP,OP!Lyric17,0,0,0,,BUGEI! 二刀流　ムサシ
+Dialogue: 0,0:01:45.89,0:01:51.10,SongOP,OP!Lyric17,0,0,0,,みけんが　きらめいた　ムサシ！！
 Comment: 0,0:02:00.00,0:02:08.48,Default,ja,0,0,0,,桜島へ乗り込んだムサシ達は、不知火一族に最後の決戦を挑むが、ハンゾウはサツマニアへ向けてミサイルを発射する。
 Dialogue: 0,0:02:00.00,0:02:08.48,Default,ko,0,0,0,,사쿠라지마에 들어간 무사시 일행은 시라누이 일족에게 최후의 결전을 도전하지만, 한조는 사츠마니아를 향해 미사일을 발사한다.
 Dialogue: 0,0:02:00.00,0:02:05.49,Default,en,0,0,0,,After getting into Sakurajima, Musashi and others challenge for the last decisive battle against Shiranui Clan,
