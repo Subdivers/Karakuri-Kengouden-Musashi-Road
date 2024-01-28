@@ -794,32 +794,19 @@ Dialogue: 0,0:22:07.52,0:22:14.04,Default,en,0,0,0,,The crisis has been passed t
 Comment: 0,0:22:14.97,0:22:19.87,Default,ja,0,0,0,,果たして、ムサシたちの前には何が待ち受けているのか。
 Dialogue: 0,0:22:14.97,0:22:19.87,Default,ko,0,0,0,,과연 무사시 일행 앞에는 뭐가 기다리고 있는가?
 Dialogue: 0,0:22:14.97,0:22:19.87,Default,en,0,0,0,,What is waiting for Musashi's group?
-Dialogue: 0,0:22:40.57,0:22:42.61,SongED1,ko,0,0,0,,허공의 주머니에 달이
-Dialogue: 0,0:22:40.57,0:22:42.61,SongED1,en,0,0,0,,Sometimes the moon jumps over
-Dialogue: 0,0:22:43.33,0:22:45.87,SongED1,ko,0,0,0,,뛰어넘어가는 일도 있어
-Dialogue: 0,0:22:43.33,0:22:45.87,SongED1,en,0,0,0,,the pocket of empty sky
-Dialogue: 0,0:22:46.08,0:22:48.25,SongED1,ko,0,0,0,,큰 소리로 웃으면
-Dialogue: 0,0:22:46.08,0:22:48.25,SongED1,en,0,0,0,,Laugh loudly and
-Dialogue: 0,0:22:48.87,0:22:50.88,SongED1,ko,0,0,0,,내일에는 아침이 와
-Dialogue: 0,0:22:48.87,0:22:50.88,SongED1,en,0,0,0,,morning will come tomorrow
-Dialogue: 0,0:22:51.63,0:22:56.21,SongED1,ko,0,0,0,,잃는 것 따위는 아무것도 아니야
-Dialogue: 0,0:22:51.63,0:22:56.21,SongED1,en,0,0,0,,Don't worry too much about losing
-Dialogue: 0,0:22:57.21,0:22:59.80,SongED1,ko,0,0,0,,계속 해나가! 앞으로 가!
-Dialogue: 0,0:22:57.21,0:22:59.80,SongED1,en,0,0,0,,Keep going! Go for it!
-Dialogue: 0,0:22:59.80,0:23:02.22,SongED1,ko,0,0,0,,맨손은 강해
-Dialogue: 0,0:22:59.80,0:23:02.22,SongED1,en,0,0,0,,A bare hand is strong
-Dialogue: 0,0:23:02.64,0:23:12.31,SongED1,ko,0,0,0,,그런 거야! 가볍게 가자
-Dialogue: 0,0:23:02.64,0:23:12.31,SongED1,en,0,0,0,,That's how it is! Let's go lightly
-Dialogue: 0,0:23:12.77,0:23:20.36,SongED1,ko,0,0,0,,인생 그런 거야! 기회가 어라,
-Dialogue: 0,0:23:12.77,0:23:20.36,SongED1,en,0,0,0,,That's how life is! Look, a chance
-Dialogue: 0,0:23:20.82,0:23:25.08,SongED1,ko,0,0,0,,꼬리를 흔들며 쫒아와!
-Dialogue: 0,0:23:20.82,0:23:25.08,SongED1,en,0,0,0,,follows us wagging its tail!
-Dialogue: 0,0:23:26.49,0:23:36.00,SongED1,ko,0,0,0,,그런 거야! 가볍게 가자
-Dialogue: 0,0:23:26.49,0:23:36.00,SongED1,en,0,0,0,,That's how it is! Let's go lightly
-Dialogue: 0,0:23:36.50,0:23:44.47,SongED1,ko,0,0,0,,미래도 그런 거야! 내일이 어라,
-Dialogue: 0,0:23:36.50,0:23:44.47,SongED1,en,0,0,0,,That's how the future is, too! Look, tomorrow
-Dialogue: 0,0:23:44.72,0:23:50.31,SongED1,ko,0,0,0,,양손을 벌리고 웃고 있어!
-Dialogue: 0,0:23:44.72,0:23:50.31,SongED1,en,0,0,0,,is opening its hands and smiling at us!
+Dialogue: 0,0:22:40.57,0:22:42.61,SongED1,ED1!Lyric01,0,0,0,,カラのポケットに　ツキが
+Dialogue: 0,0:22:43.33,0:22:45.87,SongED1,ED1!Lyric02,0,0,0,,飛び込むことも　あるさ
+Dialogue: 0,0:22:46.08,0:22:48.25,SongED1,ED1!Lyric03,0,0,0,,おっきな声で　笑えば
+Dialogue: 0,0:22:48.87,0:22:50.88,SongED1,ED1!Lyric04,0,0,0,,あしたには　朝が来る
+Dialogue: 0,0:22:51.63,0:22:56.21,SongED1,ED1!Lyric05,0,0,0,,無くすものなんか　何もないさ
+Dialogue: 0,0:22:57.21,0:22:59.80,SongED1,ED1!Lyric06,0,0,0,,やっちゃえ！イケイケ！
+Dialogue: 0,0:22:59.80,0:23:02.22,SongED1,ED1!Lyric07,0,0,0,,手ぶらは　強いぜ
+Dialogue: 0,0:23:02.64,0:23:12.31,SongED1,ED1!Lyric08,0,0,0,,てなもんだ　のーてんきに行こう
+Dialogue: 0,0:23:12.77,0:23:20.36,SongED1,ED1!Lyric09,0,0,0,,人生　てなもんさ　チャンスが　ほら
+Dialogue: 0,0:23:20.82,0:23:25.08,SongED1,ED1!Lyric10,0,0,0,,しっぽを振って　追ってくるぜ
+Dialogue: 0,0:23:26.49,0:23:36.00,SongED1,ED1!Lyric11,0,0,0,,てなもんだ　のーてんきに行こう
+Dialogue: 0,0:23:36.50,0:23:44.47,SongED1,ED1!Lyric12,0,0,0,,未来も　てなもんさ　あしたが　ほら
+Dialogue: 0,0:23:44.72,0:23:50.31,SongED1,ED1!Lyric13,0,0,0,,両手ひろげて　笑ってるぜ
 Comment: 0,0:24:02.56,0:24:08.73,Default,ja,0,0,0,,食べ物に弱いおいらはシラヌイ一族の罠にはまって毒入りの食事を食べてしまってしびれちゃったダス。
 Dialogue: 0,0:24:02.56,0:24:08.73,Default,ko,0,0,0,,먹을 것에 약한 나는 시라누이 일족의 함정에 빠져 독이 들어간 음식을 먹어버리고 마비되오.
 Dialogue: 0,0:24:02.56,0:24:08.73,Default,en,0,0,0,,Because I am weak for foods, I fall into the trap of Shiranui Clan by eating poisonous foods and gets paralyzed-{\i1}dasu{\i0}.

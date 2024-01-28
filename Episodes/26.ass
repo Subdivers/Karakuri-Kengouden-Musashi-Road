@@ -769,32 +769,19 @@ Dialogue: 0,0:22:09.50,0:22:14.47,Default,en,0,0,0,,What kind of wonderful man w
 Comment: 0,0:22:14.95,0:22:19.51,Default,ja,0,0,0,,一路九州へ向かう恋の狩人、センヒメの心は弾む。
 Dialogue: 0,0:22:14.95,0:22:19.51,Default,ko,0,0,0,,규슈에 여행가는 사랑의 사냥꾼 센히메의 마음은 들뜬다.
 Dialogue: 0,0:22:14.95,0:22:19.51,Default,en,0,0,0,,The hunter of love Senhime is growing restless in her trip to Kyushu.
-Dialogue: 0,0:22:40.74,0:22:42.78,SongED1,ko,0,0,0,,허공의 주머니에 달이
-Dialogue: 0,0:22:40.74,0:22:42.78,SongED1,en,0,0,0,,Sometimes the moon jumps over
-Dialogue: 0,0:22:43.47,0:22:46.03,SongED1,ko,0,0,0,,뛰어넘어가는 일도 있어
-Dialogue: 0,0:22:43.47,0:22:46.03,SongED1,en,0,0,0,,the pocket of empty sky
-Dialogue: 0,0:22:46.24,0:22:48.41,SongED1,ko,0,0,0,,큰 소리로 웃으면
-Dialogue: 0,0:22:46.24,0:22:48.41,SongED1,en,0,0,0,,Laugh loudly and
-Dialogue: 0,0:22:49.04,0:22:51.03,SongED1,ko,0,0,0,,내일에는 아침이 와
-Dialogue: 0,0:22:49.04,0:22:51.03,SongED1,en,0,0,0,,morning will come tomorrow
-Dialogue: 0,0:22:51.78,0:22:56.37,SongED1,ko,0,0,0,,잃는 것 따위는 아무것도 아니야
-Dialogue: 0,0:22:51.78,0:22:56.37,SongED1,en,0,0,0,,Don't worry too much about losing
-Dialogue: 0,0:22:57.37,0:22:59.96,SongED1,ko,0,0,0,,계속 해나가! 앞으로 가!
-Dialogue: 0,0:22:57.37,0:22:59.96,SongED1,en,0,0,0,,Keep going! Go for it!
-Dialogue: 0,0:22:59.96,0:23:02.38,SongED1,ko,0,0,0,,맨손은 강해
-Dialogue: 0,0:22:59.96,0:23:02.38,SongED1,en,0,0,0,,A bare hand is strong
-Dialogue: 0,0:23:02.79,0:23:12.47,SongED1,ko,0,0,0,,그런 거야! 가볍게 가자
-Dialogue: 0,0:23:02.79,0:23:12.47,SongED1,en,0,0,0,,That's how it is! Let's go lightly
-Dialogue: 0,0:23:12.93,0:23:20.52,SongED1,ko,0,0,0,,인생 그런 거야! 기회가 어라,
-Dialogue: 0,0:23:12.93,0:23:20.52,SongED1,en,0,0,0,,That's how life is! Look, a chance
-Dialogue: 0,0:23:20.98,0:23:25.23,SongED1,ko,0,0,0,,꼬리를 흔들며 쫒아와!
-Dialogue: 0,0:23:20.98,0:23:25.23,SongED1,en,0,0,0,,follows us wagging its tail!
-Dialogue: 0,0:23:26.65,0:23:36.16,SongED1,ko,0,0,0,,그런 거야! 가볍게 가자
-Dialogue: 0,0:23:26.65,0:23:36.16,SongED1,en,0,0,0,,That's how it is! Let's go lightly
-Dialogue: 0,0:23:36.66,0:23:44.63,SongED1,ko,0,0,0,,미래도 그런 거야! 내일이 어라,
-Dialogue: 0,0:23:36.66,0:23:44.63,SongED1,en,0,0,0,,That's how the future is, too! Look, tomorrow
-Dialogue: 0,0:23:44.87,0:23:50.47,SongED1,ko,0,0,0,,양손을 벌리고 웃고 있어!
-Dialogue: 0,0:23:44.87,0:23:50.47,SongED1,en,0,0,0,,is opening its hands and smiling at us!
+Dialogue: 0,0:22:40.74,0:22:42.78,SongED1,ED1!Lyric01,0,0,0,,カラのポケットに　ツキが
+Dialogue: 0,0:22:43.47,0:22:46.03,SongED1,ED1!Lyric02,0,0,0,,飛び込むことも　あるさ
+Dialogue: 0,0:22:46.24,0:22:48.41,SongED1,ED1!Lyric03,0,0,0,,おっきな声で　笑えば
+Dialogue: 0,0:22:49.04,0:22:51.03,SongED1,ED1!Lyric04,0,0,0,,あしたには　朝が来る
+Dialogue: 0,0:22:51.78,0:22:56.37,SongED1,ED1!Lyric05,0,0,0,,無くすものなんか　何もないさ
+Dialogue: 0,0:22:57.37,0:22:59.96,SongED1,ED1!Lyric06,0,0,0,,やっちゃえ！イケイケ！
+Dialogue: 0,0:22:59.96,0:23:02.38,SongED1,ED1!Lyric07,0,0,0,,手ぶらは　強いぜ
+Dialogue: 0,0:23:02.79,0:23:12.47,SongED1,ED1!Lyric08,0,0,0,,てなもんだ　のーてんきに行こう
+Dialogue: 0,0:23:12.93,0:23:20.52,SongED1,ED1!Lyric09,0,0,0,,人生　てなもんさ　チャンスが　ほら
+Dialogue: 0,0:23:20.98,0:23:25.23,SongED1,ED1!Lyric10,0,0,0,,しっぽを振って　追ってくるぜ
+Dialogue: 0,0:23:26.65,0:23:36.16,SongED1,ED1!Lyric11,0,0,0,,てなもんだ　のーてんきに行こう
+Dialogue: 0,0:23:36.66,0:23:44.63,SongED1,ED1!Lyric12,0,0,0,,未来も　てなもんさ　あしたが　ほら
+Dialogue: 0,0:23:44.87,0:23:50.47,SongED1,ED1!Lyric13,0,0,0,,両手ひろげて　笑ってるぜ
 Comment: 0,0:24:04.06,0:24:11.39,Default,ja,0,0,0,,お団子早食いコンクールに出場したばっかりにコジローと喧嘩になるは（し）、おせんちゃんはシラヌイ一族に捕まっちゃうは（し）と、めちゃくちゃ！
 Dialogue: 0,0:24:04.06,0:24:11.39,Default,ko,0,0,0,,단고 빨리 먹기 콩쿠르에 출전했다는 이유만으로 코지로하고 싸우고, 센짱은 시라누이 일족에게 잡히고, 엉망진창!
 Dialogue: 0,0:24:04.06,0:24:07.96,Default,en,0,0,0,,Just because I entered {\i1}dango{\i0} quick eating contest I fought with Kojirō,

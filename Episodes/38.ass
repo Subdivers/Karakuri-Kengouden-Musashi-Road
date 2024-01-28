@@ -810,32 +810,19 @@ Comment: 0,0:22:23.92,0:22:26.85,Default,ja,0,0,0,,男ムサシの正念場が�
 Dialogue: 0,0:22:23.92,0:22:26.85,Default,ko,0,0,0,,사내 무사시의 최고조의 순간이 다가온다.
 Dialogue: 0,0:22:23.92,0:22:27.37,Note,en,0,0,0,,({\i1}shounenba{\i0}: the most important scene where the actor must not make mistake in acts like kabuki; do-or-die situation)
 Dialogue: 0,0:22:23.92,0:22:26.85,Default,en,0,0,0,,The climax of our man Musashi is near.
-Dialogue: 0,0:22:41.42,0:22:43.46,SongED1,ko,0,0,0,,허공의 주머니에 달이
-Dialogue: 0,0:22:41.42,0:22:43.46,SongED1,en,0,0,0,,Sometimes the moon jumps over
-Dialogue: 0,0:22:44.17,0:22:46.71,SongED1,ko,0,0,0,,뛰어넘어가는 일도 있어
-Dialogue: 0,0:22:44.17,0:22:46.71,SongED1,en,0,0,0,,the pocket of empty sky
-Dialogue: 0,0:22:46.92,0:22:49.09,SongED1,ko,0,0,0,,큰 소리로 웃으면
-Dialogue: 0,0:22:46.92,0:22:49.09,SongED1,en,0,0,0,,Laugh loudly and
-Dialogue: 0,0:22:49.72,0:22:51.72,SongED1,ko,0,0,0,,내일에는 아침이 와
-Dialogue: 0,0:22:49.72,0:22:51.72,SongED1,en,0,0,0,,morning will come tomorrow
-Dialogue: 0,0:22:52.47,0:22:57.06,SongED1,ko,0,0,0,,잃는 것 따위는 아무것도 아니야
-Dialogue: 0,0:22:52.47,0:22:57.06,SongED1,en,0,0,0,,Don't worry too much about losing
-Dialogue: 0,0:22:58.06,0:23:00.64,SongED1,ko,0,0,0,,계속 해나가! 앞으로 가!
-Dialogue: 0,0:22:58.06,0:23:00.64,SongED1,en,0,0,0,,Keep going! Go for it!
-Dialogue: 0,0:23:00.64,0:23:03.06,SongED1,ko,0,0,0,,맨손은 강해
-Dialogue: 0,0:23:00.64,0:23:03.06,SongED1,en,0,0,0,,A bare hand is strong
-Dialogue: 0,0:23:03.48,0:23:13.15,SongED1,ko,0,0,0,,그런 거야! 가볍게 가자
-Dialogue: 0,0:23:03.48,0:23:13.15,SongED1,en,0,0,0,,That's how it is! Let's go lightly
-Dialogue: 0,0:23:13.61,0:23:21.20,SongED1,ko,0,0,0,,인생 그런 거야! 기회가 어라,
-Dialogue: 0,0:23:13.61,0:23:21.20,SongED1,en,0,0,0,,That's how life is! Look, a chance
-Dialogue: 0,0:23:21.66,0:23:25.92,SongED1,ko,0,0,0,,꼬리를 흔들며 쫒아와!
-Dialogue: 0,0:23:21.66,0:23:25.92,SongED1,en,0,0,0,,follows us wagging its tail!
-Dialogue: 0,0:23:27.34,0:23:36.85,SongED1,ko,0,0,0,,그런 거야! 가볍게 가자
-Dialogue: 0,0:23:27.34,0:23:36.85,SongED1,en,0,0,0,,That's how it is! Let's go lightly
-Dialogue: 0,0:23:37.35,0:23:45.31,SongED1,ko,0,0,0,,미래도 그런 거야! 내일이 어라,
-Dialogue: 0,0:23:37.35,0:23:45.31,SongED1,en,0,0,0,,That's how the future is, too! Look, tomorrow
-Dialogue: 0,0:23:45.56,0:23:51.15,SongED1,ko,0,0,0,,양손을 벌리고 웃고 있어!
-Dialogue: 0,0:23:45.56,0:23:51.15,SongED1,en,0,0,0,,is opening its hands and smiling at us!
+Dialogue: 0,0:22:41.42,0:22:43.46,SongED1,ED1!Lyric01,0,0,0,,カラのポケットに　ツキが
+Dialogue: 0,0:22:44.17,0:22:46.71,SongED1,ED1!Lyric02,0,0,0,,飛び込むことも　あるさ
+Dialogue: 0,0:22:46.92,0:22:49.09,SongED1,ED1!Lyric03,0,0,0,,おっきな声で　笑えば
+Dialogue: 0,0:22:49.72,0:22:51.72,SongED1,ED1!Lyric04,0,0,0,,あしたには　朝が来る
+Dialogue: 0,0:22:52.47,0:22:57.06,SongED1,ED1!Lyric05,0,0,0,,無くすものなんか　何もないさ
+Dialogue: 0,0:22:58.06,0:23:00.64,SongED1,ED1!Lyric06,0,0,0,,やっちゃえ！イケイケ！
+Dialogue: 0,0:23:00.64,0:23:03.06,SongED1,ED1!Lyric07,0,0,0,,手ぶらは　強いぜ
+Dialogue: 0,0:23:03.48,0:23:13.15,SongED1,ED1!Lyric08,0,0,0,,てなもんだ　のーてんきに行こう
+Dialogue: 0,0:23:13.61,0:23:21.20,SongED1,ED1!Lyric09,0,0,0,,人生　てなもんさ　チャンスが　ほら
+Dialogue: 0,0:23:21.66,0:23:25.92,SongED1,ED1!Lyric10,0,0,0,,しっぽを振って　追ってくるぜ
+Dialogue: 0,0:23:27.34,0:23:36.85,SongED1,ED1!Lyric11,0,0,0,,てなもんだ　のーてんきに行こう
+Dialogue: 0,0:23:37.35,0:23:45.31,SongED1,ED1!Lyric12,0,0,0,,未来も　てなもんさ　あしたが　ほら
+Dialogue: 0,0:23:45.56,0:23:51.15,SongED1,ED1!Lyric13,0,0,0,,両手ひろげて　笑ってるぜ
 Comment: 0,0:24:04.33,0:24:09.17,Default,ja,0,0,0,,武芸大会準決勝！ついにコジローと決着をつける時が来たダス。
 Dialogue: 0,0:24:04.33,0:24:09.17,Default,ko,0,0,0,,무예 대회 준결승! 드디어 코지로하고 결판낼 때가 왔소.
 Dialogue: 0,0:24:04.33,0:24:09.17,Default,en,0,0,0,,Semi-finals of Martial Arts Competition! It's finally the time to settle up with Kojirō-{\i1}dasu{\i0}.

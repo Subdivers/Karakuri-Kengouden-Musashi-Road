@@ -939,32 +939,19 @@ Dialogue: 0,0:22:14.20,0:22:18.67,Default,en,0,0,0,,But Rikudomaoh's ambitions a
 Comment: 0,0:22:18.93,0:22:24.25,Default,ja,0,0,0,,恐るべきメガトンジョーを使い、いかなる手段で国王たちに迫るのか。
 Dialogue: 0,0:22:18.93,0:22:24.25,Default,ko,0,0,0,,무서운 메가톤성을 써서 어떤 수단으로 국왕 일행을 덮치려 하는가.
 Dialogue: 0,0:22:18.93,0:22:24.25,Default,en,0,0,0,,What will he do with frightening Megaton Castle to creep over the king and others?
-Dialogue: 0,0:22:41.17,0:22:43.21,SongED1,ko,0,0,0,,허공의 주머니에 달이
-Dialogue: 0,0:22:41.17,0:22:43.21,SongED1,en,0,0,0,,Sometimes the moon jumps over
-Dialogue: 0,0:22:43.92,0:22:46.46,SongED1,ko,0,0,0,,뛰어넘어가는 일도 있어
-Dialogue: 0,0:22:43.92,0:22:46.46,SongED1,en,0,0,0,,the pocket of empty sky
-Dialogue: 0,0:22:46.67,0:22:48.84,SongED1,ko,0,0,0,,큰 소리로 웃으면
-Dialogue: 0,0:22:46.67,0:22:48.84,SongED1,en,0,0,0,,Laugh loudly and
-Dialogue: 0,0:22:49.47,0:22:51.47,SongED1,ko,0,0,0,,내일에는 아침이 와
-Dialogue: 0,0:22:49.47,0:22:51.47,SongED1,en,0,0,0,,morning will come tomorrow
-Dialogue: 0,0:22:52.22,0:22:56.81,SongED1,ko,0,0,0,,잃는 것 따위는 아무것도 아니야
-Dialogue: 0,0:22:52.22,0:22:56.81,SongED1,en,0,0,0,,Don't worry too much about losing
-Dialogue: 0,0:22:57.81,0:23:00.39,SongED1,ko,0,0,0,,계속 해나가! 앞으로 가!
-Dialogue: 0,0:22:57.81,0:23:00.39,SongED1,en,0,0,0,,Keep going! Go for it!
-Dialogue: 0,0:23:00.39,0:23:02.81,SongED1,ko,0,0,0,,맨손은 강해
-Dialogue: 0,0:23:00.39,0:23:02.81,SongED1,en,0,0,0,,A bare hand is strong
-Dialogue: 0,0:23:03.23,0:23:12.90,SongED1,ko,0,0,0,,그런 거야! 가볍게 가자
-Dialogue: 0,0:23:03.23,0:23:12.90,SongED1,en,0,0,0,,That's how it is! Let's go lightly
-Dialogue: 0,0:23:13.36,0:23:20.95,SongED1,ko,0,0,0,,인생 그런 거야! 기회가 어라,
-Dialogue: 0,0:23:13.36,0:23:20.95,SongED1,en,0,0,0,,That's how life is! Look, a chance
-Dialogue: 0,0:23:21.41,0:23:25.67,SongED1,ko,0,0,0,,꼬리를 흔들며 쫒아와!
-Dialogue: 0,0:23:21.41,0:23:25.67,SongED1,en,0,0,0,,follows us wagging its tail!
-Dialogue: 0,0:23:27.09,0:23:36.60,SongED1,ko,0,0,0,,그런 거야! 가볍게 가자
-Dialogue: 0,0:23:27.09,0:23:36.60,SongED1,en,0,0,0,,That's how it is! Let's go lightly
-Dialogue: 0,0:23:37.10,0:23:45.06,SongED1,ko,0,0,0,,미래도 그런 거야! 내일이 어라,
-Dialogue: 0,0:23:37.10,0:23:45.06,SongED1,en,0,0,0,,That's how the future is, too! Look, tomorrow
-Dialogue: 0,0:23:45.31,0:23:50.90,SongED1,ko,0,0,0,,양손을 벌리고 웃고 있어!
-Dialogue: 0,0:23:45.31,0:23:50.90,SongED1,en,0,0,0,,is opening its hands and smiling at us!
+Dialogue: 0,0:22:41.17,0:22:43.21,SongED1,ED1!Lyric01,0,0,0,,カラのポケットに　ツキが
+Dialogue: 0,0:22:43.92,0:22:46.46,SongED1,ED1!Lyric02,0,0,0,,飛び込むことも　あるさ
+Dialogue: 0,0:22:46.67,0:22:48.84,SongED1,ED1!Lyric03,0,0,0,,おっきな声で　笑えば
+Dialogue: 0,0:22:49.47,0:22:51.47,SongED1,ED1!Lyric04,0,0,0,,あしたには　朝が来る
+Dialogue: 0,0:22:52.22,0:22:56.81,SongED1,ED1!Lyric05,0,0,0,,無くすものなんか　何もないさ
+Dialogue: 0,0:22:57.81,0:23:00.39,SongED1,ED1!Lyric06,0,0,0,,やっちゃえ！イケイケ！
+Dialogue: 0,0:23:00.39,0:23:02.81,SongED1,ED1!Lyric07,0,0,0,,手ぶらは　強いぜ
+Dialogue: 0,0:23:03.23,0:23:12.90,SongED1,ED1!Lyric08,0,0,0,,てなもんだ　のーてんきに行こう
+Dialogue: 0,0:23:13.36,0:23:20.95,SongED1,ED1!Lyric09,0,0,0,,人生　てなもんさ　チャンスが　ほら
+Dialogue: 0,0:23:21.41,0:23:25.67,SongED1,ED1!Lyric10,0,0,0,,しっぽを振って　追ってくるぜ
+Dialogue: 0,0:23:27.09,0:23:36.60,SongED1,ED1!Lyric11,0,0,0,,てなもんだ　のーてんきに行こう
+Dialogue: 0,0:23:37.10,0:23:45.06,SongED1,ED1!Lyric12,0,0,0,,未来も　てなもんさ　あしたが　ほら
+Dialogue: 0,0:23:45.31,0:23:50.90,SongED1,ED1!Lyric13,0,0,0,,両手ひろげて　笑ってるぜ
 Comment: 0,0:24:03.46,0:24:06.90,Default,ja,0,0,0,,メガトンジョーが攻めてくるから、エドトピアも安全じゃない！
 Dialogue: 0,0:24:03.46,0:24:06.90,Default,ko,0,0,0,,메가톤성이 공격해 오면서 에도토피아도 이제 안전하지 않소!
 Dialogue: 0,0:24:03.46,0:24:06.90,Default,en,0,0,0,,Since Megaton Castle is coming to attack, Edotopia isn't safe anymore!

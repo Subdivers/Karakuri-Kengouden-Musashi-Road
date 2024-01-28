@@ -615,32 +615,19 @@ Dialogue: 0,0:22:18.01,0:22:23.32,Default,ko,0,0,0,,그리고 또 그 날, 그 �
 Dialogue: 0,0:22:18.01,0:22:23.32,Default,en,0,0,0,,And also, on that day, that famous dual blade has born,
 Dialogue: 0,0:22:24.03,0:22:27.03,Default,ko,0,0,0,,무사시는 아직 깨닫지 못하였다.
 Dialogue: 0,0:22:24.03,0:22:27.03,Default,en,0,0,0,,but Musashi is yet to realize.
-Dialogue: 0,0:22:42.30,0:22:44.34,SongED1,ko,0,0,0,,허공의 주머니에 달이
-Dialogue: 0,0:22:42.30,0:22:44.34,SongED1,en,0,0,0,,Sometimes the moon jumps over
-Dialogue: 0,0:22:45.05,0:22:47.59,SongED1,ko,0,0,0,,뛰어넘어가는 일도 있어
-Dialogue: 0,0:22:45.05,0:22:47.59,SongED1,en,0,0,0,,the pocket of the empty sky
-Dialogue: 0,0:22:47.80,0:22:49.97,SongED1,ko,0,0,0,,큰 소리로 웃으면
-Dialogue: 0,0:22:47.80,0:22:49.97,SongED1,en,0,0,0,,Laugh loudly and
-Dialogue: 0,0:22:50.60,0:22:52.60,SongED1,ko,0,0,0,,내일에는 아침이 와
-Dialogue: 0,0:22:50.60,0:22:52.60,SongED1,en,0,0,0,,a morning will come tomorrow
-Dialogue: 0,0:22:53.35,0:22:57.94,SongED1,ko,0,0,0,,잃는 것 따위는 아무것도 아니야
-Dialogue: 0,0:22:53.35,0:22:57.94,SongED1,en,0,0,0,,Don't care too much about losing
-Dialogue: 0,0:22:58.94,0:23:01.52,SongED1,ko,0,0,0,,계속 해나가! 앞으로 가!
-Dialogue: 0,0:22:58.94,0:23:01.52,SongED1,en,0,0,0,,Keep doing! Go for it!
-Dialogue: 0,0:23:01.52,0:23:03.94,SongED1,ko,0,0,0,,맨손은 강해
-Dialogue: 0,0:23:01.52,0:23:03.94,SongED1,en,0,0,0,,A bare hand is strong
-Dialogue: 0,0:23:04.36,0:23:14.04,SongED1,ko,0,0,0,,그런 거야! 가볍게 가자
-Dialogue: 0,0:23:04.36,0:23:14.04,SongED1,en,0,0,0,,That's how it is! Let's go lightly
-Dialogue: 0,0:23:14.50,0:23:22.09,SongED1,ko,0,0,0,,인생 그런 거야! 기회가 어라,
-Dialogue: 0,0:23:14.50,0:23:22.09,SongED1,en,0,0,0,,That's how life is! Look, a chance
-Dialogue: 0,0:23:22.55,0:23:26.80,SongED1,ko,0,0,0,,꼬리를 흔들며 쫒아와!
-Dialogue: 0,0:23:22.55,0:23:26.80,SongED1,en,0,0,0,,follows us wagging its tail!
-Dialogue: 0,0:23:28.22,0:23:37.73,SongED1,ko,0,0,0,,그런 거야! 가볍게 가자
-Dialogue: 0,0:23:28.22,0:23:37.73,SongED1,en,0,0,0,,That's how it is! Let's go lightly
-Dialogue: 0,0:23:38.23,0:23:46.19,SongED1,ko,0,0,0,,미래도 그런 거야! 내일이 어라,
-Dialogue: 0,0:23:38.23,0:23:46.19,SongED1,en,0,0,0,,That's how future also is! Look, tomorrow
-Dialogue: 0,0:23:46.44,0:23:52.03,SongED1,ko,0,0,0,,양손을 벌리고 웃고 있어!
-Dialogue: 0,0:23:46.44,0:23:52.03,SongED1,en,0,0,0,,is opening its hands and smiling at us!
+Dialogue: 0,0:22:42.30,0:22:44.34,SongED1,ED1!Lyric01,0,0,0,,カラのポケットに　ツキが
+Dialogue: 0,0:22:45.05,0:22:47.59,SongED1,ED1!Lyric02,0,0,0,,飛び込むことも　あるさ
+Dialogue: 0,0:22:47.80,0:22:49.97,SongED1,ED1!Lyric03,0,0,0,,おっきな声で　笑えば
+Dialogue: 0,0:22:50.60,0:22:52.60,SongED1,ED1!Lyric04,0,0,0,,あしたには　朝が来る
+Dialogue: 0,0:22:53.35,0:22:57.94,SongED1,ED1!Lyric05,0,0,0,,無くすものなんか　何もないさ
+Dialogue: 0,0:22:58.94,0:23:01.52,SongED1,ED1!Lyric06,0,0,0,,やっちゃえ！イケイケ！
+Dialogue: 0,0:23:01.52,0:23:03.94,SongED1,ED1!Lyric07,0,0,0,,手ぶらは　強いぜ
+Dialogue: 0,0:23:04.36,0:23:14.04,SongED1,ED1!Lyric08,0,0,0,,てなもんだ　のーてんきに行こう
+Dialogue: 0,0:23:14.50,0:23:22.09,SongED1,ED1!Lyric09,0,0,0,,人生　てなもんさ　チャンスが　ほら
+Dialogue: 0,0:23:22.55,0:23:26.80,SongED1,ED1!Lyric10,0,0,0,,しっぽを振って　追ってくるぜ
+Dialogue: 0,0:23:28.22,0:23:37.73,SongED1,ED1!Lyric11,0,0,0,,てなもんだ　のーてんきに行こう
+Dialogue: 0,0:23:38.23,0:23:46.19,SongED1,ED1!Lyric12,0,0,0,,未来も　てなもんさ　あしたが　ほら
+Dialogue: 0,0:23:46.44,0:23:52.03,SongED1,ED1!Lyric13,0,0,0,,両手ひろげて　笑ってるぜ
 Dialogue: 0,0:24:05.98,0:24:08.25,Default,ko,0,0,0,,스승, 좋은 울림을 가진 단어이오.
 Dialogue: 0,0:24:05.98,0:24:08.25,Default,en,0,0,0,,Master. A word with good echo-{\i1}dasu{\i0}.
 Dialogue: 0,0:24:08.52,0:24:10.87,Default,ko,0,0,0,,결국엔 나도 제자를 가지게 되었소!

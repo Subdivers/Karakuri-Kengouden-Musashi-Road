@@ -790,32 +790,19 @@ Dialogue: 0,0:22:16.18,0:22:19.63,Default,en,0,0,0,,But Musashi got a new proble
 Comment: 0,0:22:19.94,0:22:22.88,Default,ja,0,0,0,,それは、焼きもち焼きのオツルであった。
 Dialogue: 0,0:22:19.94,0:22:22.88,Default,ko,0,0,0,,그건 질투가 강한 오츠루였다.
 Dialogue: 0,0:22:19.94,0:22:22.88,Default,en,0,0,0,,That was Otsuru who is very jealous.
-Dialogue: 0,0:22:42.16,0:22:44.20,SongED1,ko,0,0,0,,허공의 주머니에 달이
-Dialogue: 0,0:22:42.16,0:22:44.20,SongED1,en,0,0,0,,Sometimes the moon jumps over
-Dialogue: 0,0:22:44.91,0:22:47.45,SongED1,ko,0,0,0,,뛰어넘어가는 일도 있어
-Dialogue: 0,0:22:44.91,0:22:47.45,SongED1,en,0,0,0,,the pocket of empty sky
-Dialogue: 0,0:22:47.66,0:22:49.83,SongED1,ko,0,0,0,,큰 소리로 웃으면
-Dialogue: 0,0:22:47.66,0:22:49.83,SongED1,en,0,0,0,,Laugh loudly and
-Dialogue: 0,0:22:50.46,0:22:52.46,SongED1,ko,0,0,0,,내일에는 아침이 와
-Dialogue: 0,0:22:50.46,0:22:52.46,SongED1,en,0,0,0,,morning will come tomorrow
-Dialogue: 0,0:22:53.21,0:22:57.80,SongED1,ko,0,0,0,,잃는 것 따위는 아무것도 아니야
-Dialogue: 0,0:22:53.21,0:22:57.80,SongED1,en,0,0,0,,Don't worry too much about losing
-Dialogue: 0,0:22:58.80,0:23:01.38,SongED1,ko,0,0,0,,계속 해나가! 앞으로 가!
-Dialogue: 0,0:22:58.80,0:23:01.38,SongED1,en,0,0,0,,Keep going! Go for it!
-Dialogue: 0,0:23:01.38,0:23:03.80,SongED1,ko,0,0,0,,맨손은 강해
-Dialogue: 0,0:23:01.38,0:23:03.80,SongED1,en,0,0,0,,A bare hand is strong
-Dialogue: 0,0:23:04.22,0:23:13.89,SongED1,ko,0,0,0,,그런 거야! 가볍게 가자
-Dialogue: 0,0:23:04.22,0:23:13.89,SongED1,en,0,0,0,,That's how it is! Let's go lightly
-Dialogue: 0,0:23:14.35,0:23:21.94,SongED1,ko,0,0,0,,인생 그런 거야! 기회가 어라,
-Dialogue: 0,0:23:14.35,0:23:21.94,SongED1,en,0,0,0,,That's how life is! Look, a chance
-Dialogue: 0,0:23:22.40,0:23:26.66,SongED1,ko,0,0,0,,꼬리를 흔들며 쫒아와!
-Dialogue: 0,0:23:22.40,0:23:26.66,SongED1,en,0,0,0,,follows us wagging its tail!
-Dialogue: 0,0:23:28.08,0:23:37.59,SongED1,ko,0,0,0,,그런 거야! 가볍게 가자
-Dialogue: 0,0:23:28.08,0:23:37.59,SongED1,en,0,0,0,,That's how it is! Let's go lightly
-Dialogue: 0,0:23:38.09,0:23:46.05,SongED1,ko,0,0,0,,미래도 그런 거야! 내일이 어라,
-Dialogue: 0,0:23:38.09,0:23:46.05,SongED1,en,0,0,0,,That's how the future is, too! Look, tomorrow
-Dialogue: 0,0:23:46.30,0:23:51.89,SongED1,ko,0,0,0,,양손을 벌리고 웃고 있어!
-Dialogue: 0,0:23:46.30,0:23:51.89,SongED1,en,0,0,0,,is opening its hands and smiling at us!
+Dialogue: 0,0:22:42.16,0:22:44.20,SongED1,ED1!Lyric01,0,0,0,,カラのポケットに　ツキが
+Dialogue: 0,0:22:44.91,0:22:47.45,SongED1,ED1!Lyric02,0,0,0,,飛び込むことも　あるさ
+Dialogue: 0,0:22:47.66,0:22:49.83,SongED1,ED1!Lyric03,0,0,0,,おっきな声で　笑えば
+Dialogue: 0,0:22:50.46,0:22:52.46,SongED1,ED1!Lyric04,0,0,0,,あしたには　朝が来る
+Dialogue: 0,0:22:53.21,0:22:57.80,SongED1,ED1!Lyric05,0,0,0,,無くすものなんか　何もないさ
+Dialogue: 0,0:22:58.80,0:23:01.38,SongED1,ED1!Lyric06,0,0,0,,やっちゃえ！イケイケ！
+Dialogue: 0,0:23:01.38,0:23:03.80,SongED1,ED1!Lyric07,0,0,0,,手ぶらは　強いぜ
+Dialogue: 0,0:23:04.22,0:23:13.89,SongED1,ED1!Lyric08,0,0,0,,てなもんだ　のーてんきに行こう
+Dialogue: 0,0:23:14.35,0:23:21.94,SongED1,ED1!Lyric09,0,0,0,,人生　てなもんさ　チャンスが　ほら
+Dialogue: 0,0:23:22.40,0:23:26.66,SongED1,ED1!Lyric10,0,0,0,,しっぽを振って　追ってくるぜ
+Dialogue: 0,0:23:28.08,0:23:37.59,SongED1,ED1!Lyric11,0,0,0,,てなもんだ　のーてんきに行こう
+Dialogue: 0,0:23:38.09,0:23:46.05,SongED1,ED1!Lyric12,0,0,0,,未来も　てなもんさ　あしたが　ほら
+Dialogue: 0,0:23:46.30,0:23:51.89,SongED1,ED1!Lyric13,0,0,0,,両手ひろげて　笑ってるぜ
 Comment: 0,0:24:04.21,0:24:11.14,Default,ja,0,0,0,,なかなか彼氏の見つかれなかったじゃじゃ馬姫のおせんちゃんが、なんと、二枚目の国王殿下を救うになってしまっただす。
 Dialogue: 0,0:24:04.21,0:24:11.14,Default,ko,0,0,0,,꽤나 남자친구를 찾지 못한 난폭한 말과 같은 센짱이, 무슨, 미남인 국왕 전하를 구하게 되고 말았소.
 Dialogue: 0,0:24:04.21,0:24:07.74,Default,en,0,0,0,,That unmanageable person Sen-chan's going to rescue the Highness who's really handsome,

@@ -578,32 +578,19 @@ Dialogue: 0,0:22:15.20,0:22:20.37,Default,en,0,0,0,,When he thought he became th
 Comment: 0,0:22:21.09,0:22:26.33,Default,ja,0,0,0,,しかし、くじけるな、ムサシ！明るい明日が待っている！
 Dialogue: 0,0:22:21.09,0:22:26.33,Default,ko,0,0,0,,그러나 기죽지 마라, 무사시! 밝은 내일이 기다린다!
 Dialogue: 0,0:22:21.09,0:22:26.33,Default,en,0,0,0,,But don't be discouraged, Musashi! A bright tomorrow is waiting for you!
-Dialogue: 0,0:22:41.81,0:22:43.85,SongED1,ko,0,0,0,,허공의 주머니에 달이
-Dialogue: 0,0:22:41.81,0:22:43.85,SongED1,en,0,0,0,,Sometimes the moon jumps over
-Dialogue: 0,0:22:44.56,0:22:47.10,SongED1,ko,0,0,0,,뛰어넘어가는 일도 있어
-Dialogue: 0,0:22:44.56,0:22:47.10,SongED1,en,0,0,0,,the pocket of empty sky
-Dialogue: 0,0:22:47.31,0:22:49.48,SongED1,ko,0,0,0,,큰 소리로 웃으면
-Dialogue: 0,0:22:47.31,0:22:49.48,SongED1,en,0,0,0,,Laugh loudly and
-Dialogue: 0,0:22:50.11,0:22:52.11,SongED1,ko,0,0,0,,내일에는 아침이 와
-Dialogue: 0,0:22:50.11,0:22:52.11,SongED1,en,0,0,0,,morning will come tomorrow
-Dialogue: 0,0:22:52.86,0:22:57.45,SongED1,ko,0,0,0,,잃는 것 따위는 아무것도 아니야
-Dialogue: 0,0:22:52.86,0:22:57.45,SongED1,en,0,0,0,,Don't worry too much about losing
-Dialogue: 0,0:22:58.45,0:23:01.03,SongED1,ko,0,0,0,,계속 해나가! 앞으로 가!
-Dialogue: 0,0:22:58.45,0:23:01.03,SongED1,en,0,0,0,,Keep going! Go for it!
-Dialogue: 0,0:23:01.03,0:23:03.45,SongED1,ko,0,0,0,,맨손은 강해
-Dialogue: 0,0:23:01.03,0:23:03.45,SongED1,en,0,0,0,,A bare hand is strong
-Dialogue: 0,0:23:03.87,0:23:13.54,SongED1,ko,0,0,0,,그런 거야! 가볍게 가자
-Dialogue: 0,0:23:03.87,0:23:13.54,SongED1,en,0,0,0,,That's how it is! Let's go lightly
-Dialogue: 0,0:23:14.00,0:23:21.59,SongED1,ko,0,0,0,,인생 그런 거야! 기회가 어라,
-Dialogue: 0,0:23:14.00,0:23:21.59,SongED1,en,0,0,0,,That's how life is! Look, a chance
-Dialogue: 0,0:23:22.05,0:23:26.31,SongED1,ko,0,0,0,,꼬리를 흔들며 쫒아와!
-Dialogue: 0,0:23:22.05,0:23:26.31,SongED1,en,0,0,0,,follows us wagging its tail!
-Dialogue: 0,0:23:27.73,0:23:37.24,SongED1,ko,0,0,0,,그런 거야! 가볍게 가자
-Dialogue: 0,0:23:27.73,0:23:37.24,SongED1,en,0,0,0,,That's how it is! Let's go lightly
-Dialogue: 0,0:23:37.74,0:23:45.70,SongED1,ko,0,0,0,,미래도 그런 거야! 내일이 어라,
-Dialogue: 0,0:23:37.74,0:23:45.70,SongED1,en,0,0,0,,That's how the future is, too! Look, tomorrow
-Dialogue: 0,0:23:45.95,0:23:51.54,SongED1,ko,0,0,0,,양손을 벌리고 웃고 있어!
-Dialogue: 0,0:23:45.95,0:23:51.54,SongED1,en,0,0,0,,is opening its hands and smiling at us!
+Dialogue: 0,0:22:41.81,0:22:43.85,SongED1,ED1!Lyric01,0,0,0,,カラのポケットに　ツキが
+Dialogue: 0,0:22:44.56,0:22:47.10,SongED1,ED1!Lyric02,0,0,0,,飛び込むことも　あるさ
+Dialogue: 0,0:22:47.31,0:22:49.48,SongED1,ED1!Lyric03,0,0,0,,おっきな声で　笑えば
+Dialogue: 0,0:22:50.11,0:22:52.11,SongED1,ED1!Lyric04,0,0,0,,あしたには　朝が来る
+Dialogue: 0,0:22:52.86,0:22:57.45,SongED1,ED1!Lyric05,0,0,0,,無くすものなんか　何もないさ
+Dialogue: 0,0:22:58.45,0:23:01.03,SongED1,ED1!Lyric06,0,0,0,,やっちゃえ！イケイケ！
+Dialogue: 0,0:23:01.03,0:23:03.45,SongED1,ED1!Lyric07,0,0,0,,手ぶらは　強いぜ
+Dialogue: 0,0:23:03.87,0:23:13.54,SongED1,ED1!Lyric08,0,0,0,,てなもんだ　のーてんきに行こう
+Dialogue: 0,0:23:14.00,0:23:21.59,SongED1,ED1!Lyric09,0,0,0,,人生　てなもんさ　チャンスが　ほら
+Dialogue: 0,0:23:22.05,0:23:26.31,SongED1,ED1!Lyric10,0,0,0,,しっぽを振って　追ってくるぜ
+Dialogue: 0,0:23:27.73,0:23:37.24,SongED1,ED1!Lyric11,0,0,0,,てなもんだ　のーてんきに行こう
+Dialogue: 0,0:23:37.74,0:23:45.70,SongED1,ED1!Lyric12,0,0,0,,未来も　てなもんさ　あしたが　ほら
+Dialogue: 0,0:23:45.95,0:23:51.54,SongED1,ED1!Lyric13,0,0,0,,両手ひろげて　笑ってるぜ
 Comment: 0,0:24:04.46,0:24:06.85,Default,ja,0,0,0,,さあ、帰ってきただす、エドトピア！
 Dialogue: 0,0:24:04.46,0:24:06.85,Default,ko,0,0,0,,자, 돌아왔소, 에도토피아!
 Dialogue: 0,0:24:04.46,0:24:06.85,Default,en,0,0,0,,We're finally back at Edotopia-{\i1}dasu{\i0}!
