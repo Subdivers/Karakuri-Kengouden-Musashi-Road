@@ -75,6 +75,7 @@ Comment: 0,0:02:14.60,0:02:17.85,Default,ja,0,0,0,,男ムサシの宿命の道�
 Dialogue: 0,0:02:14.60,0:02:17.85,Default,ko,0,0,0,,사내 무사시의 숙명의 길은 어느 방향인가?
 Dialogue: 0,0:02:14.60,0:02:17.85,Default,en,0,0,0,,Which way is Musashi's road of fate?
 Comment: 0,0:02:17.87,0:02:22.87,TitleEP,ja,0,0,0,,ムサシ、夢の百番勝負だス
+Comment: 0,0:02:17.87,0:02:22.87,TitleEP,ja,0,0,90,,
 Dialogue: 0,0:02:17.87,0:02:22.87,TitleEP,ko,0,0,90,,무사시, 꿈의 백번승부
 Dialogue: 0,0:02:17.87,0:02:22.87,TitleEP,en,0,0,230,,Hundred Matches
 Dialogue: 0,0:02:17.87,0:02:22.87,TitleEP,en,0,0,90,,in Musashi's Dream
@@ -838,6 +839,7 @@ Comment: 0,0:24:23.71,0:24:26.06,Default,ja,0,0,0,,疾風怒濤の旅立ちだ�
 Dialogue: 0,0:24:23.71,0:24:26.06,Default,ko,0,0,0,,질풍노도의 여행이오!
 Dialogue: 0,0:24:23.71,0:24:26.06,Default,en,0,0,0,,It'll be a stormy journey-{\i1}dasu{\i0}!
 Dialogue: 0,0:24:26.06,0:24:30.03,NoteOnAnime,ko,60,0,60,,{\an7}다음 이야기
+Comment: 0,0:24:26.06,0:24:30.03,TitleEP,ja,0,0,70,,
 Dialogue: 0,0:24:26.06,0:24:30.03,TitleEP,ko,0,0,70,,거대 두꺼비 요술 지라이얀
 Dialogue: 0,0:24:26.06,0:24:30.03,NoteOnAnime,ko,0,60,30,,{\an3\fs32}기대하세요!
 Dialogue: 0,0:24:26.06,0:24:30.03,NoteOnAnime,en,60,0,60,,{\an7}Next Episode

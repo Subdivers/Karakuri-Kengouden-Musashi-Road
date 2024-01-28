@@ -77,6 +77,7 @@ Dialogue: 0,0:02:21.67,0:02:24.39,Default,en,0,0,0,,They will be rewarded with f
 Comment: 0,0:02:25.13,0:02:29.58,Default,ja,0,0,0,,今、浮雲のジパング国に愛と友情の魂が炸裂する。
 Dialogue: 0,0:02:25.13,0:02:29.58,Default,ko,0,0,0,,이 뜬구름과 같은 지팡구국에 사랑과 우정의 혼이 작렬한다.
 Dialogue: 0,0:02:25.13,0:02:29.58,Default,en,0,0,0,,In this unstable Jipangu state, spirits of love and friendship burst.
+Comment: 0,0:02:30.58,0:02:35.59,TitleEP,ja,0,0,80,,
 Dialogue: 0,0:02:30.58,0:02:35.59,TitleEP,ko,0,0,80,,대모험의 길로 떠나오!
 Dialogue: 0,0:02:30.58,0:02:35.59,TitleEP,en,0,0,80,,To the Road of Adventure-{\i1}dasu{\i0}!
 Comment: 0,0:02:38.02,0:02:47.09,Default,ja,0,0,0,,
@@ -804,6 +805,7 @@ Comment: 0,0:24:24.50,0:24:25.74,Default,ja,0,0,0,,
 Dialogue: 0,0:24:24.50,0:24:25.74,Default,ko,0,0,0,,꼭 봐야 하오!
 Dialogue: 0,0:24:24.50,0:24:25.74,Default,en,0,0,0,,Don't miss it-{\i1}dasu{\i0}!
 Dialogue: 0,0:24:26.48,0:24:30.48,NoteOnAnime,ko,60,0,60,,{\an7}다음 이야기
+Comment: 0,0:24:26.48,0:24:30.48,TitleEP,ja,0,0,70,,
 Dialogue: 0,0:24:26.48,0:24:30.48,TitleEP,ko,0,0,70,,눈물의 수행은 배가 고프오
 Dialogue: 0,0:24:26.48,0:24:30.48,NoteOnAnime,ko,0,60,30,,{\an3\fs32}기대하세요!
 Dialogue: 0,0:24:26.48,0:24:30.48,NoteOnAnime,en,60,0,60,,{\an7}Next Episode

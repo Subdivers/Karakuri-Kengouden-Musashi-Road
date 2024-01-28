@@ -68,7 +68,9 @@ Comment: 0,0:02:11.71,0:02:17.63,Default,ja,0,0,0,,楽しい一夜を過ごす�
 Dialogue: 0,0:02:11.71,0:02:17.63,Default,ko,0,0,0,,즐거운 밤을 보낸 무사시였지만 결국엔 너구리에게 속았을 뿐이었다.
 Dialogue: 0,0:02:11.71,0:02:17.63,Default,en,0,0,0,,Musashi spent a fun night, but he was simply fooled by some raccoons.
 Comment: 0,0:02:18.03,0:02:23.03,TitleEP,ja,0,0,0,,出たあ　ナゾの六道魔王ダス
+Comment: 0,0:02:18.03,0:02:23.03,TitleEP,ja,0,0,200,,
 Dialogue: 0,0:02:18.03,0:02:23.03,TitleEP,ko,0,0,200,,나왔다 수수께끼의
+Comment: 0,0:02:18.03,0:02:23.03,TitleEP,ja,0,0,60,,
 Dialogue: 0,0:02:18.03,0:02:23.03,TitleEP,ko,0,0,60,,육도마왕이오
 Dialogue: 0,0:02:18.03,0:02:23.03,TitleEP,en,0,0,200,,He Appeared!
 Dialogue: 0,0:02:18.03,0:02:23.03,TitleEP,en,0,0,60,,Mysterious Rikudomaoh
@@ -842,7 +844,9 @@ Comment: 0,0:24:24.26,0:24:27.11,Default,ja,0,0,0,,疾風怒濤の合体城だ�
 Dialogue: 0,0:24:24.26,0:24:27.11,Default,ko,0,0,0,,질풍노도의 합체성이오!
 Dialogue: 0,0:24:24.26,0:24:27.11,Default,en,0,0,0,,It's the stormy Fusion Castle-{\i1}dasu{\i0}!
 Dialogue: 0,0:24:26.11,0:24:30.15,NoteOnAnime,ko,60,0,60,,{\an7}다음 이야기
+Comment: 0,0:24:26.11,0:24:30.15,TitleEP,ja,0,0,220,,
 Dialogue: 0,0:24:26.11,0:24:30.15,TitleEP,ko,0,0,220,,괴물!
+Comment: 0,0:24:26.11,0:24:30.15,TitleEP,ja,0,0,80,,
 Dialogue: 0,0:24:26.11,0:24:30.15,TitleEP,ko,0,0,80,,메가톤성이오
 Dialogue: 0,0:24:26.11,0:24:30.15,NoteOnAnime,ko,0,60,30,,{\an3\fs32}기대하세요!
 Dialogue: 0,0:24:26.11,0:24:30.15,NoteOnAnime,en,60,0,60,,{\an7}Next Episode

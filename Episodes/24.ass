@@ -62,7 +62,9 @@ Comment: 0,0:02:08.22,0:02:17.18,Default,ja,0,0,0,,そして、バイケン兄�
 Dialogue: 0,0:02:08.22,0:02:17.18,Default,ko,0,0,0,,그리고 바이켄 형제와 함께 포장마차를 끌고, 겐운사이가 거느리던 이하 닌자군과 싸워, 그들을 쓰러뜨렸다.
 Dialogue: 0,0:02:08.22,0:02:17.18,Default,en,0,0,0,,With Baiken brothers, they pulled the covered wagon, fought with Iga Ninja Forces under Gen'unsai, and took them down.
 Comment: 0,0:02:18.23,0:02:23.23,Default,ja,0,0,0,,バキャー！カラクリ砦だす
+Comment: 0,0:02:18.23,0:02:23.23,TitleEP,ja,0,0,240,,
 Dialogue: 0,0:02:18.23,0:02:23.23,TitleEP,ko,0,0,240,,쿠콰쾅!
+Comment: 0,0:02:18.23,0:02:23.23,TitleEP,ja,0,0,90,,
 Dialogue: 0,0:02:18.23,0:02:23.23,TitleEP,ko,0,0,90,,카라쿠리 성채이오
 Dialogue: 0,0:02:18.23,0:02:23.23,TitleEP,en,0,0,240,,Kaboom!
 Dialogue: 0,0:02:18.23,0:02:23.23,TitleEP,en,0,0,90,,Karakuri Stronghold
@@ -824,7 +826,9 @@ Comment: 0,0:24:23.98,0:24:26.84,Default,ja,0,0,0,,疾風怒濤のからくり�
 Dialogue: 0,0:24:23.98,0:24:26.84,Default,ko,0,0,0,,질풍노도의 카라쿠리 요새이오!
 Dialogue: 0,0:24:23.98,0:24:26.84,Default,en,0,0,0,,It's a stormy Karakuri Stronghold-{\i1}dasu{\i0}!
 Dialogue: 0,0:24:26.84,0:24:30.85,NoteOnAnime,ko,60,0,60,,{\an7}다음 이야기
+Comment: 0,0:24:26.84,0:24:30.85,TitleEP,ja,0,0,225,,
 Dialogue: 0,0:24:26.84,0:24:30.85,TitleEP,ko,0,0,225,,얼음도 녹이는
+Comment: 0,0:24:26.84,0:24:30.85,TitleEP,ja,0,0,85,,
 Dialogue: 0,0:24:26.84,0:24:30.85,TitleEP,ko,0,0,85,,우정 파워이오
 Dialogue: 0,0:24:26.84,0:24:30.85,NoteOnAnime,ko,0,60,30,,{\an3\fs32}기대하세요!
 Dialogue: 0,0:24:26.84,0:24:30.85,NoteOnAnime,en,60,0,60,,{\an7}Next Episode

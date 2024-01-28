@@ -62,7 +62,9 @@ Comment: 0,0:02:09.72,0:02:17.50,Default,ja,0,0,0,,だが、コジローは伝�
 Dialogue: 0,0:02:09.72,0:02:17.50,Default,ko,0,0,0,,그렇지만 코지로는 전설의 비검, 봉황환을 손에 넣어 그 대단한 힘으로 이카즈치를 쓰러트렸다.
 Dialogue: 0,0:02:09.72,0:02:17.50,Default,en,0,0,0,,But Kojirō obtained the legendary secret sword, Hououmaru, and used its great power to take down Ikazuchi.
 Comment: 0,0:02:18.18,0:02:23.19,TitleEP,ja,0,0,0,,あり？！ムサシは死んだだス
+Comment: 0,0:02:18.18,0:02:23.19,TitleEP,ja,0,0,240,,
 Dialogue: 0,0:02:18.18,0:02:23.19,TitleEP,ko,0,0,240,,어라?!
+Comment: 0,0:02:18.18,0:02:23.19,TitleEP,ja,0,0,95,,
 Dialogue: 0,0:02:18.18,0:02:23.19,TitleEP,ko,0,0,95,,무사시는 죽소
 Dialogue: 0,0:02:18.18,0:02:23.19,TitleEP,en,0,0,240,,What?!
 Dialogue: 0,0:02:18.18,0:02:23.19,TitleEP,en,0,0,95,,Musashi Dies
@@ -826,7 +828,9 @@ Comment: 0,0:24:23.33,0:24:26.04,Default,ja,0,0,0,,疾風怒濤の大霊界だ�
 Dialogue: 0,0:24:23.33,0:24:26.04,Default,ko,0,0,0,,질풍노도의 대영계이오!
 Dialogue: 0,0:24:23.33,0:24:26.04,Default,en,0,0,0,,It's a stormy great spiritual world-{\i1}dasu{\i0}!
 Dialogue: 0,0:24:25.86,0:24:29.80,NoteOnAnime,ko,60,0,60,,{\an7}다음 이야기
+Comment: 0,0:24:25.86,0:24:30.86,TitleEP,ja,0,0,225,,
 Dialogue: 0,0:24:25.86,0:24:30.86,TitleEP,ko,0,0,225,,역시 불사신
+Comment: 0,0:24:25.86,0:24:30.86,TitleEP,ja,0,0,110,,
 Dialogue: 0,0:24:25.86,0:24:30.86,TitleEP,ko,0,0,110,,무사시이오
 Dialogue: 0,0:24:25.86,0:24:30.86,NoteOnAnime,ko,0,60,30,,{\an3\fs32}기대하세요!
 Dialogue: 0,0:24:25.86,0:24:30.86,NoteOnAnime,en,60,0,60,,{\an7}Next Episode

@@ -62,7 +62,9 @@ Comment: 0,0:02:10.49,0:02:17.05,Default,ja,0,0,0,,迎え撃つムサシ達。�
 Dialogue: 0,0:02:10.49,0:02:17.05,Default,ko,0,0,0,,맞받아친 무사시 일행. 그러나 합체한 신겐신의 힘 앞에서 고전을 면치 못한다.
 Dialogue: 0,0:02:10.49,0:02:17.05,Default,en,0,0,0,,Musashi and others attacked in return, but they ended up having a hard fight between the combined Shingenshin.
 Comment: 0,0:02:18.24,0:02:23.25,TitleEP,ja,0,0,0,,あで姿　からくり変化だス
+Comment: 0,0:02:18.24,0:02:23.25,TitleEP,ja,0,0,200,,
 Dialogue: 0,0:02:18.24,0:02:23.25,TitleEP,ko,0,0,200,,요염한 모습
+Comment: 0,0:02:18.24,0:02:23.25,TitleEP,ja,0,0,75,,
 Dialogue: 0,0:02:18.24,0:02:23.25,TitleEP,ko,0,0,75,,카라쿠리 변화이오
 Dialogue: 0,0:02:18.24,0:02:23.25,TitleEP,en,0,0,200,,Charming Outlook
 Dialogue: 0,0:02:18.24,0:02:23.25,TitleEP,en,0,0,75,,Karakuri Shift
@@ -770,7 +772,9 @@ Comment: 0,0:24:24.71,0:24:27.44,Default,ja,0,0,0,,疾風怒濤の潜水艦ダ�
 Dialogue: 0,0:24:24.71,0:24:27.44,Default,ko,0,0,0,,질풍노도의 잠수함이오!
 Dialogue: 0,0:24:24.71,0:24:27.44,Default,en,0,0,0,,It's a stormy submarine-dasu!
 Dialogue: 0,0:24:26.86,0:24:31.62,NoteOnAnime,ko,60,0,60,,{\an7}다음 이야기
+Comment: 0,0:24:26.86,0:24:31.62,TitleEP,ja,0,0,220,,
 Dialogue: 0,0:24:26.86,0:24:31.62,TitleEP,ko,0,0,220,,파도타는 겐나이
+Comment: 0,0:24:26.86,0:24:31.62,TitleEP,ja,0,0,80,,
 Dialogue: 0,0:24:26.86,0:24:31.62,TitleEP,ko,0,0,80,,발명왕이오
 Dialogue: 0,0:24:26.86,0:24:31.62,NoteOnAnime,ko,0,60,30,,{\an3\fs32}기대하세요!
 Dialogue: 0,0:24:26.86,0:24:31.62,NoteOnAnime,en,60,0,60,,{\an7}Next Episode

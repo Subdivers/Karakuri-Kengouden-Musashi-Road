@@ -67,6 +67,7 @@ Dialogue: 0,0:02:11.25,0:02:17.81,Default,ko,0,0,0,,그러나 그 전투 중에�
 Dialogue: 0,0:02:11.25,0:02:17.81,Default,en,0,0,0,,But during that fight, Musashi finally opened his eyes towards Nitenichiryu.
 Comment: 0,0:02:18.09,0:02:23.14,Default,ja,0,0,0,,鵺の鳴く夜は怖いダス
 Dialogue: 0,0:02:18.09,0:02:23.14,Note,en,0,0,0,,(I am unsure with some proper nouns used in this episode, so they might be wrong)
+Comment: 0,0:02:18.09,0:02:23.14,TitleEP,ja,0,0,100,,
 Dialogue: 0,0:02:18.09,0:02:23.14,TitleEP,ko,0,0,100,,누에가 우는 밤은 무섭소
 Dialogue: 0,0:02:18.09,0:02:23.14,TitleEP,en,0,0,225,,The Night that
 Dialogue: 0,0:02:18.09,0:02:23.14,TitleEP,en,0,0,90,,Nue Cries is Scary
@@ -770,6 +771,7 @@ Comment: 0,0:24:23.10,0:24:26.70,Default,ja,0,0,0,,疾風怒濤のせんぽう�
 Dialogue: 0,0:24:23.10,0:24:26.70,Default,ko,0,0,0,,질풍노도의 선공권이오!
 Dialogue: 0,0:24:23.10,0:24:26.70,Default,en,0,0,0,,It's a stormy Senpūken-{\i1}dasu{\i0}!
 Dialogue: 0,0:24:26.42,0:24:30.38,NoteOnAnime,ko,60,0,60,,{\an7}다음 이야기
+Comment: 0,0:24:26.42,0:24:30.38,TitleEP,ja,0,0,100,,
 Dialogue: 0,0:24:26.42,0:24:30.38,TitleEP,ko,0,0,100,,슈텐, 대폭발이오
 Dialogue: 0,0:24:26.42,0:24:30.38,NoteOnAnime,ko,0,60,30,,{\an3\fs32}기대하세요!
 Dialogue: 0,0:24:26.42,0:24:30.38,NoteOnAnime,en,60,0,60,,{\an7}Next Episode

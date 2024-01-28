@@ -72,6 +72,7 @@ Dialogue: 0,0:02:21.30,0:02:27.52,Default,en,0,0,0,,After an intense fight, they
 Comment: 0,0:02:28.16,0:02:33.17,Default,ja,0,0,0,,北海ウエスタンの死闘だす
 Comment: 0,0:02:28.16,0:02:33.17,Default,ko,0,0,0,,홋카이웨스턴의 사투이오
 Comment: 0,0:02:28.16,0:02:33.17,Default,en,0,0,0,,Desperate Struggle in Hokkai-Western
+Comment: 0,0:02:28.16,0:02:33.17,TitleEP,ja,0,0,205,,
 Dialogue: 0,0:02:28.16,0:02:33.17,TitleEP,ko,0,0,205,,홋카이웨스턴의 사투이오
 Dialogue: 0,0:02:28.16,0:02:33.17,TitleEP,en,0,0,210,,Desperate Struggle
 Dialogue: 0,0:02:28.16,0:02:33.17,TitleEP,en,0,0,80,,in Hokkai-Western
@@ -767,7 +768,9 @@ Dialogue: 0,0:24:23.97,0:24:27.02,Default,ko,0,0,0,,질풍노도의 큰 눈보�
 Dialogue: 0,0:24:23.97,0:24:27.02,Default,en,0,0,0,,A stormy big snowstorm is waiting for us-{\i1}dasu{\i0}!
 Comment: 0,0:24:27.02,0:24:30.99,Default,ja,0,0,0,,
 Dialogue: 0,0:24:27.02,0:24:30.99,NoteOnAnime,ko,60,0,60,,{\an7}다음 이야기
-Dialogue: 0,0:24:27.02,0:24:30.99,TitleEP,ko,0,0,225,,쿠콰쾅! 
+Comment: 0,0:24:27.02,0:24:30.99,TitleEP,ja,0,0,225,,
+Dialogue: 0,0:24:27.02,0:24:30.99,TitleEP,ko,0,0,225,,쿠콰쾅!
+Comment: 0,0:24:27.02,0:24:30.99,TitleEP,ja,0,0,85,,
 Dialogue: 0,0:24:27.02,0:24:30.99,TitleEP,ko,0,0,85,,카라쿠리 성채이오
 Dialogue: 0,0:24:27.02,0:24:30.99,NoteOnAnime,ko,0,60,30,,{\an3\fs32}기대하세요!
 Dialogue: 0,0:24:27.02,0:24:30.99,NoteOnAnime,en,60,0,60,,{\an7}Next Episode

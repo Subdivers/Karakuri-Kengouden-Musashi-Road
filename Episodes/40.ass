@@ -68,7 +68,9 @@ Comment: 0,0:02:17.73,0:02:22.25,Default,ja,0,0,0,,からくり武芸者の友�
 Dialogue: 0,0:02:17.73,0:02:22.25,Default,ko,0,0,0,,카라쿠리 무예가의 우정 파워로 이걸 물리쳤다.
 Dialogue: 0,0:02:17.73,0:02:22.25,Default,en,0,0,0,,But they managed to defeat this, by the friendship power of Karakuri martial artists.
 Comment: 0,0:02:22.70,0:02:27.71,TitleEP,ja,0,0,0,,センヒメの愛は勝つだス
+Comment: 0,0:02:22.70,0:02:27.71,TitleEP,ja,0,0,195,,
 Dialogue: 0,0:02:22.70,0:02:27.71,TitleEP,ko,0,0,195,,센히메의 사랑은
+Comment: 0,0:02:22.70,0:02:27.71,TitleEP,ja,0,0,60,,
 Dialogue: 0,0:02:22.70,0:02:27.71,TitleEP,ko,0,0,60,,이기오
 Dialogue: 0,0:02:22.70,0:02:27.71,TitleEP,en,0,0,195,,Senhime's Love
 Dialogue: 0,0:02:22.70,0:02:27.71,TitleEP,en,0,0,60,,Wins
@@ -976,7 +978,9 @@ Dialogue: 0,0:24:23.49,0:24:25.90,Note,en,0,0,0,,(Kegon Falls: Tourist attractio
 Dialogue: 0,0:24:23.49,0:24:26.61,Default,ko,0,0,0,,질풍노도의 게곤 폭포이오!
 Dialogue: 0,0:24:23.49,0:24:26.61,Default,en,0,0,0,,It's the stormy Kegon Falls-dasu!
 Dialogue: 0,0:24:25.90,0:24:29.98,NoteOnAnime,ko,60,0,60,,{\an7}다음 이야기
+Comment: 0,0:24:25.90,0:24:29.98,TitleEP,ja,0,0,220,,
 Dialogue: 0,0:24:25.90,0:24:29.98,TitleEP,ko,0,0,220,,닛코 계획
+Comment: 0,0:24:25.90,0:24:29.98,TitleEP,ja,0,0,80,,
 Dialogue: 0,0:24:25.90,0:24:29.98,TitleEP,ko,0,0,80,,신겐이오
 Dialogue: 0,0:24:25.90,0:24:29.98,NoteOnAnime,ko,0,60,30,,{\an3\fs32}기대하세요!
 Dialogue: 0,0:24:25.90,0:24:29.98,NoteOnAnime,en,60,0,60,,{\an7}Next Episode

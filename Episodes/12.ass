@@ -68,6 +68,7 @@ Comment: 0,0:02:10.81,0:02:17.64,Default,ja,0,0,0,,しかし、正体が暴れ�
 Dialogue: 0,0:02:10.81,0:02:17.64,Default,ko,0,0,0,,그러나 정체가 밝혀져 관리들에게 쫓겨 사찰의 마루 밑에 도망쳐야 했다.
 Dialogue: 0,0:02:10.81,0:02:17.64,Default,en,0,0,0,,But his true identity was revealed, and he had to run away and hide under a floor as he was chased by officials.
 Comment: 0,0:02:18.27,0:02:23.27,TitleEP,ja,0,0,80,,センヒメ助けて勝負ダス
+Comment: 0,0:02:18.27,0:02:23.27,TitleEP,ja,0,0,80,,
 Dialogue: 0,0:02:18.27,0:02:23.27,TitleEP,ko,0,0,80,,센히메를 구하고 승부이오
 Dialogue: 0,0:02:18.27,0:02:23.27,TitleEP,en,0,0,230,,Rescue Senhime
 Dialogue: 0,0:02:18.27,0:02:23.27,TitleEP,en,0,0,90,,And Have a Match
@@ -829,6 +830,7 @@ Comment: 0,0:24:23.66,0:24:26.68,Default,ja,0,0,0,,疾風怒濤のどんでん�
 Dialogue: 0,0:24:23.66,0:24:26.68,Default,ko,0,0,0,,질풍노도의 역전을 보시오!
 Dialogue: 0,0:24:23.66,0:24:26.68,Default,en,0,0,0,,Watch the unexpected twist-{\i1}dasu{\i0}!
 Dialogue: 0,0:24:27.19,0:24:31.19,NoteOnAnime,ko,60,0,60,,{\an7}다음 이야기
+Comment: 0,0:24:27.19,0:24:31.19,TitleEP,ja,0,0,70,,
 Dialogue: 0,0:24:27.19,0:24:31.19,TitleEP,ko,0,0,70,,카라쿠리 검호 총출격
 Dialogue: 0,0:24:27.19,0:24:31.19,NoteOnAnime,ko,0,60,30,,{\an3\fs32}기대하세요!
 Dialogue: 0,0:24:27.19,0:24:31.19,NoteOnAnime,en,60,0,60,,{\an7}Next Episode

@@ -70,6 +70,7 @@ Dialogue: 0,0:02:09.29,0:02:13.10,Default,en,0,0,0,,but he was late and Edo Cast
 Comment: 0,0:02:13.10,0:02:18.20,Default,ja,0,0,0,,ムサシはさて、武芸大会に出場することができるのだろうか。
 Dialogue: 0,0:02:13.10,0:02:18.20,Default,ko,0,0,0,,무사시는 과연 무예 대회에 출전할 수 있을 것인가?
 Dialogue: 0,0:02:13.10,0:02:18.20,Default,en,0,0,0,,Will Musashi be able to participate in the martial arts competition?
+Comment: 0,0:02:18.20,0:02:23.20,TitleEP,ja,0,0,70,,
 Dialogue: 0,0:02:18.20,0:02:23.20,TitleEP,ko,0,0,70,,난입! 무예대회
 Dialogue: 0,0:02:18.20,0:02:23.20,TitleEP,en,0,0,220,,Raid into
 Dialogue: 0,0:02:18.20,0:02:23.20,TitleEP,en,0,0,90,,the Martial Arts Competition
@@ -979,6 +980,7 @@ Comment: 0,0:24:22.77,0:24:26.00,Default,ja,0,0,0,,疾風怒濤の大活躍を�
 Dialogue: 0,0:24:22.77,0:24:26.00,Default,ko,0,0,0,,질풍노도의 대활약을 보시오!
 Dialogue: 0,0:24:22.77,0:24:26.00,Default,en,0,0,0,,Check out the stormy great activity!
 Dialogue: 0,0:24:26.66,0:24:30.56,NoteOnAnime,ko,60,0,60,,{\an7}다음 이야기
+Comment: 0,0:24:26.66,0:24:30.56,TitleEP,ja,0,0,70,,
 Dialogue: 0,0:24:26.66,0:24:30.56,TitleEP,ko,0,0,70,,센히메를 구하고 승부이오
 Dialogue: 0,0:24:26.66,0:24:30.56,NoteOnAnime,ko,0,60,30,,{\an3\fs32}기대하세요!
 Dialogue: 0,0:24:26.66,0:24:30.56,NoteOnAnime,en,60,0,60,,{\an7}Next Episode

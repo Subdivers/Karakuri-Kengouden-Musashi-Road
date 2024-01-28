@@ -69,7 +69,9 @@ Comment: 0,0:02:21.40,0:02:25.75,Default,ja,0,0,0,,武蔵よ、お前は本当�
 Dialogue: 0,0:02:21.40,0:02:25.75,Default,ko,0,0,0,,무사시여, 넌 정말로 죽고 말았는가!
 Dialogue: 0,0:02:21.40,0:02:25.75,Default,en,0,0,0,,Musashi, are you truly dead?!
 Comment: 0,0:02:26.18,0:02:31.18,TitleEP,ja,0,0,0,,やっぱ不死身のムサシだス
+Comment: 0,0:02:26.18,0:02:31.18,TitleEP,ja,0,0,210,,
 Dialogue: 0,0:02:26.18,0:02:31.18,TitleEP,ko,0,0,210,,역시 불사신
+Comment: 0,0:02:26.18,0:02:31.18,TitleEP,ja,0,0,80,,
 Dialogue: 0,0:02:26.18,0:02:31.18,TitleEP,ko,0,0,80,,무사시이오
 Dialogue: 0,0:02:26.18,0:02:31.18,TitleEP,en,0,0,210,,Of Course!
 Dialogue: 0,0:02:26.18,0:02:31.18,TitleEP,en,0,0,80,,Musashi is Immortal
@@ -864,7 +866,9 @@ Comment: 0,0:24:25.00,0:24:27.53,Default,ja,0,0,0,,疾風怒濤のムツゴロ�
 Dialogue: 0,0:24:25.00,0:24:27.53,Default,ko,0,0,0,,질풍노도의 짱뚱어이오!
 Dialogue: 0,0:24:25.00,0:24:27.53,Default,en,0,0,0,,It's a stormy mudskipper-{\i1}dasu{\i0}!
 Dialogue: 0,0:24:26.47,0:24:30.68,NoteOnAnime,ko,60,0,60,,{\an7}다음 이야기
+Comment: 0,0:24:26.47,0:24:30.68,TitleEP,ja,0,0,225,,
 Dialogue: 0,0:24:26.47,0:24:30.68,TitleEP,ko,0,0,225,,비밀의
+Comment: 0,0:24:26.47,0:24:30.68,TitleEP,ja,0,0,110,,
 Dialogue: 0,0:24:26.47,0:24:30.68,TitleEP,ko,0,0,110,,히미코 씨이오!
 Dialogue: 0,0:24:26.47,0:24:30.68,NoteOnAnime,ko,0,60,30,,{\an3\fs32}기대하세요!
 Dialogue: 0,0:24:26.47,0:24:30.68,NoteOnAnime,en,60,0,60,,{\an7}Next Episode

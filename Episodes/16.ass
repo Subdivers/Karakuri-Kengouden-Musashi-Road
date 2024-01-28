@@ -897,6 +897,7 @@ Comment: 0,0:24:23.32,0:24:26.57,Default,ja,0,0,0,,疾風怒濤の二刀流だ�
 Dialogue: 0,0:24:23.32,0:24:26.57,Default,ko,0,0,0,,질풍노도의 이도류이오!
 Dialogue: 0,0:24:23.32,0:24:26.57,Default,en,0,0,0,,It's stormy dual blade-{\i1}dasu{\i0}!
 Dialogue: 0,0:24:27.09,0:24:31.08,NoteOnAnime,ko,60,0,60,,{\an7}다음 이야기
+Comment: 0,0:24:27.09,0:24:31.08,TitleEP,ja,0,0,70,,
 Dialogue: 0,0:24:27.09,0:24:31.08,TitleEP,ko,0,0,70,,야마타노오로치, 대결전이오
 Dialogue: 0,0:24:27.09,0:24:31.08,NoteOnAnime,ko,0,60,30,,{\an3\fs32}기대하세요!
 Dialogue: 0,0:24:27.09,0:24:31.08,NoteOnAnime,en,60,0,60,,{\an7}Next Episode

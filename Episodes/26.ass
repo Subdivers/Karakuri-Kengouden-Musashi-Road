@@ -67,7 +67,9 @@ Dialogue: 0,0:02:13.86,0:02:17.08,Default,en,0,0,0,,And Hanzō has gone with Kar
 Comment: 0,0:02:17.20,0:02:22.21,Default,ja,0,0,0,,悪一番、ハンゾウの復活だス
 Comment: 0,0:02:17.20,0:02:22.21,Default,ko,0,0,0,,악이라면 제일! 한조의 부활이오
 Comment: 0,0:02:17.20,0:02:22.21,Default,en,0,0,0,,The Most Evil! Hanzō Revives
+Comment: 0,0:02:17.20,0:02:22.21,TitleEP,ja,0,0,225,,
 Dialogue: 0,0:02:17.20,0:02:22.21,TitleEP,ko,0,0,225,,악이라면 제일!
+Comment: 0,0:02:17.20,0:02:22.21,TitleEP,ja,0,0,110,,
 Dialogue: 0,0:02:17.20,0:02:22.21,TitleEP,ko,0,0,110,,한조의 부활이오
 Dialogue: 0,0:02:17.20,0:02:22.21,TitleEP,en,0,0,225,,The Most Evil!
 Dialogue: 0,0:02:17.20,0:02:22.21,TitleEP,en,0,0,110,,Hanzō Revives
@@ -800,7 +802,9 @@ Dialogue: 0,0:24:22.28,0:24:25.42,Default,ko,0,0,0,,질풍노도의 "나는 듯�
 Dialogue: 0,0:24:22.28,0:24:25.42,Note,en,0,0,0,,(翔ぶが如く, {\i1}Tobu ga Gotoku{\i0}: lit. {\i1}as if in flight{\i0}. Historical fiction written by Shiba Ryōtaro, where one of main character is Saigō Takamori)
 Dialogue: 0,0:24:22.28,0:24:25.42,Default,en,0,0,0,,It's a stormy {\i1}Tobu ga Gotoku{\i0}-{\i1}dasu{\i0}!
 Dialogue: 0,0:24:25.42,0:24:30.17,NoteOnAnime,ko,60,0,60,,{\an7}다음 이야기
+Comment: 0,0:24:25.42,0:24:30.17,TitleEP,ja,0,0,225,,
 Dialogue: 0,0:24:25.42,0:24:30.17,TitleEP,ko,0,0,225,,사이고 씨는
+Comment: 0,0:24:25.42,0:24:30.17,TitleEP,ja,0,0,110,,
 Dialogue: 0,0:24:25.42,0:24:30.17,TitleEP,ko,0,0,110,,수수께끼의 인물
 Dialogue: 0,0:24:25.42,0:24:30.17,NoteOnAnime,ko,0,60,30,,{\an3\fs32}기대하세요!
 Dialogue: 0,0:24:25.42,0:24:30.17,NoteOnAnime,en,60,0,60,,{\an7}Next Episode

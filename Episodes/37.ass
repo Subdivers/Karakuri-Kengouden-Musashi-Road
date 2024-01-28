@@ -66,7 +66,9 @@ Comment: 0,0:02:12.80,0:02:17.82,Default,ja,0,0,0,,だが、母の面影を見�
 Dialogue: 0,0:02:12.80,0:02:17.82,Default,ko,0,0,0,,그렇지만 어머니의 면모를 보여준 히미코는 죽고 말았다.
 Dialogue: 0,0:02:12.80,0:02:17.82,Default,en,0,0,0,,But Himiko, who gave the feeling of mother, died.
 Comment: 0,0:02:18.30,0:02:23.30,Default,ja,0,0,0,,コジローに勝っただス！
+Comment: 0,0:02:18.30,0:02:23.30,TitleEP,ja,0,0,200,,
 Dialogue: 0,0:02:18.30,0:02:23.30,TitleEP,ko,0,0,200,,코지로에게
+Comment: 0,0:02:18.30,0:02:23.30,TitleEP,ja,0,0,60,,
 Dialogue: 0,0:02:18.30,0:02:23.30,TitleEP,ko,0,0,60,,이겼소!
 Dialogue: 0,0:02:18.30,0:02:23.30,TitleEP,en,0,0,200,,I Defeated
 Dialogue: 0,0:02:18.30,0:02:23.30,TitleEP,en,0,0,60,,Kojirō!
@@ -613,7 +615,9 @@ Comment: 0,0:24:25.57,0:24:28.37,Default,ja,0,0,0,,疾風怒濤の都パレス�
 Dialogue: 0,0:24:25.57,0:24:28.37,Default,ko,0,0,0,,질풍노도의 미야코 팔레스이오!
 Dialogue: 0,0:24:25.57,0:24:28.37,Default,en,0,0,0,,It's the stormy Miyako Palace-{\i1}dasu{\i0}!
 Dialogue: 0,0:24:26.58,0:24:30.59,NoteOnAnime,ko,60,0,60,,{\an7}다음 이야기
+Comment: 0,0:24:26.58,0:24:30.59,TitleEP,ja,0,0,220,,
 Dialogue: 0,0:24:26.58,0:24:30.59,TitleEP,ko,0,0,220,,나왔다 수수께끼의
+Comment: 0,0:24:26.58,0:24:30.59,TitleEP,ja,0,0,80,,
 Dialogue: 0,0:24:26.58,0:24:30.59,TitleEP,ko,0,0,80,,육도마왕이오
 Dialogue: 0,0:24:26.58,0:24:30.59,NoteOnAnime,ko,0,60,30,,{\an3\fs32}기대하세요!
 Dialogue: 0,0:24:26.58,0:24:30.59,NoteOnAnime,en,60,0,60,,{\an7}Next Episode

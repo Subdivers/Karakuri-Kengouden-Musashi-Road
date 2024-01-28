@@ -68,7 +68,9 @@ Comment: 0,0:02:12.95,0:02:17.43,Default,ja,0,0,0,,ムサシ達は、メガト�
 Dialogue: 0,0:02:12.95,0:02:17.43,Default,ko,0,0,0,,무사시 일행은 메가톤성에 쳐들어가, 도쿠간류를 쓰러트렸다.
 Dialogue: 0,0:02:12.95,0:02:17.43,Default,en,0,0,0,,Musashi and others got into Megaton Castle, and took down Dokuganryu.
 Comment: 0,0:02:17.99,0:02:22.99,TitleEP,ja,0,0,0,,花のムサシ　悪を切るだス
+Comment: 0,0:02:17.99,0:02:22.99,TitleEP,ja,0,0,220,,
 Dialogue: 0,0:02:17.99,0:02:22.99,TitleEP,ko,0,0,220,,꽃의 무사시
+Comment: 0,0:02:17.99,0:02:22.99,TitleEP,ja,0,0,80,,
 Dialogue: 0,0:02:17.99,0:02:22.99,TitleEP,ko,0,0,80,,악을 베오
 Dialogue: 0,0:02:17.99,0:02:22.99,TitleEP,en,0,0,220,,Flowering Musashi
 Dialogue: 0,0:02:17.99,0:02:22.99,TitleEP,en,0,0,80,,Cuts the Evil
@@ -825,7 +827,9 @@ Comment: 0,0:24:25.00,0:24:27.88,Default,ja,0,0,0,,疾風怒濤の最終回だ�
 Dialogue: 0,0:24:25.00,0:24:27.88,Default,ko,0,0,0,,질풍노도의 마지막 이야기이오!
 Dialogue: 0,0:24:25.00,0:24:27.88,Default,en,0,0,0,,It's the stormy last story-dasu!
 Dialogue: 0,0:24:26.27,0:24:30.28,NoteOnAnime,ko,60,0,60,,{\an7}다음 이야기
+Comment: 0,0:24:26.27,0:24:30.28,TitleEP,ja,0,0,220,,
 Dialogue: 0,0:24:26.27,0:24:30.28,TitleEP,ko,0,0,220,,무사시 대
+Comment: 0,0:24:26.27,0:24:30.28,TitleEP,ja,0,0,80,,
 Dialogue: 0,0:24:26.27,0:24:30.28,TitleEP,ko,0,0,80,,코지로이오
 Dialogue: 0,0:24:26.27,0:24:30.28,NoteOnAnime,ko,0,60,30,,{\an3\fs32}기대하세요!
 Dialogue: 0,0:24:26.27,0:24:30.28,NoteOnAnime,en,60,0,60,,{\an7}Next Episode

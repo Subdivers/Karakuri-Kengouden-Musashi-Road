@@ -67,7 +67,9 @@ Dialogue: 0,0:02:13.01,0:02:17.58,Default,en,0,0,0,,But in front of Musashi's To
 Comment: 0,0:02:18.07,0:02:23.08,Default,ja,0,0,0,,海は怖いな、オニゴロシだす
 Comment: 0,0:02:18.07,0:02:23.08,Default,ko,0,0,0,,바다는 무섭네 - 오니고로시이오
 Comment: 0,0:02:18.07,0:02:23.08,Default,en,0,0,0,,The Sea is Scary - It's Onigoroshi
+Comment: 0,0:02:18.07,0:02:23.08,TitleEP,ja,0,0,230,,
 Dialogue: 0,0:02:18.07,0:02:23.08,TitleEP,ko,0,0,230,,바다는 무섭네
+Comment: 0,0:02:18.07,0:02:23.08,TitleEP,ja,0,0,100,,
 Dialogue: 0,0:02:18.07,0:02:23.08,TitleEP,ko,0,0,100,,오니고로시이오
 Dialogue: 0,0:02:18.07,0:02:23.08,TitleEP,en,0,0,230,,The Sea is Scary
 Dialogue: 0,0:02:18.07,0:02:23.08,TitleEP,en,0,0,100,,It's Onigoroshi
@@ -813,6 +815,7 @@ Comment: 0,0:24:23.54,0:24:26.48,Default,ja,0,0,0,,疾風怒濤のムサシ急�
 Dialogue: 0,0:24:23.54,0:24:26.48,Default,ko,0,0,0,,질풍노도의 무사시 특급우편이오!
 Dialogue: 0,0:24:23.54,0:24:26.48,Default,en,0,0,0,,It's a stormy Musashi Priority Mail Express-{\i1}dasu{\i0}!
 Dialogue: 0,0:24:26.52,0:24:30.49,NoteOnAnime,ko,55,0,60,,{\an7}다음 이야기
+Comment: 0,0:24:26.52,0:24:30.49,TitleEP,ja,0,0,205,,
 Dialogue: 0,0:24:26.52,0:24:30.49,TitleEP,ko,0,0,205,,홋카이웨스턴의 사투이오
 Dialogue: 0,0:24:26.52,0:24:30.49,NoteOnAnime,ko,0,55,30,,{\an3\fs32}기대하세요!
 Dialogue: 0,0:24:26.52,0:24:30.49,NoteOnAnime,en,55,0,60,,{\an7}Next Episode

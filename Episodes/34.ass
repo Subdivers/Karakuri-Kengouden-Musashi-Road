@@ -63,7 +63,9 @@ Comment: 0,0:02:11.32,0:02:19.26,Default,ja,0,0,0,,しかし、ジライヤン�
 Dialogue: 0,0:02:11.32,0:02:19.26,Default,ko,0,0,0,,다만 지라이얀이 남긴 말, 히미코가 시라누이 일족의 여왕이라고 한 것은 무사시의 마음을 박살냈다.
 Dialogue: 0,0:02:11.32,0:02:19.26,Default,en,0,0,0,,But the words Jiraiyan left before he left, that Himiko is the queen of Shiranui Clan, has knocked down Musashi's heart.
 Comment: 0,0:02:19.26,0:02:24.26,TitleEP,ja,0,0,0,,アッチコッチ火事だス
+Comment: 0,0:02:19.26,0:02:24.26,TitleEP,ja,0,0,210,,
 Dialogue: 0,0:02:19.26,0:02:24.26,TitleEP,ko,0,0,210,,여기저기
+Comment: 0,0:02:19.26,0:02:24.26,TitleEP,ja,0,0,65,,
 Dialogue: 0,0:02:19.26,0:02:24.26,TitleEP,ko,0,0,65,,화재이오
 Dialogue: 0,0:02:19.26,0:02:24.26,TitleEP,en,0,0,210,,Fire
 Dialogue: 0,0:02:19.26,0:02:24.26,TitleEP,en,0,0,65,,Here and There
@@ -783,7 +785,9 @@ Comment: 0,0:24:25.12,0:24:27.92,Default,ja,0,0,0,,疾風怒濤の桜島ダス�
 Dialogue: 0,0:24:25.12,0:24:27.92,Default,ko,0,0,0,,질풍노도의 사쿠라지마이오!
 Dialogue: 0,0:24:25.12,0:24:27.92,Default,en,0,0,0,,It's the stormy Sakurajima-dasu!
 Dialogue: 0,0:24:27.92,0:24:32.17,NoteOnAnime,ko,60,0,60,,{\an7}다음 이야기
+Comment: 0,0:24:27.92,0:24:32.17,TitleEP,ja,0,0,220,,
 Dialogue: 0,0:24:27.92,0:24:32.17,TitleEP,ko,0,0,220,,불의 나라의 여왕
+Comment: 0,0:24:27.92,0:24:32.17,TitleEP,ja,0,0,80,,
 Dialogue: 0,0:24:27.92,0:24:32.17,TitleEP,ko,0,0,80,,히미코이오
 Dialogue: 0,0:24:27.92,0:24:32.17,NoteOnAnime,ko,0,60,30,,{\an3\fs32}기대하세요!
 Dialogue: 0,0:24:27.92,0:24:32.17,NoteOnAnime,en,60,0,60,,{\an7}Next Episode

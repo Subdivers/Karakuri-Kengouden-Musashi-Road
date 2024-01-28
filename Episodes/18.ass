@@ -65,6 +65,7 @@ Comment: 0,0:02:14.43,0:02:18.50,Default,ja,0,0,0,,ここに、二刀流が完�
 Dialogue: 0,0:02:14.43,0:02:18.50,Default,ko,0,0,0,,이것으로 이도류 완성에 한 보 더 다가간 것이다.
 Dialogue: 0,0:02:14.43,0:02:18.50,Default,en,0,0,0,,By this, he is one step closer to the mastery of dual blade.
 Comment: 0,0:02:18.50,0:02:23.49,Default,ja,0,0,0,,金ぴか泥棒、ゴエモンドだす
+Comment: 0,0:02:18.50,0:02:23.49,TitleEP,ja,0,0,70,,
 Dialogue: 0,0:02:18.50,0:02:23.49,TitleEP,ko,0,0,70,,금으로 번쩍이는 도둑, 고에몬도이오
 Dialogue: 0,0:02:18.50,0:02:23.49,TitleEP,en,0,0,225,,The Ultimate Thief of
 Dialogue: 0,0:02:18.50,0:02:23.49,TitleEP,en,0,0,90,,Shining Gold, Goemondo
@@ -777,6 +778,7 @@ Dialogue: 0,0:24:22.76,0:24:26.30,Default,ko,0,0,0,,질풍노도의 우정파워
 Dialogue: 0,0:24:22.76,0:24:26.30,Default,en,0,0,0,,It's the stormy power of friendship-{\i1}dasu{\i0}!
 Comment: 0,0:24:26.97,0:24:31.61,Default,ja,0,0,0,,ヌエの鳴く世はこわいダス
 Dialogue: 0,0:24:26.97,0:24:31.61,NoteOnAnime,ko,60,0,60,,{\an7}다음 이야기
+Comment: 0,0:24:26.97,0:24:31.61,TitleEP,ja,0,0,100,,
 Dialogue: 0,0:24:26.97,0:24:31.61,TitleEP,ko,0,0,100,,누에가 우는 밤은 무섭소
 Dialogue: 0,0:24:26.97,0:24:31.61,NoteOnAnime,ko,0,60,30,,{\an3\fs32}기대하세요!
 Dialogue: 0,0:24:26.97,0:24:31.61,NoteOnAnime,en,60,0,60,,{\an7}Next Episode

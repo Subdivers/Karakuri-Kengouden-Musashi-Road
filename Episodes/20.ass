@@ -69,6 +69,7 @@ Dialogue: 0,0:02:14.16,0:02:22.64,Default,ko,0,0,0,,하지만 바이켄의 우�
 Dialogue: 0,0:02:14.16,0:02:18.05,Default,en,0,0,0,,But thanks to aid of the friendship with Baiken and cooperation of Kojirō,
 Dialogue: 0,0:02:18.05,0:02:22.64,Default,en,0,0,0,,they took Nue under the control of Onihime down and saved Date family.
 Comment: 0,0:02:22.90,0:02:27.93,Default,ja,0,0,0,,シュテン、大バクハツだス
+Comment: 0,0:02:22.90,0:02:27.93,TitleEP,ja,0,0,100,,
 Dialogue: 0,0:02:22.90,0:02:27.93,TitleEP,ko,0,0,100,,슈텐, 대폭발이오
 Dialogue: 0,0:02:22.90,0:02:27.93,TitleEP,en,0,0,90,,Shuten Explodes
 Comment: 0,0:02:42.73,0:02:46.52,Default,ja,0,0,0,,この奥の呪いのたんげ。何かが起こっている。
@@ -698,6 +699,7 @@ Comment: 0,0:24:23.17,0:24:26.20,Default,ja,0,0,0,,疾風怒濤の大零回ダ�
 Dialogue: 0,0:24:23.17,0:24:26.20,Default,ko,0,0,0,,질풍노도의 대영계이오!
 Dialogue: 0,0:24:23.17,0:24:26.20,Default,en,0,0,0,,It's a stormy great spiritual realm-{\i1}dasu{\i0}!
 Dialogue: 0,0:24:26.53,0:24:30.93,NoteOnAnime,ko,60,0,60,,{\an7}다음 이야기
+Comment: 0,0:24:26.53,0:24:30.93,TitleEP,ja,0,0,100,,
 Dialogue: 0,0:24:26.53,0:24:30.93,TitleEP,ko,0,0,100,,히익! 이시마츠의 유령이오
 Dialogue: 0,0:24:26.53,0:24:30.93,NoteOnAnime,ko,0,60,30,,{\an3\fs32}기대하세요!
 Dialogue: 0,0:24:26.53,0:24:30.93,NoteOnAnime,en,60,0,60,,{\an7}Next Episode

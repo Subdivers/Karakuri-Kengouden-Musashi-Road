@@ -74,7 +74,9 @@ Dialogue: 0,0:02:21.18,0:02:27.25,Default,en,0,0,0,,After the battle, those thre
 Comment: 0,0:02:27.52,0:02:32.52,Default,ja,0,0,0,,おいら、グレてやるだス
 Comment: 0,0:02:27.52,0:02:32.52,Default,ko,0,0,0,,나, 비뚤어지오!
 Comment: 0,0:02:27.52,0:02:32.52,Default,en,0,0,0,,Become Delinquent!
+Comment: 0,0:02:27.52,0:02:32.52,TitleEP,ja,0,0,240,,
 Dialogue: 0,0:02:27.52,0:02:32.52,TitleEP,ko,0,0,240,,나
+Comment: 0,0:02:27.52,0:02:32.52,TitleEP,ja,0,0,100,,
 Dialogue: 0,0:02:27.52,0:02:32.52,TitleEP,ko,0,0,100,,비뚤어지오
 Dialogue: 0,0:02:27.52,0:02:32.52,TitleEP,en,0,0,240,,I
 Dialogue: 0,0:02:27.52,0:02:32.52,TitleEP,en,0,0,100,,Become Delinquent
@@ -827,7 +829,9 @@ Dialogue: 0,0:24:22.59,0:24:26.85,Default,ko,0,0,0,,질풍노도의 츠바메가
 Dialogue: 0,0:24:22.59,0:24:26.85,Default,en,0,0,0,,We'll see his stormy Tsubamegaeshi again-{\i1}dasu{\i0}!
 Comment: 0,0:24:25.26,0:24:29.27,Default,ja,0,0,0,,
 Dialogue: 0,0:24:25.26,0:24:29.27,NoteOnAnime,ko,60,0,60,,{\an7}다음 이야기
+Comment: 0,0:24:25.26,0:24:29.27,TitleEP,ja,0,0,225,,
 Dialogue: 0,0:24:25.26,0:24:29.27,TitleEP,ko,0,0,225,,어!?
+Comment: 0,0:24:25.26,0:24:29.27,TitleEP,ja,0,0,110,,
 Dialogue: 0,0:24:25.26,0:24:29.27,TitleEP,ko,0,0,110,,침울한 코지로이오
 Dialogue: 0,0:24:25.26,0:24:29.27,NoteOnAnime,ko,0,60,30,,{\an3\fs32}기대하세요!
 Dialogue: 0,0:24:25.26,0:24:29.27,NoteOnAnime,en,60,0,60,,{\an7}Next Episode

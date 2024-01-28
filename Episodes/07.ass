@@ -74,6 +74,7 @@ Dialogue: 0,0:02:07.16,0:02:13.44,Default,en,0,0,0,,headed to Edotopia in Miyako
 Comment: 0,0:02:14.22,0:02:18.41,Default,ja,0,0,0,,
 Dialogue: 0,0:02:14.22,0:02:18.41,Default,ko,0,0,0,,무사시의 길에서 기다리는 것은 꽃인가 폭풍인가?
 Dialogue: 0,0:02:14.22,0:02:18.41,Default,en,0,0,0,,What is waiting in front of Musashi? Is it a flower or a storm?
+Comment: 0,0:02:18.74,0:02:23.79,TitleEP,ja,0,0,60,,
 Dialogue: 0,0:02:18.74,0:02:23.79,TitleEP,ko,0,0,60,,깨끗하고 가난한 쿠사리가마
 Dialogue: 0,0:02:18.74,0:02:23.79,TitleEP,en,0,0,60,,Clean and Poor Kusarigama
 Comment: 0,0:03:27.13,0:03:29.52,Default,ja,0,0,0,,
@@ -771,6 +772,7 @@ Comment: 0,0:24:24.67,0:24:27.82,Default,ja,0,0,0,,
 Dialogue: 0,0:24:24.67,0:24:27.82,Default,ko,0,0,0,,질풍노도의 활약을 보시오!
 Dialogue: 0,0:24:24.67,0:24:27.82,Default,en,0,0,0,,Be sure to check out the next stormy story-{\i1}dasu{\i0}!
 Dialogue: 0,0:24:27.82,0:24:31.74,NoteOnAnime,ko,60,0,60,,{\an7}다음 이야기
+Comment: 0,0:24:27.82,0:24:31.74,TitleEP,ja,0,0,70,,
 Dialogue: 0,0:24:27.82,0:24:31.74,TitleEP,ko,0,0,70,,악의 한조, 살며시 다가오오
 Dialogue: 0,0:24:27.82,0:24:31.74,NoteOnAnime,ko,0,60,30,,{\an3\fs32}기대하세요!
 Dialogue: 0,0:24:27.82,0:24:31.74,NoteOnAnime,en,60,0,60,,{\an7}Next Episode

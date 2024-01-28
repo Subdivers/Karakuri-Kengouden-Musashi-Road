@@ -68,6 +68,7 @@ Dialogue: 0,0:02:06.28,0:02:10.57,Default,en,0,0,0,,But he ended in defeat in fr
 Comment: 0,0:02:11.27,0:02:18.03,Default,ja,0,0,0,,意気消沈してそこに出たムサシを待っていたのはハンゾウの恐るべき罠だった。
 Dialogue: 0,0:02:11.27,0:02:18.03,Default,ko,0,0,0,,의기소침해 바깥으로 나온 무사시를 기다리고 있던 것은 한조의 무서운 함정이었다.
 Dialogue: 0,0:02:11.27,0:02:18.03,Default,en,0,0,0,,Dispirited, Musashi went out, and Hanzō's frightening trap was waiting for him.
+Comment: 0,0:02:18.03,0:02:23.03,TitleEP,ja,0,0,70,,
 Dialogue: 0,0:02:18.03,0:02:23.03,TitleEP,ko,0,0,70,,카라쿠리 검호 총출격
 Dialogue: 0,0:02:18.03,0:02:23.03,TitleEP,en,0,0,90,,Go Out at Once!
 Dialogue: 0,0:02:18.03,0:02:23.03,TitleEP,en,0,0,235,,Karakuri Martial Artists
@@ -876,6 +877,7 @@ Comment: 0,0:24:23.04,0:24:25.90,Default,ja,0,0,0,,疾風怒濤の名勝負を�
 Dialogue: 0,0:24:23.04,0:24:25.90,Default,ko,0,0,0,,질풍노도의 명승부를 보시오!
 Dialogue: 0,0:24:23.04,0:24:25.90,Default,en,0,0,0,,Look at the stormy yet excellent matches-{\i1}dasu{\i0}!
 Dialogue: 0,0:24:26.32,0:24:30.26,NoteOnAnime,ko,60,0,60,,{\an7}다음 이야기
+Comment: 0,0:24:26.32,0:24:30.26,TitleEP,ja,0,0,70,,
 Dialogue: 0,0:24:26.32,0:24:30.26,TitleEP,ko,0,0,70,,무사시, 꿈의 백번승부
 Dialogue: 0,0:24:26.32,0:24:30.26,NoteOnAnime,ko,0,60,30,,{\an3\fs32}기대하세요!
 Dialogue: 0,0:24:26.32,0:24:30.26,NoteOnAnime,en,60,0,60,,{\an7}Next Episode

@@ -72,6 +72,7 @@ Comment: 0,0:02:19.12,0:02:22.89,Default,ja,0,0,0,,秘剣のしょうと、天�
 Dialogue: 0,0:02:19.12,0:02:22.89,Default,ko,0,0,0,,비검의 소도(小刀), 천지환을 손에 넣었다.
 Dialogue: 0,0:02:19.12,0:02:22.89,Default,en,0,0,0,,Musashi finally got Tenchimaru, the secret small sword.
 Comment: 0,0:02:23.60,0:02:28.60,Default,ja,0,0,0,,ヤマタノオロチ、大決戦だス
+Comment: 0,0:02:23.60,0:02:28.60,TitleEP,ja,0,0,0,,
 Dialogue: 0,0:02:23.60,0:02:28.60,TitleEP,ko,0,0,0,,야마타노오로치 대결전이오
 Dialogue: 0,0:02:23.60,0:02:28.60,TitleEP,en,0,0,0,,Yamata no Orochi, a Big Showdown
 Comment: 0,0:02:29.65,0:02:30.29,Default,ja,0,0,0,,何？
@@ -778,6 +779,7 @@ Comment: 0,0:24:24.08,0:24:26.94,Default,ja,0,0,0,,疾風怒濤の二刀流だ�
 Dialogue: 0,0:24:24.08,0:24:26.94,Default,ko,0,0,0,,질풍노도의 이도류이오!
 Dialogue: 0,0:24:24.08,0:24:26.94,Default,en,0,0,0,,It's a stormy dual blade-{\i1}dasu{\i0}!
 Dialogue: 0,0:24:28.42,0:24:32.38,NoteOnAnime,ko,60,0,60,,{\an7}다음 이야기
+Comment: 0,0:24:28.42,0:24:32.38,TitleEP,ja,0,0,70,,
 Dialogue: 0,0:24:28.42,0:24:32.38,TitleEP,ko,0,0,70,,금으로 번쩍이는 도둑, 고에몬도이오
 Dialogue: 0,0:24:28.42,0:24:32.38,NoteOnAnime,ko,0,60,30,,{\an3\fs32}기대하세요!
 Dialogue: 0,0:24:28.42,0:24:32.38,NoteOnAnime,en,60,0,60,,{\an7}Next Episode

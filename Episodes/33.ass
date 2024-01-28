@@ -71,7 +71,9 @@ Comment: 0,0:02:21.72,0:02:27.64,Default,ja,0,0,0,,そして、ムサシは三�
 Dialogue: 0,0:02:21.72,0:02:27.64,Default,ko,0,0,0,,그리고 무사시는 삼도천을 건너 무사하게 살아 돌아왔다.
 Dialogue: 0,0:02:21.72,0:02:27.64,Default,en,0,0,0,,And Musashi crossed over the Sanzu River, and revived safely.
 Comment: 0,0:02:28.00,0:02:33.00,TitleEP,ja,0,0,0,,ひみつのヒミコさんだス！
+Comment: 0,0:02:28.00,0:02:33.00,TitleEP,ja,0,0,195,,
 Dialogue: 0,0:02:28.00,0:02:33.00,TitleEP,ko,0,0,195,,비밀의
+Comment: 0,0:02:28.00,0:02:33.00,TitleEP,ja,0,0,60,,
 Dialogue: 0,0:02:28.00,0:02:33.00,TitleEP,ko,0,0,60,,히미코 씨이오!
 Dialogue: 0,0:02:28.00,0:02:33.00,TitleEP,en,0,0,195,,Mysterious
 Dialogue: 0,0:02:28.00,0:02:33.00,TitleEP,en,0,0,60,,Ms. Himiko
@@ -723,7 +725,9 @@ Comment: 0,0:24:25.01,0:24:27.64,Default,ja,0,0,0,,疾風怒濤のサイゴー�
 Dialogue: 0,0:24:25.01,0:24:27.64,Default,ko,0,0,0,,질풍노도의 사이고 씨 집이오!
 Dialogue: 0,0:24:25.01,0:24:27.64,Default,en,0,0,0,,It's the stormy Mr. Saigo's house-dasu!
 Dialogue: 0,0:24:27.27,0:24:31.40,NoteOnAnime,ko,60,0,60,,{\an7}다음 이야기
+Comment: 0,0:24:27.27,0:24:31.40,TitleEP,ja,0,0,220,,
 Dialogue: 0,0:24:27.27,0:24:31.40,TitleEP,ko,0,0,220,,여기저기
+Comment: 0,0:24:27.27,0:24:31.40,TitleEP,ja,0,0,80,,
 Dialogue: 0,0:24:27.27,0:24:31.40,TitleEP,ko,0,0,80,,화재이오
 Dialogue: 0,0:24:27.27,0:24:31.40,NoteOnAnime,ko,0,60,30,,{\an3\fs32}기대하세요!
 Dialogue: 0,0:24:27.27,0:24:31.40,NoteOnAnime,en,60,0,60,,{\an7}Next Episode

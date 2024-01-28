@@ -70,6 +70,7 @@ Dialogue: 0,0:02:09.88,0:02:14.16,Default,en,0,0,0,,But after the fight, Ishimat
 Comment: 0,0:02:14.97,0:02:18.78,Default,ja,0,0,0,,悲しみに沈みながらのムサシはエドトピアを目指す。
 Dialogue: 0,0:02:14.97,0:02:18.78,Default,ko,0,0,0,,슬픔에 잠겼던 무사시는 에도토피아를 향한다.
 Dialogue: 0,0:02:14.97,0:02:18.78,Default,en,0,0,0,,Musashi is in deep grief, but he still heads to Edotopia.
+Comment: 0,0:02:19.10,0:02:24.10,TitleEP,ja,0,0,80,,
 Dialogue: 0,0:02:19.10,0:02:24.10,TitleEP,ko,0,0,80,,꽃도 바람도 에도토피아이오
 Dialogue: 0,0:02:19.10,0:02:24.10,TitleEP,en,0,0,80,,Flower and Storm at Edotopia
 Comment: 0,0:02:31.34,0:02:36.27,Default,ja,0,0,0,,あ、とうとう着いたでござるダス。これが憧るのエドトピアダスか。。。
@@ -802,6 +803,7 @@ Comment: 0,0:24:24.78,0:24:27.43,Default,ja,0,0,0,,疾風怒濤の大活劇を�
 Dialogue: 0,0:24:24.78,0:24:27.43,Default,ko,0,0,0,,질풍노도의 대활약을 보시오!
 Dialogue: 0,0:24:24.78,0:24:27.43,Default,en,0,0,0,,Check out the stormy great activity!
 Dialogue: 0,0:24:27.43,0:24:31.53,NoteOnAnime,ko,60,0,60,,{\an7}다음 이야기
+Comment: 0,0:24:27.43,0:24:31.53,TitleEP,ja,0,0,70,,
 Dialogue: 0,0:24:27.43,0:24:31.53,TitleEP,ko,0,0,70,,난입! 무예대회
 Dialogue: 0,0:24:27.43,0:24:31.53,NoteOnAnime,ko,0,60,30,,{\an3\fs32}기대하세요!
 Dialogue: 0,0:24:27.43,0:24:31.53,NoteOnAnime,en,60,0,60,,{\an7}Next Episode

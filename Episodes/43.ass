@@ -68,7 +68,9 @@ Comment: 0,0:02:13.41,0:02:18.03,Default,ja,0,0,0,,だが、最後はオツル�
 Dialogue: 0,0:02:13.41,0:02:18.03,Default,ko,0,0,0,,그러나 최후에는 오츠루의 활약으로 궁지에서 탈출할 수 있었다.
 Dialogue: 0,0:02:13.41,0:02:18.03,Default,en,0,0,0,,But at last, thanks to Otsuru, they managed to escape their crisis.
 Comment: 0,0:02:18.03,0:02:23.03,TitleEP,ja,0,0,0,,天と地のシンゲンシンだス
+Comment: 0,0:02:18.03,0:02:23.03,TitleEP,ja,0,0,210,,
 Dialogue: 0,0:02:18.03,0:02:23.03,TitleEP,ko,0,0,210,,하늘과 땅의
+Comment: 0,0:02:18.03,0:02:23.03,TitleEP,ja,0,0,80,,
 Dialogue: 0,0:02:18.03,0:02:23.03,TitleEP,ko,0,0,80,,신겐신이오
 Dialogue: 0,0:02:18.03,0:02:23.03,TitleEP,en,0,0,210,,Shingenshin
 Dialogue: 0,0:02:18.03,0:02:23.03,TitleEP,en,0,0,80,,of Sky and Ground
@@ -931,7 +933,9 @@ Comment: 0,0:24:24.54,0:24:26.94,Default,ja,0,0,0,,疾風怒濤の宇宙人だ�
 Dialogue: 0,0:24:24.54,0:24:26.94,Default,ko,0,0,0,,질풍노도의 우주인이오!
 Dialogue: 0,0:24:24.54,0:24:26.94,Default,en,0,0,0,,It's stormy aliens-{\i1}dasu{\i0}!
 Dialogue: 0,0:24:26.36,0:24:30.44,NoteOnAnime,ko,60,0,60,,{\an7}다음 이야기
+Comment: 0,0:24:26.36,0:24:30.44,TitleEP,ja,0,0,220,,
 Dialogue: 0,0:24:26.36,0:24:30.44,TitleEP,ko,0,0,220,,요염한 모습
+Comment: 0,0:24:26.36,0:24:30.44,TitleEP,ja,0,0,80,,
 Dialogue: 0,0:24:26.36,0:24:30.44,TitleEP,ko,0,0,80,,카라쿠리 변화이오
 Dialogue: 0,0:24:26.36,0:24:30.44,NoteOnAnime,ko,0,60,30,,{\an3\fs32}기대하세요!
 Dialogue: 0,0:24:26.36,0:24:30.44,NoteOnAnime,en,60,0,60,,{\an7}Next Episode

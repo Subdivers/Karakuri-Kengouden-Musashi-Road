@@ -62,7 +62,9 @@ Dialogue: 0,0:02:08.94,0:02:17.69,Default,ko,0,0,0,,그러나 그 쯤, 지팡 �
 Dialogue: 0,0:02:08.94,0:02:15.81,Default,en,0,0,0,,But meanwhile, Rikudomaoh, who's looking to take the Three Sacred Treasures from the king,
 Dialogue: 0,0:02:15.81,0:02:17.69,Default,en,0,0,0,,already got the shield and the round jewel.
 Comment: 0,0:02:18.35,0:02:23.36,TitleEP,ja,0,0,0,,怪物！メガトンジョーだス
+Comment: 0,0:02:18.35,0:02:23.36,TitleEP,ja,0,0,190,,
 Dialogue: 0,0:02:18.35,0:02:23.36,TitleEP,ko,0,0,190,,괴물!
+Comment: 0,0:02:18.35,0:02:23.36,TitleEP,ja,0,0,60,,
 Dialogue: 0,0:02:18.35,0:02:23.36,TitleEP,ko,0,0,60,,메가톤성이오
 Dialogue: 0,0:02:18.35,0:02:23.36,TitleEP,en,0,0,190,,A Monster!
 Dialogue: 0,0:02:18.35,0:02:23.36,TitleEP,en,0,0,60,,Megaton Castle
@@ -820,7 +822,9 @@ Comment: 0,0:24:25.42,0:24:28.29,Default,ja,0,0,0,,疾風怒濤の焼き団子�
 Dialogue: 0,0:24:25.42,0:24:28.29,Default,ko,0,0,0,,질풍노도의 구운 단고오!
 Dialogue: 0,0:24:25.42,0:24:28.29,Default,en,0,0,0,,It's a stormy cooked {\i1}dango{\i0}-{\i1}dasu{\i0}!
 Dialogue: 0,0:24:26.97,0:24:30.97,NoteOnAnime,ko,60,0,60,,{\an7}다음 이야기
+Comment: 0,0:24:26.97,0:24:30.97,TitleEP,ja,0,0,220,,
 Dialogue: 0,0:24:26.97,0:24:30.97,TitleEP,ko,0,0,220,,센히메의 사랑은
+Comment: 0,0:24:26.97,0:24:30.97,TitleEP,ja,0,0,80,,
 Dialogue: 0,0:24:26.97,0:24:30.97,TitleEP,ko,0,0,80,,이기오
 Dialogue: 0,0:24:26.97,0:24:30.97,NoteOnAnime,ko,0,60,30,,{\an3\fs32}기대하세요!
 Dialogue: 0,0:24:26.97,0:24:30.97,NoteOnAnime,en,60,0,60,,{\an7}Next Episode

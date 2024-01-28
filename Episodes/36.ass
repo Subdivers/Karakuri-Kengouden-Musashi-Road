@@ -65,7 +65,9 @@ Comment: 0,0:02:11.36,0:02:17.43,Default,ja,0,0,0,,ヒミコに催眠術をか�
 Dialogue: 0,0:02:11.36,0:02:17.43,Default,ko,0,0,0,,히미코의 최면술에 걸린 무사시는 코지로 일행을 죽이라는 명령을 받고 만다.
 Dialogue: 0,0:02:11.36,0:02:17.43,Default,en,0,0,0,,Under the hypnotism of Himiko, Musashi was ordered to kill Kojirō and others.
 Comment: 0,0:02:17.81,0:02:22.81,TitleEP,ja,0,0,0,,シラヌイ最後の陰謀だス
+Comment: 0,0:02:17.81,0:02:22.81,TitleEP,ja,0,0,200,,
 Dialogue: 0,0:02:17.81,0:02:22.81,TitleEP,ko,0,0,200,,시라누이 최후의
+Comment: 0,0:02:17.81,0:02:22.81,TitleEP,ja,0,0,60,,
 Dialogue: 0,0:02:17.81,0:02:22.81,TitleEP,ko,0,0,60,,음모이오
 Dialogue: 0,0:02:17.81,0:02:22.81,TitleEP,en,0,0,200,,The Last Conspiracy
 Dialogue: 0,0:02:17.81,0:02:22.81,TitleEP,en,0,0,60,,of Shiranui
@@ -731,7 +733,9 @@ Comment: 0,0:24:25.39,0:24:27.72,Default,ja,0,0,0,,疾風怒濤のオツルち�
 Dialogue: 0,0:24:25.39,0:24:27.72,Default,ko,0,0,0,,질풍노도의 오츠루이오!
 Dialogue: 0,0:24:25.39,0:24:27.72,Default,en,0,0,0,,It's stormy Otsuru-{\i1}dasu{\i0}!
 Dialogue: 0,0:24:26.26,0:24:30.68,NoteOnAnime,ko,60,0,60,,{\an7}다음 이야기
+Comment: 0,0:24:26.26,0:24:30.68,TitleEP,ja,0,0,220,,
 Dialogue: 0,0:24:26.26,0:24:30.68,TitleEP,ko,0,0,220,,코지로에게
+Comment: 0,0:24:26.26,0:24:30.68,TitleEP,ja,0,0,80,,
 Dialogue: 0,0:24:26.26,0:24:30.68,TitleEP,ko,0,0,80,,이겼소!
 Dialogue: 0,0:24:26.26,0:24:30.68,NoteOnAnime,ko,0,60,30,,{\an3\fs32}기대하세요!
 Dialogue: 0,0:24:26.26,0:24:30.68,NoteOnAnime,en,60,0,60,,{\an7}Next Episode

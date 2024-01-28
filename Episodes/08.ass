@@ -73,6 +73,7 @@ Dialogue: 0,0:02:07.33,0:02:13.61,Default,en,0,0,0,,In front of the might of kus
 Comment: 0,0:02:13.65,0:02:22.57,Default,ja,0,0,0,,
 Dialogue: 0,0:02:13.65,0:02:22.57,Default,ko,0,0,0,,그러나 우정이 트었다. 그리고 에도토피아의 무예 대회에서 재회를 단단히 약속하고 떠났다.
 Dialogue: 0,0:02:13.65,0:02:22.57,Default,en,0,0,0,,But after all, a new friendship has born. Musashi has promised to meet him again in the martial arts competition, and left.
+Comment: 0,0:02:22.65,0:02:27.65,TitleEP,ja,0,0,70,,
 Dialogue: 0,0:02:22.65,0:02:27.65,TitleEP,ko,0,0,70,,악의 한조, 살며시 다가오오
 Dialogue: 0,0:02:22.65,0:02:27.65,TitleEP,en,0,0,60,,Evil Hanzō Creeps
 Comment: 0,0:02:49.61,0:02:51.81,Default,ja,0,0,0,,
@@ -752,10 +753,14 @@ Comment: 0,0:24:24.81,0:24:27.73,Default,ja,0,0,0,,
 Dialogue: 0,0:24:24.81,0:24:27.73,Default,ko,0,0,0,,질풍노도의 우정으로 우시오!
 Dialogue: 0,0:24:24.81,0:24:27.73,Default,en,0,0,0,,Cry by the stormy friendship-{\i1}dasu{\i0}!
 Dialogue: 0,0:24:27.72,0:24:31.68,NoteOnAnime,ko,60,0,60,,{\an7}다음 이야기
+Comment: 0,0:24:27.72,0:24:31.68,TitleEP,ja,0,0,200,,
 Dialogue: 0,0:24:27.72,0:24:31.68,TitleEP,ko,0,0,200,,사내 이시마츠
+Comment: 0,0:24:27.72,0:24:31.68,TitleEP,ja,0,0,70,,
 Dialogue: 0,0:24:27.72,0:24:31.68,TitleEP,ko,0,0,70,,우정이 떨어지오
 Dialogue: 0,0:24:27.72,0:24:31.68,NoteOnAnime,ko,0,60,30,,{\an3\fs32}기대하세요!
 Dialogue: 0,0:24:27.72,0:24:31.68,NoteOnAnime,en,60,0,60,,{\an7}Next Episode
+Comment: 0,0:24:27.72,0:24:31.68,TitleEP,ja,0,0,200,,
 Dialogue: 0,0:24:27.72,0:24:31.68,TitleEP,ko,0,0,200,,A Man Ishimatsu
+Comment: 0,0:24:27.72,0:24:31.68,TitleEP,ja,0,0,70,,
 Dialogue: 0,0:24:27.72,0:24:31.68,TitleEP,ko,0,0,70,,Friendship Falls
 Dialogue: 0,0:24:27.72,0:24:31.68,NoteOnAnime,en,0,60,30,,{\an3\fs32}Look forwards for it!

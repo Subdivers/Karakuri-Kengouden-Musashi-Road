@@ -74,9 +74,13 @@ Dialogue: 0,0:02:07.51,0:02:11.48,Default,en,0,0,0,,But thanks to Kojirō, Musas
 Comment: 0,0:02:11.48,0:02:18.22,Default,ja,0,0,0,,ジパング武芸大会を目指して、一路東へ向かうのであった。
 Dialogue: 0,0:02:11.48,0:02:18.22,Default,ko,0,0,0,,지팡구 무예 대회를 노리고 계속 동쪽으로 가고 있었다.
 Dialogue: 0,0:02:11.48,0:02:18.22,Default,en,0,0,0,,He kept heading to the east, hoping to participate in Jipangu Martial Arts Competition.
+Comment: 0,0:02:18.24,0:02:22.79,TitleEP,ja,0,0,190,,
 Dialogue: 0,0:02:18.24,0:02:22.79,TitleEP,ko,0,0,190,,사내 이시마츠
+Comment: 0,0:02:18.24,0:02:22.79,TitleEP,ja,0,0,50,,
 Dialogue: 0,0:02:18.24,0:02:22.79,TitleEP,ko,0,0,50,,우정이 떨어지오
+Comment: 0,0:02:18.24,0:02:22.79,TitleEP,ja,0,0,190,,
 Dialogue: 0,0:02:18.24,0:02:22.79,TitleEP,ko,0,0,190,,A Man Ishimatsu
+Comment: 0,0:02:18.24,0:02:22.79,TitleEP,ja,0,0,50,,
 Dialogue: 0,0:02:18.24,0:02:22.79,TitleEP,ko,0,0,50,,Friendship Falls
 Comment: 0,0:02:23.40,0:02:26.81,Default,ja,0,0,0,,清水港の名物はお茶の香りと男伊達、
 Dialogue: 0,0:02:23.40,0:02:26.81,Default,ko,0,0,0,,시미즈 항의 명물은 차의 향기와 협객.
@@ -882,6 +886,7 @@ Comment: 0,0:24:25.26,0:24:27.11,Default,ja,0,0,0,,疾風怒濤の捕り物を�
 Dialogue: 0,0:24:25.26,0:24:27.11,Default,ko,0,0,0,,질풍노도의 죄인잡기를 보시오!
 Dialogue: 0,0:24:25.26,0:24:27.11,Default,en,0,0,0,,Watch the stormy arresting story-{\i1}dasu{\i0}!
 Dialogue: 0,0:24:27.11,0:24:31.72,NoteOnAnime,ko,60,0,60,,{\an7}다음 이야기
+Comment: 0,0:24:27.11,0:24:31.72,TitleEP,ja,0,0,70,,
 Dialogue: 0,0:24:27.11,0:24:31.72,TitleEP,ko,0,0,70,,꽃도 폭풍도 에도토피아
 Dialogue: 0,0:24:27.11,0:24:31.72,NoteOnAnime,ko,0,60,30,,{\an3\fs32}기대하세요!
 Dialogue: 0,0:24:27.11,0:24:31.72,NoteOnAnime,en,60,0,60,,{\an7}Next Episode

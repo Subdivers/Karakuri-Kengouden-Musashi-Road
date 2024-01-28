@@ -68,7 +68,9 @@ Comment: 0,0:02:16.17,0:02:21.64,Default,ja,0,0,0,,そのどさくさ紛れて�
 Dialogue: 0,0:02:16.17,0:02:21.64,Default,ko,0,0,0,,그 혼잡한 틈을 타서 무사시는 변장해 시라누이 일족으로 잠입한다.
 Dialogue: 0,0:02:16.17,0:02:21.64,Default,en,0,0,0,,Using that chaotic moment, Musashi disguises himself as Shiranui and infiltrates to them.
 Comment: 0,0:02:22.03,0:02:27.04,TitleEP,ja,0,0,0,,火の国の女王、ヒミコだス
+Comment: 0,0:02:22.03,0:02:27.04,TitleEP,ja,0,0,200,,
 Dialogue: 0,0:02:22.03,0:02:27.04,TitleEP,ko,0,0,200,,불의 나라의 여왕
+Comment: 0,0:02:22.03,0:02:27.04,TitleEP,ja,0,0,70,,
 Dialogue: 0,0:02:22.03,0:02:27.04,TitleEP,ko,0,0,70,,히미코이오
 Dialogue: 0,0:02:22.03,0:02:27.04,TitleEP,en,0,0,200,,The Queen of the Fire Country
 Dialogue: 0,0:02:22.03,0:02:27.04,TitleEP,en,0,0,70,,Himiko
@@ -729,7 +731,9 @@ Comment: 0,0:24:23.76,0:24:26.45,Default,ja,0,0,0,,疾風怒濤の大爆発だ�
 Dialogue: 0,0:24:23.76,0:24:26.45,Default,ko,0,0,0,,질풍노도의 대폭발이오!
 Dialogue: 0,0:24:23.76,0:24:26.45,Default,en,0,0,0,,It's a stormy big explosion-{\i1}dasu{\i0}!
 Dialogue: 0,0:24:26.15,0:24:30.94,NoteOnAnime,ko,60,0,60,,{\an7}다음 이야기
+Comment: 0,0:24:26.15,0:24:30.94,TitleEP,ja,0,0,220,,
 Dialogue: 0,0:24:26.15,0:24:30.94,TitleEP,ko,0,0,220,,시라누이 최후의
+Comment: 0,0:24:26.15,0:24:30.94,TitleEP,ja,0,0,80,,
 Dialogue: 0,0:24:26.15,0:24:30.94,TitleEP,ko,0,0,80,,음모이오
 Dialogue: 0,0:24:26.15,0:24:30.94,NoteOnAnime,ko,0,60,30,,{\an3\fs32}기대하세요!
 Dialogue: 0,0:24:26.15,0:24:30.94,NoteOnAnime,en,60,0,60,,{\an7}Next Episode

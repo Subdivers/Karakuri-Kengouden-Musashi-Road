@@ -65,7 +65,9 @@ Comment: 0,0:02:12.36,0:02:17.93,Default,ja,0,0,0,,メガトンジョーに～�
 Dialogue: 0,0:02:12.36,0:02:17.93,Default,ko,0,0,0,,메가톤성에 손해를 입혔지만, 잠수함도 너덜너덜해지고 말았다.
 Dialogue: 0,0:02:12.36,0:02:17.93,Default,en,0,0,0,,They damaged Megaton Castle, but also destroyed was their submarine.
 Comment: 0,0:02:18.34,0:02:23.35,TitleEP,ja,0,0,0,,大笑い　タコおどり作戦だス
+Comment: 0,0:02:18.34,0:02:23.35,TitleEP,ja,0,0,220,,
 Dialogue: 0,0:02:18.34,0:02:23.35,TitleEP,ko,0,0,220,,큰 웃음거리
+Comment: 0,0:02:18.34,0:02:23.35,TitleEP,ja,0,0,85,,
 Dialogue: 0,0:02:18.34,0:02:23.35,TitleEP,ko,0,0,85,,문어 춤 작전이오
 Dialogue: 0,0:02:18.34,0:02:23.35,TitleEP,en,0,0,220,,Big Laughter
 Dialogue: 0,0:02:18.34,0:02:23.35,TitleEP,en,0,0,85,,Octopus Dance Strategy
@@ -844,7 +846,9 @@ Comment: 0,0:24:26.16,0:24:28.66,Default,ja,0,0,0,,疾風怒濤の雙龍劍だ�
 Dialogue: 0,0:24:26.16,0:24:28.66,Default,ko,0,0,0,,질풍노도의 쌍룡검이오!
 Dialogue: 0,0:24:26.16,0:24:28.66,Default,en,0,0,0,,It's the stormy Double Dragon Sword-{\i1}dasu{\i0}!
 Dialogue: 0,0:24:27.42,0:24:31.68,NoteOnAnime,ko,60,0,60,,{\an7}다음 이야기
+Comment: 0,0:24:27.42,0:24:31.68,TitleEP,ja,0,0,220,,
 Dialogue: 0,0:24:27.42,0:24:31.68,TitleEP,ko,0,0,220,,바벨 13을
+Comment: 0,0:24:27.42,0:24:31.68,TitleEP,ja,0,0,80,,
 Dialogue: 0,0:24:27.42,0:24:31.68,TitleEP,ko,0,0,80,,부수어라 이오
 Dialogue: 0,0:24:27.42,0:24:31.68,NoteOnAnime,ko,0,60,30,,{\an3\fs32}기대하세요!
 Dialogue: 0,0:24:27.42,0:24:31.68,NoteOnAnime,en,60,0,60,,{\an7}Next Episode

@@ -75,6 +75,7 @@ Dialogue: 0,0:02:06.83,0:02:14.21,Default,en,0,0,0,,but he met a wrong opponent,
 Comment: 0,0:02:14.59,0:02:17.73,Default,ja,0,0,0,,
 Dialogue: 0,0:02:14.59,0:02:17.73,Default,ko,0,0,0,,덴시치로를 적으로 맞이하고야 말았다.
 Dialogue: 0,0:02:14.59,0:02:17.73,Default,en,0,0,0,,boasting countless members across the land.
+Comment: 0,0:02:18.16,0:02:23.16,TitleEP,ja,0,0,60,,
 Dialogue: 0,0:02:18.16,0:02:23.16,TitleEP,ko,0,0,60,,명검 장인, 폭풍을 부르오
 Dialogue: 0,0:02:18.16,0:02:23.16,TitleEP,en,0,0,200,,Master of Sword Maker
 Dialogue: 0,0:02:18.16,0:02:23.16,TitleEP,en,0,0,60,,Calls for a Storm
@@ -899,6 +900,7 @@ Comment: 0,0:24:24.60,0:24:27.01,Default,ja,0,0,0,,
 Dialogue: 0,0:24:24.60,0:24:27.01,Default,ko,0,0,0,,질풍노도의 활약을 보시오!
 Dialogue: 0,0:24:24.60,0:24:27.01,Default,en,0,0,0,,Be sure to check out the next stormy story-{\i1}dasu{\i0}!
 Dialogue: 0,0:24:27.03,0:24:30.99,NoteOnAnime,ko,60,0,60,,{\an7}다음 이야기
+Comment: 0,0:24:27.03,0:24:30.99,TitleEP,ja,0,0,70,,
 Dialogue: 0,0:24:27.03,0:24:30.99,TitleEP,ko,0,0,70,,나는 스승이오\N훌륭하오!
 Dialogue: 0,0:24:27.03,0:24:30.99,NoteOnAnime,ko,0,60,30,,{\an3\fs32}기대하세요!
 Dialogue: 0,0:24:27.03,0:24:30.99,NoteOnAnime,en,60,0,60,,{\an7}Next Episode

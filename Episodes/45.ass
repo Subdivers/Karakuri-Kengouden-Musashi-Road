@@ -65,7 +65,9 @@ Comment: 0,0:02:12.44,0:02:21.07,Default,ja,0,0,0,,かくて、ゲントク、�
 Dialogue: 0,0:02:12.44,0:02:21.07,Default,ko,0,0,0,,그래서 현덕, 관우, 장비의 갑주와 뇌명환을 얻어 파워 업한 무사시 일행의 새로운 싸움이 시작된다.
 Dialogue: 0,0:02:12.44,0:02:21.07,Default,en,0,0,0,,Thus, with the armor of Gentoku, Kanu, and Chohi, they powered up and their new battles are about to begin.
 Comment: 0,0:02:21.87,0:02:26.87,TitleEP,ja,0,0,0,,波のりゲンナイ　発明王だス
+Comment: 0,0:02:21.87,0:02:26.87,TitleEP,ja,0,0,220,,
 Dialogue: 0,0:02:21.87,0:02:26.87,TitleEP,ko,0,0,220,,파도타는 겐나이
+Comment: 0,0:02:21.87,0:02:26.87,TitleEP,ja,0,0,85,,
 Dialogue: 0,0:02:21.87,0:02:26.87,TitleEP,ko,0,0,85,,발명왕이오
 Dialogue: 0,0:02:21.87,0:02:26.87,TitleEP,en,0,0,220,,Surfing Gennai
 Dialogue: 0,0:02:21.87,0:02:26.87,TitleEP,en,0,0,85,,is the Invention King
@@ -874,7 +876,9 @@ Comment: 0,0:24:24.41,0:24:27.22,Default,ja,0,0,0,,疾風怒濤のたこ刺し�
 Dialogue: 0,0:24:24.41,0:24:27.22,Default,ko,0,0,0,,질풍노도의 문어회이오!
 Dialogue: 0,0:24:24.41,0:24:27.22,Default,en,0,0,0,,It's a stormy raw octopus-{\i1}dasu{\i0}!
 Dialogue: 0,0:24:26.86,0:24:30.86,NoteOnAnime,ko,60,0,60,,{\an7}다음 이야기
+Comment: 0,0:24:26.86,0:24:30.86,TitleEP,ja,0,0,220,,
 Dialogue: 0,0:24:26.86,0:24:30.86,TitleEP,ko,0,0,220,,큰 웃음거리
+Comment: 0,0:24:26.86,0:24:30.86,TitleEP,ja,0,0,80,,
 Dialogue: 0,0:24:26.86,0:24:30.86,TitleEP,ko,0,0,80,,문어 춤 작전이오
 Dialogue: 0,0:24:26.86,0:24:30.86,NoteOnAnime,ko,0,60,30,,{\an3\fs32}기대하세요!
 Dialogue: 0,0:24:26.86,0:24:30.86,NoteOnAnime,en,60,0,60,,{\an7}Next Episode

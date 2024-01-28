@@ -56,7 +56,9 @@ Dialogue: 0,0:01:34.22,0:01:39.60,SongOP,OP!Lyric16,0,0,0,,戦い　思い切り
 Dialogue: 0,0:01:39.65,0:01:45.86,SongOP,OP!Lyric17,0,0,0,,BUGEI! 二刀流　ムサシ
 Dialogue: 0,0:01:45.86,0:01:51.07,SongOP,OP!Lyric17,0,0,0,,みけんが　きらめいた　ムサシ！！
 Comment: 0,0:01:57.95,0:02:03.96,TitleEP,ja,0,0,0,,ムサシ対コジローだス
+Comment: 0,0:01:57.95,0:02:03.96,TitleEP,ja,0,0,205,,
 Dialogue: 0,0:01:57.95,0:02:03.96,TitleEP,ko,0,0,205,,무사시 대
+Comment: 0,0:01:57.95,0:02:03.96,TitleEP,ja,0,0,85,,
 Dialogue: 0,0:01:57.95,0:02:03.96,TitleEP,ko,0,0,85,,코지로이오
 Dialogue: 0,0:01:57.95,0:02:03.96,TitleEP,en,0,0,205,,Musashi vs.
 Dialogue: 0,0:01:57.95,0:02:03.96,TitleEP,en,0,0,85,,Kojirō

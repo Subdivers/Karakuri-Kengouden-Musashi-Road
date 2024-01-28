@@ -65,7 +65,9 @@ Comment: 0,0:02:11.09,0:02:17.68,Default,ja,0,0,0,,だが、からくり武芸�
 Dialogue: 0,0:02:11.09,0:02:17.68,Default,ko,0,0,0,,그렇지만 카라쿠리 무예가의 우정 파워로 대단한 신겐도 물러나고 말았다.
 Dialogue: 0,0:02:11.09,0:02:17.68,Default,en,0,0,0,,But by the friendship power of Karakuri martial artists, even Shingen had to retreat.
 Comment: 0,0:02:18.18,0:02:23.18,TitleEP,ja,0,0,0,,木馬は怖いワナだっただス
+Comment: 0,0:02:18.18,0:02:23.18,TitleEP,ja,0,0,200,,
 Dialogue: 0,0:02:18.18,0:02:23.18,TitleEP,ko,0,0,200,,목마는 무서운
+Comment: 0,0:02:18.18,0:02:23.18,TitleEP,ja,0,0,60,,
 Dialogue: 0,0:02:18.18,0:02:23.18,TitleEP,ko,0,0,60,,함정이었소
 Dialogue: 0,0:02:18.18,0:02:23.18,TitleEP,en,0,0,200,,The Wooden Horse
 Dialogue: 0,0:02:18.18,0:02:23.18,TitleEP,en,0,0,60,,was a Trap
@@ -923,7 +925,9 @@ Comment: 0,0:24:24.62,0:24:27.34,Default,ja,0,0,0,,疾風怒濤の瀬戸内海�
 Dialogue: 0,0:24:24.62,0:24:27.34,Default,ko,0,0,0,,질풍노도의 세토 내해이오!
 Dialogue: 0,0:24:24.62,0:24:27.34,Default,en,0,0,0,,It's the stormy Seto Inland Sea-dasu!
 Dialogue: 0,0:24:26.21,0:24:30.30,NoteOnAnime,ko,60,0,60,,{\an7}다음 이야기
+Comment: 0,0:24:26.21,0:24:30.30,TitleEP,ja,0,0,220,,
 Dialogue: 0,0:24:26.21,0:24:30.30,TitleEP,ko,0,0,220,,하늘과 땅의
+Comment: 0,0:24:26.21,0:24:30.30,TitleEP,ja,0,0,80,,
 Dialogue: 0,0:24:26.21,0:24:30.30,TitleEP,ko,0,0,80,,신겐신이오
 Dialogue: 0,0:24:26.21,0:24:30.30,NoteOnAnime,ko,0,60,30,,{\an3\fs32}기대하세요!
 Dialogue: 0,0:24:26.21,0:24:30.30,NoteOnAnime,en,60,0,60,,{\an7}Next Episode

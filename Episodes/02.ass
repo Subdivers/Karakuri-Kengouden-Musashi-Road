@@ -81,6 +81,7 @@ Dialogue: 0,0:02:15.82,0:02:19.19,Default,en,0,0,0,,and he was completely defeat
 Comment: 0,0:02:19.70,0:02:22.99,Default,ja,0,0,0,,
 Dialogue: 0,0:02:19.70,0:02:22.99,Default,ko,0,0,0,,그의 앞길에는 먹구름이 닥친 것이었다.
 Dialogue: 0,0:02:19.70,0:02:22.99,Default,en,0,0,0,,Dark clouds were in front of him.
+Comment: 0,0:02:23.46,0:02:28.46,TitleEP,ja,0,0,80,,
 Dialogue: 0,0:02:23.46,0:02:28.46,TitleEP,ko,0,0,80,,눈물의 수행은 배가 고프오
 Dialogue: 0,0:02:23.46,0:02:28.46,TitleEP,en,0,0,230,,Training in Tears
 Dialogue: 0,0:02:23.46,0:02:28.46,TitleEP,en,0,0,110,,Makes Me Hungry
@@ -769,6 +770,7 @@ Comment: 0,0:24:24.75,0:24:27.27,Default,ja,0,0,0,,
 Dialogue: 0,0:24:24.75,0:24:27.27,Default,ko,0,0,0,,네 눈동자를 뚫고 갈 것이오!
 Dialogue: 0,0:24:24.75,0:24:27.27,Default,en,0,0,0,,It will pierce through your eyes-{\i1}dasu{\i0}!
 Dialogue: 0,0:24:27.28,0:24:31.24,NoteOnAnime,ko,60,0,60,,{\an7}다음 이야기
+Comment: 0,0:24:27.28,0:24:31.24,TitleEP,ja,0,0,70,,
 Dialogue: 0,0:24:27.28,0:24:31.24,TitleEP,ko,0,0,70,,미야코 고조의 벤케이오
 Dialogue: 0,0:24:27.28,0:24:31.24,NoteOnAnime,ko,0,60,30,,{\an3\fs32}기대하세요!
 Dialogue: 0,0:24:27.28,0:24:31.24,NoteOnAnime,en,60,0,60,,{\an7}Next Episode

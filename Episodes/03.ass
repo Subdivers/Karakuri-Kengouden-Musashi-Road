@@ -75,6 +75,7 @@ Dialogue: 0,0:02:06.52,0:02:11.82,Default,en,0,0,0,,At last, with his strong des
 Comment: 0,0:02:12.51,0:02:18.42,Default,ja,0,0,0,,
 Dialogue: 0,0:02:12.51,0:02:18.42,Default,ko,0,0,0,,보쿠덴의 검의 극의를 배운 무사시는 살아남아 미야코 팔레스에 간다.
 Dialogue: 0,0:02:12.51,0:02:18.42,Default,en,0,0,0,,Now, having learned the extreme art of swords from Bokuden, Musashi survives and heads for the Miyako Palace.
+Comment: 0,0:02:18.61,0:02:23.61,TitleEP,ja,0,0,80,,
 Dialogue: 0,0:02:18.61,0:02:23.61,TitleEP,ko,0,0,80,,수도의 고조의 벤케이
 Dialogue: 0,0:02:18.61,0:02:23.61,TitleEP,en,0,0,80,,Benkei at the Capital Castle City
 Comment: 0,0:02:41.66,0:02:43.44,Default,ja,0,0,0,,
@@ -885,6 +886,7 @@ Comment: 0,0:24:24.54,0:24:27.37,Default,ja,0,0,0,,
 Dialogue: 0,0:24:24.54,0:24:27.37,Default,ko,0,0,0,,질풍노도의 활약을 보시오!
 Dialogue: 0,0:24:24.54,0:24:27.37,Default,en,0,0,0,,Be sure to check out the stormy action-{\i1}dasu{\i0}!
 Dialogue: 0,0:24:27.35,0:24:31.35,NoteOnAnime,ko,60,0,60,,{\an7}다음 이야기
+Comment: 0,0:24:27.35,0:24:31.35,TitleEP,ja,0,0,70,,
 Dialogue: 0,0:24:27.35,0:24:31.35,TitleEP,ko,0,0,70,,료마는 혼자 바람 속에
 Dialogue: 0,0:24:27.35,0:24:31.35,NoteOnAnime,ko,0,60,30,,{\an3\fs32}기대하세요!
 Dialogue: 0,0:24:27.35,0:24:31.35,NoteOnAnime,en,60,0,60,,{\an7}Next Episode

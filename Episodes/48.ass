@@ -63,7 +63,9 @@ Comment: 0,0:02:10.57,0:02:17.45,Default,ja,0,0,0,,危うし千姫。しかし�
 Dialogue: 0,0:02:10.57,0:02:17.45,Default,ko,0,0,0,,위태로운 센히메. 그러나 우시와카, 벤케이, 제니가탄의 활약으로 궁지에서 벗어난다.
 Dialogue: 0,0:02:10.57,0:02:17.45,Default,en,0,0,0,,Senhime's in crisis. But thanks to Ushiwaka, Benkei, and Zenigatan, they escape from crisis.
 Comment: 0,0:02:18.15,0:02:23.16,TitleEP,ja,0,0,0,,エドトピア　大ピンチだス
+Comment: 0,0:02:18.15,0:02:23.16,TitleEP,ja,0,0,210,,
 Dialogue: 0,0:02:18.15,0:02:23.16,TitleEP,ko,0,0,210,,에도토피아
+Comment: 0,0:02:18.15,0:02:23.16,TitleEP,ja,0,0,70,,
 Dialogue: 0,0:02:18.15,0:02:23.16,TitleEP,ko,0,0,70,,대위기이오
 Dialogue: 0,0:02:18.15,0:02:23.16,TitleEP,en,0,0,210,,Edotopia
 Dialogue: 0,0:02:18.15,0:02:23.16,TitleEP,en,0,0,70,,in Big Crisis
@@ -848,7 +850,9 @@ Comment: 0,0:24:25.89,0:24:28.28,Default,ja,0,0,0,,疾風怒濤のエドトピ�
 Dialogue: 0,0:24:25.89,0:24:28.28,Default,ko,0,0,0,,질퐁노도의 에도토피아오!
 Dialogue: 0,0:24:25.89,0:24:28.28,Default,en,0,0,0,,It's the stormy Edotopia-{\i1}dasu{\i0}!
 Dialogue: 0,0:24:27.36,0:24:31.28,NoteOnAnime,ko,60,0,60,,{\an7}다음 이야기
+Comment: 0,0:24:27.36,0:24:31.28,TitleEP,ja,0,0,220,,
 Dialogue: 0,0:24:27.36,0:24:31.28,TitleEP,ko,0,0,220,,꽃의 무사시
+Comment: 0,0:24:27.36,0:24:31.28,TitleEP,ja,0,0,80,,
 Dialogue: 0,0:24:27.36,0:24:31.28,TitleEP,ko,0,0,80,,악을 베오
 Dialogue: 0,0:24:27.36,0:24:31.28,NoteOnAnime,ko,0,60,30,,{\an3\fs32}기대하세요!
 Dialogue: 0,0:24:27.36,0:24:31.28,NoteOnAnime,en,60,0,60,,{\an7}Next Episode

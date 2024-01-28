@@ -68,7 +68,9 @@ Dialogue: 0,0:02:13.97,0:02:18.36,Default,en,0,0,0,,they go on a journey to Kyus
 Comment: 0,0:02:18.84,0:02:23.85,Default,ja,0,0,0,,サイゴーさんは謎の人だス
 Comment: 0,0:02:18.84,0:02:23.85,Default,ko,0,0,0,,사이고 씨는 수수께끼의 인물이오
 Comment: 0,0:02:18.84,0:02:23.85,Default,en,0,0,0,,Mr. Saigo is a Mysterious Person
+Comment: 0,0:02:18.84,0:02:23.85,TitleEP,ja,0,0,210,,
 Dialogue: 0,0:02:18.84,0:02:23.85,TitleEP,ko,0,0,210,,사이고 씨는
+Comment: 0,0:02:18.84,0:02:23.85,TitleEP,ja,0,0,70,,
 Dialogue: 0,0:02:18.84,0:02:23.85,TitleEP,ko,0,0,70,,수수께끼의 인물이오
 Dialogue: 0,0:02:18.84,0:02:23.85,TitleEP,en,0,0,210,,Mr. Saigo is
 Dialogue: 0,0:02:18.84,0:02:23.85,TitleEP,en,0,0,70,,a Mysterious Person
@@ -931,7 +933,9 @@ Comment: 0,0:24:24.18,0:24:27.50,Default,ja,0,0,0,,疾風怒濤のお母さん�
 Dialogue: 0,0:24:24.18,0:24:27.50,Default,ko,0,0,0,,{\pos(320,470)}질풍노도의 엄마! 이오!
 Dialogue: 0,0:24:24.18,0:24:27.50,Default,en,0,0,0,,{\pos(320,470)}It's a stormy mommy! -{\i1}dasu{\i0}!
 Dialogue: 0,0:24:27.50,0:24:31.47,NoteOnAnime,ko,60,0,60,,{\an7}다음 이야기
+Comment: 0,0:24:27.50,0:24:31.47,TitleEP,ja,0,0,225,,
 Dialogue: 0,0:24:27.50,0:24:31.47,TitleEP,ko,0,0,225,,나
+Comment: 0,0:24:27.50,0:24:31.47,TitleEP,ja,0,0,110,,
 Dialogue: 0,0:24:27.50,0:24:31.47,TitleEP,ko,0,0,110,,비뚤어지오
 Dialogue: 0,0:24:27.50,0:24:31.47,NoteOnAnime,ko,0,60,30,,{\an3\fs32}기대하세요!
 Dialogue: 0,0:24:27.50,0:24:31.47,NoteOnAnime,en,60,0,60,,{\an7}Next Episode

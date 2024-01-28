@@ -69,7 +69,9 @@ Comment: 0,0:02:14.94,0:02:17.60,Default,ja,0,0,0,,えへ、うまくはいか�
 Dialogue: 0,0:02:14.94,0:02:17.60,Default,ko,0,0,0,,어허, 잘 안 되고 있었다.
 Dialogue: 0,0:02:14.94,0:02:17.60,Default,en,0,0,0,,why, it wasn't working out so well.
 Comment: 0,0:02:17.97,0:02:22.98,TitleEP,ja,0,0,0,,今よみがえる伝説の剣だす
+Comment: 0,0:02:17.97,0:02:22.98,TitleEP,ja,0,0,190,,
 Dialogue: 0,0:02:17.97,0:02:22.98,TitleEP,ko,0,0,190,,지금 되살아나는
+Comment: 0,0:02:17.97,0:02:22.98,TitleEP,ja,0,0,50,,
 Dialogue: 0,0:02:17.97,0:02:22.98,TitleEP,ko,0,0,50,,전설의 검이오
 Dialogue: 0,0:02:17.97,0:02:22.98,TitleEP,en,0,0,190,,The Reviving
 Dialogue: 0,0:02:17.97,0:02:22.98,TitleEP,en,0,0,50,,Legendary Sword
@@ -727,7 +729,9 @@ Comment: 0,0:24:24.71,0:24:27.42,Default,ja,0,0,0,,疾風怒濤の地獄谷ダ�
 Dialogue: 0,0:24:24.71,0:24:27.42,Default,ko,0,0,0,,질풍노도의 지옥곡이오!
 Dialogue: 0,0:24:24.71,0:24:27.42,Default,en,0,0,0,,It's a stormy hell valley!
 Dialogue: 0,0:24:26.86,0:24:30.86,NoteOnAnime,ko,60,0,60,,{\an7}다음 이야기
+Comment: 0,0:24:26.86,0:24:30.86,TitleEP,ja,0,0,225,,
 Dialogue: 0,0:24:26.86,0:24:30.86,TitleEP,ko,0,0,225,,어라?!
+Comment: 0,0:24:26.86,0:24:30.86,TitleEP,ja,0,0,110,,
 Dialogue: 0,0:24:26.86,0:24:30.86,TitleEP,ko,0,0,110,,무사시는 죽소
 Dialogue: 0,0:24:26.86,0:24:30.86,NoteOnAnime,ko,0,60,30,,{\an3\fs32}기대하세요!
 Dialogue: 0,0:24:26.86,0:24:30.86,NoteOnAnime,en,60,0,60,,{\an7}Next Episode
