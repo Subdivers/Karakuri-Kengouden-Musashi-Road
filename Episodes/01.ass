@@ -372,9 +372,9 @@ Dialogue: 0,0:10:07.57,0:10:14.34,Default,en,0,0,0,,That's right, my chicken cag
 Comment: 0,0:10:14.47,0:10:17.23,Default,ja,0,0,0,,さあ！洲巻にして川にぶち込むんだ！
 Dialogue: 0,0:10:14.47,0:10:17.23,Default,ko,0,0,0,,자! 대발로 감아 강에 쳐넣자!
 Dialogue: 0,0:10:14.47,0:10:17.23,Default,en,0,0,0,,Let's tie him up and throw him into a river!
-Comment: 0,0:10:18.23,0:10:22.39,Default,ja,0,0,0,,分かったよ！さっさと焼くなり見るなり{???}、勝手にするでござるだス！
-Dialogue: 0,0:10:18.23,0:10:22.39,Default,ko,0,0,0,,알았소! 빨랑빨랑 태우든 매달든 마음대로 하시오!
-Dialogue: 0,0:10:18.23,0:10:22.39,Default,en,0,0,0,,Sure, then! Throw me into a fire, hang me on a tree, do whatever you want-{\i1}dasu{\i0}!
+Comment: 0,0:10:18.23,0:10:22.39,Default,ja,0,0,0,,分かったよ！さっさと焼くなり煮るなり、勝手にするでござるだス！
+Dialogue: 0,0:10:18.23,0:10:22.39,Default,ko,0,0,0,,알았소! 빨랑빨랑 태우든 삶든 마음대로 하시오!
+Dialogue: 0,0:10:18.23,0:10:22.39,Default,en,0,0,0,,Sure, then! Set me on fire or boil me; do whatever you want-{\i1}dasu{\i0}!
 Comment: 0,0:10:22.39,0:10:24.53,Default,ja,0,0,0,,よし、望み通りにしやるぞ。
 Dialogue: 0,0:10:22.39,0:10:24.53,Default,ko,0,0,0,,좋아, 원하는 대로 해 주겠어!
 Dialogue: 0,0:10:22.39,0:10:24.53,Default,en,0,0,0,,Okay, then. We'll do as you wish.
