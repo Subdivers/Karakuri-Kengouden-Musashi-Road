@@ -16,9 +16,9 @@ Video File: ../Videos/05.mp4
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 624
-Active Line: 649
-Video Position: 35262
+Scroll Position: 837
+Active Line: 861
+Video Position: 35167
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -67,57 +67,57 @@ Dialogue: 0,0:01:31.03,0:01:33.53,SongOP,OP!Lyric15,0,0,0,,眩しい人生
 Dialogue: 0,0:01:34.24,0:01:39.62,SongOP,OP!Lyric16,0,0,0,,戦い　思い切りと　静けさと
 Dialogue: 0,0:01:39.66,0:01:45.88,SongOP,OP!Lyric17,0,0,0,,BUGEI! 二刀流　ムサシ
 Dialogue: 0,0:01:45.88,0:01:51.13,SongOP,OP!Lyric18,0,0,0,,みけんが　きらめいた　ムサシ！！
-Comment: 0,0:01:59.80,0:02:06.25,Default,ja,0,0,0,,
+Comment: 0,0:01:59.80,0:02:06.25,Default,ja,0,0,0,,ジパング国ナンバー1の武芸者を目指すムサシは、あまたの武芸者と剣を交えたのであったが、
 Dialogue: 0,0:01:59.80,0:02:06.25,Default,ko,0,0,0,,지팡구국 제일의 무예가를 꿈꾸는 무사시는 무수한 무예가와 검을 주고받고 있었지만
 Dialogue: 0,0:01:59.80,0:02:06.25,Default,en,0,0,0,,Dreaming for the number one martial artist of Jipangu State, Musashi was fighting against numberless Martial Artists,
-Comment: 0,0:02:06.83,0:02:14.21,Default,ja,0,0,0,,
+Comment: 0,0:02:06.83,0:02:14.21,Default,ja,0,0,0,,出会った相手が悪かった。今や全国に多くの会員を持つ悪名高いヨシオカ道場のボス、
 Dialogue: 0,0:02:06.83,0:02:14.21,Default,ko,0,0,0,,상대를 잘못 만났다. 지금은 전국에서 많은 회원을 가진 악명 높은 요시오카 도장의 보스,
 Dialogue: 0,0:02:06.83,0:02:14.21,Default,en,0,0,0,,but he met a wrong opponent, the infamous Denshichirō, the boss of Yoshika Dōjō
-Comment: 0,0:02:14.59,0:02:17.73,Default,ja,0,0,0,,
+Comment: 0,0:02:14.59,0:02:17.73,Default,ja,0,0,0,,デンシチローを敵に回してしまったのであった。
 Dialogue: 0,0:02:14.59,0:02:17.73,Default,ko,0,0,0,,덴시치로를 적으로 맞이하고야 말았다.
 Dialogue: 0,0:02:14.59,0:02:17.73,Default,en,0,0,0,,boasting countless members across the land.
-Comment: 0,0:02:18.16,0:02:23.16,TitleEP,ja,0,0,60,,
-Dialogue: 0,0:02:18.16,0:02:23.16,TitleEP,ko,0,0,60,,명검 장인, 폭풍을 부르오
-Dialogue: 0,0:02:18.16,0:02:23.16,TitleEP,en,0,0,200,,Master of Sword Maker
+Comment: 0,0:02:18.16,0:02:23.16,TitleEP,ja,0,0,60,,名刀コタツ、嵐を呼ぶだス
+Dialogue: 0,0:02:18.16,0:02:23.16,TitleEP,ko,0,0,60,,명검 코테츠, 폭풍을 부르오
+Dialogue: 0,0:02:18.16,0:02:23.16,TitleEP,en,0,0,200,,Kotetsu the Excellent Sword
 Dialogue: 0,0:02:18.16,0:02:23.16,TitleEP,en,0,0,60,,Calls for a Storm
-Comment: 0,0:02:31.82,0:02:40.01,Default,ja,0,0,0,,
+Comment: 0,0:02:31.82,0:02:40.01,Default,ja,0,0,0,,そのような{???}で勝負を挑むなど笑止千万！武芸者の勝負とは、このような真剣を使って{???}ものよ！
 Dialogue: 0,0:02:31.82,0:02:40.01,Default,ko,0,0,0,,그런 목검으로 승부를 보다니 가소롭기 짝이 없구나! 무예가의 승부라는 것은 이런 진검을 써서 하는 것이다!
 Dialogue: 0,0:02:31.82,0:02:35.50,Default,en,0,0,0,,That's very absurd, to have a match with that wooden sword!
 Dialogue: 0,0:02:35.91,0:02:40.01,Default,en,0,0,0,,A match between martial artists shall only be done with real swords like this!
-Comment: 0,0:02:50.82,0:02:55.96,Default,ja,0,0,0,,
+Comment: 0,0:02:50.82,0:02:55.96,Default,ja,0,0,0,,やられた！おいら死んじまうだス！誰か助けてくれだス！
 Dialogue: 0,0:02:50.82,0:02:55.96,Default,ko,0,0,0,,당했소! 나, 죽겠소! 누가 살려주시오!
 Dialogue: 0,0:02:50.82,0:02:55.96,Default,en,0,0,0,,I lost! I'm going to die-{\i1}dasu{\i0}! Someone help me-{\i1}dasu{\i0}!
-Comment: 0,0:02:57.13,0:03:00.11,Default,ja,0,0,0,,
+Comment: 0,0:02:57.13,0:03:00.11,Default,ja,0,0,0,,坊や、何を寝ぼけているんだね。
 Dialogue: 0,0:02:57.13,0:03:00.11,Default,ko,0,0,0,,얘야. 뭘 자면서 그러니.
 Dialogue: 0,0:02:57.13,0:03:00.11,Default,en,0,0,0,,Kid, you're half asleep.
-Comment: 0,0:03:03.75,0:03:05.65,Default,ja,0,0,0,,
+Comment: 0,0:03:03.75,0:03:05.65,Default,ja,0,0,0,,これは柿でござるだスか。
 Dialogue: 0,0:03:03.75,0:03:05.65,Default,ko,0,0,0,,이건 감이었소...
 Dialogue: 0,0:03:03.75,0:03:05.65,Default,en,0,0,0,,It was a persimmon-{\i1}dasu{\i0}!
-Comment: 0,0:03:06.65,0:03:10.08,Default,ja,0,0,0,,
+Comment: 0,0:03:06.65,0:03:10.08,Default,ja,0,0,0,,さき、柿の木の下をとった時におこってきたんだよ。
 Dialogue: 0,0:03:06.65,0:03:10.08,Default,ko,0,0,0,,아까 감나무 아래 지나가는 중에 떨어졌나 보구나.
 Dialogue: 0,0:03:06.65,0:03:10.08,Default,en,0,0,0,,We were going under a persimmon tree moments ago.
-Comment: 0,0:03:10.76,0:03:15.08,Default,ja,0,0,0,,
+Comment: 0,0:03:10.76,0:03:15.08,Default,ja,0,0,0,,何夢を見ていたか知らんが、{???}興奮さしてたぞ。
 Dialogue: 0,0:03:10.76,0:03:15.08,Default,ko,0,0,0,,무슨 꿈을 꾸고 있었는지는 모르겠지만 크게 흥분하고 있었구나.
 Dialogue: 0,0:03:10.76,0:03:15.08,Default,en,0,0,0,,I don't know what were you dreaming about, but you were pretty agitated.
-Comment: 0,0:03:16.66,0:03:19.98,Default,ja,0,0,0,,
+Comment: 0,0:03:16.66,0:03:19.98,Default,ja,0,0,0,,畜生、おいらも刀が欲しいんだス。
 Dialogue: 0,0:03:16.66,0:03:19.98,Default,ko,0,0,0,,젠장, 나도 칼을 원하오.
 Dialogue: 0,0:03:16.66,0:03:19.98,Default,en,0,0,0,,Damn, I want a sword too-{\i1}dasu{\i0}.
-Comment: 0,0:03:20.62,0:03:25.31,Default,ja,0,0,0,,
+Comment: 0,0:03:20.62,0:03:25.31,Default,ja,0,0,0,,刀を手に入れてジパングナンバー1の武芸者になってやるだス。
 Dialogue: 0,0:03:20.62,0:03:25.31,Default,ko,0,0,0,,칼을 손에 넣어 지팡구 제일의 무예가가 되겠소!
 Dialogue: 0,0:03:20.62,0:03:25.31,Default,en,0,0,0,,I will get a sword and become the number one martial artist of Jipangu-{\i1}dasu{\i0}!
-Comment: 0,0:03:26.71,0:03:29.30,Default,ja,0,0,0,,
+Comment: 0,0:03:26.71,0:03:29.30,Default,ja,0,0,0,,ほれ、もうすぐサカイの街だ。
 Dialogue: 0,0:03:26.71,0:03:29.30,Default,ko,0,0,0,,어이! 이제 곧 사카이 마을이다.
 Dialogue: 0,0:03:26.71,0:03:29.30,Default,en,0,0,0,,We're soon at Sakai village.
 Dialogue: 0,0:03:30.60,0:03:33.72,NoteOnAnime,ko,0,0,0,,{\move(300,280,300,-20)\frx20\t(0,3100,\fs48)\fs40}사카이에 오신 것을 환영합니다
 Dialogue: 0,0:03:30.60,0:03:33.72,NoteOnAnime,en,0,0,0,,{\move(300,280,300,-20)\frx20\t(0,3100,\fs48)\fs40}Welcome to Sakai
-Comment: 0,0:03:31.14,0:03:35.02,Default,ja,0,0,0,,
+Comment: 0,0:03:31.14,0:03:35.02,Default,ja,0,0,0,,ここは、商人の町として栄えたサカイ港。
 Dialogue: 0,0:03:31.14,0:03:35.02,Default,ko,0,0,0,,이곳은 상인의 마을로 번영한 사카이 항구.
 Dialogue: 0,0:03:31.14,0:03:35.02,Default,en,0,0,0,,This place is Sakai harbor, a village of merchants.
 Dialogue: 0,0:03:39.61,0:03:43.61,NoteOnAnimeVert,ko,0,0,0,,{\an4\fs105\q2\frz-88\frx2\fax-0.1\move(345,134,345,-500)}(주) 요시오카 도장
 Dialogue: 0,0:03:40.28,0:03:43.61,NoteOnAnimeVert,ko,0,0,0,,{\an4\fs80\frz-88\frx2\fax-0.1\move(263,471,263,-63)}사카이 지점
 Dialogue: 0,0:03:39.61,0:03:43.61,NoteOnAnime,en,0,0,0,,{\an4\fs105\q2\frz-88\frx2\fax-0.1\move(345,134,345,-500)}Yoshioka Dōjō Inc.
 Dialogue: 0,0:03:40.28,0:03:43.61,NoteOnAnime,en,0,0,0,,{\an4\fs80\frz-88\frx2\fax-0.1\move(263,471,263,-63)}Sakai Branch
-Comment: 0,0:03:35.35,0:03:41.37,Default,ja,0,0,0,,
+Comment: 0,0:03:35.35,0:03:41.37,Default,ja,0,0,0,,デンシチローはムサシを追ってここヨシオカ道場のサカイ地点へ来ていた。
 Dialogue: 0,0:03:35.35,0:03:41.37,Default,ko,0,0,0,,덴시치로는 무사시를 쫒으려 이곳 요시오카 도장 사카이 지점에 왔다.
 Dialogue: 0,0:03:35.35,0:03:41.37,Default,en,0,0,0,,Denshichiro came to Yoshioka Dōjō Sakai branch to get Musashi.
 Dialogue: 0,0:03:43.64,0:03:47.64,NoteOnAnimeVert,ko,0,0,0,,{\an4\fs46\frz-82.5\frx2\fax-0.1\t(0,4000,\fs58)\move(520,-1,660,-73)}(주) 요시오카 도장
@@ -126,126 +126,126 @@ Dialogue: 0,0:03:43.64,0:03:47.64,NoteOnAnime,ko,0,0,0,,{\an5\pos(314,266)\fs24\
 Dialogue: 0,0:03:43.64,0:03:47.64,NoteOnAnime,en,0,0,0,,{\an4\fs46\frz-82.5\frx2\fax-0.1\t(0,4000,\fs58)\move(520,-1,660,-73)}Yoshioka Dōjō Inc.
 Dialogue: 0,0:03:43.64,0:03:47.64,NoteOnAnime,en,0,0,0,,{\an4\fs36\frz-82.5\frx2\fax-0.1\t(0,4000,\fs40)\move(500,174,650,169)}Sakai Branch
 Dialogue: 0,0:03:43.64,0:03:47.64,NoteOnAnime,en,0,0,0,,{\an5\fs24\t(0,4000,\fs30)\frx20\frz2.5\pos(314,266)}Welcome
-Comment: 0,0:03:48.14,0:03:52.63,Default,ja,0,0,0,,
+Comment: 0,0:03:48.14,0:03:52.63,Default,ja,0,0,0,,これがわがヨシオカ道場に狼藉を働いたムサシの顔だ。
 Dialogue: 0,0:03:48.14,0:03:52.63,Default,ko,0,0,0,,이 자가 우리 요시오카 도장에 행패를 부린 무사시의 얼굴이다.
 Dialogue: 0,0:03:48.14,0:03:52.63,Default,en,0,0,0,,This is the face of Musashi who wreaked havoc on our Yoshioka Dōjō.
-Comment: 0,0:03:53.56,0:03:55.35,Default,ja,0,0,0,,
+Comment: 0,0:03:53.56,0:03:55.35,Default,ja,0,0,0,,なんで狂暴なかが！
 Dialogue: 0,0:03:53.56,0:03:55.35,Default,ko,0,0,0,,매우 교활한 얼굴이군!
 Dialogue: 0,0:03:53.56,0:03:55.35,Default,en,0,0,0,,What a sly face!
 Dialogue: 0,0:03:56.63,0:04:01.34,NoteOnAnime,ko,0,0,0,,{\an5\fs36\move(329,115,330,95)\t(0,4670,\fs40)}무도는 형태이다
 Dialogue: 0,0:03:56.63,0:04:01.34,NoteOnAnime,en,0,0,0,,{\an5\fs26\move(334,115,340,95)\t(0,4670,\fs30)}Martial Arts is about Form
-Comment: 0,0:03:56.74,0:03:59.96,Default,ja,0,0,0,,
+Comment: 0,0:03:56.74,0:03:59.96,Default,ja,0,0,0,,奴ら、間違いなくこのサカイの町にいるはずだ。いいか。
 Dialogue: 0,0:03:56.74,0:03:59.96,Default,ko,0,0,0,,녀석은 틀림없이 이 사카이 마을에 있을 터이다. 알겠나?
 Dialogue: 0,0:03:56.74,0:03:59.96,Default,en,0,0,0,,He should be in this Sakai village. Understood?
-Comment: 0,0:04:00.23,0:04:05.08,Default,ja,0,0,0,,
+Comment: 0,0:04:00.23,0:04:05.08,Default,ja,0,0,0,,草の根を分けても奴を探し出し、見つけたら直ちにこの俺に知らせろ。
 Dialogue: 0,0:04:00.23,0:04:05.08,Default,ko,0,0,0,,샅샅이 뒤져서라도 녀석을 찾아내어 발견하면 바로 이 나에게 알려라!
 Dialogue: 0,0:04:00.23,0:04:05.08,Default,en,0,0,0,,Search for him thoroughly and report to me as soon as you find out where he is!
-Comment: 0,0:04:05.53,0:04:08.44,Default,ja,0,0,0,,
+Comment: 0,0:04:05.53,0:04:08.44,Default,ja,0,0,0,,ガキだと思って油断すると痛い目にあうぞ。
 Dialogue: 0,0:04:05.53,0:04:08.44,Default,ko,0,0,0,,애송이라 생각될 테지만 방심하면 큰일난다!
 Dialogue: 0,0:04:05.53,0:04:08.44,Default,en,0,0,0,,He is not just a weak brat, so be careful!
-Comment: 0,0:04:08.96,0:04:09.68,Default,ja,0,0,0,,
+Comment: 0,0:04:08.96,0:04:09.68,Default,ja,0,0,0,,は！
 Dialogue: 0,0:04:08.96,0:04:09.68,Default,ko,0,0,0,,예!
 Dialogue: 0,0:04:08.96,0:04:09.68,Default,en,0,0,0,,Got it!
-Comment: 0,0:04:13.40,0:04:13.95,Default,ja,0,0,0,,
+Comment: 0,0:04:13.40,0:04:13.95,Default,ja,0,0,0,,先生！
 Dialogue: 0,0:04:13.40,0:04:13.95,Default,ko,0,0,0,,스승님!
 Dialogue: 0,0:04:13.40,0:04:13.95,Default,en,0,0,0,,Master!
-Comment: 0,0:04:14.48,0:04:14.96,Default,ja,0,0,0,,
+Comment: 0,0:04:14.48,0:04:14.96,Default,ja,0,0,0,,なんだ。
 Dialogue: 0,0:04:14.48,0:04:14.96,Default,ko,0,0,0,,뭔가?
 Dialogue: 0,0:04:14.48,0:04:14.96,Default,en,0,0,0,,What is it?
-Comment: 0,0:04:15.27,0:04:17.10,Default,ja,0,0,0,,
+Comment: 0,0:04:15.27,0:04:17.10,Default,ja,0,0,0,,例の刀鍛冶が参りました。
 Dialogue: 0,0:04:15.27,0:04:17.10,Default,ko,0,0,0,,예의 칼 장인이 오셨습니다.
 Dialogue: 0,0:04:15.27,0:04:17.10,Default,en,0,0,0,,The sword craftsman you asked for is here.
-Comment: 0,0:04:17.56,0:04:18.98,Default,ja,0,0,0,,
+Comment: 0,0:04:17.56,0:04:18.98,Default,ja,0,0,0,,よし。今行く。
 Dialogue: 0,0:04:17.56,0:04:18.98,Default,ko,0,0,0,,좋다. 지금 가겠다.
 Dialogue: 0,0:04:17.56,0:04:18.98,Default,en,0,0,0,,Good. I'll go right now.
-Comment: 0,0:04:24.76,0:04:32.38,Default,ja,0,0,0,,
+Comment: 0,0:04:24.76,0:04:32.38,Default,ja,0,0,0,,この人物、剣持コテツこそ、ジパング国の長い戦国時代の歴史上有名な刀鍛冶である。
 Dialogue: 0,0:04:24.76,0:04:32.38,Default,ko,0,0,0,,이 인물, 켄모치 코테츠야말로, 지팡구국의 기나긴 전국 시대의 역사적으로 유명한 칼 장인이다.
-Dialogue: 0,0:04:24.76,0:04:32.38,Default,en,0,0,0,,This person, Kenmochi Kotetsu, is a historically famous sword craftsman of the long Sengoku period of Jipangu State.
+Dialogue: 0,0:04:24.76,0:04:32.38,Default,en,0,0,0,,This person, Kotetsu Kenmochi, is a historically famous sword craftsman of the long Sengoku period of Jipangu State.
 Dialogue: 0,0:04:32.38,0:04:34.42,NoteOnAnime,ko,0,0,0,,{\an8\frz26\fs32\fad(0,300)\pos(337,242)\c&H8989FF&}코테츠 작
 Dialogue: 0,0:04:32.38,0:04:34.42,NoteOnAnime,en,0,0,0,,{\an8\frz26\fs32\fad(0,300)\pos(337,242)\c&H8989FF&}Made by Kotetsu
-Comment: 0,0:04:33.14,0:04:40.38,Default,ja,0,0,0,,
+Comment: 0,0:04:33.14,0:04:40.38,Default,ja,0,0,0,,彼の作った刀は、コテツと呼ばれ、剣の道を究めたものだけが手にすることができたと言われる。
 Dialogue: 0,0:04:33.14,0:04:40.38,Default,ko,0,0,0,,그가 만든 칼은 코테츠라 불리며, 검의 길을 끝까지 걸은 자만이 손에 넣을 수 있다고 불려진다.
 Dialogue: 0,0:04:33.14,0:04:40.38,Default,en,0,0,0,,A sword crafted by him is called Kotetsu, and it is told that only masters of swords can have one.
-Comment: 0,0:04:46.74,0:04:51.25,Default,ja,0,0,0,,
+Comment: 0,0:04:46.74,0:04:51.25,Default,ja,0,0,0,,拙者、ヨシオカ道場を師範代、ヨシオカデンシチローと申す。
 Dialogue: 0,0:04:46.74,0:04:51.25,Default,ko,0,0,0,,나는 요시오카 도장의 대리 사범, 요시오카 덴시치로라고 하오.
-Dialogue: 0,0:04:46.74,0:04:51.25,Default,en,0,0,0,,I am Yoshioka Denshichirō, a substitute instructor at Yoshioka Dōjō.
-Comment: 0,0:04:51.85,0:04:53.44,Default,ja,0,0,0,,
+Dialogue: 0,0:04:46.74,0:04:51.25,Default,en,0,0,0,,I am Denshichirō Yoshioka, a substitute instructor at Yoshioka Dōjō.
+Comment: 0,0:04:51.85,0:04:53.44,Default,ja,0,0,0,,剣持コテツです。
 Dialogue: 0,0:04:51.85,0:04:53.44,Default,ko,0,0,0,,켄모치 코테츠이오.
-Dialogue: 0,0:04:51.85,0:04:53.44,Default,en,0,0,0,,Kenmochi Kotetsu.
-Comment: 0,0:04:53.58,0:04:57.37,Default,ja,0,0,0,,
+Dialogue: 0,0:04:51.85,0:04:53.44,Default,en,0,0,0,,Kotetsu Kenmochi.
+Comment: 0,0:04:53.58,0:04:57.37,Default,ja,0,0,0,,早速だが、拙者に名刀コテツを作ってもらいたい。
 Dialogue: 0,0:04:53.58,0:04:57.37,Default,ko,0,0,0,,본론부터 말하자면, 내게 명도 코테츠를 만들어 주셨으면 한다.
 Dialogue: 0,0:04:53.58,0:04:57.37,Default,en,0,0,0,,Long story short, I'd like to ask you to make your excellent sword Kotetsu.
-Comment: 0,0:04:59.85,0:05:00.98,Default,ja,0,0,0,,
+Comment: 0,0:04:59.85,0:05:00.98,Default,ja,0,0,0,,お断りする。
 Dialogue: 0,0:04:59.85,0:05:00.98,Default,ko,0,0,0,,거절하오.
 Dialogue: 0,0:04:59.85,0:05:00.98,Default,en,0,0,0,,I reject.
-Comment: 0,0:05:01.43,0:05:05.90,Default,ja,0,0,0,,
+Comment: 0,0:05:01.43,0:05:05.90,Default,ja,0,0,0,,何？このヨシオカ道場師範代の頼みをお断るだと？
 Dialogue: 0,0:05:01.43,0:05:05.90,Default,ko,0,0,0,,뭐라?! 이 요시오카 도장의 대리 사범의 요청을 거절한다고?
 Dialogue: 0,0:05:01.43,0:05:05.90,Default,en,0,0,0,,What?! You dare to reject the request from the substitute instructor at Yoshioka Dōjō?
-Comment: 0,0:05:07.78,0:05:14.18,Default,ja,0,0,0,,
-Dialogue: 0,0:05:07.78,0:05:14.18,Default,ko,0,0,0,,너, 설마 지팡구국에 이름을 떨치는 요시오카 덴시치로 님을 모르는 것이오?
-Dialogue: 0,0:05:07.78,0:05:14.18,Default,en,0,0,0,,Don't you know Yoshioka Denshichirō, a name famous all over Jipangu State?
-Comment: 0,0:05:14.54,0:05:15.65,Default,ja,0,0,0,,
+Comment: 0,0:05:07.78,0:05:14.18,Default,ja,0,0,0,,おぬし、まさか、ジパング国に名高いヨシオカデンシチロー様を知らないのではなかろうな。
+Dialogue: 0,0:05:07.78,0:05:14.18,Default,ko,0,0,0,,너, 설마 지팡구국에 이름을 떨치는 요시오카 덴시치로 님을 모르는 것인가?
+Dialogue: 0,0:05:07.78,0:05:14.18,Default,en,0,0,0,,Don't you know Denshichirō Yoshioka, a name famous all over Jipangu State?
+Comment: 0,0:05:14.54,0:05:15.65,Default,ja,0,0,0,,存じておる。
 Dialogue: 0,0:05:14.54,0:05:15.65,Default,ko,0,0,0,,이름은 안다.
 Dialogue: 0,0:05:14.54,0:05:15.65,Default,en,0,0,0,,I do know.
-Comment: 0,0:05:15.93,0:05:22.08,Default,ja,0,0,0,,
+Comment: 0,0:05:15.93,0:05:22.08,Default,ja,0,0,0,,ならどうして断る。刀を作るものとして、これほど面妖なことはないではないか。
 Dialogue: 0,0:05:15.93,0:05:22.08,Default,ko,0,0,0,,그럼 어째서 거절하나? 칼을 만드는 게 그렇게 체면 구기는 일은 아니지 않소이까.
 Dialogue: 0,0:05:15.93,0:05:22.08,Default,en,0,0,0,,Then why do you reject? Crafting a sword isn't something dishonorable.
-Comment: 0,0:05:22.46,0:05:25.88,Default,ja,0,0,0,,
+Comment: 0,0:05:22.46,0:05:25.88,Default,ja,0,0,0,,残念だが、もはや刀鍛冶は汎用いたした。
 Dialogue: 0,0:05:22.46,0:05:25.88,Default,ko,0,0,0,,안됐지만 이미 칼 만드는 것은 그만두었소.
 Dialogue: 0,0:05:22.46,0:05:25.88,Default,en,0,0,0,,I regret to say that I already gave up crafting swords.
-Comment: 0,0:05:26.50,0:05:27.44,Default,ja,0,0,0,,
+Comment: 0,0:05:26.50,0:05:27.44,Default,ja,0,0,0,,やめた？
 Dialogue: 0,0:05:26.50,0:05:27.44,Default,ko,0,0,0,,관두었다?
 Dialogue: 0,0:05:26.50,0:05:27.44,Default,en,0,0,0,,Gave up?
-Comment: 0,0:05:29.02,0:05:31.80,Default,ja,0,0,0,,
+Comment: 0,0:05:29.02,0:05:31.80,Default,ja,0,0,0,,どうだ。金ならいくらでも出すぞ。
 Dialogue: 0,0:05:29.02,0:05:31.80,Default,ko,0,0,0,,어떤가. 돈이라면 얼마라도 주겠다.
 Dialogue: 0,0:05:29.02,0:05:31.80,Default,en,0,0,0,,How's this? We'll pay as much as you want.
-Comment: 0,0:05:32.31,0:05:34.22,Default,ja,0,0,0,,
+Comment: 0,0:05:32.31,0:05:34.22,Default,ja,0,0,0,,わしは金など欲しくはない。
 Dialogue: 0,0:05:32.31,0:05:34.22,Default,ko,0,0,0,,난 돈 따위를 원하는 것이 아니다.
 Dialogue: 0,0:05:32.31,0:05:34.22,Default,en,0,0,0,,I do not want money.
-Comment: 0,0:05:34.62,0:05:36.53,Default,ja,0,0,0,,
+Comment: 0,0:05:34.62,0:05:36.53,Default,ja,0,0,0,,ならば何が望みだ。
 Dialogue: 0,0:05:34.62,0:05:36.53,Default,ko,0,0,0,,그렇다면 무엇을 바라는가?
 Dialogue: 0,0:05:34.62,0:05:36.53,Default,en,0,0,0,,Then what do you want?
-Comment: 0,0:05:37.38,0:05:38.20,Default,ja,0,0,0,,
+Comment: 0,0:05:37.38,0:05:38.20,Default,ja,0,0,0,,何も。
 Dialogue: 0,0:05:37.38,0:05:38.20,Default,ko,0,0,0,,아무것도.
 Dialogue: 0,0:05:37.38,0:05:38.20,Default,en,0,0,0,,Nothing special.
-Comment: 0,0:05:38.44,0:05:41.66,Default,ja,0,0,0,,
-Dialogue: 0,0:05:38.44,0:05:41.66,Default,ko,0,0,0,,욕심 없는 녀석이군. 그러나 잘 기억해 두어라.
-Dialogue: 0,0:05:38.44,0:05:41.66,Default,en,0,0,0,,I see that you are without greed. But know this.
-Comment: 0,0:05:41.66,0:05:46.47,Default,ja,0,0,0,,
+Comment: 0,0:05:38.44,0:05:41.50,Default,ja,0,0,0,,欲のない奴だ。だがよく覚えておけ。
+Dialogue: 0,0:05:38.44,0:05:41.50,Default,ko,0,0,0,,욕심 없는 녀석이군. 그러나 잘 기억해 두어라.
+Dialogue: 0,0:05:38.44,0:05:41.50,Default,en,0,0,0,,I see that you are without greed. But know this.
+Comment: 0,0:05:41.66,0:05:46.47,Default,ja,0,0,0,,おぬしにどのような事情があれ、この俺に刀を一振り作ってもらう。
 Dialogue: 0,0:05:41.66,0:05:46.47,Default,ko,0,0,0,,네게 어떤 사정이 있던간, 이 내게 칼을 하나 만들어 바쳐야 할 것이다.
 Dialogue: 0,0:05:41.66,0:05:46.47,Default,en,0,0,0,,Whatever reason you have, you will make and give me a sword.
-Comment: 0,0:05:47.32,0:05:48.44,Default,ja,0,0,0,,
+Comment: 0,0:05:47.32,0:05:48.44,Default,ja,0,0,0,,失礼いたす。
 Dialogue: 0,0:05:47.32,0:05:48.44,Default,ko,0,0,0,,실례하오.
 Dialogue: 0,0:05:47.32,0:05:48.44,Default,en,0,0,0,,Excuse me.
-Comment: 0,0:05:48.76,0:05:51.11,Default,ja,0,0,0,,
+Comment: 0,0:05:48.76,0:05:51.11,Default,ja,0,0,0,,待て！まだ話は終わっておらん！
 Dialogue: 0,0:05:48.76,0:05:51.11,Default,ko,0,0,0,,잠깐! 아직 이야기가 끝나지 않았다!
 Dialogue: 0,0:05:48.76,0:05:51.11,Default,en,0,0,0,,Wait! He is not done yet!
-Comment: 0,0:05:51.34,0:05:52.63,Default,ja,0,0,0,,
+Comment: 0,0:05:51.34,0:05:52.63,Default,ja,0,0,0,,期限は十日間！
 Dialogue: 0,0:05:51.34,0:05:52.63,Default,ko,0,0,0,,기한은 10일간!
 Dialogue: 0,0:05:51.34,0:05:52.63,Default,en,0,0,0,,I will allow you ten days!
-Comment: 0,0:05:53.16,0:05:56.69,Default,ja,0,0,0,,
+Comment: 0,0:05:53.16,0:05:56.69,Default,ja,0,0,0,,この俺が直々に取りに行く。分かったな。
 Dialogue: 0,0:05:53.16,0:05:56.69,Default,ko,0,0,0,,이 내가 직접 가지러 가겠다. 알겠나?
 Dialogue: 0,0:05:53.16,0:05:56.69,Default,en,0,0,0,,I will go receive it myself. Understood?
-Comment: 0,0:06:01.19,0:06:02.46,Default,ja,0,0,0,,
+Comment: 0,0:06:01.19,0:06:02.46,Default,ja,0,0,0,,大丈夫でしょうか。
 Dialogue: 0,0:06:01.19,0:06:02.46,Default,ko,0,0,0,,괜찮습니까?
 Dialogue: 0,0:06:01.19,0:06:02.46,Default,en,0,0,0,,Are you alright with this?
-Comment: 0,0:06:03.02,0:06:07.74,Default,ja,0,0,0,,
+Comment: 0,0:06:03.02,0:06:07.74,Default,ja,0,0,0,,子のジパング広いと言えどもいまだかって俺の頼みを断ったものはおらぬわ。
 Dialogue: 0,0:06:03.02,0:06:07.74,Default,ko,0,0,0,,이 지팡구가 넓을 망정 일찍이 내 부탁을 거절한 자는 없었다.
 Dialogue: 0,0:06:03.02,0:06:07.74,Default,en,0,0,0,,No matter how wide Jipangu is, nobody dared to deny my request.
-Comment: 0,0:06:08.18,0:06:13.14,Default,ja,0,0,0,,
+Comment: 0,0:06:08.18,0:06:13.14,Default,ja,0,0,0,,もっとも、断ったばかりに命を失ったものは数知れぬがな。
 Dialogue: 0,0:06:08.18,0:06:13.14,Default,ko,0,0,0,,더욱, 거절한 것으로 생명을 잃은 자는 수를 셀 수가 없군.
 Dialogue: 0,0:06:08.18,0:06:13.14,Default,en,0,0,0,,Moreover, I can't count how many people lost their lives by denying my request.
-Comment: 0,0:06:20.97,0:06:24.58,Default,ja,0,0,0,,
+Comment: 0,0:06:20.97,0:06:24.58,Default,ja,0,0,0,,おいら、腹が減って死にそうでござるだス。
 Dialogue: 0,0:06:20.97,0:06:24.58,Default,ko,0,0,0,,나... 배고파 죽겠소...
 Dialogue: 0,0:06:20.97,0:06:24.58,Default,en,0,0,0,,I am starved to death-{\i1}dasu{\i0}...
-Comment: 0,0:06:25.86,0:06:28.69,Default,ja,0,0,0,,
+Comment: 0,0:06:25.86,0:06:28.69,Default,ja,0,0,0,,こ、これはお団子のにおいでござるだス！
 Dialogue: 0,0:06:25.86,0:06:28.69,Default,ko,0,0,0,,이, 이건 단고의 향이오!
 Dialogue: 0,0:06:25.86,0:06:28.69,Default,en,0,0,0,,This smell must be {\i1}dango{\i0}-{\i1}dasu{\i0}!
 Dialogue: 0,0:06:35.64,0:06:36.18,NoteOnAnimeVert,ko,0,0,0,,{\fs24\an4\frz-90\move(177,188,177,188)}단고 5문
 Dialogue: 0,0:06:35.64,0:06:36.18,NoteOnAnimeVert,ko,0,0,0,,{\fs24\an4\move(120,189,120,189)\frz-93}차 1문
 Dialogue: 0,0:06:35.64,0:06:36.18,NoteOnAnime,en,0,0,0,,{\fs24\an4\frz-90\move(177,188,177,188)}Dango 5 {\i1}mon{\i0}
 Dialogue: 0,0:06:35.64,0:06:36.18,NoteOnAnime,en,0,0,0,,{\fs24\an4\move(120,189,120,189)\frz-93}Tea 1 {\i1}mon{\i0}
-Comment: 0,0:06:40.92,0:06:44.84,Default,ja,0,0,0,,
+Comment: 0,0:06:40.92,0:06:44.84,Default,ja,0,0,0,,おなかと背中が引っ付いてしまうだス。
 Dialogue: 0,0:06:40.92,0:06:44.84,Default,ko,0,0,0,,아... 뱃가죽이 등에 붙고야 말겠소.
 Dialogue: 0,0:06:40.92,0:06:44.84,Default,en,0,0,0,,My belly's going to meet my back-{\i1}dasu{\i0}...
 Dialogue: 0,0:06:44.84,0:06:46.84,NoteOnAnimeVert,ko,0,0,0,,{\fs64\move(431,136,431,136)\c&H4C5BDC&\an4\frz-90}알바{\c&HFFFFFF&}모집
@@ -263,610 +263,608 @@ Dialogue: 0,0:06:44.84,0:06:46.84,NoteOnAnime,en,0,0,0,,{\an8\move(310,421,310,4
 Dialogue: 0,0:06:46.84,0:06:48.21,NoteOnAnimeVert,ko,0,0,0,,{\pos(320,240)\an5\fs270\c&H4C5BDC&\bord16\frz-90}식사
 Dialogue: 0,0:06:46.84,0:06:48.21,NoteOnAnime,en,0,0,0,,{\pos(320,240)\alpha40\p1\an5\bord0\c&HDAFEFF&}m 0 0 l 0 480 640 480 640 0
 Dialogue: 0,0:06:46.84,0:06:48.21,NoteOnAnime,en,0,0,0,,{\q2\pos(50,240)\an4\fs270\c&H4C5BDC&\bord16}Meal {\c&HFFFFFF&\fs210}provided
-Comment: 0,0:06:48.65,0:06:51.87,Default,ja,0,0,0,,
+Comment: 0,0:06:48.65,0:06:51.87,Default,ja,0,0,0,,わー！天の助けでござるだス！
 Dialogue: 0,0:06:48.65,0:06:51.87,Default,ko,0,0,0,,우와! 하늘의 도움이오!
 Dialogue: 0,0:06:48.65,0:06:51.87,Default,en,0,0,0,,Wow! It's a help from the heavens-{\i1}dasu{\i0}!
-Comment: 0,0:06:58.10,0:07:00.10,Default,ja,0,0,0,,
+Comment: 0,0:06:58.10,0:07:00.10,Default,ja,0,0,0,,みんな！乗ってるかい！
 Dialogue: 0,0:06:58.10,0:07:00.10,Default,ko,0,0,0,,모두! 타셨습니까?
 Dialogue: 0,0:06:58.10,0:07:00.10,Default,en,0,0,0,,Are you ready?!
-Comment: 0,0:07:00.10,0:07:01.95,Default,ja,0,0,0,,
+Comment: 0,0:07:00.10,0:07:01.95,Default,ja,0,0,0,,イェーイ！
 Dialogue: 0,0:07:00.10,0:07:01.95,Default,ko,0,0,0,,네!
 Dialogue: 0,0:07:00.10,0:07:01.95,Default,en,0,0,0,,Yes!
-Comment: 0,0:07:04.15,0:07:08.99,Default,ja,0,0,0,,
+Comment: 0,0:07:04.15,0:07:08.99,Default,ja,0,0,0,,よし、早速働いてもらおうか。なに、仕事は簡単。
 Dialogue: 0,0:07:04.15,0:07:08.99,Default,ko,0,0,0,,좋아, 바로 일해 볼까? 일은 간단해.
 Dialogue: 0,0:07:04.15,0:07:08.99,Default,en,0,0,0,,Alright, let's get you working right away. Your job is simple.
-Comment: 0,0:07:09.05,0:07:11.50,Default,ja,0,0,0,,
+Comment: 0,0:07:09.05,0:07:11.50,Default,ja,0,0,0,,注文が来たら運び行くだけでいいんだ。
 Dialogue: 0,0:07:09.05,0:07:11.50,Default,ko,0,0,0,,주문이 들어오면 가져다 주기만 하면 돼.
 Dialogue: 0,0:07:09.05,0:07:11.50,Default,en,0,0,0,,Bring these whenever there is an order.
-Comment: 0,0:07:11.50,0:07:13.74,Default,ja,0,0,0,,
+Comment: 0,0:07:11.50,0:07:13.74,Default,ja,0,0,0,,って、食事はなんじでござるだス。
 Dialogue: 0,0:07:11.50,0:07:13.74,Default,ko,0,0,0,,저, 식사는 몇시이오?
 Dialogue: 0,0:07:11.50,0:07:13.74,Default,en,0,0,0,,When is the mealtime-{\i1}dasu{\i0}?
-Comment: 0,0:07:13.96,0:07:15.94,Default,ja,0,0,0,,
+Comment: 0,0:07:13.96,0:07:15.94,Default,ja,0,0,0,,働いてから食事だ。
 Dialogue: 0,0:07:13.96,0:07:15.94,Default,ko,0,0,0,,일하고 나서 식사다.
 Dialogue: 0,0:07:13.96,0:07:15.94,Default,en,0,0,0,,After you work.
-Comment: 0,0:07:15.94,0:07:16.70,Default,ja,0,0,0,,
+Comment: 0,0:07:15.94,0:07:16.70,Default,ja,0,0,0,,あ、はい。
 Dialogue: 0,0:07:15.94,0:07:16.70,Default,ko,0,0,0,,네.
 Dialogue: 0,0:07:15.94,0:07:16.70,Default,en,0,0,0,,Okay.
-Comment: 0,0:07:17.70,0:07:19.94,Default,ja,0,0,0,,
+Comment: 0,0:07:17.70,0:07:19.94,Default,ja,0,0,0,,3番テーブル団子いっちょう。
 Dialogue: 0,0:07:17.70,0:07:19.94,Default,ko,0,0,0,,3번 테이블 단고 한 접시!
 Dialogue: 0,0:07:17.70,0:07:19.94,Default,en,0,0,0,,One {\i1}dango{\i0} plate on the 3th table!
-Comment: 0,0:07:20.04,0:07:21.81,Default,ja,0,0,0,,
+Comment: 0,0:07:20.04,0:07:21.81,Default,ja,0,0,0,,はいよ！団子いっちょう。
 Dialogue: 0,0:07:20.04,0:07:21.81,Default,ko,0,0,0,,네! 단고 한 접시!
 Dialogue: 0,0:07:20.04,0:07:21.81,Default,en,0,0,0,,Got it! One {\i1}dango{\i0} plate!
-Comment: 0,0:07:22.16,0:07:23.75,Default,ja,0,0,0,,
+Comment: 0,0:07:22.16,0:07:23.75,Default,ja,0,0,0,,ほらほら、早くもって行って！
 Dialogue: 0,0:07:22.16,0:07:23.75,Default,ko,0,0,0,,어이, 어이, 빨리 가져다 줘!
 Dialogue: 0,0:07:22.16,0:07:23.75,Default,en,0,0,0,,Hey, hey! Hurry up and bring it!
-Comment: 0,0:07:23.83,0:07:25.17,Default,ja,0,0,0,,
+Comment: 0,0:07:23.83,0:07:25.17,Default,ja,0,0,0,,え、はい、はい、はい！
 Dialogue: 0,0:07:23.83,0:07:25.17,Default,ko,0,0,0,,네, 네, 네!
 Dialogue: 0,0:07:23.83,0:07:25.17,Default,en,0,0,0,,Yes, sir!
-Comment: 0,0:07:29.30,0:07:30.58,Default,ja,0,0,0,,
+Comment: 0,0:07:29.30,0:07:30.58,Default,ja,0,0,0,,ああ、ここだス。
 Dialogue: 0,0:07:29.30,0:07:30.58,Default,ko,0,0,0,,아, 이곳이오!
 Dialogue: 0,0:07:29.30,0:07:30.58,Default,en,0,0,0,,Here it is-{\i1}dasu{\i0}!
-Comment: 0,0:07:31.06,0:07:32.42,Default,ja,0,0,0,,
+Comment: 0,0:07:31.06,0:07:32.42,Default,ja,0,0,0,,お待ちどうだス。
 Dialogue: 0,0:07:31.06,0:07:32.42,Default,ko,0,0,0,,기다리셨소!
 Dialogue: 0,0:07:31.06,0:07:32.42,Default,en,0,0,0,,Here is your order-{\i1}dasu{\i0}!
-Comment: 0,0:07:33.32,0:07:34.73,Default,ja,0,0,0,,
+Comment: 0,0:07:33.32,0:07:34.73,Default,ja,0,0,0,,ほれ、オツルちゃん！
 Dialogue: 0,0:07:33.32,0:07:34.73,Default,ko,0,0,0,,어라? 오츠루 씨!
 Dialogue: 0,0:07:33.32,0:07:34.73,Default,en,0,0,0,,Huh? Otsuru!
-Comment: 0,0:07:34.87,0:07:36.22,Default,ja,0,0,0,,
+Comment: 0,0:07:34.87,0:07:36.22,Default,ja,0,0,0,,え、なによ。
 Dialogue: 0,0:07:34.87,0:07:36.22,Default,ko,0,0,0,,뭐에요?
 Dialogue: 0,0:07:34.87,0:07:36.22,Default,en,0,0,0,,What is it?
-Comment: 0,0:07:36.22,0:07:39.34,Default,ja,0,0,0,,
-Dialogue: 0,0:07:36.22,0:07:39.34,Default,ko,0,0,0,,역시 오츠루 씨인 것이오! 나이오!
-Dialogue: 0,0:07:36.22,0:07:39.34,Default,en,0,0,0,,You're Otsuru-{\i1}dasu{\i0}! It's me-{\i1}dasu{\i0}!
-Comment: 0,0:07:39.34,0:07:41.31,Default,ja,0,0,0,,
+Comment: 0,0:07:36.36,0:07:39.34,Default,ja,0,0,0,,やっぱりオツルさんだス。
+Dialogue: 0,0:07:36.36,0:07:39.34,Default,ko,0,0,0,,역시 오츠루 씨인 것이오! 나이오!
+Dialogue: 0,0:07:36.36,0:07:39.34,Default,en,0,0,0,,You're Otsuru-{\i1}dasu{\i0}! It's me-{\i1}dasu{\i0}!
+Comment: 0,0:07:39.34,0:07:41.31,Default,ja,0,0,0,,私、あんたなんか知らないわよ。
 Dialogue: 0,0:07:39.34,0:07:41.31,Default,ko,0,0,0,,전 당신이 누군지 몰라요.
 Dialogue: 0,0:07:39.34,0:07:41.31,Default,en,0,0,0,,I don't know who you are.
-Comment: 0,0:07:41.69,0:07:46.20,Default,ja,0,0,0,,
+Comment: 0,0:07:41.69,0:07:46.20,Default,ja,0,0,0,,また冗談言って。おいらだスよ！ミヤモト村のムサシだス。
 Dialogue: 0,0:07:41.69,0:07:46.20,Default,ko,0,0,0,,에이, 장난은 관두고 나이오, 나! 미야모토 마을의 무사시오!
 Dialogue: 0,0:07:41.69,0:07:46.20,Default,en,0,0,0,,Don't joke on me-{\i1}dasu{\i0}! I am Musashi, from Miyamoto village-{\i1}dasu{\i0}!
-Comment: 0,0:07:46.20,0:07:48.30,Default,ja,0,0,0,,
+Comment: 0,0:07:46.20,0:07:48.30,Default,ja,0,0,0,,ムサシなんて知らないわよ！
 Dialogue: 0,0:07:46.20,0:07:48.30,Default,ko,0,0,0,,무사시라니 몰라요!
 Dialogue: 0,0:07:46.20,0:07:48.30,Default,en,0,0,0,,I don't know anyone named Musashi!
-Comment: 0,0:07:48.30,0:07:49.14,Default,ja,0,0,0,,
+Comment: 0,0:07:48.30,0:07:49.14,Default,ja,0,0,0,,ムサシ？
 Dialogue: 0,0:07:48.30,0:07:49.14,Default,ko,0,0,0,,무사시?
 Dialogue: 0,0:07:48.30,0:07:49.14,Default,en,0,0,0,,Musashi?
-Comment: 0,0:07:50.00,0:07:52.78,Default,ja,0,0,0,,
+Comment: 0,0:07:50.00,0:07:52.78,Default,ja,0,0,0,,オツルちゃん、おいらだスよ、やだな！
 Dialogue: 0,0:07:50.00,0:07:52.78,Default,ko,0,0,0,,오츠루 씨, 나에요, 나!
 Dialogue: 0,0:07:50.00,0:07:52.78,Default,en,0,0,0,,Otsuru, it's me!
-Comment: 0,0:07:52.78,0:07:56.50,Default,ja,0,0,0,,
+Comment: 0,0:07:52.78,0:07:56.50,Default,ja,0,0,0,,何言ってんのよ！あたいの名前はオタマっていうのよ！
 Dialogue: 0,0:07:52.78,0:07:56.50,Default,ko,0,0,0,,뭔 소리에요! 내 이름은 오타마에요!
 Dialogue: 0,0:07:52.78,0:07:56.50,Default,en,0,0,0,,What are you talking about?! My name is Otama!
-Comment: 0,0:07:56.79,0:08:00.37,Default,ja,0,0,0,,
+Comment: 0,0:07:56.79,0:08:00.37,Default,ja,0,0,0,,オツルちゃんったら怒った顔もなかなかかわいいだス。
 Dialogue: 0,0:07:56.79,0:08:00.37,Default,ko,0,0,0,,오츠루 씨도 참 화나면 귀엽소...
 Dialogue: 0,0:07:56.79,0:08:00.37,Default,en,0,0,0,,Otsuru, you're cute when you're angry-{\i1}dasu{\i0}...
-Comment: 0,0:08:03.24,0:08:06.84,Default,ja,0,0,0,,
+Comment: 0,0:08:03.24,0:08:06.84,Default,ja,0,0,0,,なにすんのよ！誰か！痴漢よ、この人！
 Dialogue: 0,0:08:03.24,0:08:06.84,Default,ko,0,0,0,,뭔 짓이야! 아무나! 이 사람 치한이에요!
 Dialogue: 0,0:08:03.24,0:08:06.84,Default,en,0,0,0,,What are you doing?! Help me! A pervert!
-Comment: 0,0:08:06.84,0:08:09.43,Default,ja,0,0,0,,
+Comment: 0,0:08:06.84,0:08:09.43,Default,ja,0,0,0,,ち、違うだス。違うだスよ！
 Dialogue: 0,0:08:06.84,0:08:09.43,Default,ko,0,0,0,,아, 아니오! 아니오!
 Dialogue: 0,0:08:06.84,0:08:09.43,Default,en,0,0,0,,No, that's not it! There's a misunderstanding-{\i1}dasu{\i0}!
-Comment: 0,0:08:11.00,0:08:16.27,Default,ja,0,0,0,,
+Comment: 0,0:08:11.00,0:08:16.27,Default,ja,0,0,0,,え、困るんだよね。そうでなくても最近PTAがうるさいんだから。
 Dialogue: 0,0:08:11.00,0:08:16.27,Default,ko,0,0,0,,이러면 곤란해. 그러지 않아도 최근 학부모회가 시끄럽게 구는데.
 Dialogue: 0,0:08:11.00,0:08:16.27,Default,en,0,0,0,,That was pretty bad. We don't need to trigger PTA any further...
-Comment: 0,0:08:16.44,0:08:17.35,Default,ja,0,0,0,,
+Comment: 0,0:08:16.44,0:08:17.35,Default,ja,0,0,0,,ごめんだス。
 Dialogue: 0,0:08:16.44,0:08:17.35,Default,ko,0,0,0,,죄송하오...
 Dialogue: 0,0:08:16.44,0:08:17.35,Default,en,0,0,0,,I'm sorry-{\i1}dasu{\i0}...
-Comment: 0,0:08:17.53,0:08:23.30,Default,ja,0,0,0,,
+Comment: 0,0:08:17.53,0:08:23.30,Default,ja,0,0,0,,まあ、君には{???}ほうんの仕事は向いていないみたいだから、え、そこで団子の櫛でも削ってもらおうか。
 Dialogue: 0,0:08:17.53,0:08:23.30,Default,ko,0,0,0,,네게 식당 앞 일은 어울리지 않는 것 같으니 저기서 단고 막대기라도 깎아라.
 Dialogue: 0,0:08:17.53,0:08:23.30,Default,en,0,0,0,,It seems that you're not suited for working at the front of house. Maybe you're better off with carving {\i1}dango{\i0} sticks.
-Comment: 0,0:08:23.90,0:08:25.24,Default,ja,0,0,0,,
+Comment: 0,0:08:23.90,0:08:25.24,Default,ja,0,0,0,,あの、食事は。。。
 Dialogue: 0,0:08:23.90,0:08:25.24,Default,ko,0,0,0,,저, 식사는...
 Dialogue: 0,0:08:23.90,0:08:25.24,Default,en,0,0,0,,Uh, the meal...
-Comment: 0,0:08:25.34,0:08:27.00,Default,ja,0,0,0,,
+Comment: 0,0:08:25.34,0:08:27.00,Default,ja,0,0,0,,-まだまだ！\N-え、はい。
 Dialogue: 0,0:08:25.34,0:08:27.00,Default,ko,0,0,0,,-아직아직!\N-네...
 Dialogue: 0,0:08:25.34,0:08:27.00,Default,en,0,0,0,,-Not yet!\N-Okay...
-Comment: 0,0:08:36.52,0:08:38.73,Default,ja,0,0,0,,
-Dialogue: 0,0:08:36.52,0:08:38.73,Default,ko,0,0,0,,이 찻집 안에서 무사시가 일하고 있습니다.
-Dialogue: 0,0:08:36.52,0:08:38.73,Default,en,0,0,0,,Musashi is working in this tea house.
-Comment: 0,0:08:38.73,0:08:42.13,Default,ja,0,0,0,,
+Comment: 0,0:08:36.52,0:08:38.64,Default,ja,0,0,0,,お茶屋でムサシが働いています。
+Dialogue: 0,0:08:36.52,0:08:38.64,Default,ko,0,0,0,,이 찻집 안에서 무사시가 일하고 있습니다.
+Dialogue: 0,0:08:36.52,0:08:38.64,Default,en,0,0,0,,Musashi is working in this tea house.
+Comment: 0,0:08:38.73,0:08:42.13,Default,ja,0,0,0,,ムサシめ、今日という今日は決着を付けてやる。
 Dialogue: 0,0:08:38.73,0:08:42.13,Default,ko,0,0,0,,무사시 놈, 오늘로써 끝장을 내 주겠다!
 Dialogue: 0,0:08:38.73,0:08:42.13,Default,en,0,0,0,,Musashi, you're going down as of today!
-Comment: 0,0:08:42.31,0:08:45.19,Default,ja,0,0,0,,
-Dialogue: 0,0:08:42.31,0:08:45.19,Default,ko,0,0,0,,알겠나? 절대 무사시를 놓치면 안 된다!
-Dialogue: 0,0:08:42.31,0:08:45.19,Default,en,0,0,0,,Understand? Do not let Musashi run away!
-Comment: 0,0:08:45.19,0:08:46.08,Default,ja,0,0,0,,
+Comment: 0,0:08:42.31,0:08:45.03,Default,ja,0,0,0,,いいか？絶対武蔵を逃すではないぞ！
+Dialogue: 0,0:08:42.31,0:08:45.03,Default,ko,0,0,0,,알겠나? 절대 무사시를 놓치면 안 된다!
+Dialogue: 0,0:08:42.31,0:08:45.03,Default,en,0,0,0,,Understand? Do not let Musashi run away!
+Comment: 0,0:08:45.19,0:08:46.08,Default,ja,0,0,0,,おう！
 Dialogue: 0,0:08:45.19,0:08:46.08,Default,ko,0,0,0,,예!
 Dialogue: 0,0:08:45.19,0:08:46.08,Default,en,0,0,0,,Roger!
-Comment: 0,0:08:48.61,0:08:53.03,Default,ja,0,0,0,,
+Comment: 0,0:08:48.61,0:08:53.03,Default,ja,0,0,0,,ほお、人には何か一つ取柄があるというが。
 Dialogue: 0,0:08:48.61,0:08:53.03,Default,ko,0,0,0,,오? 네게도 하나 잘 하는 것이 있구나.
 Dialogue: 0,0:08:48.61,0:08:53.03,Default,en,0,0,0,,Oh , at least you have a specialty.
-Comment: 0,0:09:00.97,0:09:02.17,Default,ja,0,0,0,,
+Comment: 0,0:09:00.97,0:09:02.17,Default,ja,0,0,0,,ムサシはどこだ！
 Dialogue: 0,0:09:00.97,0:09:02.17,Default,ko,0,0,0,,무사시는 어디 있나!
 Dialogue: 0,0:09:00.97,0:09:02.17,Default,en,0,0,0,,Where is Musashi?!
-Comment: 0,0:09:02.87,0:09:03.86,Default,ja,0,0,0,,
+Comment: 0,0:09:02.87,0:09:03.86,Default,ja,0,0,0,,あの声は。
 Dialogue: 0,0:09:02.87,0:09:03.86,Default,ko,0,0,0,,어? 저 목소리는...
 Dialogue: 0,0:09:02.87,0:09:03.86,Default,en,0,0,0,,That voice...
-Comment: 0,0:09:03.86,0:09:05.14,Default,ja,0,0,0,,
+Comment: 0,0:09:03.86,0:09:05.14,Default,ja,0,0,0,,な、何をするんだ。
 Dialogue: 0,0:09:03.86,0:09:05.14,Default,ko,0,0,0,,뭐냐, 뭔 짓이냐?
 Dialogue: 0,0:09:03.86,0:09:05.14,Default,en,0,0,0,,What are you doing?!
-Comment: 0,0:09:05.14,0:09:07.31,Default,ja,0,0,0,,
+Comment: 0,0:09:05.14,0:09:07.31,Default,ja,0,0,0,,えい、どけ！ムサシがいたぞ！
 Dialogue: 0,0:09:05.14,0:09:07.31,Default,ko,0,0,0,,비켜라! 무사시가 있다!
 Dialogue: 0,0:09:05.14,0:09:07.31,Default,en,0,0,0,,Move away! Musashi is here!
-Comment: 0,0:09:13.64,0:09:14.99,Default,ja,0,0,0,,
+Comment: 0,0:09:13.64,0:09:14.99,Default,ja,0,0,0,,ムサシ！覚悟！
 Dialogue: 0,0:09:13.64,0:09:14.99,Default,ko,0,0,0,,무사시! 각오해라!
 Dialogue: 0,0:09:13.64,0:09:14.99,Default,en,0,0,0,,Musashi! Prepare yourself!
-Comment: 0,0:09:28.12,0:09:29.31,Default,ja,0,0,0,,
+Comment: 0,0:09:28.12,0:09:29.31,Default,ja,0,0,0,,ムサシはこっちだ！
 Dialogue: 0,0:09:28.12,0:09:29.31,Default,ko,0,0,0,,무사시 저깄다!
 Dialogue: 0,0:09:28.12,0:09:29.31,Default,en,0,0,0,,There's Musashi!
-Comment: 0,0:09:38.39,0:09:39.42,Default,ja,0,0,0,,
+Comment: 0,0:09:38.39,0:09:39.42,Default,ja,0,0,0,,待ってやがれ！
 Dialogue: 0,0:09:38.39,0:09:39.42,Default,ko,0,0,0,,멈춰라!
 Dialogue: 0,0:09:38.39,0:09:39.42,Default,en,0,0,0,,Stop!
-Comment: 0,0:09:47.06,0:09:49.05,Default,ja,0,0,0,,
+Comment: 0,0:09:47.06,0:09:49.05,Default,ja,0,0,0,,武蔵が屋根の上を逃げていくぞ！
 Dialogue: 0,0:09:47.06,0:09:49.05,Default,ko,0,0,0,,무사시가 저 지붕에서 달아난다!
 Dialogue: 0,0:09:47.06,0:09:49.05,Default,en,0,0,0,,Musashi is running away on that roof!
-Comment: 0,0:09:55.26,0:09:57.38,Default,ja,0,0,0,,
+Comment: 0,0:09:55.26,0:09:57.38,Default,ja,0,0,0,,くっそ、しつこいでござるだス！
 Dialogue: 0,0:09:55.26,0:09:57.38,Default,ko,0,0,0,,젠장, 끈덕지오!
 Dialogue: 0,0:09:55.26,0:09:57.38,Default,en,0,0,0,,They're damn persistent-{\i1}dasu{\i0}!
-Comment: 0,0:09:59.38,0:09:59.88,Default,ja,0,0,0,,
+Comment: 0,0:09:59.38,0:09:59.88,Default,ja,0,0,0,,あれ？
 Dialogue: 0,0:09:59.38,0:09:59.88,Default,ko,0,0,0,,어라?
 Dialogue: 0,0:09:59.38,0:09:59.88,Default,en,0,0,0,,Huh?
-Comment: 0,0:10:10.43,0:10:12.30,Default,ja,0,0,0,,
+Comment: 0,0:10:10.43,0:10:12.30,Default,ja,0,0,0,,ムサシ！覚悟するんだな。
 Dialogue: 0,0:10:10.43,0:10:12.30,Default,ko,0,0,0,,무사시! 각오해라.
 Dialogue: 0,0:10:10.43,0:10:12.30,Default,en,0,0,0,,Musashi! Prepare yourself.
-Comment: 0,0:10:16.79,0:10:21.88,Default,ja,0,0,0,,
+Comment: 0,0:10:16.79,0:10:21.88,Default,ja,0,0,0,,畜生！さあ、やれるもんならやってみるだス。たった一人大勢なんて卑怯だス！
 Dialogue: 0,0:10:16.79,0:10:21.88,Default,ko,0,0,0,,젠장! 자, 하려면 하시오! 겨우 하나 대 여럿이라니 비겁하오!
 Dialogue: 0,0:10:16.79,0:10:21.88,Default,en,0,0,0,,Dammit! Do as you want-{\i1}dasu{\i0}! One vs many is cowardly-{\i1}dasu{\i0}!
-Comment: 0,0:10:22.12,0:10:26.09,Default,ja,0,0,0,,
+Comment: 0,0:10:22.12,0:10:26.09,Default,ja,0,0,0,,卑怯とは言わせん。お前なんぞ俺一人で十分わ。
 Dialogue: 0,0:10:22.12,0:10:26.09,Default,ko,0,0,0,,비겁이라고 말하면 안 된다. 너 따위는 나 혼자서도 충분하다!
 Dialogue: 0,0:10:22.12,0:10:26.09,Default,en,0,0,0,,Do not call this cowardly. I am more than enough to finish you!
-Comment: 0,0:10:29.45,0:10:32.35,Default,ja,0,0,0,,
+Comment: 0,0:10:29.45,0:10:32.35,Default,ja,0,0,0,,オツルちゃん！さっきにあの世に行ってるだス。
 Dialogue: 0,0:10:29.45,0:10:32.35,Default,ko,0,0,0,,{\i1}오츠루 씨! 먼저 다음 세계로 가겠소!
 Dialogue: 0,0:10:29.45,0:10:32.35,Default,en,0,0,0,,{\i1}Otsuru! I'm going to the next world earlier than you-{\i0}dasu{\i1}!
-Comment: 0,0:10:38.01,0:10:40.18,Default,ja,0,0,0,,
+Comment: 0,0:10:38.01,0:10:40.18,Default,ja,0,0,0,,ムサシめ！追え！追うんだ！
 Dialogue: 0,0:10:38.01,0:10:40.18,Default,ko,0,0,0,,무사시 놈! 쫒아라! 쫒아!
 Dialogue: 0,0:10:38.01,0:10:40.18,Default,en,0,0,0,,Damn that Musashi! Follow him! Find him!
-Comment: 0,0:10:42.74,0:10:43.94,Default,ja,0,0,0,,
+Comment: 0,0:10:42.74,0:10:43.94,Default,ja,0,0,0,,どうしたでござるだス。
 Dialogue: 0,0:10:42.74,0:10:43.94,Default,ko,0,0,0,,무슨 일이오?
 Dialogue: 0,0:10:42.74,0:10:43.94,Default,en,0,0,0,,What's going on-{\i1}dasu{\i0}?
-Comment: 0,0:10:45.32,0:10:47.06,Default,ja,0,0,0,,
+Comment: 0,0:10:45.32,0:10:47.06,Default,ja,0,0,0,,さあ！今のうちだ！来い！
 Dialogue: 0,0:10:45.32,0:10:47.06,Default,ko,0,0,0,,자! 이 틈이다! 따라와!
 Dialogue: 0,0:10:45.32,0:10:47.06,Default,en,0,0,0,,Now! Run away! Come!
-Comment: 0,0:10:51.52,0:10:53.02,Default,ja,0,0,0,,
+Comment: 0,0:10:51.52,0:10:53.02,Default,ja,0,0,0,,助かったでござるだス。
 Dialogue: 0,0:10:51.52,0:10:53.02,Default,ko,0,0,0,,살았소...
 Dialogue: 0,0:10:51.52,0:10:53.02,Default,en,0,0,0,,What a relief-{\i1}dasu{\i0}...
-Comment: 0,0:10:53.50,0:10:54.66,Default,ja,0,0,0,,
+Comment: 0,0:10:53.50,0:10:54.66,Default,ja,0,0,0,,礼を言う。。。
 Dialogue: 0,0:10:53.50,0:10:54.66,Default,ko,0,0,0,,감사하...
 Dialogue: 0,0:10:53.50,0:10:54.66,Default,en,0,0,0,,I must say thank...
-Comment: 0,0:10:55.06,0:10:56.28,Default,ja,0,0,0,,
+Comment: 0,0:10:55.06,0:10:56.28,Default,ja,0,0,0,,コ、コジロー！
 Dialogue: 0,0:10:55.06,0:10:56.28,Default,ko,0,0,0,,코지로!
 Dialogue: 0,0:10:55.06,0:10:56.28,Default,en,0,0,0,,Kojirō!
-Comment: 0,0:10:56.58,0:11:00.51,Default,ja,0,0,0,,
+Comment: 0,0:10:56.58,0:11:00.51,Default,ja,0,0,0,,礼儀じらずめ。いの著の恩人を呼び捨てにする奴があるか！
 Dialogue: 0,0:10:56.58,0:11:00.51,Default,ko,0,0,0,,예의 모르는 놈. 생명의 은인 이름을 막 부르는 놈이 있는가!
 Dialogue: 0,0:10:56.58,0:11:00.51,Default,en,0,0,0,,You insolent brat. How rude of you to call the name of your lifesaver without respect!
-Comment: 0,0:11:01.56,0:11:02.55,Default,ja,0,0,0,,
+Comment: 0,0:11:01.56,0:11:02.55,Default,ja,0,0,0,,ごめんだス！
 Dialogue: 0,0:11:01.56,0:11:02.55,Default,ko,0,0,0,,미안하오!
 Dialogue: 0,0:11:01.56,0:11:02.55,Default,en,0,0,0,,Sorry-{\i1}dasu{\i0}!
-Comment: 0,0:11:02.97,0:11:04.46,Default,ja,0,0,0,,
+Comment: 0,0:11:02.97,0:11:04.46,Default,ja,0,0,0,,ありがとうでござるだス。
 Dialogue: 0,0:11:02.97,0:11:04.46,Default,ko,0,0,0,,고맙소.
 Dialogue: 0,0:11:02.97,0:11:04.46,Default,en,0,0,0,,Thank you-{\i1}dasu{\i0}.
-Comment: 0,0:11:04.86,0:11:07.38,Default,ja,0,0,0,,
+Comment: 0,0:11:04.86,0:11:07.38,Default,ja,0,0,0,,って、でもなんでおいらを助けたんだスか。
 Dialogue: 0,0:11:04.86,0:11:07.38,Default,ko,0,0,0,,그, 근데 왜 날 구했소?
 Dialogue: 0,0:11:04.86,0:11:07.38,Default,en,0,0,0,,Bu- but why did you saved me-{\i1}dasu{\i0}?
-Comment: 0,0:11:07.93,0:11:14.81,Default,ja,0,0,0,,
+Comment: 0,0:11:07.93,0:11:14.81,Default,ja,0,0,0,,お前のようなガキ一匹を大の大人が寄ってたかって追い回すようなヨシオカのやり方は許せんからだ！
 Dialogue: 0,0:11:07.93,0:11:14.81,Default,ko,0,0,0,,너같은 꼬맹이 하나를 다 자란 성인 여럿이서 쫒아다니는 요시오카의 짓은 용서할 수 없기 때문이다!
 Dialogue: 0,0:11:07.93,0:11:14.81,Default,en,0,0,0,,I cannot forgive how the numerous grown-ups at Yoshioka are trying to chase a young kid like you!
-Comment: 0,0:11:15.77,0:11:17.51,Default,ja,0,0,0,,
+Comment: 0,0:11:15.77,0:11:17.51,Default,ja,0,0,0,,おいらはガキではないだス！
 Dialogue: 0,0:11:15.77,0:11:17.51,Default,ko,0,0,0,,난 얘가 아니오!
 Dialogue: 0,0:11:15.77,0:11:17.51,Default,en,0,0,0,,I am not a kid!
-Comment: 0,0:11:18.41,0:11:19.96,Default,ja,0,0,0,,
+Comment: 0,0:11:18.41,0:11:19.96,Default,ja,0,0,0,,じゃ、お前はなんだ？
 Dialogue: 0,0:11:18.41,0:11:19.96,Default,ko,0,0,0,,그럼 넌 뭐냐?
 Dialogue: 0,0:11:18.41,0:11:19.96,Default,en,0,0,0,,Then what are you?
-Comment: 0,0:11:19.96,0:11:22.02,Default,ja,0,0,0,,
+Comment: 0,0:11:19.96,0:11:22.02,Default,ja,0,0,0,,おいら、こう見えても武芸者だス。
 Dialogue: 0,0:11:19.96,0:11:22.02,Default,ko,0,0,0,,나, 이렇게 보여도 무예가라오!
 Dialogue: 0,0:11:19.96,0:11:22.02,Default,en,0,0,0,,I am a martial artist despite how I look-{\i1}dasu{\i0}!
-Comment: 0,0:11:22.31,0:11:26.64,Default,ja,0,0,0,,
+Comment: 0,0:11:22.31,0:11:26.64,Default,ja,0,0,0,,ふん、笑わせるな。自分の刀も持ってんガキが！恥知らずめ！
 Dialogue: 0,0:11:22.31,0:11:26.64,Default,ko,0,0,0,,흥, 웃기지 마라! 자기 칼도 없는 얘가! 부끄러운 줄 모르는 놈!
 Dialogue: 0,0:11:22.31,0:11:26.64,Default,en,0,0,0,,Hmph, don't make me laugh! You don't even have your own sword! You should be ashamed!
-Comment: 0,0:11:27.75,0:11:29.05,Default,ja,0,0,0,,
+Comment: 0,0:11:27.75,0:11:29.05,Default,ja,0,0,0,,そ、それは言い過ぎだス！
 Dialogue: 0,0:11:27.75,0:11:29.05,Default,ko,0,0,0,,그, 그건 너무했소!
 Dialogue: 0,0:11:27.75,0:11:29.05,Default,en,0,0,0,,Th- that's too much!
-Comment: 0,0:11:29.75,0:11:34.93,Default,ja,0,0,0,,
+Comment: 0,0:11:29.75,0:11:34.93,Default,ja,0,0,0,,剣は武士の命！剣の持たぬ奴を武士とは認めん！
 Dialogue: 0,0:11:29.75,0:11:34.93,Default,ko,0,0,0,,검은 무사의 생명! 검을 가지지 않는 놈을 무사로는 인정할 수 없다!
 Dialogue: 0,0:11:29.75,0:11:34.93,Default,en,0,0,0,,A sword is the life of a martial artist! I will not accept whoever without a sword as a martial artist!
-Comment: 0,0:11:37.54,0:11:41.67,Default,ja,0,0,0,,
+Comment: 0,0:11:37.54,0:11:41.67,Default,ja,0,0,0,,この件は名刀関の孫六、通称物干し竿だ。
 Dialogue: 0,0:11:37.54,0:11:41.67,Default,ko,0,0,0,,이 칼은 명도 세키노마고로쿠(関の孫六). 통칭 모노호시자오(物干し竿)다.
 Dialogue: 0,0:11:37.54,0:11:41.67,Default,en,0,0,0,,This excellent sword is Seki no Magoroku, also known as Monohoshizao.
-Comment: 0,0:11:42.66,0:11:44.14,Default,ja,0,0,0,,
+Comment: 0,0:11:42.66,0:11:44.14,Default,ja,0,0,0,,よく拝んでおけ！
 Dialogue: 0,0:11:42.66,0:11:44.14,Default,ko,0,0,0,,잘 봐 두어라!
 Dialogue: 0,0:11:42.66,0:11:44.14,Default,en,0,0,0,,Feast your eyes!
-Comment: 0,0:11:53.53,0:11:55.58,Default,ja,0,0,0,,
+Comment: 0,0:11:53.53,0:11:55.58,Default,ja,0,0,0,,ふん。ばっかめ。
 Dialogue: 0,0:11:53.53,0:11:55.58,Default,ko,0,0,0,,흥. 바보 놈.
 Dialogue: 0,0:11:53.53,0:11:55.58,Default,en,0,0,0,,Hmph. Idiot.
-Comment: 0,0:11:56.95,0:11:57.97,Default,ja,0,0,0,,
+Comment: 0,0:11:56.95,0:11:57.97,Default,ja,0,0,0,,なんだス！
 Dialogue: 0,0:11:56.95,0:11:57.97,Default,ko,0,0,0,,뭐시라?!
 Dialogue: 0,0:11:56.95,0:11:57.97,Default,en,0,0,0,,What did you say-{\i1}dasu{\i0}?!
-Comment: 0,0:11:59.96,0:12:02.73,Default,ja,0,0,0,,
+Comment: 0,0:11:59.96,0:12:02.73,Default,ja,0,0,0,,かっこつけるんじゃないでござるだス！
 Dialogue: 0,0:11:59.96,0:12:02.73,Default,ko,0,0,0,,멋진 척 하지 마시오!
 Dialogue: 0,0:11:59.96,0:12:02.73,Default,en,0,0,0,,You're a showoff-{\i1}dasu{\i0}!
-Comment: 0,0:12:08.68,0:12:10.49,Default,ja,0,0,0,,
+Comment: 0,0:12:08.68,0:12:10.49,Default,ja,0,0,0,,助かったでござるだス。
 Dialogue: 0,0:12:08.68,0:12:10.49,Default,ko,0,0,0,,살았소...
 Dialogue: 0,0:12:08.68,0:12:10.49,Default,en,0,0,0,,That was close-{\i1}dasu{\i0}...
-Comment: 0,0:12:11.60,0:12:13.02,Default,ja,0,0,0,,
+Comment: 0,0:12:11.60,0:12:13.02,Default,ja,0,0,0,,コジローのやつめ！
 Dialogue: 0,0:12:11.60,0:12:13.02,Default,ko,0,0,0,,코지로 놈!
 Dialogue: 0,0:12:11.60,0:12:13.02,Default,en,0,0,0,,Damn that Kojirō!
-Comment: 0,0:12:13.36,0:12:20.71,Default,ja,0,0,0,,
+Comment: 0,0:12:13.36,0:12:20.71,Default,ja,0,0,0,,コジローに馬鹿にされたムサシ。刀を手根入れることができるのか。疾風怒濤の後半を待て！
 Dialogue: 0,0:12:13.36,0:12:20.71,Default,ko,0,0,0,,코지로에게 놀림받은 무사시. 칼을 손에 넣을 수 있을 것인가? 질풍노도의 후반을 기다려라!
 Dialogue: 0,0:12:13.36,0:12:20.71,Default,en,0,0,0,,Musashi was insulted by Kojirō. Will he ever get a sword? Wait for the stormy latter half!
-Comment: 0,0:12:34.95,0:12:36.26,Default,ja,0,0,0,,
+Comment: 0,0:12:34.95,0:12:36.26,Default,ja,0,0,0,,捕まえただス！
 Dialogue: 0,0:12:34.95,0:12:36.26,Default,ko,0,0,0,,잡았소!
 Dialogue: 0,0:12:34.95,0:12:36.26,Default,en,0,0,0,,Caught one-{\i1}dasu{\i0}!
-Comment: 0,0:12:40.86,0:12:43.07,Default,ja,0,0,0,,
+Comment: 0,0:12:40.86,0:12:43.07,Default,ja,0,0,0,,おなかすいただス！
 Dialogue: 0,0:12:40.86,0:12:43.07,Default,ko,0,0,0,,배고프오...
 Dialogue: 0,0:12:40.86,0:12:43.07,Default,en,0,0,0,,Hungry-{\i1}dasu{\i0}...
-Comment: 0,0:12:49.66,0:12:53.89,Default,ja,0,0,0,,
+Comment: 0,0:12:49.66,0:12:53.89,Default,ja,0,0,0,,さあ、ムサシさん。あたしが作ったお結びよ！たくさん食べて！
 Dialogue: 0,0:12:49.66,0:12:53.89,Default,ko,0,0,0,,자, 무사시 씨. 제가 만든 주먹밥이에요. 많이 드세요!
 Dialogue: 0,0:12:49.66,0:12:53.89,Default,en,0,0,0,,Here, Musashi. I made these rice balls for you. Eat as much as you want!
-Comment: 0,0:12:54.83,0:12:57.77,Default,ja,0,0,0,,
-Dialogue: 0,0:12:54.83,0:12:57.77,Default,ko,0,0,0,,고맙소, 오츠루 씨. 잘 먹겠소!
-Dialogue: 0,0:12:54.83,0:12:57.77,Default,en,0,0,0,,Thank you for all of these-{\i1}dasu{\i0}, Otsuru.
-Comment: 0,0:13:02.15,0:13:04.54,Default,ja,0,0,0,,
+Comment: 0,0:12:54.69,0:12:57.77,Default,ja,0,0,0,,ありがとう、オツルさん。いただくでござるだス。
+Dialogue: 0,0:12:54.69,0:12:57.77,Default,ko,0,0,0,,고맙소, 오츠루 씨. 잘 먹겠소!
+Dialogue: 0,0:12:54.69,0:12:57.77,Default,en,0,0,0,,Thank you for all of these-{\i1}dasu{\i0}, Otsuru.
+Comment: 0,0:13:02.15,0:13:04.54,Default,ja,0,0,0,,オツルさん、これかたいでござるだス。
 Dialogue: 0,0:13:02.15,0:13:04.54,Default,ko,0,0,0,,오츠루 씨, 이거 딱딱하오.
 Dialogue: 0,0:13:02.15,0:13:04.54,Default,en,0,0,0,,Otsuru, these are tough-{\i1}dasu{\i0}...
-Comment: 0,0:13:07.27,0:13:08.67,Default,ja,0,0,0,,
+Comment: 0,0:13:07.27,0:13:08.67,Default,ja,0,0,0,,かたいでござる。。。
 Dialogue: 0,0:13:07.27,0:13:08.67,Default,ko,0,0,0,,딱딱하오...
 Dialogue: 0,0:13:07.27,0:13:08.67,Default,en,0,0,0,,Tough...
-Comment: 0,0:13:09.34,0:13:10.29,Default,ja,0,0,0,,
+Comment: 0,0:13:09.34,0:13:10.29,Default,ja,0,0,0,,オツルさん。。。
 Dialogue: 0,0:13:09.34,0:13:10.29,Default,ko,0,0,0,,오츠루 씨...
 Dialogue: 0,0:13:09.34,0:13:10.29,Default,en,0,0,0,,Otsuru...
-Comment: 0,0:13:10.60,0:13:12.06,Default,ja,0,0,0,,
+Comment: 0,0:13:10.60,0:13:12.06,Default,ja,0,0,0,,食べられないだス。
 Dialogue: 0,0:13:10.60,0:13:12.06,Default,ko,0,0,0,,먹을 수가 없소.
 Dialogue: 0,0:13:10.60,0:13:12.06,Default,en,0,0,0,,I can't eat-{\i1}dasu{\i0}...
-Comment: 0,0:13:12.39,0:13:14.42,Default,ja,0,0,0,,
+Comment: 0,0:13:12.39,0:13:14.42,Default,ja,0,0,0,,お兄ちゃん！お兄ちゃん！
 Dialogue: 0,0:13:12.39,0:13:14.42,Default,ko,0,0,0,,형! 형!
 Dialogue: 0,0:13:12.39,0:13:14.42,Default,en,0,0,0,,Hey there! Brother!
-Comment: 0,0:13:17.61,0:13:20.19,Default,ja,0,0,0,,
+Comment: 0,0:13:17.61,0:13:20.19,Default,ja,0,0,0,,お兄ちゃん、なんで石なんかかじってるの？
 Dialogue: 0,0:13:17.61,0:13:20.19,Default,ko,0,0,0,,형 왜 돌을 갉아?
 Dialogue: 0,0:13:17.61,0:13:20.19,Default,en,0,0,0,,Brother, why are you gnawing on stones?
-Comment: 0,0:13:20.80,0:13:24.16,Default,ja,0,0,0,,
+Comment: 0,0:13:20.80,0:13:24.16,Default,ja,0,0,0,,腹が、腹が減って動けないんでござるだス。
 Dialogue: 0,0:13:20.80,0:13:24.16,Default,ko,0,0,0,,배, 배가 고파서 못 움직이겠소.
 Dialogue: 0,0:13:20.80,0:13:24.16,Default,en,0,0,0,,I... I am too hungry to move-{\i1}dasu{\i0}.
-Comment: 0,0:13:24.70,0:13:26.68,Default,ja,0,0,0,,
+Comment: 0,0:13:24.70,0:13:26.68,Default,ja,0,0,0,,じゃ、お兄ちゃん、これ上げるよ！
 Dialogue: 0,0:13:24.70,0:13:26.68,Default,ko,0,0,0,,자, 형! 이거 먹어!
 Dialogue: 0,0:13:24.70,0:13:26.68,Default,en,0,0,0,,Here, brother! You can have this!
-Comment: 0,0:13:37.59,0:13:39.67,Default,ja,0,0,0,,
+Comment: 0,0:13:37.59,0:13:39.67,Default,ja,0,0,0,,ああ、食った、食った！満腹でござるだス。
 Dialogue: 0,0:13:37.59,0:13:39.67,Default,ko,0,0,0,,아, 잘 먹었소! 배가 부르오.
 Dialogue: 0,0:13:37.59,0:13:39.67,Default,en,0,0,0,,That was good! I am full-{\i1}dasu{\i0}.
-Comment: 0,0:13:40.70,0:13:44.84,Default,ja,0,0,0,,
+Comment: 0,0:13:40.70,0:13:44.84,Default,ja,0,0,0,,坊や、ありがとう。お兄ちゃん人心地がついたでござるだス。
 Dialogue: 0,0:13:40.70,0:13:44.84,Default,ko,0,0,0,,얘야, 고맙소. 형 제정신을 되찾았소!
 Dialogue: 0,0:13:40.70,0:13:44.84,Default,en,0,0,0,,Thanks to you, kid, that really saved me-{\i1}dasu{\i0}!
-Comment: 0,0:13:46.28,0:13:50.77,Default,ja,0,0,0,,
+Comment: 0,0:13:46.28,0:13:50.77,Default,ja,0,0,0,,でも、もしかしと、うちの人に持っていく魚だったんじゃないだスか。
 Dialogue: 0,0:13:46.28,0:13:50.77,Default,ko,0,0,0,,그래도... 혹시 집으로 가져갈 물고기 아니었소?
 Dialogue: 0,0:13:46.28,0:13:50.77,Default,en,0,0,0,,But... weren't you going to take that fishes to your home-{\i1}dasu{\i0}?
-Comment: 0,0:13:51.02,0:13:53.45,Default,ja,0,0,0,,
-Dialogue: 0,0:13:51.02,0:13:53.45,Default,ko,0,0,0,,괜찮아! 또 잡으면 되니까!
-Dialogue: 0,0:13:51.02,0:13:53.45,Default,en,0,0,0,,It's all right! I can catch them again!
-Comment: 0,0:13:53.90,0:13:56.56,Default,ja,0,0,0,,
+Comment: 0,0:13:51.02,0:13:53.45,Default,ja,0,0,0,,大丈夫だよ！これでまたとるから！
+Dialogue: 0,0:13:51.02,0:13:53.45,Default,ko,0,0,0,,괜찮아! 이걸로 또 잡으면 되니까!
+Dialogue: 0,0:13:51.02,0:13:53.45,Default,en,0,0,0,,It's all right! I can catch them again with this!
+Comment: 0,0:13:53.90,0:13:56.56,Default,ja,0,0,0,,よし！それじゃお兄ちゃんが取ってあげるだス！
 Dialogue: 0,0:13:53.90,0:13:56.56,Default,ko,0,0,0,,좋아! 그럼 형이 잡아주오!
 Dialogue: 0,0:13:53.90,0:13:56.56,Default,en,0,0,0,,All right! If that's the case, brother will catch for you-{\i1}dasu{\i0}!
-Comment: 0,0:14:03.30,0:14:04.69,Default,ja,0,0,0,,
+Comment: 0,0:14:03.30,0:14:04.69,Default,ja,0,0,0,,やったでござるだス。
 Dialogue: 0,0:14:03.30,0:14:04.69,Default,ko,0,0,0,,해냈소!
 Dialogue: 0,0:14:03.30,0:14:04.69,Default,en,0,0,0,,I did it!
-Comment: 0,0:14:05.34,0:14:07.05,Default,ja,0,0,0,,
+Comment: 0,0:14:05.34,0:14:07.05,Default,ja,0,0,0,,お兄ちゃんすごい！
 Dialogue: 0,0:14:05.34,0:14:07.05,Default,ko,0,0,0,,형 대단해!
 Dialogue: 0,0:14:05.34,0:14:07.05,Default,en,0,0,0,,You're awesome!
-Comment: 0,0:14:09.05,0:14:10.15,Default,ja,0,0,0,,
+Comment: 0,0:14:09.05,0:14:10.15,Default,ja,0,0,0,,ありがとう！
 Dialogue: 0,0:14:09.05,0:14:10.15,Default,ko,0,0,0,,고마워!
 Dialogue: 0,0:14:09.05,0:14:10.15,Default,en,0,0,0,,Thank you!
-Comment: 0,0:14:10.94,0:14:12.63,Default,ja,0,0,0,,
+Comment: 0,0:14:10.94,0:14:12.63,Default,ja,0,0,0,,なんの、なんのでござるだス。
 Dialogue: 0,0:14:10.94,0:14:12.63,Default,ko,0,0,0,,아무것도 아니오.
 Dialogue: 0,0:14:10.94,0:14:12.63,Default,en,0,0,0,,That was nothing-{\i1}dasu{\i0}.
-Comment: 0,0:14:12.97,0:14:17.08,Default,ja,0,0,0,,
+Comment: 0,0:14:12.97,0:14:17.08,Default,ja,0,0,0,,しかしその籏は言い切れはずでござるだスな。だれが作ったんだスか。
 Dialogue: 0,0:14:12.97,0:14:17.08,Default,ko,0,0,0,,그래도 그 작살은 좋은 잘 듣는 칼인데... 누가 만들었소?
 Dialogue: 0,0:14:12.97,0:14:17.08,Default,en,0,0,0,,But still, that harpoon pierces pretty nicely... Who made it?
-Comment: 0,0:14:17.37,0:14:19.71,Default,ja,0,0,0,,
+Comment: 0,0:14:17.37,0:14:19.71,Default,ja,0,0,0,,これはお父ちゃんが作ったんだ！
 Dialogue: 0,0:14:17.37,0:14:19.71,Default,ko,0,0,0,,이건 아빠가 만들었어!
 Dialogue: 0,0:14:17.37,0:14:19.71,Default,en,0,0,0,,My dad made this!
-Comment: 0,0:14:19.94,0:14:20.73,Default,ja,0,0,0,,
+Comment: 0,0:14:19.94,0:14:20.73,Default,ja,0,0,0,,お父ちゃん？
 Dialogue: 0,0:14:19.94,0:14:20.73,Default,ko,0,0,0,,아빠?
 Dialogue: 0,0:14:19.94,0:14:20.73,Default,en,0,0,0,,Dad?
-Comment: 0,0:14:21.27,0:14:24.75,Default,ja,0,0,0,,
+Comment: 0,0:14:21.27,0:14:24.75,Default,ja,0,0,0,,ジパング一の刀鍛冶、剣持コテツっていうんだ！
 Dialogue: 0,0:14:21.27,0:14:24.75,Default,ko,0,0,0,,지팡구 제일의 칼 장인, 켄모치 코테츠라고 해!
-Dialogue: 0,0:14:21.27,0:14:24.75,Default,en,0,0,0,,The number one sword craftsman of Jipangu, Kenmochi Kotetsu!
-Comment: 0,0:14:25.13,0:14:26.89,Default,ja,0,0,0,,
+Dialogue: 0,0:14:21.27,0:14:24.75,Default,en,0,0,0,,The number one sword craftsman of Jipangu, Kotetsu Kenmochi!
+Comment: 0,0:14:25.13,0:14:26.89,Default,ja,0,0,0,,僕はその子供のコタロー！
 Dialogue: 0,0:14:25.13,0:14:26.89,Default,ko,0,0,0,,난 그 자식 코타로!
 Dialogue: 0,0:14:25.13,0:14:26.89,Default,en,0,0,0,,I am his son, Kotarō!
-Comment: 0,0:14:27.55,0:14:28.70,Default,ja,0,0,0,,
+Comment: 0,0:14:27.55,0:14:28.70,Default,ja,0,0,0,,ラッキーだス！
 Dialogue: 0,0:14:27.55,0:14:28.70,Default,ko,0,0,0,,럭키하오!
 Dialogue: 0,0:14:27.55,0:14:28.70,Default,en,0,0,0,,Lucky-{\i1}dasu{\i0}!
-Comment: 0,0:14:30.40,0:14:31.81,Default,ja,0,0,0,,
+Comment: 0,0:14:30.40,0:14:31.81,Default,ja,0,0,0,,だめだ、だめだ！
 Dialogue: 0,0:14:30.40,0:14:31.81,Default,ko,0,0,0,,안된다, 안 돼!
 Dialogue: 0,0:14:30.40,0:14:31.81,Default,en,0,0,0,,Nope, no way.
-Comment: 0,0:14:32.47,0:14:35.25,Default,ja,0,0,0,,
+Comment: 0,0:14:32.47,0:14:35.25,Default,ja,0,0,0,,そんなこと言わず、どうかお願いしますだス。
 Dialogue: 0,0:14:32.47,0:14:35.25,Default,ko,0,0,0,,그런 말 하지 마시고 어떻게든 부탁드리오!
 Dialogue: 0,0:14:32.47,0:14:35.25,Default,en,0,0,0,,Don't say that, and please help-{\i1}dasu{\i0}!
-Comment: 0,0:14:35.65,0:14:38.07,Default,ja,0,0,0,,
+Comment: 0,0:14:35.65,0:14:38.07,Default,ja,0,0,0,,おいら、どうしても名人の刀が欲しいだス。
 Dialogue: 0,0:14:35.65,0:14:38.07,Default,ko,0,0,0,,나, 어떻게든 명인의 칼을 원하오!
 Dialogue: 0,0:14:35.65,0:14:38.07,Default,en,0,0,0,,I really want a sword from a master craftsman-{\i1}dasu{\i0}!
-Comment: 0,0:14:38.61,0:14:40.80,Default,ja,0,0,0,,
+Comment: 0,0:14:38.61,0:14:40.80,Default,ja,0,0,0,,わしは刀鍛冶はやめたのだ。
 Dialogue: 0,0:14:38.61,0:14:40.80,Default,ko,0,0,0,,난 칼 장인은 관뒀다!
 Dialogue: 0,0:14:38.61,0:14:40.80,Default,en,0,0,0,,I gave up being one!
-Comment: 0,0:14:41.77,0:14:46.56,Default,ja,0,0,0,,
+Comment: 0,0:14:41.77,0:14:46.56,Default,ja,0,0,0,,そこ一つ、何とか、おいらをジパングナンバー1の武芸者にしてくださいだス！
 Dialogue: 0,0:14:41.77,0:14:46.56,Default,ko,0,0,0,,딱 하나만, 어떻게든, 절 지팡구 제일의 무예가가 되게 해 주시오!
 Dialogue: 0,0:14:41.77,0:14:46.56,Default,en,0,0,0,,Please, just one for me! Help me become the number one martial artist of Jipangu!
-Comment: 0,0:14:47.34,0:14:52.32,Default,ja,0,0,0,,
+Comment: 0,0:14:47.34,0:14:52.32,Default,ja,0,0,0,,だがジパングナンバー1になるのはお前の努力だ。わしがそうさせるわけではない！
 Dialogue: 0,0:14:47.34,0:14:52.32,Default,ko,0,0,0,,그러나 지팡구 제일이 되는 건 네 노력이다. 내가 그렇게 해주는 게 아니라!
 Dialogue: 0,0:14:47.34,0:14:52.32,Default,en,0,0,0,,But it's your effort alone that will make you become the number one in Jipangu. I can't make you become one!
-Comment: 0,0:14:53.05,0:14:58.26,Default,ja,0,0,0,,
+Comment: 0,0:14:53.05,0:14:58.26,Default,ja,0,0,0,,分かってるだス！おいら、これから一生懸命努力するだス。
 Dialogue: 0,0:14:53.05,0:14:58.26,Default,ko,0,0,0,,알고 있소! 저, 지금부터 목숨을 걸고 노력하겠소.
 Dialogue: 0,0:14:53.05,0:14:58.26,Default,en,0,0,0,,I already know-{\i1}dasu{\i0}! From now on, I'll risk my life for that-{\i1}dasu{\i0}.
-Comment: 0,0:14:58.76,0:15:00.45,Default,ja,0,0,0,,
+Comment: 0,0:14:58.76,0:15:00.45,Default,ja,0,0,0,,でも。。。でも。。。
 Dialogue: 0,0:14:58.76,0:15:00.45,Default,ko,0,0,0,,그래도... 그래도...
 Dialogue: 0,0:14:58.76,0:15:00.45,Default,en,0,0,0,,But... still...
-Comment: 0,0:15:00.87,0:15:03.77,Default,ja,0,0,0,,
+Comment: 0,0:15:00.87,0:15:03.77,Default,ja,0,0,0,,おいら、どうしても名人の刀が欲しいんだス。
 Dialogue: 0,0:15:00.87,0:15:03.77,Default,ko,0,0,0,,나... 어떻게든 명인의 칼을 원하오...
 Dialogue: 0,0:15:00.87,0:15:03.77,Default,en,0,0,0,,I... really want a sword from a master craftsman-{\i1}dasu{\i0}...
-Comment: 0,0:15:10.84,0:15:15.70,Default,ja,0,0,0,,
+Comment: 0,0:15:10.84,0:15:15.70,Default,ja,0,0,0,,お願いだス！名人の刀が欲しいだス。
 Dialogue: 0,0:15:10.84,0:15:15.70,Default,ko,0,0,0,,부탁드리오! 명인의 칼을 갖고 싶소!
 Dialogue: 0,0:15:10.84,0:15:15.70,Default,en,0,0,0,,Please-{\i1}dasu{\i0}! I want a sword from an expert-{\i1}dasu{\i0}!
-Comment: 0,0:15:16.52,0:15:18.00,Default,ja,0,0,0,,
+Comment: 0,0:15:16.52,0:15:18.00,Default,ja,0,0,0,,欲しいだス。
 Dialogue: 0,0:15:16.52,0:15:18.00,Default,ko,0,0,0,,원하오!
 Dialogue: 0,0:15:16.52,0:15:18.00,Default,en,0,0,0,,I want one-{\i1}dasu{\i0}!
-Comment: 0,0:15:18.10,0:15:19.45,Default,ja,0,0,0,,
+Comment: 0,0:15:18.10,0:15:19.45,Default,ja,0,0,0,,困った奴だ。
 Dialogue: 0,0:15:18.10,0:15:19.45,Default,ko,0,0,0,,곤란한 놈이군.
 Dialogue: 0,0:15:18.10,0:15:19.45,Default,en,0,0,0,,What should I do with him?
-Comment: 0,0:15:20.51,0:15:23.79,Default,ja,0,0,0,,
+Comment: 0,0:15:20.51,0:15:23.79,Default,ja,0,0,0,,刀が欲しいだスよ。
 Dialogue: 0,0:15:20.51,0:15:23.79,Default,ko,0,0,0,,칼 갖고 싶소!
 Dialogue: 0,0:15:20.51,0:15:23.79,Default,en,0,0,0,,I want a sword-{\i1}dasu{\i0}!
-Comment: 0,0:15:23.79,0:15:25.02,Default,ja,0,0,0,,
+Comment: 0,0:15:23.79,0:15:25.02,Default,ja,0,0,0,,刀が。。。
 Dialogue: 0,0:15:23.79,0:15:25.02,Default,ko,0,0,0,,칼...
 Dialogue: 0,0:15:23.79,0:15:25.02,Default,en,0,0,0,,Sword...
-Comment: 0,0:15:26.30,0:15:30.22,Default,ja,0,0,0,,
+Comment: 0,0:15:26.30,0:15:30.22,Default,ja,0,0,0,,ムサシは一度こうと決めたらしつこかった。
 Dialogue: 0,0:15:26.30,0:15:30.22,Default,ko,0,0,0,,무사시는 한번 정하면 끈덕졌다.
 Dialogue: 0,0:15:26.30,0:15:30.22,Default,en,0,0,0,,Once decided, Musashi was persistent.
-Comment: 0,0:15:31.58,0:15:35.40,Default,ja,0,0,0,,
+Comment: 0,0:15:31.58,0:15:35.40,Default,ja,0,0,0,,お頼み申すだス！どうしても刀が欲しいだス。
 Dialogue: 0,0:15:31.58,0:15:35.40,Default,ko,0,0,0,,부탁드리오! 어떻게든 칼을 원하오!
 Dialogue: 0,0:15:31.58,0:15:35.40,Default,en,0,0,0,,Please-{\i1}dasu{\i0}! I want a sword no matter whatever it takes-{\i1}dasu{\i0}!
-Comment: 0,0:15:35.78,0:15:39.51,Default,ja,0,0,0,,
+Comment: 0,0:15:35.78,0:15:39.51,Default,ja,0,0,0,,お頼み申しだス！名人の刀が欲しいだス。
 Dialogue: 0,0:15:35.78,0:15:39.51,Default,ko,0,0,0,,부탁드리오! 명인의 칼이 갖고 싶소!
 Dialogue: 0,0:15:35.78,0:15:39.51,Default,en,0,0,0,,Please-{\i1}dasu{\i0}! I want a sword of an expert-{\i1}dasu{\i0}!
-Comment: 0,0:15:39.80,0:15:43.08,Default,ja,0,0,0,,
+Comment: 0,0:15:39.80,0:15:43.08,Default,ja,0,0,0,,-どうかこのムサシのお願いを聞いておくれだス。\N-父ちゃん。。。
 Dialogue: 0,0:15:39.80,0:15:43.08,Default,ko,0,0,0,,-어떻게든 부탁드리오! 돈도 드리겠소!\N-아빠...
 Dialogue: 0,0:15:39.80,0:15:43.08,Default,en,0,0,0,,-Please help me-{\i1}dasu{\i0}! I'll pay you-{\i1}dasu{\i0}!\N-Dad...
-Comment: 0,0:15:43.34,0:15:47.26,Default,ja,0,0,0,,
+Comment: 0,0:15:43.34,0:15:47.26,Default,ja,0,0,0,,お頼み申しだス。おいら、ジパングナンバー1の武芸者に。。。
 Dialogue: 0,0:15:43.34,0:15:47.26,Default,ko,0,0,0,,부탁드리오! 나, 지팡구 제일의 무예가로...
 Dialogue: 0,0:15:43.34,0:15:47.26,Default,en,0,0,0,,Please-{\i1}dasu{\i0}! I need to be the number one martial artist of Jipangu...
-Comment: 0,0:16:00.23,0:16:03.77,Default,ja,0,0,0,,
+Comment: 0,0:16:00.23,0:16:03.77,Default,ja,0,0,0,,ボクデン師匠、悔しいだス。
 Dialogue: 0,0:16:00.23,0:16:03.77,Default,ko,0,0,0,,보쿠덴 스승님... 분하오...
 Dialogue: 0,0:16:00.23,0:16:03.77,Default,en,0,0,0,,Master Bokuden... I am so mortified-{\i1}dasu{\i0}...
-Comment: 0,0:16:04.56,0:16:05.31,Default,ja,0,0,0,,
+Comment: 0,0:16:04.56,0:16:05.31,Default,ja,0,0,0,,ボクデン？
 Dialogue: 0,0:16:04.56,0:16:05.31,Default,ko,0,0,0,,보쿠덴?
 Dialogue: 0,0:16:04.56,0:16:05.31,Default,en,0,0,0,,Bokuden?
-Comment: 0,0:16:05.31,0:16:08.82,Default,ja,0,0,0,,
-Dialogue: 0,0:16:05.31,0:16:08.82,Default,ko,0,0,0,,나, 이제 지팡구 제일이 되지 못하오...
-Dialogue: 0,0:16:05.31,0:16:08.82,Default,en,0,0,0,,I won't be able to become the number one anymore...
-Comment: 0,0:16:08.82,0:16:10.51,Default,ja,0,0,0,,
+Comment: 0,0:16:05.31,0:16:08.68,Default,ja,0,0,0,,おいら、もうジパングナンバー1になれないだス。。。
+Dialogue: 0,0:16:05.31,0:16:08.68,Default,ko,0,0,0,,나, 이제 지팡구 제일이 되지 못하오...
+Dialogue: 0,0:16:05.31,0:16:08.68,Default,en,0,0,0,,I won't be able to become the number one anymore...
+Comment: 0,0:16:08.82,0:16:10.51,Default,ja,0,0,0,,これ！ムサシ！起きろ！
 Dialogue: 0,0:16:08.82,0:16:10.51,Default,ko,0,0,0,,어이! 무사시! 일어나라!
 Dialogue: 0,0:16:08.82,0:16:10.51,Default,en,0,0,0,,Hey! Musashi! Wake up!
-Comment: 0,0:16:15.13,0:16:18.39,Default,ja,0,0,0,,
+Comment: 0,0:16:15.13,0:16:18.39,Default,ja,0,0,0,,あ、あ、おはようございますだス。
 Dialogue: 0,0:16:15.13,0:16:18.39,Default,ko,0,0,0,,아, 아! 좋은 아침이오.
 Dialogue: 0,0:16:15.13,0:16:18.39,Default,en,0,0,0,,Ah! Good morning-{\i1}dasu{\i0}.
-Comment: 0,0:16:18.82,0:16:22.14,Default,ja,0,0,0,,
-Dialogue: 0,0:16:18.82,0:16:22.14,Default,ko,0,0,0,,여기저기 방문한 것 같다만, 네 검의 스승은 누구냐?
+Comment: 0,0:16:18.82,0:16:22.14,Default,ja,0,0,0,,少々尋ねるが、お前の剣の師匠は誰だ。
+Dialogue: 0,0:16:18.82,0:16:22.14,Default,ko,0,0,0,,몇 가지 묻겠다만, 네 검의 스승은 누구냐?
 Dialogue: 0,0:16:18.82,0:16:22.14,Default,en,0,0,0,,I must ask you; who is the master you learned swordsmanship from?
-Comment: 0,0:16:22.46,0:16:24.63,Default,ja,0,0,0,,
+Comment: 0,0:16:22.46,0:16:24.63,Default,ja,0,0,0,,おいらの師匠はツカハラボクデンだス。
 Dialogue: 0,0:16:22.46,0:16:24.63,Default,ko,0,0,0,,제 스승은 츠카하라 보쿠덴이오.
 Dialogue: 0,0:16:22.46,0:16:24.63,Default,en,0,0,0,,My master is Tsukahara Bokuden-{\i1}dasu{\i0}.
-Comment: 0,0:16:25.10,0:16:28.59,Default,ja,0,0,0,,
+Comment: 0,0:16:25.10,0:16:28.59,Default,ja,0,0,0,,嘘をつくな！ボクデン殿は弟子は取らないはずだ。
 Dialogue: 0,0:16:25.10,0:16:28.59,Default,ko,0,0,0,,거짓말하지 마라! 보쿠덴 님은 제자를 받지 않을 터이다!
 Dialogue: 0,0:16:25.10,0:16:28.59,Default,en,0,0,0,,Do not lie! Bokuden does not take students!
-Comment: 0,0:16:29.17,0:16:32.29,Default,ja,0,0,0,,
+Comment: 0,0:16:29.17,0:16:32.29,Default,ja,0,0,0,,で、でもおいら、間違いなく弟子でござるだス。
 Dialogue: 0,0:16:29.17,0:16:32.29,Default,ko,0,0,0,,그, 근데 나 틀림없이 제자이오.
 Dialogue: 0,0:16:29.17,0:16:32.29,Default,en,0,0,0,,Bu- but I really am his student-{\i1}dasu{\i0}.
-Comment: 0,0:16:32.87,0:16:36.52,Default,ja,0,0,0,,
+Comment: 0,0:16:32.87,0:16:36.52,Default,ja,0,0,0,,ならばボクデン殿の剣の究極の目標を行ってみろ！
 Dialogue: 0,0:16:32.87,0:16:36.52,Default,ko,0,0,0,,그렇다면 보쿠덴 님의 검의 궁극의 목적을 말해 보아라!
 Dialogue: 0,0:16:32.87,0:16:36.52,Default,en,0,0,0,,Then tell me, the ultimate purpose of a sword, according to Master Bokuden!
-Comment: 0,0:16:37.27,0:16:38.61,Default,ja,0,0,0,,
+Comment: 0,0:16:37.27,0:16:38.61,Default,ja,0,0,0,,えっと、なんだっけ。
 Dialogue: 0,0:16:37.27,0:16:38.61,Default,ko,0,0,0,,어... 뭐였더라?
 Dialogue: 0,0:16:37.27,0:16:38.61,Default,en,0,0,0,,Uh... what was it?
-Comment: 0,0:16:38.92,0:16:40.55,Default,ja,0,0,0,,
+Comment: 0,0:16:38.92,0:16:40.55,Default,ja,0,0,0,,-どうした。\N-えっと。。。
 Dialogue: 0,0:16:38.92,0:16:40.55,Default,ko,0,0,0,,-왜 그러나?\N-저...
 Dialogue: 0,0:16:38.92,0:16:40.55,Default,en,0,0,0,,-What's the problem?\N-Um...
-Comment: 0,0:16:40.55,0:16:41.79,Default,ja,0,0,0,,
+Comment: 0,0:16:40.55,0:16:41.79,Default,ja,0,0,0,,やはり偽物だな！
 Dialogue: 0,0:16:40.55,0:16:41.79,Default,ko,0,0,0,,역시 가짜구나!
 Dialogue: 0,0:16:40.55,0:16:41.79,Default,en,0,0,0,,You were lying at all!
-Comment: 0,0:16:42.60,0:16:44.40,Default,ja,0,0,0,,
+Comment: 0,0:16:42.60,0:16:44.40,Default,ja,0,0,0,,おいら、嘘はつかないだス。
 Dialogue: 0,0:16:42.60,0:16:44.40,Default,ko,0,0,0,,난 거짓말은 하지 않소!
 Dialogue: 0,0:16:42.60,0:16:44.40,Default,en,0,0,0,,I do not lie-{\i1}dasu{\i0}!
-Comment: 0,0:16:44.57,0:16:46.00,Default,ja,0,0,0,,
+Comment: 0,0:16:44.57,0:16:46.00,Default,ja,0,0,0,,ならば申してみろ！
 Dialogue: 0,0:16:44.57,0:16:46.00,Default,ko,0,0,0,,그럼 대 보아라!
 Dialogue: 0,0:16:44.57,0:16:46.00,Default,en,0,0,0,,Then tell me right now!
-Comment: 0,0:16:53.43,0:16:54.65,Default,ja,0,0,0,,
+Comment: 0,0:16:53.43,0:16:54.65,Default,ja,0,0,0,,だめだな、こりゃ。
 Dialogue: 0,0:16:53.43,0:16:54.65,Default,ko,0,0,0,,안 되겠어, 이 녀석.
 Dialogue: 0,0:16:53.43,0:16:54.65,Default,en,0,0,0,,This is going nowhere.
-Comment: 0,0:16:56.39,0:16:59.90,Default,ja,0,0,0,,
+Comment: 0,0:16:56.39,0:16:59.90,Default,ja,0,0,0,,あ！ちょっと！思い出しただス！
 Dialogue: 0,0:16:56.39,0:16:59.90,Default,ko,0,0,0,,아! 잠깐! 기억났소!
 Dialogue: 0,0:16:56.39,0:16:59.90,Default,en,0,0,0,,Wait! Just a moment! I remembered!
-Comment: 0,0:17:02.83,0:17:13.48,Default,,0,0,0,,剣の究極は戦わずして勝つことなり、武道の武の字はそもそも矛と<みととくほこ>すなわち、武器を止めることなり、老子はよく敵に勝つものは争わず。
-Comment: 0,0:17:02.83,0:17:10.23,Default,ja,0,0,0,,
-Dialogue: 0,0:17:02.83,0:17:10.23,Default,ko,0,0,0,,검의 궁극은 싸우지 않고 이기는 것. 무도의 무(武) 자는 원래 창(戈)을 막는다(止)는 의미, 즉, 무기를 멈추는 것.
-Comment: 0,0:17:10.23,0:17:13.48,Default,ja,0,0,0,,
+Comment: 0,0:17:02.83,0:17:13.48,Default,ja,0,0,0,,剣の究極は戦わずして勝つことなり、武道の武の字はそもそも矛と<みととくほこ>すなわち、武器を止めることなり、老子はよく敵に勝つものは争わず。
+Dialogue: 0,0:17:02.83,0:17:10.06,Default,ko,0,0,0,,검의 궁극은 싸우지 않고 이기는 것. 무도의 무(武) 자는 원래 창(戈)을 막는다(止)는 의미, 즉, 무기를 멈추는 것.
 Dialogue: 0,0:17:10.23,0:17:13.48,Default,ko,0,0,0,,노자(老子)는 적을 잘 이기는 자는 싸우지 않는다고 했소.
-Dialogue: 0,0:17:02.83,0:17:05.36,Default,en,0,0,0,,The true meaning of a sword is to win without fighting.
-Dialogue: 0,0:17:05.36,0:17:10.23,Default,en,0,0,0,,Solidness(武) of martial arts(武道) originally means to stop(止) a spear(戈); in other words, to stop a weapon.
+Dialogue: 0,0:17:02.83,0:17:05.23,Default,en,0,0,0,,The true meaning of a sword is to win without fighting.
+Dialogue: 0,0:17:05.36,0:17:10.06,Default,en,0,0,0,,Solidness(武) of martial arts(武道) originally means to stop(止) a spear(戈); in other words, to stop a weapon.
 Dialogue: 0,0:17:10.23,0:17:13.48,Default,en,0,0,0,,To borrow the words of Laozi, the one who easily defeats an enemy does not engage.
-Comment: 0,0:17:13.66,0:17:14.71,Default,ja,0,0,0,,
+Comment: 0,0:17:13.66,0:17:14.71,Default,ja,0,0,0,,見事じゃ！
 Dialogue: 0,0:17:13.66,0:17:14.71,Default,ko,0,0,0,,잘 했다!
 Dialogue: 0,0:17:13.66,0:17:14.71,Default,en,0,0,0,,Good job!
-Comment: 0,0:17:15.84,0:17:17.69,Default,ja,0,0,0,,
+Comment: 0,0:17:15.84,0:17:17.69,Default,ja,0,0,0,,はい！ありがとうでござるだス。
 Dialogue: 0,0:17:15.84,0:17:17.69,Default,ko,0,0,0,,예! 감사하오.
 Dialogue: 0,0:17:15.84,0:17:17.69,Default,en,0,0,0,,Yes! Thank you-{\i1}dasu{\i0}.
-Comment: 0,0:17:19.13,0:17:22.63,Default,ja,0,0,0,,
+Comment: 0,0:17:19.13,0:17:22.63,Default,ja,0,0,0,,そもそもわしが刀鍛冶をやめたのにはわけがある。
 Dialogue: 0,0:17:19.13,0:17:22.63,Default,ko,0,0,0,,애초에 내가 칼 장인를 관둔 것에는 이유가 있다.
 Dialogue: 0,0:17:19.13,0:17:22.63,Default,en,0,0,0,,I have a reason why I stopped being a sword craftsman.
-Comment: 0,0:17:23.11,0:17:26.75,Default,ja,0,0,0,,
+Comment: 0,0:17:23.11,0:17:26.75,Default,ja,0,0,0,,まず、いかなる剣にも魂が宿っておることを知れ。
 Dialogue: 0,0:17:23.11,0:17:26.75,Default,ko,0,0,0,,먼저 어떠한 검에도 혼이 깃들어 있음을 알고,
 Dialogue: 0,0:17:23.11,0:17:26.75,Default,en,0,0,0,,First, you must know that a sword has a spirit.
-Comment: 0,0:17:27.42,0:17:31.26,Default,ja,0,0,0,,
-Dialogue: 0,0:17:27.42,0:17:31.26,Default,ko,0,0,0,,검에는 그것을 만든 자와 쓰는 자의 생각이 담겨,
+Comment: 0,0:17:27.42,0:17:31.26,Default,ja,0,0,0,,剣にはそれを作ったもの、使うものの思いがこもる。
+Dialogue: 0,0:17:27.42,0:17:31.26,Default,ko,0,0,0,,검에는 그것을 만든 자와 쓰는 자의 생각이 담겨 있다.
 Dialogue: 0,0:17:27.42,0:17:31.26,Default,en,0,0,0,,A sword inherits the mind of the crafter and the yielder.
-Comment: 0,0:17:31.26,0:17:34.69,Default,ja,0,0,0,,
-Dialogue: 0,0:17:31.26,0:17:34.69,Default,ko,0,0,0,,그 마음이 비뚫어진 자라면 검술과 검이 함께
-Dialogue: 0,0:17:31.26,0:17:34.69,Default,en,0,0,0,,If one of them has a corrupted mind, then both sword and swordsmanship
-Comment: 0,0:17:35.10,0:17:38.81,Default,ja,0,0,0,,
+Comment: 0,0:17:31.26,0:17:34.69,Default,ja,0,0,0,,その心が邪なものならば、剣はじゃけんとなり、
+Dialogue: 0,0:17:31.26,0:17:34.69,Default,ko,0,0,0,,그 마음이 부정한 자라면 검은 사견이 되어,
+Dialogue: 0,0:17:31.26,0:17:34.69,Default,en,0,0,0,,To one with a wicked mind, the sword would also become so,
+Comment: 0,0:17:35.10,0:17:38.81,Default,ja,0,0,0,,ただの命をあやめる道具にすぎ。分かるか。
 Dialogue: 0,0:17:35.10,0:17:38.81,Default,ko,0,0,0,,단지 생명을 빼앗는 도구에 불과하다. 알겠나?
-Dialogue: 0,0:17:35.10,0:17:38.81,Default,en,0,0,0,,are nothing more than a tool of taking life away. Do you understand?
-Comment: 0,0:17:39.78,0:17:44.24,Default,ja,0,0,0,,
+Dialogue: 0,0:17:35.10,0:17:38.81,Default,en,0,0,0,,ending up as nothing more than a tool to take lives away. Do you understand?
+Comment: 0,0:17:39.78,0:17:44.24,Default,ja,0,0,0,,よくわからないだスが、おいら、人を殺すために刀は使わないだス。
 Dialogue: 0,0:17:39.78,0:17:44.24,Default,ko,0,0,0,,잘은 모르겠지만 나는 사람을 죽이기 위해 칼을 쓰지 않소.
 Dialogue: 0,0:17:39.78,0:17:44.24,Default,en,0,0,0,,I don't really understand-{\i1}dasu{\i0}, but I don't use swords to kill people-{\i1}dasu{\i0}.
-Comment: 0,0:17:44.57,0:17:48.35,Default,ja,0,0,0,,
-Dialogue: 0,0:17:44.57,0:17:48.35,Default,ko,0,0,0,,잘 말했다, 무사시. 네 눈이 참 맑구나.
-Dialogue: 0,0:17:44.57,0:17:48.35,Default,en,0,0,0,,Well said, Musashi. Your eyes are clear.
-Comment: 0,0:17:49.38,0:17:50.94,Default,ja,0,0,0,,
+Comment: 0,0:17:44.57,0:17:48.21,Default,ja,0,0,0,,よく言った、ムサシ。お前の目は本当によく住んでおるぞ。
+Dialogue: 0,0:17:44.57,0:17:48.21,Default,ko,0,0,0,,잘 말했다, 무사시. 네 눈이 참 맑구나.
+Dialogue: 0,0:17:44.57,0:17:48.21,Default,en,0,0,0,,Well said, Musashi. Your eyes are clear.
+Comment: 0,0:17:49.38,0:17:50.94,Default,ja,0,0,0,,よく寝た後だから。。。
 Dialogue: 0,0:17:49.38,0:17:50.94,Default,ko,0,0,0,,잘 자고 난 후니까...
 Dialogue: 0,0:17:49.38,0:17:50.94,Default,en,0,0,0,,Because I had a good sleep.
-Comment: 0,0:17:51.36,0:17:55.68,Default,ja,0,0,0,,
+Comment: 0,0:17:51.36,0:17:55.68,Default,ja,0,0,0,,ムサシ、よく聞け！わしはお前のためにもう一度だけ刀を作る。
 Dialogue: 0,0:17:51.36,0:17:55.68,Default,ko,0,0,0,,무사시. 잘 들어라. 나는 널 위해 다시 한번만 칼을 만들겠다.
 Dialogue: 0,0:17:51.36,0:17:55.68,Default,en,0,0,0,,Musashi, listen well. I will make swords for you for the last time.
-Comment: 0,0:17:56.68,0:17:57.76,Default,ja,0,0,0,,
+Comment: 0,0:17:56.68,0:17:57.76,Default,ja,0,0,0,,ほ、本当だスか！
 Dialogue: 0,0:17:56.68,0:17:57.76,Default,ko,0,0,0,,저, 정말이오?
 Dialogue: 0,0:17:56.68,0:17:57.76,Default,en,0,0,0,,Re- really?!
-Comment: 0,0:17:58.02,0:18:02.10,Default,ja,0,0,0,,
+Comment: 0,0:17:58.02,0:18:02.10,Default,ja,0,0,0,,ただし、お前も一緒に剣を作るものの心を学ぶがよい。
 Dialogue: 0,0:17:58.02,0:18:02.10,Default,ko,0,0,0,,그러나, 너도 함께 검을 만드는 자의 마음을 배우는 것이 좋다.
 Dialogue: 0,0:17:58.02,0:18:02.10,Default,en,0,0,0,,But you will have to learn the mind of sword craftsman.
-Comment: 0,0:18:02.54,0:18:02.98,Default,ja,0,0,0,,
+Comment: 0,0:18:02.54,0:18:02.98,Default,ja,0,0,0,,はい！
 Dialogue: 0,0:18:02.54,0:18:02.98,Default,ko,0,0,0,,네!
 Dialogue: 0,0:18:02.54,0:18:02.98,Default,en,0,0,0,,Right!
-Comment: 0,0:18:07.02,0:18:13.32,Default,ja,0,0,0,,
+Comment: 0,0:18:07.02,0:18:13.32,Default,ja,0,0,0,,日本刀の材料は、地面の中で長い眠りについていた純度の高い砂鉄である。
 Dialogue: 0,0:18:07.02,0:18:13.32,Default,ko,0,0,0,,일본도의 재료는 땅 안에 오랫동안 잠자고 있던 순도가 높은 사철이다.
 Dialogue: 0,0:18:07.02,0:18:13.32,Default,en,0,0,0,,The material of Japanese swords is iron sand of high purity that slept for a long time under the grond.
-Comment: 0,0:18:13.81,0:18:19.63,Default,ja,0,0,0,,
+Comment: 0,0:18:13.81,0:18:19.63,Default,ja,0,0,0,,この砂鉄を何千回、何万回も心をこめて鍛えて作り上げるのである。
 Dialogue: 0,0:18:13.81,0:18:19.63,Default,ko,0,0,0,,그 사철을 몇천 회, 몇만 회 마음을 담아 단련시켜 만드는 것이다.
 Dialogue: 0,0:18:13.81,0:18:19.63,Default,en,0,0,0,,The iron sand must be forged thousands and millions of times wholeheartedly in order to make one.
-Comment: 0,0:18:32.39,0:18:34.22,Default,ja,0,0,0,,
+Comment: 0,0:18:32.39,0:18:34.22,Default,ja,0,0,0,,{???}まだですらいのかな。
 Dialogue: 0,0:18:32.39,0:18:34.22,Default,ko,0,0,0,,아직 안 된 걸까나...
 Dialogue: 0,0:18:32.39,0:18:34.22,Default,en,0,0,0,,I wonder if they're still not done yet...
-Comment: 0,0:18:37.88,0:18:39.31,Default,ja,0,0,0,,
+Comment: 0,0:18:37.88,0:18:39.31,Default,ja,0,0,0,,-うわ、できた！\N-おお、できた！
 Dialogue: 0,0:18:37.88,0:18:39.31,Default,ko,0,0,0,,-해냈다!\N-해냈구나!
 Dialogue: 0,0:18:37.88,0:18:39.31,Default,en,0,0,0,,-We did it!\N-We did it!
-Comment: 0,0:18:39.58,0:18:43.61,Default,ja,0,0,0,,
-Dialogue: 0,0:18:39.58,0:18:43.61,Default,ko,0,0,0,,참 잘 했다!
-Dialogue: 0,0:18:39.58,0:18:43.61,Default,en,0,0,0,,Good job!
-Comment: 0,0:18:44.01,0:18:49.06,Default,ja,0,0,0,,
+Comment: 0,0:18:39.58,0:18:43.61,Default,ja,0,0,0,,{???}-おっと、やっただス！うわ、やった、やった！万歳だス！\N-ちょっとおってしたぞ！ははは、
+Dialogue: 0,0:18:39.58,0:18:43.61,Default,ko,0,0,0,,-해냈소! 만세이오!\N-참 잘 했다!
+Dialogue: 0,0:18:39.58,0:18:43.61,Default,en,0,0,0,,-We did it-{\i1}dasu{\i0}! Hooray-{\i1}dasu{\i0}!\N-Good job!
+Comment: 0,0:18:44.01,0:18:49.06,Default,ja,0,0,0,,ムサシ、これがわしがこの世で作った最後の剣。心して使え。
 Dialogue: 0,0:18:44.01,0:18:49.06,Default,ko,0,0,0,,무사시, 이것이 내가 이 세상에서 만든 마지막 검일 테다. 마음을 담아 써라.
 Dialogue: 0,0:18:44.01,0:18:49.06,Default,en,0,0,0,,Musashi, these will be the last swords that I make in this world. Use them to the fullest.
-Comment: 0,0:18:49.71,0:18:51.14,Default,ja,0,0,0,,
+Comment: 0,0:18:49.71,0:18:51.14,Default,ja,0,0,0,,ありがとうでございますだス。
 Dialogue: 0,0:18:49.71,0:18:51.14,Default,ko,0,0,0,,정말 감사하오.
 Dialogue: 0,0:18:49.71,0:18:51.14,Default,en,0,0,0,,Thank you so much-{\i1}dasu{\i0}.
-Comment: 0,0:18:59.35,0:19:03.64,Default,ja,0,0,0,,
+Comment: 0,0:18:59.35,0:19:03.64,Default,ja,0,0,0,,コテツ殿！あれ、おいらも急に眠くなって。。。
 Dialogue: 0,0:18:59.35,0:19:03.64,Default,ko,0,0,0,,코테츠 님! 어라? 나도 갑자기 피곤해졌...
 Dialogue: 0,0:18:59.35,0:19:03.64,Default,en,0,0,0,,Master Kotetsu! Huh? I suddenly got sleepy...
-Comment: 0,0:19:14.47,0:19:15.92,Default,ja,0,0,0,,
+Comment: 0,0:19:14.47,0:19:15.92,Default,ja,0,0,0,,あなた！大変です！
 Dialogue: 0,0:19:14.47,0:19:15.92,Default,ko,0,0,0,,여보! 큰일입니다!
 Dialogue: 0,0:19:14.47,0:19:15.92,Default,en,0,0,0,,Dear! Big problem!
-Comment: 0,0:19:17.53,0:19:19.10,Default,ja,0,0,0,,
+Comment: 0,0:19:17.53,0:19:19.10,Default,ja,0,0,0,,ど、どうしたのだ。
 Dialogue: 0,0:19:17.53,0:19:19.10,Default,ko,0,0,0,,무, 무슨 일인가?
 Dialogue: 0,0:19:17.53,0:19:19.10,Default,en,0,0,0,,Wha- what's going on?
-Comment: 0,0:19:20.36,0:19:22.41,Default,ja,0,0,0,,
+Comment: 0,0:19:20.36,0:19:22.41,Default,ja,0,0,0,,ヨシオカ道場の人たちが来て。。。
 Dialogue: 0,0:19:20.36,0:19:22.41,Default,ko,0,0,0,,요시오카 도장의 사람들이 와서...
 Dialogue: 0,0:19:20.36,0:19:22.41,Default,en,0,0,0,,People from Yoshioka Dōjō came and...
-Comment: 0,0:19:24.12,0:19:27.51,Default,ja,0,0,0,,
+Comment: 0,0:19:24.12,0:19:27.51,Default,ja,0,0,0,,なに？俺が頼んだ刀など作れないだと？
 Dialogue: 0,0:19:24.12,0:19:27.51,Default,ko,0,0,0,,뭐라? 내가 부탁한 칼을 만들지 않겠다고?
 Dialogue: 0,0:19:24.12,0:19:27.51,Default,en,0,0,0,,What? He didn't made the sword I asked?
-Comment: 0,0:19:27.86,0:19:31.54,Default,ja,0,0,0,,
-Dialogue: 0,0:19:27.86,0:19:31.54,Default,ko,0,0,0,,어떤 분의 의뢰라도 들을 수 없습니다!
-Dialogue: 0,0:19:27.86,0:19:31.54,Default,en,0,0,0,,We will not accept any request from anyone!
-Comment: 0,0:19:31.54,0:19:34.11,Default,ja,0,0,0,,
+Comment: 0,0:19:27.86,0:19:31.39,Default,ja,0,0,0,,どなた様のご依頼でもOKすることは出来かねます！
+Dialogue: 0,0:19:27.86,0:19:31.39,Default,ko,0,0,0,,어떤 분의 의뢰라도 들을 수 없습니다!
+Dialogue: 0,0:19:27.86,0:19:31.39,Default,en,0,0,0,,We will not accept any request from anyone!
+Comment: 0,0:19:31.54,0:19:34.11,Default,ja,0,0,0,,ならばどうなっても作らせてみせるぞ。
 Dialogue: 0,0:19:31.54,0:19:34.11,Default,ko,0,0,0,,그렇다면 어떻게든 만들게 하겠다!
 Dialogue: 0,0:19:31.54,0:19:34.11,Default,en,0,0,0,,Then I'll make him make one!
-Comment: 0,0:19:34.49,0:19:35.30,Default,ja,0,0,0,,
+Comment: 0,0:19:34.49,0:19:35.30,Default,ja,0,0,0,,-おい！\N-は！
 Dialogue: 0,0:19:34.49,0:19:35.30,Default,ko,0,0,0,,-어이!\N-예!
 Dialogue: 0,0:19:34.49,0:19:35.30,Default,en,0,0,0,,-You know what to do!\N-Yes!
-Comment: 0,0:19:38.30,0:19:39.87,Default,ja,0,0,0,,
+Comment: 0,0:19:38.30,0:19:39.87,Default,ja,0,0,0,,何をなさるんですか！
 Dialogue: 0,0:19:38.30,0:19:39.87,Default,ko,0,0,0,,뭘 하시는 것입니까!
 Dialogue: 0,0:19:38.30,0:19:39.87,Default,en,0,0,0,,What are you doing?!
-Comment: 0,0:19:41.13,0:19:43.99,Default,ja,0,0,0,,
+Comment: 0,0:19:41.13,0:19:43.99,Default,ja,0,0,0,,助けて！怖いよ！
 Dialogue: 0,0:19:41.13,0:19:43.99,Default,ko,0,0,0,,살려줘! 무서워!
 Dialogue: 0,0:19:41.13,0:19:43.99,Default,en,0,0,0,,Help! I'm scared!
-Comment: 0,0:19:44.54,0:19:48.45,Default,ja,0,0,0,,
+Comment: 0,0:19:44.54,0:19:48.45,Default,ja,0,0,0,,倅はコテツの剣と交換だ。おやじにそう伝えろ！
 Dialogue: 0,0:19:44.54,0:19:48.45,Default,ko,0,0,0,,네 아이는 코테츠의 검과 교환하겠다. 그렇게 전해라!
 Dialogue: 0,0:19:44.54,0:19:48.45,Default,en,0,0,0,,I will exchange your child for a sword made by Kotetsu. Tell him so!
-Comment: 0,0:19:48.79,0:19:50.62,Default,ja,0,0,0,,
+Comment: 0,0:19:48.79,0:19:50.62,Default,ja,0,0,0,,助けて！
 Dialogue: 0,0:19:48.79,0:19:50.62,Default,ko,0,0,0,,살려줘!
 Dialogue: 0,0:19:48.79,0:19:50.62,Default,en,0,0,0,,Help me!
-Comment: 0,0:19:50.62,0:19:53.26,Default,ja,0,0,0,,
+Comment: 0,0:19:50.62,0:19:53.26,Default,ja,0,0,0,,コタロー！
 Dialogue: 0,0:19:50.62,0:19:53.26,Default,ko,0,0,0,,코타로!
 Dialogue: 0,0:19:50.62,0:19:53.26,Default,en,0,0,0,,Kotarō!
-Comment: 0,0:20:01.15,0:20:06.27,Default,ja,0,0,0,,
+Comment: 0,0:20:01.15,0:20:06.27,Default,ja,0,0,0,,なんという卑劣な連中だ。コタローはこのおいらの命に代えても助けるだス！
 Dialogue: 0,0:20:01.15,0:20:06.27,Default,ko,0,0,0,,이 무슨 비열한 패거리오. 코타로는 이 목숨과 교환해서라도 구해내겠소!
 Dialogue: 0,0:20:01.15,0:20:06.27,Default,en,0,0,0,,What a cowardly gang. I will save Kotarō even if I have to exchange my life for him-{\i1}dasu{\i0}!
-Comment: 0,0:20:10.10,0:20:12.31,Default,ja,0,0,0,,
+Comment: 0,0:20:10.10,0:20:12.31,Default,ja,0,0,0,,コタロー！待つんだス！
 Dialogue: 0,0:20:10.10,0:20:12.31,Default,ko,0,0,0,,코타로! 기다리시오!
 Dialogue: 0,0:20:10.10,0:20:12.31,Default,en,0,0,0,,Kotarō! I'm going to save you-{\i1}dasu{\i0}!
 Dialogue: 0,0:20:12.31,0:20:17.61,NoteOnAnimeVert,ko,0,0,0,,{\an6\fs64\frz-89.7\frx2\fax0.1\move(558,372,558,372)}(주) 요시오카 도장
 Dialogue: 0,0:20:12.31,0:20:17.61,NoteOnAnimeVert,ko,0,0,0,,{\an4\fs36\frz-89.7\frx2\fax0.1\move(512,168,512,168)}사카이 지점
 Dialogue: 0,0:20:12.31,0:20:17.61,NoteOnAnime,en,0,0,0,,{\an6\fs64\frz-89.7\frx2\fax0.1\move(558,372,558,372)}Yoshioka Dōjō Inc.
 Dialogue: 0,0:20:12.31,0:20:17.61,NoteOnAnime,en,0,0,0,,{\an4\fs36\frz-89.7\frx2\fax0.1\move(512,168,512,168)}Sakai Branch
-Comment: 0,0:20:16.48,0:20:18.55,Default,ja,0,0,0,,
+Comment: 0,0:20:16.48,0:20:18.55,Default,ja,0,0,0,,ムサシが来ただが！
 Dialogue: 0,0:20:16.48,0:20:18.55,Default,ko,0,0,0,,무사시가 왔다!
 Dialogue: 0,0:20:16.48,0:20:18.55,Default,en,0,0,0,,Musashi has appeared!
-Comment: 0,0:20:19.94,0:20:21.40,Default,ja,0,0,0,,
+Comment: 0,0:20:19.94,0:20:21.40,Default,ja,0,0,0,,-ムサシが！\N-逃げねぇ！
 Dialogue: 0,0:20:19.94,0:20:21.40,Default,ko,0,0,0,,-무사시가!\N-네이놈!
 Dialogue: 0,0:20:19.94,0:20:21.40,Default,en,0,0,0,,-Musashi!\N-How dare you!
-Comment: 0,0:20:21.77,0:20:23.69,Default,ja,0,0,0,,
+Comment: 0,0:20:21.77,0:20:23.69,Default,ja,0,0,0,,ムサシ見参でござるだス！
 Dialogue: 0,0:20:21.77,0:20:23.69,Default,ko,0,0,0,,무사시! 등장이오!
 Dialogue: 0,0:20:21.77,0:20:23.69,Default,en,0,0,0,,Musashi is here-{\i1}dasu{\i0}!
-Comment: 0,0:20:32.86,0:20:34.87,Default,ja,0,0,0,,
-Dialogue: 0,0:20:32.86,0:20:34.87,Default,ko,0,0,0,,걱정할 필요는 없소! 칼등이오!
-Dialogue: 0,0:20:32.86,0:20:34.87,Default,en,0,0,0,,No need to worry-{\i1}dasu{\i0}! It was the back side-{\i1}dasu{\i0}!
-Comment: 0,0:20:38.34,0:20:39.80,Default,ja,0,0,0,,
+Comment: 0,0:20:32.57,0:20:34.87,Default,ja,0,0,0,,心配はいらん！峰打ちでござるだス！
+Dialogue: 0,0:20:32.57,0:20:34.87,Default,ko,0,0,0,,걱정할 필요는 없소! 칼등이오!
+Dialogue: 0,0:20:32.57,0:20:34.87,Default,en,0,0,0,,No need to worry-{\i1}dasu{\i0}! It was the back side-{\i1}dasu{\i0}!
+Comment: 0,0:20:38.34,0:20:39.80,Default,ja,0,0,0,,ムサシ、覚悟！
 Dialogue: 0,0:20:38.34,0:20:39.80,Default,ko,0,0,0,,무사시, 각오해라!
 Dialogue: 0,0:20:38.34,0:20:39.80,Default,en,0,0,0,,Prepare yourself, Musashi!
-Comment: 0,0:20:50.38,0:20:51.91,Default,ja,0,0,0,,
+Comment: 0,0:20:50.38,0:20:51.91,Default,ja,0,0,0,,なんだ、あの構えは。
 Dialogue: 0,0:20:50.38,0:20:51.91,Default,ko,0,0,0,,뭐냐, 저 자세는!
 Dialogue: 0,0:20:50.38,0:20:51.91,Default,en,0,0,0,,What is that posture?
-Comment: 0,0:20:56.54,0:20:59.15,Default,ja,0,0,0,,
+Comment: 0,0:20:56.54,0:20:59.15,Default,ja,0,0,0,,ムサシ！これが目に入らぬか！
 Dialogue: 0,0:20:56.54,0:20:59.15,Default,ko,0,0,0,,무사시! 이게 눈에 들어오지 않는가!
 Dialogue: 0,0:20:56.54,0:20:59.15,Default,en,0,0,0,,Musashi! Don't you see this?!
-Comment: 0,0:20:59.70,0:21:00.87,Default,ja,0,0,0,,
+Comment: 0,0:20:59.70,0:21:00.87,Default,ja,0,0,0,,コ、コタロー！
 Dialogue: 0,0:20:59.70,0:21:00.87,Default,ko,0,0,0,,코, 코타로!
 Dialogue: 0,0:20:59.70,0:21:00.87,Default,en,0,0,0,,Ko- Kotarō!
-Comment: 0,0:21:01.11,0:21:05.08,Default,ja,0,0,0,,
+Comment: 0,0:21:01.11,0:21:05.08,Default,ja,0,0,0,,無駄な抵抗はやめよう。さもないとこの子の命はないぞ！
 Dialogue: 0,0:21:01.11,0:21:05.08,Default,ko,0,0,0,,쓸데없는 저항은 관둬라! 그렇지 않으면 이 얘의 목숨은 없다!
 Dialogue: 0,0:21:01.11,0:21:05.08,Default,en,0,0,0,,Give up with your futile resistance! Or this kid dies!
-Comment: 0,0:21:06.18,0:21:08.03,Default,ja,0,0,0,,
+Comment: 0,0:21:06.18,0:21:08.03,Default,ja,0,0,0,,ムサシ！刀を捨てろ！
 Dialogue: 0,0:21:06.18,0:21:08.03,Default,ko,0,0,0,,무사시! 칼을 내려둬라!
 Dialogue: 0,0:21:06.18,0:21:08.03,Default,en,0,0,0,,Musashi! Put down your sword!
-Comment: 0,0:21:13.64,0:21:15.74,Default,ja,0,0,0,,
+Comment: 0,0:21:13.64,0:21:15.74,Default,ja,0,0,0,,お、お父ちゃん！
 Dialogue: 0,0:21:13.64,0:21:15.74,Default,ko,0,0,0,,아, 아빠!
 Dialogue: 0,0:21:13.64,0:21:15.74,Default,en,0,0,0,,D- dad!
-Comment: 0,0:21:15.78,0:21:16.45,Default,ja,0,0,0,,
+Comment: 0,0:21:15.78,0:21:16.45,Default,ja,0,0,0,,コタロー！
 Dialogue: 0,0:21:15.78,0:21:16.45,Default,ko,0,0,0,,코타로!
 Dialogue: 0,0:21:15.78,0:21:16.45,Default,en,0,0,0,,Kotarō!
-Comment: 0,0:21:17.30,0:21:18.94,Default,ja,0,0,0,,
+Comment: 0,0:21:17.30,0:21:18.94,Default,ja,0,0,0,,許せん、デンシチロー！
 Dialogue: 0,0:21:17.30,0:21:18.94,Default,ko,0,0,0,,용서할 수 없소, 덴시치로!
 Dialogue: 0,0:21:17.30,0:21:18.94,Default,en,0,0,0,,Unforgivable, Densichirō!
-Comment: 0,0:21:27.86,0:21:30.85,Default,ja,0,0,0,,
+Comment: 0,0:21:27.86,0:21:30.85,Default,ja,0,0,0,,た、助けてくれ。か、金ならいくらでも出す。
 Dialogue: 0,0:21:27.86,0:21:30.85,Default,ko,0,0,0,,사, 살려줘. 돈이라면 얼마라도 줄 테니!
 Dialogue: 0,0:21:27.86,0:21:30.85,Default,en,0,0,0,,Spare me. I'll give you money as much as you want!
-Comment: 0,0:21:31.22,0:21:34.06,Default,ja,0,0,0,,
+Comment: 0,0:21:31.22,0:21:34.06,Default,ja,0,0,0,,許せん！お前は地獄に落ちるだス！
 Dialogue: 0,0:21:31.22,0:21:34.06,Default,ko,0,0,0,,용서할 수 없소! 넌 지옥으로 보내주겠소!
 Dialogue: 0,0:21:31.22,0:21:34.06,Default,en,0,0,0,,Unforgivable-{\i1}dasu{\i0}! I will send you to hell-{\i1}dasu{\i0}!
-Comment: 0,0:21:40.57,0:21:41.98,Default,ja,0,0,0,,
+Comment: 0,0:21:40.57,0:21:41.98,Default,ja,0,0,0,,ムサシ！やめんか！
 Dialogue: 0,0:21:40.57,0:21:41.98,Default,ko,0,0,0,,무사시! 관두지 못할까!
 Dialogue: 0,0:21:40.57,0:21:41.98,Default,en,0,0,0,,Musashi! Stop that right now!
-Comment: 0,0:21:42.41,0:21:43.63,Default,ja,0,0,0,,
+Comment: 0,0:21:42.41,0:21:43.63,Default,ja,0,0,0,,止めてくれるなだス！
 Dialogue: 0,0:21:42.41,0:21:43.63,Default,ko,0,0,0,,멈추지 마시오!
 Dialogue: 0,0:21:42.41,0:21:43.63,Default,en,0,0,0,,Don't stop me-{\i1}dasu{\i0}!
-Comment: 0,0:21:44.02,0:21:47.84,Default,ja,0,0,0,,
+Comment: 0,0:21:44.02,0:21:47.84,Default,ja,0,0,0,,もう忘れたか、ムサシ！剣は人あやめるためにあるのではない！
 Dialogue: 0,0:21:44.02,0:21:47.84,Default,ko,0,0,0,,벌써 잊었냐, 무사시! 검은 위해를 가하기 위해 쓰이는 것이 아니라고!
 Dialogue: 0,0:21:44.02,0:21:47.84,Default,en,0,0,0,,Did you forget already, Musashi?! A sword does not exist to injure a person!
-Comment: 0,0:21:48.01,0:21:50.15,Default,ja,0,0,0,,
+Comment: 0,0:21:48.01,0:21:50.15,Default,ja,0,0,0,,ボクデン殿もそういわれたはずだぞ！
 Dialogue: 0,0:21:48.01,0:21:50.15,Default,ko,0,0,0,,보쿠덴 님도 그렇게 말했을 테다!
 Dialogue: 0,0:21:48.01,0:21:50.15,Default,en,0,0,0,,Master Bokuden would said so too!
-Comment: 0,0:21:52.41,0:21:55.35,Default,ja,0,0,0,,
+Comment: 0,0:21:52.41,0:21:55.35,Default,ja,0,0,0,,こんな奴をあやめたら刀が汚れるだけじゃ！
 Dialogue: 0,0:21:52.41,0:21:55.35,Default,ko,0,0,0,,이 놈을 죽이면 검이 더럽혀질 뿐이다!
 Dialogue: 0,0:21:52.41,0:21:55.35,Default,en,0,0,0,,If you kill this guy, you just end up disgracing your sword!
-Comment: 0,0:21:56.68,0:21:58.85,Default,ja,0,0,0,,
+Comment: 0,0:21:56.68,0:21:58.85,Default,ja,0,0,0,,わ、分かったでござるだス。
 Dialogue: 0,0:21:56.68,0:21:58.85,Default,ko,0,0,0,,아, 알겠소.
 Dialogue: 0,0:21:56.68,0:21:58.85,Default,en,0,0,0,,Alright-{\i1}dasu{\i0}.
-Comment: 0,0:22:14.10,0:22:18.01,Default,ja,0,0,0,,
-Dialogue: 0,0:22:14.10,0:22:18.01,Default,ko,0,0,0,,이렇게 무사시는 명도 코테츠를 손에 넣었다.
-Dialogue: 0,0:22:14.10,0:22:18.01,Default,en,0,0,0,,And this is how Musashi has managed to get an excellent sword, Kotetsu.
-Comment: 0,0:22:18.01,0:22:23.32,Default,ja,0,0,0,,
+Comment: 0,0:22:14.10,0:22:18.01,Default,ja,0,0,0,,こうしてムサシは名刀コタツを手に入れた。
+Dialogue: 0,0:22:14.10,0:22:17.89,Default,ko,0,0,0,,이렇게 무사시는 명도 코테츠를 손에 넣었다.
+Dialogue: 0,0:22:14.10,0:22:17.89,Default,en,0,0,0,,And this is how Musashi has managed to get the excellent swords, Kotetsu.
+Comment: 0,0:22:18.01,0:22:23.32,Default,ja,0,0,0,,そしてまたこの日、はの有名な二刀流が誕生したのであるが、
 Dialogue: 0,0:22:18.01,0:22:23.32,Default,ko,0,0,0,,그리고 또 그 날, 그 유명한 이도류가 탄생한 것이었지만,
 Dialogue: 0,0:22:18.01,0:22:23.32,Default,en,0,0,0,,And also, on that day, that famous dual blade has born,
-Comment: 0,0:22:24.03,0:22:27.03,Default,ja,0,0,0,,
+Comment: 0,0:22:24.03,0:22:27.03,Default,ja,0,0,0,,ムサシはまだ気づいてはいなかった。
 Dialogue: 0,0:22:24.03,0:22:27.03,Default,ko,0,0,0,,무사시는 아직 깨닫지 못하였다.
 Dialogue: 0,0:22:24.03,0:22:27.03,Default,en,0,0,0,,but Musashi is yet to realize.
 Dialogue: 0,0:22:42.30,0:22:44.34,SongED1,ED1!Lyric01,0,0,0,,カラのポケットに　ツキが
@@ -882,26 +880,26 @@ Dialogue: 0,0:23:22.55,0:23:26.80,SongED1,ED1!Lyric10,0,0,0,,しっぽを振っ�
 Dialogue: 0,0:23:28.22,0:23:37.73,SongED1,ED1!Lyric11,0,0,0,,てなもんだ　のーてんきに行こう
 Dialogue: 0,0:23:38.23,0:23:46.19,SongED1,ED1!Lyric12,0,0,0,,未来も　てなもんさ　あしたが　ほら
 Dialogue: 0,0:23:46.44,0:23:52.03,SongED1,ED1!Lyric13,0,0,0,,両手ひろげて　笑ってるぜ
-Comment: 0,0:24:05.98,0:24:08.25,Default,ja,0,0,0,,
+Comment: 0,0:24:05.98,0:24:08.25,Default,ja,0,0,0,,師匠。言い響きだすな。
 Dialogue: 0,0:24:05.98,0:24:08.25,Default,ko,0,0,0,,스승, 좋은 울림을 가진 단어이오.
 Dialogue: 0,0:24:05.98,0:24:08.25,Default,en,0,0,0,,Master. A word with good echo-{\i1}dasu{\i0}.
-Comment: 0,0:24:08.52,0:24:10.87,Default,ja,0,0,0,,
+Comment: 0,0:24:08.52,0:24:10.87,Default,ja,0,0,0,,ついにおいらも弟子を持つようになっただス。
 Dialogue: 0,0:24:08.52,0:24:10.87,Default,ko,0,0,0,,결국엔 나도 제자를 가지게 되었소!
 Dialogue: 0,0:24:08.52,0:24:10.87,Default,en,0,0,0,,Finally, I got a student-{\i1}dasu{\i0}!
-Comment: 0,0:24:11.10,0:24:17.05,Default,ja,0,0,0,,
+Comment: 0,0:24:11.10,0:24:17.05,Default,ja,0,0,0,,弟子っていうものは便利出すな。お金の心配しないで団子は食べられるし、道案内もしてくれるし。
 Dialogue: 0,0:24:11.10,0:24:17.05,Default,ko,0,0,0,,제자라는 것은 편리하오! 돈 걱정 없이 단고를 먹게 해 주고, 길을 안내해 주고.
 Dialogue: 0,0:24:11.10,0:24:17.05,Default,en,0,0,0,,A student is convinient! He lets me eat {\i1}dango{\i0}s without worry, and guides my path.
-Comment: 0,0:24:17.32,0:24:20.47,Default,ja,0,0,0,,
+Comment: 0,0:24:17.32,0:24:20.47,Default,ja,0,0,0,,でも、この弟子って、おいらより強いんだスね。
 Dialogue: 0,0:24:17.32,0:24:20.47,Default,ko,0,0,0,,근데 이 제자라는 자, 나보다 강하오...
 Dialogue: 0,0:24:17.32,0:24:20.47,Default,en,0,0,0,,But this student is powerful than me, heh...
-Comment: 0,0:24:21.39,0:24:24.25,Default,ja,0,0,0,,
+Comment: 0,0:24:21.39,0:24:24.25,Default,ja,0,0,0,,次回！おいらは師匠だ！エライだス。
 Dialogue: 0,0:24:21.39,0:24:24.25,Default,ko,0,0,0,,다음 이야기! 나는 스승이오. 훌륭하오!
 Dialogue: 0,0:24:21.39,0:24:24.25,Default,en,0,0,0,,Next story! I am a Master! Excellent!
-Comment: 0,0:24:24.60,0:24:27.01,Default,ja,0,0,0,,
+Comment: 0,0:24:24.60,0:24:27.01,Default,ja,0,0,0,,疾風怒濤の活躍を見るだス！
 Dialogue: 0,0:24:24.60,0:24:27.01,Default,ko,0,0,0,,질풍노도의 활약을 보시오!
 Dialogue: 0,0:24:24.60,0:24:27.01,Default,en,0,0,0,,Be sure to check out the next stormy story-{\i1}dasu{\i0}!
 Dialogue: 0,0:24:27.03,0:24:30.99,NoteOnAnime,ko,60,0,60,,{\an7}다음 이야기
-Comment: 0,0:24:27.03,0:24:30.99,TitleEP,ja,0,0,70,,
+Comment: 0,0:24:27.03,0:24:30.99,TitleEP,ja,0,0,70,,おいらは師匠だ！エライだス
 Dialogue: 0,0:24:27.03,0:24:30.99,TitleEP,ko,0,0,70,,나는 스승이오\N훌륭하오!
 Dialogue: 0,0:24:27.03,0:24:30.99,NoteOnAnime,ko,0,60,30,,{\an3\fs32}기대하세요!
 Dialogue: 0,0:24:27.03,0:24:30.99,NoteOnAnime,en,60,0,60,,{\an7}Next Episode
