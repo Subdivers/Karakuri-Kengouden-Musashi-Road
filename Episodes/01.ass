@@ -667,9 +667,9 @@ Dialogue: 0,0:18:52.75,0:18:56.51,Default,en,0,0,0,,Stay well, Musashi!
 Comment: 0,0:18:56.97,0:18:59.92,Default,ja,0,0,0,,ムサシさん！
 Dialogue: 0,0:18:56.97,0:18:59.92,Default,ko,0,0,0,,무사시 씨!
 Dialogue: 0,0:18:56.97,0:18:59.92,Default,en,0,0,0,,Musashi!
-Comment: 0,0:19:01.50,0:19:06.84,Default,ja,0,0,0,,おいら、立派にあ武芸者になったら、きっとオツルさんをお嫁にもらうでござるだス！
-Dialogue: 0,0:19:01.50,0:19:06.84,Default,ko,0,0,0,,{\i1}나, 최강의 무예가가 된다면 꼭 오츠루 씨를 부인으로 맞이하겠소!
-Dialogue: 0,0:19:01.50,0:19:06.84,Default,en,0,0,0,,{\i1}When I manage to become the number one martial artist, I will marry Otsuru-{\i0}dasu{\i1}!
+Comment: 0,0:19:01.50,0:19:06.84,Default,ja;L1901,0,0,0,,おいら、立派にあ武芸者になったら、きっとオツルさんをお嫁にもらうでござるだス！
+Dialogue: 0,0:19:01.50,0:19:06.84,Default,ko;L1901,0,0,0,,{\i1}나, 최강의 무예가가 된다면 꼭 오츠루 씨를 부인으로 맞이하겠소!
+Dialogue: 0,0:19:01.50,0:19:06.84,Default,en;L1901,0,0,0,,{\i1}When I manage to become the number one martial artist, I will marry Otsuru-{\i0}dasu{\i1}!
 Comment: 0,0:19:07.18,0:19:10.08,Default,ja,0,0,0,,それまで待っててほしいだス！
 Dialogue: 0,0:19:07.18,0:19:10.08,Default,ko,0,0,0,,{\i1}그 때까지 기다려 주시오!
 Dialogue: 0,0:19:07.18,0:19:10.08,Default,en,0,0,0,,{\i1}Please wait until then-{\i0}dasu{\i1}!
