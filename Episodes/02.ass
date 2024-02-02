@@ -377,9 +377,9 @@ Dialogue: 0,0:10:22.24,0:10:28.36,Default,ko,0,0,0,,어떻냐, 칼을 빼잡는 
 Dialogue: 0,0:10:22.24,0:10:28.36,Default,en,0,0,0,,How's that? Should I take my sword out, you will not stand a chance.
 Comment: 0,0:10:41.79,0:10:42.84,Default,ja,0,0,0,,無刀取り！
 Dialogue: 0,0:10:41.79,0:10:42.84,Default,ko,0,0,0,,{\i1}무토도리!
-Dialogue: 0,0:10:41.79,0:10:42.84,Default,en,0,0,0,,{\i1}Mutodori{\i0}!
+Dialogue: 0,0:10:41.79,0:10:42.84,Default,en,0,0,0,,{\i1}Mutōdori{\i0}!
 Dialogue: 0,0:10:41.79,0:10:44.79,Note,ko,0,0,0,,(무토도리: 無刀取り. 자신은 칼을 들지 않고 칼을 든 상대를 이김)
-Dialogue: 0,0:10:41.79,0:10:44.79,Note,en,0,0,0,,({\i1}Mutodori{\i0}: 無刀取り. Defeating opponent with sword without using one)
+Dialogue: 0,0:10:41.79,0:10:44.79,Note,en,0,0,0,,({\i1}Mutōdori{\i0}: 無刀取り. Defeating opponent with sword without using one)
 Comment: 0,0:10:55.56,0:10:58.15,Default,ja,0,0,0,,お前もちょっとここで寝てなさい。
 Dialogue: 0,0:10:55.56,0:10:58.15,Default,ko,0,0,0,,너도 잠깐 여기서 자고 있어라.
 Dialogue: 0,0:10:55.56,0:10:58.15,Default,en,0,0,0,,You should take a short nap too.

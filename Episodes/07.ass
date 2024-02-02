@@ -16,9 +16,9 @@ Video File: ../Videos/07.mp4
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 520
-Active Line: 543
-Video Position: 35193
+Scroll Position: 715
+Active Line: 732
+Video Position: 35242
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -66,685 +66,684 @@ Dialogue: 0,0:01:30.78,0:01:33.28,SongOP,OP!Lyric15,0,0,0,,眩しい人生
 Dialogue: 0,0:01:33.99,0:01:39.37,SongOP,OP!Lyric16,0,0,0,,戦い　思い切りと　静けさと
 Dialogue: 0,0:01:39.41,0:01:45.63,SongOP,OP!Lyric17,0,0,0,,BUGEI! 二刀流　ムサシ
 Dialogue: 0,0:01:45.63,0:01:50.88,SongOP,OP!Lyric18,0,0,0,,みけんが　きらめいた　ムサシ！！
-Comment: 0,0:02:00.59,0:02:06.39,Default,ja,0,0,0,,
+Comment: 0,0:02:00.59,0:02:06.39,Default,ja,0,0,0,,ジュウベエからエドトピアで開かれる年末恒例のジパング武芸大会のことを聞いたムサシは
 Dialogue: 0,0:02:00.59,0:02:06.39,Default,ko,0,0,0,,주베에게서 에도토피아에서 열리는 연말 향례의 지팡구 무예 대회에 대해서 알게 된 무사시는
 Dialogue: 0,0:02:00.59,0:02:06.39,Default,en,0,0,0,,Musashi, learned about the year-end Jipangu Martial Arts Competition from Jūbē,
-Comment: 0,0:02:07.16,0:02:13.44,Default,ja,0,0,0,,
+Comment: 0,0:02:07.16,0:02:13.44,Default,ja,0,0,0,,槍のホーゾーインとの一戦を{???}へたのち、京のエドトピアを目指して旅を続けていた。
 Dialogue: 0,0:02:07.16,0:02:13.44,Default,ko,0,0,0,,창의 호조인과 한판 붙은 후, 미야코의 에도토피아를 꿈꾸며 여행을 계속하고 있었다.
 Dialogue: 0,0:02:07.16,0:02:13.44,Default,en,0,0,0,,headed to Edotopia in Miyako, fighting against spear-wielding Hōzōin on his way.
-Comment: 0,0:02:14.22,0:02:18.41,Default,ja,0,0,0,,
+Comment: 0,0:02:14.22,0:02:18.41,Default,ja,0,0,0,,ムサシの行く手に待っている物は花か嵐か。
 Dialogue: 0,0:02:14.22,0:02:18.41,Default,ko,0,0,0,,무사시의 길에서 기다리는 것은 꽃인가 폭풍인가?
 Dialogue: 0,0:02:14.22,0:02:18.41,Default,en,0,0,0,,What is waiting in front of Musashi? Is it a flower or a storm?
-Comment: 0,0:02:18.74,0:02:23.79,TitleEP,ja,0,0,60,,
+Comment: 0,0:02:18.74,0:02:23.79,TitleEP,ja,0,0,60,,清く貧しいクサリガマだス
 Dialogue: 0,0:02:18.74,0:02:23.79,TitleEP,ko,0,0,60,,깨끗하고 가난한 쿠사리가마
 Dialogue: 0,0:02:18.74,0:02:23.79,TitleEP,en,0,0,60,,Clean and Poor Kusarigama
-Comment: 0,0:03:27.13,0:03:29.52,Default,ja,0,0,0,,
+Comment: 0,0:03:27.13,0:03:29.52,Default,ja,0,0,0,,ムサシさん！
 Dialogue: 0,0:03:27.13,0:03:29.52,Default,ko,0,0,0,,무사시 씨!
 Dialogue: 0,0:03:27.13,0:03:29.52,Default,en,0,0,0,,Musashi!
-Comment: 0,0:03:30.86,0:03:31.77,Default,ja,0,0,0,,
+Comment: 0,0:03:30.86,0:03:31.77,Default,ja,0,0,0,,オツルちゃん！
 Dialogue: 0,0:03:30.86,0:03:31.77,Default,ko,0,0,0,,오츠루!
 Dialogue: 0,0:03:30.86,0:03:31.77,Default,en,0,0,0,,Otsuru!
-Comment: 0,0:03:32.32,0:03:33.95,Default,ja,0,0,0,,
+Comment: 0,0:03:32.32,0:03:33.95,Default,ja,0,0,0,,ムサシさん！
 Dialogue: 0,0:03:32.32,0:03:33.95,Default,ko,0,0,0,,무사시 씨!
 Dialogue: 0,0:03:32.32,0:03:33.95,Default,en,0,0,0,,Musashi!
-Comment: 0,0:03:34.19,0:03:36.14,Default,ja,0,0,0,,
+Comment: 0,0:03:34.19,0:03:36.14,Default,ja,0,0,0,,おつるちゃん！
 Dialogue: 0,0:03:34.19,0:03:36.14,Default,ko,0,0,0,,오츠루!
 Dialogue: 0,0:03:34.19,0:03:36.14,Default,en,0,0,0,,Otsuru!
-Comment: 0,0:03:36.28,0:03:38.08,Default,ja,0,0,0,,
+Comment: 0,0:03:36.28,0:03:38.08,Default,ja,0,0,0,,ムサシさん！
 Dialogue: 0,0:03:36.28,0:03:38.08,Default,ko,0,0,0,,무사시 씨!
 Dialogue: 0,0:03:36.28,0:03:38.08,Default,en,0,0,0,,Musashi!
-Comment: 0,0:03:38.21,0:03:40.06,Default,ja,0,0,0,,
+Comment: 0,0:03:38.21,0:03:40.06,Default,ja,0,0,0,,オツルちゃん！
 Dialogue: 0,0:03:38.21,0:03:40.06,Default,ko,0,0,0,,오츠루!
 Dialogue: 0,0:03:38.21,0:03:40.06,Default,en,0,0,0,,Otsuru!
-Comment: 0,0:03:43.53,0:03:44.69,Default,ja,0,0,0,,
+Comment: 0,0:03:43.53,0:03:44.69,Default,ja,0,0,0,,立派になって。
 Dialogue: 0,0:03:43.53,0:03:44.69,Default,ko,0,0,0,,훌륭해졌어요.
 Dialogue: 0,0:03:43.53,0:03:44.69,Default,en,0,0,0,,That was splendid!
-Comment: 0,0:03:45.40,0:03:51.96,Default,ja,0,0,0,,
+Comment: 0,0:03:45.40,0:03:51.96,Default,ja,0,0,0,,うん、おいら、武芸大会で優勝しただス。ジパングナンバー1の武芸者になっただス！
 Dialogue: 0,0:03:45.40,0:03:51.96,Default,ko,0,0,0,,응, 나, 무예 대회에서 우승했소! 지팡구 제일의 무예가가 되었소!
 Dialogue: 0,0:03:45.40,0:03:51.96,Default,en,0,0,0,,Yes! I won the first place at the competition-{\i1}dasu{\i0}! I've became the number one martial artist of Jipangu-{\i1}dasu{\i0}!
-Comment: 0,0:03:53.12,0:03:54.38,Default,ja,0,0,0,,
+Comment: 0,0:03:53.12,0:03:54.38,Default,ja,0,0,0,,おめでとう。
 Dialogue: 0,0:03:53.12,0:03:54.38,Default,ko,0,0,0,,축하해요.
 Dialogue: 0,0:03:53.12,0:03:54.38,Default,en,0,0,0,,Congratulations.
-Comment: 0,0:03:56.04,0:03:56.77,Default,ja,0,0,0,,
+Comment: 0,0:03:56.04,0:03:56.77,Default,ja,0,0,0,,オツルちゃん。。。
 Dialogue: 0,0:03:56.04,0:03:56.77,Default,ko,0,0,0,,오츠루...
 Dialogue: 0,0:03:56.04,0:03:56.77,Default,en,0,0,0,,Otsuru...
-Comment: 0,0:03:57.55,0:04:00.89,Default,ja,0,0,0,,
+Comment: 0,0:03:57.55,0:04:00.89,Default,ja,0,0,0,,ばかもん！夢も早いわ！
 Dialogue: 0,0:03:57.55,0:04:00.89,Default,ko,0,0,0,,멍청한 것! 꿈을 꾸기에도 이르다!
 Dialogue: 0,0:03:57.55,0:04:00.89,Default,en,0,0,0,,You idiot! You're even dreaming too early!
-Comment: 0,0:04:01.52,0:04:03.22,Default,ja,0,0,0,,
+Comment: 0,0:04:01.52,0:04:03.22,Default,ja,0,0,0,,悪夢だス！
 Dialogue: 0,0:04:01.52,0:04:03.22,Default,ko,0,0,0,,으악! 악몽이오!
 Dialogue: 0,0:04:01.52,0:04:03.22,Default,en,0,0,0,,This is a nightmare-{\i1}dasu{\i0}!
-Comment: 0,0:04:54.75,0:04:56.98,Default,ja,0,0,0,,
+Comment: 0,0:04:54.75,0:04:56.98,Default,ja,0,0,0,,それ、おいらのコテツでござるだス！
 Dialogue: 0,0:04:54.75,0:04:56.98,Default,ko,0,0,0,,그건 내 코테츠이오!
 Dialogue: 0,0:04:54.75,0:04:56.98,Default,en,0,0,0,,Those are my Kotetsus!
-Comment: 0,0:04:58.72,0:05:00.30,Default,ja,0,0,0,,
+Comment: 0,0:04:58.72,0:05:00.30,Default,ja,0,0,0,,返すだス！
 Dialogue: 0,0:04:58.72,0:05:00.30,Default,ko,0,0,0,,돌려주시오!
 Dialogue: 0,0:04:58.72,0:05:00.30,Default,en,0,0,0,,Give those back-{\i1}dasu{\i0}!
-Comment: 0,0:05:02.52,0:05:03.95,Default,ja,0,0,0,,
-Dialogue: 0,0:05:02.52,0:05:03.95,Default,ko,0,0,0,,뭣이오, 이 줄...
-Dialogue: 0,0:05:02.52,0:05:03.95,Default,en,0,0,0,,What's with this rope-{\i1}dasu{\i0}?
-Comment: 0,0:05:04.70,0:05:06.28,Default,ja,0,0,0,,
+Comment: 0,0:05:02.52,0:05:03.95,Default,ja,0,0,0,,なんだスか、こんなことを。。。
+Dialogue: 0,0:05:02.52,0:05:03.95,Default,ko,0,0,0,,뭣이오, 이런 짓을...
+Dialogue: 0,0:05:02.52,0:05:03.95,Default,en,0,0,0,,What's with this-{\i1}dasu{\i0}?
+Comment: 0,0:05:04.70,0:05:06.28,Default,ja,0,0,0,,アカンベェだ！
 Dialogue: 0,0:05:04.70,0:05:06.28,Default,ko,0,0,0,,메롱이다!
 Dialogue: 0,0:05:04.70,0:05:06.28,Default,en,0,0,0,,Pfft!
-Comment: 0,0:05:07.40,0:05:08.12,Default,ja,0,0,0,,
-Dialogue: 0,0:05:07.40,0:05:08.12,Default,ko,0,0,0,,야!
-Dialogue: 0,0:05:07.40,0:05:08.12,Default,en,0,0,0,,Hey!
-Comment: 0,0:05:12.12,0:05:13.08,Default,ja,0,0,0,,
+Comment: 0,0:05:07.34,0:05:08.12,Default,ja,0,0,0,,こりゃ！
+Dialogue: 0,0:05:07.34,0:05:08.12,Default,ko,0,0,0,,야!
+Dialogue: 0,0:05:07.34,0:05:08.12,Default,en,0,0,0,,Hey!
+Comment: 0,0:05:12.12,0:05:13.08,Default,ja,0,0,0,,怒っただス！
 Dialogue: 0,0:05:12.12,0:05:13.08,Default,ko,0,0,0,,화났소!
 Dialogue: 0,0:05:12.12,0:05:13.08,Default,en,0,0,0,,You made me mad-{\i1}dasu{\i0}!
-Comment: 0,0:05:15.18,0:05:16.52,Default,ja,0,0,0,,
+Comment: 0,0:05:15.18,0:05:16.52,Default,ja,0,0,0,,待て！
 Dialogue: 0,0:05:15.18,0:05:16.52,Default,ko,0,0,0,,멈추시오!
 Dialogue: 0,0:05:15.18,0:05:16.52,Default,en,0,0,0,,Stop right there!
-Comment: 0,0:05:17.10,0:05:18.41,Default,ja,0,0,0,,
+Comment: 0,0:05:17.10,0:05:18.41,Default,ja,0,0,0,,逃がさんだス！
 Dialogue: 0,0:05:17.10,0:05:18.41,Default,ko,0,0,0,,달아날 생각 접으시오!
 Dialogue: 0,0:05:17.10,0:05:18.41,Default,en,0,0,0,,You aren't going anywhere-{\i1}dasu{\i0}!
-Comment: 0,0:05:23.80,0:05:25.31,Default,ja,0,0,0,,
+Comment: 0,0:05:23.80,0:05:25.31,Default,ja,0,0,0,,待て！
 Dialogue: 0,0:05:23.80,0:05:25.31,Default,ko,0,0,0,,기다리시오!
 Dialogue: 0,0:05:23.80,0:05:25.31,Default,en,0,0,0,,Stop!
-Comment: 0,0:05:30.76,0:05:32.83,Default,ja,0,0,0,,
+Comment: 0,0:05:30.76,0:05:32.83,Default,ja,0,0,0,,何度も同じ手にかかんないだス！
 Dialogue: 0,0:05:30.76,0:05:32.83,Default,ko,0,0,0,,또 같은 수에 넘어가지 않소!
 Dialogue: 0,0:05:30.76,0:05:32.83,Default,en,0,0,0,,I'm not falling over that again-{\i1}dasu{\i0}!
-Comment: 0,0:05:33.74,0:05:39.81,Default,ja,0,0,0,,
-Dialogue: 0,0:05:33.74,0:05:39.81,Default,ko,0,0,0,,이 순간까지 이런 일을 한 나인데 방해에 지지 않소!
-Dialogue: 0,0:05:33.74,0:05:39.81,Default,en,0,0,0,,I have experienced too much be defeated to such disturbance-{\i1}dasu{\i0}!
-Comment: 0,0:05:43.29,0:05:45.45,Default,ja,0,0,0,,
+Comment: 0,0:05:33.74,0:05:39.81,Default,ja,0,0,0,,えい、この間までこういうことをやってたおいらだス。山の中じゃ負けないでござるだス！
+Dialogue: 0,0:05:33.74,0:05:39.81,Default,ko,0,0,0,,이 순간까지 이런 일을 한 나인데, 산속이라면 지지 않소!
+Dialogue: 0,0:05:33.74,0:05:39.81,Default,en,0,0,0,,I've been doing that for the whole time; you shall not defeat me in a mountain-{\i1}dasu{\i0}!
+Comment: 0,0:05:43.29,0:05:45.45,Default,ja,0,0,0,,観念して刀を返すだス！
 Dialogue: 0,0:05:43.29,0:05:45.45,Default,ko,0,0,0,,순순히 칼을 돌려주시오!
 Dialogue: 0,0:05:43.29,0:05:45.45,Default,en,0,0,0,,Give it up and give my swords back-{\i1}dasu{\i0}!
-Comment: 0,0:05:58.12,0:05:59.68,Default,ja,0,0,0,,
+Comment: 0,0:05:58.12,0:05:59.68,Default,ja,0,0,0,,なかなかやるだスな。
 Dialogue: 0,0:05:58.12,0:05:59.68,Default,ko,0,0,0,,꽤 하오...
 Dialogue: 0,0:05:58.12,0:05:59.68,Default,en,0,0,0,,He's pretty good-{\i1}dasu{\i0}.
-Comment: 0,0:06:00.01,0:06:02.27,Default,ja,0,0,0,,
+Comment: 0,0:06:00.01,0:06:02.27,Default,ja,0,0,0,,いやいやいや、感心している場合じゃないだス。
 Dialogue: 0,0:06:00.01,0:06:02.27,Default,ko,0,0,0,,아니아니, 감탄할 때가 아니오.
 Dialogue: 0,0:06:00.01,0:06:02.27,Default,en,0,0,0,,No, it's not the time to be surprised-{\i1}dasu{\i0}.
-Comment: 0,0:06:13.93,0:06:15.29,Default,ja,0,0,0,,
-Dialogue: 0,0:06:13.93,0:06:15.29,Default,ko,0,0,0,,어디에 갔소?
-Dialogue: 0,0:06:13.93,0:06:15.29,Default,en,0,0,0,,Where did he go-{\i1}dasu{\i0}?
-Comment: 0,0:06:17.24,0:06:19.01,Default,ja,0,0,0,,
+Comment: 0,0:06:13.85,0:06:15.29,Default,ja,0,0,0,,どこへ行っただス？
+Dialogue: 0,0:06:13.85,0:06:15.29,Default,ko,0,0,0,,어디에 갔소?
+Dialogue: 0,0:06:13.85,0:06:15.29,Default,en,0,0,0,,Where did he go-{\i1}dasu{\i0}?
+Comment: 0,0:06:17.24,0:06:19.01,Default,ja,0,0,0,,出て来いだス！
 Dialogue: 0,0:06:17.24,0:06:19.01,Default,ko,0,0,0,,나오시오!
 Dialogue: 0,0:06:17.24,0:06:19.01,Default,en,0,0,0,,Come out!
-Comment: 0,0:06:21.07,0:06:22.78,Default,ja,0,0,0,,
+Comment: 0,0:06:21.07,0:06:22.78,Default,ja,0,0,0,,隠れるなんてずるいだス！
 Dialogue: 0,0:06:21.07,0:06:22.78,Default,ko,0,0,0,,숨다니 치사하오!
 Dialogue: 0,0:06:21.07,0:06:22.78,Default,en,0,0,0,,Hiding is unfair-{\i1}dasu{\i0}!
-Comment: 0,0:06:23.20,0:06:25.59,Default,ja,0,0,0,,
+Comment: 0,0:06:23.20,0:06:25.59,Default,ja,0,0,0,,どこだスか！出て来いだス！
 Dialogue: 0,0:06:23.20,0:06:25.59,Default,ko,0,0,0,,어디이오! 나오시오!
 Dialogue: 0,0:06:23.20,0:06:25.59,Default,en,0,0,0,,Where are you-{\i1}dasu{\i0}?! Show yourself-{\i1}dasu{\i0}!
-Comment: 0,0:06:45.46,0:06:47.10,Default,ja,0,0,0,,
+Comment: 0,0:06:45.46,0:06:47.10,Default,ja,0,0,0,,こら！
 Dialogue: 0,0:06:45.46,0:06:47.10,Default,ko,0,0,0,,거기!
 Dialogue: 0,0:06:45.46,0:06:47.10,Default,en,0,0,0,,Right there!
-Comment: 0,0:06:56.60,0:06:59.61,Default,ja,0,0,0,,
+Comment: 0,0:06:56.60,0:06:59.61,Default,ja,0,0,0,,何するだス。ちょちょ、ちょっと待っただス。
 Dialogue: 0,0:06:56.60,0:06:59.61,Default,ko,0,0,0,,무슨 짓이오! 잠깐 멈추시오!
 Dialogue: 0,0:06:56.60,0:06:59.61,Default,en,0,0,0,,What are you doing-{\i1}dasu{\i0}? Stop-{\i1}dasu{\i0}!
-Comment: 0,0:07:01.96,0:07:04.90,Default,ja,0,0,0,,
+Comment: 0,0:07:01.96,0:07:04.90,Default,ja,0,0,0,,いきなり切りかかるなんて卑怯なことは許さんだス！
 Dialogue: 0,0:07:01.96,0:07:04.90,Default,ko,0,0,0,,갑자기 들이대다니 비겁하고 용서할 수 없소!
 Dialogue: 0,0:07:01.96,0:07:04.90,Default,en,0,0,0,,Attacking all of a sudden is cowardly and unforgivable-{\i1}dasu{\i0}!
-Comment: 0,0:07:05.10,0:07:06.74,Default,ja,0,0,0,,
+Comment: 0,0:07:05.10,0:07:06.74,Default,ja,0,0,0,,何？卑怯だと？
 Dialogue: 0,0:07:05.10,0:07:06.74,Default,ko,0,0,0,,뭐라? 비겁하다고?
 Dialogue: 0,0:07:05.10,0:07:06.74,Default,en,0,0,0,,What? Cowardly?
 Dialogue: 0,0:07:06.94,0:07:10.90,NoteOnAnime,ko,100,0,75,,{\fad(400,400)}바이켄
 Dialogue: 0,0:07:06.94,0:07:10.90,NoteOnAnime,en,100,0,75,,{\fad(400,400)}Baiken
-Comment: 0,0:07:06.88,0:07:11.94,Default,ja,0,0,0,,
+Comment: 0,0:07:06.88,0:07:11.94,Default,ja,0,0,0,,そっちこそ人が草を飼ってる所にいきなり大声で飛び込んで、邪魔をしたばい！
 Dialogue: 0,0:07:06.88,0:07:11.94,Default,ko,0,0,0,,그쪽이야말로 사람이 풀을 베고 있는데 갑자기 큰 소리로 뛰어들고 방해했다!
 Dialogue: 0,0:07:06.88,0:07:11.94,Default,en,0,0,0,,You're the one to talk; you dived onto me while I'm cutting grasses!
-Comment: 0,0:07:12.52,0:07:16.63,Default,ja,0,0,0,,
+Comment: 0,0:07:12.52,0:07:16.63,Default,ja,0,0,0,,草を飼ってるって、それが鎌だということだスか。
 Dialogue: 0,0:07:12.52,0:07:16.63,Default,ko,0,0,0,,풀을 베다니... 그게 낫이라는 것이오?
 Dialogue: 0,0:07:12.52,0:07:16.63,Default,en,0,0,0,,Cutting grasses... Are you saying that that's a sickle-{\i1}dasu{\i0}?
-Comment: 0,0:07:16.86,0:07:17.37,Default,ja,0,0,0,,
+Comment: 0,0:07:16.86,0:07:17.37,Default,ja,0,0,0,,見てろ！
 Dialogue: 0,0:07:16.86,0:07:17.37,Default,ko,0,0,0,,봐라!
 Dialogue: 0,0:07:16.86,0:07:17.37,Default,en,0,0,0,,Look!
-Comment: 0,0:07:20.44,0:07:22.33,Default,ja,0,0,0,,
+Comment: 0,0:07:20.44,0:07:22.33,Default,ja,0,0,0,,どうだ、これで分かったばい。
 Dialogue: 0,0:07:20.44,0:07:22.33,Default,ko,0,0,0,,어떻냐, 이제 알겠나?
 Dialogue: 0,0:07:20.44,0:07:22.33,Default,en,0,0,0,,Now you see?
-Comment: 0,0:07:23.24,0:07:26.30,Default,ja,0,0,0,,
+Comment: 0,0:07:23.24,0:07:26.30,Default,ja,0,0,0,,一遍にたくさん借り取れて便利だスな。
 Dialogue: 0,0:07:23.24,0:07:26.30,Default,ko,0,0,0,,한방에 많이 베어내다니 편리하오...
 Dialogue: 0,0:07:23.24,0:07:26.30,Default,en,0,0,0,,How convenient! You can cut many at once-{\i1}dasu{\i0}!
-Comment: 0,0:07:26.68,0:07:29.23,Default,ja,0,0,0,,
+Comment: 0,0:07:26.68,0:07:29.23,Default,ja,0,0,0,,いや、仕事の邪魔してごめんだス。
 Dialogue: 0,0:07:26.68,0:07:29.23,Default,ko,0,0,0,,아, 일을 방해해서 미안하오.
 Dialogue: 0,0:07:26.68,0:07:29.23,Default,en,0,0,0,,Ah, sorry for interrupting-{\i1}dasu{\i0}.
-Comment: 0,0:07:30.25,0:07:32.31,Default,ja,0,0,0,,
+Comment: 0,0:07:30.25,0:07:32.31,Default,ja,0,0,0,,おいらはムサシと申すでござるだス。
 Dialogue: 0,0:07:30.25,0:07:32.31,Default,ko,0,0,0,,나는 무사시라고 하오.
 Dialogue: 0,0:07:30.25,0:07:32.31,Default,en,0,0,0,,I am Musashi-{\i1}dasu{\i0}.
-Comment: 0,0:07:33.08,0:07:34.64,Default,ja,0,0,0,,
+Comment: 0,0:07:33.08,0:07:34.64,Default,ja,0,0,0,,おらはバイケンと言うばい。
 Dialogue: 0,0:07:33.08,0:07:34.64,Default,ko,0,0,0,,난 바이켄이라 한다.
 Dialogue: 0,0:07:33.08,0:07:34.64,Default,en,0,0,0,,I am Baiken.
-Comment: 0,0:07:35.57,0:07:37.94,Default,ja,0,0,0,,
+Comment: 0,0:07:35.57,0:07:37.94,Default,ja,0,0,0,,刀を持った子供を見かけなかっただスか。
 Dialogue: 0,0:07:35.57,0:07:37.94,Default,ko,0,0,0,,칼을 가지고 있는 아이들을 보셨소?
 Dialogue: 0,0:07:35.57,0:07:37.94,Default,en,0,0,0,,Did you see those kids with swords-{\i1}dasu{\i0}?
-Comment: 0,0:07:38.27,0:07:39.76,Default,ja,0,0,0,,
+Comment: 0,0:07:38.27,0:07:39.76,Default,ja,0,0,0,,刀を持った子供？
 Dialogue: 0,0:07:38.27,0:07:39.76,Default,ko,0,0,0,,칼을 가진 아이들?
 Dialogue: 0,0:07:38.27,0:07:39.76,Default,en,0,0,0,,Children with swords?
-Comment: 0,0:07:40.24,0:07:41.73,Default,ja,0,0,0,,
+Comment: 0,0:07:40.24,0:07:41.73,Default,ja,0,0,0,,刀はおいらのものなんだス。
 Dialogue: 0,0:07:40.24,0:07:41.73,Default,ko,0,0,0,,칼은 내 것이오.
 Dialogue: 0,0:07:40.24,0:07:41.73,Default,en,0,0,0,,Those swords are mine-{\i1}dasu{\i0}.
-Comment: 0,0:07:43.02,0:07:43.93,Default,ja,0,0,0,,
+Comment: 0,0:07:43.02,0:07:43.93,Default,ja,0,0,0,,盗まれたのか。
 Dialogue: 0,0:07:43.02,0:07:43.93,Default,ko,0,0,0,,도난당했나?
 Dialogue: 0,0:07:43.02,0:07:43.93,Default,en,0,0,0,,Are they stolen?
-Comment: 0,0:07:44.43,0:07:46.96,Default,ja,0,0,0,,
+Comment: 0,0:07:44.43,0:07:46.96,Default,ja,0,0,0,,ついうっかり昼寝をしているうちに。。。
 Dialogue: 0,0:07:44.43,0:07:46.96,Default,ko,0,0,0,,아까 잠깐 낮잠을 자다가...
 Dialogue: 0,0:07:44.43,0:07:46.96,Default,en,0,0,0,,During I was taking a nap for a bit...
-Comment: 0,0:07:47.40,0:07:48.97,Default,ja,0,0,0,,
+Comment: 0,0:07:47.40,0:07:48.97,Default,ja,0,0,0,,子供は三人だったか！
 Dialogue: 0,0:07:47.40,0:07:48.97,Default,ko,0,0,0,,아이는 셋이었나!
 Dialogue: 0,0:07:47.40,0:07:48.97,Default,en,0,0,0,,Were there three children?
-Comment: 0,0:07:49.12,0:07:49.95,Default,ja,0,0,0,,
+Comment: 0,0:07:49.12,0:07:49.95,Default,ja,0,0,0,,そ、そうだス。
 Dialogue: 0,0:07:49.12,0:07:49.95,Default,ko,0,0,0,,그, 그렇소.
 Dialogue: 0,0:07:49.12,0:07:49.95,Default,en,0,0,0,,Ri- right-{\i1}dasu{\i0}.
-Comment: 0,0:07:53.54,0:07:55.63,Default,ja,0,0,0,,
+Comment: 0,0:07:53.54,0:07:55.63,Default,ja,0,0,0,,バイケン、心当たりあるんだスか。
 Dialogue: 0,0:07:53.54,0:07:55.63,Default,ko,0,0,0,,바이켄, 짚이는 게 있소?
 Dialogue: 0,0:07:53.54,0:07:55.63,Default,en,0,0,0,,Baiken, do you have suspects-{\i1}dasu{\i0}?
-Comment: 0,0:07:56.33,0:07:56.84,Default,ja,0,0,0,,
+Comment: 0,0:07:56.33,0:07:56.84,Default,ja,0,0,0,,バイケン！
 Dialogue: 0,0:07:56.33,0:07:56.84,Default,ko,0,0,0,,바이켄!
 Dialogue: 0,0:07:56.33,0:07:56.84,Default,en,0,0,0,,Baiken!
-Comment: 0,0:08:00.62,0:08:02.56,Default,ja,0,0,0,,
-Dialogue: 0,0:08:00.62,0:08:02.56,Default,ko,0,0,0,,뭔가 사정이 있는 듯 하오.
-Dialogue: 0,0:08:00.62,0:08:02.56,Default,en,0,0,0,,He's up to something-{\i1}dasu{\i0}.
-Comment: 0,0:08:20.08,0:08:22.92,Default,ja,0,0,0,,
+Comment: 0,0:08:00.62,0:08:02.56,Default,ja,0,0,0,,なんか{???}よわけがありそうな。
+Dialogue: 0,0:08:00.62,0:08:02.56,Default,ko,0,0,0,,{\i1}뭔가 사정이 있는 듯 하오.
+Dialogue: 0,0:08:00.62,0:08:02.56,Default,en,0,0,0,,{\i1}He's up to something-{\i0}dasu{\i1}.
+Comment: 0,0:08:20.08,0:08:22.92,Default,ja,0,0,0,,あれほど言っていおいたのに、まだ分からんばい！
 Dialogue: 0,0:08:20.08,0:08:22.92,Default,ko,0,0,0,,몇 번이고 말했을 텐데! 아직 모르겠나!
 Dialogue: 0,0:08:20.08,0:08:22.92,Default,en,0,0,0,,I told you countless times, and you still didn't get it?
-Comment: 0,0:08:23.93,0:08:26.94,Default,ja,0,0,0,,
+Comment: 0,0:08:23.93,0:08:26.94,Default,ja,0,0,0,,だってあんちゃん、あんなに欲しがってたから。
 Dialogue: 0,0:08:23.93,0:08:26.94,Default,ko,0,0,0,,그래도 형, 그렇게 가지고 싶어했다고 했으니까...
 Dialogue: 0,0:08:23.93,0:08:26.94,Default,en,0,0,0,,But bro, you said you wanted it so much!
-Comment: 0,0:08:27.15,0:08:29.13,Default,ja,0,0,0,,
+Comment: 0,0:08:27.15,0:08:29.13,Default,ja,0,0,0,,イッケン！言い訳やめろ！
 Dialogue: 0,0:08:27.15,0:08:29.13,Default,ko,0,0,0,,잇켄! 변명은 관둬라!
 Dialogue: 0,0:08:27.15,0:08:29.13,Default,en,0,0,0,,Ikken! No excuses!
-Comment: 0,0:08:33.55,0:08:36.26,Default,ja,0,0,0,,
-Dialogue: 0,0:08:33.55,0:08:36.26,Default,ko,0,0,0,,입 닫아라! 사내 주제에 울지 마라!
-Dialogue: 0,0:08:33.55,0:08:36.26,Default,en,0,0,0,,Silence! A man must not cry!
-Comment: 0,0:08:41.10,0:08:42.23,Default,ja,0,0,0,,
+Comment: 0,0:08:33.55,0:08:36.26,Default,ja,0,0,0,,ニケン！男のくせに泣くな！
+Dialogue: 0,0:08:33.55,0:08:36.26,Default,ko,0,0,0,,닛켄! 사내 주제에 울지 마라!
+Dialogue: 0,0:08:33.55,0:08:36.26,Default,en,0,0,0,,Nikken! A man must not cry!
+Comment: 0,0:08:41.10,0:08:42.23,Default,ja,0,0,0,,さあ！
 Dialogue: 0,0:08:41.10,0:08:42.23,Default,ko,0,0,0,,자!
 Dialogue: 0,0:08:41.10,0:08:42.23,Default,en,0,0,0,,Now!
-Comment: 0,0:08:45.61,0:08:47.71,Default,ja,0,0,0,,
+Comment: 0,0:08:45.61,0:08:47.71,Default,ja,0,0,0,,約束通り手を切るばい。
 Dialogue: 0,0:08:45.61,0:08:47.71,Default,ko,0,0,0,,약속대로 손을 자르겠다.
 Dialogue: 0,0:08:45.61,0:08:47.71,Default,en,0,0,0,,I'll cut the hands as promised.
-Comment: 0,0:08:49.45,0:08:53.14,Default,ja,0,0,0,,
+Comment: 0,0:08:49.45,0:08:53.14,Default,ja,0,0,0,,オハル。お前は女の子だから今度だけは許してやる。
 Dialogue: 0,0:08:49.45,0:08:53.14,Default,ko,0,0,0,,오하루. 넌 여자얘니까 이번은 용서해 주겠다.
 Dialogue: 0,0:08:49.45,0:08:53.14,Default,en,0,0,0,,Oharu. You'll be forgiven this time since you're only a girl.
-Comment: 0,0:08:53.58,0:08:55.60,Default,ja,0,0,0,,
+Comment: 0,0:08:53.58,0:08:55.60,Default,ja,0,0,0,,イッケン、ニケン、早く手を出せ！
 Dialogue: 0,0:08:53.58,0:08:55.60,Default,ko,0,0,0,,잇켄, 니켄, 빨리 손을 내밀어라!
 Dialogue: 0,0:08:53.58,0:08:55.60,Default,en,0,0,0,,Ikken, Niken! Show your hands!
-Comment: 0,0:09:00.09,0:09:01.71,Default,ja,0,0,0,,
+Comment: 0,0:09:00.09,0:09:01.71,Default,ja,0,0,0,,オハル！お前はいい！
 Dialogue: 0,0:09:00.09,0:09:01.71,Default,ko,0,0,0,,오하루! 넌 됐어!
 Dialogue: 0,0:09:00.09,0:09:01.71,Default,en,0,0,0,,Oharu! You don't need to!
-Comment: 0,0:09:02.24,0:09:07.34,Default,ja,0,0,0,,
+Comment: 0,0:09:02.24,0:09:07.34,Default,ja,0,0,0,,あんちゃん、国を出るとき、みんなに誓い合ったから！
 Dialogue: 0,0:09:02.24,0:09:07.34,Default,ko,0,0,0,,형, 나라를 나올 때 모두 맹새했으니까...
 Dialogue: 0,0:09:02.24,0:09:07.34,Default,en,0,0,0,,Brother, we made a promise when we departed from the state.
-Comment: 0,0:09:08.43,0:09:11.61,Default,ja,0,0,0,,
+Comment: 0,0:09:08.43,0:09:11.61,Default,ja,0,0,0,,これからは力を合わせてやっていこうって。。。
 Dialogue: 0,0:09:08.43,0:09:11.61,Default,ko,0,0,0,,지금부터는 힘을 모아서 하자고...
 Dialogue: 0,0:09:08.43,0:09:11.61,Default,en,0,0,0,,"From now on, let's combine our powers." We promised.
-Comment: 0,0:09:12.27,0:09:14.89,Default,ja,0,0,0,,
+Comment: 0,0:09:12.27,0:09:14.89,Default,ja,0,0,0,,死ぬのも、生きるのも、一緒だって！
 Dialogue: 0,0:09:12.27,0:09:14.89,Default,ko,0,0,0,,죽는 것도, 사는 것도 같이라고...
 Dialogue: 0,0:09:12.27,0:09:14.89,Default,en,0,0,0,,"We die and live together". We promised.
-Comment: 0,0:09:15.47,0:09:18.62,Default,ja,0,0,0,,
+Comment: 0,0:09:15.47,0:09:18.62,Default,ja,0,0,0,,{???}あたいだけをいってきもりしないで。
 Dialogue: 0,0:09:15.47,0:09:18.62,Default,ko,0,0,0,,나 혼자 빠질 수는 없어...
 Dialogue: 0,0:09:15.47,0:09:18.62,Default,en,0,0,0,,I can't be left out.
-Comment: 0,0:09:19.68,0:09:20.52,Default,ja,0,0,0,,
+Comment: 0,0:09:19.68,0:09:20.52,Default,ja,0,0,0,,オハル。
 Dialogue: 0,0:09:19.68,0:09:20.52,Default,ko,0,0,0,,오하루.
 Dialogue: 0,0:09:19.68,0:09:20.52,Default,en,0,0,0,,Oharu.
-Comment: 0,0:09:23.96,0:09:27.17,Default,ja,0,0,0,,
+Comment: 0,0:09:23.96,0:09:27.17,Default,ja,0,0,0,,よし、分かった。死ぬのも生きるのも一緒。
 Dialogue: 0,0:09:23.96,0:09:27.17,Default,ko,0,0,0,,좋다. 알겠다. 죽는 것도 사는 것도 함께.
 Dialogue: 0,0:09:23.96,0:09:27.17,Default,en,0,0,0,,Alright, I get it. We die and live together.
-Comment: 0,0:09:27.64,0:09:30.11,Default,ja,0,0,0,,
+Comment: 0,0:09:27.64,0:09:30.11,Default,ja,0,0,0,,ならば、あんちゃんも切るばい。
 Dialogue: 0,0:09:27.64,0:09:30.11,Default,ko,0,0,0,,그렇다면 형도 자르겠다.
 Dialogue: 0,0:09:27.64,0:09:30.11,Default,en,0,0,0,,Then I'll cut too.
-Comment: 0,0:09:30.68,0:09:32.04,Default,ja,0,0,0,,
+Comment: 0,0:09:30.68,0:09:32.04,Default,ja,0,0,0,,あんちゃんがどうして！
 Dialogue: 0,0:09:30.68,0:09:32.04,Default,ko,0,0,0,,형이 왜!
 Dialogue: 0,0:09:30.68,0:09:32.04,Default,en,0,0,0,,You don't have to!
-Comment: 0,0:09:32.59,0:09:37.02,Default,ja,0,0,0,,
+Comment: 0,0:09:32.59,0:09:37.02,Default,ja,0,0,0,,お前たちに盗みをさせてしまったのはこのあんちゃんの責任でもある！
 Dialogue: 0,0:09:32.59,0:09:37.02,Default,ko,0,0,0,,너희들이 도둑질을 하고 만 것은 이 형의 책임도 있다.
 Dialogue: 0,0:09:32.59,0:09:37.02,Default,en,0,0,0,,I am responsible for your robbery too.
-Comment: 0,0:09:37.46,0:09:41.21,Default,ja,0,0,0,,
+Comment: 0,0:09:37.46,0:09:41.21,Default,ja,0,0,0,,おらたち兄弟は死ぬのも生きるのも一緒だって言ったばい。
 Dialogue: 0,0:09:37.46,0:09:41.21,Default,ko,0,0,0,,우리 형제는 죽는 것도 사는 것도 함께라고 했다.
 Dialogue: 0,0:09:37.46,0:09:41.21,Default,en,0,0,0,,We three live and die together.
-Comment: 0,0:09:42.33,0:09:42.94,Default,ja,0,0,0,,
+Comment: 0,0:09:42.33,0:09:42.94,Default,ja,0,0,0,,だから。。。
 Dialogue: 0,0:09:42.33,0:09:42.94,Default,ko,0,0,0,,그러니까...
-Comment: 0,0:09:42.33,0:09:42.94,Default,ja,0,0,0,,
-Dialogue: 0,0:09:42.33,0:09:42.94,Default,ko,0,0,0,,So now we go...
-Comment: 0,0:09:44.16,0:09:45.16,Default,ja,0,0,0,,
+Dialogue: 0,0:09:42.33,0:09:42.94,Default,en,0,0,0,,So now we go...
+Comment: 0,0:09:44.16,0:09:45.16,Default,ja,0,0,0,,待った！
 Dialogue: 0,0:09:44.16,0:09:45.16,Default,ko,0,0,0,,멈추시오!
 Dialogue: 0,0:09:44.16,0:09:45.16,Default,en,0,0,0,,Stop!
-Comment: 0,0:09:45.44,0:09:47.51,Default,ja,0,0,0,,
+Comment: 0,0:09:45.44,0:09:47.51,Default,ja,0,0,0,,待った、待った！
 Dialogue: 0,0:09:45.44,0:09:47.51,Default,ko,0,0,0,,잠깐! 멈추시오!
 Dialogue: 0,0:09:45.44,0:09:47.51,Default,en,0,0,0,,Stop! Stop right there!
-Comment: 0,0:09:49.08,0:09:50.32,Default,ja,0,0,0,,
+Comment: 0,0:09:49.08,0:09:50.32,Default,ja,0,0,0,,ムサシと言われたな。
 Dialogue: 0,0:09:49.08,0:09:50.32,Default,ko,0,0,0,,무사시라고 했지.
 Dialogue: 0,0:09:49.08,0:09:50.32,Default,en,0,0,0,,Musashi, right?
-Comment: 0,0:09:50.78,0:09:53.26,Default,ja,0,0,0,,
+Comment: 0,0:09:50.78,0:09:53.26,Default,ja,0,0,0,,盗まれた刀はこれだな。
 Dialogue: 0,0:09:50.78,0:09:53.26,Default,ko,0,0,0,,훔쳐진 칼은 이것일 터.
 Dialogue: 0,0:09:50.78,0:09:53.26,Default,en,0,0,0,,This must be the stolen swords.
-Comment: 0,0:09:53.96,0:09:55.42,Default,ja,0,0,0,,
+Comment: 0,0:09:53.96,0:09:55.42,Default,ja,0,0,0,,刀はおいらのだが。。。
 Dialogue: 0,0:09:53.96,0:09:55.42,Default,ko,0,0,0,,그건 내 것이지만...
 Dialogue: 0,0:09:53.96,0:09:55.42,Default,en,0,0,0,,Those are mine, but...
-Comment: 0,0:09:57.86,0:09:59.48,Default,ja,0,0,0,,
+Comment: 0,0:09:57.86,0:09:59.48,Default,ja,0,0,0,,確かにお返ししたばい。
 Dialogue: 0,0:09:57.86,0:09:59.48,Default,ko,0,0,0,,자, 가져가시오.
 Dialogue: 0,0:09:57.86,0:09:59.48,Default,en,0,0,0,,Take these back.
-Comment: 0,0:10:00.11,0:10:02.67,Default,ja,0,0,0,,
+Comment: 0,0:10:00.11,0:10:02.67,Default,ja,0,0,0,,しかし、盗まれたのではないでござるだス。
 Dialogue: 0,0:10:00.11,0:10:02.67,Default,ko,0,0,0,,그래도 도둑질당한 것은 아니오.
 Dialogue: 0,0:10:00.11,0:10:02.67,Default,en,0,0,0,,But they aren't stolen-{\i1}dasu{\i0}.
-Comment: 0,0:10:03.24,0:10:03.66,Default,ja,0,0,0,,
+Comment: 0,0:10:03.24,0:10:03.66,Default,ja,0,0,0,,なに？
 Dialogue: 0,0:10:03.24,0:10:03.66,Default,ko,0,0,0,,뭐라?
 Dialogue: 0,0:10:03.24,0:10:03.66,Default,en,0,0,0,,What?
-Comment: 0,0:10:04.01,0:10:12.42,Default,ja,0,0,0,,
+Comment: 0,0:10:04.01,0:10:12.42,Default,ja,0,0,0,,おいら、昼寝をしていて、邪魔になったんで松の木に立てかけ、目を覚ましたとついうっかり忘れて出かけてしまったのだス。
 Dialogue: 0,0:10:04.01,0:10:12.42,Default,ko,0,0,0,,나, 낮잠을 자다가 방해가 되어 소나무에 기대 두었는데, 눈을 떴을 때 결국 완전히 잊고 떠나버렸소.
 Dialogue: 0,0:10:04.01,0:10:08.13,Default,en,0,0,0,,Actually, I rested my swords on a pine tree because it wasn't comfortable to bear my swords while sleeping,
 Dialogue: 0,0:10:08.92,0:10:12.42,Default,en,0,0,0,,but I forgot and left without them after waking up-{\i1}dasu{\i0}.
-Comment: 0,0:10:16.26,0:10:17.98,Default,ja,0,0,0,,
+Comment: 0,0:10:16.26,0:10:17.98,Default,ja,0,0,0,,嘘を申されるな！
 Dialogue: 0,0:10:16.26,0:10:17.98,Default,ko,0,0,0,,거짓말하지 마라!
 Dialogue: 0,0:10:16.26,0:10:17.98,Default,en,0,0,0,,Do not lie!
-Comment: 0,0:10:18.44,0:10:19.92,Default,ja,0,0,0,,
+Comment: 0,0:10:18.44,0:10:19.92,Default,ja,0,0,0,,嘘ではないだス。
 Dialogue: 0,0:10:18.44,0:10:19.92,Default,ko,0,0,0,,거짓말 아니오!
 Dialogue: 0,0:10:18.44,0:10:19.92,Default,en,0,0,0,,It's not a lie-{\i1}dasu{\i0}!
-Comment: 0,0:10:20.59,0:10:26.12,Default,ja,0,0,0,,
+Comment: 0,0:10:20.59,0:10:26.12,Default,ja,0,0,0,,{???}やしくも武芸者が武士の魂ともいうべき刀を置き忘れるわけがないばい！
 Dialogue: 0,0:10:20.59,0:10:26.12,Default,ko,0,0,0,,적어도 무예가가 무사의 혼이라고 불리는 칼을 두고 올 리가 없다!
 Dialogue: 0,0:10:20.59,0:10:26.12,Default,en,0,0,0,,A real martial artist will never forget his spirit - his sword!
-Comment: 0,0:10:26.35,0:10:28.17,Default,ja,0,0,0,,
+Comment: 0,0:10:26.35,0:10:28.17,Default,ja,0,0,0,,そ、そんなこと言っても。。。
 Dialogue: 0,0:10:26.35,0:10:28.17,Default,ko,0,0,0,,그, 그래도...
 Dialogue: 0,0:10:26.35,0:10:28.17,Default,en,0,0,0,,B- but, still...
-Comment: 0,0:10:28.73,0:10:31.56,Default,ja,0,0,0,,
+Comment: 0,0:10:28.73,0:10:31.56,Default,ja,0,0,0,,ついうっかり忘れてしまったのは仕方がないだス。
 Dialogue: 0,0:10:28.73,0:10:31.56,Default,ko,0,0,0,,결국에 완전히 잊어버린 건 어쩔 수 없소.
 Dialogue: 0,0:10:28.73,0:10:31.56,Default,en,0,0,0,,I keep completely forgetting those stuff-{\i1}dasu{\i0}.
-Comment: 0,0:10:31.88,0:10:34.06,Default,ja,0,0,0,,
+Comment: 0,0:10:31.88,0:10:34.06,Default,ja,0,0,0,,ではムサシは偽武芸者か。
 Dialogue: 0,0:10:31.88,0:10:34.06,Default,ko,0,0,0,,그럼 무사시는 가짜 무예가인가?
 Dialogue: 0,0:10:31.88,0:10:34.06,Default,en,0,0,0,,Are you calling yourself a fake martial artist, Musashi?
-Comment: 0,0:10:34.56,0:10:35.20,Default,ja,0,0,0,,
+Comment: 0,0:10:34.56,0:10:35.20,Default,ja,0,0,0,,なに？！
 Dialogue: 0,0:10:34.56,0:10:35.20,Default,ko,0,0,0,,뭐라?
 Dialogue: 0,0:10:34.56,0:10:35.20,Default,en,0,0,0,,What was that?
-Comment: 0,0:10:36.14,0:10:40.08,Default,ja,0,0,0,,
+Comment: 0,0:10:36.14,0:10:40.08,Default,ja,0,0,0,,刀を忘れるなど、武芸者ではない！単なる偽物ばい！
 Dialogue: 0,0:10:36.14,0:10:40.08,Default,ko,0,0,0,,칼을 잊다니 무예가일 리가 없다! 그냥 가짜일 뿐!
 Dialogue: 0,0:10:36.14,0:10:40.08,Default,en,0,0,0,,A real martial artist does not forget his own sword! Only an impostor does!
-Comment: 0,0:10:40.22,0:10:45.05,Default,ja,0,0,0,,
+Comment: 0,0:10:40.22,0:10:45.05,Default,ja,0,0,0,,黙れ、黙れ！おいら、ボクデンを師と仰ぐ、{???}べっきとした武芸者でござるだス。
 Dialogue: 0,0:10:40.22,0:10:45.05,Default,ko,0,0,0,,닥쳐, 닥치시오! 나는 보쿠덴을 스승으로 모신, 별거 생활을 했던 무예가이오!
 Dialogue: 0,0:10:40.22,0:10:45.05,Default,en,0,0,0,,Shut your mouth up! I am a martial artist who had to live apart to learn under Bokuden as my master-{\i1}dasu{\i0}!
-Comment: 0,0:10:45.26,0:10:49.52,Default,ja,0,0,0,,
+Comment: 0,0:10:45.26,0:10:49.52,Default,ja,0,0,0,,なんと？あの無刀取りの剣士とうたわれた剣星の弟子？
 Dialogue: 0,0:10:45.26,0:10:49.52,Default,ko,0,0,0,,뭐라? 그 무토도리의 검성이라고 널리 알려진 보쿠덴의 제자?
-Dialogue: 0,0:10:45.26,0:10:49.52,Default,en,0,0,0,,What? A student of Bokuden, the master martial artist of {\i1}mutodori{\i0}?
-Comment: 0,0:10:50.73,0:10:54.00,Default,ja,0,0,0,,
+Dialogue: 0,0:10:45.26,0:10:49.52,Default,en,0,0,0,,What? A student of Bokuden, the master martial artist of {\i1}mutōdori{\i0}?
+Comment: 0,0:10:50.73,0:10:54.00,Default,ja,0,0,0,,おいらに向かって偽物とはなんだス、偽物とは！
 Dialogue: 0,0:10:50.73,0:10:54.00,Default,ko,0,0,0,,나를 향해 가짜라고 하는 것은 뭐오, 가짜는!
 Dialogue: 0,0:10:50.73,0:10:54.00,Default,en,0,0,0,,How dare you call me a fake-{\i1}dasu{\i0}?!
-Comment: 0,0:10:56.30,0:10:57.53,Default,ja,0,0,0,,
+Comment: 0,0:10:56.30,0:10:57.53,Default,ja,0,0,0,,ご無礼致したばい。
 Dialogue: 0,0:10:56.30,0:10:57.53,Default,ko,0,0,0,,무례를 저질렀다.
 Dialogue: 0,0:10:56.30,0:10:57.53,Default,en,0,0,0,,I've been impolite.
-Comment: 0,0:10:57.84,0:11:01.60,Default,ja,0,0,0,,
+Comment: 0,0:10:57.84,0:11:01.60,Default,ja,0,0,0,,いや、分かってくれれば何も誤ることが。。。
 Dialogue: 0,0:10:57.84,0:11:01.60,Default,ko,0,0,0,,아, 알아 주겠다면... 별 사과할 것은...
 Dialogue: 0,0:10:57.84,0:11:01.60,Default,en,0,0,0,,If you understand, there's nothing special to apologize.
-Comment: 0,0:11:02.03,0:11:04.16,Default,ja,0,0,0,,
+Comment: 0,0:11:02.03,0:11:04.16,Default,ja,0,0,0,,そこで一つお願いがあるばい。
 Dialogue: 0,0:11:02.03,0:11:04.16,Default,ko,0,0,0,,그럼 하나 부탁이 있소.
 Dialogue: 0,0:11:02.03,0:11:04.16,Default,en,0,0,0,,But I have a request.
-Comment: 0,0:11:04.46,0:11:07.24,Default,ja,0,0,0,,
+Comment: 0,0:11:04.46,0:11:07.24,Default,ja,0,0,0,,え？おいらにできることなら何なりと。
 Dialogue: 0,0:11:04.46,0:11:07.24,Default,ko,0,0,0,,에? 내가 할 수 있는 것이라면 무엇이든.
 Dialogue: 0,0:11:04.46,0:11:07.24,Default,en,0,0,0,,Huh? I'll do whatever I can-{\i1}dasu{\i0}.
-Comment: 0,0:11:07.61,0:11:09.39,Default,ja,0,0,0,,
+Comment: 0,0:11:07.61,0:11:09.39,Default,ja,0,0,0,,一手教え願いたい。
 Dialogue: 0,0:11:07.61,0:11:09.39,Default,ko,0,0,0,,한 수 가르쳐 달라.
 Dialogue: 0,0:11:07.61,0:11:09.39,Default,en,0,0,0,,Give me your best shot.
-Comment: 0,0:11:09.76,0:11:11.75,Default,ja,0,0,0,,
+Comment: 0,0:11:09.76,0:11:11.75,Default,ja,0,0,0,,教える？稽古だスか。
 Dialogue: 0,0:11:09.76,0:11:11.75,Default,ko,0,0,0,,가르쳐 달라니? 연습이오?
 Dialogue: 0,0:11:09.76,0:11:11.75,Default,en,0,0,0,,Best shot? Do you want a practice match-{\i1}dasu{\i0}?
-Comment: 0,0:11:11.92,0:11:13.68,Default,ja,0,0,0,,
+Comment: 0,0:11:11.92,0:11:13.68,Default,ja,0,0,0,,いや、真剣勝負ばい。
 Dialogue: 0,0:11:11.92,0:11:13.68,Default,ko,0,0,0,,아니오. 진검승부요.
 Dialogue: 0,0:11:11.92,0:11:13.68,Default,en,0,0,0,,No. A match with real swords.
-Comment: 0,0:11:13.96,0:11:14.75,Default,ja,0,0,0,,
+Comment: 0,0:11:13.96,0:11:14.75,Default,ja,0,0,0,,なんだスと？
 Dialogue: 0,0:11:13.96,0:11:14.75,Default,ko,0,0,0,,뭣이오?
 Dialogue: 0,0:11:13.96,0:11:14.75,Default,en,0,0,0,,What did you say-{\i1}dasu{\i0}?
-Comment: 0,0:11:15.46,0:11:16.00,Default,ja,0,0,0,,
+Comment: 0,0:11:15.46,0:11:16.00,Default,ja,0,0,0,,いやか。
 Dialogue: 0,0:11:15.46,0:11:16.00,Default,ko,0,0,0,,싫나?
 Dialogue: 0,0:11:15.46,0:11:16.00,Default,en,0,0,0,,Is that a no?
-Comment: 0,0:11:16.32,0:11:18.40,Default,ja,0,0,0,,
+Comment: 0,0:11:16.32,0:11:18.40,Default,ja,0,0,0,,いや、そういうわけではないが。。。
 Dialogue: 0,0:11:16.32,0:11:18.40,Default,ko,0,0,0,,아, 그런 건 아니지만...
 Dialogue: 0,0:11:16.32,0:11:18.40,Default,en,0,0,0,,No, that's not it, but...
-Comment: 0,0:11:18.92,0:11:22.56,Default,ja,0,0,0,,
+Comment: 0,0:11:18.92,0:11:22.56,Default,ja,0,0,0,,できることなら何なりと申されたが、あれは嘘ばい！
 Dialogue: 0,0:11:18.92,0:11:22.56,Default,ko,0,0,0,,할 수 있는 것이라면 무엇이든이라 말했지만, 그건 거짓이군!
 Dialogue: 0,0:11:18.92,0:11:22.56,Default,en,0,0,0,,You said that you'll do anything you can, but I can see that it was a flat-out lie!
-Comment: 0,0:11:23.38,0:11:24.82,Default,ja,0,0,0,,
-Dialogue: 0,0:11:23.38,0:11:24.82,Default,ko,0,0,0,,사내는 두말하지 않소!
-Dialogue: 0,0:11:23.38,0:11:24.82,Default,en,0,0,0,,A man does not take back his words-{\i1}dasu{\i0}!
-Comment: 0,0:11:43.24,0:11:44.51,Default,ja,0,0,0,,
+Comment: 0,0:11:22.88,0:11:24.82,Default,ja,0,0,0,,いや、男に二言はないだス。
+Dialogue: 0,0:11:22.88,0:11:24.82,Default,ko,0,0,0,,아니, 사내는 두말하지 않소!
+Dialogue: 0,0:11:22.88,0:11:24.82,Default,en,0,0,0,,No, a man does not take back his words-{\i1}dasu{\i0}!
+Comment: 0,0:11:43.24,0:11:44.51,Default,ja,0,0,0,,お待たせしたばい！
 Dialogue: 0,0:11:43.24,0:11:44.51,Default,ko,0,0,0,,오래 기다리셨수다!
 Dialogue: 0,0:11:43.24,0:11:44.51,Default,en,0,0,0,,Sorry for making you wait!
-Comment: 0,0:11:44.83,0:11:46.80,Default,ja,0,0,0,,
+Comment: 0,0:11:44.83,0:11:46.80,Default,ja,0,0,0,,バイケン、それが武器だスか。
 Dialogue: 0,0:11:44.83,0:11:46.80,Default,ko,0,0,0,,바이켄, 그게 무기이오?
 Dialogue: 0,0:11:44.83,0:11:46.80,Default,en,0,0,0,,Baiken, is that your weapon?
-Comment: 0,0:11:47.25,0:11:49.18,Default,ja,0,0,0,,
+Comment: 0,0:11:47.25,0:11:49.18,Default,ja,0,0,0,,そうだ。クサリガマというばい。
 Dialogue: 0,0:11:47.25,0:11:49.18,Default,ko,0,0,0,,그렇다. 쿠사리가마라 한다.
 Dialogue: 0,0:11:47.25,0:11:49.18,Default,en,0,0,0,,Right. It's a {\i1}kusarigama{\i0}.
-Comment: 0,0:11:49.71,0:11:50.51,Default,ja,0,0,0,,
+Comment: 0,0:11:49.71,0:11:50.51,Default,ja,0,0,0,,クサリガマ？
 Dialogue: 0,0:11:49.71,0:11:50.51,Default,ko,0,0,0,,쿠사리가마?
 Dialogue: 0,0:11:49.71,0:11:50.51,Default,en,0,0,0,,Kusarigama?
-Comment: 0,0:11:50.88,0:11:52.49,Default,ja,0,0,0,,
+Comment: 0,0:11:50.88,0:11:52.49,Default,ja,0,0,0,,-いくぞ！\N-おう！
 Dialogue: 0,0:11:50.88,0:11:52.49,Default,ko,0,0,0,,-해 보자!\N-좋소!
 Dialogue: 0,0:11:50.88,0:11:52.49,Default,en,0,0,0,,-Let's do this!\N-Right!
-Comment: 0,0:11:54.06,0:12:01.04,Default,ja,0,0,0,,
+Comment: 0,0:11:54.06,0:12:01.04,Default,ja,0,0,0,,バイケンのクサリガマにムサシは勝つことができるのか。疾風怒濤の後半を待て！
 Dialogue: 0,0:11:54.06,0:12:01.04,Default,ko,0,0,0,,바이켄의 쿠사리가마에 무사시는 이길 수 있을 것인가? 질풍노도의 후반을 기다려라!
 Dialogue: 0,0:11:54.06,0:12:01.04,Default,en,0,0,0,,Will Musashi defeat Baiken's {\i1}kusarigama{\i0}? Wait for the stormy latter half!
-Comment: 0,0:12:15.29,0:12:17.17,Default,ja,0,0,0,,
+Comment: 0,0:12:15.29,0:12:17.17,Default,ja,0,0,0,,あんちゃん！頑張れ！
 Dialogue: 0,0:12:15.29,0:12:17.17,Default,ko,0,0,0,,형! 힘내!
 Dialogue: 0,0:12:15.29,0:12:17.17,Default,en,0,0,0,,Brother! Do your best!
-Comment: 0,0:12:17.24,0:12:18.12,Default,ja,0,0,0,,
+Comment: 0,0:12:17.24,0:12:18.12,Default,ja,0,0,0,,あんちゃん！
 Dialogue: 0,0:12:17.24,0:12:18.12,Default,ko,0,0,0,,형!
 Dialogue: 0,0:12:17.24,0:12:18.12,Default,en,0,0,0,,Brother!
-Comment: 0,0:12:18.20,0:12:19.42,Default,ja,0,0,0,,
+Comment: 0,0:12:18.20,0:12:19.42,Default,ja,0,0,0,,静かに！
 Dialogue: 0,0:12:18.20,0:12:19.42,Default,ko,0,0,0,,조용히!
 Dialogue: 0,0:12:18.20,0:12:19.42,Default,en,0,0,0,,Silence!
-Comment: 0,0:12:19.88,0:12:21.34,Default,ja,0,0,0,,
+Comment: 0,0:12:19.88,0:12:21.34,Default,ja,0,0,0,,これは真剣勝負ばい。
 Dialogue: 0,0:12:19.88,0:12:21.34,Default,ko,0,0,0,,이건 진검승부다!
 Dialogue: 0,0:12:19.88,0:12:21.34,Default,en,0,0,0,,This is a real match!
-Comment: 0,0:12:22.36,0:12:24.60,Default,ja,0,0,0,,
+Comment: 0,0:12:22.36,0:12:24.60,Default,ja,0,0,0,,気持ちが乱れるから声出すな！
 Dialogue: 0,0:12:22.36,0:12:24.60,Default,ko,0,0,0,,정신이 어지럽혀지니 목소리 내지 마라!
 Dialogue: 0,0:12:22.36,0:12:24.60,Default,en,0,0,0,,Don't say a thing or I'll be distracted!
-Comment: 0,0:12:26.36,0:12:29.06,Default,ja,0,0,0,,
+Comment: 0,0:12:26.36,0:12:29.06,Default,ja,0,0,0,,これから手出し一切無用ばい！分かったな！
 Dialogue: 0,0:12:26.36,0:12:29.06,Default,ko,0,0,0,,지금부터 무슨 소리를 해도 일체 소용없다! 알겠나!
 Dialogue: 0,0:12:26.36,0:12:29.06,Default,en,0,0,0,,From now on, keep quiet and stay put! Understood?
-Comment: 0,0:12:29.61,0:12:30.16,Default,ja,0,0,0,,
+Comment: 0,0:12:29.61,0:12:30.16,Default,ja,0,0,0,,はい！
 Dialogue: 0,0:12:29.61,0:12:30.16,Default,ko,0,0,0,,네!
 Dialogue: 0,0:12:29.61,0:12:30.16,Default,en,0,0,0,,Got it!
-Comment: 0,0:12:30.27,0:12:33.73,Default,ja,0,0,0,,
+Comment: 0,0:12:30.27,0:12:33.73,Default,ja,0,0,0,,あんちゃんが死んだらあたいたちも死ぬからね！
 Dialogue: 0,0:12:30.27,0:12:33.73,Default,ko,0,0,0,,형이 죽으면 우리도 죽으니까 말이야!
 Dialogue: 0,0:12:30.27,0:12:33.73,Default,en,0,0,0,,We'll die if you die!
-Comment: 0,0:12:34.01,0:12:35.69,Default,ja,0,0,0,,
+Comment: 0,0:12:34.01,0:12:35.69,Default,ja,0,0,0,,やりにくいな。。
 Dialogue: 0,0:12:34.01,0:12:35.69,Default,ko,0,0,0,,참 어렵소...
 Dialogue: 0,0:12:34.01,0:12:35.69,Default,en,0,0,0,,Oh dear...
-Comment: 0,0:12:35.98,0:12:39.18,Default,ja,0,0,0,,
+Comment: 0,0:12:35.98,0:12:39.18,Default,ja,0,0,0,,ムサシ！勝負に遠慮はいらぬばい！行くぞ！
 Dialogue: 0,0:12:35.98,0:12:39.18,Default,ko,0,0,0,,무사시! 승부에 봐주기란 없다! 간다!
 Dialogue: 0,0:12:35.98,0:12:39.18,Default,en,0,0,0,,Musashi! There will be no going easy on you! Let's do this!
-Comment: 0,0:12:39.53,0:12:40.27,Default,ja,0,0,0,,
+Comment: 0,0:12:39.53,0:12:40.27,Default,ja,0,0,0,,おうとも！
 Dialogue: 0,0:12:39.53,0:12:40.27,Default,ko,0,0,0,,물론!
 Dialogue: 0,0:12:39.53,0:12:40.27,Default,en,0,0,0,,Of course!
-Comment: 0,0:13:36.12,0:13:37.72,Default,ja,0,0,0,,
+Comment: 0,0:13:36.12,0:13:37.72,Default,ja,0,0,0,,ものすごい馬鹿力！
 Dialogue: 0,0:13:36.12,0:13:37.72,Default,ko,0,0,0,,{\i1}무서운 뚝심!
 Dialogue: 0,0:13:36.12,0:13:37.72,Default,en,0,0,0,,{\i1}What a strength!
-Comment: 0,0:13:40.04,0:13:44.10,Default,ja,0,0,0,,
+Comment: 0,0:13:40.04,0:13:44.10,Default,ja,0,0,0,,このままではやられる。どうしたらいいんだす、どうしたら。
 Dialogue: 0,0:13:40.04,0:13:44.10,Default,ko,0,0,0,,{\i1}이대로는 당하오. 이걸 어째야, 이걸...
 Dialogue: 0,0:13:40.04,0:13:44.10,Default,en,0,0,0,,{\i1}This isn't good. What should I do-{\i0}dasu{\i1}, what should I...
-Comment: 0,0:13:46.22,0:13:48.80,Default,ja,0,0,0,,
-Dialogue: 0,0:13:46.22,0:13:48.80,Default,ko,0,0,0,,제 몸을 희생할 때야말로 불리에서 벗어날 수 있다.
-Dialogue: 0,0:13:46.22,0:13:48.80,Default,en,0,0,0,,You may get out of difficulties only by sacrificing your own body.
-Comment: 0,0:13:48.94,0:13:54.89,Default,ja,0,0,0,,
+Comment: 0,0:13:46.22,0:13:48.80,Default,ja,0,0,0,,身を捨ててこそ浮かぶ瀬もあれ。
+Dialogue: 0,0:13:46.22,0:13:48.80,Default,ko,0,0,0,,몸을 내던짐으로써만 셈평이 펴일 수도 있을 것이다.
+Dialogue: 0,0:13:46.22,0:13:48.80,Default,en,0,0,0,,There are some rapids that you may float once you throw yourself in.\N(Fortune favors the bold.)
+Comment: 0,0:13:48.94,0:13:54.89,Default,ja,0,0,0,,一生を犠牲にするだけの覚悟があって、初めて勝つのを生み出すことができるのじゃ。
 Dialogue: 0,0:13:48.94,0:13:54.89,Default,ko,0,0,0,,자신의 목숨을 희생할 정도의 각오가 있으면 처음으로 승리를 얻을 수 있게 된다.
 Dialogue: 0,0:13:48.94,0:13:54.89,Default,en,0,0,0,,If you're prepared enough to throw your life for it, you will take your first victory.
-Comment: 0,0:13:58.80,0:13:59.44,Default,ja,0,0,0,,
+Comment: 0,0:13:58.80,0:13:59.44,Default,ja,0,0,0,,あんちゃん！
 Dialogue: 0,0:13:58.80,0:13:59.44,Default,ko,0,0,0,,형!
 Dialogue: 0,0:13:58.80,0:13:59.44,Default,en,0,0,0,,Brother!
-Comment: 0,0:14:00.72,0:14:01.60,Default,ja,0,0,0,,
+Comment: 0,0:14:00.72,0:14:01.60,Default,ja,0,0,0,,しまった！
 Dialogue: 0,0:14:00.72,0:14:01.60,Default,ko,0,0,0,,저런!
 Dialogue: 0,0:14:00.72,0:14:01.60,Default,en,0,0,0,,No!
-Comment: 0,0:14:14.81,0:14:16.59,Default,ja,0,0,0,,
+Comment: 0,0:14:14.81,0:14:16.59,Default,ja,0,0,0,,いった、何するんだス！
 Dialogue: 0,0:14:14.81,0:14:16.59,Default,ko,0,0,0,,아야, 뭔 짓이오!
 Dialogue: 0,0:14:14.81,0:14:16.59,Default,en,0,0,0,,Ouch! What are you doing-{\i1}dasu{\i0}?!
-Comment: 0,0:14:21.90,0:14:23.09,Default,ja,0,0,0,,
+Comment: 0,0:14:21.90,0:14:23.09,Default,ja,0,0,0,,やめるばい！
 Dialogue: 0,0:14:21.90,0:14:23.09,Default,ko,0,0,0,,멈춰라!
 Dialogue: 0,0:14:21.90,0:14:23.09,Default,en,0,0,0,,Stop that!
-Comment: 0,0:14:27.12,0:14:29.13,Default,ja,0,0,0,,
+Comment: 0,0:14:27.12,0:14:29.13,Default,ja,0,0,0,,やめろと言うのが分からぬか！
 Dialogue: 0,0:14:27.12,0:14:29.13,Default,ko,0,0,0,,멈추라는 말이 안 들리나!
 Dialogue: 0,0:14:27.12,0:14:29.13,Default,en,0,0,0,,Don't you hear me?!
-Comment: 0,0:14:32.81,0:14:34.09,Default,ja,0,0,0,,
+Comment: 0,0:14:32.81,0:14:34.09,Default,ja,0,0,0,,おらの負けばい。
 Dialogue: 0,0:14:32.81,0:14:34.09,Default,ko,0,0,0,,내가 졌다.
 Dialogue: 0,0:14:32.81,0:14:34.09,Default,en,0,0,0,,I lost.
-Comment: 0,0:14:34.51,0:14:37.31,Default,ja,0,0,0,,
+Comment: 0,0:14:34.51,0:14:37.31,Default,ja,0,0,0,,いや、まだ勝負はついてないでござるだス。
 Dialogue: 0,0:14:34.51,0:14:37.31,Default,ko,0,0,0,,아니오. 아직 승부가 나지 않았소.
 Dialogue: 0,0:14:34.51,0:14:37.31,Default,en,0,0,0,,No. The match isn't over yet-{\i1}dasu{\i0}.
-Comment: 0,0:14:37.63,0:14:41.87,Default,ja,0,0,0,,
+Comment: 0,0:14:37.63,0:14:41.87,Default,ja,0,0,0,,いやいや、手出し無用と言っておいたのに、このようなことになって。
 Dialogue: 0,0:14:37.63,0:14:41.87,Default,ko,0,0,0,,아니아니, 손을 대지 말라고 말했는데 이렇게 되었으니...
 Dialogue: 0,0:14:37.63,0:14:41.87,Default,en,0,0,0,,No, that's not it. I've told them not to butt into the match, but...
-Comment: 0,0:14:42.56,0:14:46.16,Default,ja,0,0,0,,
+Comment: 0,0:14:42.56,0:14:46.16,Default,ja,0,0,0,,これも兄であるこのバイケンの不徳の致すところでばい。
 Dialogue: 0,0:14:42.56,0:14:46.16,Default,ko,0,0,0,,이것도 형인 이 바이켄의 부덕의 소치이오.
 Dialogue: 0,0:14:42.56,0:14:46.16,Default,en,0,0,0,,This is also undesirable state brought about by my lack of virtue.
-Comment: 0,0:14:46.40,0:14:50.78,Default,ja,0,0,0,,
+Comment: 0,0:14:46.40,0:14:50.78,Default,ja,0,0,0,,そうじゃないって。兄弟の危機を救うのは当たり前だス。
 Dialogue: 0,0:14:46.40,0:14:50.78,Default,ko,0,0,0,,그런 것이 아니라 형제의 위기를 돕는 것은 당연하오!
 Dialogue: 0,0:14:46.40,0:14:50.78,Default,en,0,0,0,,No, it's reasonable to help a crisis of a sibling-{\i1}dasu{\i0}!
-Comment: 0,0:14:52.73,0:14:55.24,Default,ja,0,0,0,,
+Comment: 0,0:14:52.73,0:14:55.24,Default,ja,0,0,0,,あの事たちの気持ちがよくわかるだス。
 Dialogue: 0,0:14:52.73,0:14:55.24,Default,ko,0,0,0,,나는 저 아이들의 기분을 잘 이해하겠소.
 Dialogue: 0,0:14:52.73,0:14:55.24,Default,en,0,0,0,,I understand the feelings of those children-{\i1}dasu{\i0}.
-Comment: 0,0:14:55.66,0:15:03.10,Default,ja,0,0,0,,
+Comment: 0,0:14:55.66,0:15:03.10,Default,ja,0,0,0,,かたじけない。だが、兄弟に助けられたの実ばい。ということは、あのままだったら負けて。。。
 Dialogue: 0,0:14:55.66,0:15:03.10,Default,ko,0,0,0,,부끄럽다. 그러나 형제에게 구해진 것은 진실이다. 그 말인즉슨, 그대로라면 졌단 것이오.
 Dialogue: 0,0:14:55.66,0:15:03.10,Default,en,0,0,0,,I am ashamed. But it's a truth that my siblings helped me. That means, I would have been lost without their help.
-Comment: 0,0:15:03.45,0:15:05.05,Default,ja,0,0,0,,
+Comment: 0,0:15:03.45,0:15:05.05,Default,ja,0,0,0,,そりゃまだ分からないだス。
 Dialogue: 0,0:15:03.45,0:15:05.05,Default,ko,0,0,0,,그건 아직 모르오.
 Dialogue: 0,0:15:03.45,0:15:05.05,Default,en,0,0,0,,We don't know about that yet-{\i1}dasu{\i0}.
-Comment: 0,0:15:05.47,0:15:06.20,Default,ja,0,0,0,,
+Comment: 0,0:15:05.47,0:15:06.20,Default,ja,0,0,0,,しかし。。。
 Dialogue: 0,0:15:05.47,0:15:06.20,Default,ko,0,0,0,,그러나...
 Dialogue: 0,0:15:05.47,0:15:06.20,Default,en,0,0,0,,But...
-Comment: 0,0:15:07.55,0:15:09.63,Default,ja,0,0,0,,
+Comment: 0,0:15:07.55,0:15:09.63,Default,ja,0,0,0,,続きをやってみなければ分からないだス。
 Dialogue: 0,0:15:07.55,0:15:09.63,Default,ko,0,0,0,,계속하지 않으면 알 수 없오!
 Dialogue: 0,0:15:07.55,0:15:09.63,Default,en,0,0,0,,We won't know if we don't continue-{\i1}dasu{\i0}!
-Comment: 0,0:15:10.62,0:15:11.85,Default,ja,0,0,0,,
+Comment: 0,0:15:10.62,0:15:11.85,Default,ja,0,0,0,,あんたもくどい人ばい！
 Dialogue: 0,0:15:10.62,0:15:11.85,Default,ko,0,0,0,,너도 끈덕진 사람이다!
 Dialogue: 0,0:15:10.62,0:15:11.85,Default,en,0,0,0,,You are one tedious guy!
-Comment: 0,0:15:12.63,0:15:14.33,Default,ja,0,0,0,,
+Comment: 0,0:15:12.63,0:15:14.33,Default,ja,0,0,0,,そういうバイケンこそ！
 Dialogue: 0,0:15:12.63,0:15:14.33,Default,ko,0,0,0,,그런 바이켄이야말로!
 Dialogue: 0,0:15:12.63,0:15:14.33,Default,en,0,0,0,,Same goes for Baiken!
-Comment: 0,0:15:33.34,0:15:38.12,Default,ja,0,0,0,,
+Comment: 0,0:15:33.34,0:15:38.12,Default,ja,0,0,0,,何もおかずはないが、麦のおかゆだけはちゃんとあるから食ってくれ。
 Dialogue: 0,0:15:33.34,0:15:38.12,Default,ko,0,0,0,,아무 반찬도 없지만, 보리죽은 충분히 있으니까 맘껏 먹어라.
 Dialogue: 0,0:15:33.34,0:15:38.12,Default,en,0,0,0,,We don't have any side dishes, but you can have this barley porridge as much as you want.
-Comment: 0,0:15:38.97,0:15:44.09,Default,ja,0,0,0,,
+Comment: 0,0:15:38.97,0:15:44.09,Default,ja,0,0,0,,こうしてみんなで火を囲んで食べるのが最高のおかずだス。うまいだス。
 Dialogue: 0,0:15:38.97,0:15:44.09,Default,ko,0,0,0,,이렇게 모두 불가에 둘러앉아 먹는 것이 최고의 반찬이오! 맛있소.
 Dialogue: 0,0:15:38.97,0:15:44.09,Default,en,0,0,0,,Eating around a fireplace with everyone is the best side dish-{\i1}dasu{\i0}! It tastes great-{\i1}dasu{\i0}.
-Comment: 0,0:15:45.36,0:15:47.31,Default,ja,0,0,0,,
+Comment: 0,0:15:45.36,0:15:47.31,Default,ja,0,0,0,,ムサシって変な人ね。
 Dialogue: 0,0:15:45.36,0:15:47.31,Default,ko,0,0,0,,무사시 이상한 사람이네.
 Dialogue: 0,0:15:45.36,0:15:47.31,Default,en,0,0,0,,Musashi's a weird guy.
-Comment: 0,0:15:47.74,0:15:48.43,Default,ja,0,0,0,,
+Comment: 0,0:15:47.74,0:15:48.43,Default,ja,0,0,0,,なぜだス。
 Dialogue: 0,0:15:47.74,0:15:48.43,Default,ko,0,0,0,,왜오?
 Dialogue: 0,0:15:47.74,0:15:48.43,Default,en,0,0,0,,Why-{\i1}dasu{\i0}?
-Comment: 0,0:15:48.88,0:15:54.51,Default,ja,0,0,0,,
+Comment: 0,0:15:48.88,0:15:54.51,Default,ja,0,0,0,,だって、日がおかずだなんて。あたい、火で焼いたものが食べたいわ。
 Dialogue: 0,0:15:48.88,0:15:54.51,Default,ko,0,0,0,,그러니까 불이 반찬이라니... 나, 불로 구운 게 먹고 싶어.
 Dialogue: 0,0:15:48.88,0:15:54.51,Default,en,0,0,0,,How can be a fire a side dish? I want something roasted.
-Comment: 0,0:15:54.80,0:15:57.98,Default,ja,0,0,0,,
+Comment: 0,0:15:54.80,0:15:57.98,Default,ja,0,0,0,,おかずが食べたいわ。梅干しでもいいから。
 Dialogue: 0,0:15:54.80,0:15:57.98,Default,ko,0,0,0,,반찬 먹고 싶어. 매실엿이라도 괜찮으니까.
 Dialogue: 0,0:15:54.80,0:15:57.98,Default,en,0,0,0,,I want a side dish. Even a few pickled plums would be enough.
-Comment: 0,0:15:58.60,0:16:01.43,Default,ja,0,0,0,,
+Comment: 0,0:15:58.60,0:16:01.43,Default,ja,0,0,0,,-オハル！\N-何よ、本当だもん。
 Dialogue: 0,0:15:58.60,0:16:01.43,Default,ko,0,0,0,,-오하루!\N-뭐, 사실인데!
 Dialogue: 0,0:15:58.60,0:16:01.43,Default,en,0,0,0,,-Oharu!\N-What? It's true!
-Comment: 0,0:16:01.77,0:16:09.10,Default,ja,0,0,0,,
+Comment: 0,0:16:01.77,0:16:09.10,Default,ja,0,0,0,,でもさ、梅干しがなくだって、梅干しのことを考えるだけで口の中が酸っぱくなっておかゆがおいしく食べられるよ！
 Dialogue: 0,0:16:01.77,0:16:09.10,Default,ko,0,0,0,,그래도 말야, 매실엿이 없어도 매실엿에 대해 생각하는 것만으로 입 안이 시큼해지고 죽을 맛있게 먹을 수 있게 돼!
 Dialogue: 0,0:16:01.77,0:16:09.10,Default,en,0,0,0,,But still, even without pickled plums, only by thinking about those, I can feel the sourness and eat the porridge deliciously!
-Comment: 0,0:16:14.51,0:16:24.86,Default,ja,0,0,0,,
+Comment: 0,0:16:14.51,0:16:24.86,Default,ja,0,0,0,,ムサシ。さっきはあんたが弟たちをかばってくれているのに、ボクデンの弟子だと聞いてその腕を試してみたくなり、勝負を挑んですまなかった。
 Dialogue: 0,0:16:14.51,0:16:24.86,Default,ko,0,0,0,,무사시. 아까는 네가 형제들을 감싸 주었는데, 보쿠덴의 제자라는 것을 듣고 그 실력을 시험해 보고 싶어져 승부를 보자고 해 미안했다.
 Dialogue: 0,0:16:14.51,0:16:18.45,Default,en,0,0,0,,Musashi, I have to apologize. You've covered for my siblings earlier in the day,
 Dialogue: 0,0:16:18.70,0:16:24.86,Default,en,0,0,0,,but after hearing from you that you're a student of Bokuden, I asked you for a match because I wanted to test your ability.
-Comment: 0,0:16:26.04,0:16:30.34,Default,ja,0,0,0,,
+Comment: 0,0:16:26.04,0:16:30.34,Default,ja,0,0,0,,とんでもないだス。おいらもクサリガマと戦って勉強になっただス。
 Dialogue: 0,0:16:26.04,0:16:30.34,Default,ko,0,0,0,,아니, 말도 안 되오. 나도 쿠사리가마로 싸워서 배울 수 있었소.
 Dialogue: 0,0:16:26.04,0:16:30.34,Default,en,0,0,0,,Nonsense-{\i1}dasu{\i0}. I could learn by fighting against an opponent with a {\i1}kusarigama{\i0}-{\i1}dasu{\i0}.
-Comment: 0,0:16:31.10,0:16:34.06,Default,ja,0,0,0,,
+Comment: 0,0:16:31.10,0:16:34.06,Default,ja,0,0,0,,それにしても面白い武器でござるだスな。
 Dialogue: 0,0:16:31.10,0:16:34.06,Default,ko,0,0,0,,그래도 흥미로운 무기이오.
 Dialogue: 0,0:16:31.10,0:16:34.06,Default,en,0,0,0,,Anyway, it's an interesting weapon-{\i1}dasu{\i0}.
-Comment: 0,0:16:34.48,0:16:35.55,Default,ja,0,0,0,,
+Comment: 0,0:16:34.48,0:16:35.55,Default,ja,0,0,0,,これでござるか。
 Dialogue: 0,0:16:34.48,0:16:35.55,Default,ko,0,0,0,,이것 말인가?
 Dialogue: 0,0:16:34.48,0:16:35.55,Default,en,0,0,0,,You mean this?
-Comment: 0,0:16:36.56,0:16:40.30,Default,ja,0,0,0,,
+Comment: 0,0:16:36.56,0:16:40.30,Default,ja,0,0,0,,ボクデン師匠もこんな武器があるとは教えてくれなかっただス。
 Dialogue: 0,0:16:36.56,0:16:40.30,Default,ko,0,0,0,,보쿠덴 스승님도 이런 무기가 있다고는 안 가르쳐 주셨소.
 Dialogue: 0,0:16:36.56,0:16:40.30,Default,en,0,0,0,,Master Bokuden didn't tell me about this weapon-{\i1}dasu{\i0}.
-Comment: 0,0:16:40.99,0:16:42.88,Default,ja,0,0,0,,
+Comment: 0,0:16:40.99,0:16:42.88,Default,ja,0,0,0,,あんちゃんが発明したんだもん！
 Dialogue: 0,0:16:40.99,0:16:42.88,Default,ko,0,0,0,,형이 발명했어!
 Dialogue: 0,0:16:40.99,0:16:42.88,Default,en,0,0,0,,My brother invented it!
-Comment: 0,0:16:43.30,0:16:44.52,Default,ja,0,0,0,,
+Comment: 0,0:16:43.30,0:16:44.52,Default,ja,0,0,0,,ほ、自分で？
 Dialogue: 0,0:16:43.30,0:16:44.52,Default,ko,0,0,0,,오, 직접?
 Dialogue: 0,0:16:43.30,0:16:44.52,Default,en,0,0,0,,Oh, by himself?
-Comment: 0,0:16:44.80,0:16:48.98,Default,ja,0,0,0,,
+Comment: 0,0:16:44.80,0:16:48.98,Default,ja,0,0,0,,実はおらたちはここからきたの法で百姓をやってたばい。
 Dialogue: 0,0:16:44.80,0:16:48.98,Default,ko,0,0,0,,사실 우리는 여기보다 북방에서 농사를 지어 왔다.
 Dialogue: 0,0:16:44.80,0:16:48.98,Default,en,0,0,0,,We've used to be farmers back at north from this place.
-Comment: 0,0:16:51.74,0:16:56.89,Default,ja,0,0,0,,
+Comment: 0,0:16:51.74,0:16:56.89,Default,ja,0,0,0,,この戦乱の世の中、汗水たらして作った作物や畑も、
 Dialogue: 0,0:16:51.74,0:16:56.89,Default,ko,0,0,0,,그 전란의 세상, 땀을 흘려 열심히 만든 농작물이나 밭도,
-Comment: 0,0:16:57.77,0:17:05.05,Default,ja,0,0,0,,
-Dialogue: 0,0:16:57.77,0:17:05.05,Default,ko,0,0,0,,몇 번이고 없어지며 전장으로 바뀌며 밟아 부수어지기도 하고, 우리 부모님도 죽임당하셨다.
 Dialogue: 0,0:16:51.74,0:16:56.89,Default,en,0,0,0,,During that turbulent age, the crops and farms we worked on by ourselves have been destroyed numerous times,
+Comment: 0,0:16:57.77,0:17:05.05,Default,ja,0,0,0,,いくどとなく戦場とかして踏みつぶされ、おらたちの両親も殺されたばい。
+Dialogue: 0,0:16:57.77,0:17:05.05,Default,ko,0,0,0,,몇 번이고 없어지며 전장으로 바뀌며 밟아 부수어지기도 하고, 우리 부모님도 죽임당하셨다.
 Dialogue: 0,0:16:57.77,0:17:05.05,Default,en,0,0,0,,and the fields were stamped, being used as battlefields, and our parents' lives were taken away.
-Comment: 0,0:17:14.67,0:17:15.66,Default,ja,0,0,0,,
+Comment: 0,0:17:14.67,0:17:15.66,Default,ja,0,0,0,,動くんじゃねぇ。
 Dialogue: 0,0:17:14.67,0:17:15.66,Default,ko,0,0,0,,움직이면 안 돼.
 Dialogue: 0,0:17:14.67,0:17:15.66,Default,en,0,0,0,,Don't move.
-Comment: 0,0:17:16.16,0:17:16.78,Default,ja,0,0,0,,
+Comment: 0,0:17:16.16,0:17:16.78,Default,ja,0,0,0,,じっとしてろ。
 Dialogue: 0,0:17:16.16,0:17:16.78,Default,ko,0,0,0,,가만히 있어.
 Dialogue: 0,0:17:16.16,0:17:16.78,Default,en,0,0,0,,Stay put.
-Comment: 0,0:17:17.29,0:17:19.21,Default,ja,0,0,0,,
+Comment: 0,0:17:17.29,0:17:19.21,Default,ja,0,0,0,,だって、父ちゃんと母ちゃんが！
 Dialogue: 0,0:17:17.29,0:17:19.21,Default,ko,0,0,0,,그래도 아빠하고 엄마가!
 Dialogue: 0,0:17:17.29,0:17:19.21,Default,en,0,0,0,,But our dad and mom are...
-Comment: 0,0:17:19.29,0:17:25.80,Default,ja,0,0,0,,
+Comment: 0,0:17:19.29,0:17:25.80,Default,ja,0,0,0,,今出ていくたって皆殺しばい！父ちゃん、母ちゃんの敵を打ちしたかったら、我慢するんだ！
 Dialogue: 0,0:17:19.29,0:17:25.80,Default,ko,0,0,0,,지금 나가면 다 함께 죽어! 아빠도 엄마도 원수를 갚고 싶으면 참아라!
 Dialogue: 0,0:17:19.29,0:17:25.80,Default,en,0,0,0,,We all die if you go out! If you want to avenge for our parents, keep down!
-Comment: 0,0:17:33.08,0:17:39.93,Default,ja,0,0,0,,
+Comment: 0,0:17:33.08,0:17:39.93,Default,ja,0,0,0,,今までの領主を倒し、新しい領主になった大名はよくぼけた残忍ひどいな男で、
 Dialogue: 0,0:17:33.08,0:17:39.93,Default,ko,0,0,0,,이전 영주를 쓰러뜨리고, 새로운 영주가 된 다이묘는 곧잘 까딱하는 잔인하고 끔찍한 남자로
-Dialogue: 0,0:17:33.08,0:17:39.93,Default,en,0,0,0,,A new daimyo overthrew the previous lord. This new daimyo is an easily flinching, cruel and horrible person
-Comment: 0,0:17:40.32,0:17:43.92,Default,ja,0,0,0,,
+Dialogue: 0,0:17:33.08,0:17:39.93,Default,en,0,0,0,,A new daimyō overthrew the previous lord. This new daimyō is an easily flinching, cruel and horrible person
+Comment: 0,0:17:40.32,0:17:43.92,Default,ja,0,0,0,,おらたちを荒れ地に追いやり、苛酷な労働をかして。。。
 Dialogue: 0,0:17:40.32,0:17:43.92,Default,ko,0,0,0,,우리를 황무지로 몰아서, 가혹한 노동을 시켜서...
 Dialogue: 0,0:17:40.32,0:17:43.92,Default,en,0,0,0,,who drove us to a wasteland and made us do work in a brutal environment.
-Comment: 0,0:17:47.97,0:17:53.04,Default,ja,0,0,0,,
+Comment: 0,0:17:47.97,0:17:53.04,Default,ja,0,0,0,,おら一人だったから責任を果たせず、よく鞭で打たれたばい。
 Dialogue: 0,0:17:47.97,0:17:53.04,Default,ko,0,0,0,,우리밖에 없었으니 책임을 다하지 못하고 곧잘 채찍으로 맞았다.
 Dialogue: 0,0:17:47.97,0:17:53.04,Default,en,0,0,0,,We alone were not enough to fulfill their demands, leaving us being often whipped.
-Comment: 0,0:17:53.88,0:17:58.14,Default,ja,0,0,0,,
+Comment: 0,0:17:53.88,0:17:58.14,Default,ja,0,0,0,,必死で手伝ってくれる弟や妹たちの傷だらけの手を見て
 Dialogue: 0,0:17:53.88,0:17:58.14,Default,ko,0,0,0,,필사적으로 도와준 형제자매의 상처투성이의 손을 보고
 Dialogue: 0,0:17:53.88,0:17:58.14,Default,en,0,0,0,,After seeing my hardworking siblings' hands full of wounds,
-Comment: 0,0:17:58.52,0:18:04.32,Default,ja,0,0,0,,
-Dialogue: 0,0:17:58.52,0:18:04.32,Default,ko,0,0,0,,나는 이 낫으로 한번에 더 많은 풀을 베면 어떨까 하고 생각하고
+Comment: 0,0:17:58.52,0:18:04.32,Default,ja,0,0,0,,おらはこの鎌でもっと一度にたくさんの草を刈れたらどうとつくづく思い、
+Dialogue: 0,0:17:58.52,0:18:04.32,Default,ko,0,0,0,,나는 이 낫으로 한번에 더 많은 풀을 베면 어떨까 곰곰히 생각하고
 Dialogue: 0,0:17:58.52,0:18:04.32,Default,en,0,0,0,,I tried to devise a way to cut more grasses at once with this sickle,
-Comment: 0,0:18:04.64,0:18:08.86,Default,ja,0,0,0,,
+Comment: 0,0:18:04.64,0:18:08.86,Default,ja,0,0,0,,そしてでっかい鎌を作ることを思いついたんばい。
 Dialogue: 0,0:18:04.64,0:18:08.86,Default,ko,0,0,0,,그래서 큰 낫을 만들 생각을 했다.
 Dialogue: 0,0:18:04.64,0:18:08.86,Default,en,0,0,0,,and decided to make a big sickle.
-Comment: 0,0:18:11.07,0:18:12.77,Default,ja,0,0,0,,
+Comment: 0,0:18:11.07,0:18:12.77,Default,ja,0,0,0,,ほら、貴様、立たんか！
 Dialogue: 0,0:18:11.07,0:18:12.77,Default,ko,0,0,0,,어이, 네이놈! 일어서라!
 Dialogue: 0,0:18:11.07,0:18:12.77,Default,en,0,0,0,,Hey, you! Stand up!
-Comment: 0,0:18:13.28,0:18:14.78,Default,ja,0,0,0,,
+Comment: 0,0:18:13.28,0:18:14.78,Default,ja,0,0,0,,どうか、お許しを！
 Dialogue: 0,0:18:13.28,0:18:14.78,Default,ko,0,0,0,,어떻게든 봐 주세요!
 Dialogue: 0,0:18:13.28,0:18:14.78,Default,en,0,0,0,,Please forgive us!
-Comment: 0,0:18:15.02,0:18:16.36,Default,ja,0,0,0,,
+Comment: 0,0:18:15.02,0:18:16.36,Default,ja,0,0,0,,邪魔だってするか！
 Dialogue: 0,0:18:15.02,0:18:16.36,Default,ko,0,0,0,,방해하지 마라!
 Dialogue: 0,0:18:15.02,0:18:16.36,Default,en,0,0,0,,Do not get in the way!
-Comment: 0,0:18:22.86,0:18:27.21,Default,ja,0,0,0,,
+Comment: 0,0:18:22.86,0:18:27.21,Default,ja,0,0,0,,その時ほど、おら、刀が欲しいと思ったことはなかったばい。
 Dialogue: 0,0:18:22.86,0:18:27.21,Default,ko,0,0,0,,나는 그 때 만큼이나 칼을 갖고 싶었던 적이 없었다.
 Dialogue: 0,0:18:22.86,0:18:27.21,Default,en,0,0,0,,I have never wanted a sword as much as back then.
-Comment: 0,0:18:27.90,0:18:33.06,Default,ja,0,0,0,,
+Comment: 0,0:18:27.90,0:18:33.06,Default,ja,0,0,0,,実はおら、そのころからひそかに一人で堅実の稽古をしていたばい。
 Dialogue: 0,0:18:27.90,0:18:33.06,Default,ko,0,0,0,,사실 그 때부터 몰래 혼자 검술 수련을 하고 있었다.
 Dialogue: 0,0:18:27.90,0:18:33.06,Default,en,0,0,0,,Actually, I've been practicing swordsmanship in secret.
-Comment: 0,0:18:33.44,0:18:39.47,Default,ja,0,0,0,,
+Comment: 0,0:18:33.44,0:18:39.47,Default,ja,0,0,0,,いつか立派な武芸者になって大名を倒し、親の仇を打ちたいと願って。
 Dialogue: 0,0:18:33.44,0:18:39.47,Default,ko,0,0,0,,언젠가 진짜 무예가가 되어 다이묘를 쓰러뜨리고 부모님의 원수를 갚고 싶다 빌며.
-Dialogue: 0,0:18:33.44,0:18:39.47,Default,en,0,0,0,,Wishing to become a real martial artist, take down the daimyo, and exact revenge for my parents.
-Comment: 0,0:18:40.38,0:18:45.72,Default,ja,0,0,0,,
+Dialogue: 0,0:18:33.44,0:18:39.47,Default,en,0,0,0,,Wishing to become a real martial artist, take down the daimyō, and exact revenge for my parents.
+Comment: 0,0:18:40.38,0:18:45.72,Default,ja,0,0,0,,だけど、肝心の刀が無ければ本物の戦いはできないだろう。
 Dialogue: 0,0:18:40.38,0:18:45.72,Default,ko,0,0,0,,그렇지만 제일 중요한 칼이 없다면 진짜 싸움은 불가능하니까.
 Dialogue: 0,0:18:40.38,0:18:45.72,Default,en,0,0,0,,But without the most important sword, a real fight is impossible.
-Comment: 0,0:18:50.14,0:18:51.33,Default,ja,0,0,0,,
+Comment: 0,0:18:50.14,0:18:51.33,Default,ja,0,0,0,,おらは考えたばい。
 Dialogue: 0,0:18:50.14,0:18:51.33,Default,ko,0,0,0,,난 생각했다.
 Dialogue: 0,0:18:50.14,0:18:51.33,Default,en,0,0,0,,I thought.
-Comment: 0,0:18:51.76,0:18:54.68,Default,ja,0,0,0,,
+Comment: 0,0:18:51.76,0:18:54.68,Default,ja,0,0,0,,あのでかい鎌を武器にできないかと。
 Dialogue: 0,0:18:51.76,0:18:54.68,Default,ko,0,0,0,,그 큰 낫을 무기로 어떻게 할 수 없을까 하고.
 Dialogue: 0,0:18:51.76,0:18:54.68,Default,en,0,0,0,,I thought to use that big sickle as a weapon.
-Comment: 0,0:18:55.10,0:19:00.72,Default,ja,0,0,0,,
+Comment: 0,0:18:55.10,0:19:00.72,Default,ja,0,0,0,,そしていろいろやってみて、鎌に分銅付きの鎖を付けることを考えつき、
 Dialogue: 0,0:18:55.10,0:19:00.72,Default,ko,0,0,0,,그리고 여러 시도 끝에 낫에 사슬을 달아 추를 붙이면 어떨까 하고 생각했다.
 Dialogue: 0,0:18:55.10,0:19:00.72,Default,en,0,0,0,,And I finally came up with an idea to attach a weight to the sickle using chains.
-Comment: 0,0:19:07.24,0:19:12.75,Default,ja,0,0,0,,
+Comment: 0,0:19:07.24,0:19:12.75,Default,ja,0,0,0,,いつしかおらはクサリガマを自由に操ることにはできるようになった。
 Dialogue: 0,0:19:07.24,0:19:12.75,Default,ko,0,0,0,,어느덧 나는 쿠사리가마를 자유롭게 쓸 수 있게 되었다.
 Dialogue: 0,0:19:07.24,0:19:12.75,Default,en,0,0,0,,One day, yielding {\i1}kusarigama{\i0} became natural enough.
-Comment: 0,0:19:17.95,0:19:23.49,Default,ja,0,0,0,,
-Dialogue: 0,0:19:17.95,0:19:23.49,Default,ko,0,0,0,,어떤 비바람이 강하게 치는 날 밤, 우리 형제는 국경을 넘어...
-Dialogue: 0,0:19:17.95,0:19:23.49,Default,en,0,0,0,,On one stormy night, we went over the state border and...
-Comment: 0,0:19:29.15,0:19:30.73,Default,ja,0,0,0,,
+Comment: 0,0:19:17.95,0:19:23.49,Default,ja,0,0,0,,ある雨風の強く叩きつける夜、おらたち兄弟は故郷を捨てて。。。
+Dialogue: 0,0:19:17.95,0:19:23.49,Default,ko,0,0,0,,어떤 비바람이 강하게 치는 날 밤, 우리 형제는 고향을 버리고...
+Dialogue: 0,0:19:17.95,0:19:23.49,Default,en,0,0,0,,On one stormy night, we abandoned our home.
+Comment: 0,0:19:29.15,0:19:30.73,Default,ja,0,0,0,,そうだったんだスか。
 Dialogue: 0,0:19:29.15,0:19:30.73,Default,ko,0,0,0,,그랬소이까...
 Dialogue: 0,0:19:29.15,0:19:30.73,Default,en,0,0,0,,I see...
-Comment: 0,0:19:31.10,0:19:38.56,Default,ja,0,0,0,,
+Comment: 0,0:19:31.10,0:19:38.56,Default,ja,0,0,0,,しかし、クサリガマが使えるようになったといっても、おらは本当に刀に勝てるかどうかいつも不安で、
 Dialogue: 0,0:19:31.10,0:19:38.56,Default,ko,0,0,0,,그러나 쿠사리가마를 잘 쓸 수 있게 되었다고 해도, 나는 정말로 칼을 이길 수 있을지 언제나 불안해서,
 Dialogue: 0,0:19:31.10,0:19:38.56,Default,en,0,0,0,,Despite that I became comfortable using {\i1}kusarigama{\i0}, I was always worried about being unable to defeat sword with it.
-Comment: 0,0:19:39.04,0:19:44.36,Default,ja,0,0,0,,
+Comment: 0,0:19:39.04,0:19:44.36,Default,ja,0,0,0,,それを弟たちが知っているもんだから失礼なことをしてしまったばい。
 Dialogue: 0,0:19:39.04,0:19:44.36,Default,ko,0,0,0,,그것을 형제들이 알고 있으니까 실례를 하고 말았소.
 Dialogue: 0,0:19:39.04,0:19:44.36,Default,en,0,0,0,,Knowing that, that's why my siblings stole your swords.
-Comment: 0,0:19:46.51,0:19:51.71,Default,ja,0,0,0,,
+Comment: 0,0:19:46.51,0:19:51.71,Default,ja,0,0,0,,いや、刀は確かに武士の魂。盗まれるほうが悪いだス。
 Dialogue: 0,0:19:46.51,0:19:51.71,Default,ko,0,0,0,,아니, 칼은 확실히 무사의 혼. 잃어버린 쪽의 잘못이오.
 Dialogue: 0,0:19:46.51,0:19:51.71,Default,en,0,0,0,,Nope. A sword definitely a spirit of a Martial Artist-{\i1}dasu{\i0}. It is my fault, for losing it-{\i1}dasu{\i0}.
-Comment: 0,0:19:52.17,0:19:54.94,Default,ja,0,0,0,,
+Comment: 0,0:19:52.17,0:19:54.94,Default,ja,0,0,0,,渇しても盗泉の水を飲まず。
 Dialogue: 0,0:19:52.17,0:19:54.94,Default,ko,0,0,0,,목이 말라도 도천의 물은 마시지 않는다.
-Dialogue: 0,0:19:52.17,0:19:58.30,Note,en,0,0,0,,(It is told that Confucius didn't drink from {\i1}Tousen{\i0}, 盜泉, literally {\i1}thief pond{\i0}, because of its name)
-Dialogue: 0,0:19:52.17,0:19:54.94,Default,en,0,0,0,,You don't drink from {\i1}Tousen{\i0} even when you're thirsty.
-Comment: 0,0:19:55.84,0:19:58.30,Default,ja,0,0,0,,
+Dialogue: 0,0:19:52.17,0:19:58.30,Note,en,0,0,0,,(It is told that Confucius didn't drink from {\i1}Tōsen{\i0}, 盜泉, literally {\i1}thief pond{\i0}, because of its name)
+Dialogue: 0,0:19:52.17,0:19:54.94,Default,en,0,0,0,,You do not drink from {\i1}Tōsen{\i0} even when you're thirsty.\N(Better starve than fatten on ill-gotten wealth.)
+Comment: 0,0:19:55.84,0:19:58.30,Default,ja,0,0,0,,これがおらたち兄弟の誓いばい。
 Dialogue: 0,0:19:55.84,0:19:58.30,Default,ko,0,0,0,,그것이 우리 형제의 맹새다.
 Dialogue: 0,0:19:55.84,0:19:58.30,Default,en,0,0,0,,That is the oath of our siblings.
-Comment: 0,0:19:58.89,0:20:00.91,Default,ja,0,0,0,,
+Comment: 0,0:19:58.89,0:20:00.91,Default,ja,0,0,0,,その誓いを破ったのだから。
 Dialogue: 0,0:19:58.89,0:20:00.91,Default,ko,0,0,0,,그 맹새를 깼으니까...
 Dialogue: 0,0:19:58.89,0:20:00.91,Default,en,0,0,0,,And as we broke our oath...
-Comment: 0,0:20:02.62,0:20:06.96,Default,ja,0,0,0,,
+Comment: 0,0:20:02.62,0:20:06.96,Default,ja,0,0,0,,その話はこのムサシに免じて、もうしないってことになったでござるだス。
 Dialogue: 0,0:20:02.62,0:20:06.96,Default,ko,0,0,0,,이건 이 무사시가 용서하고, 앞으로는 하지 않으면 되는 것이오.
 Dialogue: 0,0:20:02.62,0:20:06.96,Default,en,0,0,0,,I, Musashi, will forgive that, and all you have to do is keep the oath again-{\i1}dasu{\i0}.
-Comment: 0,0:20:07.15,0:20:09.65,Default,ja,0,0,0,,
+Comment: 0,0:20:07.15,0:20:09.65,Default,ja,0,0,0,,かたじけない。この音はいつか。
 Dialogue: 0,0:20:07.15,0:20:09.65,Default,ko,0,0,0,,면목이 없다. 이 은혜는 언젠가...
 Dialogue: 0,0:20:07.15,0:20:09.65,Default,en,0,0,0,,I feel ashamed. I will return the favor someday.
-Comment: 0,0:20:11.15,0:20:14.11,Default,ja,0,0,0,,
-Dialogue: 0,0:20:11.15,0:20:14.11,Default,ko,0,0,0,,그런 것보다도, 바이켄도 지팡구 무예 대회에...
-Dialogue: 0,0:20:11.15,0:20:14.11,Default,en,0,0,0,,More importantly, you should join Jipangu Martial Arts Competition...
-Comment: 0,0:20:14.40,0:20:17.85,Default,ja,0,0,0,,
+Comment: 0,0:20:10.94,0:20:14.11,Default,ja,0,0,0,,そんなことより、バイケンもジパング武芸大会に。。。
+Dialogue: 0,0:20:10.94,0:20:14.11,Default,ko,0,0,0,,그런 것보다도, 바이켄도 지팡구 무예 대회에...
+Dialogue: 0,0:20:10.94,0:20:14.11,Default,en,0,0,0,,More importantly, you should join Jipangu Martial Arts Competition...
+Comment: 0,0:20:14.40,0:20:17.85,Default,ja,0,0,0,,もちろん！それを{???}はげびに今日までやってきたんばい。
 Dialogue: 0,0:20:14.40,0:20:17.85,Default,ko,0,0,0,,물론! 그걸 위해 오늘까지 노력해 왔다!
 Dialogue: 0,0:20:14.40,0:20:17.85,Default,en,0,0,0,,Of course! I've been training for that to this day!
-Comment: 0,0:20:18.85,0:20:20.96,Default,ja,0,0,0,,
-Dialogue: 0,0:20:18.85,0:20:20.96,Default,ko,0,0,0,,또 하나 라이벌이 나타난 것이오!
-Dialogue: 0,0:20:18.85,0:20:20.96,Default,en,0,0,0,,I have a new rival-{\i1}dasu{\i0}!
-Comment: 0,0:20:21.26,0:20:23.90,Default,ja,0,0,0,,
+Comment: 0,0:20:18.66,0:20:20.96,Default,ja,0,0,0,,また一人ライバルが現れただスか。
+Dialogue: 0,0:20:18.66,0:20:20.96,Default,ko,0,0,0,,또 하나 라이벌이 나타난 것이오!
+Dialogue: 0,0:20:18.66,0:20:20.96,Default,en,0,0,0,,I have a new rival-{\i1}dasu{\i0}!
+Comment: 0,0:20:21.26,0:20:23.90,Default,ja,0,0,0,,優勝決定戦で会いたいもんばい。
 Dialogue: 0,0:20:21.26,0:20:23.90,Default,ko,0,0,0,,결승전에서 만나고 싶소!
 Dialogue: 0,0:20:21.26,0:20:23.90,Default,en,0,0,0,,I hope to see you in the final match!
-Comment: 0,0:20:24.14,0:20:26.16,Default,ja,0,0,0,,
+Comment: 0,0:20:24.14,0:20:26.16,Default,ja,0,0,0,,同感でござるだス。
 Dialogue: 0,0:20:24.14,0:20:26.16,Default,ko,0,0,0,,동감이오.
 Dialogue: 0,0:20:24.14,0:20:26.16,Default,en,0,0,0,,Agreed-{\i1}dasu{\i0}.
-Comment: 0,0:20:30.49,0:20:31.47,Default,ja,0,0,0,,
+Comment: 0,0:20:30.49,0:20:31.47,Default,ja,0,0,0,,おはようだス。
 Dialogue: 0,0:20:30.49,0:20:31.47,Default,ko,0,0,0,,좋은 아침이오!
 Dialogue: 0,0:20:30.49,0:20:31.47,Default,en,0,0,0,,Good morning-{\i1}dasu{\i0}!
-Comment: 0,0:20:32.00,0:20:32.65,Default,ja,0,0,0,,
+Comment: 0,0:20:32.00,0:20:32.65,Default,ja,0,0,0,,おはよう！
 Dialogue: 0,0:20:32.00,0:20:32.65,Default,ko,0,0,0,,일어났군!
 Dialogue: 0,0:20:32.00,0:20:32.65,Default,en,0,0,0,,Good morning.
-Comment: 0,0:20:33.74,0:20:35.66,Default,ja,0,0,0,,
-Dialogue: 0,0:20:33.74,0:20:35.66,Default,ko,0,0,0,,어라? 잇켄, 니켄, 오하루는?
-Dialogue: 0,0:20:33.74,0:20:35.66,Default,en,0,0,0,,Huh? Where are the children?
-Comment: 0,0:20:36.40,0:20:38.98,Default,ja,0,0,0,,
+Comment: 0,0:20:33.08,0:20:35.66,Default,ja,0,0,0,,あれ？イッケン、ニケン、オハルたちは？
+Dialogue: 0,0:20:33.08,0:20:35.66,Default,ko,0,0,0,,어라? 잇켄, 니켄, 오하루는?
+Dialogue: 0,0:20:33.08,0:20:35.66,Default,en,0,0,0,,Huh? Where are the children?
+Comment: 0,0:20:36.40,0:20:38.98,Default,ja,0,0,0,,畑に行って芋を掘って来るって。
 Dialogue: 0,0:20:36.40,0:20:38.98,Default,ko,0,0,0,,밭에 가서 감자를 캐 온대.
 Dialogue: 0,0:20:36.40,0:20:38.98,Default,en,0,0,0,,They went gather potatoes from the field.
-Comment: 0,0:20:40.19,0:20:45.76,Default,ja,0,0,0,,
+Comment: 0,0:20:40.19,0:20:45.76,Default,ja,0,0,0,,まだ、本当は収穫前なんだが、ムサシにおかずを食べさせてやりたいって言ってな。
 Dialogue: 0,0:20:40.19,0:20:45.76,Default,ko,0,0,0,,아직 사실은 다 자라진 않았지만, 무사시에게 반찬을 먹여주고 싶다며...
 Dialogue: 0,0:20:40.19,0:20:45.76,Default,en,0,0,0,,They aren't ripe yet, but they wanted to give you some real side dishes.
-Comment: 0,0:20:46.59,0:20:48.37,Default,ja,0,0,0,,
+Comment: 0,0:20:46.59,0:20:48.37,Default,ja,0,0,0,,いや、そんな気を使えなくても。
 Dialogue: 0,0:20:46.59,0:20:48.37,Default,ko,0,0,0,,이야, 그렇게까지 생각해주지 않아도...
 Dialogue: 0,0:20:46.59,0:20:48.37,Default,en,0,0,0,,They're too kind for me...
-Comment: 0,0:20:48.60,0:20:50.38,Default,ja,0,0,0,,
+Comment: 0,0:20:48.60,0:20:50.38,Default,ja,0,0,0,,あんちゃん！大変だ！
 Dialogue: 0,0:20:48.60,0:20:50.38,Default,ko,0,0,0,,형! 큰일이야!
 Dialogue: 0,0:20:48.60,0:20:50.38,Default,en,0,0,0,,Brother! We have a problem!
-Comment: 0,0:20:50.49,0:20:51.07,Default,ja,0,0,0,,
+Comment: 0,0:20:50.49,0:20:51.07,Default,ja,0,0,0,,どうした！
 Dialogue: 0,0:20:50.49,0:20:51.07,Default,ko,0,0,0,,왜 그러나!
 Dialogue: 0,0:20:50.49,0:20:51.07,Default,en,0,0,0,,What is it?!
-Comment: 0,0:20:51.26,0:20:54.56,Default,ja,0,0,0,,
+Comment: 0,0:20:51.26,0:20:54.56,Default,ja,0,0,0,,どこかの侍がおらたちの畑を踏み荒らして！
 Dialogue: 0,0:20:51.26,0:20:54.56,Default,ko,0,0,0,,뭔 사무라이가 우리 밭을 마구 짓밟고 있어!
 Dialogue: 0,0:20:51.26,0:20:54.56,Default,en,0,0,0,,Some samurai is stamping on our field!
-Comment: 0,0:20:55.40,0:20:56.17,Default,ja,0,0,0,,
+Comment: 0,0:20:55.40,0:20:56.17,Default,ja,0,0,0,,なに？！
 Dialogue: 0,0:20:55.40,0:20:56.17,Default,ko,0,0,0,,뭐라?!
 Dialogue: 0,0:20:55.40,0:20:56.17,Default,en,0,0,0,,What?!
-Comment: 0,0:20:58.62,0:21:01.11,Default,ja,0,0,0,,
+Comment: 0,0:20:58.62,0:21:01.11,Default,ja,0,0,0,,貴様ら！どけどけ！
 Dialogue: 0,0:20:58.62,0:21:01.11,Default,ko,0,0,0,,네이놈들! 저리 비켜라!
 Dialogue: 0,0:20:58.62,0:21:01.11,Default,en,0,0,0,,You bastards! Get lost!
-Comment: 0,0:21:01.63,0:21:05.06,Default,ja,0,0,0,,
+Comment: 0,0:21:01.63,0:21:05.06,Default,ja,0,0,0,,そこはおらたちの畑だ！踏み荒らすんでないばい！
 Dialogue: 0,0:21:01.63,0:21:05.06,Default,ko,0,0,0,,거긴 우리의 밭이다! 짓밟아 망치지 마라!
 Dialogue: 0,0:21:01.63,0:21:05.06,Default,en,0,0,0,,You're on our field! Do not trample down!
-Comment: 0,0:21:05.36,0:21:08.03,Default,ja,0,0,0,,
+Comment: 0,0:21:05.36,0:21:08.03,Default,ja,0,0,0,,虫けらめ。やれ！
 Dialogue: 0,0:21:05.36,0:21:08.03,Default,ko,0,0,0,,벌레같은 놈. 쳐라!
 Dialogue: 0,0:21:05.36,0:21:08.03,Default,en,0,0,0,,How annoying. Get him!
-Comment: 0,0:21:16.64,0:21:19.82,Default,ja,0,0,0,,
+Comment: 0,0:21:16.64,0:21:19.82,Default,ja,0,0,0,,ムサシ！{???}ひによって助太刀するでござるだス！
 Dialogue: 0,0:21:16.64,0:21:19.82,Default,ko,0,0,0,,무사시! 불과 같이 도우러 가오!
 Dialogue: 0,0:21:16.64,0:21:19.82,Default,en,0,0,0,,Musashi! Now going to help, like a blaze-{\i1}dasu{\i0}!
-Comment: 0,0:21:24.51,0:21:26.89,Default,ja,0,0,0,,
+Comment: 0,0:21:24.51,0:21:26.89,Default,ja,0,0,0,,いくら倒しても次から次へと！
 Dialogue: 0,0:21:24.51,0:21:26.89,Default,ko,0,0,0,,몇 번이고 쓰려뜨려도 다음에 또 다음!
 Dialogue: 0,0:21:24.51,0:21:26.89,Default,en,0,0,0,,No matter how much I take down, they just keep coming!
-Comment: 0,0:21:28.41,0:21:30.66,Default,ja,0,0,0,,
+Comment: 0,0:21:28.41,0:21:30.66,Default,ja,0,0,0,,よし、大将をやっつけてやるだス！
 Dialogue: 0,0:21:28.41,0:21:30.66,Default,ko,0,0,0,,좋아, 대장을 쓰러뜨리겠소!
 Dialogue: 0,0:21:28.41,0:21:30.66,Default,en,0,0,0,,Then I'll take down the head of them!
-Comment: 0,0:21:31.26,0:21:32.84,Default,ja,0,0,0,,
+Comment: 0,0:21:31.26,0:21:32.84,Default,ja,0,0,0,,おのれ、小童！
 Dialogue: 0,0:21:31.26,0:21:32.84,Default,ko,0,0,0,,네이놈! 잡았다!
 Dialogue: 0,0:21:31.26,0:21:32.84,Default,en,0,0,0,,Got you, you brat!
-Comment: 0,0:21:33.31,0:21:34.16,Default,ja,0,0,0,,
+Comment: 0,0:21:33.31,0:21:34.16,Default,ja,0,0,0,,なに？！
 Dialogue: 0,0:21:33.31,0:21:34.16,Default,ko,0,0,0,,뭐라?!
 Dialogue: 0,0:21:33.31,0:21:34.16,Default,en,0,0,0,,What?!
-Comment: 0,0:21:42.25,0:21:43.69,Default,ja,0,0,0,,
+Comment: 0,0:21:42.25,0:21:43.69,Default,ja,0,0,0,,逃げろ！
 Dialogue: 0,0:21:42.25,0:21:43.69,Default,ko,0,0,0,,도망쳐!
 Dialogue: 0,0:21:42.25,0:21:43.69,Default,en,0,0,0,,Run away!
-Comment: 0,0:21:44.08,0:21:46.62,Default,ja,0,0,0,,
-Dialogue: 0,0:21:44.08,0:21:46.62,Default,ko,0,0,0,,해냈어!
-Dialogue: 0,0:21:44.08,0:21:46.62,Default,en,0,0,0,,We did it!
-Comment: 0,0:21:51.76,0:21:58.02,Default,ja,0,0,0,,
+Comment: 0,0:21:44.08,0:21:46.62,Default,ja,0,0,0,,万歳！万歳！
+Dialogue: 0,0:21:44.08,0:21:46.62,Default,ko,0,0,0,,만세! 만세!
+Dialogue: 0,0:21:44.08,0:21:46.62,Default,en,0,0,0,,Hooray! Hooray!
+Comment: 0,0:21:51.76,0:21:58.02,Default,ja,0,0,0,,ジパング武芸大会での再開を約して、ムサシは一足先にエドトピアを目指す。
 Dialogue: 0,0:21:51.76,0:21:58.02,Default,ko,0,0,0,,지팡구 무예대회에서 재회를 약속하고 무사시는 한 발 먼저 에도토피아를 꿈꾼다.
 Dialogue: 0,0:21:51.76,0:21:58.02,Default,en,0,0,0,,Promising to meet again in Jipangu Martial Arts Competition, Musashi heads first to Edotopia.
-Comment: 0,0:21:58.63,0:22:05.05,Default,ja,0,0,0,,
+Comment: 0,0:21:58.63,0:22:05.05,Default,ja,0,0,0,,それにしても、バイケン、クサリガマ、人物も面白ければ武器もまた面白い。
 Dialogue: 0,0:21:58.63,0:22:05.05,Default,ko,0,0,0,,그래도 바이켄의 쿠사리가마, 인물도 흥미롭고 무기도 또 흥미롭다.
 Dialogue: 0,0:21:58.63,0:22:05.05,Default,en,0,0,0,,Still, Baiken is interesting and his kusarigama is again, interesting.
-Comment: 0,0:22:05.31,0:22:06.91,Default,ja,0,0,0,,
+Comment: 0,0:22:05.31,0:22:06.91,Default,ja,0,0,0,,ムサシは思うのだった。
 Dialogue: 0,0:22:05.31,0:22:06.91,Default,ko,0,0,0,,무사시는 생각했다.
 Dialogue: 0,0:22:05.31,0:22:06.91,Default,en,0,0,0,,Musashi thought.
-Comment: 0,0:22:07.48,0:22:16.97,Default,ja,0,0,0,,
+Comment: 0,0:22:07.48,0:22:16.97,Default,ja,0,0,0,,世の中は広い。その広い世の中には個性も強ければ腕も強い武芸者がまだまだ多くいるに違いない。
 Dialogue: 0,0:22:07.48,0:22:16.97,Default,ko,0,0,0,,세상은 넓다. 그 넓은 세상에는 개성도 강하며 가슴도 강한 무예가가 아직 많이 있을 것이라고.
 Dialogue: 0,0:22:07.48,0:22:16.97,Default,en,0,0,0,,The world is broad. There still are a lot of martial artists with strong personalities and strong heart.
-Comment: 0,0:22:17.36,0:22:22.64,Default,ja,0,0,0,,
+Comment: 0,0:22:17.36,0:22:22.64,Default,ja,0,0,0,,未知なるものへの挑戦に！若き武芸者の心は踊る。
 Dialogue: 0,0:22:17.36,0:22:22.64,Default,ko,0,0,0,,미지의 상대에게 도전으로! 어린 무예가의 가슴이 뛰었다.
 Dialogue: 0,0:22:17.36,0:22:22.64,Default,en,0,0,0,,He will challenge unknown opponents! The young martial artist's heart was throbbing.
 Dialogue: 0,0:22:43.05,0:22:45.09,SongED1,ED1!Lyric01,0,0,0,,カラのポケットに　ツキが
@@ -760,20 +759,20 @@ Dialogue: 0,0:23:23.30,0:23:27.55,SongED1,ED1!Lyric10,0,0,0,,しっぽを振っ�
 Dialogue: 0,0:23:28.97,0:23:38.48,SongED1,ED1!Lyric11,0,0,0,,てなもんだ　のーてんきに行こう
 Dialogue: 0,0:23:38.98,0:23:46.95,SongED1,ED1!Lyric12,0,0,0,,未来も　てなもんさ　あしたが　ほら
 Dialogue: 0,0:23:47.20,0:23:52.79,SongED1,ED1!Lyric13,0,0,0,,両手ひろげて　笑ってるぜ
-Comment: 0,0:24:05.85,0:24:12.75,Default,ja,0,0,0,,
+Comment: 0,0:24:05.85,0:24:12.75,Default,ja,0,0,0,,エドトピアを目指す途中、けがをして鳩を助けたばっかりに、とんでもない連中に狙われる波面になっただス。
 Dialogue: 0,0:24:05.85,0:24:12.75,Default,ko,0,0,0,,에도토피아에 향하던 도중, 상처를 입은 비둘기를 구했을 뿐인데, 말도 안 되는 패거리에게 노려지는 처지가 되었소.
 Dialogue: 0,0:24:05.85,0:24:12.75,Default,en,0,0,0,,I've helped a wounded dove on the way to Edotopia, and I ended up being chased by some terrible bunch-{\i1}dasu{\i0}.
-Comment: 0,0:24:13.34,0:24:20.42,Default,ja,0,0,0,,
+Comment: 0,0:24:13.34,0:24:20.42,Default,ja,0,0,0,,その名も闇の支配者、ハンゾウ！恐ろしい忍者軍団と死闘に、ライバルのコジローまでも巻き込まれっちまっただス。
 Dialogue: 0,0:24:13.34,0:24:20.42,Default,ko,0,0,0,,그 이름도 밤의 지배자, 한조! 무서운 닌자 군단과의 격투 후 라이벌 코지로까지도 휩쓸리고 말았소.
 Dialogue: 0,0:24:13.34,0:24:20.42,Default,en,0,0,0,,Their boss is Hanzō, the ruler of night! After a fight against frightening ninja corps, my rival Kojirō is now involved-{\i1}dasu{\i0}.
-Comment: 0,0:24:21.36,0:24:23.97,Default,ja,0,0,0,,
+Comment: 0,0:24:21.36,0:24:23.97,Default,ja,0,0,0,,次回！悪のハンゾウ、忍びよるだス。
 Dialogue: 0,0:24:21.36,0:24:23.97,Default,ko,0,0,0,,다음 이야기! 악의 한조, 살며서 다가오오!
 Dialogue: 0,0:24:21.36,0:24:23.97,Default,en,0,0,0,,Next story! Evil Hanzō Creeps-{\i1}dasu{\i0}.
-Comment: 0,0:24:24.67,0:24:27.82,Default,ja,0,0,0,,
+Comment: 0,0:24:24.67,0:24:27.82,Default,ja,0,0,0,,疾風怒濤の活躍を見るだス！
 Dialogue: 0,0:24:24.67,0:24:27.82,Default,ko,0,0,0,,질풍노도의 활약을 보시오!
 Dialogue: 0,0:24:24.67,0:24:27.82,Default,en,0,0,0,,Be sure to check out the next stormy story-{\i1}dasu{\i0}!
 Dialogue: 0,0:24:27.82,0:24:31.74,NoteOnAnime,ko,60,0,60,,{\an7}다음 이야기
-Comment: 0,0:24:27.82,0:24:31.74,TitleEP,ja,0,0,70,,
+Comment: 0,0:24:27.82,0:24:31.74,TitleEP,ja,0,0,70,,悪のハンゾウ、忍びよるだス
 Dialogue: 0,0:24:27.82,0:24:31.74,TitleEP,ko,0,0,70,,악의 한조, 살며시 다가오오
 Dialogue: 0,0:24:27.82,0:24:31.74,NoteOnAnime,ko,0,60,30,,{\an3\fs32}기대하세요!
 Dialogue: 0,0:24:27.82,0:24:31.74,NoteOnAnime,en,60,0,60,,{\an7}Next Episode
