@@ -110,7 +110,7 @@ Dialogue: 0,0:03:27.80,0:03:30.60,Default,en,0,0,0,,This is one gloomy inn-{\i1}
 Comment: 0,0:03:30.82,0:03:32.82,Default,ja,0,0,0,,なんだ、ムサシ。怖いのか？
 Dialogue: 0,0:03:30.82,0:03:32.82,Default,ko,0,0,0,,뭐냐, 무사시. 무섭냐?
 Dialogue: 0,0:03:30.82,0:03:32.82,Default,en,0,0,0,,What is it, Musashi? Are you scared?
-Comment: 0,0:03:32.98,0:03:34.74,Default,ja,0,0,0,,そ、そんなことはないダス！
+Comment: 0,0:03:32.98,0:03:34.74,Default,ja,0,0,0,,そ、そんなことはないだス！
 Dialogue: 0,0:03:32.98,0:03:34.74,Default,ko,0,0,0,,그, 그런 건 아니오!
 Dialogue: 0,0:03:32.98,0:03:34.74,Default,en,0,0,0,,T- that's not it-{\i1}dasu{\i0}!
 Comment: 0,0:03:34.93,0:03:36.90,Default,ja,0,0,0,,だけど、膝が震えてるわよ。
@@ -134,7 +134,7 @@ Dialogue: 0,0:04:15.53,0:04:17.25,Default,en,0,0,0,,Aren't you a coward, Musashi
 Comment: 0,0:04:17.64,0:04:23.95,Default,ja,0,0,0,,ち、ちがうだす、今のは。うわ、～だ！いったんだすよ。
 Dialogue: 0,0:04:17.64,0:04:23.95,Default,ko,0,0,0,,아, 아니오. 방금 그건 우와, 겨우 요리가 나왔다! 이었을 뿐이오.
 Dialogue: 0,0:04:17.64,0:04:23.95,Default,en,0,0,0,,N- no, that isn't it-{\i1}dasu{\i0}. I was just like, "Wow, the food is finally here!"-{\i1}dasu{\i0}!
-Comment: 0,0:04:23.95,0:04:28.20,Default,ja,0,0,0,,ああ、マジたびれただす！さあ、思いっきり食べるダス。。。
+Comment: 0,0:04:23.95,0:04:28.20,Default,ja,0,0,0,,ああ、マジたびれただす！さあ、思いっきり食べるだス。。。
 Dialogue: 0,0:04:23.95,0:04:28.20,Default,ko,0,0,0,,아, 정말 배고팠소! 잔뜩 먹겠...소...
 Dialogue: 0,0:04:23.95,0:04:28.20,Default,en,0,0,0,,I was so hungry-{\i1}dasu{\i0}! I'll eat as much as... I... wanted-{\i1}dasu{\i0}...
 Comment: 0,0:04:30.53,0:04:32.50,Default,ja,0,0,0,,こ、これぼっちしかないんだすか。
@@ -212,7 +212,7 @@ Dialogue: 0,0:06:28.37,0:06:30.66,Default,en,0,0,0,,Then you go take ghosts down
 Comment: 0,0:06:30.99,0:06:35.91,Default,ja,0,0,0,,私はセンヒメ様の護衛をするのが指名。それ以上でも、それ以下でもない。
 Dialogue: 0,0:06:30.99,0:06:35.91,Default,ko,0,0,0,,나는 센히메 님을 호위하는 게 사명. 그 이상도 이하도 아니다.
 Dialogue: 0,0:06:30.99,0:06:35.91,Default,en,0,0,0,,My objective is to protect Senhime. Nothing more or less than that.
-Comment: 0,0:06:36.17,0:06:37.93,Default,ja,0,0,0,,やっぱコジローも怖いダス。
+Comment: 0,0:06:36.17,0:06:37.93,Default,ja,0,0,0,,やっぱコジローも怖いだス。
 Dialogue: 0,0:06:36.17,0:06:37.93,Default,ko,0,0,0,,역시 코지로도 겁에 질렸소.
 Dialogue: 0,0:06:36.17,0:06:37.93,Default,en,0,0,0,,I see that you're scared too, Kojirō-{\i1}dasu{\i0}.
 Comment: 0,0:06:42.22,0:06:48.57,Default,ja,0,0,0,,ああ、こんな時は決まって幽霊が出るでございます。やったごゆっくり。
@@ -269,10 +269,10 @@ Dialogue: 0,0:07:38.61,0:07:40.03,Default,en,0,0,0,,Thank you for this!
 Comment: 0,0:07:40.89,0:07:41.72,Default,ja,0,0,0,,あ、あら？
 Dialogue: 0,0:07:40.89,0:07:41.72,Default,ko,0,0,0,,어, 어라?
 Dialogue: 0,0:07:40.89,0:07:41.72,Default,en,0,0,0,,H- huh?
-Comment: 0,0:07:45.38,0:07:48.48,Default,ja,0,0,0,,あら、いつの間にあんなところに行ったダスか。
+Comment: 0,0:07:45.38,0:07:48.48,Default,ja,0,0,0,,あら、いつの間にあんなところに行っただスか。
 Dialogue: 0,0:07:45.38,0:07:48.48,Default,ko,0,0,0,,어라, 못 본 새에 저기까지 갔소.
 Dialogue: 0,0:07:45.38,0:07:48.48,Default,en,0,0,0,,Huh, it moved that far while I wasn't looking at-{\i1}dasu{\i0}.
-Comment: 0,0:07:49.81,0:07:54.28,Default,ja,0,0,0,,あら？ほら、待だス！全く生きのいい団子ダスな。
+Comment: 0,0:07:49.81,0:07:54.28,Default,ja,0,0,0,,あら？ほら、待だス！全く生きのいい団子だスな。
 Dialogue: 0,0:07:49.81,0:07:54.28,Default,ko,0,0,0,,어라? 어이, 멈추시오! 거 참 활기찬 단고오!
 Dialogue: 0,0:07:49.81,0:07:54.28,Default,en,0,0,0,,Huh? Hey, stop-{\i1}dasu{\i0}! You're one active {\i1}dango{\i0}s!
 Comment: 0,0:07:55.65,0:07:58.94,Default,ja,0,0,0,,もう、ムサシたら、やっぱり怖がって逃げちゃってもんね。
@@ -296,7 +296,7 @@ Dialogue: 0,0:08:07.85,0:08:09.85,Default,en,0,0,0,,No, something looks very wro
 Comment: 0,0:08:10.00,0:08:11.54,Default,ja,0,0,0,,うん？・後を追いましょう。
 Dialogue: 0,0:08:10.00,0:08:11.54,Default,ko,0,0,0,,-어?\N-따라갑시다.
 Dialogue: 0,0:08:10.00,0:08:11.54,Default,en,0,0,0,,-Huh?\N-Let's follow him.
-Comment: 0,0:08:17.62,0:08:21.62,Default,ja,0,0,0,,あれ、お団子ちゃん、どこに隠れたダスか。。。
+Comment: 0,0:08:17.62,0:08:21.62,Default,ja,0,0,0,,あれ、お団子ちゃん、どこに隠れただスか。。。
 Dialogue: 0,0:08:17.62,0:08:21.62,Default,ko,0,0,0,,거 참, 단고쨩 어디로 숨었소...
 Dialogue: 0,0:08:17.62,0:08:21.62,Default,en,0,0,0,,I wonder where did that {\i1}dango{\i0}-chan hide to.
 Comment: 0,0:08:21.72,0:08:24.30,Default,ja,0,0,0,,よ、ムサシ！久しぶりだな！
@@ -323,7 +323,7 @@ Dialogue: 0,0:08:46.20,0:08:50.38,Default,en,0,0,0,,It's been a long time, and t
 Comment: 0,0:08:50.76,0:08:54.44,Default,ja,0,0,0,,??????????????? イシマツさん、生きてるころからもうこんじがあったら。。。
 Dialogue: 0,0:08:50.76,0:08:54.44,Default,ko,0,0,0,,이시마츠 씨, 살아 있을 때부터 이런 느낌이었으니...
 Dialogue: 0,0:08:50.76,0:08:54.44,Default,en,0,0,0,,Mr. Ishimatsu, you haven't changed at all from when you were living...
-Comment: 0,0:08:54.44,0:08:57.84,Default,ja,0,0,0,,やっぱり道に迷って成仏できなかったダスか。
+Comment: 0,0:08:54.44,0:08:57.84,Default,ja,0,0,0,,やっぱり道に迷って成仏できなかっただスか。
 Dialogue: 0,0:08:54.44,0:08:57.84,Default,ko,0,0,0,,역시 길을 잃어서 성불 못한 것이오?
 Dialogue: 0,0:08:54.44,0:08:57.84,Default,en,0,0,0,,Did you get lost and couldn't rest in peace-{\i1}dasu{\i0}?
 Comment: 0,0:08:58.21,0:09:02.82,Default,ja,0,0,0,,やろう！あの世へ行く道なんて間違いのない～一歩道だい！
@@ -353,7 +353,7 @@ Dialogue: 0,0:09:24.49,0:09:26.59,Default,en,0,0,0,,You're right-{\i1}dasu{\i0}!
 Comment: 0,0:09:27.96,0:09:32.74,Default,ja,0,0,0,,あの時、お前がこいうかけなけりゃおら、死なずに住んだんだよな。
 Dialogue: 0,0:09:27.96,0:09:32.74,Default,ko,0,0,0,,그 때, 니가 그 짓거리 안 했으면 난 안 죽고 살아 있었겠지.
 Dialogue: 0,0:09:27.96,0:09:32.74,Default,en,0,0,0,,If you didn't mess up back then, I would be living instead of being dead.
-Comment: 0,0:09:37.44,0:09:40.22,Default,ja,0,0,0,,あの時は本当にすまないことしたダス。
+Comment: 0,0:09:37.44,0:09:40.22,Default,ja,0,0,0,,あの時は本当にすまないことしただス。
 Dialogue: 0,0:09:37.44,0:09:40.22,Default,ko,0,0,0,,그 때는 정말 미안했소.
 Dialogue: 0,0:09:37.44,0:09:40.22,Default,en,0,0,0,,I am really sorry about what happened back then-{\i1}dasu{\i0}.
 Comment: 0,0:09:40.57,0:09:43.52,Default,ja,0,0,0,,だけどよ、今じゃみんないい想い出だぜ！
@@ -362,7 +362,7 @@ Dialogue: 0,0:09:40.57,0:09:43.52,Default,en,0,0,0,,But you know, it's all good 
 Comment: 0,0:09:44.22,0:09:49.51,Default,ja,0,0,0,,どうだい、ムサシ！またあの時のように二人で面白うかしく旅を～じゃねぇか！
 Dialogue: 0,0:09:44.22,0:09:49.51,Default,ko,0,0,0,,어떠냐, 무사시! 다시 그 때처럼 둘이서 즐겁게 여행할 생각 없냐!
 Dialogue: 0,0:09:44.22,0:09:49.51,Default,en,0,0,0,,How's this, Musashi? Wouldn't you like to travel by two with me like how we did back then?
-Comment: 0,0:09:49.51,0:09:53.24,Default,ja,0,0,0,,だ、だけど！おいら、死ぬのはやっぱり怖いダス。
+Comment: 0,0:09:49.51,0:09:53.24,Default,ja,0,0,0,,だ、だけど！おいら、死ぬのはやっぱり怖いだス。
 Dialogue: 0,0:09:49.51,0:09:53.24,Default,ko,0,0,0,,그, 그래도! 나, 죽는 건 역시 무섭소.
 Dialogue: 0,0:09:49.51,0:09:53.24,Default,en,0,0,0,,B- but! Dying is still scary-{\i1}dasu{\i0}...
 Comment: 0,0:09:53.56,0:09:59.89,Default,ja,0,0,0,,ちぇ、意気地ねぇ奴だぜ！だったら俺も一緒に死んでやるからね。そ]れなら文句ないだろう？
@@ -377,7 +377,7 @@ Dialogue: 0,0:10:03.13,0:10:04.69,Default,en,0,0,0,,Alright! Then let's hurry!
 Comment: 0,0:10:10.54,0:10:15.47,Default,ja,0,0,0,,じゃあ、俺が掛け声をするから、一、二の三で飛び降りるだぜ。
 Dialogue: 0,0:10:10.54,0:10:15.47,Default,ko,0,0,0,,그럼 내가 수를 셀 테니까, 하나, 둘, 셋 하면 뛰어내리자!
 Dialogue: 0,0:10:10.54,0:10:15.47,Default,en,0,0,0,,I'll count; let's jump off when I say one, two, and three!
-Comment: 0,0:10:15.47,0:10:16.41,Default,ja,0,0,0,,分かったダス！
+Comment: 0,0:10:15.47,0:10:16.41,Default,ja,0,0,0,,分かっただス！
 Dialogue: 0,0:10:15.47,0:10:16.41,Default,ko,0,0,0,,알겠소!
 Dialogue: 0,0:10:15.47,0:10:16.41,Default,en,0,0,0,,Got it-{\i1}dasu{\i0}!
 Comment: 0,0:10:17.20,0:10:18.97,Default,ja,0,0,0,,じゃ、行くぞ！一
@@ -395,7 +395,7 @@ Dialogue: 0,0:10:23.48,0:10:25.32,Default,en,0,0,0,,Are you okay, Mr. Ishimatsu?
 Comment: 0,0:10:25.32,0:10:31.03,Default,ja,0,0,0,,ああ、お、俺のことなんか気にしないで！さっさと飛び降りばよかったのに。
 Dialogue: 0,0:10:25.32,0:10:31.03,Default,ko,0,0,0,,아, 나, 나는 신경쓰지 마라! 바로 뛰어내렸으면 좋았을 텐데.
 Dialogue: 0,0:10:25.32,0:10:31.03,Default,en,0,0,0,,Erm, f- forget about me! It could have been better if you jumped down right away.
-Comment: 0,0:10:31.20,0:10:35.21,Default,ja,0,0,0,,いやいや、もうイシマツさんを一人きりなんてできないダスよ！
+Comment: 0,0:10:31.20,0:10:35.21,Default,ja,0,0,0,,いやいや、もうイシマツさんを一人きりなんてできないだスよ！
 Dialogue: 0,0:10:31.20,0:10:35.21,Default,ko,0,0,0,,아니아니, 더는 이시마츠 씨를 혼자 있도록 냅둘 수는 없소!
 Dialogue: 0,0:10:31.20,0:10:35.21,Default,en,0,0,0,,No, I can't let Mr. Ishimatsu be alone and be lonely!
 Comment: 0,0:10:35.21,0:10:36.86,Default,ja,0,0,0,,???????????????????????? にちひなやつだ！
@@ -542,7 +542,7 @@ Dialogue: 0,0:13:27.58,0:13:31.17,Default,en,0,0,0,,You know... I don't want to 
 Comment: 0,0:13:31.52,0:13:34.57,Default,ja,0,0,0,,あの時食った団子はうまかったよな！
 Dialogue: 0,0:13:31.52,0:13:34.57,Default,ko,0,0,0,,그 때 먹은 단고는 맛있었지...
 Dialogue: 0,0:13:31.52,0:13:34.57,Default,en,0,0,0,,The {\i1}dango{\i0}s that we ate back then was great...
-Comment: 0,0:13:34.57,0:13:36.17,Default,ja,0,0,0,,うまかったダス！
+Comment: 0,0:13:34.57,0:13:36.17,Default,ja,0,0,0,,うまかっただス！
 Dialogue: 0,0:13:34.57,0:13:36.17,Default,ko,0,0,0,,맛있었소!
 Dialogue: 0,0:13:34.57,0:13:36.17,Default,en,0,0,0,,It was great-{\i1}dasu{\i0}!
 Comment: 0,0:13:36.38,0:13:40.55,Default,ja,0,0,0,,あの時と同じようにこの感動を俺はお前に分けてやりたいんだ。
@@ -584,10 +584,10 @@ Dialogue: 0,0:14:08.53,0:14:14.57,Default,en,0,0,0,,Uh, that is... M- Musashi, I
 Comment: 0,0:14:14.57,0:14:15.56,Default,ja,0,0,0,,やめにしねぇか。
 Dialogue: 0,0:14:14.57,0:14:15.56,Default,ko,0,0,0,,관두자.
 Dialogue: 0,0:14:14.57,0:14:15.56,Default,en,0,0,0,,Please don't do that.
-Comment: 0,0:14:15.97,0:14:19.09,Default,ja,0,0,0,,死んでしまえば好きも嫌いも関係ないダスよ！
+Comment: 0,0:14:15.97,0:14:19.09,Default,ja,0,0,0,,死んでしまえば好きも嫌いも関係ないだスよ！
 Dialogue: 0,0:14:15.97,0:14:19.09,Default,ko,0,0,0,,죽을 거라면 좋고 싫고 관계 없소!
 Dialogue: 0,0:14:15.97,0:14:19.09,Default,en,0,0,0,,If you're gonna die, your preferences don't matter-{\i1}dasu{\i0}!
-Comment: 0,0:14:19.56,0:14:20.49,Default,ja,0,0,0,,行くダス！
+Comment: 0,0:14:19.56,0:14:20.49,Default,ja,0,0,0,,行くだス！
 Dialogue: 0,0:14:19.56,0:14:20.49,Default,ko,0,0,0,,가소!
 Dialogue: 0,0:14:19.56,0:14:20.49,Default,en,0,0,0,,Let's go-{\i1}dasu{\i0}!
 Comment: 0,0:14:20.49,0:14:25.12,Default,ja,0,0,0,,じゃ、じゃなよ、からく縛ってすばっと手が抜けるようにしてくれねぇか。
@@ -599,10 +599,10 @@ Dialogue: 0,0:14:25.12,0:14:25.84,Default,en,0,0,0,,No way-{\i1}dasu{\i0}.
 Comment: 0,0:14:26.13,0:14:31.31,Default,ja,0,0,0,,じゃ、じゃよ、せめてもう少し落ちても平気なところから飛び降りないか。
 Dialogue: 0,0:14:26.13,0:14:31.31,Default,ko,0,0,0,,그, 그럼, 좀만 사알짝 떨어질 수 있도록 좀 안심되는 곳에서 떨어지지 않을래?
 Dialogue: 0,0:14:26.13,0:14:31.31,Default,en,0,0,0,,T- then, wouldn't you like to fall from somewhere more relaxing that we can fall more softly?
-Comment: 0,0:14:31.64,0:14:33.33,Default,ja,0,0,0,,それじゃ死ねないダスよ！
+Comment: 0,0:14:31.64,0:14:33.33,Default,ja,0,0,0,,それじゃ死ねないだスよ！
 Dialogue: 0,0:14:31.64,0:14:33.33,Default,ko,0,0,0,,그러면 못 죽소!
 Dialogue: 0,0:14:31.64,0:14:33.33,Default,en,0,0,0,,Then we can't die!
-Comment: 0,0:14:33.45,0:14:36.20,Default,ja,0,0,0,,もういい加減に観念するでござるダス！
+Comment: 0,0:14:33.45,0:14:36.20,Default,ja,0,0,0,,もういい加減に観念するでござるだス！
 Dialogue: 0,0:14:33.45,0:14:36.20,Default,ko,0,0,0,,어른답게 포기하고 단념하시오!
 Dialogue: 0,0:14:33.45,0:14:36.20,Default,en,0,0,0,,Give it up like an adult!
 Comment: 0,0:14:36.20,0:14:39.00,Default,ja,0,0,0,,ば、ばか！やめろ！
@@ -611,7 +611,7 @@ Dialogue: 0,0:14:36.20,0:14:39.00,Default,en,0,0,0,,I- idiot! Stop it!
 Comment: 0,0:14:39.00,0:14:40.27,Default,ja,0,0,0,,じゃ、このガキ！
 Dialogue: 0,0:14:39.00,0:14:40.27,Default,ko,0,0,0,,이, 이 꼬맹이가!
 Dialogue: 0,0:14:39.00,0:14:40.27,Default,en,0,0,0,,Y- you brat!
-Comment: 0,0:14:43.48,0:14:45.68,Default,ja,0,0,0,,な、なにをするダス、イシマツさん！
+Comment: 0,0:14:43.48,0:14:45.68,Default,ja,0,0,0,,な、なにをするだス、イシマツさん！
 Dialogue: 0,0:14:43.48,0:14:45.68,Default,ko,0,0,0,,뭐, 뭔 짓이오, 이시마츠 씨!
 Dialogue: 0,0:14:43.48,0:14:45.68,Default,en,0,0,0,,W- what are you doing-{\i1}dasu{\i0}, Mr. Ishimatsu?!
 Comment: 0,0:14:52.78,0:14:53.96,Default,ja,0,0,0,,大丈夫か、ムサシ！
@@ -641,7 +641,7 @@ Dialogue: 0,0:15:13.20,0:15:18.39,Default,en,0,0,0,,If Ishimatsu really couldn't
 Comment: 0,0:15:19.02,0:15:21.95,Default,ja,0,0,0,,それが死んでいったともへの信の友情じゃないか！
 Dialogue: 0,0:15:19.02,0:15:21.95,Default,ko,0,0,0,,그게 죽은 친구에게의 참된 우정 아니냐!
 Dialogue: 0,0:15:19.02,0:15:21.95,Default,en,0,0,0,,Isn't that the true friendship to your dead friend?!
-Comment: 0,0:15:23.89,0:15:25.70,Default,ja,0,0,0,,あ、そうだったダス。
+Comment: 0,0:15:23.89,0:15:25.70,Default,ja,0,0,0,,あ、そうだっただス。
 Dialogue: 0,0:15:23.89,0:15:25.70,Default,ko,0,0,0,,아, 그렇소.
 Dialogue: 0,0:15:23.89,0:15:25.70,Default,en,0,0,0,,Yes, you're right-{\i1}dasu{\i0}.
 Comment: 0,0:15:31.98,0:15:39.81,Default,ja,0,0,0,,センヒメ様、少々気になっているのですが、どうもこの恐山、人々を近づけまえとしたように思えるのです。
@@ -662,7 +662,7 @@ Dialogue: 0,0:15:47.49,0:15:54.98,Default,en,0,0,0,,Musashi! I took your comrade
 Comment: 0,0:15:55.18,0:15:58.32,Default,ja,0,0,0,,なにこれ！やめて！やめて！
 Dialogue: 0,0:15:55.18,0:15:58.32,Default,ko,0,0,0,,뭐야, 이거! 관둬! 그만해!
 Dialogue: 0,0:15:55.18,0:15:58.32,Default,en,0,0,0,,What's this?! Let me go! Let me go!
-Comment: 0,0:15:58.52,0:16:03.98,Default,ja,0,0,0,,イシマツさん！寂しいだろうけど、三途の川は。。。一人で渡ってほしいダス。
+Comment: 0,0:15:58.52,0:16:03.98,Default,ja,0,0,0,,イシマツさん！寂しいだろうけど、三途の川は。。。一人で渡ってほしいだス。
 Dialogue: 0,0:15:58.52,0:16:03.98,Default,ko,0,0,0,,이시마츠 씨! 외로운 건 알겠는데 삼도내는 혼자서 건너길 바라오.
 Dialogue: 0,0:15:58.52,0:16:03.98,Default,en,0,0,0,,Mr. Ishimatsu! I get that you're lonely, but I want you to cross the Sanzu by yourself-{\i1}dasu{\i0}.
 Comment: 0,0:16:04.70,0:16:07.42,Default,ja,0,0,0,,あの時の団子はうまかったよな。
@@ -680,7 +680,7 @@ Dialogue: 0,0:16:15.40,0:16:18.96,Default,en,0,0,0,,What's this? Were the {\i1}d
 Comment: 0,0:16:19.17,0:16:23.38,Default,ja,0,0,0,,うまかったけれどそれよりももっとうまいパンチをおいらがくらっただす！
 Dialogue: 0,0:16:19.17,0:16:23.38,Default,ko,0,0,0,,맛있었지만 그것보다도 더 맛있는 펀치를 내가 주겠소!
 Dialogue: 0,0:16:19.17,0:16:23.38,Default,en,0,0,0,,It was great, but I will give you a greater punch-{\i1}dasu{\i0}!
-Comment: 0,0:16:24.41,0:16:27.71,Default,ja,0,0,0,,イシマツさんはおいらが成仏させてあげるダス！
+Comment: 0,0:16:24.41,0:16:27.71,Default,ja,0,0,0,,イシマツさんはおいらが成仏させてあげるだス！
 Dialogue: 0,0:16:24.41,0:16:27.71,Default,ko,0,0,0,,이시마츠 씨는 내가 성불해 주겠소!
 Dialogue: 0,0:16:24.41,0:16:27.71,Default,en,0,0,0,,I will have you rest in peace with my hands-{\i1}dasu{\i0}, Mr. Ishimatsu!
 Comment: 0,0:16:28.16,0:16:29.74,Default,ja,0,0,0,,そいつはありがとうよ！
@@ -770,7 +770,7 @@ Dialogue: 0,0:18:31.04,0:18:32.21,Default,en,0,0,0,,The world will be ours!
 Comment: 0,0:18:33.00,0:18:34.17,Default,ja,0,0,0,,天下を我らに！
 Dialogue: 0,0:18:33.00,0:18:34.17,Default,ko,0,0,0,,천하를 우리에게!
 Dialogue: 0,0:18:33.00,0:18:34.17,Default,en,0,0,0,,The world will be ours!
-Comment: 0,0:18:41.00,0:18:46.48,Default,ja,0,0,0,,人の心をもって遊ぶことはおろか、ゼネラルイエヤスにまで手をかけるとは許せんダス！
+Comment: 0,0:18:41.00,0:18:46.48,Default,ja,0,0,0,,人の心をもって遊ぶことはおろか、ゼネラルイエヤスにまで手をかけるとは許せんだス！
 Dialogue: 0,0:18:41.00,0:18:46.48,Default,ko,0,0,0,,인간의 마음을 가지고 노는 것도, 제너럴 이에야스에게까지 손을 뻗치는 건 용서할 수 없소!
 Dialogue: 0,0:18:41.00,0:18:46.48,Default,en,0,0,0,,Playing with humans' minds, and even trying to fiddle with General Ieyasu is unforgivable!
 Comment: 0,0:18:46.97,0:18:51.20,Default,ja,0,0,0,,ジュウベエさん、コジロー！あの呪術、なんとしてもそうちゅしてやるだす！
@@ -779,7 +779,7 @@ Dialogue: 0,0:18:46.97,0:18:51.20,Default,en,0,0,0,,Mr. Jūbē and Kojirō! We w
 Comment: 0,0:18:52.14,0:18:54.24,Default,ja,0,0,0,,～て、みんな！
 Dialogue: 0,0:18:52.14,0:18:54.24,Default,ko,0,0,0,,힘내, 모두!
 Dialogue: 0,0:18:52.14,0:18:54.24,Default,en,0,0,0,,Do your best, everyone!
-Comment: 0,0:18:55.68,0:18:58.90,Default,ja,0,0,0,,???????????????????? オニヒメ！貴様の～はおいらが許さんダス！
+Comment: 0,0:18:55.68,0:18:58.90,Default,ja,0,0,0,,???????????????????? オニヒメ！貴様の～はおいらが許さんだス！
 Dialogue: 0,0:18:55.68,0:18:58.90,Default,ko,0,0,0,,오니히메! 네놈의 악행은 내가 용서하지 않겠소!
 Dialogue: 0,0:18:55.68,0:18:58.90,Default,en,0,0,0,,Onihime! I will not forgive for what you did to me-{\i1}dasu{\i0}!
 Comment: 0,0:19:00.44,0:19:01.53,Default,ja,0,0,0,,邪魔だって無用！
@@ -791,7 +791,7 @@ Dialogue: 0,0:19:13.88,0:19:17.05,Default,en,0,0,0,,Most of all, you dared to pl
 Comment: 0,0:19:17.70,0:19:21.19,Default,ja,0,0,0,,ふん、そんなものを大事に考えてるお前がいけないのさ。
 Dialogue: 0,0:19:17.70,0:19:21.19,Default,ko,0,0,0,,흥, 그런 걸 소중하게 여긴 네 잘못이다.
 Dialogue: 0,0:19:17.70,0:19:21.19,Default,en,0,0,0,,Hmph, it's your fault for even treating those preciously.
-Comment: 0,0:19:21.33,0:19:23.26,Default,ja,0,0,0,,許さないでござるダス！
+Comment: 0,0:19:21.33,0:19:23.26,Default,ja,0,0,0,,許さないでござるだス！
 Dialogue: 0,0:19:21.33,0:19:23.26,Default,ko,0,0,0,,용서할 수 없소!
 Dialogue: 0,0:19:21.33,0:19:23.26,Default,en,0,0,0,,I will not forgive you-{\i1}dasu{\i0}!
 Comment: 0,0:19:24.52,0:19:27.13,Default,ja,0,0,0,,お前たち、一気にこいつらを蹴散らしておしまい！
@@ -803,7 +803,7 @@ Dialogue: 0,0:19:40.74,0:19:41.90,Default,en,0,0,0,,How impudent!
 Comment: 0,0:19:46.56,0:19:47.33,Default,ja,0,0,0,,ジュウベエさん！
 Dialogue: 0,0:19:46.56,0:19:47.33,Default,ko,0,0,0,,주베 씨!
 Dialogue: 0,0:19:46.56,0:19:47.33,Default,en,0,0,0,,Mr. Jūbē!
-Comment: 0,0:19:48.46,0:19:51.99,Default,ja,0,0,0,,くそ、そっちが竜巻ならこっちも竜巻で勝負ダス！
+Comment: 0,0:19:48.46,0:19:51.99,Default,ja,0,0,0,,くそ、そっちが竜巻ならこっちも竜巻で勝負だス！
 Dialogue: 0,0:19:48.46,0:19:51.99,Default,ko,0,0,0,,젠장, 그 쪽이 회오리라면 이 쪽에서도 회오리로 승부이오!
 Dialogue: 0,0:19:48.46,0:19:51.99,Default,en,0,0,0,,If you're going with a whirlwind, then I'm going with a whirlwind, too!
 Comment: 0,0:20:21.30,0:20:23.46,Default,ja,0,0,0,,二天一流、竜巻劍！
@@ -860,7 +860,7 @@ Dialogue: 0,0:22:02.13,0:22:03.89,Default,en,0,0,0,,It isn't scary when it's bri
 Comment: 0,0:22:03.89,0:22:09.59,Default,ja,0,0,0,,いや、そう言う問題は。。。ないだすね！・あのね、ムサシこのあたりのお墓には。。。
 Dialogue: 0,0:22:03.89,0:22:09.59,Default,ko,0,0,0,,-아니, 그런 문제가 아니오!\N-저기, 무사시! 이 주변에 있는 무덤에...
 Dialogue: 0,0:22:03.89,0:22:09.59,Default,en,0,0,0,,-No, that's not the problem-{\i1}dasu{\i0}!\N-Hey, Musashi! At a graveyard around this place...
-Comment: 0,0:22:09.59,0:22:11.93,Default,ja,0,0,0,,うわ！聞きたくないダス！
+Comment: 0,0:22:09.59,0:22:11.93,Default,ja,0,0,0,,うわ！聞きたくないだス！
 Dialogue: 0,0:22:09.59,0:22:11.93,Default,ko,0,0,0,,으악! 듣고 싶지 않소!
 Dialogue: 0,0:22:09.59,0:22:11.93,Default,en,0,0,0,,Ahhh! I don't want to listen-{\i1}dasu{\i0}!
 Comment: 0,0:22:13.68,0:22:22.14,Default,ja,0,0,0,,ムサシの心を惑わせた敵の攻撃は去った。ますます熾烈になるハンゾウの魔の手に行け行け、ムサシ！
@@ -891,7 +891,7 @@ Dialogue: 0,0:24:08.28,0:24:10.41,Default,en,0,0,0,,I don't feel so good because
 Comment: 0,0:24:10.64,0:24:15.42,Default,ja,0,0,0,,弱り目に祟り目、今度はからくりサメを操る海賊の～が現れただす。
 Dialogue: 0,0:24:10.64,0:24:15.42,Default,ko,0,0,0,,엎친 데 덮친 격으로 이번엔 카라쿠리 상어를 쓰는 해적, 오니고로시가 나타났소.
 Dialogue: 0,0:24:10.64,0:24:15.42,Default,en,0,0,0,,Misfortune comes after another; this time, Onigoroshi, who uses a Karakuri shark, has appeared-{\i1}dasu{\i0}.
-Comment: 0,0:24:15.78,0:24:19.56,Default,ja,0,0,0,,だいすけど手を繰り。おいらたちは一台回線に乗り出したダス。
+Comment: 0,0:24:15.78,0:24:19.56,Default,ja,0,0,0,,だいすけど手を繰り。おいらたちは一台回線に乗り出しただス。
 Dialogue: 0,0:24:15.78,0:24:19.56,Default,ko,0,0,0,,다이스케하고 손을 잡아, 우리는 한번 운송선에 타게 되었소.
 Dialogue: 0,0:24:15.78,0:24:19.56,Default,en,0,0,0,,With Daisuke, we rode on a transportation ship-{\i1}dasu{\i0}.
 Comment: 0,0:24:20.22,0:24:23.16,Default,ja,0,0,0,,次回！海は怖いなオニゴロシだす

@@ -266,7 +266,7 @@ Dialogue: 0,0:07:00.63,0:07:03.85,SongZenigatan,en,0,0,0,,I know democracy
 Comment: 0,0:07:04.48,0:07:10.19,SongZenigatan,ja,0,0,0,,おれが正義だ　ついて来い！
 Dialogue: 0,0:07:04.48,0:07:10.19,SongZenigatan,ko,0,0,0,,내가 정의다 따라와라!
 Dialogue: 0,0:07:04.48,0:07:10.19,SongZenigatan,en,0,0,0,,I'm the justice! Follow me!
-Comment: 0,0:07:15.36,0:07:17.71,Default,ja,0,0,0,,いえ、うらやましいダスな。
+Comment: 0,0:07:15.36,0:07:17.71,Default,ja,0,0,0,,いえ、うらやましいだスな。
 Dialogue: 0,0:07:15.36,0:07:17.71,Default,ko,0,0,0,,이야, 샘나오!
 Dialogue: 0,0:07:15.36,0:07:17.71,Default,en,0,0,0,,You're making me envious-{\i1}dasu{\i0}!
 Comment: 0,0:07:17.71,0:07:20.46,Default,ja,0,0,0,,でげしょう？昔はよかった！
@@ -358,7 +358,7 @@ Dialogue: 0,0:09:04.22,0:09:04.92,Default,en,0,0,0,,Oh, yeah?
 Comment: 0,0:09:05.46,0:09:08.50,Default,ja,0,0,0,,ムサシさん！あっしも後で追いかけだすから。
 Dialogue: 0,0:09:05.46,0:09:08.50,Default,ko,0,0,0,,무사시 씨! 나도 나중에 따라갈게요.
 Dialogue: 0,0:09:05.46,0:09:08.50,Default,en,0,0,0,,Mr. Musashi! I'll follow you later!
-Comment: 0,0:09:09.03,0:09:13.93,Default,ja,0,0,0,,はいダス！おいらがいるからには六道魔王なんか、物の数ではないだス！
+Comment: 0,0:09:09.03,0:09:13.93,Default,ja,0,0,0,,はいだス！おいらがいるからには六道魔王なんか、物の数ではないだス！
 Dialogue: 0,0:09:09.03,0:09:13.93,Default,ko,0,0,0,,알겠소! 내가 있는 이상 육도마왕 따위 문제가 안 되오!
 Dialogue: 0,0:09:09.03,0:09:13.93,Default,en,0,0,0,,Roger-{\i1}dasu{\i0}! Since I'm here, Rikudomaoh isn't a problem-{\i1}dasu{\i0}!
 Comment: 0,0:09:14.42,0:09:16.18,Default,ja,0,0,0,,頑張ってね、ムサシさん！
@@ -406,7 +406,7 @@ Dialogue: 0,0:10:03.42,0:10:04.08,Default,en,0,0,0,,Understood.
 Comment: 0,0:10:05.19,0:10:06.54,Default,ja,0,0,0,,いざ、出発！
 Dialogue: 0,0:10:05.19,0:10:06.54,Default,ko,0,0,0,,자, 출발!
 Dialogue: 0,0:10:05.19,0:10:06.54,Default,en,0,0,0,,Depart!
-Comment: 0,0:10:09.30,0:10:10.74,Default,ja,0,0,0,,頑張って行くダス。
+Comment: 0,0:10:09.30,0:10:10.74,Default,ja,0,0,0,,頑張って行くだス。
 Dialogue: 0,0:10:09.30,0:10:10.74,Default,ko,0,0,0,,힘내겠소.
 Dialogue: 0,0:10:09.30,0:10:10.74,Default,en,0,0,0,,We'll do our best-{\i1}dasu{\i0}!
 Comment: 0,0:10:16.82,0:10:19.94,Default,ja,0,0,0,,所詮姿を変えても無駄なことを。
@@ -479,7 +479,7 @@ Dialogue: 0,0:12:23.83,0:12:28.79,Eyecatch,en,0,0,0,,Karakuri Kengouden: Musashi
 Comment: 0,0:12:36.15,0:12:37.38,Default,ja,0,0,0,,打て！
 Dialogue: 0,0:12:36.15,0:12:37.38,Default,ko,0,0,0,,쏴라!
 Dialogue: 0,0:12:36.15,0:12:37.38,Default,en,0,0,0,,Open fire!
-Comment: 0,0:12:42.39,0:12:43.99,Default,ja,0,0,0,,船を出すダス！
+Comment: 0,0:12:42.39,0:12:43.99,Default,ja,0,0,0,,船を出すだス！
 Dialogue: 0,0:12:42.39,0:12:43.99,Default,ko,0,0,0,,배를 보내오!
 Dialogue: 0,0:12:42.39,0:12:43.99,Default,en,0,0,0,,Now sailing off-{\i1}dasu{\i0}!
 Comment: 0,0:13:05.56,0:13:06.37,Default,ja,0,0,0,,大砲か！
@@ -585,7 +585,7 @@ Dialogue: 0,0:15:29.88,0:15:31.43,Default,en,0,0,0,,{\i1}oh my god{\i0}!
 Comment: 0,0:15:32.26,0:15:33.67,Default,ja,0,0,0,,ど、どうしたの、いったい？
 Dialogue: 0,0:15:32.26,0:15:33.67,Default,ko,0,0,0,,뭔 일이야, 대체?
 Dialogue: 0,0:15:32.26,0:15:33.67,Default,en,0,0,0,,What's going on?
-Comment: 0,0:15:33.67,0:15:36.68,Default,ja,0,0,0,,よくわからないダス。今のうちに逃げるダス！
+Comment: 0,0:15:33.67,0:15:36.68,Default,ja,0,0,0,,よくわからないだス。今のうちに逃げるだス！
 Dialogue: 0,0:15:33.67,0:15:36.68,Default,ko,0,0,0,,잘 모르겠소. 이 틈에 달아나오!
 Dialogue: 0,0:15:33.67,0:15:36.68,Default,en,0,0,0,,I don't know-{\i1}dasu{\i0}. Let's run using this chance-{\i1}dasu{\i0}!
 Comment: 0,0:15:40.90,0:15:43.53,Default,ja,0,0,0,,己、裏切り者を追え！追わんか！
@@ -714,13 +714,13 @@ Dialogue: 0,0:19:13.53,0:19:16.24,Default,en,0,0,0,,How we are going to slip out
 Comment: 0,0:19:17.57,0:19:20.00,Default,ja,0,0,0,,ああ、戦車一大では勝ち目はないですからな。
 Dialogue: 0,0:19:17.57,0:19:20.00,Default,ko,0,0,0,,전차 하나로는 이길 턱이 없으니 말이죠.
 Dialogue: 0,0:19:17.57,0:19:20.00,Default,en,0,0,0,,We can't possibly win with only one tank.
-Comment: 0,0:19:20.55,0:19:23.83,Default,ja,0,0,0,,そうだス！みんなも戦車に乗せて逃げるダス！
+Comment: 0,0:19:20.55,0:19:23.83,Default,ja,0,0,0,,そうだス！みんなも戦車に乗せて逃げるだス！
 Dialogue: 0,0:19:20.55,0:19:23.83,Default,ko,0,0,0,,그렇소! 다들 전차에 태우고 달아나오!
 Dialogue: 0,0:19:20.55,0:19:23.83,Default,en,0,0,0,,That's it-{\i1}dasu{\i0}! We'll get everyone onto the tank and run-{\i1}dasu{\i0}!
 Comment: 0,0:19:24.03,0:19:26.87,Default,ja,0,0,0,,しかし、あの戦車には全員乗れないぜ。
 Dialogue: 0,0:19:24.03,0:19:26.87,Default,ko,0,0,0,,그래도 그 전차에 모두 탈 수 있는 건 아니야.
 Dialogue: 0,0:19:24.03,0:19:26.87,Default,en,0,0,0,,But it's not like everyone can get onto that tank.
-Comment: 0,0:19:27.10,0:19:30.25,Default,ja,0,0,0,,違うダス！おいらの考えを聞いてくれだす。]
+Comment: 0,0:19:27.10,0:19:30.25,Default,ja,0,0,0,,違うだス！おいらの考えを聞いてくれだす。]
 Dialogue: 0,0:19:27.10,0:19:30.25,Default,ko,0,0,0,,아니오! 내 생각을 들어 보시오!
 Dialogue: 0,0:19:27.10,0:19:30.25,Default,en,0,0,0,,No-{\i1}dasu{\i0}! Listen to my idea-{\i1}dasu{\i0}!
 Comment: 0,0:19:37.60,0:19:39.04,Default,ja,0,0,0,,シンゲン様！あれを！
@@ -762,13 +762,13 @@ Dialogue: 0,0:20:34.87,0:20:35.70,Default,en,0,0,0,,True-{\i1}dasu{\i0}!
 Comment: 0,0:20:36.52,0:20:38.79,Default,ja,0,0,0,,国王！お命しょうだいつかまってくれ！
 Dialogue: 0,0:20:36.52,0:20:38.79,Default,ko,0,0,0,,국왕! 목숨은 잘 가져가겠다!
 Dialogue: 0,0:20:36.52,0:20:38.79,Default,en,0,0,0,,King! I'll take your life!
-Comment: 0,0:20:39.45,0:20:43.54,Default,ja,0,0,0,,ちょっと待つダス！シンゲン！１：１の勝負を望むダス。
+Comment: 0,0:20:39.45,0:20:43.54,Default,ja,0,0,0,,ちょっと待つだス！シンゲン！１：１の勝負を望むだス。
 Dialogue: 0,0:20:39.45,0:20:43.54,Default,ko,0,0,0,,잠깐 기다리시오, 신겐! 1:1의 승부를 바라오!
 Dialogue: 0,0:20:39.45,0:20:43.54,Default,en,0,0,0,,Wait a moment-{\i1}dasu{\i0}! Shingen, I want an one-to-one fight-{\i1}dasu{\i0}!
 Comment: 0,0:20:43.95,0:20:44.56,Default,ja,0,0,0,,なに？！
 Dialogue: 0,0:20:43.95,0:20:44.56,Default,ko,0,0,0,,뭣이!?
 Dialogue: 0,0:20:43.95,0:20:44.56,Default,en,0,0,0,,What!?
-Comment: 0,0:20:47.38,0:20:50.54,Default,ja,0,0,0,,もしおいらが勝てば、おいらたちを無事に通すダス。
+Comment: 0,0:20:47.38,0:20:50.54,Default,ja,0,0,0,,もしおいらが勝てば、おいらたちを無事に通すだス。
 Dialogue: 0,0:20:47.38,0:20:50.54,Default,ko,0,0,0,,만약 내가 이기면 우리를 보내주시오!
 Dialogue: 0,0:20:47.38,0:20:50.54,Default,en,0,0,0,,If I win, let us just go-{\i1}dasu{\i0}!
 Comment: 0,0:20:50.88,0:20:51.90,Default,ja,0,0,0,,負けたら？
@@ -786,13 +786,13 @@ Dialogue: 0,0:20:58.23,0:21:00.14,Default,en,0,0,0,,I was just about to do that-
 Comment: 0,0:21:03.25,0:21:04.82,Default,ja,0,0,0,,できるな、ムサシ。
 Dialogue: 0,0:21:03.25,0:21:04.82,Default,ko,0,0,0,,꽤 하는구나, 무사시.
 Dialogue: 0,0:21:03.25,0:21:04.82,Default,en,0,0,0,,You're pretty good, Musashi.
-Comment: 0,0:21:05.26,0:21:06.81,Default,ja,0,0,0,,シンゲンこそダス。
+Comment: 0,0:21:05.26,0:21:06.81,Default,ja,0,0,0,,シンゲンこそだス。
 Dialogue: 0,0:21:05.26,0:21:06.81,Default,ko,0,0,0,,신겐이야말로이오.
 Dialogue: 0,0:21:05.26,0:21:06.81,Default,en,0,0,0,,Shingen, you too-{\i1}dasu{\i0}.
-Comment: 0,0:21:23.58,0:21:25.12,Default,ja,0,0,0,,もらったダス！
+Comment: 0,0:21:23.58,0:21:25.12,Default,ja,0,0,0,,もらっただス！
 Dialogue: 0,0:21:23.58,0:21:25.12,Default,ko,0,0,0,,잡았소!
 Dialogue: 0,0:21:23.58,0:21:25.12,Default,en,0,0,0,,I got you-{\i1}dasu{\i0}!
-Comment: 0,0:21:28.20,0:21:30.87,Default,ja,0,0,0,,卑怯だス！１：１の勝負ダス！
+Comment: 0,0:21:28.20,0:21:30.87,Default,ja,0,0,0,,卑怯だス！１：１の勝負だス！
 Dialogue: 0,0:21:28.20,0:21:30.87,Default,ko,0,0,0,,비겁하오! 1:1 승부이오!
 Dialogue: 0,0:21:28.20,0:21:30.87,Default,en,0,0,0,,That's cowardly! It's an one-to-one fight!
 Comment: 0,0:21:32.33,0:21:34.57,Default,ja,0,0,0,,そんなこと、わしは約束しておらぬぞ。
@@ -889,7 +889,7 @@ Dialogue: 0,0:24:04.61,0:24:07.92,Default,en,0,0,0,,Chasing Megaton Castle, we h
 Comment: 0,0:24:08.45,0:24:12.28,Default,ja,0,0,0,,ところが、オツルちゃんが後を追って来て、おせんちゃんと女の争い。
 Dialogue: 0,0:24:08.45,0:24:12.28,Default,ko,0,0,0,,그런데 오츠루가 뒤를 쫒아와서 센짱하고 여자의 다툼.
 Dialogue: 0,0:24:08.45,0:24:12.28,Default,en,0,0,0,,But Otsuru followed us and is doing women's quarrel with Sen-chan.
-Comment: 0,0:24:12.80,0:24:16.82,Default,ja,0,0,0,,そんな時、おせんちゃんがハンゾウの罠にはまってつかまってしまうダス。
+Comment: 0,0:24:12.80,0:24:16.82,Default,ja,0,0,0,,そんな時、おせんちゃんがハンゾウの罠にはまってつかまってしまうだス。
 Dialogue: 0,0:24:12.80,0:24:16.82,Default,ko,0,0,0,,그 때, 센짱이 한조의 함정에 빠져 잡히고 말았소.
 Dialogue: 0,0:24:12.80,0:24:16.82,Default,en,0,0,0,,At that time, Sen-chan fell into Hanzō's trap and was caught-{\i1}dasu{\i0}.
 Comment: 0,0:24:17.31,0:24:20.61,Default,ja,0,0,0,,畜生！何とかしなくちゃいけないだス！

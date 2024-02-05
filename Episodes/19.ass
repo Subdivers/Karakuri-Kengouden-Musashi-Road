@@ -66,7 +66,7 @@ Dialogue: 0,0:02:07.02,0:02:10.81,Default,en,0,0,0,,Everyone suffered from the h
 Comment: 0,0:02:11.25,0:02:17.81,Default,ja,0,0,0,,だが、その戦いの中でムサシはついに二天一流を開眼したのである。
 Dialogue: 0,0:02:11.25,0:02:17.81,Default,ko,0,0,0,,그러나 그 전투 중에서 무사시는 결국 이천일류를 개안하였다.
 Dialogue: 0,0:02:11.25,0:02:17.81,Default,en,0,0,0,,But during that fight, Musashi finally opened his eyes towards Nitenichiryu.
-Comment: 0,0:02:18.09,0:02:23.14,Default,ja,0,0,0,,鵺の鳴く夜は怖いダス
+Comment: 0,0:02:18.09,0:02:23.14,Default,ja,0,0,0,,鵺の鳴く夜は怖いだス
 Dialogue: 0,0:02:18.09,0:02:23.14,Note,en,0,0,0,,(I am unsure with some proper nouns used in this episode, so they might be wrong)
 Comment: 0,0:02:18.09,0:02:23.14,TitleEP,ja,0,0,100,,
 Dialogue: 0,0:02:18.09,0:02:23.14,TitleEP,ko,0,0,100,,누에가 우는 밤은 무섭소
@@ -75,13 +75,13 @@ Dialogue: 0,0:02:18.09,0:02:23.14,TitleEP,en,0,0,90,,Nue Cries is Scary
 Comment: 0,0:02:38.68,0:02:39.82,Default,ja,0,0,0,,待って、コジロー！
 Dialogue: 0,0:02:38.68,0:02:39.82,Default,ko,0,0,0,,멈추시오, 코지로!
 Dialogue: 0,0:02:38.68,0:02:39.82,Default,en,0,0,0,,Stop, Kojirō!
-Comment: 0,0:02:42.24,0:02:44.13,Default,ja,0,0,0,,さあ、コジロー、勝負するダス！
+Comment: 0,0:02:42.24,0:02:44.13,Default,ja,0,0,0,,さあ、コジロー、勝負するだス！
 Dialogue: 0,0:02:42.24,0:02:44.13,Default,ko,0,0,0,,자, 코지로, 승부를 보시오!
 Dialogue: 0,0:02:42.24,0:02:44.13,Default,en,0,0,0,,Hey, Kojirō, have a match with me!
 Comment: 0,0:02:44.64,0:02:48.35,Default,ja,0,0,0,,いい加減にしろ、ムサシ！センヒメ様あきれてるじゃないか。
 Dialogue: 0,0:02:44.64,0:02:48.35,Default,ko,0,0,0,,작작 좀 해라, 무사시! 센히메 님이 기막혀하고 있지 않냐!
 Dialogue: 0,0:02:44.64,0:02:48.35,Default,en,0,0,0,,That's enough, Musashi! Senhime is astonished of you!
-Comment: 0,0:02:48.84,0:02:52.63,Default,ja,0,0,0,,バカにしたい奴はバカにするだす！こっちは真剣なんダス。
+Comment: 0,0:02:48.84,0:02:52.63,Default,ja,0,0,0,,バカにしたい奴はバカにするだす！こっちは真剣なんだス。
 Dialogue: 0,0:02:48.84,0:02:52.63,Default,ko,0,0,0,,기막혀할 사람은 기막혀하겠지만 난 진심이오!
 Dialogue: 0,0:02:48.84,0:02:52.63,Default,en,0,0,0,,Someone might be looking down on me, but I am dead serious-{\i1}dasu{\i0}!
 Comment: 0,0:02:52.81,0:02:56.92,Default,ja,0,0,0,,真剣を抜いてるんだから、真剣だって言う事も分かるわ
@@ -99,7 +99,7 @@ Dialogue: 0,0:03:02.14,0:03:05.14,Default,en,0,0,0,,Musashi gets angry so easily
 Comment: 0,0:03:05.38,0:03:09.69,Default,ja,0,0,0,,そう！おいらはかっかきてるだす。さあ、コジロー、勝負しろだす！
 Dialogue: 0,0:03:05.38,0:03:09.69,Default,ko,0,0,0,,그렇소! 난 쉽게 발끈하오! 자, 코지로, 승부를 보시오!
 Dialogue: 0,0:03:05.38,0:03:09.69,Default,en,0,0,0,,That's right! I get angry easily-{\i1}dasu{\i0}! Now, Kojirō, face me-{\i1}dasu{\i0}!
-Comment: 0,0:03:10.23,0:03:14.58,Default,ja,0,0,0,,二天一流を見事にツバメガエシを藪って見せるダス！
+Comment: 0,0:03:10.23,0:03:14.58,Default,ja,0,0,0,,二天一流を見事にツバメガエシを藪って見せるだス！
 Dialogue: 0,0:03:10.23,0:03:14.58,Default,ko,0,0,0,,이천일류로 훌륭하게 츠바메가에시를 물려내 보이겠소!
 Dialogue: 0,0:03:10.23,0:03:14.58,Default,en,0,0,0,,I will defeat Tsubamegaeshi with Nitenichiryu!
 Comment: 0,0:03:14.84,0:03:20.11,Default,ja,0,0,0,,分かった、分かった！二天一流は凄い。だが、ムサシ、このたびの目的は。。。
@@ -111,7 +111,7 @@ Dialogue: 0,0:03:20.72,0:03:22.50,Default,en,0,0,0,,To protect Sen-chan-{\i1}das
 Comment: 0,0:03:23.04,0:03:26.68,Default,ja,0,0,0,,そう。だから旅が終わったらちゃんと相手をする。
 Dialogue: 0,0:03:23.04,0:03:26.68,Default,ko,0,0,0,,그래. 그러니까 여행이 끝나면 바로 상대해 줄 테니까.
 Dialogue: 0,0:03:23.04,0:03:26.68,Default,en,0,0,0,,Right. So just know that I'll going to face you as soon as the trip is over.
-Comment: 0,0:03:27.37,0:03:28.88,Default,ja,0,0,0,,旅は終わらないダス。。。
+Comment: 0,0:03:27.37,0:03:28.88,Default,ja,0,0,0,,旅は終わらないだス。。。
 Dialogue: 0,0:03:27.37,0:03:28.88,Default,ko,0,0,0,,여행은 안 끝나오...
 Dialogue: 0,0:03:27.37,0:03:28.88,Default,en,0,0,0,,The trip will never end-{\i1}dasu{\i0}.
 Comment: 0,0:03:29.37,0:03:30.58,Default,ja,0,0,0,,え？・なぜ？
@@ -129,7 +129,7 @@ Dialogue: 0,0:03:37.60,0:03:40.17,Default,en,0,0,0,,Stop right there, Musashi!
 Comment: 0,0:03:40.58,0:03:42.13,Default,ja,0,0,0,,待て！
 Dialogue: 0,0:03:40.58,0:03:42.13,Default,ko,0,0,0,,멈춰!
 Dialogue: 0,0:03:40.58,0:03:42.13,Default,en,0,0,0,,Stop!
-Comment: 0,0:03:42.16,0:03:47.30,Default,ja,0,0,0,,そんな乱暴じゃ～お婿さんは見つけられないダス！
+Comment: 0,0:03:42.16,0:03:47.30,Default,ja,0,0,0,,そんな乱暴じゃ～お婿さんは見つけられないだス！
 Dialogue: 0,0:03:42.16,0:03:47.30,Default,ko,0,0,0,,-그렇게 난폭하면 죽어도 새신랑 못 찾소!\N-무사시!
 Dialogue: 0,0:03:42.16,0:03:47.30,Default,en,0,0,0,,-If you act violent like that, you'll never get a husband-{\i1}dasu{\i0}!\N-Musashi!
 Comment: 0,0:03:50.56,0:03:53.18,Default,ja,0,0,0,,仙台の町はまだだすか。。。
@@ -159,10 +159,10 @@ Dialogue: 0,0:04:07.05,0:04:07.74,Default,en,0,0,0,,Damn...
 Comment: 0,0:04:07.94,0:04:10.27,Default,ja,0,0,0,,飯がおいらを読んでるだす。。。
 Dialogue: 0,0:04:07.94,0:04:10.27,Default,ko,0,0,0,,밥이 날 부르고 있소...
 Dialogue: 0,0:04:07.94,0:04:10.27,Default,en,0,0,0,,Food is calling me-{\i1}dasu{\i0}!
-Comment: 0,0:04:14.37,0:04:15.90,Default,ja,0,0,0,,おせんちゃん、後ろダス！
+Comment: 0,0:04:14.37,0:04:15.90,Default,ja,0,0,0,,おせんちゃん、後ろだス！
 Dialogue: 0,0:04:14.37,0:04:15.90,Default,ko,0,0,0,,센짱, 뒤이오!
 Dialogue: 0,0:04:14.37,0:04:15.90,Default,en,0,0,0,,Sen-chan, on your back-{\i1}dasu{\i0}!
-Comment: 0,0:04:23.84,0:04:27.95,Default,ja,0,0,0,,いったい何者だス！いきなり襲うなんて、卑怯でござるダス！
+Comment: 0,0:04:23.84,0:04:27.95,Default,ja,0,0,0,,いったい何者だス！いきなり襲うなんて、卑怯でござるだス！
 Dialogue: 0,0:04:23.84,0:04:27.95,Default,ko,0,0,0,,대체 누구시오! 갑자기 덤벼들다니 비겁하오!
 Dialogue: 0,0:04:23.84,0:04:27.95,Default,en,0,0,0,,Who is it-{\i1}dasu{\i0}?! It is cowardly to pounce out of nowhere-{\i1}dasu{\i0}!
 Comment: 0,0:04:45.80,0:04:46.80,Default,ja,0,0,0,,ムサシ！
@@ -174,7 +174,7 @@ Dialogue: 0,0:04:47.62,0:04:49.16,Default,en,0,0,0,,Aren't you Musashi?
 Comment: 0,0:04:49.64,0:04:50.52,Default,ja,0,0,0,,バイケン！
 Dialogue: 0,0:04:49.64,0:04:50.52,Default,ko,0,0,0,,바이켄!
 Dialogue: 0,0:04:49.64,0:04:50.52,Default,en,0,0,0,,Baiken!
-Comment: 0,0:04:52.66,0:04:54.29,Default,ja,0,0,0,,久しぶりダスな！
+Comment: 0,0:04:52.66,0:04:54.29,Default,ja,0,0,0,,久しぶりだスな！
 Dialogue: 0,0:04:52.66,0:04:54.29,Default,ko,0,0,0,,오랜만이오!
 Dialogue: 0,0:04:52.66,0:04:54.29,Default,en,0,0,0,,Long time no see-{\i1}dasu{\i0}!
 Comment: 0,0:04:54.46,0:04:57.60,Default,ja,0,0,0,,いや、懐かしいばい！ということは？
@@ -228,7 +228,7 @@ Dialogue: 0,0:05:48.33,0:05:49.62,Default,en,0,0,0,,Date Akinokami?
 Comment: 0,0:05:50.42,0:05:55.82,Default,ja,0,0,0,,しかし、間違いだったばい！さあ、とにかくマイホームに来てくれ。歓迎するばい！
 Dialogue: 0,0:05:50.42,0:05:55.82,Default,ko,0,0,0,,그래도 틀렸네! 자, 어쨌든 우리 집으로 와라! 환영한다!
 Dialogue: 0,0:05:50.42,0:05:55.82,Default,en,0,0,0,,But I was wrong! Just come to my home for now! I welcome all of you!
-Comment: 0,0:05:56.09,0:05:58.90,Default,ja,0,0,0,,か、歓迎って、ごちそう出るダスか？
+Comment: 0,0:05:56.09,0:05:58.90,Default,ja,0,0,0,,か、歓迎って、ごちそう出るだスか？
 Dialogue: 0,0:05:56.09,0:05:58.90,Default,ko,0,0,0,,화, 환영이라면 밥도 나오오?
 Dialogue: 0,0:05:56.09,0:05:58.90,Default,en,0,0,0,,W- welcome? Will you give us food-{\i1}dasu{\i0}?!
 Comment: 0,0:05:59.45,0:06:00.60,Default,ja,0,0,0,,勿論ばい！
@@ -252,7 +252,7 @@ Dialogue: 0,0:06:17.10,0:06:22.09,Default,en,0,0,0,,Oh, maybe I might be able to
 Comment: 0,0:06:24.22,0:06:26.26,Default,ja,0,0,0,,こ、これがバイケンの家だスか？
 Dialogue: 0,0:06:24.22,0:06:26.26,Default,ko,0,0,0,,이, 이게 바이켄의 집이오?
 Dialogue: 0,0:06:24.22,0:06:26.26,Default,en,0,0,0,,I- is this Baiken's house-{\i1}dasu{\i0}?
-Comment: 0,0:06:26.96,0:06:29.52,Default,ja,0,0,0,,でっかい屋敷ダスな！
+Comment: 0,0:06:26.96,0:06:29.52,Default,ja,0,0,0,,でっかい屋敷だスな！
 Dialogue: 0,0:06:26.96,0:06:29.52,Default,ko,0,0,0,,거대한 집이오!
 Dialogue: 0,0:06:26.96,0:06:29.52,Default,en,0,0,0,,What a big house-{\i1}dasu{\i0}!
 Comment: 0,0:06:29.74,0:06:31.78,Default,ja,0,0,0,,いや、それほどでもないばい！
@@ -261,7 +261,7 @@ Dialogue: 0,0:06:29.74,0:06:31.78,Default,en,0,0,0,,Well, it's not really that b
 Comment: 0,0:06:35.50,0:06:37.20,Default,ja,0,0,0,,おかえりなさいませ。
 Dialogue: 0,0:06:35.50,0:06:37.20,Default,ko,0,0,0,,어서 오세요.
 Dialogue: 0,0:06:35.50,0:06:37.20,Default,en,0,0,0,,Welcome back.
-Comment: 0,0:06:38.18,0:06:40.36,Default,ja,0,0,0,,凄いダスな。。。
+Comment: 0,0:06:38.18,0:06:40.36,Default,ja,0,0,0,,凄いだスな。。。
 Dialogue: 0,0:06:38.18,0:06:40.36,Default,ko,0,0,0,,대단하오...
 Dialogue: 0,0:06:38.18,0:06:40.36,Default,en,0,0,0,,Awesome-{\i1}dasu{\i0}...
 Comment: 0,0:06:40.80,0:06:42.27,Default,ja,0,0,0,,ただいま戻ったばい！
@@ -273,7 +273,7 @@ Dialogue: 0,0:06:42.94,0:06:45.07,Default,en,0,0,0,,Brother, welcome back!
 Comment: 0,0:06:45.16,0:06:47.18,Default,ja,0,0,0,,なさいませ！・なさいませ！
 Dialogue: 0,0:06:45.16,0:06:47.18,Default,ko,0,0,0,,-오세요!\N-오세요!
 Dialogue: 0,0:06:45.16,0:06:47.18,Default,en,0,0,0,,-Welcome!\N-Welcome!
-Comment: 0,0:06:47.18,0:06:51.10,Default,ja,0,0,0,,ああ、いっけん、にけん、おはる！元気そうダスな！
+Comment: 0,0:06:47.18,0:06:51.10,Default,ja,0,0,0,,ああ、いっけん、にけん、おはる！元気そうだスな！
 Dialogue: 0,0:06:47.18,0:06:51.10,Default,ko,0,0,0,,어, 잇켄, 니켄, 오하루! 건강해 보이오!
 Dialogue: 0,0:06:47.18,0:06:51.10,Default,en,0,0,0,,Hey, Ikken, Niken, and Oharu! You look well-{\i1}dasu{\i0}!
 Comment: 0,0:06:51.12,0:06:53.78,Default,ja,0,0,0,,わーい！ムサシだ！・ムサシさん！
@@ -297,7 +297,7 @@ Dialogue: 0,0:07:15.00,0:07:18.18,Default,en,0,0,0,,Splendid, splendid, splendid
 Comment: 0,0:07:20.30,0:07:23.20,Default,ja,0,0,0,,遠慮しないでどんどん食ってほしいばい。
 Dialogue: 0,0:07:20.30,0:07:23.20,Default,ko,0,0,0,,사양말고 막 먹으쇼!
 Dialogue: 0,0:07:20.30,0:07:23.20,Default,en,0,0,0,,Eat as much as you want!
-Comment: 0,0:07:23.54,0:07:25.57,Default,ja,0,0,0,,言われなくても食べるダス。
+Comment: 0,0:07:23.54,0:07:25.57,Default,ja,0,0,0,,言われなくても食べるだス。
 Dialogue: 0,0:07:23.54,0:07:25.57,Default,ko,0,0,0,,말 안 해도 먹소!
 Dialogue: 0,0:07:23.54,0:07:25.57,Default,en,0,0,0,,You don't have to tell me that-{\i1}dasu{\i0}!
 Comment: 0,0:07:32.08,0:07:34.69,Default,ja,0,0,0,,にけん！武士の家の者は武士らしく！
@@ -309,7 +309,7 @@ Dialogue: 0,0:07:35.44,0:07:36.87,Default,en,0,0,0,,Well said!
 Comment: 0,0:07:37.02,0:07:38.86,Default,ja,0,0,0,,誰かさんとはおお違う。
 Dialogue: 0,0:07:37.02,0:07:38.86,Default,ko,0,0,0,,누군가 씨하고는 크게 다르네.
 Dialogue: 0,0:07:37.02,0:07:38.86,Default,en,0,0,0,,That's very different from Mr. Someone.
-Comment: 0,0:07:38.89,0:07:40.58,Default,ja,0,0,0,,うん？なんか言ったダスか？
+Comment: 0,0:07:38.89,0:07:40.58,Default,ja,0,0,0,,うん？なんか言っただスか？
 Dialogue: 0,0:07:38.89,0:07:40.58,Default,ko,0,0,0,,응? 뭐라 했소?
 Dialogue: 0,0:07:38.89,0:07:40.58,Default,en,0,0,0,,Huh? Did you say something?
 Comment: 0,0:07:41.41,0:07:44.41,Default,ja,0,0,0,,しかし、バイケン、出世したもんだすな。
@@ -354,7 +354,7 @@ Dialogue: 0,0:08:54.94,0:08:58.45,Default,en,0,0,0,,I heard from Baiken. Both of
 Comment: 0,0:08:58.78,0:09:03.93,Default,ja,0,0,0,,それなのに、昨夜は誤った情報を元に襲わせたりして、失礼をばいたした。
 Dialogue: 0,0:08:58.78,0:09:03.93,Default,ko,0,0,0,,그런데도 어젯밤은 틀린 정보를 믿고 습격하고 해서 실례했습니다.
 Dialogue: 0,0:08:58.78,0:09:03.93,Default,en,0,0,0,,I sincerely apologize for making them attack you based on a false information.
-Comment: 0,0:09:04.42,0:09:06.57,Default,ja,0,0,0,,誤解と分かれば、それでいいダス。
+Comment: 0,0:09:04.42,0:09:06.57,Default,ja,0,0,0,,誤解と分かれば、それでいいだス。
 Dialogue: 0,0:09:04.42,0:09:06.57,Default,ko,0,0,0,,오해를 풀었으면 그걸로 좋소.
 Dialogue: 0,0:09:04.42,0:09:06.57,Default,en,0,0,0,,It's alright since you know that it was a misunderstanding-{\i1}dasu{\i0}.
 Comment: 0,0:09:06.85,0:09:11.17,Default,ja,0,0,0,,そしてまた、此度は、鵺退治に力を貸してくださるとか。。。
@@ -477,7 +477,7 @@ Dialogue: 0,0:13:48.41,0:13:49.21,Default,en,0,0,0,,There-{\i1}dasu{\i0}!
 Comment: 0,0:13:57.12,0:13:58.17,Default,ja,0,0,0,,大丈夫？
 Dialogue: 0,0:13:57.12,0:13:58.17,Default,ko,0,0,0,,괜찮아?
 Dialogue: 0,0:13:57.12,0:13:58.17,Default,en,0,0,0,,Will it be okay?
-Comment: 0,0:13:58.29,0:13:59.26,Default,ja,0,0,0,,任せるダス！
+Comment: 0,0:13:58.29,0:13:59.26,Default,ja,0,0,0,,任せるだス！
 Dialogue: 0,0:13:58.29,0:13:59.26,Default,ko,0,0,0,,맡겨만 두시오!
 Dialogue: 0,0:13:58.29,0:13:59.26,Default,en,0,0,0,,Leave it to me-{\i1}dasu{\i0}!
 Comment: 0,0:14:09.65,0:14:10.38,Default,ja,0,0,0,,ムサシ！
@@ -495,7 +495,7 @@ Dialogue: 0,0:14:39.97,0:14:41.20,Default,en,0,0,0,,Damn it!
 Comment: 0,0:14:41.96,0:14:44.45,Default,ja,0,0,0,,くそ、もうちょっとだっただすのに！
 Dialogue: 0,0:14:41.96,0:14:44.45,Default,ko,0,0,0,,젠장, 눈앞에서 놓친 것이오!
 Dialogue: 0,0:14:41.96,0:14:44.45,Default,en,0,0,0,,Damn, I was so close!
-Comment: 0,0:14:46.41,0:14:47.89,Default,ja,0,0,0,,鵺の血ダス！
+Comment: 0,0:14:46.41,0:14:47.89,Default,ja,0,0,0,,鵺の血だス！
 Dialogue: 0,0:14:46.41,0:14:47.89,Default,ko,0,0,0,,누에의 피이오!
 Dialogue: 0,0:14:46.41,0:14:47.89,Default,en,0,0,0,,Nue's blood-{\i1}dasu{\i0}!
 Comment: 0,0:14:48.94,0:14:50.37,Default,ja,0,0,0,,気持ち悪い！
@@ -522,7 +522,7 @@ Dialogue: 0,0:15:18.73,0:15:21.62,Default,en,0,0,0,,It must've went inside that 
 Comment: 0,0:15:22.04,0:15:26.54,Default,ja,0,0,0,,でも、空から降ってきたものは、わざわざ門の中へ入っていくなんて。。。
 Dialogue: 0,0:15:22.04,0:15:26.54,Default,ko,0,0,0,,그래도 하늘에서 내려온 것이 굳이 문 안으로 들어가다니...
 Dialogue: 0,0:15:22.04,0:15:26.54,Default,en,0,0,0,,But why would something that came from the sky go through a door?
-Comment: 0,0:15:27.10,0:15:28.72,Default,ja,0,0,0,,とにかく、行ってみるダス！
+Comment: 0,0:15:27.10,0:15:28.72,Default,ja,0,0,0,,とにかく、行ってみるだス！
 Dialogue: 0,0:15:27.10,0:15:28.72,Default,ko,0,0,0,,어쨌든 한번 가 보오!
 Dialogue: 0,0:15:27.10,0:15:28.72,Default,en,0,0,0,,Anyway let's go find it out-{\i1}dasu{\i0}!
 Comment: 0,0:15:33.77,0:15:34.61,Default,ja,0,0,0,,原田？
@@ -653,7 +653,7 @@ Dialogue: 0,0:19:02.65,0:19:03.42,Default,en,0,0,0,,Who are you?
 Comment: 0,0:19:04.38,0:19:06.05,Default,ja,0,0,0,,久しぶりだな、ムサシ。
 Dialogue: 0,0:19:04.38,0:19:06.05,Default,ko,0,0,0,,오랜만이군, 무사시.
 Dialogue: 0,0:19:04.38,0:19:06.05,Default,en,0,0,0,,It's been a while, Musashi.
-Comment: 0,0:19:06.17,0:19:09.16,Default,ja,0,0,0,,何？おいら、あんたなんか知らないダス！
+Comment: 0,0:19:06.17,0:19:09.16,Default,ja,0,0,0,,何？おいら、あんたなんか知らないだス！
 Dialogue: 0,0:19:06.17,0:19:09.16,Default,ko,0,0,0,,뭣이오? 난 당신 따위 모르오!
 Dialogue: 0,0:19:06.17,0:19:09.16,Default,en,0,0,0,,What? I don't know you-{\i1}dasu{\i0}!
 Comment: 0,0:19:13.29,0:19:14.46,Default,ja,0,0,0,,お前はオニヒメ！
@@ -714,7 +714,7 @@ Dialogue: 0,0:21:30.32,0:21:34.49,Default,en,0,0,0,,Mr. Harada Kainosuke, Date c
 Comment: 0,0:21:35.03,0:21:37.89,Default,ja,0,0,0,,は！ありがたき幸せ！
 Dialogue: 0,0:21:35.03,0:21:37.89,Default,ko,0,0,0,,예! 황송해 몸둘 바를 모르겠습니다!
 Dialogue: 0,0:21:35.03,0:21:37.89,Default,en,0,0,0,,Yessir! I am very thankful for this!
-Comment: 0,0:21:45.77,0:21:49.57,Default,ja,0,0,0,,原田さんがやとってきたのに、本当に旅に出るダスか？
+Comment: 0,0:21:45.77,0:21:49.57,Default,ja,0,0,0,,原田さんがやとってきたのに、本当に旅に出るだスか？
 Dialogue: 0,0:21:45.77,0:21:49.57,Default,ko,0,0,0,,하라다 씨가 머물게 해 주겠다고 했는데도 정말 여행길을 떠날 것이오?
 Dialogue: 0,0:21:45.77,0:21:49.57,Default,en,0,0,0,,Are you really going to leave, when Mr. Harada is offering you to stay-{\i1}dasu{\i0}?
 Comment: 0,0:21:50.34,0:21:54.01,Default,ja,0,0,0,,今度のことだえ、まだまだ修行が足りないことが分かったばい。

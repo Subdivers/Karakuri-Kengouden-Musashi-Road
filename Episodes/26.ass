@@ -86,7 +86,7 @@ Dialogue: 0,0:02:51.48,0:02:57.03,Default,en,0,0,0,,Senhime, please be prepared 
 Comment: 0,0:02:57.46,0:03:00.04,Default,ja,0,0,0,,はい！今上がります！
 Dialogue: 0,0:02:57.46,0:03:00.04,Default,ko,0,0,0,,네! 지금 나갑니다!
 Dialogue: 0,0:02:57.46,0:03:00.04,Default,en,0,0,0,,Got it! I'll be there soon!
-Comment: 0,0:03:04.36,0:03:05.64,Default,ja,0,0,0,,待ってましたダス！
+Comment: 0,0:03:04.36,0:03:05.64,Default,ja,0,0,0,,待ってましただス！
 Dialogue: 0,0:03:04.36,0:03:05.64,Default,ko,0,0,0,,기다렸소!
 Dialogue: 0,0:03:04.36,0:03:05.64,Default,en,0,0,0,,We've waited for you-{\i1}dasu{\i0}!
 Comment: 0,0:03:09.74,0:03:10.80,Default,ja,0,0,0,,お待った。
@@ -131,7 +131,7 @@ Dialogue: 0,0:03:55.16,0:03:57.42,Default,en,0,0,0,,Mr. Aburakoji, east as much 
 Comment: 0,0:03:59.12,0:04:01.28,Default,ja,0,0,0,,はに、無礼講でござります！
 Dialogue: 0,0:03:59.12,0:04:01.28,Default,ko,0,0,0,,그럼 마음놓고 먹겠소!
 Dialogue: 0,0:03:59.12,0:04:01.28,Default,en,0,0,0,,Then putting aside ranks!
-Comment: 0,0:04:04.26,0:04:07.15,Default,ja,0,0,0,,この不細工な男、何者でござるダスか！
+Comment: 0,0:04:04.26,0:04:07.15,Default,ja,0,0,0,,この不細工な男、何者でござるだスか！
 Dialogue: 0,0:04:04.26,0:04:07.15,Default,ko,0,0,0,,저 못생긴 남자는 누구이오?
 Dialogue: 0,0:04:04.26,0:04:07.15,Default,en,0,0,0,,Who is that ugly man-{\i1}dasu{\i0}?
 Comment: 0,0:04:07.15,0:04:07.52,Default,ja,0,0,0,,え？
@@ -292,7 +292,7 @@ Dialogue: 0,0:07:57.72,0:07:59.50,Default,en,0,0,0,,It's been a while, Mr. Musas
 Comment: 0,0:08:00.62,0:08:02.40,Default,ja,0,0,0,,あれ？あんたは。。。
 Dialogue: 0,0:08:00.62,0:08:02.40,Default,ko,0,0,0,,어라? 당신은...
 Dialogue: 0,0:08:00.62,0:08:02.40,Default,en,0,0,0,,Huh? You must be...
-Comment: 0,0:08:10.62,0:08:14.16,Default,ja,0,0,0,,もしかしてアカネさん？どうしてここにいるダス？
+Comment: 0,0:08:10.62,0:08:14.16,Default,ja,0,0,0,,もしかしてアカネさん？どうしてここにいるだス？
 Dialogue: 0,0:08:10.62,0:08:14.16,Default,ko,0,0,0,,설마 아카네 씨? 왜 여기에 있소?
 Dialogue: 0,0:08:10.62,0:08:14.16,Default,en,0,0,0,,Are you Ms. Akane? W- why are you here-{\i1}dasu{\i0}?
 Comment: 0,0:08:14.30,0:08:18.51,Default,ja,0,0,0,,えっと、どう、どうしってって、あっしの女房だ。
@@ -352,7 +352,7 @@ Dialogue: 0,0:09:24.06,0:09:24.56,Default,en,0,0,0,,Huh?
 Comment: 0,0:09:25.34,0:09:28.67,Default,ja,0,0,0,,もうすぐですからね。いい子にして待っててね。
 Dialogue: 0,0:09:25.34,0:09:28.67,Default,ko,0,0,0,,이제 곧이니까 착한 아이처럼 기다려.
 Dialogue: 0,0:09:25.34,0:09:28.67,Default,en,0,0,0,,It's almost done, so keep calm and wait like a good kid.
-Comment: 0,0:09:31.24,0:09:33.66,Default,ja,0,0,0,,いい子。でござるダスか。
+Comment: 0,0:09:31.24,0:09:33.66,Default,ja,0,0,0,,いい子。でござるだスか。
 Dialogue: 0,0:09:31.24,0:09:33.66,Default,ko,0,0,0,,착한 아이... 이오...
 Dialogue: 0,0:09:31.24,0:09:33.66,Default,en,0,0,0,,Good kid... is it-{\i1}dasu{\i0}?
 Comment: 0,0:09:49.06,0:09:53.19,Default,ja,0,0,0,,勘弁してよ。後であたしもくっちつけんのよ。
@@ -405,7 +405,7 @@ Dialogue: 0,0:10:49.96,0:10:54.88,Default,en,0,0,0,,Dear, let's go for the memor
 Comment: 0,0:10:54.88,0:10:56.25,Default,ja,0,0,0,,おお、そうじゃいいな！
 Dialogue: 0,0:10:54.88,0:10:56.25,Default,ko,0,0,0,,오, 그거 좋네!
 Dialogue: 0,0:10:54.88,0:10:56.25,Default,en,0,0,0,,Hey, that's a good idea!
-Comment: 0,0:10:56.63,0:10:59.14,Default,ja,0,0,0,,え、縁日でござるダスか？
+Comment: 0,0:10:56.63,0:10:59.14,Default,ja,0,0,0,,え、縁日でござるだスか？
 Dialogue: 0,0:10:56.63,0:10:59.14,Default,ko,0,0,0,,제, 제사제이오?
 Dialogue: 0,0:10:56.63,0:10:59.14,Default,en,0,0,0,,T- the memorial ceremony?
 Comment: 0,0:11:01.26,0:11:05.89,Default,ja,0,0,0,,そう。ムサシさんが立派な武芸者になれるようにお祈りしなぎゃ。
@@ -426,7 +426,7 @@ Dialogue: 0,0:11:14.32,0:11:17.08,Default,en,0,0,0,,If you say so, I gotta finis
 Comment: 0,0:11:18.14,0:11:22.00,Default,ja,0,0,0,,そんなに慌てなくたって、体に悪いよ、お前さん。
 Dialogue: 0,0:11:18.14,0:11:22.00,Default,ko,0,0,0,,그렇게 허둥대면 몸에 안 좋아, 여보.
 Dialogue: 0,0:11:18.14,0:11:22.00,Default,en,0,0,0,,It's not good for your body if you hurry like that.
-Comment: 0,0:11:22.70,0:11:24.12,Default,ja,0,0,0,,悪いダス！
+Comment: 0,0:11:22.70,0:11:24.12,Default,ja,0,0,0,,悪いだス！
 Dialogue: 0,0:11:22.70,0:11:24.12,Default,ko,0,0,0,,안 좋소!
 Dialogue: 0,0:11:22.70,0:11:24.12,Default,en,0,0,0,,It's not good-{\i1}dasu{\i0}!
 Comment: 0,0:11:28.80,0:11:32.66,Default,ja,0,0,0,,うん、美しい。我ながら怖いぐらいだ。
@@ -468,7 +468,7 @@ Dialogue: 0,0:12:36.35,0:12:39.45,Default,en,0,0,0,,No way! Don't want want 2 or
 Comment: 0,0:12:39.45,0:12:43.73,Default,ja,0,0,0,,そうよ、ムサシさんだもの。あの店のしるこ、おいしいのよ。
 Dialogue: 0,0:12:39.45,0:12:43.73,Default,ko,0,0,0,,그래, 무사시 씨잖아. 저 가게 단팥죽 맛있어.
 Dialogue: 0,0:12:39.45,0:12:43.73,Default,en,0,0,0,,Yeah, it's you, Mr. Musashi! That sweet red bean soup tastes good!
-Comment: 0,0:12:44.90,0:12:47.81,Default,ja,0,0,0,,どっちも食べてみたい気がするダス。
+Comment: 0,0:12:44.90,0:12:47.81,Default,ja,0,0,0,,どっちも食べてみたい気がするだス。
 Dialogue: 0,0:12:44.90,0:12:47.81,Default,ko,0,0,0,,둘 다 먹어보고 싶소.
 Dialogue: 0,0:12:44.90,0:12:47.81,Default,en,0,0,0,,I want to try both-{\i1}dasu{\i0}!
 Comment: 0,0:12:47.81,0:12:50.26,Default,ja,0,0,0,,へ、だれだれ。じゃ、まず、団子だ！こらこら！
@@ -498,16 +498,16 @@ Dialogue: 0,0:13:18.64,0:13:21.52,Default,en,0,0,0,,You sure about that? Aren't 
 Comment: 0,0:13:23.04,0:13:27.30,Default,ja,0,0,0,,ムサシさん、無理しなくてもいいのよ。わいがわるいんだったら言ってね。
 Dialogue: 0,0:13:23.04,0:13:27.30,Default,ko,0,0,0,,무사시 씨, 무리 안 해도 좋아. 속이 안 좋으면 말해.
 Dialogue: 0,0:13:23.04,0:13:27.30,Default,en,0,0,0,,Mr. Musashi, you don't have to overdo it. If you do feel sick, then tell us.
-Comment: 0,0:13:43.39,0:13:46.51,Default,ja,0,0,0,,親分、アカネさん、ありがとうでござるダス。
+Comment: 0,0:13:43.39,0:13:46.51,Default,ja,0,0,0,,親分、アカネさん、ありがとうでござるだス。
 Dialogue: 0,0:13:43.39,0:13:46.51,Default,ko,0,0,0,,두목, 아카네 씨, 고맙소.
 Dialogue: 0,0:13:43.39,0:13:46.51,Default,en,0,0,0,,Boss, Ms. Akana, thank you-{\i1}dasu{\i0}!
 Comment: 0,0:13:47.16,0:13:49.46,Default,ja,0,0,0,,急にいやですぜ、ムサシさん。
 Dialogue: 0,0:13:47.16,0:13:49.46,Default,ko,0,0,0,,갑자기 왜 그러냐, 무사시 씨!
 Dialogue: 0,0:13:47.16,0:13:49.46,Default,en,0,0,0,,That was so sudden, Mr. Musashi!
-Comment: 0,0:13:50.14,0:13:53.97,Default,ja,0,0,0,,おいら、生まれた時からお母さんの顔知らないダス。
+Comment: 0,0:13:50.14,0:13:53.97,Default,ja,0,0,0,,おいら、生まれた時からお母さんの顔知らないだス。
 Dialogue: 0,0:13:50.14,0:13:53.97,Default,ko,0,0,0,,나, 태어났을 때부터 엄마 얼굴은 모르오.
 Dialogue: 0,0:13:50.14,0:13:53.97,Default,en,0,0,0,,I do not know how does my mother look ever since I was born-{\i1}dasu{\i0}.
-Comment: 0,0:13:56.50,0:14:04.14,Default,ja,0,0,0,,ずっと、一人ぼっちで、仲良くしてくれる人はオツルちゃんしかいなかったダス。
+Comment: 0,0:13:56.50,0:14:04.14,Default,ja,0,0,0,,ずっと、一人ぼっちで、仲良くしてくれる人はオツルちゃんしかいなかっただス。
 Dialogue: 0,0:13:56.50,0:14:04.14,Default,ko,0,0,0,,쭉 혼자로 사이좋게 같이 있어 준 건 오츠루밖에 없었소.
 Dialogue: 0,0:13:56.50,0:14:04.14,Default,en,0,0,0,,I was alone all the time, and only Otsuru became a friend with me-{\i1}dasu{\i0}.
 Comment: 0,0:14:05.79,0:14:09.08,Default,ja,0,0,0,,こうなりしてもらった、おいら。
@@ -609,7 +609,7 @@ Dialogue: 0,0:17:40.11,0:17:41.99,Default,en,0,0,0,,Who's there, in this deep ni
 Comment: 0,0:17:43.07,0:17:45.80,Default,ja,0,0,0,,しろ、城を抜け出してきた？！
 Dialogue: 0,0:17:43.07,0:17:45.80,Default,ko,0,0,0,,서, 성에서 도망쳐 나왔다고?!
 Dialogue: 0,0:17:43.07,0:17:45.80,Default,en,0,0,0,,Y- you escaped from the castle?!
-Comment: 0,0:17:46.95,0:17:48.74,Default,ja,0,0,0,,むちゃくちゃでござるダス。
+Comment: 0,0:17:46.95,0:17:48.74,Default,ja,0,0,0,,むちゃくちゃでござるだス。
 Dialogue: 0,0:17:46.95,0:17:48.74,Default,ko,0,0,0,,너무 무턱댔소.
 Dialogue: 0,0:17:46.95,0:17:48.74,Default,en,0,0,0,,That's a mess-{\i1}dasu{\i0}!
 Comment: 0,0:17:49.28,0:17:53.58,Default,ja,0,0,0,,ダメ。もう手遅れ。一緒にまた旅をしましょう。
@@ -624,7 +624,7 @@ Dialogue: 0,0:17:59.83,0:18:01.58,Default,en,0,0,0,,And marriage with that guy?!
 Comment: 0,0:18:05.10,0:18:07.56,Default,ja,0,0,0,,思い出すだけで気持ち悪いわ。
 Dialogue: 0,0:18:05.10,0:18:07.56,Default,ko,0,0,0,,생각하는 것만으로 기분 나빠.
 Dialogue: 0,0:18:05.10,0:18:07.56,Default,en,0,0,0,,Even thinking about him is gross.
-Comment: 0,0:18:07.79,0:18:10.63,Default,ja,0,0,0,,そんな悪い奴には見えないダスけどな。。。
+Comment: 0,0:18:07.79,0:18:10.63,Default,ja,0,0,0,,そんな悪い奴には見えないだスけどな。。。
 Dialogue: 0,0:18:07.79,0:18:10.63,Default,ko,0,0,0,,그렇게 나쁜 놈으로는 안 보였소...
 Dialogue: 0,0:18:07.79,0:18:10.63,Default,en,0,0,0,,He didn't look like a bad guy-{\i1}dasu{\i0}...
 Comment: 0,0:18:10.79,0:18:13.18,Default,ja,0,0,0,,じゃ、あんたが一緒なんなさいよ！
@@ -642,7 +642,7 @@ Dialogue: 0,0:18:30.15,0:18:31.25,Default,en,0,0,0,,Hey, Kojirō!
 Comment: 0,0:18:33.46,0:18:35.00,Default,ja,0,0,0,,あ、センヒメ様！
 Dialogue: 0,0:18:33.46,0:18:35.00,Default,ko,0,0,0,,아, 센히메 님!
 Dialogue: 0,0:18:33.46,0:18:35.00,Default,en,0,0,0,,Oh, Senhime!
-Comment: 0,0:18:45.40,0:18:47.03,Default,ja,0,0,0,,ちょっと、これは歩きにくいダス。
+Comment: 0,0:18:45.40,0:18:47.03,Default,ja,0,0,0,,ちょっと、これは歩きにくいだス。
 Dialogue: 0,0:18:45.40,0:18:47.03,Default,ko,0,0,0,,잠깐, 이건 걷기 힘드오.
 Dialogue: 0,0:18:45.40,0:18:47.03,Default,en,0,0,0,,Hey, it's hard to walk here-{\i1}dasu{\i0}!
 Comment: 0,0:18:47.03,0:18:49.64,Default,ja,0,0,0,,センヒメ様の警護は私一人で十分だ！
@@ -693,7 +693,7 @@ Dialogue: 0,0:19:51.82,0:19:58.25,Default,en,0,0,0,,It's surprising that Hanzō'
 Comment: 0,0:19:58.25,0:20:01.13,Default,ja,0,0,0,,あのハンゾウという男、侮ることは禁物。
 Dialogue: 0,0:19:58.25,0:20:01.13,Default,ko,0,0,0,,그 한조라는 자, 얕보는 건 금물이다.
 Dialogue: 0,0:19:58.25,0:20:01.13,Default,en,0,0,0,,You must not look down of Hanzō.
-Comment: 0,0:20:13.52,0:20:14.63,Default,ja,0,0,0,,誰もいないダス。
+Comment: 0,0:20:13.52,0:20:14.63,Default,ja,0,0,0,,誰もいないだス。
 Dialogue: 0,0:20:13.52,0:20:14.63,Default,ko,0,0,0,,아무도 없소.
 Dialogue: 0,0:20:13.52,0:20:14.63,Default,en,0,0,0,,There's nobody here.
 Comment: 0,0:20:20.94,0:20:21.81,Default,ja,0,0,0,,てめぇ！
@@ -720,7 +720,7 @@ Dialogue: 0,0:20:57.55,0:20:58.73,Default,en,0,0,0,,Take one more!
 Comment: 0,0:21:07.47,0:21:08.32,Default,ja,0,0,0,,しまった！
 Dialogue: 0,0:21:07.47,0:21:08.32,Default,ko,0,0,0,,저런!
 Dialogue: 0,0:21:07.47,0:21:08.32,Default,en,0,0,0,,Damn!
-Comment: 0,0:21:10.10,0:21:11.75,Default,ja,0,0,0,,ハンゾウ！逃がさんダス！
+Comment: 0,0:21:10.10,0:21:11.75,Default,ja,0,0,0,,ハンゾウ！逃がさんだス！
 Dialogue: 0,0:21:10.10,0:21:11.75,Default,ko,0,0,0,,한조! 못 달아나오!
 Dialogue: 0,0:21:10.10,0:21:11.75,Default,en,0,0,0,,Hanzō! You aren't getting away-{\i1}dasu{\i0}!
 Comment: 0,0:21:12.46,0:21:15.24,Default,ja,0,0,0,,ちぇ！今日のところは預けた！
@@ -792,7 +792,7 @@ Dialogue: 0,0:24:07.96,0:24:11.39,Default,en,0,0,0,,Sen-chan was taken by Shiran
 Comment: 0,0:24:11.68,0:24:15.10,Default,ja,0,0,0,,そんなとき、サイゴーさんと懐かしいのリョウマさんに出会っただス！
 Dialogue: 0,0:24:11.68,0:24:15.10,Default,ko,0,0,0,,그 때, 사이고 씨하고 오랜만에 료마 씨하고 만났소!
 Dialogue: 0,0:24:11.68,0:24:15.10,Default,en,0,0,0,,At that moment, I met Mr. Saigo and Mr. Ryoma who I didn't see for a long time-{\i1}dasu{\i0}!
-Comment: 0,0:24:15.46,0:24:19.02,Default,ja,0,0,0,,おせんちゃん、待っているダスよ！おいらが助けに行くダス！
+Comment: 0,0:24:15.46,0:24:19.02,Default,ja,0,0,0,,おせんちゃん、待っているだスよ！おいらが助けに行くだス！
 Dialogue: 0,0:24:15.46,0:24:19.02,Default,ko,0,0,0,,센짱, 기다리시오! 내가 구하러 가오!
 Dialogue: 0,0:24:15.46,0:24:19.02,Default,en,0,0,0,,Sen-chan, wait for me! I'm going to rescue you-{\i1}dasu{\i0}!
 Comment: 0,0:24:19.51,0:24:22.12,Default,ja,0,0,0,,次回、サイゴーさんは謎の人だス

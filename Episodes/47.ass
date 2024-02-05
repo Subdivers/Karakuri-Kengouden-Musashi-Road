@@ -75,7 +75,7 @@ Dialogue: 0,0:02:18.27,0:02:23.28,TitleEP,en,0,0,90,,Babel 13
 Comment: 0,0:02:26.41,0:02:27.60,Default,ja,0,0,0,,大丈夫か、ムサシ！
 Dialogue: 0,0:02:26.41,0:02:27.60,Default,ko,0,0,0,,괜찮냐, 무사시!
 Dialogue: 0,0:02:26.41,0:02:27.60,Default,en,0,0,0,,Are you okay, Musashi?
-Comment: 0,0:02:27.60,0:02:30.85,Default,ja,0,0,0,,ああ、～とド座衛門になるところだったダス。
+Comment: 0,0:02:27.60,0:02:30.85,Default,ja,0,0,0,,ああ、～とド座衛門になるところだっただス。
 Dialogue: 0,0:02:27.60,0:02:30.85,Default,ko,0,0,0,,아, 까딱하면 익사체가 될 뻔했소!
 Dialogue: 0,0:02:27.60,0:02:30.85,Default,en,0,0,0,,I almost ended up drowning-{\i1}dasu{\i0}!
 Comment: 0,0:02:33.81,0:02:37.47,Default,ja,0,0,0,,いいざまよ。さんざんわしを苦しめてきた報いだわ！
@@ -474,7 +474,7 @@ Dialogue: 0,0:12:09.20,0:12:10.90,Default,en,0,0,0,,Damn, who is it!?
 Comment: 0,0:12:12.93,0:12:14.24,Default,ja,0,0,0,,ムサシ殿、無事でしたね。
 Dialogue: 0,0:12:12.93,0:12:14.24,Default,ko,0,0,0,,무사시 님, 무사했군요.
 Dialogue: 0,0:12:12.93,0:12:14.24,Default,en,0,0,0,,Mr. Musashi, you were safe.
-Comment: 0,0:12:14.24,0:12:16.70,Default,ja,0,0,0,,早く出せてくれダス。
+Comment: 0,0:12:14.24,0:12:16.70,Default,ja,0,0,0,,早く出せてくれだス。
 Dialogue: 0,0:12:14.24,0:12:16.70,Default,ko,0,0,0,,어서 꺼내 주시오.
 Dialogue: 0,0:12:14.24,0:12:16.70,Default,en,0,0,0,,Get me out of here-{\i1}dasu{\i0}.
 Comment: 0,0:12:17.16,0:12:18.65,Default,ja,0,0,0,,今、助けてあげますよ。
@@ -501,7 +501,7 @@ Dialogue: 0,0:12:37.92,0:12:38.96,Default,en,0,0,0,,Yeah!
 Comment: 0,0:12:42.39,0:12:46.70,Default,ja,0,0,0,,そろいおったな。積年の恨み、今日こそ決着つけてやるわ！
 Dialogue: 0,0:12:42.39,0:12:46.70,Default,ko,0,0,0,,모였구나. 옛날의 원한은 오늘로 끝장내 주겠다!
 Dialogue: 0,0:12:42.39,0:12:46.70,Default,en,0,0,0,,So everyone's here. I'll finish all of you up today!
-Comment: 0,0:12:47.32,0:12:50.94,Default,ja,0,0,0,,おいらたちのチームワークは無敵だス！みんな、行くダス！
+Comment: 0,0:12:47.32,0:12:50.94,Default,ja,0,0,0,,おいらたちのチームワークは無敵だス！みんな、行くだス！
 Dialogue: 0,0:12:47.32,0:12:50.94,Default,ko,0,0,0,,우리 팀워크는 무적이오! 다들 가오!
 Dialogue: 0,0:12:47.32,0:12:50.94,Default,en,0,0,0,,Our teamwork makes as invincible-{\i1}dasu{\i0}! Let's go, everyone-{\i1}dasu{\i0}!
 Comment: 0,0:13:14.95,0:13:17.55,Default,ja,0,0,0,,二天一流、閃光剣！
@@ -572,7 +572,7 @@ Dialogue: 0,0:15:17.77,0:15:18.26,Default,en,0,0,0,,Yessir!
 Comment: 0,0:15:21.82,0:15:26.24,Default,ja,0,0,0,,ムサシ殿、ここは麿たちに任せて、ノブナガを倒しに行ってください。
 Dialogue: 0,0:15:21.82,0:15:26.24,Default,ko,0,0,0,,무사시 님. 여기는 저희에게 맡기시고 노부나가를 쓰러트리러 가 주세요!
 Dialogue: 0,0:15:21.82,0:15:26.24,Default,en,0,0,0,,Mr. Nobunaga. Leave this to us, and please go take down Nobunaga!
-Comment: 0,0:15:26.24,0:15:27.21,Default,ja,0,0,0,,わかったダス！
+Comment: 0,0:15:26.24,0:15:27.21,Default,ja,0,0,0,,わかっただス！
 Dialogue: 0,0:15:26.24,0:15:27.21,Default,ko,0,0,0,,알겠소!
 Dialogue: 0,0:15:26.24,0:15:27.21,Default,en,0,0,0,,Got it-{\i1}dasu{\i0}!
 Comment: 0,0:15:30.23,0:15:31.63,Default,ja,0,0,0,,コジロー！・おう！
@@ -593,7 +593,7 @@ Dialogue: 0,0:15:46.68,0:15:47.30,Default,en,0,0,0,,Musashi!
 Comment: 0,0:15:52.57,0:15:53.33,Default,ja,0,0,0,,くらえ！
 Dialogue: 0,0:15:52.57,0:15:53.33,Default,ko,0,0,0,,먹어라!
 Dialogue: 0,0:15:52.57,0:15:53.33,Default,en,0,0,0,,Take this!
-Comment: 0,0:15:54.28,0:15:55.92,Default,ja,0,0,0,,このままじゃやられてしまうダス！
+Comment: 0,0:15:54.28,0:15:55.92,Default,ja,0,0,0,,このままじゃやられてしまうだス！
 Dialogue: 0,0:15:54.28,0:15:55.92,Default,ko,0,0,0,,이대로라면 당하고 마오!
 Dialogue: 0,0:15:54.28,0:15:55.92,Default,en,0,0,0,,I'll be done for at this rate-{\i1}dasu{\i0}!
 Comment: 0,0:16:01.46,0:16:02.50,Default,ja,0,0,0,,からくり変化！
@@ -640,7 +640,7 @@ Dialogue: 0,0:17:09.29,0:17:11.05,Default,en,0,0,0,,Come back as soon as possibl
 Comment: 0,0:17:18.08,0:17:20.92,Default,ja,0,0,0,,鳳凰丸！不死鳥の舞！
 Dialogue: 0,0:17:18.08,0:17:20.92,Default,ko,0,0,0,,봉황환! 불사조의 춤!
 Dialogue: 0,0:17:18.08,0:17:20.92,Default,en,0,0,0,,Hououmaru! Dance of Phoenix!
-Comment: 0,0:17:26.78,0:17:27.68,Default,ja,0,0,0,,やったダス！
+Comment: 0,0:17:26.78,0:17:27.68,Default,ja,0,0,0,,やっただス！
 Dialogue: 0,0:17:26.78,0:17:27.68,Default,ko,0,0,0,,해냈소!
 Dialogue: 0,0:17:26.78,0:17:27.68,Default,en,0,0,0,,We did it-{\i1}dasu{\i0}!
 Comment: 0,0:17:31.96,0:17:33.81,Default,ja,0,0,0,,やりよったな、小僧！
@@ -661,7 +661,7 @@ Dialogue: 0,0:17:44.65,0:17:45.92,Default,en,0,0,0,,Mr. Musashi!
 Comment: 0,0:17:52.03,0:17:52.84,Default,ja,0,0,0,,オツルちゃん！
 Dialogue: 0,0:17:52.03,0:17:52.84,Default,ko,0,0,0,,오츠루!
 Dialogue: 0,0:17:52.03,0:17:52.84,Default,en,0,0,0,,Otsuru!
-Comment: 0,0:17:53.45,0:17:56.53,Default,ja,0,0,0,,よくもオツルちゃんを！おいら起こったダス！
+Comment: 0,0:17:53.45,0:17:56.53,Default,ja,0,0,0,,よくもオツルちゃんを！おいら起こっただス！
 Dialogue: 0,0:17:53.45,0:17:56.53,Default,ko,0,0,0,,감히 오츠루를! 나 화났소!
 Dialogue: 0,0:17:53.45,0:17:56.53,Default,en,0,0,0,,How dare you do that to Otsuru!? I'm mad-{\i1}dasu{\i0}!
 Comment: 0,0:17:58.69,0:18:02.22,Default,ja,0,0,0,,二天一流、双龍剣！
@@ -676,7 +676,7 @@ Dialogue: 0,0:18:19.94,0:18:20.74,Default,en,0,0,0,,Are you okay?
 Comment: 0,0:18:21.08,0:18:22.41,Default,ja,0,0,0,,どうした！ムサシ！
 Dialogue: 0,0:18:21.08,0:18:22.41,Default,ko,0,0,0,,왜 그러냐, 무사시!
 Dialogue: 0,0:18:21.08,0:18:22.41,Default,en,0,0,0,,What's wrong, Musashi?
-Comment: 0,0:18:22.82,0:18:27.90,Default,ja,0,0,0,,おいら、今ので力を使い切ってしまっただス。おなか減ったダス！
+Comment: 0,0:18:22.82,0:18:27.90,Default,ja,0,0,0,,おいら、今ので力を使い切ってしまっただス。おなか減っただス！
 Dialogue: 0,0:18:22.82,0:18:27.90,Default,ko,0,0,0,,나, 방금 그것으로 힘을 다 써 버렸소. 배가 고프오...
 Dialogue: 0,0:18:22.82,0:18:27.90,Default,en,0,0,0,,I just used up all my power by that-{\i1}dasu{\i0}. I'm hungry-{\i1}dasu{\i0}...
 Comment: 0,0:18:28.72,0:18:30.54,Default,ja,0,0,0,,はい、ムサシさん！お団子！
@@ -805,7 +805,7 @@ Dialogue: 0,0:20:30.15,0:20:35.53,Default,en,0,0,0,,3 minutes until the explosio
 Comment: 0,0:20:36.33,0:20:38.80,Default,ja,0,0,0,,結婚したいまま死ぬなんていやよ！
 Dialogue: 0,0:20:36.33,0:20:38.80,Default,ko,0,0,0,,결혼하지도 못하고 죽는 건 싫어!
 Dialogue: 0,0:20:36.33,0:20:38.80,Default,en,0,0,0,,I don't want to die before being able to marry!
-Comment: 0,0:20:39.04,0:20:42.13,Default,ja,0,0,0,,おいらもオツルちゃんと結婚したかったダス！
+Comment: 0,0:20:39.04,0:20:42.13,Default,ja,0,0,0,,おいらもオツルちゃんと結婚したかっただス！
 Dialogue: 0,0:20:39.04,0:20:42.13,Default,ko,0,0,0,,나도 오츠루하고 결혼하고 싶었소!
 Dialogue: 0,0:20:39.04,0:20:42.13,Default,en,0,0,0,,I wanted to marry Otsuru-{\i1}dasu{\i0}!
 Comment: 0,0:20:42.13,0:20:45.04,Default,ja,0,0,0,,やだわ、ムサシさんったら、みんなの前で！

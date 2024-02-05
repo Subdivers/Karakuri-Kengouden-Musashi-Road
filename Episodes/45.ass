@@ -111,10 +111,10 @@ Dialogue: 0,0:04:22.66,0:04:25.27,Default,en,0,0,0,,-What?\N-Could she be captur
 Comment: 0,0:04:25.27,0:04:28.30,Default,ja,0,0,0,,どいてどいて！邪魔よ、ムサシ！そこどいて！
 Dialogue: 0,0:04:25.27,0:04:28.30,Default,ko,0,0,0,,비켜비켜! 방해돼, 무사시! 어서 비켜!
 Dialogue: 0,0:04:25.27,0:04:28.30,Default,en,0,0,0,,Get out of my way! Musashi, you're standing in my way! Move!
-Comment: 0,0:04:28.30,0:04:30.30,Default,ja,0,0,0,,ああ、おせんちゃん！無事だったダスか！
+Comment: 0,0:04:28.30,0:04:30.30,Default,ja,0,0,0,,ああ、おせんちゃん！無事だっただスか！
 Dialogue: 0,0:04:28.30,0:04:30.30,Default,ko,0,0,0,,센짱, 무사했소!
 Dialogue: 0,0:04:28.30,0:04:30.30,Default,en,0,0,0,,Sen-chan, you're safe!
-Comment: 0,0:04:32.81,0:04:35.91,Default,ja,0,0,0,,おせんちゃん、大丈夫ダスか？あ、あの、おせんちゃん？
+Comment: 0,0:04:32.81,0:04:35.91,Default,ja,0,0,0,,おせんちゃん、大丈夫だスか？あ、あの、おせんちゃん？
 Dialogue: 0,0:04:32.81,0:04:35.91,Default,ko,0,0,0,,센짱, 괜찮소? 어, 센짱?
 Dialogue: 0,0:04:32.81,0:04:35.91,Default,en,0,0,0,,Sen-chan, are you alright? Sen-chan?
 Comment: 0,0:04:38.99,0:04:42.42,Default,ja,0,0,0,,ボッサとしてないでさっそと火を消しなさい！
@@ -153,7 +153,7 @@ Dialogue: 0,0:05:37.69,0:05:38.63,Default,en,0,0,0,,Hey, Musashi!
 Comment: 0,0:05:38.63,0:05:40.79,Default,ja,0,0,0,,ムサシさん、どこへ行く？・ムサシ！
 Dialogue: 0,0:05:38.63,0:05:40.79,Default,ko,0,0,0,,-무사시 씨, 어디 가?\N-무사시!
 Dialogue: 0,0:05:38.63,0:05:40.79,Default,en,0,0,0,,-Mr. Musashi, where are you going!?\N-Musashi!
-Comment: 0,0:05:42.45,0:05:46.79,Default,ja,0,0,0,,待つダス！メガトンジョー！正々堂々と勝負するダス！
+Comment: 0,0:05:42.45,0:05:46.79,Default,ja,0,0,0,,待つだス！メガトンジョー！正々堂々と勝負するだス！
 Dialogue: 0,0:05:42.45,0:05:46.79,Default,ko,0,0,0,,멈추시오, 메가톤성! 정정당당히 승부하시오!
 Dialogue: 0,0:05:42.45,0:05:46.79,Default,en,0,0,0,,Stop right there-{\i1}dasu{\i0}, Megaton Castle! Fight fair and square-{\i1}dasu{\i0}!
 Comment: 0,0:05:52.46,0:05:55.18,Default,ja,0,0,0,,メガトンジョー、どこにいっただス？
@@ -201,7 +201,7 @@ Dialogue: 0,0:06:55.69,0:07:00.09,Default,en,0,0,0,,Mr. Gennai! Mr. Gennai! Mr. 
 Comment: 0,0:07:00.09,0:07:02.56,Default,ja,0,0,0,,ゲンナイ殿！・ゲンナイさん！
 Dialogue: 0,0:07:00.09,0:07:02.56,Default,ko,0,0,0,,-겐나이 님!\N-겐나이 씨!
 Dialogue: 0,0:07:00.09,0:07:02.56,Default,en,0,0,0,,-Mr. Gennai!\N-Mr. Gennai!
-Comment: 0,0:07:03.41,0:07:04.91,Default,ja,0,0,0,,留守みたいダスな。
+Comment: 0,0:07:03.41,0:07:04.91,Default,ja,0,0,0,,留守みたいだスな。
 Dialogue: 0,0:07:03.41,0:07:04.91,Default,ko,0,0,0,,집에 없는 것 같소.
 Dialogue: 0,0:07:03.41,0:07:04.91,Default,en,0,0,0,,It seems that he's not home-{\i1}dasu{\i0}.
 Comment: 0,0:07:13.62,0:07:14.74,Default,ja,0,0,0,,あ、いた、いた！
@@ -252,7 +252,7 @@ Dialogue: 0,0:07:56.74,0:08:01.19,Default,en,0,0,0,,Yes. Your inventions are fam
 Comment: 0,0:08:01.19,0:08:04.88,Default,ja,0,0,0,,子供から年寄りまで、知らないものはいないくらいで。
 Dialogue: 0,0:08:01.19,0:08:04.88,Default,ko,0,0,0,,아이들부터 노인까지 모르는 자는 없을 정도로...
 Dialogue: 0,0:08:01.19,0:08:04.88,Default,en,0,0,0,,From children to old people, everybody knows you!
-Comment: 0,0:08:05.18,0:08:10.06,Default,ja,0,0,0,,コジローうまいダスな！そんな奴、聞いたこともないっていて～だす。
+Comment: 0,0:08:05.18,0:08:10.06,Default,ja,0,0,0,,コジローうまいだスな！そんな奴、聞いたこともないっていて～だす。
 Dialogue: 0,0:08:05.18,0:08:10.06,Default,ko,0,0,0,,코지로도 능숙하오! 그런 놈, 들은 적도 없다고 말했잖소!
 Dialogue: 0,0:08:05.18,0:08:10.06,Default,en,0,0,0,,Kojirō, you're skillful-{\i1}dasu{\i0}! You said that you never heard of him-{\i1}dasu{\i0}!
 Comment: 0,0:08:10.06,0:08:11.38,Default,ja,0,0,0,,あんた、黙っていて！
@@ -354,13 +354,13 @@ Dialogue: 0,0:09:30.98,0:09:31.64,Default,en,0,0,0,,Yes!
 Comment: 0,0:09:31.64,0:09:33.50,Default,ja,0,0,0,,ああ、気持ちはいいな。
 Dialogue: 0,0:09:31.64,0:09:33.50,Default,ko,0,0,0,,아, 기분 좋다.
 Dialogue: 0,0:09:31.64,0:09:33.50,Default,en,0,0,0,,This feels good.
-Comment: 0,0:09:33.50,0:09:35.84,Default,ja,0,0,0,,オツルちゃんもおせんちゃんももういいダス！
+Comment: 0,0:09:33.50,0:09:35.84,Default,ja,0,0,0,,オツルちゃんもおせんちゃんももういいだス！
 Dialogue: 0,0:09:33.50,0:09:35.84,Default,ko,0,0,0,,오츠루도 센짱도 이제 됐소!
 Dialogue: 0,0:09:33.50,0:09:35.84,Default,en,0,0,0,,Both Otsuru and Sen-chan can quit-{\i1}dasu{\i0}!
 Comment: 0,0:09:37.03,0:09:41.26,Default,ja,0,0,0,,なんだかんだいって、本当は作れないもんだからごまかしてるだけなんだス！
 Dialogue: 0,0:09:37.03,0:09:41.26,Default,ko,0,0,0,,이러니저러니 말하면서, 애초에 못 만드니까 속이고 있는 것이오!
 Dialogue: 0,0:09:37.03,0:09:41.26,Default,en,0,0,0,,He's just fooling around because he can't make one-{\i1}dasu{\i0}!
-Comment: 0,0:09:41.49,0:09:45.31,Default,ja,0,0,0,,こんなやつ、大発明家じゃなくて、ただの波乗り爺ダス！
+Comment: 0,0:09:41.49,0:09:45.31,Default,ja,0,0,0,,こんなやつ、大発明家じゃなくて、ただの波乗り爺だス！
 Dialogue: 0,0:09:41.49,0:09:45.31,Default,ko,0,0,0,,이런 놈, 대발명가가 아니고 그냥 파도나 타는 할배일 뿐이오!
 Dialogue: 0,0:09:41.49,0:09:45.31,Default,en,0,0,0,,This guy cannot possibly a great inventor, but instead, he's just an old geezer who happens to surf-{\i1}dasu{\i0}!
 Comment: 0,0:09:45.49,0:09:47.88,Default,ja,0,0,0,,な、なんてこというのよ、ムサシ！
@@ -391,7 +391,7 @@ Dialogue: 0,0:10:17.96,0:10:19.22,Default,en,0,0,0,,I'll do it.
 Comment: 0,0:10:22.87,0:10:23.72,Default,ja,0,0,0,,お、おせんちゃん！
 Dialogue: 0,0:10:22.87,0:10:23.72,Default,ko,0,0,0,,센짱!
 Dialogue: 0,0:10:22.87,0:10:23.72,Default,en,0,0,0,,Sen-chan!
-Comment: 0,0:10:31.26,0:10:34.19,Default,ja,0,0,0,,おせんちゃん！頼むダス！
+Comment: 0,0:10:31.26,0:10:34.19,Default,ja,0,0,0,,おせんちゃん！頼むだス！
 Dialogue: 0,0:10:31.26,0:10:34.19,Default,ko,0,0,0,,센짱! 부탁하오!
 Dialogue: 0,0:10:31.26,0:10:34.19,Default,en,0,0,0,,Sen-chan! Please do it-{\i1}dasu{\i0}!
 Comment: 0,0:10:34.43,0:10:38.86,Default,ja,0,0,0,,へ、やっぱりサーフィンには水着の女の子が似合うな。
@@ -502,10 +502,10 @@ Dialogue: 0,0:13:07.36,0:13:08.50,Default,en,0,0,0,,Oh, what did you say?
 Comment: 0,0:13:08.50,0:13:10.72,Default,ja,0,0,0,,い、いやいや、本当、完璧です。はい！
 Dialogue: 0,0:13:08.50,0:13:10.72,Default,ko,0,0,0,,아, 아니아니, 정말 완벽합니다, 네!
 Dialogue: 0,0:13:08.50,0:13:10.72,Default,en,0,0,0,,N- no, no, it's truly excellent, yes!
-Comment: 0,0:13:10.72,0:13:13.33,Default,ja,0,0,0,,早速メガトンジョーをかけるダス！
+Comment: 0,0:13:10.72,0:13:13.33,Default,ja,0,0,0,,早速メガトンジョーをかけるだス！
 Dialogue: 0,0:13:10.72,0:13:13.33,Default,ko,0,0,0,,어서 메가톤성을 쫓소!
 Dialogue: 0,0:13:10.72,0:13:13.33,Default,en,0,0,0,,Let's chase Megaton Castle right away-{\i1}dasu{\i0}!
-Comment: 0,0:13:14.79,0:13:16.22,Default,ja,0,0,0,,じゃ、行って来るダス。
+Comment: 0,0:13:14.79,0:13:16.22,Default,ja,0,0,0,,じゃ、行って来るだス。
 Dialogue: 0,0:13:14.79,0:13:16.22,Default,ko,0,0,0,,그럼 갔다 오겠소!
 Dialogue: 0,0:13:14.79,0:13:16.22,Default,en,0,0,0,,Then, see you later-{\i1}dasu{\i0}!
 Comment: 0,0:13:16.55,0:13:18.99,Default,ja,0,0,0,,あんまり無茶しないでね、ムサシさん。
@@ -565,7 +565,7 @@ Dialogue: 0,0:14:24.51,0:14:28.60,Default,en,0,0,0,,You know what will happen to
 Comment: 0,0:14:28.60,0:14:30.13,Default,ja,0,0,0,,は、はい。え、あの。
 Dialogue: 0,0:14:28.60,0:14:30.13,Default,ko,0,0,0,,아, 네, 그게...
 Dialogue: 0,0:14:28.60,0:14:30.13,Default,en,0,0,0,,R- right, of course...
-Comment: 0,0:14:33.58,0:14:35.87,Default,ja,0,0,0,,うわ！きれいダスな！
+Comment: 0,0:14:33.58,0:14:35.87,Default,ja,0,0,0,,うわ！きれいだスな！
 Dialogue: 0,0:14:33.58,0:14:35.87,Default,ko,0,0,0,,우와! 예쁘오!
 Dialogue: 0,0:14:33.58,0:14:35.87,Default,en,0,0,0,,Wow! How beautiful-{\i1}dasu{\i0}!
 Comment: 0,0:14:36.85,0:14:39.09,Default,ja,0,0,0,,おさかなになったおいら。
@@ -580,7 +580,7 @@ Dialogue: 0,0:14:41.79,0:14:47.36,Default,en,0,0,0,,Since we're finding Megaton 
 Comment: 0,0:14:48.79,0:14:50.58,Default,ja,0,0,0,,あ！レーダーに反応が！
 Dialogue: 0,0:14:48.79,0:14:50.58,Default,ko,0,0,0,,어, 레이더에 반응이!
 Dialogue: 0,0:14:48.79,0:14:50.58,Default,en,0,0,0,,There's a reaction on the radar!
-Comment: 0,0:14:51.01,0:14:52.31,Default,ja,0,0,0,,メガトンジョーダスか？
+Comment: 0,0:14:51.01,0:14:52.31,Default,ja,0,0,0,,メガトンジョーだスか？
 Dialogue: 0,0:14:51.01,0:14:52.31,Default,ko,0,0,0,,메가톤성이오?
 Dialogue: 0,0:14:51.01,0:14:52.31,Default,en,0,0,0,,Is it Megaton Castle-{\i1}dasu{\i0}?
 Comment: 0,0:14:52.31,0:14:54.42,Default,ja,0,0,0,,わからん。しかし、かなりでかいぞ。
@@ -637,7 +637,7 @@ Dialogue: 0,0:16:16.89,0:16:17.91,Default,en,0,0,0,,What's this?
 Comment: 0,0:16:18.20,0:16:19.46,Default,ja,0,0,0,,おい、やめろ、ケロ吉！
 Dialogue: 0,0:16:18.20,0:16:19.46,Default,ko,0,0,0,,어이, 하지 마, 케로키치!
 Dialogue: 0,0:16:18.20,0:16:19.46,Default,en,0,0,0,,Hey, don't do that, Kerokichi!
-Comment: 0,0:16:23.50,0:16:27.05,Default,ja,0,0,0,,うわ！このままに海のもずくになってしまうダス！
+Comment: 0,0:16:23.50,0:16:27.05,Default,ja,0,0,0,,うわ！このままに海のもずくになってしまうだス！
 Dialogue: 0,0:16:23.50,0:16:27.05,Default,ko,0,0,0,,으악! 이대로라면 바다의 큰실말(모즈쿠)가 되고 마오!
 Dialogue: 0,0:16:23.50,0:16:27.05,Default,en,0,0,0,,Wah! We'll end up becoming seaweeds({\i1}mozuku{\i0})-{\i1}dasu{\i0}!
 Comment: 0,0:16:27.05,0:16:28.62,Default,ja,0,0,0,,藻屑だ、バカめ！
@@ -741,7 +741,7 @@ Dialogue: 0,0:20:31.32,0:20:32.05,Default,en,0,0,0,,Mr. Musashi!
 Comment: 0,0:20:32.73,0:20:34.81,Default,ja,0,0,0,,勝負はひとまずお預けだ！
 Dialogue: 0,0:20:32.73,0:20:34.81,Default,ko,0,0,0,,승부는 일단 나중이다!
 Dialogue: 0,0:20:32.73,0:20:34.81,Default,en,0,0,0,,We'll finish this later!
-Comment: 0,0:20:36.81,0:20:37.90,Default,ja,0,0,0,,待つダス！
+Comment: 0,0:20:36.81,0:20:37.90,Default,ja,0,0,0,,待つだス！
 Dialogue: 0,0:20:36.81,0:20:37.90,Default,ko,0,0,0,,멈추시오!
 Dialogue: 0,0:20:36.81,0:20:37.90,Default,en,0,0,0,,Stop-{\i1}dasu{\i0}!
 Comment: 0,0:20:46.28,0:20:47.79,Default,ja,0,0,0,,な、なんだ？！
@@ -770,7 +770,7 @@ Dialogue: 0,0:21:26.54,0:21:28.92,Default,en,0,0,0,,Well, we gave a lot of damag
 Comment: 0,0:21:29.39,0:21:33.27,Default,ja,0,0,0,,だけど、せっかく作ってもらった潜水艦おいてきちゃっただす。
 Dialogue: 0,0:21:29.39,0:21:33.27,Default,ko,0,0,0,,그래도 기껏 만들어 받은 잠수함을 잃어버렸소.
 Dialogue: 0,0:21:29.39,0:21:33.27,Default,en,0,0,0,,But, we lost the submarine that we just got-{\i1}dasu{\i0}...
-Comment: 0,0:21:40.86,0:21:45.86,Default,ja,0,0,0,,よかっただす。またオツルちゃんの水着姿見せなきゃならないとこだったダス。
+Comment: 0,0:21:40.86,0:21:45.86,Default,ja,0,0,0,,よかっただす。またオツルちゃんの水着姿見せなきゃならないとこだっただス。
 Dialogue: 0,0:21:40.86,0:21:45.86,Default,ko,0,0,0,,잘 됐소. 다시 오츠루의 수영복 차림을 보여야만 할 참이었소.
 Dialogue: 0,0:21:40.86,0:21:45.86,Default,en,0,0,0,,What a relief-{\i1}dasu{\i0}. Otsuru might had to show her swimsuit look again-{\i1}dasu{\i0}.
 Comment: 0,0:21:46.40,0:21:48.57,Default,ja,0,0,0,,でも、ちょびっと残念だったりして。

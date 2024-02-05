@@ -142,10 +142,10 @@ Dialogue: 0,0:04:05.85,0:04:07.00,Default,en,0,0,0,,I'm sorry-{\i1}dasu{\i0}.
 Comment: 0,0:04:07.46,0:04:10.53,Default,ja,0,0,0,,この先の村へ行って、止めてもらえるように、話をつけて来い。
 Dialogue: 0,0:04:07.46,0:04:10.53,Default,ko,0,0,0,,이 앞의 마을에 가서 묵을 수 있는지 이야기해보러 가라.
 Dialogue: 0,0:04:07.46,0:04:10.53,Default,en,0,0,0,,Go to the village ahead and ask them if there's a room to stay for a night.
-Comment: 0,0:04:11.23,0:04:14.25,Default,ja,0,0,0,,また偉そうにめりして。行くダスよ！
+Comment: 0,0:04:11.23,0:04:14.25,Default,ja,0,0,0,,また偉そうにめりして。行くだスよ！
 Dialogue: 0,0:04:11.23,0:04:14.25,Default,ko,0,0,0,,또 잘난 척 명령하긴... 가오!
 Dialogue: 0,0:04:11.23,0:04:14.25,Default,en,0,0,0,,Proud of yourself again, eh? I'm going-{\i1}dasu{\i0}!
-Comment: 0,0:04:14.25,0:04:15.91,Default,ja,0,0,0,,いつかで返してやるダス！
+Comment: 0,0:04:14.25,0:04:15.91,Default,ja,0,0,0,,いつかで返してやるだス！
 Dialogue: 0,0:04:14.25,0:04:15.91,Default,ko,0,0,0,,언젠간 되돌려 주겠소!
 Dialogue: 0,0:04:14.25,0:04:15.91,Default,en,0,0,0,,I'll pay all this back someday!
 Comment: 0,0:04:16.75,0:04:18.17,Default,ja,0,0,0,,文句の多い奴だ。
@@ -226,7 +226,7 @@ Dialogue: 0,0:05:43.88,0:05:44.69,Default,en,0,0,0,,Karaoke?
 Comment: 0,0:05:45.27,0:05:48.11,Default,ja,0,0,0,,からの桶をたたえて歌いおどるだよ。
 Dialogue: 0,0:05:45.27,0:05:48.11,Default,ko,0,0,0,,빈 통을 채워 노래부르고 춤추는 거라오.
 Dialogue: 0,0:05:45.27,0:05:48.11,Default,en,0,0,0,,You'll fill an empty jar and sing and dance with it.
-Comment: 0,0:05:48.61,0:05:51.06,Default,ja,0,0,0,,へ、そいつは面白そうダスな！
+Comment: 0,0:05:48.61,0:05:51.06,Default,ja,0,0,0,,へ、そいつは面白そうだスな！
 Dialogue: 0,0:05:48.61,0:05:51.06,Default,ko,0,0,0,,오, 그건 재미있게 들리오!
 Dialogue: 0,0:05:48.61,0:05:51.06,Default,en,0,0,0,,That does sound interesting-{\i1}dasu{\i0}!
 Comment: 0,0:05:57.14,0:05:59.12,Default,ja,0,0,0,,わは、いいぞ、いいぞ！
@@ -247,7 +247,7 @@ Dialogue: 0,0:06:13.49,0:06:16.43,Default,en,0,0,0,,Even thought nothing is here
 Comment: 0,0:06:20.76,0:06:28.56,Default,ja,0,0,0,,これは、この村に古くからすたあろうふろうちょうじの妙薬、百歳までも若く長生きできるといわれ通ります。
 Dialogue: 0,0:06:20.76,0:06:28.56,Default,ko,0,0,0,,이건 이 마을에 오래 전부터 전해져 오는 불로장생의 묘약, 100살까지도 젊고 기차게 살 수 있다고 전해져 옵니다.
 Dialogue: 0,0:06:20.76,0:06:28.56,Default,en,0,0,0,,This is a miracle drug of eternal youth from long time ago; with this, you can live young even when you're 100 years old.
-Comment: 0,0:06:29.06,0:06:31.59,Default,ja,0,0,0,,えぇ、百歳までもダスか？
+Comment: 0,0:06:29.06,0:06:31.59,Default,ja,0,0,0,,えぇ、百歳までもだスか？
 Dialogue: 0,0:06:29.06,0:06:31.59,Default,ko,0,0,0,,100살까지이오?
 Dialogue: 0,0:06:29.06,0:06:31.59,Default,en,0,0,0,,Live more than age 100-{\i1}dasu{\i0}?
 Comment: 0,0:06:44.98,0:06:47.68,Default,ja,0,0,0,,へへ、よく聞く眠りブスリじゃ。
@@ -280,7 +280,7 @@ Dialogue: 0,0:07:30.11,0:07:32.90,Default,en,0,0,0,,We knew it was a bad thing t
 Comment: 0,0:07:32.90,0:07:34.51,Default,ja,0,0,0,,冗談じゃないわよ！
 Dialogue: 0,0:07:32.90,0:07:34.51,Default,ko,0,0,0,,장난하냐!
 Dialogue: 0,0:07:32.90,0:07:34.51,Default,en,0,0,0,,Don't be stupid!
-Comment: 0,0:07:34.51,0:07:37.28,Default,ja,0,0,0,,あ、よく寝たダス。
+Comment: 0,0:07:34.51,0:07:37.28,Default,ja,0,0,0,,あ、よく寝ただス。
 Dialogue: 0,0:07:34.51,0:07:37.28,Default,ko,0,0,0,,아, 잘 잤소.
 Dialogue: 0,0:07:34.51,0:07:37.28,Default,en,0,0,0,,That was a good sleep-{\i1}dasu{\i0}.
 Comment: 0,0:07:37.92,0:07:39.38,Default,ja,0,0,0,,うん？みんな、どうしてあだすか？
@@ -298,25 +298,25 @@ Dialogue: 0,0:07:48.76,0:07:53.41,Default,en,0,0,0,,Can't you do anything? Why n
 Comment: 0,0:07:53.41,0:07:57.81,Default,ja,0,0,0,,それが、とてもとても手前どもの手に負える代物では。。。
 Dialogue: 0,0:07:53.41,0:07:57.81,Default,ko,0,0,0,,그게 정말정말 저희 손으로 이길 수 있는 상대가...
 Dialogue: 0,0:07:53.41,0:07:57.81,Default,en,0,0,0,,That is, it isn't like that we can defeat it by ourselves.
-Comment: 0,0:07:58.23,0:08:00.23,Default,ja,0,0,0,,分かった。おいらに任せるダス！
+Comment: 0,0:07:58.23,0:08:00.23,Default,ja,0,0,0,,分かった。おいらに任せるだス！
 Dialogue: 0,0:07:58.23,0:08:00.23,Default,ko,0,0,0,,알겠소. 우리에게 맡기시오!
 Dialogue: 0,0:07:58.23,0:08:00.23,Default,en,0,0,0,,Got it. Leave it to us-{\i1}dasu{\i0}!
 Comment: 0,0:08:02.32,0:08:05.62,Default,ja,0,0,0,,ムサシ、私たちの大事な役名を考えろ！
 Dialogue: 0,0:08:02.32,0:08:05.62,Default,ko,0,0,0,,무사시, 우리 목적이 뭔지 생각해라!
 Dialogue: 0,0:08:02.32,0:08:05.62,Default,en,0,0,0,,Musashi, don't forget about our objective!
-Comment: 0,0:08:06.00,0:08:11.09,Default,ja,0,0,0,,[??????????????] いや、ヤマタノオロチだろうと、大根オロチだろうと、おいらが退治して見せるダス！
+Comment: 0,0:08:06.00,0:08:11.09,Default,ja,0,0,0,,[??????????????] いや、ヤマタノオロチだろうと、大根オロチだろうと、おいらが退治して見せるだス！
 Dialogue: 0,0:08:06.00,0:08:11.09,Default,ko,0,0,0,,아니, 야마타노오로치든 무슨 오로치든 내가 퇴치해 보이겠소!
 Dialogue: 0,0:08:06.00,0:08:11.09,Default,en,0,0,0,,No, I'll be the one who's going to take Yamata no Orochi or something down!
 Comment: 0,0:08:11.57,0:08:12.84,Default,ja,0,0,0,,ほ、本当ですか？
 Dialogue: 0,0:08:11.57,0:08:12.84,Default,ko,0,0,0,,저, 정말입니까?
 Dialogue: 0,0:08:11.57,0:08:12.84,Default,en,0,0,0,,A- are you serious?
-Comment: 0,0:08:13.82,0:08:18.24,Default,ja,0,0,0,,ジパングナンバーワンの武芸者を目指すおいらだス。二言はないダス！
+Comment: 0,0:08:13.82,0:08:18.24,Default,ja,0,0,0,,ジパングナンバーワンの武芸者を目指すおいらだス。二言はないだス！
 Dialogue: 0,0:08:13.82,0:08:18.24,Default,ko,0,0,0,,지팡구 제일의 무예가를 노리는 나이오! 두 말은 하지 않소!
 Dialogue: 0,0:08:13.82,0:08:18.24,Default,en,0,0,0,,I am looking to become the number one Martial Artist of Jipangu! I do not take back my words-{\i1}dasu{\i0}!
 Comment: 0,0:08:18.74,0:08:20.81,Default,ja,0,0,0,,ムサシ、私は知らんぞ！
 Dialogue: 0,0:08:18.74,0:08:20.81,Default,ko,0,0,0,,무사시, 난 모른다!
 Dialogue: 0,0:08:18.74,0:08:20.81,Default,en,0,0,0,,Musashi, I won't care!
-Comment: 0,0:08:21.32,0:08:25.67,Default,ja,0,0,0,,あ！いいだすとも。おいら、なにがなんでもやってみせるダス！
+Comment: 0,0:08:21.32,0:08:25.67,Default,ja,0,0,0,,あ！いいだすとも。おいら、なにがなんでもやってみせるだス！
 Dialogue: 0,0:08:21.32,0:08:25.67,Default,ko,0,0,0,,아, 좋소! 나, 뭐가 어떻든 해 보이겠소!
 Dialogue: 0,0:08:21.32,0:08:25.67,Default,en,0,0,0,,Sure then-{\i1}dasu{\i0}! I'll do this no matter what-{\i1}dasu{\i0}!
 Comment: 0,0:08:28.69,0:08:31.55,Default,ja,0,0,0,,ヤマタノオロチ。。。土蜘蛛。。。
@@ -325,13 +325,13 @@ Dialogue: 0,0:08:28.69,0:08:31.55,Default,en,0,0,0,,Yamata no Orochi... Tsuchigu
 Comment: 0,0:08:32.61,0:08:39.61,Default,ja,0,0,0,,その怪物が、神代の頃より、名刀天空丸、天地丸を守っていると伝えられています。
 Dialogue: 0,0:08:32.61,0:08:39.61,Default,ko,0,0,0,,신이 다스리던 시대부터 명도 천공환, 천지환을 지키고 있다고 전해지는 괴물입니다.
 Dialogue: 0,0:08:32.61,0:08:39.61,Default,en,0,0,0,,They are monsters that are told to be protecting the sacred swords named Tenkūmaru and Tenchimaru.
-Comment: 0,0:08:41.22,0:08:44.90,Default,ja,0,0,0,,この怪物を退治すれば、その名刀が手に入るダスな！
+Comment: 0,0:08:41.22,0:08:44.90,Default,ja,0,0,0,,この怪物を退治すれば、その名刀が手に入るだスな！
 Dialogue: 0,0:08:41.22,0:08:44.90,Default,ko,0,0,0,,그 괴물을 퇴치하면 그 명도가 손에 들어오는 것이오!
 Dialogue: 0,0:08:41.22,0:08:44.90,Default,en,0,0,0,,So by getting rid of those monsters, I will be able to have those excellent swords!
 Comment: 0,0:08:45.43,0:08:49.44,Default,ja,0,0,0,,その時こそ、ムサシ殿は天下一の剣豪となることでしょう。
 Dialogue: 0,0:08:45.43,0:08:49.44,Default,ko,0,0,0,,그 때야말로 무사시 님은 천하제일의 검호가 되겠죠.
 Dialogue: 0,0:08:45.43,0:08:49.44,Default,en,0,0,0,,When that time comes, Mr. Musashi, you'll become the best of the master swordsmen in the world.
-Comment: 0,0:08:51.64,0:08:53.54,Default,ja,0,0,0,,おいら、目一杯やるダス！
+Comment: 0,0:08:51.64,0:08:53.54,Default,ja,0,0,0,,おいら、目一杯やるだス！
 Dialogue: 0,0:08:51.64,0:08:53.54,Default,ko,0,0,0,,나, 힘껏 해 보겠소!
 Dialogue: 0,0:08:51.64,0:08:53.54,Default,en,0,0,0,,I'll do my best-{\i1}dasu{\i0}!
 Comment: 0,0:08:53.85,0:08:57.18,Default,ja,0,0,0,,それが本当ならこんなにありがたいことはございません！
@@ -409,7 +409,7 @@ Dialogue: 0,0:11:01.30,0:11:04.24,Default,en,0,0,0,,One of Four Iga Kings, Shute
 Comment: 0,0:11:07.45,0:11:08.51,Default,ja,0,0,0,,おせんちゃん
 Dialogue: 0,0:11:07.45,0:11:08.51,Default,ko,0,0,0,,센짱!
 Dialogue: 0,0:11:07.45,0:11:08.51,Default,en,0,0,0,,Sen-chan!
-Comment: 0,0:11:19.86,0:11:22.66,Default,ja,0,0,0,,あたまが多いだけの蛇なんかにやられんダス！
+Comment: 0,0:11:19.86,0:11:22.66,Default,ja,0,0,0,,あたまが多いだけの蛇なんかにやられんだス！
 Dialogue: 0,0:11:19.86,0:11:22.66,Default,ko,0,0,0,,머리가 많은 뱀 따위에게 당하지 않겠소!
 Dialogue: 0,0:11:19.86,0:11:22.66,Default,en,0,0,0,,I won't be defeated by a snake with many heads-{\i1}dasu{\i0}!
 Comment: 0,0:11:30.56,0:11:31.33,Default,ja,0,0,0,,くそ！
@@ -442,7 +442,7 @@ Dialogue: 0,0:12:13.70,0:12:14.40,Default,en,0,0,0,,Musashi!
 Comment: 0,0:12:19.61,0:12:22.85,Default,ja,0,0,0,,この！おいらのコテツ、返しだス！
 Dialogue: 0,0:12:19.61,0:12:22.85,Default,ko,0,0,0,,이놈! 내 코테츠 돌려주시오!
 Dialogue: 0,0:12:19.61,0:12:22.85,Default,en,0,0,0,,You bastard! Give me back my Kotetsu!
-Comment: 0,0:12:23.24,0:12:25.38,Default,ja,0,0,0,,[??????????] しばいだ！怒るダスよ！
+Comment: 0,0:12:23.24,0:12:25.38,Default,ja,0,0,0,,[??????????] しばいだ！怒るだスよ！
 Dialogue: 0,0:12:23.24,0:12:25.38,Default,ko,0,0,0,,그만두지 않으면 화낼 것이오!
 Dialogue: 0,0:12:23.24,0:12:25.38,Default,en,0,0,0,,Either you stop, or I'll get angry!
 Comment: 0,0:12:28.65,0:12:32.91,Default,ja,0,0,0,,ムサシ、危ない！疾風怒濤のご飯を待って！
@@ -466,7 +466,7 @@ Dialogue: 0,0:12:50.29,0:12:52.01,Default,en,0,0,0,,My Kotetsu...
 Comment: 0,0:12:52.78,0:12:54.08,Default,ja,0,0,0,,あのやろ！
 Dialogue: 0,0:12:52.78,0:12:54.08,Default,ko,0,0,0,,이놈!
 Dialogue: 0,0:12:52.78,0:12:54.08,Default,en,0,0,0,,You bastard!
-Comment: 0,0:12:56.17,0:12:57.26,Default,ja,0,0,0,,何するダス！
+Comment: 0,0:12:56.17,0:12:57.26,Default,ja,0,0,0,,何するだス！
 Dialogue: 0,0:12:56.17,0:12:57.26,Default,ko,0,0,0,,뭔 짓이오!
 Dialogue: 0,0:12:56.17,0:12:57.26,Default,en,0,0,0,,What was that for-{\i1}dasu{\i0}?!
 Comment: 0,0:12:57.26,0:12:58.70,Default,ja,0,0,0,,いいから耳を貸せ！
@@ -493,7 +493,7 @@ Dialogue: 0,0:14:01.56,0:14:02.13,Default,en,0,0,0,,Here it is!
 Comment: 0,0:14:03.94,0:14:08.43,Default,ja,0,0,0,,おお、まさしくセンヒメ様の物。このあたりにくまなく探すんだ！
 Dialogue: 0,0:14:03.94,0:14:08.43,Default,ko,0,0,0,,오, 이건 참말로 센히메의 물건. 이 주변에서 찾아라!
 Dialogue: 0,0:14:03.94,0:14:08.43,Default,en,0,0,0,,This really is of Senhime. Find her around this place!
-Comment: 0,0:14:09.31,0:14:12.36,Default,ja,0,0,0,,おせんちゃん、おいらがきっと助けてあげるダス！
+Comment: 0,0:14:09.31,0:14:12.36,Default,ja,0,0,0,,おせんちゃん、おいらがきっと助けてあげるだス！
 Dialogue: 0,0:14:09.31,0:14:12.36,Default,ko,0,0,0,,센짱, 내가 꼭 구해 주겠소!
 Dialogue: 0,0:14:09.31,0:14:12.36,Default,en,0,0,0,,Sen-chan, I'll rescue you no matter what!
 Comment: 0,0:14:13.07,0:14:18.17,Default,ja,0,0,0,,ムサシ！おけっとしてるな！音はと言えば、お前のせいでこうなったんだぞ！
@@ -508,7 +508,7 @@ Dialogue: 0,0:14:22.39,0:14:24.69,Default,en,0,0,0,,What you did is nothing more
 Comment: 0,0:14:25.08,0:14:25.78,Default,ja,0,0,0,,なんだすと？
 Dialogue: 0,0:14:25.08,0:14:25.78,Default,ko,0,0,0,,뭣이오?!
 Dialogue: 0,0:14:25.08,0:14:25.78,Default,en,0,0,0,,What-{\i1}dasu{\i0}?!
-Comment: 0,0:14:26.73,0:14:28.43,Default,ja,0,0,0,,そんなんじゃないダス！
+Comment: 0,0:14:26.73,0:14:28.43,Default,ja,0,0,0,,そんなんじゃないだス！
 Dialogue: 0,0:14:26.73,0:14:28.43,Default,ko,0,0,0,,그런 게 아니오!
 Dialogue: 0,0:14:26.73,0:14:28.43,Default,en,0,0,0,,That isn't true-{\i1}dasu{\i0}!
 Comment: 0,0:14:29.89,0:14:31.21,Default,ja,0,0,0,,きっさま！
@@ -562,7 +562,7 @@ Dialogue: 0,0:15:28.70,0:15:30.32,Default,en,0,0,0,,Anyway leave this to me!
 Comment: 0,0:15:31.10,0:15:31.68,Default,ja,0,0,0,,いや！
 Dialogue: 0,0:15:31.10,0:15:31.68,Default,ko,0,0,0,,아니오!
 Dialogue: 0,0:15:31.10,0:15:31.68,Default,en,0,0,0,,Nope!
-Comment: 0,0:15:33.13,0:15:34.81,Default,ja,0,0,0,,あたえに任すダス！
+Comment: 0,0:15:33.13,0:15:34.81,Default,ja,0,0,0,,あたえに任すだス！
 Dialogue: 0,0:15:33.13,0:15:34.81,Default,ko,0,0,0,,내게 맡기시오!
 Dialogue: 0,0:15:33.13,0:15:34.81,Default,en,0,0,0,,Leave it to me!
 Comment: 0,0:15:34.81,0:15:37.62,Default,ja,0,0,0,,な、なんだ、そのかっこは、ムサシ！
@@ -577,7 +577,7 @@ Dialogue: 0,0:15:40.13,0:15:42.17,Default,en,0,0,0,,This is also for Sen-chan-{\
 Comment: 0,0:15:44.92,0:15:49.63,Default,ja,0,0,0,,そんな怖いがおしないでよ、野みたいなんじゃないがたは待って！
 Dialogue: 0,0:15:44.92,0:15:49.63,Default,ko,0,0,0,,그런 무서운 얼굴 하지 말구, 마시고 싶지 않을까 하고 생각해서!
 Dialogue: 0,0:15:44.92,0:15:49.63,Default,en,0,0,0,,Quit making scary faces; I know you want to drink!
-Comment: 0,0:15:50.09,0:15:52.01,Default,ja,0,0,0,,お酒持ってきたダス。おわよ。
+Comment: 0,0:15:50.09,0:15:52.01,Default,ja,0,0,0,,お酒持ってきただス。おわよ。
 Dialogue: 0,0:15:50.09,0:15:52.01,Default,ko,0,0,0,,술 가져왔소. 마시시오.
 Dialogue: 0,0:15:50.09,0:15:52.01,Default,en,0,0,0,,I brought some alcohol-{\i1}dasu{\i0}. Have some.
 Comment: 0,0:15:54.27,0:15:58.82,Default,ja,0,0,0,,さあ、おろちゃん、なあい男で返事しないで楽しくやりましょ。
@@ -643,7 +643,7 @@ Dialogue: 0,0:17:10.86,0:17:12.06,Default,en,0,0,0,,Catch this, Musashi!
 Comment: 0,0:17:13.82,0:17:14.62,Default,ja,0,0,0,,よし！
 Dialogue: 0,0:17:13.82,0:17:14.62,Default,ko,0,0,0,,알겠소!
 Dialogue: 0,0:17:13.82,0:17:14.62,Default,en,0,0,0,,Got it!
-Comment: 0,0:17:28.44,0:17:30.75,Default,ja,0,0,0,,おい、オロチ、成敗してやるダス！
+Comment: 0,0:17:28.44,0:17:30.75,Default,ja,0,0,0,,おい、オロチ、成敗してやるだス！
 Dialogue: 0,0:17:28.44,0:17:30.75,Default,ko,0,0,0,,어이, 오로치, 참수해주겠소!
 Dialogue: 0,0:17:28.44,0:17:30.75,Default,en,0,0,0,,Hey, Orochi, I'll cut your neck down-{\i1}dasu{\i0}!
 Comment: 0,0:17:31.08,0:17:31.80,Default,ja,0,0,0,,あ、あら？
@@ -652,7 +652,7 @@ Dialogue: 0,0:17:31.08,0:17:31.80,Default,en,0,0,0,,Oh?
 Comment: 0,0:17:31.80,0:17:32.73,Default,ja,0,0,0,,うあ！
 Dialogue: 0,0:17:31.80,0:17:32.73,Default,ko,0,0,0,,으악!
 Dialogue: 0,0:17:31.80,0:17:32.73,Default,en,0,0,0,,Wah!
-Comment: 0,0:17:33.37,0:17:36.54,Default,ja,0,0,0,,コジロー！天地丸をくれダス！
+Comment: 0,0:17:33.37,0:17:36.54,Default,ja,0,0,0,,コジロー！天地丸をくれだス！
 Dialogue: 0,0:17:33.37,0:17:36.54,Default,ko,0,0,0,,코지로! 천지환 주시오!
 Dialogue: 0,0:17:33.37,0:17:36.54,Default,en,0,0,0,,Kojirō! Give me my Tenchimaru!
 Comment: 0,0:17:37.59,0:17:41.23,Default,ja,0,0,0,,こちだって手一杯だ！自分でなんだかしろ！
@@ -770,7 +770,7 @@ Dialogue: 0,0:24:05.62,0:24:08.94,Default,en,0,0,0,,Karakuri magician Goemondo i
 Comment: 0,0:24:09.32,0:24:14.38,Default,ja,0,0,0,,お城のくってんにかかってある金のしゃつをこむすんでやと、よこくじょうだしてきただす。
 Dialogue: 0,0:24:09.32,0:24:14.38,Default,ko,0,0,0,,성 지붕에 붙어 있는 금장식을 훔쳐가겠다는 예고장이 왔소.
 Dialogue: 0,0:24:09.32,0:24:14.38,Default,en,0,0,0,,He sent a notification that he's going to steal the gold decoration at the roof of the castle.
-Comment: 0,0:24:14.80,0:24:19.86,Default,ja,0,0,0,,さっさくねずのばんをきれこんだとき、なんと巨大なムカデは襲ってきたダス！
+Comment: 0,0:24:14.80,0:24:19.86,Default,ja,0,0,0,,さっさくねずのばんをきれこんだとき、なんと巨大なムカデは襲ってきただス！
 Dialogue: 0,0:24:14.80,0:24:19.86,Default,ko,0,0,0,,곧장 야간 파수를 하기로 결정했더니, 이 무슨 거대한 지네가 달려들었소!
 Dialogue: 0,0:24:14.80,0:24:19.86,Default,en,0,0,0,,When we decided to stay up all night to guard, a giant centipede came to attack us-{\i1}dasu{\i0}!
 Comment: 0,0:24:20.60,0:24:23.53,Default,ja,0,0,0,,次回、金ピカ泥棒、ゴエモンドだす

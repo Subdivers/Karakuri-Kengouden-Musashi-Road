@@ -201,7 +201,7 @@ Dialogue: 0,0:05:47.40,0:05:49.07,Default,en,0,0,0,,Lock them in, so that they w
 Comment: 0,0:05:49.57,0:05:49.96,Default,ja,0,0,0,,は！
 Dialogue: 0,0:05:49.57,0:05:49.96,Default,ko,0,0,0,,예!
 Dialogue: 0,0:05:49.57,0:05:49.96,Default,en,0,0,0,,Yessir!
-Comment: 0,0:05:53.71,0:06:02.90,Default,ja,0,0,0,,こら！ノブナガ！どこにいるダスか！さっさと出てくるダス！こら！
+Comment: 0,0:05:53.71,0:06:02.90,Default,ja,0,0,0,,こら！ノブナガ！どこにいるだスか！さっさと出てくるだス！こら！
 Dialogue: 0,0:05:53.71,0:06:02.90,Default,ko,0,0,0,,야! 노부나가! 어디 있소! 어서 나오시오! 야!
 Dialogue: 0,0:05:53.71,0:06:02.90,Default,en,0,0,0,,Hey! Nobunaga! Where are you-dasu?! Come out immediately-dasu! Hey!
 Comment: 0,0:06:08.75,0:06:09.29,Default,ja,0,0,0,,走れ！
@@ -210,13 +210,13 @@ Dialogue: 0,0:06:08.75,0:06:09.29,Default,en,0,0,0,,Run!
 Comment: 0,0:06:11.04,0:06:12.97,Default,ja,0,0,0,,しまった！閉じ込められた！
 Dialogue: 0,0:06:11.04,0:06:12.97,Default,ko,0,0,0,,저런! 갇혔구나!
 Dialogue: 0,0:06:11.04,0:06:12.97,Default,en,0,0,0,,No! We're trapped!
-Comment: 0,0:06:12.97,0:06:16.72,Default,ja,0,0,0,,くそ！こんな壁なんか、おいらが壊して見せるダス！
+Comment: 0,0:06:12.97,0:06:16.72,Default,ja,0,0,0,,くそ！こんな壁なんか、おいらが壊して見せるだス！
 Dialogue: 0,0:06:12.97,0:06:16.72,Default,ko,0,0,0,,젠장! 이런 벽 따위 내가 부숴 보이겠소!
 Dialogue: 0,0:06:12.97,0:06:16.72,Default,en,0,0,0,,Damn! I'll destroy these walls-dasu!
 Comment: 0,0:06:25.15,0:06:25.96,Default,ja,0,0,0,,大丈夫か。・大丈夫ですか。
 Dialogue: 0,0:06:25.15,0:06:25.96,Default,ko,0,0,0,,-괜찮냐?\N-괜찮습니까?
 Dialogue: 0,0:06:25.15,0:06:25.96,Default,en,0,0,0,,Are you alright?
-Comment: 0,0:06:26.87,0:06:28.23,Default,ja,0,0,0,,だめだったダス。
+Comment: 0,0:06:26.87,0:06:28.23,Default,ja,0,0,0,,だめだっただス。
 Dialogue: 0,0:06:26.87,0:06:28.23,Default,ko,0,0,0,,틀렸소.
 Dialogue: 0,0:06:26.87,0:06:28.23,Default,en,0,0,0,,It didn't work-dasu.
 Comment: 0,0:06:30.66,0:06:32.79,Default,ja,0,0,0,,聖剣はしかと受け取ったぞ。
@@ -321,7 +321,7 @@ Dialogue: 0,0:09:25.45,0:09:27.50,Default,en,0,0,0,,It's not getting destroyed a
 Comment: 0,0:09:27.50,0:09:30.21,Default,ja,0,0,0,,さて、ノブナガの次はムサシ達だな。
 Dialogue: 0,0:09:27.50,0:09:30.21,Default,ko,0,0,0,,자, 노부나가 다음은 무사시 놈들이다.
 Dialogue: 0,0:09:27.50,0:09:30.21,Default,en,0,0,0,,Now, it's time to finish Musashi bastards, since Nobunaga is done.
-Comment: 0,0:09:35.12,0:09:36.53,Default,ja,0,0,0,,股が裂けるダス！
+Comment: 0,0:09:35.12,0:09:36.53,Default,ja,0,0,0,,股が裂けるだス！
 Dialogue: 0,0:09:35.12,0:09:36.53,Default,ko,0,0,0,,가랑이 찢어지오!
 Dialogue: 0,0:09:35.12,0:09:36.53,Default,en,0,0,0,,My crotch is being ripped-dasu!
 Comment: 0,0:09:37.31,0:09:40.09,Default,ja,0,0,0,,ど、どうしたのだ！・私たちを墜落させるつもりですね。
@@ -333,7 +333,7 @@ Dialogue: 0,0:09:41.43,0:09:43.28,Default,en,0,0,0,,I can't fly-dasu!
 Comment: 0,0:09:43.62,0:09:44.80,Default,ja,0,0,0,,渡しだってそうだ！
 Dialogue: 0,0:09:43.62,0:09:44.80,Default,ko,0,0,0,,나도 그래!
 Dialogue: 0,0:09:43.62,0:09:44.80,Default,en,0,0,0,,Me too!
-Comment: 0,0:09:51.93,0:09:53.63,Default,ja,0,0,0,,みんな、大丈夫ダスか。
+Comment: 0,0:09:51.93,0:09:53.63,Default,ja,0,0,0,,みんな、大丈夫だスか。
 Dialogue: 0,0:09:51.93,0:09:53.63,Default,ko,0,0,0,,다들 괜찮소?
 Dialogue: 0,0:09:51.93,0:09:53.63,Default,en,0,0,0,,Are you all right-dasu?
 Comment: 0,0:09:53.87,0:09:56.05,Default,ja,0,0,0,,大丈夫ですノブナガを探しましょう。
@@ -345,7 +345,7 @@ Dialogue: 0,0:09:56.05,0:09:58.49,Default,en,0,0,0,,Since he has really done thi
 Comment: 0,0:09:58.49,0:10:00.54,Default,ja,0,0,0,,その通りだス！
 Dialogue: 0,0:09:58.49,0:10:00.54,Default,ko,0,0,0,,그게 맞소!
 Dialogue: 0,0:09:58.49,0:10:00.54,Default,en,0,0,0,,You're right-dasu!
-Comment: 0,0:10:08.10,0:10:10.65,Default,ja,0,0,0,,の、ノブナガが倒れているダス。
+Comment: 0,0:10:08.10,0:10:10.65,Default,ja,0,0,0,,の、ノブナガが倒れているだス。
 Dialogue: 0,0:10:08.10,0:10:10.65,Default,ko,0,0,0,,노, 노부나가가 쓰러져 있소.
 Dialogue: 0,0:10:08.10,0:10:10.65,Default,en,0,0,0,,N- Nobunaga is down-dasu.
 Comment: 0,0:10:10.65,0:10:11.22,Default,ja,0,0,0,,なに？！
@@ -372,19 +372,19 @@ Dialogue: 0,0:10:33.36,0:10:35.12,Default,en,0,0,0,,You're still alive-dasu?
 Comment: 0,0:10:35.41,0:10:39.57,Default,ja,0,0,0,,この、メガトンジョーを、破壊してくれ。
 Dialogue: 0,0:10:35.41,0:10:39.57,Default,ko,0,0,0,,이 메가톤성을 파괴해라.
 Dialogue: 0,0:10:35.41,0:10:39.57,Default,en,0,0,0,,Destroy this Megaton Castle.
-Comment: 0,0:10:39.89,0:10:41.20,Default,ja,0,0,0,,メガトンジョーをダスか？
+Comment: 0,0:10:39.89,0:10:41.20,Default,ja,0,0,0,,メガトンジョーをだスか？
 Dialogue: 0,0:10:39.89,0:10:41.20,Default,ko,0,0,0,,메가톤 성이오?
 Dialogue: 0,0:10:39.89,0:10:41.20,Default,en,0,0,0,,Megaton Castle?
 Comment: 0,0:10:41.84,0:10:47.81,Default,ja,0,0,0,,は、ハンゾウごときに使われるくらいなら、破壊してくれたほうが～。
 Dialogue: 0,0:10:41.84,0:10:47.81,Default,ko,0,0,0,,하, 한조 따위에게 쓰이느니 파괴되는 쪽이 낫다.
 Dialogue: 0,0:10:41.84,0:10:47.81,Default,en,0,0,0,,It's better to be destroyed than being used by Hanzō.
-Comment: 0,0:10:47.81,0:10:52.93,Default,ja,0,0,0,,でも、大変でござるダスよ。おっきなトンカチでも1か月や2か月は。
+Comment: 0,0:10:47.81,0:10:52.93,Default,ja,0,0,0,,でも、大変でござるだスよ。おっきなトンカチでも1か月や2か月は。
 Dialogue: 0,0:10:47.81,0:10:52.93,Default,ko,0,0,0,,그래도 큰일이오. 거대한 쇠망치라 해도 1개월이나 2개월은...
 Dialogue: 0,0:10:47.81,0:10:52.93,Default,en,0,0,0,,But, it's a big job-dasu! Even with a huge hammer, it'll take a month or two-dasu!
 Comment: 0,0:10:53.29,0:10:56.88,Default,ja,0,0,0,,め、メガトンジョーの秘密は。
 Dialogue: 0,0:10:53.29,0:10:56.88,Default,ko,0,0,0,,메, 메가톤성의 비밀은...
 Dialogue: 0,0:10:53.29,0:10:56.88,Default,en,0,0,0,,T- the secret of Megaton Castle is...
-Comment: 0,0:11:03.33,0:11:04.37,Default,ja,0,0,0,,わかったダス。
+Comment: 0,0:11:03.33,0:11:04.37,Default,ja,0,0,0,,わかっただス。
 Dialogue: 0,0:11:03.33,0:11:04.37,Default,ko,0,0,0,,알겠소.
 Dialogue: 0,0:11:03.33,0:11:04.37,Default,en,0,0,0,,Got it-dasu.
 Comment: 0,0:11:04.37,0:11:07.23,Default,ja,0,0,0,,悪の最後は、哀れにできていますね。
@@ -470,13 +470,13 @@ Dialogue: 0,0:13:19.22,0:13:22.04,Default,en,0,0,0,,Roger! Power room, increase 
 Comment: 0,0:13:23.37,0:13:25.31,Default,ja,0,0,0,,ここがメガトンジョーの動力室か。
 Dialogue: 0,0:13:23.37,0:13:25.31,Default,ko,0,0,0,,여기가 메가톤성의 동력실인가.
 Dialogue: 0,0:13:23.37,0:13:25.31,Default,en,0,0,0,,So, this must be the power room of Megaton Castle.
-Comment: 0,0:13:25.66,0:13:26.42,Default,ja,0,0,0,,乗り込むダス。
+Comment: 0,0:13:25.66,0:13:26.42,Default,ja,0,0,0,,乗り込むだス。
 Dialogue: 0,0:13:25.66,0:13:26.42,Default,ko,0,0,0,,쳐들어가오.
 Dialogue: 0,0:13:25.66,0:13:26.42,Default,en,0,0,0,,Let's get in-dasu.
 Comment: 0,0:13:33.08,0:13:38.22,Default,ja,0,0,0,,ここが動力室？いったいメガトンジョーの動力源は何なのですか。
 Dialogue: 0,0:13:33.08,0:13:38.22,Default,ko,0,0,0,,여기가 동력실? 대체 메가톤성의 동력원은 무엇입니까.
 Dialogue: 0,0:13:33.08,0:13:38.22,Default,en,0,0,0,,This is the power room? What is the power source of Megaton Castle?
-Comment: 0,0:13:38.22,0:13:40.42,Default,ja,0,0,0,,あの五人のものが動力源ダス。
+Comment: 0,0:13:38.22,0:13:40.42,Default,ja,0,0,0,,あの五人のものが動力源だス。
 Dialogue: 0,0:13:38.22,0:13:40.42,Default,ko,0,0,0,,저 다섯 명이 동력원이오.
 Dialogue: 0,0:13:38.22,0:13:40.42,Default,en,0,0,0,,Those five people are power sources-dasu.
 Comment: 0,0:13:40.42,0:13:41.04,Default,ja,0,0,0,,え？
@@ -491,7 +491,7 @@ Dialogue: 0,0:13:47.00,0:13:48.80,Default,en,0,0,0,,Psychokinesis, eh?
 Comment: 0,0:13:49.03,0:13:56.09,Default,ja,0,0,0,,しかし、この五怪僧の座る位置をずらすと、念力は逆に働いてメガトンジョーはばらばらになるんだス。
 Dialogue: 0,0:13:49.03,0:13:56.09,Default,ko,0,0,0,,그러나 이 오괴승이 앉아 있는 위치를 옆으로 비켜 놓으면, 염력은 역으로 메가톤성을 너덜너덜하게 할 것이오.
 Dialogue: 0,0:13:49.03,0:13:56.09,Default,en,0,0,0,,But by shifting the seats of these monks, their psychokinesis will work against Megaton Castle, leaving it in pieces.
-Comment: 0,0:14:07.58,0:14:10.25,Default,ja,0,0,0,,念力に夢中で気が付かないみたいダス。
+Comment: 0,0:14:07.58,0:14:10.25,Default,ja,0,0,0,,念力に夢中で気が付かないみたいだス。
 Dialogue: 0,0:14:07.58,0:14:10.25,Default,ko,0,0,0,,염력에 빠져서 정신을 못 차리오.
 Dialogue: 0,0:14:07.58,0:14:10.25,Default,en,0,0,0,,They're too deep in psychokinesis to notice us-dasu.
 Comment: 0,0:14:10.48,0:14:12.26,Default,ja,0,0,0,,よし！それは都合がいい。
@@ -638,7 +638,7 @@ Dialogue: 0,0:18:59.50,0:19:01.06,Default,en,0,0,0,,Musashi! Prepare yourself!
 Comment: 0,0:19:15.08,0:19:15.84,Default,ja,0,0,0,,ムサシ殿！
 Dialogue: 0,0:19:15.08,0:19:15.84,Default,ko,0,0,0,,무사시 님!
 Dialogue: 0,0:19:15.08,0:19:15.84,Default,en,0,0,0,,Mr. Musashi!
-Comment: 0,0:19:16.85,0:19:18.57,Default,ja,0,0,0,,ジュウベエさん、助かったダス！
+Comment: 0,0:19:16.85,0:19:18.57,Default,ja,0,0,0,,ジュウベエさん、助かっただス！
 Dialogue: 0,0:19:16.85,0:19:18.57,Default,ko,0,0,0,,주베 씨, 살았소!
 Dialogue: 0,0:19:16.85,0:19:18.57,Default,en,0,0,0,,Mr. Jūbē, you saved me-dasu!
 Comment: 0,0:19:19.52,0:19:21.10,Default,ja,0,0,0,,ちぇ、余計なことを！
@@ -683,7 +683,7 @@ Dialogue: 0,0:20:02.86,0:20:05.02,Default,en,0,0,0,,Mr. Musashi! Mr. Musashi!
 Comment: 0,0:20:12.86,0:20:16.79,Default,ja,0,0,0,,わしが不利のようだな。日を改めるとするか！
 Dialogue: 0,0:20:12.86,0:20:16.79,Default,ko,0,0,0,,내가 불리한 모양이구나. 흥, 다음에 다시 보자!
 Dialogue: 0,0:20:12.86,0:20:16.79,Default,en,0,0,0,,It seems that I'm at disadvantage. See you later again!
-Comment: 0,0:20:21.91,0:20:24.57,Default,ja,0,0,0,,ハンゾウ！待つダス！
+Comment: 0,0:20:21.91,0:20:24.57,Default,ja,0,0,0,,ハンゾウ！待つだス！
 Dialogue: 0,0:20:21.91,0:20:24.57,Default,ko,0,0,0,,한조! 멈추시오!
 Dialogue: 0,0:20:21.91,0:20:24.57,Default,en,0,0,0,,Hanzō! Wait-dasu!
 Comment: 0,0:20:24.57,0:20:26.09,Default,ja,0,0,0,,逃げるな！
@@ -692,13 +692,13 @@ Dialogue: 0,0:20:24.57,0:20:26.09,Default,en,0,0,0,,Don't run away!
 Comment: 0,0:20:31.04,0:20:34.45,Default,ja,0,0,0,,二天一流、閃光剣！
 Dialogue: 0,0:20:31.04,0:20:34.45,Default,ko,0,0,0,,이천일류 섬광검!
 Dialogue: 0,0:20:31.04,0:20:34.45,Default,en,0,0,0,,Nitenichiryu: Flash Sword!
-Comment: 0,0:20:39.46,0:20:43.31,Default,ja,0,0,0,,くっそ！放せダス！くそ！
+Comment: 0,0:20:39.46,0:20:43.31,Default,ja,0,0,0,,くっそ！放せだス！くそ！
 Dialogue: 0,0:20:39.46,0:20:43.31,Default,ko,0,0,0,,젠장! 놓으시오! 젠장!
 Dialogue: 0,0:20:39.46,0:20:43.31,Default,en,0,0,0,,Damn! Unhand me-dasu! Damn you!
 Comment: 0,0:20:43.54,0:20:48.76,Default,ja,0,0,0,,ふんふん、蠅のようにしつこいムサシよ、このまま腕を引きちぎってやるわ。
 Dialogue: 0,0:20:43.54,0:20:48.76,Default,ko,0,0,0,,후후, 파리처럼 끈질긴 무사시여, 이대로 팔을 잡아 찢어 주겠다.
 Dialogue: 0,0:20:43.54,0:20:48.76,Default,en,0,0,0,,You have been a fly to me, Musashi. I'll tear off your arms for that!
-Comment: 0,0:20:49.12,0:20:51.71,Default,ja,0,0,0,,いたいたいたいたい、やめるダス！
+Comment: 0,0:20:49.12,0:20:51.71,Default,ja,0,0,0,,いたいたいたいたい、やめるだス！
 Dialogue: 0,0:20:49.12,0:20:51.71,Default,ko,0,0,0,,아야야야야, 멈추시오!
 Dialogue: 0,0:20:49.12,0:20:51.71,Default,en,0,0,0,,Ow, ow, ow, ow! stop that-dasu!
 Comment: 0,0:20:54.95,0:20:57.69,Default,ja,0,0,0,,いったいいたいたいたいたいだす！
@@ -815,7 +815,7 @@ Dialogue: 0,0:24:07.48,0:24:11.22,Default,en,0,0,0,,That might help with Sen-cha
 Comment: 0,0:24:11.59,0:24:14.47,Default,ja,0,0,0,,そしておいらとコジローは巌流島で結婚する。
 Dialogue: 0,0:24:11.59,0:24:14.47,Default,ko,0,0,0,,그리고 나와 코지로는 간류 섬에서 결혼하오.
 Dialogue: 0,0:24:11.59,0:24:14.47,Default,en,0,0,0,,And Kojirō and I marry on Ganryu Island-dasu.
-Comment: 0,0:24:14.47,0:24:16.78,Default,ja,0,0,0,,いやいや、決闘することになったダス。
+Comment: 0,0:24:14.47,0:24:16.78,Default,ja,0,0,0,,いやいや、決闘することになっただス。
 Dialogue: 0,0:24:14.47,0:24:16.78,Default,ko,0,0,0,,아니아니, 결투하게 되었소.
 Dialogue: 0,0:24:14.47,0:24:16.78,Default,en,0,0,0,,No, no, we have a match there-dasu!
 Comment: 0,0:24:17.08,0:24:22.14,Default,ja,0,0,0,,どちらが本当に強い武芸者なのか、命を懸けた男同市の真剣勝負だス！

@@ -108,7 +108,7 @@ Dialogue: 0,0:03:31.52,0:03:35.51,Default,en,0,0,0,,{\i1}Let me deal with hindra
 Comment: 0,0:03:37.41,0:03:43.71,Default,ja,0,0,0,,リョウマの船で手分けを受けたムサシ達一行は瀬戸内海の小島で別れを詰めた。
 Dialogue: 0,0:03:37.41,0:03:43.71,Default,ko,0,0,0,,료마의 배로 도움을 받은 무사시 일행은 세토 내해의 작은 섬에서 떨어지게 되었다.
 Dialogue: 0,0:03:37.41,0:03:43.71,Default,en,0,0,0,,After being helped by Ryoma and his ship, Musashi and others split at a small island in Seto Inland Sea.
-Comment: 0,0:03:45.22,0:03:48.74,Default,ja,0,0,0,,リョウマさん！お世話になったダス！
+Comment: 0,0:03:45.22,0:03:48.74,Default,ja,0,0,0,,リョウマさん！お世話になっただス！
 Dialogue: 0,0:03:45.22,0:03:48.74,Default,ko,0,0,0,,료마 씨! 신세졌소!
 Dialogue: 0,0:03:45.22,0:03:48.74,Default,en,0,0,0,,Mr. Ryoma! Thank you-dasu!
 Comment: 0,0:03:48.74,0:03:51.28,Default,ja,0,0,0,,それではひとまず、どこかに宿を探しましょう。
@@ -150,13 +150,13 @@ Dialogue: 0,0:05:02.85,0:05:03.62,Default,en,0,0,0,,Kerokichi!
 Comment: 0,0:05:09.23,0:05:11.33,Default,ja,0,0,0,,ケロ吉！オタマ爆弾、発射！
 Dialogue: 0,0:05:09.23,0:05:11.33,Default,ko,0,0,0,,케로키치! 올챙이 폭탄 발사!
 Dialogue: 0,0:05:09.23,0:05:11.33,Default,en,0,0,0,,Kerokichi! Fire tadpole bombs!
-Comment: 0,0:05:24.71,0:05:25.90,Default,ja,0,0,0,,あ、大丈夫ダスか、オツルちゃん？
+Comment: 0,0:05:24.71,0:05:25.90,Default,ja,0,0,0,,あ、大丈夫だスか、オツルちゃん？
 Dialogue: 0,0:05:24.71,0:05:25.90,Default,ko,0,0,0,,괜찮소, 오츠루?
 Dialogue: 0,0:05:24.71,0:05:25.90,Default,en,0,0,0,,Are you alright-dasu, Otsuru?
 Comment: 0,0:05:27.21,0:05:29.22,Default,ja,0,0,0,,わらじの紐が切れちゃったわ。
 Dialogue: 0,0:05:27.21,0:05:29.22,Default,ko,0,0,0,,짚신 끈이 끊어졌어.
 Dialogue: 0,0:05:27.21,0:05:29.22,Default,en,0,0,0,,A string of my straw sandal is broken.
-Comment: 0,0:05:29.56,0:05:31.84,Default,ja,0,0,0,,じゃ、おいらがおんぶしてあげるダス。
+Comment: 0,0:05:29.56,0:05:31.84,Default,ja,0,0,0,,じゃ、おいらがおんぶしてあげるだス。
 Dialogue: 0,0:05:29.56,0:05:31.84,Default,ko,0,0,0,,그럼 내가 업어 주겠소!
 Dialogue: 0,0:05:29.56,0:05:31.84,Default,en,0,0,0,,Then I'll carry you on my back-dasu!
 Comment: 0,0:05:31.84,0:05:32.28,Default,ja,0,0,0,,うん！
@@ -180,7 +180,7 @@ Dialogue: 0,0:05:45.21,0:05:47.88,Default,en,0,0,0,,Hmph. Your playtime is over.
 Comment: 0,0:05:54.96,0:05:56.20,Default,ja,0,0,0,,ムサシさん、怖い！
 Dialogue: 0,0:05:54.96,0:05:56.20,Default,ko,0,0,0,,무사시 씨, 무서워!
 Dialogue: 0,0:05:54.96,0:05:56.20,Default,en,0,0,0,,Mr. Musashi, I'm scared!
-Comment: 0,0:05:56.20,0:05:57.38,Default,ja,0,0,0,,おいらに任せるダス！
+Comment: 0,0:05:56.20,0:05:57.38,Default,ja,0,0,0,,おいらに任せるだス！
 Dialogue: 0,0:05:56.20,0:05:57.38,Default,ko,0,0,0,,내게 맡기시오!
 Dialogue: 0,0:05:56.20,0:05:57.38,Default,en,0,0,0,,Leave it to me-dasu!
 Comment: 0,0:06:21.75,0:06:24.01,Default,ja,0,0,0,,二天一流、閃光剣！
@@ -225,7 +225,7 @@ Dialogue: 0,0:07:21.63,0:07:24.08,Default,en,0,0,0,,That's right! Kerokichi, do 
 Comment: 0,0:07:26.15,0:07:28.24,Default,ja,0,0,0,,また来るぞ！
 Dialogue: 0,0:07:26.15,0:07:28.24,Default,ko,0,0,0,,다시 오겠다!
 Dialogue: 0,0:07:26.15,0:07:28.24,Default,en,0,0,0,,I'll come again!
-Comment: 0,0:07:28.24,0:07:29.75,Default,ja,0,0,0,,もう来なくてもいいダス！
+Comment: 0,0:07:28.24,0:07:29.75,Default,ja,0,0,0,,もう来なくてもいいだス！
 Dialogue: 0,0:07:28.24,0:07:29.75,Default,ko,0,0,0,,더는 안 와도 되오!
 Dialogue: 0,0:07:28.24,0:07:29.75,Default,en,0,0,0,,You can stop coming back-dasu!
 Comment: 0,0:07:31.96,0:07:33.86,Default,ja,0,0,0,,ムサシさん、大丈夫だった？
@@ -234,7 +234,7 @@ Dialogue: 0,0:07:31.96,0:07:33.86,Default,en,0,0,0,,Mr. Musashi, are you okay?
 Comment: 0,0:07:34.65,0:07:35.84,Default,ja,0,0,0,,もちろんだス！
 Dialogue: 0,0:07:34.65,0:07:35.84,Default,ko,0,0,0,,물론이오!
 Dialogue: 0,0:07:34.65,0:07:35.84,Default,en,0,0,0,,Of course-dasu!
-Comment: 0,0:07:38.86,0:07:42.51,Default,ja,0,0,0,,畜生！おいらもあんな不死身の鎧がほしいダス。
+Comment: 0,0:07:38.86,0:07:42.51,Default,ja,0,0,0,,畜生！おいらもあんな不死身の鎧がほしいだス。
 Dialogue: 0,0:07:38.86,0:07:42.51,Default,ko,0,0,0,,젠장! 나도 저런 불사신의 갑옷을 원하오.
 Dialogue: 0,0:07:38.86,0:07:42.51,Default,en,0,0,0,,Damn, I want an invincible armor like that-dasu.
 Comment: 0,0:07:45.85,0:07:47.44,Default,ja,0,0,0,,敵はどこだ！
@@ -312,7 +312,7 @@ Dialogue: 0,0:09:19.10,0:09:22.77,Default,en,0,0,0,,Some people left the island 
 Comment: 0,0:09:22.77,0:09:24.11,Default,ja,0,0,0,,なんてひどいことを！
 Dialogue: 0,0:09:22.77,0:09:24.11,Default,ko,0,0,0,,정말 못됐어!
 Dialogue: 0,0:09:22.77,0:09:24.11,Default,en,0,0,0,,How cruel!
-Comment: 0,0:09:25.34,0:09:28.38,Default,ja,0,0,0,,おいらに任せるダス。きっとやっつけてやるだす。
+Comment: 0,0:09:25.34,0:09:28.38,Default,ja,0,0,0,,おいらに任せるだス。きっとやっつけてやるだす。
 Dialogue: 0,0:09:25.34,0:09:28.38,Default,ko,0,0,0,,내게 맡기시오. 꼭 해치워 주겠소!
 Dialogue: 0,0:09:25.34,0:09:28.38,Default,en,0,0,0,,Leave it to me-dasu. I'll deal with them-dasu!
 Comment: 0,0:09:32.01,0:09:34.01,Default,ja,0,0,0,,あんまり頼りにならないんだよな。
@@ -370,7 +370,7 @@ Dialogue: 0,0:11:36.84,0:11:38.68,Default,en,0,0,0,,Just like the prophecy said,
 Comment: 0,0:11:39.04,0:11:42.96,Default,ja,0,0,0,,しかし、怪物を倒すには、神の鎧が必要です。
 Dialogue: 0,0:11:39.04,0:11:42.96,Default,ko,0,0,0,,그러나 괴물을 쓰러트리는 데에는 신의 갑주가 필요합니다.
 Dialogue: 0,0:11:39.04,0:11:42.96,Default,en,0,0,0,,But you will need the armor of gods in order to take the monster down.
-Comment: 0,0:11:43.64,0:11:48.93,Default,ja,0,0,0,,え？鎧があるんだすか？おいら、ハンゾウに負けない無敵の鎧がほしいダス。
+Comment: 0,0:11:43.64,0:11:48.93,Default,ja,0,0,0,,え？鎧があるんだすか？おいら、ハンゾウに負けない無敵の鎧がほしいだス。
 Dialogue: 0,0:11:43.64,0:11:48.93,Default,ko,0,0,0,,어? 갑주가 있소? 나, 한조에게 지지 않을 무적의 갑주를 원하오!
 Dialogue: 0,0:11:43.64,0:11:48.93,Default,en,0,0,0,,Huh? Are there armors-dasu? I want an armor that will let me not be defeated by Hanzō-dasu!
 Comment: 0,0:11:50.08,0:11:51.44,Default,ja,0,0,0,,それ、いくらだすか。
@@ -397,7 +397,7 @@ Dialogue: 0,0:12:09.63,0:12:14.63,Eyecatch,en,0,0,0,,Karakuri Kengouden: Musashi
 Comment: 0,0:12:21.94,0:12:23.80,Default,ja,0,0,0,,この下がシャチの口です。
 Dialogue: 0,0:12:21.94,0:12:23.80,Default,ko,0,0,0,,이 아래가 범고래의 입입니다.
 Dialogue: 0,0:12:21.94,0:12:23.80,Default,en,0,0,0,,Below here is the Mouth of Orc.
-Comment: 0,0:12:26.54,0:12:30.69,Default,ja,0,0,0,,すごい高いだすな。ここを降りて行くダスか。
+Comment: 0,0:12:26.54,0:12:30.69,Default,ja,0,0,0,,すごい高いだすな。ここを降りて行くだスか。
 Dialogue: 0,0:12:26.54,0:12:30.69,Default,ko,0,0,0,,엄청 높소. 여기서 내려가오?
 Dialogue: 0,0:12:26.54,0:12:30.69,Default,en,0,0,0,,This is very high-dasu! Are we going down from this place-dasu?
 Comment: 0,0:12:30.69,0:12:36.18,Default,ja,0,0,0,,いや、ここからは無理です。海面から上ってくる強風のために、吹き飛ばされてしまいます。
@@ -457,19 +457,19 @@ Dialogue: 0,0:14:05.79,0:14:09.40,Default,en,0,0,0,,Hey, it could've been easier
 Comment: 0,0:14:09.68,0:14:12.00,Default,ja,0,0,0,,でも、ケロ吉さん、苦しそう。
 Dialogue: 0,0:14:09.68,0:14:12.00,Default,ko,0,0,0,,그래도 케로키치 씨, 힘들어 보여요.
 Dialogue: 0,0:14:09.68,0:14:12.00,Default,en,0,0,0,,But Mr. Kerokichi looks painful.
-Comment: 0,0:14:15.46,0:14:16.47,Default,ja,0,0,0,,やったダス！
+Comment: 0,0:14:15.46,0:14:16.47,Default,ja,0,0,0,,やっただス！
 Dialogue: 0,0:14:15.46,0:14:16.47,Default,ko,0,0,0,,해냈소!
 Dialogue: 0,0:14:15.46,0:14:16.47,Default,en,0,0,0,,We did it-dasu!
 Comment: 0,0:14:32.88,0:14:35.19,Default,ja,0,0,0,,俺は鎧をあきらめる。三人で行ってくれ！
 Dialogue: 0,0:14:32.88,0:14:35.19,Default,ko,0,0,0,,난 갑주를 포기할게! 셋이서 가!
 Dialogue: 0,0:14:32.88,0:14:35.19,Default,en,0,0,0,,I'll give up the armor! You three can go by yourselves!
-Comment: 0,0:14:35.66,0:14:38.70,Default,ja,0,0,0,,ジライヤン！あきらめちゃだめだス！こっちへ来るダス！
+Comment: 0,0:14:35.66,0:14:38.70,Default,ja,0,0,0,,ジライヤン！あきらめちゃだめだス！こっちへ来るだス！
 Dialogue: 0,0:14:35.66,0:14:38.70,Default,ko,0,0,0,,지라이얀! 포기하면 안 되오! 여기에 오시오!
 Dialogue: 0,0:14:35.66,0:14:38.70,Default,en,0,0,0,,Jiraiyan, you can't give up-dasu! Come here-dasu!
 Comment: 0,0:14:39.09,0:14:41.89,Default,ja,0,0,0,,もう時間がない！ムサシ！足元を見てみろ！
 Dialogue: 0,0:14:39.09,0:14:41.89,Default,ko,0,0,0,,이제 시간이 없어! 무사시, 발밑을 봐!
 Dialogue: 0,0:14:39.09,0:14:41.89,Default,en,0,0,0,,There isn't enough time! Musashi, look below you!
-Comment: 0,0:14:42.80,0:14:44.43,Default,ja,0,0,0,,さっきより水が増えてるダス。
+Comment: 0,0:14:42.80,0:14:44.43,Default,ja,0,0,0,,さっきより水が増えてるだス。
 Dialogue: 0,0:14:42.80,0:14:44.43,Default,ko,0,0,0,,아까보다 물이 들어왔소.
 Dialogue: 0,0:14:42.80,0:14:44.43,Default,en,0,0,0,,The water's flowing in-dasu.
 Comment: 0,0:14:44.43,0:14:45.50,Default,ja,0,0,0,,満潮か。
@@ -478,7 +478,7 @@ Dialogue: 0,0:14:44.43,0:14:45.50,Default,en,0,0,0,,High tide...
 Comment: 0,0:14:46.00,0:14:50.45,Default,ja,0,0,0,,ムサシ殿、早く鎧を手に入れないと、この盗掘から出られなくなります。
 Dialogue: 0,0:14:46.00,0:14:50.45,Default,ko,0,0,0,,무사시 님, 어서 갑주를 손에 놓지 않으면 이 동굴에서 나가지 못하게 됩니다.
 Dialogue: 0,0:14:46.00,0:14:50.45,Default,en,0,0,0,,Mr. Musashi, unless we claim the armors soon, we won't be able to get out of the cave.
-Comment: 0,0:14:51.18,0:14:52.08,Default,ja,0,0,0,,わかったダス。
+Comment: 0,0:14:51.18,0:14:52.08,Default,ja,0,0,0,,わかっただス。
 Dialogue: 0,0:14:51.18,0:14:52.08,Default,ko,0,0,0,,알겠소.
 Dialogue: 0,0:14:51.18,0:14:52.08,Default,en,0,0,0,,Got it-dasu.
 Comment: 0,0:14:53.10,0:14:55.43,Default,ja,0,0,0,,みんな！必ず鎧を見つけろよ！
@@ -514,7 +514,7 @@ Dialogue: 0,0:15:48.67,0:15:50.46,Default,en,0,0,0,,Well, excuse us.
 Comment: 0,0:16:01.06,0:16:02.06,Default,ja,0,0,0,,あかりがあるだス！
 Dialogue: 0,0:16:01.06,0:16:02.06,Default,ko,0,0,0,,빛이 있소!
 Dialogue: 0,0:16:01.06,0:16:02.06,Default,en,0,0,0,,There's a light-dasu!
-Comment: 0,0:16:06.67,0:16:09.25,Default,ja,0,0,0,,うわ、でかいダスな！
+Comment: 0,0:16:06.67,0:16:09.25,Default,ja,0,0,0,,うわ、でかいだスな！
 Dialogue: 0,0:16:06.67,0:16:09.25,Default,ko,0,0,0,,와, 크오!
 Dialogue: 0,0:16:06.67,0:16:09.25,Default,en,0,0,0,,Woah, this is big-dasu!
 Comment: 0,0:16:10.10,0:16:14.32,Default,ja,0,0,0,,見たこともない形をしている。おそらく宇宙人のものかと。
@@ -535,10 +535,10 @@ Dialogue: 0,0:16:23.73,0:16:30.31,Default,en,0,0,0,,Let us finish Nobunaga and o
 Comment: 0,0:16:42.03,0:16:45.82,Default,ja,0,0,0,,うん。音に反応する仕掛けが引けあったらしい。
 Dialogue: 0,0:16:42.03,0:16:45.82,Default,ko,0,0,0,,음, 소리에 반응하는 장치가 설치되어 있었던 것 같군요.
 Dialogue: 0,0:16:42.03,0:16:45.82,Default,en,0,0,0,,It seems that there was a sound-reactive device installed.
-Comment: 0,0:16:46.84,0:16:48.56,Default,ja,0,0,0,,よし！行ってみるダス！
+Comment: 0,0:16:46.84,0:16:48.56,Default,ja,0,0,0,,よし！行ってみるだス！
 Dialogue: 0,0:16:46.84,0:16:48.56,Default,ko,0,0,0,,좋소! 가 보오!
 Dialogue: 0,0:16:46.84,0:16:48.56,Default,en,0,0,0,,Alright! Let's go-dasu!
-Comment: 0,0:17:08.48,0:17:10.06,Default,ja,0,0,0,,何するダスか、コジロー！
+Comment: 0,0:17:08.48,0:17:10.06,Default,ja,0,0,0,,何するだスか、コジロー！
 Dialogue: 0,0:17:08.48,0:17:10.06,Default,ko,0,0,0,,뭔 짓이오, 코지로!
 Dialogue: 0,0:17:08.48,0:17:10.06,Default,en,0,0,0,,What was that for-dasu, Kojirō?!
 Comment: 0,0:17:10.63,0:17:13.95,Default,ja,0,0,0,,すまん。私はネズミが苦手なものだから。
@@ -621,7 +621,7 @@ Dialogue: 0,0:19:26.53,0:19:29.11,Default,en,0,0,0,,I'll beat your twisted guts 
 Comment: 0,0:19:32.03,0:19:33.82,Default,ja,0,0,0,,刀を捨てるんだ、ムサシ！
 Dialogue: 0,0:19:32.03,0:19:33.82,Default,ko,0,0,0,,칼을 버려라, 무사시!
 Dialogue: 0,0:19:32.03,0:19:33.82,Default,en,0,0,0,,Drop your swords, Musashi!
-Comment: 0,0:19:39.57,0:19:41.66,Default,ja,0,0,0,,悪しき心への怒りがわいてきたダス！
+Comment: 0,0:19:39.57,0:19:41.66,Default,ja,0,0,0,,悪しき心への怒りがわいてきただス！
 Dialogue: 0,0:19:39.57,0:19:41.66,Default,ko,0,0,0,,악한 마음을 향한 분노가 들끓어오르오!
 Dialogue: 0,0:19:39.57,0:19:41.66,Default,en,0,0,0,,The rage towards evil mind is boiling-dasu!
 Comment: 0,0:19:46.92,0:19:50.95,Default,ja,0,0,0,,からくり変化！ゲントクあーまー!
@@ -642,13 +642,13 @@ Dialogue: 0,0:20:21.13,0:20:25.83,Default,en,0,0,0,,Karakuri Shift! Chohi Armor!
 Comment: 0,0:20:32.04,0:20:33.70,Default,ja,0,0,0,,ジュウベエまで鎧を！
 Dialogue: 0,0:20:32.04,0:20:33.70,Default,ko,0,0,0,,주베까지 갑주를!
 Dialogue: 0,0:20:32.04,0:20:33.70,Default,en,0,0,0,,Even Jūbē got an armor!
-Comment: 0,0:20:53.42,0:20:55.09,Default,ja,0,0,0,,ハンゾウ！覚悟するダス！
+Comment: 0,0:20:53.42,0:20:55.09,Default,ja,0,0,0,,ハンゾウ！覚悟するだス！
 Dialogue: 0,0:20:53.42,0:20:55.09,Default,ko,0,0,0,,한조! 각오하시오!
 Dialogue: 0,0:20:53.42,0:20:55.09,Default,en,0,0,0,,Hanzō! Prepare yourself-dasu!
 Comment: 0,0:20:57.71,0:21:00.42,Default,ja,0,0,0,,ワシ一人に三人がかりとは卑怯だぞ！
 Dialogue: 0,0:20:57.71,0:21:00.42,Default,ko,0,0,0,,나 혼자에게 셋이서 덤비다니 비겁하다!
 Dialogue: 0,0:20:57.71,0:21:00.42,Default,en,0,0,0,,Three against one is cowardly!
-Comment: 0,0:21:00.63,0:21:04.37,Default,ja,0,0,0,,ふん！お前にそんなこと言われるとは思わなかったダス！
+Comment: 0,0:21:00.63,0:21:04.37,Default,ja,0,0,0,,ふん！お前にそんなこと言われるとは思わなかっただス！
 Dialogue: 0,0:21:00.63,0:21:04.37,Default,ko,0,0,0,,흥! 네게 그런 소리 들을 거라고는 생각도 못 했소!
 Dialogue: 0,0:21:00.63,0:21:04.37,Default,en,0,0,0,,Hmph! I never thought we'd be hearing that from you-dasu!
 Comment: 0,0:21:04.64,0:21:05.39,Default,ja,0,0,0,,ほざけ！
@@ -757,19 +757,19 @@ Dialogue: 0,0:23:38.31,0:23:42.32,SongED1,en,0,0,0,,Don't cry when you eat, or
 Comment: 0,0:23:42.32,0:23:44.95,SongED1,ja,0,0,0,,なんかやるせない
 Dialogue: 0,0:23:42.32,0:23:44.95,SongED1,ko,0,0,0,,왠지 안타까워
 Dialogue: 0,0:23:42.32,0:23:44.95,SongED1,en,0,0,0,,you'll feel downhearted
-Comment: 0,0:24:03.69,0:24:08.76,Default,ja,0,0,0,,おいらたちはゲンナイさんという発明家に頼んで、潜水艦を作ってもらうことにしたダス。
+Comment: 0,0:24:03.69,0:24:08.76,Default,ja,0,0,0,,おいらたちはゲンナイさんという発明家に頼んで、潜水艦を作ってもらうことにしただス。
 Dialogue: 0,0:24:03.69,0:24:08.76,Default,ko,0,0,0,,우리는 겐나이 씨라는 발명가에게 잠수함을 만들어 달라고 부탁했소.
 Dialogue: 0,0:24:03.69,0:24:08.76,Default,en,0,0,0,,We asked an inventor named Mr. Gennai to make a submarine for us-dasu.
-Comment: 0,0:24:09.52,0:24:15.52,Default,ja,0,0,0,,でも、このおじいさん、スケベなんだす。おせんちゃんとオツルちゃんの水着姿が見たいなっていうダス。
+Comment: 0,0:24:09.52,0:24:15.52,Default,ja,0,0,0,,でも、このおじいさん、スケベなんだす。おせんちゃんとオツルちゃんの水着姿が見たいなっていうだス。
 Dialogue: 0,0:24:09.52,0:24:15.52,Default,ko,0,0,0,,그래도 그 할아버지, 호색하오. 센짱하고 오츠루의 수영복 모습을 보여달라고 하오.
 Dialogue: 0,0:24:09.52,0:24:15.52,Default,en,0,0,0,,But that old man is lewd-dasu. He wants to see Sen-chan and Otsuru in swimsuits-dasu.
-Comment: 0,0:24:16.15,0:24:20.90,Default,ja,0,0,0,,でも、まあ、潜水艦も完成して、おいらたちはメガトンジョーに乗り込んだダス！
+Comment: 0,0:24:16.15,0:24:20.90,Default,ja,0,0,0,,でも、まあ、潜水艦も完成して、おいらたちはメガトンジョーに乗り込んだだス！
 Dialogue: 0,0:24:16.15,0:24:20.90,Default,ko,0,0,0,,그래도, 뭐, 잠수함도 완성되어서 우리는 메가톤성에 침입하오!
 Dialogue: 0,0:24:16.15,0:24:20.90,Default,en,0,0,0,,Well, whatever, the submarine is complete and we invade into Megaton Castle-dasu!
 Comment: 0,0:24:21.46,0:24:24.43,Default,ja,0,0,0,,次回！波のりゲンナイ、発明王だス
 Dialogue: 0,0:24:21.46,0:24:24.43,Default,ko,0,0,0,,다음 이야기! 파도타는 겐나이 발명왕이오
 Dialogue: 0,0:24:21.46,0:24:24.43,Default,en,0,0,0,,Next story! Surfing Gennai is the Invention King
-Comment: 0,0:24:24.71,0:24:27.44,Default,ja,0,0,0,,疾風怒濤の潜水艦ダス！
+Comment: 0,0:24:24.71,0:24:27.44,Default,ja,0,0,0,,疾風怒濤の潜水艦だス！
 Dialogue: 0,0:24:24.71,0:24:27.44,Default,ko,0,0,0,,질풍노도의 잠수함이오!
 Dialogue: 0,0:24:24.71,0:24:27.44,Default,en,0,0,0,,It's a stormy submarine-dasu!
 Dialogue: 0,0:24:26.86,0:24:31.62,NoteOnAnime,ko,60,0,60,,{\an7}다음 이야기

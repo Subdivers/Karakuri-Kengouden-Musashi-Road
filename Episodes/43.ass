@@ -348,7 +348,7 @@ Dialogue: 0,0:09:56.52,0:09:59.79,Default,en,0,0,0,,-I'm having 5th dish-{\i1}da
 Comment: 0,0:10:00.64,0:10:05.63,Default,ja,0,0,0,,ね、ムサシ！スイカ割り誘われちゃった。おいでよ！
 Dialogue: 0,0:10:00.64,0:10:05.63,Default,ko,0,0,0,,야, 무사시, 수박 가르기에 초대받았어! 따라와!
 Dialogue: 0,0:10:00.64,0:10:05.63,Default,en,0,0,0,,Hey, Musashi! We're invited to watermelon diving! Follow me!
-Comment: 0,0:10:05.63,0:10:06.72,Default,ja,0,0,0,,はい、行くダス！
+Comment: 0,0:10:05.63,0:10:06.72,Default,ja,0,0,0,,はい、行くだス！
 Dialogue: 0,0:10:05.63,0:10:06.72,Default,ko,0,0,0,,알았소, 가오!
 Dialogue: 0,0:10:05.63,0:10:06.72,Default,en,0,0,0,,Alright, we'll go-{\i1}dasu{\i0}!
 Comment: 0,0:10:06.72,0:10:08.32,Default,ja,0,0,0,,ああ、俺も！・私も！
@@ -387,7 +387,7 @@ Dialogue: 0,0:10:35.40,0:10:36.49,Default,en,0,0,0,,Really!
 Comment: 0,0:10:36.87,0:10:38.61,Default,ja,0,0,0,,ムサシさん、右よ！
 Dialogue: 0,0:10:36.87,0:10:38.61,Default,ko,0,0,0,,무사시 씨, 오른쪽이야!
 Dialogue: 0,0:10:36.87,0:10:38.61,Default,en,0,0,0,,Mr. Musashi, it's right!
-Comment: 0,0:10:38.86,0:10:41.33,Default,ja,0,0,0,,はい、おいら、オツルちゃんを信じるダス！
+Comment: 0,0:10:38.86,0:10:41.33,Default,ja,0,0,0,,はい、おいら、オツルちゃんを信じるだス！
 Dialogue: 0,0:10:38.86,0:10:41.33,Default,ko,0,0,0,,그렇소, 나 오츠루를 믿소!
 Dialogue: 0,0:10:38.86,0:10:41.33,Default,en,0,0,0,,Right, I believe in Otsuru-{\i1}dasu{\i0}!
 Comment: 0,0:10:41.86,0:10:44.68,Default,ja,0,0,0,,はじめからそうしてくれればよかったのに！
@@ -408,7 +408,7 @@ Dialogue: 0,0:10:49.23,0:10:49.88,Default,en,0,0,0,,Great!
 Comment: 0,0:10:50.36,0:10:51.93,Default,ja,0,0,0,,やら！思い切ってやれ！
 Dialogue: 0,0:10:50.36,0:10:51.93,Default,ko,0,0,0,,어이, 기합 넣어 해라!
 Dialogue: 0,0:10:50.36,0:10:51.93,Default,en,0,0,0,,Hey, do it with full force!
-Comment: 0,0:10:52.27,0:10:55.14,Default,ja,0,0,0,,行くダスよ！
+Comment: 0,0:10:52.27,0:10:55.14,Default,ja,0,0,0,,行くだスよ！
 Dialogue: 0,0:10:52.27,0:10:55.14,Default,ko,0,0,0,,가오!
 Dialogue: 0,0:10:52.27,0:10:55.14,Default,en,0,0,0,,I'm doing this-{\i1}dasu{\i0}!
 Comment: 0,0:10:55.42,0:10:57.25,Default,ja,0,0,0,,精一杯やれよ、ムサシ！
@@ -504,7 +504,7 @@ Dialogue: 0,0:13:13.00,0:13:13.83,Default,en,0,0,0,,Yessir!
 Comment: 0,0:13:19.55,0:13:21.03,Default,ja,0,0,0,,もう一歩歩けりゃ。
 Dialogue: 0,0:13:19.55,0:13:21.03,Default,ko,0,0,0,,앞으로 한 발짝도 못 걷겠어.
 Dialogue: 0,0:13:19.55,0:13:21.03,Default,en,0,0,0,,I can't walk anymore.
-Comment: 0,0:13:21.79,0:13:24.63,Default,ja,0,0,0,,ここまで来れば、もう大丈夫ダスな。
+Comment: 0,0:13:21.79,0:13:24.63,Default,ja,0,0,0,,ここまで来れば、もう大丈夫だスな。
 Dialogue: 0,0:13:21.79,0:13:24.63,Default,ko,0,0,0,,여기까지 오면 이젠 괜찮을 것이오.
 Dialogue: 0,0:13:21.79,0:13:24.63,Default,en,0,0,0,,We should be fine, since we came pretty far-{\i1}dasu{\i0}.
 Comment: 0,0:13:25.70,0:13:31.34,Default,ja,0,0,0,,しっかしよ。海水浴場にいたのがみんな敵だったなんて、びっくりしたな、もう！
@@ -558,7 +558,7 @@ Dialogue: 0,0:15:17.44,0:15:18.56,Default,en,0,0,0,,Thank you, Kojirō!
 Comment: 0,0:15:18.85,0:15:21.12,Default,ja,0,0,0,,ムサシ。千姫様を連れて逃げろ！
 Dialogue: 0,0:15:18.85,0:15:21.12,Default,ko,0,0,0,,무사시. 센히메 님을 데리고 달아나라!
 Dialogue: 0,0:15:18.85,0:15:21.12,Default,en,0,0,0,,Musashi. Take Senhime to somewhere safe!
-Comment: 0,0:15:21.12,0:15:22.30,Default,ja,0,0,0,,軽いダス！
+Comment: 0,0:15:21.12,0:15:22.30,Default,ja,0,0,0,,軽いだス！
 Dialogue: 0,0:15:21.12,0:15:22.30,Default,ko,0,0,0,,쉽소!
 Dialogue: 0,0:15:21.12,0:15:22.30,Default,en,0,0,0,,That's easy-{\i1}dasu{\i0}!
 Comment: 0,0:15:23.16,0:15:24.17,Default,ja,0,0,0,,さあ、おせんちゃん！
@@ -597,7 +597,7 @@ Dialogue: 0,0:15:50.14,0:15:51.31,Default,en,0,0,0,,Now's our chance!
 Comment: 0,0:15:59.38,0:16:00.73,Default,ja,0,0,0,,危ないとこだったわよね。
 Dialogue: 0,0:15:59.38,0:16:00.73,Default,ko,0,0,0,,위험했어.
 Dialogue: 0,0:15:59.38,0:16:00.73,Default,en,0,0,0,,That was close.
-Comment: 0,0:16:01.72,0:16:04.13,Default,ja,0,0,0,,そうだ。オツルちゃん、大丈夫ダスかな。
+Comment: 0,0:16:01.72,0:16:04.13,Default,ja,0,0,0,,そうだ。オツルちゃん、大丈夫だスかな。
 Dialogue: 0,0:16:01.72,0:16:04.13,Default,ko,0,0,0,,그렇소. 오츠루 괜찮을지...
 Dialogue: 0,0:16:01.72,0:16:04.13,Default,en,0,0,0,,Right. I wonder if Otsuru's fine-{\i1}dasu{\i0}...
 Comment: 0,0:16:04.34,0:16:07.46,Default,ja,0,0,0,,ムサシ、本当にオツルちゃんのことが好きなのね。
@@ -783,7 +783,7 @@ Dialogue: 0,0:20:10.90,0:20:12.07,Default,en,0,0,0,,My legs!
 Comment: 0,0:20:12.33,0:20:13.27,Default,ja,0,0,0,,ムサシ！
 Dialogue: 0,0:20:12.33,0:20:13.27,Default,ko,0,0,0,,무사시!
 Dialogue: 0,0:20:12.33,0:20:13.27,Default,en,0,0,0,,Musashi!
-Comment: 0,0:20:19.70,0:20:21.33,Default,ja,0,0,0,,コジロー！大丈夫ダスか？
+Comment: 0,0:20:19.70,0:20:21.33,Default,ja,0,0,0,,コジロー！大丈夫だスか？
 Dialogue: 0,0:20:19.70,0:20:21.33,Default,ko,0,0,0,,코지로! 괜찮소?
 Dialogue: 0,0:20:19.70,0:20:21.33,Default,en,0,0,0,,Kojirō! Are you okay-{\i1}dasu{\i0}?
 Comment: 0,0:20:21.33,0:20:23.90,Default,ja,0,0,0,,ああ、何とか。いって！
@@ -795,7 +795,7 @@ Dialogue: 0,0:20:33.70,0:20:38.95,Default,en,0,0,0,,If we combined at the first 
 Comment: 0,0:20:38.95,0:20:41.91,Default,ja,0,0,0,,さあ、その首をもらうぜ、ムサシ！コジロー！
 Dialogue: 0,0:20:38.95,0:20:41.91,Default,ko,0,0,0,,자, 그 목은 가져가겠다, 무사시, 코지로!
 Dialogue: 0,0:20:38.95,0:20:41.91,Default,en,0,0,0,,I'll take your necks, Musashi and Kojirō!
-Comment: 0,0:20:42.12,0:20:45.47,Default,ja,0,0,0,,コジロー！おいらのことはほっといて、早く逃げるダス。
+Comment: 0,0:20:42.12,0:20:45.47,Default,ja,0,0,0,,コジロー！おいらのことはほっといて、早く逃げるだス。
 Dialogue: 0,0:20:42.12,0:20:45.47,Default,ko,0,0,0,,코지로, 난 냅두고 어서 달아나시오!
 Dialogue: 0,0:20:42.12,0:20:45.47,Default,en,0,0,0,,Kojirō, leave me here, and run away immediately-{\i1}dasu{\i0}!
 Comment: 0,0:20:45.79,0:20:47.51,Default,ja,0,0,0,,バカ！そんなことが出来るか！
@@ -804,7 +804,7 @@ Dialogue: 0,0:20:45.79,0:20:47.51,Default,en,0,0,0,,You idiot! Do you think I ca
 Comment: 0,0:20:48.47,0:20:53.11,Default,ja,0,0,0,,しかし、せめて刀を支えられるだけの力がこの手にあれば。。。
 Dialogue: 0,0:20:48.47,0:20:53.11,Default,ko,0,0,0,,단지 칼을 들 수 있을 힘이 이 손에 있기만 하다면...
 Dialogue: 0,0:20:48.47,0:20:53.11,Default,en,0,0,0,,Only if I had powers to raise my sword...
-Comment: 0,0:20:55.65,0:21:00.93,Default,ja,0,0,0,,さ、コジロー！この上に刀を乗せるダス！刀はおいらが支えるダス！
+Comment: 0,0:20:55.65,0:21:00.93,Default,ja,0,0,0,,さ、コジロー！この上に刀を乗せるだス！刀はおいらが支えるだス！
 Dialogue: 0,0:20:55.65,0:21:00.93,Default,ko,0,0,0,,자, 코지로! 이 위에 칼을 올리시오! 칼은 내가 받치오!
 Dialogue: 0,0:20:55.65,0:21:00.93,Default,en,0,0,0,,Kojirō, put your sword on these-{\i1}dasu{\i0}! I'll hold up the sword-{\i1}dasu{\i0}!
 Comment: 0,0:21:01.21,0:21:02.12,Default,ja,0,0,0,,ムサシ！わかった！

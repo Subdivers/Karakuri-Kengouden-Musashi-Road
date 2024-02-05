@@ -258,7 +258,7 @@ Dialogue: 0,0:06:15.27,0:06:19.37,Default,en,0,0,0,,As soon as I find out where 
 Comment: 0,0:06:19.37,0:06:23.26,Default,ja,0,0,0,,今度こそこっちから攻撃かけて、汚名を挽回だす！
 Dialogue: 0,0:06:19.37,0:06:23.26,Default,ko,0,0,0,,이번에야말로 먼저 공격을 걸어서 오명을 만회하겠소!
 Dialogue: 0,0:06:19.37,0:06:23.26,Default,en,0,0,0,,I'll attack first this time, and clear my bad reputatoin-{\i1}dasu{\i0}!
-Comment: 0,0:06:23.82,0:06:26.03,Default,ja,0,0,0,,せんちゃんもおいらのこと、見直すダス！
+Comment: 0,0:06:23.82,0:06:26.03,Default,ja,0,0,0,,せんちゃんもおいらのこと、見直すだス！
 Dialogue: 0,0:06:23.82,0:06:26.03,Default,ko,0,0,0,,센짱도 날 다시 볼 것이오!
 Dialogue: 0,0:06:23.82,0:06:26.03,Default,en,0,0,0,,Sen-chan will reevaluate me, too-{\i1}dasu{\i0}!
 Comment: 0,0:06:29.54,0:06:32.18,Default,ja,0,0,0,,もう！本当にムサシったら！
@@ -417,7 +417,7 @@ Dialogue: 0,0:12:04.25,0:12:11.23,Default,en,0,0,0,,Excuse me. I'd like to ask y
 Comment: 0,0:12:11.45,0:12:12.24,Default,ja,0,0,0,,いや。
 Dialogue: 0,0:12:11.45,0:12:12.24,Default,ko,0,0,0,,아니.
 Dialogue: 0,0:12:11.45,0:12:12.24,Default,en,0,0,0,,No.
-Comment: 0,0:12:13.27,0:12:18.37,Default,ja,0,0,0,,頭がでかくて、～で、おいら、腹減ったダス！とかなまってる変な奴なんですけど。
+Comment: 0,0:12:13.27,0:12:18.37,Default,ja,0,0,0,,頭がでかくて、～で、おいら、腹減っただス！とかなまってる変な奴なんですけど。
 Dialogue: 0,0:12:13.27,0:12:18.37,Default,ko,0,0,0,,머리 크고, 다리 짧고, 나 배고프오! 이라던가 멍청하게 말하는 이상한 사람 못 봤어요?
 Dialogue: 0,0:12:13.27,0:12:18.37,Default,en,0,0,0,,Did you see a weirdo with a big head and short legs who shouts {\i1}I'm hungry-{\i1}dasu{\i0}!{\i0} around?
 Comment: 0,0:12:18.65,0:12:19.55,Default,ja,0,0,0,,知らないわ。
@@ -513,7 +513,7 @@ Dialogue: 0,0:14:01.44,0:14:04.86,Default,en,0,0,0,,It tastes even great, maybe 
 Comment: 0,0:14:05.10,0:14:08.82,Default,ja,0,0,0,,あら、もう空っぽ？ムサシさん、もっとお食べになります？
 Dialogue: 0,0:14:05.10,0:14:08.82,Default,ko,0,0,0,,어라, 벌써 텅 비었네요. 무사시 씨, 더 먹을래요?
 Dialogue: 0,0:14:05.10,0:14:08.82,Default,en,0,0,0,,Hey, it's empty already. Mr. Musashi, do you want to have more?
-Comment: 0,0:14:09.02,0:14:11.01,Default,ja,0,0,0,,はいだす！もっと食べるダス！
+Comment: 0,0:14:09.02,0:14:11.01,Default,ja,0,0,0,,はいだす！もっと食べるだス！
 Dialogue: 0,0:14:09.02,0:14:11.01,Default,ko,0,0,0,,그렇소! 더 먹소!
 Dialogue: 0,0:14:09.02,0:14:11.01,Default,en,0,0,0,,Yes-{\i1}dasu{\i0}! I'll eat more-{\i1}dasu{\i0}!
 Comment: 0,0:14:11.76,0:14:13.33,Default,ja,0,0,0,,ちょっとお待ちになってください。
@@ -631,7 +631,7 @@ Dialogue: 0,0:17:15.96,0:17:22.42,Default,en,0,0,0,,Oh, right, right, right! Thi
 Comment: 0,0:17:24.89,0:17:27.86,NoteOnAnime,ja,0,0,0,,{\an5\fs80\frx22\fry326\fax-0.45\frz26.86\pos(434,179)\3c&HA0CDEB&\c&H4D6375&\bord8\3a20}地獄谷
 Dialogue: 0,0:17:24.89,0:17:27.86,NoteOnAnime,ko,0,0,0,,{\an5\fs70\frx22\fry326\fax-0.45\frz26.86\pos(434,179)\3c&HA0CDEB&\c&H4D6375&\bord8\3a20}지고쿠다니
 Dialogue: 0,0:17:24.89,0:17:27.86,NoteOnAnime,en,0,0,0,,{\an5\fs64\frx22\fry326\fax-0.45\pos(434,179)\3c&HA0CDEB&\c&H4D6375&\bord8\3a20\frz23.93}Jigokudani
-Comment: 0,0:17:27.92,0:17:31.44,Default,ja,0,0,0,,すっごいだすな。こんなの初めて見るダス。
+Comment: 0,0:17:27.92,0:17:31.44,Default,ja,0,0,0,,すっごいだすな。こんなの初めて見るだス。
 Dialogue: 0,0:17:27.92,0:17:31.44,Default,ko,0,0,0,,대단하오. 이런 건 처음 보오!
 Dialogue: 0,0:17:27.92,0:17:31.44,Default,en,0,0,0,,It's amazing-{\i1}dasu{\i0}! I never saw something like this-{\i1}dasu{\i0}!
 Comment: 0,0:17:31.44,0:17:32.81,Default,ja,0,0,0,,ムサシさん、怖いの？
@@ -670,7 +670,7 @@ Dialogue: 0,0:18:29.59,0:18:33.83,Default,en,0,0,0,,I won't let you even lay you
 Comment: 0,0:18:34.22,0:18:36.93,Default,ja,0,0,0,,そうか。そいつは面白い。
 Dialogue: 0,0:18:34.22,0:18:36.93,Default,ko,0,0,0,,그러냐. 재밌네.
 Dialogue: 0,0:18:34.22,0:18:36.93,Default,en,0,0,0,,Oh, is that so? How interesting.
-Comment: 0,0:18:36.93,0:18:40.48,Default,ja,0,0,0,,??? 卑弥呼さん、さ、逃げて！おいらがほこをきせいて見せるダス！
+Comment: 0,0:18:36.93,0:18:40.48,Default,ja,0,0,0,,??? 卑弥呼さん、さ、逃げて！おいらがほこをきせいて見せるだス！
 Dialogue: 0,0:18:36.93,0:18:40.48,Default,ko,0,0,0,,히미코 씨, 지금 달아나시오! 내가 막아 보이겠소!
 Dialogue: 0,0:18:36.93,0:18:40.48,Default,en,0,0,0,,Ms. Himiko, run away right now-{\i1}dasu{\i0}! I'll stop him no matter what-{\i1}dasu{\i0}!
 Comment: 0,0:18:40.83,0:18:41.48,Default,ja,0,0,0,,ムサシさん！

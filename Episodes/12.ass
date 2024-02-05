@@ -68,7 +68,7 @@ Dialogue: 0,0:02:06.34,0:02:10.41,Default,en,0,0,0,,As Zenigatan helped, he infi
 Comment: 0,0:02:10.81,0:02:17.64,Default,ja,0,0,0,,しかし、正体が暴れ、役人に追われて、お寺の床下に逃げ込む羽目になってである。
 Dialogue: 0,0:02:10.81,0:02:17.64,Default,ko,0,0,0,,그러나 정체가 밝혀져 관리들에게 쫓겨 사찰의 마루 밑에 도망쳐야 했다.
 Dialogue: 0,0:02:10.81,0:02:17.64,Default,en,0,0,0,,But his true identity was revealed, and he had to run away and hide under a floor as he was chased by officials.
-Comment: 0,0:02:18.27,0:02:23.27,TitleEP,ja,0,0,80,,センヒメ助けて勝負ダス
+Comment: 0,0:02:18.27,0:02:23.27,TitleEP,ja,0,0,80,,センヒメ助けて勝負だス
 Comment: 0,0:02:18.27,0:02:23.27,TitleEP,ja,0,0,80,,
 Dialogue: 0,0:02:18.27,0:02:23.27,TitleEP,ko,0,0,80,,센히메를 구하고 승부이오
 Dialogue: 0,0:02:18.27,0:02:23.27,TitleEP,en,0,0,230,,Rescue Senhime
@@ -163,22 +163,22 @@ Dialogue: 0,0:04:04.78,0:04:08.30,Default,en,0,0,0,,We couldn't find that guy wh
 Comment: 0,0:04:08.71,0:04:10.90,Default,ja,0,0,0,,たく、どこに消えしまったんだが。
 Dialogue: 0,0:04:08.71,0:04:10.90,Default,ko,0,0,0,,이것 참, 어디에 사라졌는지.
 Dialogue: 0,0:04:08.71,0:04:10.90,Default,en,0,0,0,,Really, where did he disappear to?
-Comment: 0,0:04:47.82,0:04:51.13,Default,ja,0,0,0,,これ、うまいダス、うまいダス。dekaitasonorako.
+Comment: 0,0:04:47.82,0:04:51.13,Default,ja,0,0,0,,これ、うまいだス、うまいだス。dekaitasonorako.
 Dialogue: 0,0:04:47.82,0:04:51.13,Default,ko,0,0,0,,이거 맛있소. 맛있소. 참 잘 했소!
 Dialogue: 0,0:04:47.82,0:04:51.13,Default,en,0,0,0,,This tastes good-{\i1}dasu{\i0}! Good job!
-Comment: 0,0:04:52.17,0:04:58.96,Default,ja,0,0,0,,ただし、おいらが取って来いって行ったんじゃないダスぞ。あくまでもお前が自分の意志でやったことでござるダス。
+Comment: 0,0:04:52.17,0:04:58.96,Default,ja,0,0,0,,ただし、おいらが取って来いって行ったんじゃないだスぞ。あくまでもお前が自分の意志でやったことでござるだス。
 Dialogue: 0,0:04:52.17,0:04:58.96,Default,ko,0,0,0,,다만, 내가 가져오라고 말한 거 아니오. 어디까지나 네가 자신의 의지로 가져온 것이오.
 Dialogue: 0,0:04:52.17,0:04:58.96,Default,en,0,0,0,,But it's not me who asked you to take these-{\i1}dasu{\i0}. These are nothing more than you took by your own free will-{\i1}dasu{\i0}.
-Comment: 0,0:05:01.26,0:05:05.98,Default,ja,0,0,0,,次はなんか飲み物なんか欲しくなるんじゃないダスかな。
+Comment: 0,0:05:01.26,0:05:05.98,Default,ja,0,0,0,,次はなんか飲み物なんか欲しくなるんじゃないだスかな。
 Dialogue: 0,0:05:01.26,0:05:05.98,Default,ko,0,0,0,,다음엔 뭔가 마실 거 같은거 원할까나...
 Dialogue: 0,0:05:01.26,0:05:05.98,Default,en,0,0,0,,Next, I'd like something to drink-{\i1}dasu{\i0}...
-Comment: 0,0:05:09.36,0:05:14.78,Default,ja,0,0,0,,たく。。。近頃の犬と来たらちっともいうこと聞かないダスに。
+Comment: 0,0:05:09.36,0:05:14.78,Default,ja,0,0,0,,たく。。。近頃の犬と来たらちっともいうこと聞かないだスに。
 Dialogue: 0,0:05:09.36,0:05:14.78,Default,ko,0,0,0,,거참... 최근 개도 참 정말 말하는 걸 안 들어서 말이오!
 Dialogue: 0,0:05:09.36,0:05:14.78,Default,en,0,0,0,,Really... even the dogs nowadays don't listen to what I say-{\i1}dasu{\i0}.
-Comment: 0,0:05:29.90,0:05:30.98,Default,ja,0,0,0,,息が詰まるダス。
+Comment: 0,0:05:29.90,0:05:30.98,Default,ja,0,0,0,,息が詰まるだス。
 Dialogue: 0,0:05:29.90,0:05:30.98,Default,ko,0,0,0,,숨이 막히오.
 Dialogue: 0,0:05:29.90,0:05:30.98,Default,en,0,0,0,,The air isn't good here-{\i1}dasu{\i0}.
-Comment: 0,0:05:31.93,0:05:36.91,Default,ja,0,0,0,,やっぱり外が一番だス！すがすがしいダスな！
+Comment: 0,0:05:31.93,0:05:36.91,Default,ja,0,0,0,,やっぱり外が一番だス！すがすがしいだスな！
 Dialogue: 0,0:05:31.93,0:05:36.91,Default,ko,0,0,0,,역시 바깥이 제일이오! 상쾌하오!
 Dialogue: 0,0:05:31.93,0:05:36.91,Default,en,0,0,0,,Outside is the best as always-{\i1}dasu{\i0}! How refreshing-{\i1}dasu{\i0}!
 Comment: 0,0:05:36.91,0:05:41.65,Default,ja,0,0,0,,なになに宮本村のこの謀反人をとらえしものには十両、
@@ -193,13 +193,13 @@ Dialogue: 0,0:05:44.76,0:05:47.44,Default,en,0,0,0,,Really! A whole 1 ryo only b
 Comment: 0,0:05:47.44,0:05:52.32,Default,ja,0,0,0,,そんなにくれるのか？・早速探しに行こう。
 Dialogue: 0,0:05:47.44,0:05:52.32,Default,ko,0,0,0,,-그렇게 주는 거야?\N-빨리 찾으러 가자!
 Dialogue: 0,0:05:47.44,0:05:52.32,Default,en,0,0,0,,-That much?\N-Let's go get him right away!
-Comment: 0,0:06:03.01,0:06:05.88,Default,ja,0,0,0,,巻いたダスなもう。。。
+Comment: 0,0:06:03.01,0:06:05.88,Default,ja,0,0,0,,巻いただスなもう。。。
 Dialogue: 0,0:06:03.01,0:06:05.88,Default,ko,0,0,0,,이건 정말 졌소...
 Dialogue: 0,0:06:03.01,0:06:05.88,Default,en,0,0,0,,This, really I can't do something about-{\i1}dasu{\i0}...
 Comment: 0,0:06:11.29,0:06:15.89,Default,ja,0,0,0,,元気出せよ、オツル。・はい。
 Dialogue: 0,0:06:11.29,0:06:15.89,Default,ko,0,0,0,,-힘내라, 오츠루.\N-네.
 Dialogue: 0,0:06:11.29,0:06:15.89,Default,en,0,0,0,,-Get a grip, Otsuru.\N-Right.
-Comment: 0,0:06:24.52,0:06:27.97,Default,ja,0,0,0,,なんだっておいらが謀反人にならなきゃならないダスか！
+Comment: 0,0:06:24.52,0:06:27.97,Default,ja,0,0,0,,なんだっておいらが謀反人にならなきゃならないだスか！
 Dialogue: 0,0:06:24.52,0:06:27.97,Default,ko,0,0,0,,왜 내가 반역자가 되어야만 하오!
 Dialogue: 0,0:06:24.52,0:06:27.97,Default,en,0,0,0,,Why do I have to be a traitor-{\i1}dasu{\i0}?!
 Comment: 0,0:06:28.36,0:06:30.80,Default,ja,0,0,0,,立って一日申し込みが遅れただけなのに。
@@ -208,19 +208,19 @@ Dialogue: 0,0:06:28.36,0:06:30.80,Default,en,0,0,0,,I was late only for the regi
 Comment: 0,0:06:32.81,0:06:35.04,Default,ja,0,0,0,,たっく、役人の分からずやどもが！
 Dialogue: 0,0:06:32.81,0:06:35.04,Default,ko,0,0,0,,저 영문을 알 수 없는 관리 놈들!
 Dialogue: 0,0:06:32.81,0:06:35.04,Default,en,0,0,0,,Those blockhead officials!
-Comment: 0,0:06:37.93,0:06:40.93,Default,ja,0,0,0,,それにしても、腹が減ったダスな。。。あり？
+Comment: 0,0:06:37.93,0:06:40.93,Default,ja,0,0,0,,それにしても、腹が減っただスな。。。あり？
 Dialogue: 0,0:06:37.93,0:06:40.93,Default,ko,0,0,0,,그래도 배가 고프오... 어라?
 Dialogue: 0,0:06:37.93,0:06:40.93,Default,en,0,0,0,,But still I'm hungry-{\i1}dasu{\i0}... Huh?
 Comment: 0,0:06:45.31,0:06:50.53,Default,ja,0,0,0,,へ、天はわれを見捨てと、早く来い来い川の恋とな。
 Dialogue: 0,0:06:45.31,0:06:50.53,Default,ko,0,0,0,,하늘은 날 버려도 빨리 오라고 오라고 강이 사랑하나 보오.
 Dialogue: 0,0:06:45.31,0:06:50.53,Default,en,0,0,0,,Heh, even though the heaven has abandoned me, the river is sending me a love call!
-Comment: 0,0:06:51.60,0:06:53.85,Default,ja,0,0,0,,おっとの恋来たダス来たダス！
+Comment: 0,0:06:51.60,0:06:53.85,Default,ja,0,0,0,,おっとの恋来ただス来ただス！
 Dialogue: 0,0:06:51.60,0:06:53.85,Default,ko,0,0,0,,오, 사랑이 왔소, 왔소!
 Dialogue: 0,0:06:51.60,0:06:53.85,Default,en,0,0,0,,Hey, the love came-{\i1}dasu{\i0}! It came-{\i1}dasu{\i0}!
 Comment: 0,0:06:56.56,0:07:00.10,Default,ja,0,0,0,,mesi no tabera iya korya!
 Dialogue: 0,0:06:56.56,0:07:00.10,Default,ko,0,0,0,,밥으로 먹을 거라면 이 녀석을!
 Dialogue: 0,0:06:56.56,0:07:00.10,Default,en,0,0,0,,I'll take it as my meal!
-Comment: 0,0:07:03.31,0:07:05.93,Default,ja,0,0,0,,うわ！ウナギのかばやきダス！
+Comment: 0,0:07:03.31,0:07:05.93,Default,ja,0,0,0,,うわ！ウナギのかばやきだス！
 Dialogue: 0,0:07:03.31,0:07:05.93,Default,ko,0,0,0,,우와! 뱀장어꼬치이오!
 Dialogue: 0,0:07:03.31,0:07:05.93,Default,en,0,0,0,,Wow, an eel skewer-{\i1}dasu{\i0}!
 Comment: 0,0:07:28.86,0:07:31.34,Default,ja,0,0,0,,
@@ -283,7 +283,7 @@ Dialogue: 0,0:08:37.53,0:08:39.63,Default,en,0,0,0,,These bunch are nothing!
 Comment: 0,0:08:41.52,0:08:42.37,Default,ja,0,0,0,,ありがとう。
 Dialogue: 0,0:08:41.52,0:08:42.37,Default,ko,0,0,0,,고마워.
 Dialogue: 0,0:08:41.52,0:08:42.37,Default,en,0,0,0,,Thank you.
-Comment: 0,0:08:44.62,0:08:47.72,Default,ja,0,0,0,,な、なんかついてるダスか？
+Comment: 0,0:08:44.62,0:08:47.72,Default,ja,0,0,0,,な、なんかついてるだスか？
 Dialogue: 0,0:08:44.62,0:08:47.72,Default,ko,0,0,0,,뭔가 묻었소?
 Dialogue: 0,0:08:44.62,0:08:47.72,Default,en,0,0,0,,Is something on my head-{\i1}dasu{\i0}?
 Comment: 0,0:08:47.72,0:08:54.88,Default,ja,0,0,0,,そうじゃなくて、武芸大会を荒らした謀反人ていうからもっとうんっと怖そうな人かと思ってたんだけど。。。
@@ -298,7 +298,7 @@ Dialogue: 0,0:08:58.00,0:08:59.45,Default,en,0,0,0,,C- cool?
 Comment: 0,0:09:01.84,0:09:02.38,Default,ja,0,0,0,,あら？
 Dialogue: 0,0:09:01.84,0:09:02.38,Default,ko,0,0,0,,어라?
 Dialogue: 0,0:09:01.84,0:09:02.38,Default,en,0,0,0,,Huh?
-Comment: 0,0:09:09.85,0:09:12.81,Default,ja,0,0,0,,こんなうまいもの、生まれて初めて食うダス。
+Comment: 0,0:09:09.85,0:09:12.81,Default,ja,0,0,0,,こんなうまいもの、生まれて初めて食うだス。
 Dialogue: 0,0:09:09.85,0:09:12.81,Default,ko,0,0,0,,이런 맛있는 것은 태어나서 처음 먹소.
 Dialogue: 0,0:09:09.85,0:09:12.81,Default,en,0,0,0,,I never had something this tasty-{\i1}dasu{\i0}.
 Comment: 0,0:09:16.86,0:09:19.16,Default,ja,0,0,0,,足りなかったら注文しますからね。
@@ -319,7 +319,7 @@ Dialogue: 0,0:09:34.91,0:09:39.29,Default,en,0,0,0,,It isn't weird that Musashi 
 Comment: 0,0:09:39.29,0:09:41.19,Default,ja,0,0,0,,あたしだって怒っちゃうよ。
 Dialogue: 0,0:09:39.29,0:09:41.19,Default,ko,0,0,0,,나도 화났어!
 Dialogue: 0,0:09:39.29,0:09:41.19,Default,en,0,0,0,,I am angry too!
-Comment: 0,0:09:41.89,0:09:44.35,Default,ja,0,0,0,,分かってくれて、ありがとうダス。
+Comment: 0,0:09:41.89,0:09:44.35,Default,ja,0,0,0,,分かってくれて、ありがとうだス。
 Dialogue: 0,0:09:41.89,0:09:44.35,Default,ko,0,0,0,,알아 주셨다면 감사하오.
 Dialogue: 0,0:09:41.89,0:09:44.35,Default,en,0,0,0,,Thank you for understanding-{\i1}dasu{\i0}.
 Comment: 0,0:09:45.10,0:09:45.99,Default,ja,0,0,0,,ね、ね！
@@ -385,7 +385,7 @@ Dialogue: 0,0:10:57.95,0:10:59.67,Default,en,0,0,0,,Certainly!
 Comment: 0,0:11:01.76,0:11:03.12,Default,ja,0,0,0,,お待ちどうそも。
 Dialogue: 0,0:11:01.76,0:11:03.12,Default,ko,0,0,0,,기다렸지!
 Dialogue: 0,0:11:01.76,0:11:03.12,Default,en,0,0,0,,Thank you for waiting!
-Comment: 0,0:11:03.61,0:11:06.32,Default,ja,0,0,0,,怒られなかったダスか？・全然！
+Comment: 0,0:11:03.61,0:11:06.32,Default,ja,0,0,0,,怒られなかっただスか？・全然！
 Dialogue: 0,0:11:03.61,0:11:06.32,Default,ko,0,0,0,,-화내지 않았소?\N-전혀!
 Dialogue: 0,0:11:03.61,0:11:06.32,Default,en,0,0,0,,-Didn't she get angry-{\i1}dasu{\i0}?\N-Not at all!
 Comment: 0,0:11:07.31,0:11:12.35,Default,ja,0,0,0,,それよりムサシ、本会場に入れてあげたら、旅に行くって約束したわよね。
@@ -397,7 +397,7 @@ Dialogue: 0,0:11:12.65,0:11:13.69,Default,en,0,0,0,,Right-{\i1}dasu{\i0}.
 Comment: 0,0:11:13.69,0:11:15.04,Default,ja,0,0,0,,絶対に約束よ！
 Dialogue: 0,0:11:13.69,0:11:15.04,Default,ko,0,0,0,,꼭 약속이야!
 Dialogue: 0,0:11:13.69,0:11:15.04,Default,en,0,0,0,,You will keep that promise!
-Comment: 0,0:11:16.17,0:11:18.27,Default,ja,0,0,0,,男に二言はないでござるダス！
+Comment: 0,0:11:16.17,0:11:18.27,Default,ja,0,0,0,,男に二言はないでござるだス！
 Dialogue: 0,0:11:16.17,0:11:18.27,Default,ko,0,0,0,,남자는 두말하지 않소!
 Dialogue: 0,0:11:16.17,0:11:18.27,Default,en,0,0,0,,A man does not take his words back-{\i1}dasu{\i0}!
 Comment: 0,0:11:18.76,0:11:21.26,Default,ja,0,0,0,,やほ！あたし、最高！
@@ -425,7 +425,7 @@ Dialogue: 0,0:11:54.28,0:11:57.60,Default,en,0,0,0,,How can we go through such s
 Comment: 0,0:11:58.28,0:12:00.86,Default,ja,0,0,0,,だから、いい手があるって言ったでしょ？
 Dialogue: 0,0:11:58.28,0:12:00.86,Default,ko,0,0,0,,그러니까 좋은 수가 있댔지!
 Dialogue: 0,0:11:58.28,0:12:00.86,Default,en,0,0,0,,That's why I told you I have a good idea!
-Comment: 0,0:12:02.09,0:12:03.68,Default,ja,0,0,0,,な、な、なにするダス！
+Comment: 0,0:12:02.09,0:12:03.68,Default,ja,0,0,0,,な、な、なにするだス！
 Dialogue: 0,0:12:02.09,0:12:03.68,Default,ko,0,0,0,,무, 무슨, 무슨 짓이오!
 Dialogue: 0,0:12:02.09,0:12:03.68,Default,en,0,0,0,,Wh- wha- what're you doing-{\i1}dasu{\i0}?!
 Comment: 0,0:12:05.40,0:12:08.27,Default,ja,0,0,0,,早まらないでよ。脱ぐのはここまで。
@@ -478,13 +478,13 @@ Dialogue: 0,0:13:20.93,0:13:25.93,Eyecatch,en,0,0,0,,Karakuri Kengouden: Musashi
 Comment: 0,0:13:49.60,0:13:52.58,Default,ja,0,0,0,,約束通り、本会場に入れたわよ。
 Dialogue: 0,0:13:49.60,0:13:52.58,Default,ko,0,0,0,,약속대로 본 대회장에 들어왔어.
 Dialogue: 0,0:13:49.60,0:13:52.58,Default,en,0,0,0,,We're in the main competition site, as promised.
-Comment: 0,0:13:52.58,0:13:53.74,Default,ja,0,0,0,,ありがたいダス。
+Comment: 0,0:13:52.58,0:13:53.74,Default,ja,0,0,0,,ありがたいだス。
 Dialogue: 0,0:13:52.58,0:13:53.74,Default,ko,0,0,0,,고맙소.
 Dialogue: 0,0:13:52.58,0:13:53.74,Default,en,0,0,0,,Thank you-{\i1}dasu{\i0}.
 Comment: 0,0:13:54.17,0:13:56.89,Default,ja,0,0,0,,今度はあなたが約束を守る番ね。
 Dialogue: 0,0:13:54.17,0:13:56.89,Default,ko,0,0,0,,이번엔 네가 약속한 걸 지킬 차례야.
 Dialogue: 0,0:13:54.17,0:13:56.89,Default,en,0,0,0,,Now it's time for you to keep your promise.
-Comment: 0,0:13:56.89,0:14:02.62,Default,ja,0,0,0,,分かってるダス。うわ、凄い！ジュウベエさんもコンドウもほとんど互角だぜ！
+Comment: 0,0:13:56.89,0:14:02.62,Default,ja,0,0,0,,分かってるだス。うわ、凄い！ジュウベエさんもコンドウもほとんど互角だぜ！
 Dialogue: 0,0:13:56.89,0:14:02.62,Default,ko,0,0,0,,알고 있소. 우와, 대단하오! 주베 씨도 콘도도 대부분 막상막하이오!
 Dialogue: 0,0:13:56.89,0:14:02.62,Default,en,0,0,0,,I know-{\i1}dasu{\i0}. Wow, that's awesome! Mr. Jūbē, Kondou, and everyone are equal!
 Comment: 0,0:14:03.90,0:14:04.65,Default,ja,0,0,0,,ムサシ！
@@ -526,7 +526,7 @@ Dialogue: 0,0:14:41.79,0:14:43.16,Default,en,0,0,0,,No need for excuse!
 Comment: 0,0:14:43.16,0:14:44.14,Default,ja,0,0,0,,ムサシ！
 Dialogue: 0,0:14:43.16,0:14:44.14,Default,ko,0,0,0,,무사시!
 Dialogue: 0,0:14:43.16,0:14:44.14,Default,en,0,0,0,,Musashi!
-Comment: 0,0:14:49.90,0:14:51.24,Default,ja,0,0,0,,仕方ないダス！
+Comment: 0,0:14:49.90,0:14:51.24,Default,ja,0,0,0,,仕方ないだス！
 Dialogue: 0,0:14:49.90,0:14:51.24,Default,ko,0,0,0,,어쩔 수 없소!
 Dialogue: 0,0:14:49.90,0:14:51.24,Default,en,0,0,0,,It's inevitable-{\i1}dasu{\i0}!
 Comment: 0,0:15:00.59,0:15:02.65,Default,ja,0,0,0,,なかなかやるな、ムサシ。
@@ -535,7 +535,7 @@ Dialogue: 0,0:15:00.59,0:15:02.65,Default,en,0,0,0,,You're pretty good, Musashi.
 Comment: 0,0:15:03.16,0:15:04.75,Default,ja,0,0,0,,ムサシ殿。 見事だ。
 Dialogue: 0,0:15:03.16,0:15:04.75,Default,ko,0,0,0,,무사시 님. 훌륭하오.
 Dialogue: 0,0:15:03.16,0:15:04.75,Default,en,0,0,0,,Mr. Musashi. That was splendid.
-Comment: 0,0:15:05.92,0:15:08.35,Default,ja,0,0,0,,ジュウベエさん、お久しぶりダス！
+Comment: 0,0:15:05.92,0:15:08.35,Default,ja,0,0,0,,ジュウベエさん、お久しぶりだス！
 Dialogue: 0,0:15:05.92,0:15:08.35,Default,ko,0,0,0,,주베 씨, 오랜만이오!
 Dialogue: 0,0:15:05.92,0:15:08.35,Default,en,0,0,0,,It's been some time, Mr. Jūbē-{\i1}dasu{\i0}!
 Comment: 0,0:15:09.13,0:15:11.92,Default,ja,0,0,0,,ムサシ殿。 なぜこんなまねをするのです。
@@ -556,7 +556,7 @@ Dialogue: 0,0:15:21.18,0:15:21.96,Default,en,0,0,0,,Is that so?
 Comment: 0,0:15:22.76,0:15:24.11,Default,ja,0,0,0,,ムサシ殿らしい。
 Dialogue: 0,0:15:22.76,0:15:24.11,Default,ko,0,0,0,,무사시 님 스럽군요.
 Dialogue: 0,0:15:22.76,0:15:24.11,Default,en,0,0,0,,That's totally like Mr. Musashi.
-Comment: 0,0:15:24.64,0:15:26.70,Default,ja,0,0,0,,いや、照れるダス。
+Comment: 0,0:15:24.64,0:15:26.70,Default,ja,0,0,0,,いや、照れるだス。
 Dialogue: 0,0:15:24.64,0:15:26.70,Default,ko,0,0,0,,이야! 부끄럽소.
 Dialogue: 0,0:15:24.64,0:15:26.70,Default,en,0,0,0,,I'm embarrassed-{\i1}dasu{\i0}!
 Comment: 0,0:15:39.13,0:15:41.95,Default,ja,0,0,0,,謀反人に拍手を送るとは何事？！
@@ -607,7 +607,7 @@ Dialogue: 0,0:16:26.22,0:16:27.36,Default,en,0,0,0,,By doing so...
 Comment: 0,0:16:27.36,0:16:29.36,Default,ja,0,0,0,,ムサシも気が済むことでありましょう。
 Dialogue: 0,0:16:27.36,0:16:29.36,Default,ko,0,0,0,,무사시도 만족할 것입니다.
 Dialogue: 0,0:16:27.36,0:16:29.36,Default,en,0,0,0,,Musashi should be satisfied.
-Comment: 0,0:16:29.36,0:16:34.37,Default,ja,0,0,0,,うあ、気が済む、気が済む！ジュウベエさんとやらせてくれれば、満足でござるダス！
+Comment: 0,0:16:29.36,0:16:34.37,Default,ja,0,0,0,,うあ、気が済む、気が済む！ジュウベエさんとやらせてくれれば、満足でござるだス！
 Dialogue: 0,0:16:29.36,0:16:34.37,Default,ko,0,0,0,,우와, 만족하오! 만족하오! 주베 씨하고 하면 만족이오!
 Dialogue: 0,0:16:29.36,0:16:34.37,Default,en,0,0,0,,Wow, I'll be satisfied, definitely satisfied! I'll be satisfied if I can have a match with Mr. Jūbē-{\i1}dasu{\i0}!
 Comment: 0,0:16:34.97,0:16:37.68,Default,ja,0,0,0,,将軍。わたくしからもお願いいたします。
@@ -697,10 +697,10 @@ Dialogue: 0,0:18:52.41,0:18:53.34,Default,en,0,0,0,,Awesome!
 Comment: 0,0:18:56.22,0:18:57.11,Default,ja,0,0,0,,ムサシ！
 Dialogue: 0,0:18:56.22,0:18:57.11,Default,ko,0,0,0,,무사시!
 Dialogue: 0,0:18:56.22,0:18:57.11,Default,en,0,0,0,,Musashi!
-Comment: 0,0:18:57.85,0:19:01.71,Default,ja,0,0,0,,行かん！このままではやられるダス、このままでは！
+Comment: 0,0:18:57.85,0:19:01.71,Default,ja,0,0,0,,行かん！このままではやられるだス、このままでは！
 Dialogue: 0,0:18:57.85,0:19:01.71,Default,ko,0,0,0,,{\i1}안 돼! 이대로는 당하오! 이대로는!
 Dialogue: 0,0:18:57.85,0:19:01.71,Default,en,0,0,0,,{\i1}No! I'll be done for in this rate-{\i1}dasu{\i0}! I need something!
-Comment: 0,0:19:03.13,0:19:05.22,Default,ja,0,0,0,,なんとか切り抜ける手はないダスか！
+Comment: 0,0:19:03.13,0:19:05.22,Default,ja,0,0,0,,なんとか切り抜ける手はないだスか！
 Dialogue: 0,0:19:03.13,0:19:05.22,Default,ko,0,0,0,,{\i1}어떻게 타개할 방법은 없소?
 Dialogue: 0,0:19:03.13,0:19:05.22,Default,en,0,0,0,,{\i1}Is there a way to get over-{\i1}dasu{\i0}?
 Comment: 0,0:19:50.64,0:19:52.30,Default,ja,0,0,0,,秘剣！一の太刀！
@@ -715,7 +715,7 @@ Dialogue: 0,0:20:07.05,0:20:08.24,Default,en,0,0,0,,That was excellent.
 Comment: 0,0:20:16.92,0:20:17.93,Default,ja,0,0,0,,負けた。。。
 Dialogue: 0,0:20:16.92,0:20:17.93,Default,ko,0,0,0,,졌소...
 Dialogue: 0,0:20:16.92,0:20:17.93,Default,en,0,0,0,,I lost...
-Comment: 0,0:20:18.84,0:20:21.13,Default,ja,0,0,0,,おいらはジュウベエさんに負けたダス。。。
+Comment: 0,0:20:18.84,0:20:21.13,Default,ja,0,0,0,,おいらはジュウベエさんに負けただス。。。
 Dialogue: 0,0:20:18.84,0:20:21.13,Default,ko,0,0,0,,나는 주베 씨에게 졌소...
 Dialogue: 0,0:20:18.84,0:20:21.13,Default,en,0,0,0,,I lost to Mr. Jūbē...
 Comment: 0,0:20:25.36,0:20:26.70,Default,ja,0,0,0,,なんだす？
@@ -727,7 +727,7 @@ Dialogue: 0,0:20:34.14,0:20:38.18,Default,en,0,0,0,,It's been a while, Musashi, 
 Comment: 0,0:20:38.56,0:20:39.50,Default,ja,0,0,0,,ハンゾウ！
 Dialogue: 0,0:20:38.56,0:20:39.50,Default,ko,0,0,0,,한조!
 Dialogue: 0,0:20:38.56,0:20:39.50,Default,en,0,0,0,,Hanzō!
-Comment: 0,0:20:40.44,0:20:42.19,Default,ja,0,0,0,,このならを解けダス！
+Comment: 0,0:20:40.44,0:20:42.19,Default,ja,0,0,0,,このならを解けだス！
 Dialogue: 0,0:20:40.44,0:20:42.19,Default,ko,0,0,0,,이 줄을 푸시오!
 Dialogue: 0,0:20:40.44,0:20:42.19,Default,en,0,0,0,,Untie this thread-{\i1}dasu{\i0}!
 Comment: 0,0:20:42.91,0:20:44.81,Default,ja,0,0,0,,ojougiwano warui yatsume.
@@ -766,13 +766,13 @@ Dialogue: 0,0:21:36.64,0:21:37.50,Default,en,0,0,0,,What?
 Comment: 0,0:21:39.61,0:21:45.58,Default,ja,0,0,0,,私ことムサシは、自分の犯した罪を認め、死刑に処せられても仕方ありません。
 Dialogue: 0,0:21:39.61,0:21:45.58,Default,ko,0,0,0,,나 무사시는 자신이 저지른 죄를 인정하고 사형에 처해져도 상관 없습니다.
 Dialogue: 0,0:21:39.61,0:21:45.58,Default,en,0,0,0,,I, Musashi, acknowledge the crime I myself committed and agree to be executed no matter what.
-Comment: 0,0:21:46.17,0:21:48.97,Default,ja,0,0,0,,なんだス、これは！こんなの、おいら、知らんダス！
+Comment: 0,0:21:46.17,0:21:48.97,Default,ja,0,0,0,,なんだス、これは！こんなの、おいら、知らんだス！
 Dialogue: 0,0:21:46.17,0:21:48.97,Default,ko,0,0,0,,뭣이오, 이건? 이런 건 난 모르오!
 Dialogue: 0,0:21:46.17,0:21:48.97,Default,en,0,0,0,,What is this-{\i1}dasu{\i0}?! I don't know about this-{\i1}dasu{\i0}!
 Comment: 0,0:21:50.22,0:21:51.52,Default,ja,0,0,0,,くっそ。。。
 Dialogue: 0,0:21:50.22,0:21:51.52,Default,ko,0,0,0,,젠장...
 Dialogue: 0,0:21:50.22,0:21:51.52,Default,en,0,0,0,,Damn...
-Comment: 0,0:21:53.88,0:21:55.92,Default,ja,0,0,0,,図ったダスな、ハンゾウ！
+Comment: 0,0:21:53.88,0:21:55.92,Default,ja,0,0,0,,図っただスな、ハンゾウ！
 Dialogue: 0,0:21:54.04,0:21:55.92,Default,ko,0,0,0,,꾸미고 있었소, 한조!
 Dialogue: 0,0:21:54.04,0:21:55.92,Default,en,0,0,0,,You've planning all along-{\i1}dasu{\i0}, Hanzō!
 Comment: 0,0:21:55.92,0:21:57.84,Default,ja,0,0,0,,宮本村のムサシ。
@@ -818,16 +818,16 @@ Dialogue: 0,0:24:08.73,0:24:11.34,Default,en,0,0,0,,Why isn't it me? How frustra
 Comment: 0,0:24:11.34,0:24:15.12,Default,ja,0,0,0,,悔しがってるばいじゃないだす。おいら、ハンゾウに処刑されちまだす。
 Dialogue: 0,0:24:11.34,0:24:15.12,Default,ko,0,0,0,,분하고 있을 때가 아니오! 나, 한조에게 사형당하고 마오.
 Dialogue: 0,0:24:11.34,0:24:15.12,Default,en,0,0,0,,This is no time to be frustrated-{\i1}dasu{\i0}! I'll be executed by Hanzō-{\i1}dasu{\i0}.
-Comment: 0,0:24:15.56,0:24:18.52,Default,ja,0,0,0,,ジパングナンバーワン武芸者になるところじゃないダス！
+Comment: 0,0:24:15.56,0:24:18.52,Default,ja,0,0,0,,ジパングナンバーワン武芸者になるところじゃないだス！
 Dialogue: 0,0:24:15.56,0:24:18.52,Default,ko,0,0,0,,지팡 제일의 무예가가 될 때가 아니오!
 Dialogue: 0,0:24:15.56,0:24:18.52,Default,en,0,0,0,,It's no time to become the number one Martial Artist of Jipangu!
 Comment: 0,0:24:18.52,0:24:20.22,Default,ja,0,0,0,,誰が助けてくれ！
 Dialogue: 0,0:24:18.52,0:24:20.22,Default,ko,0,0,0,,누가 도와주시오!
 Dialogue: 0,0:24:18.52,0:24:20.22,Default,en,0,0,0,,Somebody help me!
-Comment: 0,0:24:20.80,0:24:23.66,Default,ja,0,0,0,,次回！カラクリ剣豪総出撃ダス！
+Comment: 0,0:24:20.80,0:24:23.66,Default,ja,0,0,0,,次回！カラクリ剣豪総出撃だス！
 Dialogue: 0,0:24:20.80,0:24:23.66,Default,ko,0,0,0,,다음 이야기! 카라쿠리 검호 총출격!
 Dialogue: 0,0:24:20.80,0:24:23.66,Default,en,0,0,0,,Next story! Karakuri Martial Artists, Go Out at Once!
-Comment: 0,0:24:23.66,0:24:26.68,Default,ja,0,0,0,,疾風怒濤のどんでん返しを見るダス！
+Comment: 0,0:24:23.66,0:24:26.68,Default,ja,0,0,0,,疾風怒濤のどんでん返しを見るだス！
 Dialogue: 0,0:24:23.66,0:24:26.68,Default,ko,0,0,0,,질풍노도의 역전을 보시오!
 Dialogue: 0,0:24:23.66,0:24:26.68,Default,en,0,0,0,,Watch the unexpected twist-{\i1}dasu{\i0}!
 Dialogue: 0,0:24:27.19,0:24:31.19,NoteOnAnime,ko,60,0,60,,{\an7}다음 이야기
