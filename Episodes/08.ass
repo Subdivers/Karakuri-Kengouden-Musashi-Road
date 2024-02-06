@@ -137,16 +137,16 @@ Dialogue: 0,0:04:50.06,0:04:51.42,Default,ko,0,0,0,,-예.\N-말해라.
 Dialogue: 0,0:04:50.06,0:04:51.42,Default,en,0,0,0,,-Yes.\N-Speak.
 Comment: 0,0:04:53.45,0:04:59.51,Default,ja,0,0,0,,過日、ホーゾーインの道場に警察庁長官のジュウベエが現れたそうでございます。
 Dialogue: 0,0:04:53.45,0:04:59.51,Default,ko,0,0,0,,며칠 전, 호조인 도장에 경찰 장관 주베가 나타났다 합니다.
-Dialogue: 0,0:04:53.45,0:04:59.51,Default,en,0,0,0,,A few days ago, it is told that Jūbē, the police chief, stopped by at Hōzōin Dōjō.
+Dialogue: 0,0:04:53.45,0:04:59.51,Default,en,0,0,0,,A few days ago, it is told that Jūbee, the police chief, stopped by at Hōzōin Dōjō.
 Comment: 0,0:04:59.96,0:05:07.27,Default,ja,0,0,0,,ジュウベエが？おのれ。。。諸国の動静を探るは奴にはあらず。
 Dialogue: 0,0:04:59.96,0:05:07.27,Default,ko,0,0,0,,주베가? 그 놈... 제국의 동세를 정탐하는 역이 아닐 터.
-Dialogue: 0,0:04:59.96,0:05:07.27,Default,en,0,0,0,,Jūbē? That bastard... He is not supposed to be a spy investigating across the state.
+Dialogue: 0,0:04:59.96,0:05:07.27,Default,en,0,0,0,,Jūbee? That bastard... He is not supposed to be a spy investigating across the state.
 Comment: 0,0:05:07.62,0:05:11.09,Default,ja,0,0,0,,公儀隠密のこのわしの役名、手触りおって！
 Dialogue: 0,0:05:07.62,0:05:11.09,Default,ko,0,0,0,,내탐꾼인 내 임무에 감히 손을 대다니.
 Dialogue: 0,0:05:07.62,0:05:11.09,Default,en,0,0,0,,How dare he tries to take over my role?
 Comment: 0,0:05:12.12,0:05:17.48,Default,ja,0,0,0,,ですが、この時期、あのような場所にジュウベエが現れるとは、まさか例の金山のこと。
 Dialogue: 0,0:05:12.12,0:05:17.48,Default,ko,0,0,0,,그러나 이런 때, 그런 곳에 주베가 나타났다는 것은 설마 그 금광...
-Dialogue: 0,0:05:12.12,0:05:17.48,Default,en,0,0,0,,But it is possible that Jūbē appeared in that place because of the gold mine...
+Dialogue: 0,0:05:12.12,0:05:17.48,Default,en,0,0,0,,But it is possible that Jūbee appeared in that place because of the gold mine...
 Comment: 0,0:05:17.83,0:05:21.25,Default,ja,0,0,0,,うろたえるな。手抜かりはないわ。そっちは。。。
 Dialogue: 0,0:05:17.83,0:05:21.25,Default,ko,0,0,0,,당황하지 마라. 실수는 없다. 그쪽은...
 Dialogue: 0,0:05:17.83,0:05:21.25,Default,en,0,0,0,,Don't be flustered. There is no mistake. And for you...
@@ -167,7 +167,7 @@ Dialogue: 0,0:05:44.89,0:05:48.27,Default,ko,0,0,0,,우리가 함께 잡히면 �
 Dialogue: 0,0:05:44.89,0:05:48.27,Default,en,0,0,0,,If we get caught together, who will expose Hanzō's plot?
 Comment: 0,0:05:48.92,0:05:51.47,Default,ja,0,0,0,,さあ。早くこれをジュウベエ殿のもとへ！
 Dialogue: 0,0:05:48.92,0:05:51.47,Default,ko,0,0,0,,자. 빨리 이걸 주베 님께!
-Dialogue: 0,0:05:48.92,0:05:51.47,Default,en,0,0,0,,Take this to Jūbē right away!
+Dialogue: 0,0:05:48.92,0:05:51.47,Default,en,0,0,0,,Take this to Jūbee right away!
 Comment: 0,0:05:52.83,0:05:53.75,Default,ja,0,0,0,,いたぞ！
 Dialogue: 0,0:05:52.83,0:05:53.75,Default,ko,0,0,0,,뭔가 있다!
 Dialogue: 0,0:05:52.83,0:05:53.75,Default,en,0,0,0,,Something's over there!
@@ -194,7 +194,7 @@ Dialogue: 0,0:06:34.53,0:06:36.90,Default,ko,0,0,0,,무슨 일인가, 대체?! �
 Dialogue: 0,0:06:34.53,0:06:36.90,Default,en,0,0,0,,What happened? Wake up!
 Comment: 0,0:06:41.67,0:06:43.37,Default,ja,0,0,0,,ジュ、ジュウベエ様。。。
 Dialogue: 0,0:06:41.67,0:06:43.37,Default,ko,0,0,0,,주, 주베 님께...
-Dialogue: 0,0:06:41.67,0:06:43.37,Default,en,0,0,0,,Bring this to Jūbē...
+Dialogue: 0,0:06:41.67,0:06:43.37,Default,en,0,0,0,,Bring this to Jūbee...
 Comment: 0,0:06:45.33,0:06:47.37,Default,ja,0,0,0,,おい！大丈夫か！おい！
 Dialogue: 0,0:06:45.33,0:06:47.37,Default,ko,0,0,0,,어이! 괜찮나! 어이!
 Dialogue: 0,0:06:45.33,0:06:47.37,Default,en,0,0,0,,Hey! Are you alright? Hey!
@@ -203,7 +203,7 @@ Dialogue: 0,0:06:49.44,0:06:50.09,Default,ko,0,0,0,,비둘기?
 Dialogue: 0,0:06:49.44,0:06:50.09,Default,en,0,0,0,,Pigeons?
 Comment: 0,0:06:50.63,0:06:51.30,Default,ja,0,0,0,,ジュウベエ？
 Dialogue: 0,0:06:50.63,0:06:51.30,Default,ko,0,0,0,,주베에게?
-Dialogue: 0,0:06:50.63,0:06:51.30,Default,en,0,0,0,,To Jūbē?
+Dialogue: 0,0:06:50.63,0:06:51.30,Default,en,0,0,0,,To Jūbee?
 Comment: 0,0:07:03.17,0:07:05.32,Default,ja,0,0,0,,何を騒いでるでござるだス？
 Dialogue: 0,0:07:03.17,0:07:05.32,Default,ko,0,0,0,,뭘 가지고 웅성대오?
 Dialogue: 0,0:07:03.17,0:07:05.32,Default,en,0,0,0,,What are you all talking about-{\i1}dasu{\i0}?
@@ -338,10 +338,10 @@ Dialogue: 0,0:10:36.07,0:10:39.68,Default,ko,0,0,0,,이 비둘기의 주인하�
 Dialogue: 0,0:10:36.07,0:10:39.68,Default,en,0,0,0,,It seems that the owner of this dove and the dead are somehow related.
 Comment: 0,0:10:40.08,0:10:43.23,Default,ja,0,0,0,,どうやら、これがジュウベエとかかわりがあるらしい。
 Dialogue: 0,0:10:40.08,0:10:43.23,Default,ko,0,0,0,,어쨌든 이것이 주베와 관계가 있을 듯 하다.
-Dialogue: 0,0:10:40.08,0:10:43.23,Default,en,0,0,0,,Anyway, this seems to be has something to do with Jūbē.
+Dialogue: 0,0:10:40.08,0:10:43.23,Default,en,0,0,0,,Anyway, this seems to be has something to do with Jūbee.
 Comment: 0,0:10:43.57,0:10:44.65,Default,ja,0,0,0,,ジュウベエさんと？
 Dialogue: 0,0:10:43.57,0:10:44.65,Default,ko,0,0,0,,주베 씨하고?
-Dialogue: 0,0:10:43.57,0:10:44.65,Default,en,0,0,0,,With Jūbē?
+Dialogue: 0,0:10:43.57,0:10:44.65,Default,en,0,0,0,,With Jūbee?
 Comment: 0,0:10:48.23,0:10:49.08,Default,ja,0,0,0,,これは。。。
 Dialogue: 0,0:10:48.23,0:10:49.08,Default,ko,0,0,0,,이건...
 Dialogue: 0,0:10:48.23,0:10:49.08,Default,en,0,0,0,,This...
@@ -414,7 +414,7 @@ Dialogue: 0,0:12:26.28,0:12:30.51,Default,ko,0,0,0,,"자신이 지팡구국의 �
 Dialogue: 0,0:12:26.28,0:12:30.51,Default,en,0,0,0,,"It is the proof that he is scheming to reign over Jipangu State as the shadow shogun."
 Comment: 0,0:12:31.85,0:12:36.87,Default,ja,0,0,0,,金山の位置は以下の通りで。ジュウベエ殿の決断を仰ぎ立っきそう。
 Dialogue: 0,0:12:31.85,0:12:36.87,Default,ko,0,0,0,,"다음은 금광의 위치입니다. 주베 님의 결단을 바랍니다."
-Dialogue: 0,0:12:31.85,0:12:36.87,Default,en,0,0,0,,"Following is the location of gold mine. Waiting for the decision from Jūbē."
+Dialogue: 0,0:12:31.85,0:12:36.87,Default,en,0,0,0,,"Following is the location of gold mine. Waiting for the decision from Jūbee."
 Comment: 0,0:12:38.15,0:12:40.58,Default,ja,0,0,0,,許せん奴でござるだスな。
 Dialogue: 0,0:12:38.15,0:12:40.58,Default,ko,0,0,0,,용서 못 할 놈이오...
 Dialogue: 0,0:12:38.15,0:12:40.58,Default,en,0,0,0,,That's one unforgivable guy-{\i1}dasu{\i0}...
@@ -621,7 +621,7 @@ Dialogue: 0,0:18:34.57,0:18:38.63,Default,ko,0,0,0,,밀서의 소재를 알게 �
 Dialogue: 0,0:18:34.57,0:18:38.63,Default,en,0,0,0,,When I get to know where the secret message is, I'll kill you slowly.
 Comment: 0,0:18:38.82,0:18:43.04,Default,ja,0,0,0,,何？あの密書をエドトピアのジュウベエ殿に届けるだと？
 Dialogue: 0,0:18:38.82,0:18:43.04,Default,ko,0,0,0,,뭐? 그 밀서, 에도토피아의 주베 님께 전달한다고?
-Dialogue: 0,0:18:38.82,0:18:43.04,Default,en,0,0,0,,What? Are you saying that you're going to deliver that secret message to Jūbē in Edotopia?
+Dialogue: 0,0:18:38.82,0:18:43.04,Default,en,0,0,0,,What? Are you saying that you're going to deliver that secret message to Jūbee in Edotopia?
 Comment: 0,0:18:43.20,0:18:46.68,Default,ja,0,0,0,,ああ。ハンゾウみたいな極悪人を許せんでござるだス。
 Dialogue: 0,0:18:43.20,0:18:46.68,Default,ko,0,0,0,,그렇소. 한조같은 극악한 자는 용서할 수 없소!
 Dialogue: 0,0:18:43.20,0:18:46.68,Default,en,0,0,0,,Right. An atrocious villain like Hanzō is unforgivable-{\i1}dasu{\i0}!

@@ -62,7 +62,7 @@ Dialogue: 0,0:01:39.41,0:01:45.64,SongOP,OP!Lyric17,0,0,0,,BUGEI! 二刀流　�
 Dialogue: 0,0:01:45.64,0:01:50.90,SongOP,OP!Lyric18,0,0,0,,みけんが　きらめいた　ムサシ！！
 Comment: 0,0:02:00.88,0:02:06.28,Default,ja,0,0,0,,逃亡中のムサシはジュウベエとの番外試合が認められることになったが、
 Dialogue: 0,0:02:00.88,0:02:06.28,Default,ko,0,0,0,,도망치던 무사시는 주베와의 번외 시합을 벌이게 되었지만
-Dialogue: 0,0:02:00.88,0:02:06.28,Default,en,0,0,0,,Musashi once was running away, but he managed to have an extra match against Jūbē.
+Dialogue: 0,0:02:00.88,0:02:06.28,Default,en,0,0,0,,Musashi once was running away, but he managed to have an extra match against Jūbee.
 Comment: 0,0:02:06.28,0:02:10.57,Default,ja,0,0,0,,柳生神蔭流の秘剣の前に見事に敗北を喫した。
 Dialogue: 0,0:02:06.28,0:02:10.57,Default,ko,0,0,0,,야규신카게류의 비검 앞에 완전히 패배의 쓴맛을 보았다.
 Dialogue: 0,0:02:06.28,0:02:10.57,Default,en,0,0,0,,But he ended in defeat in front of the secret sword of Yagyū Shinkage Style.
@@ -192,7 +192,7 @@ Dialogue: 0,0:05:45.26,0:05:48.59,Default,ko,0,0,0,,자, 자, 기다리고 기�
 Dialogue: 0,0:05:45.26,0:05:48.59,Default,en,0,0,0,,The final match that you waited and waited will begin soon!
 Comment: 0,0:05:48.96,0:05:53.47,Default,ja,0,0,0,,当社は予想通り柳生ジュウベエと美剣士コジローのicchoujin.
 Dialogue: 0,0:05:48.96,0:05:53.47,Default,ko,0,0,0,,당사 예상대로 야규 주베와 미검사 코지로의 한판승부.
-Dialogue: 0,0:05:48.96,0:05:53.47,Default,en,0,0,0,,As we expected, it will be one-time match of Yagyū Jūbē versus Kojirō, the beautiful swordsman.
+Dialogue: 0,0:05:48.96,0:05:53.47,Default,en,0,0,0,,As we expected, it will be one-time match of Yagyū Jūbee versus Kojirō, the beautiful swordsman.
 Comment: 0,0:05:53.47,0:05:59.21,Default,ja,0,0,0,,優勝は誰か！い？予想は的中率一の当社がジパングナンバーワンだよ！
 Dialogue: 0,0:05:53.47,0:05:59.21,Default,ko,0,0,0,,우승은 누구일까! 예상은 적중률 제일의 당사가 지팡구 제일이요!
 Dialogue: 0,0:05:53.47,0:05:59.21,Default,en,0,0,0,,Who will win? Our company has the highest accuracy in Jipangu!
@@ -201,7 +201,7 @@ Dialogue: 0,0:06:00.46,0:06:02.57,Default,ko,0,0,0,,네, 여기요, 여기요!
 Dialogue: 0,0:06:00.46,0:06:02.57,Default,en,0,0,0,,Yes, here, here!
 Comment: 0,0:06:02.57,0:06:04.84,Default,ja,0,0,0,,ジュウベエさんよりやっぱり！
 Dialogue: 0,0:06:02.57,0:06:04.84,Default,ko,0,0,0,,주베 님보다도 역시!
-Dialogue: 0,0:06:02.57,0:06:04.84,Default,en,0,0,0,,Better than Mr. Jūbē...
+Dialogue: 0,0:06:02.57,0:06:04.84,Default,en,0,0,0,,Better than Mr. Jūbee...
 Comment: 0,0:06:04.84,0:06:06.78,Default,ja,0,0,0,,コジ様よね
 Dialogue: 0,0:06:04.84,0:06:06.78,Default,ko,0,0,0,,코지 님이지!
 Dialogue: 0,0:06:04.84,0:06:06.78,Default,en,0,0,0,,is {\i1}Koji{\i0}!
@@ -216,7 +216,7 @@ Dialogue: 0,0:06:13.92,0:06:17.29,Default,ko,0,0,0,,꼭 코지 님이 이겼으�
 Dialogue: 0,0:06:13.92,0:06:17.29,Default,en,0,0,0,,I wish Mr. {\i1}Koji{\i0} win in the match!
 Comment: 0,0:06:17.29,0:06:19.66,Default,ja,0,0,0,,ジュウベエとコジローか。
 Dialogue: 0,0:06:17.29,0:06:19.66,Default,ko,0,0,0,,주베 대 코지로인가...
-Dialogue: 0,0:06:17.29,0:06:19.66,Default,en,0,0,0,,Jūbē vs. Kojirō?
+Dialogue: 0,0:06:17.29,0:06:19.66,Default,en,0,0,0,,Jūbee vs. Kojirō?
 Comment: 0,0:06:21.88,0:06:24.94,Default,ja,0,0,0,,どちらかがムサシさんだったらよかったのにな。
 Dialogue: 0,0:06:21.88,0:06:24.94,Default,ko,0,0,0,,누구든 무사시였으면 좋았을 텐데...
 Dialogue: 0,0:06:21.88,0:06:24.94,Default,en,0,0,0,,If one of them was Musashi, it could have been better.
@@ -231,7 +231,7 @@ Dialogue: 0,0:06:39.31,0:06:44.62,Default,ko,0,0,0,,그럼 지금부터 지팡�
 Dialogue: 0,0:06:39.31,0:06:44.62,Default,en,0,0,0,,We'll soon begin the final match of Jipangu Martial Arts Competition!
 Comment: 0,0:06:45.72,0:06:47.66,Default,ja,0,0,0,,柳生ジュウベエ殿！
 Dialogue: 0,0:06:45.72,0:06:47.66,Default,ko,0,0,0,,야규 주베 님!
-Dialogue: 0,0:06:45.72,0:06:47.66,Default,en,0,0,0,,Mr. Yagyū Jūbē!
+Dialogue: 0,0:06:45.72,0:06:47.66,Default,en,0,0,0,,Mr. Yagyū Jūbee!
 Comment: 0,0:06:50.14,0:06:53.16,Default,ja,0,0,0,,片方はミスターコジロー！
 Dialogue: 0,0:06:50.14,0:06:53.16,Default,ko,0,0,0,,한쪽은 미스터 코지로 님!
 Dialogue: 0,0:06:50.14,0:06:53.16,Default,en,0,0,0,,Mister Kojirō on this side!
@@ -243,7 +243,7 @@ Dialogue: 0,0:07:24.86,0:07:28.65,Default,ko,0,0,0,,{\i1}코지로 님, 어리�
 Dialogue: 0,0:07:24.86,0:07:28.65,Default,en,0,0,0,,{\i1}Mr. Kojirō. A young grown man with splendid martial arts skills.
 Comment: 0,0:07:29.55,0:07:33.76,Default,ja,0,0,0,,ジュウベエ殿。初めて不足のない武芸者と会い申した。
 Dialogue: 0,0:07:29.55,0:07:33.76,Default,ko,0,0,0,,{\i1}주베 님, 처음 부족함이 없는 무예가하고 만났다.
-Dialogue: 0,0:07:29.55,0:07:33.76,Default,en,0,0,0,,{\i1}Mr. Jūbē. It is the first time facing a martial artist without a flaw.
+Dialogue: 0,0:07:29.55,0:07:33.76,Default,en,0,0,0,,{\i1}Mr. Jūbee. It is the first time facing a martial artist without a flaw.
 Comment: 0,0:08:12.38,0:08:13.54,Default,ja,0,0,0,,もらった！
 Dialogue: 0,0:08:12.38,0:08:13.54,Default,ko,0,0,0,,잡았다!
 Dialogue: 0,0:08:12.38,0:08:13.54,Default,en,0,0,0,,Chance!
@@ -261,7 +261,7 @@ Dialogue: 0,0:08:37.83,0:08:40.60,Default,ko,0,0,0,,{\i1}내 타를 피할 줄�
 Dialogue: 0,0:08:37.83,0:08:40.60,Default,en,0,0,0,,{\i1}He evaded my hit.
 Comment: 0,0:08:40.60,0:08:43.48,Default,ja,0,0,0,,今のところはさすがにジュウベエ殿と言っておこう。
 Dialogue: 0,0:08:40.60,0:08:43.48,Default,ko,0,0,0,,{\i1}지금 이것으로는 역시 주베 님이라고 말하기에 부족함이 없다.
-Dialogue: 0,0:08:40.60,0:08:43.48,Default,en,0,0,0,,{\i1}That is Mr. Jūbē I know. This is the only thing that I can say by this.
+Dialogue: 0,0:08:40.60,0:08:43.48,Default,en,0,0,0,,{\i1}That is Mr. Jūbee I know. This is the only thing that I can say by this.
 Comment: 0,0:08:44.91,0:08:47.58,Default,ja,0,0,0,,確かに技も資質も非凡な男。
 Dialogue: 0,0:08:44.91,0:08:47.58,Default,ko,0,0,0,,{\i1}확실히 기술도 자질도 비범한 사내.
 Dialogue: 0,0:08:44.91,0:08:47.58,Default,en,0,0,0,,{\i1}He is a man with extraordinary technique and talent.
@@ -300,7 +300,7 @@ Dialogue: 0,0:10:15.96,0:10:17.02,Default,ko,0,0,0,,등롱 흘리기!
 Dialogue: 0,0:10:15.96,0:10:17.02,Default,en,0,0,0,,{\i1}Tourou Nagashi{\i0}!
 Comment: 0,0:10:22.26,0:10:25.26,Default,ja,0,0,0,,勝負あり！ジュウベエ殿の勝ち！
 Dialogue: 0,0:10:22.26,0:10:25.26,Default,ko,0,0,0,,승부 났소이다! 주베 님의 승리!
-Dialogue: 0,0:10:22.26,0:10:25.26,Default,en,0,0,0,,Match set! Mr. Jūbē wins!
+Dialogue: 0,0:10:22.26,0:10:25.26,Default,en,0,0,0,,Match set! Mr. Jūbee wins!
 Comment: 0,0:10:28.16,0:10:32.68,Default,ja,0,0,0,,うん、見事。稀に見る質の高い試合だった。
 Dialogue: 0,0:10:28.16,0:10:32.68,Default,ko,0,0,0,,그래, 훌륭하다. 정말 드물게 질 높은 시합이었다.
 Dialogue: 0,0:10:28.16,0:10:32.68,Default,en,0,0,0,,Right, good job. A rare match of truly high quality.
@@ -342,13 +342,13 @@ Dialogue: 0,0:11:13.20,0:11:16.14,Default,ko,0,0,0,,나 슬퍼... 죽고 싶어!
 Dialogue: 0,0:11:13.20,0:11:16.14,Default,en,0,0,0,,I'm so sad... I wanna die!
 Comment: 0,0:11:18.22,0:11:21.37,Default,ja,0,0,0,,ジュウベエ殿が優勝か。。。お見事。
 Dialogue: 0,0:11:18.22,0:11:21.37,Default,ko,0,0,0,,{\i1}주베 님의 우승인가... 훌륭하군.
-Dialogue: 0,0:11:18.22,0:11:21.37,Default,en,0,0,0,,{\i1}So Mr. Jūbē wins... Excellent.
+Dialogue: 0,0:11:18.22,0:11:21.37,Default,en,0,0,0,,{\i1}So Mr. Jūbee wins... Excellent.
 Comment: 0,0:11:21.37,0:11:22.76,Default,ja,0,0,0,,さすがでござる。
 Dialogue: 0,0:11:21.37,0:11:22.76,Default,ko,0,0,0,,{\i1}역시 대단하오.
 Dialogue: 0,0:11:21.37,0:11:22.76,Default,en,0,0,0,,{\i1}You are superb.
 Comment: 0,0:11:23.69,0:11:29.77,Default,ja,0,0,0,,ジュウベエの奴、これでますますイエヤスの信望を集め、将軍に力を注ぐんだろうが、
 Dialogue: 0,0:11:23.69,0:11:29.77,Default,ko,0,0,0,,{\i1}주베 놈, 이걸로 점점 이에야스의 신망을 모아 쇼군의 힘을 얻겠다는 것 같다만,
-Dialogue: 0,0:11:23.69,0:11:29.77,Default,en,0,0,0,,{\i1}It seems that that damned Jūbē is trying to gain confidence from Ieyasu and gain the power of Shogun...
+Dialogue: 0,0:11:23.69,0:11:29.77,Default,en,0,0,0,,{\i1}It seems that that damned Jūbee is trying to gain confidence from Ieyasu and gain the power of Shogun...
 Comment: 0,0:11:30.17,0:11:32.96,Default,ja,0,0,0,,今に吠え面をかく時が必ず来る。
 Dialogue: 0,0:11:30.17,0:11:32.96,Default,ko,0,0,0,,{\i1}곧 울상을 지을 때가 꼭 온다.
 Dialogue: 0,0:11:30.17,0:11:32.96,Default,en,0,0,0,,{\i1}The time for you to make a tearful face will come.
@@ -371,10 +371,10 @@ Dialogue: 0,0:12:08.62,0:12:13.64,Eyecatch,ko,0,0,0,,카라쿠리 검호전 무�
 Dialogue: 0,0:12:08.62,0:12:13.64,Eyecatch,en,0,0,0,,Karakuri Kengouden: Musashi Road
 Comment: 0,0:12:18.54,0:12:21.62,Default,ja,0,0,0,,柳生神蔭流ジュウベエ殿！
 Dialogue: 0,0:12:18.54,0:12:21.62,Default,ko,0,0,0,,야규신카게류, 주베 님!
-Dialogue: 0,0:12:18.54,0:12:21.62,Default,en,0,0,0,,Yagyū Shinkage Style, Mr. Jūbē!
+Dialogue: 0,0:12:18.54,0:12:21.62,Default,en,0,0,0,,Yagyū Shinkage Style, Mr. Jūbee!
 Comment: 0,0:12:33.92,0:12:38.35,Default,ja,0,0,0,,優勝。柳生神蔭流使い手柳生ジュウベエ。
 Dialogue: 0,0:12:33.92,0:12:38.35,Default,ko,0,0,0,,우승. 야규신카게류 야규 주베.
-Dialogue: 0,0:12:33.92,0:12:38.35,Default,en,0,0,0,,Champion. Yagyū Jūbē of Yagyū Shinkage Style.
+Dialogue: 0,0:12:33.92,0:12:38.35,Default,en,0,0,0,,Champion. Yagyū Jūbee of Yagyū Shinkage Style.
 Comment: 0,0:12:38.92,0:12:44.68,Default,ja,0,0,0,,貴公は第一回ジパング武芸大会において並みいる多大のGyougyouwoosiritoke.
 Dialogue: 0,0:12:38.92,0:12:44.68,Default,ko,0,0,0,,귀공은 제 1회 지팡구 무예 대회에서 빼어난 기술을 모두에게 보여주었소.
 Dialogue: 0,0:12:38.92,0:12:44.68,Default,en,0,0,0,,You showed your excellent techniques in the 1st Jipangu Martial Art Competition to everyone.
@@ -416,7 +416,7 @@ Dialogue: 0,0:13:17.81,0:13:19.13,Default,ko,0,0,0,,무사시?
 Dialogue: 0,0:13:17.81,0:13:19.13,Default,en,0,0,0,,Musashi?
 Comment: 0,0:13:19.44,0:13:23.50,Default,ja,0,0,0,,お、ジュウベエと番外試合をしたあの男？
 Dialogue: 0,0:13:19.44,0:13:23.50,Default,ko,0,0,0,,오, 주베하고 번외 시합을 했던 그 남자?
-Dialogue: 0,0:13:19.44,0:13:23.50,Default,en,0,0,0,,Oh, that man who had an extra match against Jūbē?
+Dialogue: 0,0:13:19.44,0:13:23.50,Default,en,0,0,0,,Oh, that man who had an extra match against Jūbee?
 Comment: 0,0:13:23.50,0:13:25.85,Default,ja,0,0,0,,お願い、すぐに助けてほしいの。
 Dialogue: 0,0:13:23.50,0:13:25.85,Default,ko,0,0,0,,부탁이야, 빨리 구해 줘.
 Dialogue: 0,0:13:23.50,0:13:25.85,Default,en,0,0,0,,Please, rescue him right now.
@@ -446,10 +446,10 @@ Dialogue: 0,0:13:55.55,0:13:56.17,Default,ko,0,0,0,,쇼군!
 Dialogue: 0,0:13:55.55,0:13:56.17,Default,en,0,0,0,,Shogun!
 Comment: 0,0:13:57.02,0:13:59.58,Default,ja,0,0,0,,ジュウベエ、お願いの気がございます。
 Dialogue: 0,0:13:57.02,0:13:59.58,Default,ko,0,0,0,,주베, 부탁드릴 것이 있습니다.
-Dialogue: 0,0:13:57.02,0:13:59.58,Default,en,0,0,0,,I, Jūbē, has a request.
+Dialogue: 0,0:13:57.02,0:13:59.58,Default,en,0,0,0,,I, Jūbee, has a request.
 Comment: 0,0:13:59.88,0:14:01.10,Default,ja,0,0,0,,なんだ、ジュウベエ？
 Dialogue: 0,0:13:59.88,0:14:01.10,Default,ko,0,0,0,,뭔가, 주베?
-Dialogue: 0,0:13:59.88,0:14:01.10,Default,en,0,0,0,,What is it, Jūbē?
+Dialogue: 0,0:13:59.88,0:14:01.10,Default,en,0,0,0,,What is it, Jūbee?
 Comment: 0,0:14:01.64,0:14:05.13,Default,ja,0,0,0,,恐れながら、このたびの補償金ご自体を申しげます。
 Dialogue: 0,0:14:01.64,0:14:05.13,Default,ko,0,0,0,,실례입니다만, 이번 보상금은 받지 않겠습니다.
 Dialogue: 0,0:14:01.64,0:14:05.13,Default,en,0,0,0,,Excuse me, but I will not receive the award.
@@ -470,7 +470,7 @@ Dialogue: 0,0:14:18.06,0:14:21.93,Default,ko,0,0,0,,이대로 딱 한 분을 구
 Dialogue: 0,0:14:18.06,0:14:21.93,Default,en,0,0,0,,Like this, I want to ask you to save one person.
 Comment: 0,0:14:21.93,0:14:22.84,Default,ja,0,0,0,,ジュウベエさん！
 Dialogue: 0,0:14:21.93,0:14:22.84,Default,ko,0,0,0,,주베 씨!
-Dialogue: 0,0:14:21.93,0:14:22.84,Default,en,0,0,0,,Mr. Jūbē!
+Dialogue: 0,0:14:21.93,0:14:22.84,Default,en,0,0,0,,Mr. Jūbee!
 Comment: 0,0:14:24.17,0:14:26.62,Default,ja,0,0,0,,拙者からもお頼み申しばい。
 Dialogue: 0,0:14:24.17,0:14:26.62,Default,ko,0,0,0,,소생도 부탁드리오이다!
 Dialogue: 0,0:14:24.17,0:14:26.62,Default,en,0,0,0,,I request for that too!
@@ -530,16 +530,16 @@ Dialogue: 0,0:15:49.56,0:15:51.20,Default,ko,0,0,0,,무례하다. 무슨 짓인�
 Dialogue: 0,0:15:49.56,0:15:51.20,Default,en,0,0,0,,How rude! What are you doing?
 Comment: 0,0:15:56.35,0:15:57.84,Default,ja,0,0,0,,ジュウベエ殿。
 Dialogue: 0,0:15:56.35,0:15:57.84,Default,ko,0,0,0,,주베 님.
-Dialogue: 0,0:15:56.35,0:15:57.84,Default,en,0,0,0,,Mr. Jūbē.
+Dialogue: 0,0:15:56.35,0:15:57.84,Default,en,0,0,0,,Mr. Jūbee.
 Comment: 0,0:15:58.25,0:15:59.04,Default,ja,0,0,0,,ジュウベエさん？
 Dialogue: 0,0:15:58.25,0:15:59.04,Default,ko,0,0,0,,주베 씨?
-Dialogue: 0,0:15:58.25,0:15:59.04,Default,en,0,0,0,,Mr. Jūbē?
+Dialogue: 0,0:15:58.25,0:15:59.04,Default,en,0,0,0,,Mr. Jūbee?
 Comment: 0,0:16:00.44,0:16:03.61,Default,ja,0,0,0,,いやしくも将軍家のお庭番、イガハンゾウのお屋敷。
 Dialogue: 0,0:16:00.44,0:16:03.61,Default,ko,0,0,0,,일단 이곳은 쇼군의 직속 밀정, 이가 닌자 한조의 저택이다.
 Dialogue: 0,0:16:00.44,0:16:03.61,Default,en,0,0,0,,First, this place is the mansion of Iga Ninja Hanzō, the Shogun's spy.
 Comment: 0,0:16:03.92,0:16:07.75,Default,ja,0,0,0,,たとえジュウベエ殿であろうと、狼藉を許すわけにはまいらぬ。
 Dialogue: 0,0:16:03.92,0:16:07.75,Default,ko,0,0,0,,설마 주베 님이라 하더라도 반역은 용서할 수 없다.
-Dialogue: 0,0:16:03.92,0:16:07.75,Default,en,0,0,0,,Even for you, Mr. Jūbē, I will not forgive your treachery.
+Dialogue: 0,0:16:03.92,0:16:07.75,Default,en,0,0,0,,Even for you, Mr. Jūbee, I will not forgive your treachery.
 Comment: 0,0:16:08.36,0:16:09.76,Default,ja,0,0,0,,処刑は取りやめになった。
 Dialogue: 0,0:16:08.36,0:16:09.76,Default,ko,0,0,0,,처형은 취소되었다.
 Dialogue: 0,0:16:08.36,0:16:09.76,Default,en,0,0,0,,The execution has been canceled.
@@ -587,7 +587,7 @@ Dialogue: 0,0:16:56.36,0:16:59.66,Default,ko,0,0,0,,위태로웠다. 시간을 �
 Dialogue: 0,0:16:56.36,0:16:59.66,Default,en,0,0,0,,It was a risky moment. It's a relief that we could make it in the right time.
 Comment: 0,0:17:00.43,0:17:05.15,Default,ja,0,0,0,,ジュウベエさん！ムサシ。。。ムサシこの通りでござるだス！
 Dialogue: 0,0:17:00.43,0:17:05.15,Default,ko,0,0,0,,주베 씨! 무사시... 무사시, 이대로이오!
-Dialogue: 0,0:17:00.43,0:17:05.15,Default,en,0,0,0,,Mr. Jūbē! Musashi... Musashi thanks you as you see!
+Dialogue: 0,0:17:00.43,0:17:05.15,Default,en,0,0,0,,Mr. Jūbee! Musashi... Musashi thanks you as you see!
 Comment: 0,0:17:06.65,0:17:08.01,Default,ja,0,0,0,,おいら、幸せだス。
 Dialogue: 0,0:17:06.65,0:17:08.01,Default,ko,0,0,0,,나, 행복하오.
 Dialogue: 0,0:17:06.65,0:17:08.01,Default,en,0,0,0,,I am so happy-{\i1}dasu{\i0}.
@@ -617,7 +617,7 @@ Dialogue: 0,0:17:37.40,0:17:39.29,Default,ko,0,0,0,,다행이구나.
 Dialogue: 0,0:17:37.40,0:17:39.29,Default,en,0,0,0,,What a relief.
 Comment: 0,0:17:41.21,0:17:43.07,Default,ja,0,0,0,,おのれ、ジュウベエの奴。
 Dialogue: 0,0:17:41.21,0:17:43.07,Default,ko,0,0,0,,네이놈, 주베 놈.
-Dialogue: 0,0:17:41.21,0:17:43.07,Default,en,0,0,0,,Jūbē, you bastard...
+Dialogue: 0,0:17:41.21,0:17:43.07,Default,en,0,0,0,,Jūbee, you bastard...
 Comment: 0,0:17:43.61,0:17:49.00,Default,ja,0,0,0,,斯くなる上はこのハンゾウ、ムサシを必ずや地獄に送り届けてくれる。
 Dialogue: 0,0:17:43.61,0:17:49.00,Default,ko,0,0,0,,이렇게 된 바에는 이 한조가 무사시를 반드시 지옥으로 보내 주겠다.
 Dialogue: 0,0:17:43.61,0:17:49.00,Default,en,0,0,0,,Since it came to this, I, Hanzō, will send Musashi to hell no matter what.
@@ -767,7 +767,7 @@ Dialogue: 0,0:20:57.95,0:20:58.54,Default,ko,0,0,0,,무사시.
 Dialogue: 0,0:20:57.95,0:20:58.54,Default,en,0,0,0,,Musashi.
 Comment: 0,0:21:00.01,0:21:01.64,Default,ja,0,0,0,,ジュウベエ殿の言うとおりだ。
 Dialogue: 0,0:21:00.01,0:21:01.64,Default,ko,0,0,0,,주베 님이 말한 대로다.
-Dialogue: 0,0:21:00.01,0:21:01.64,Default,en,0,0,0,,As Mr. Jūbē told.
+Dialogue: 0,0:21:00.01,0:21:01.64,Default,en,0,0,0,,As Mr. Jūbee told.
 Comment: 0,0:21:01.96,0:21:04.30,Default,ja,0,0,0,,コ、コジロー、どうしてここに？
 Dialogue: 0,0:21:01.96,0:21:04.30,Default,ko,0,0,0,,코, 코지로, 왜 여기에?!
 Dialogue: 0,0:21:01.96,0:21:04.30,Default,en,0,0,0,,Ko- Kojirō, why are you here?!
@@ -858,7 +858,7 @@ Dialogue: 0,0:23:37.45,0:23:45.45,SongED1,ED1!Lyric12,0,0,0,,未来も　てな�
 Dialogue: 0,0:23:45.69,0:23:51.29,SongED1,ED1!Lyric13,0,0,0,,両手ひろげて　笑ってるぜ
 Comment: 0,0:24:04.78,0:24:06.76,Default,ja,0,0,0,,ジュウベエさん、おいら、悔しいだス。
 Dialogue: 0,0:24:04.78,0:24:06.76,Default,ko,0,0,0,,주베이 씨, 나, 분하오...
-Dialogue: 0,0:24:04.78,0:24:06.76,Default,en,0,0,0,,Mr. Jūbē, I'm so frustrated-{\i1}dasu{\i0}...
+Dialogue: 0,0:24:04.78,0:24:06.76,Default,en,0,0,0,,Mr. Jūbee, I'm so frustrated-{\i1}dasu{\i0}...
 Comment: 0,0:24:07.05,0:24:08.41,Default,ja,0,0,0,,武芸大会に出られず、
 Dialogue: 0,0:24:07.05,0:24:08.41,Default,ko,0,0,0,,무예 대회에 나가지 못하고
 Dialogue: 0,0:24:07.05,0:24:08.41,Default,en,0,0,0,,I couldn't participate in the competition,

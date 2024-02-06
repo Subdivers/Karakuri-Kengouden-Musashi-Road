@@ -248,7 +248,7 @@ Dialogue: 0,0:06:08.12,0:06:12.55,Default,ko,0,0,0,,그 때야말로 무사시 �
 Dialogue: 0,0:06:08.12,0:06:12.55,Default,en,0,0,0,,When that time comes, Mr. Musashi, you'll become the best of the master swordsmen in the world.
 Comment: 0,0:06:12.82,0:06:14.95,Default,ja,0,0,0,,ジュウベエさん、ありがとうだス！
 Dialogue: 0,0:06:12.82,0:06:14.95,Default,ko,0,0,0,,주베 씨, 감사하오!
-Dialogue: 0,0:06:12.82,0:06:14.95,Default,en,0,0,0,,Thank you so much, Mr. Jūbē-{\i1}dasu{\i0}!
+Dialogue: 0,0:06:12.82,0:06:14.95,Default,en,0,0,0,,Thank you so much, Mr. Jūbee-{\i1}dasu{\i0}!
 Comment: 0,0:06:14.95,0:06:18.29,Default,ja,0,0,0,,おいら、めいっぱいやるだス！
 Dialogue: 0,0:06:14.95,0:06:18.29,Default,ko,0,0,0,,나, 힘껏 해 보겠소!
 Dialogue: 0,0:06:14.95,0:06:18.29,Default,en,0,0,0,,I'll do that with all my might-{\i1}dasu{\i0}!
@@ -884,7 +884,7 @@ Dialogue: 0,0:23:38.25,0:23:46.22,SongED1,ED1!Lyric12,0,0,0,,未来も　てな�
 Dialogue: 0,0:23:46.52,0:23:52.09,SongED1,ED1!Lyric13,0,0,0,,両手ひろげて　笑ってるぜ
 Comment: 0,0:24:05.33,0:24:08.95,Default,ja,0,0,0,,ジュウベエさんに教えられた妖怪ヤマタノオロチに出会っただス。
 Dialogue: 0,0:24:05.33,0:24:08.95,Default,ko,0,0,0,,주베 씨가 말한 요괴 야마타노오로치를 만났소.
-Dialogue: 0,0:24:05.33,0:24:08.95,Default,en,0,0,0,,I met Yamata no Orochi that Mr. Jūbē told me-{\i1}dasu{\i0}.
+Dialogue: 0,0:24:05.33,0:24:08.95,Default,en,0,0,0,,I met Yamata no Orochi that Mr. Jūbee told me-{\i1}dasu{\i0}.
 Comment: 0,0:24:09.76,0:24:15.73,Default,ja,0,0,0,,よし、これをやつければ天空丸も手に入り、おいらの二刀流も天下無敵になるだス！
 Dialogue: 0,0:24:09.76,0:24:15.73,Default,ko,0,0,0,,좋소, 이놈을 잡으면 천공환도 손에 넣고 내 이도류도 천하무적이 되오!
 Dialogue: 0,0:24:09.76,0:24:15.73,Default,en,0,0,0,,Alright! When I get this thing, I'll have Tenkūmaru in my hands and I'll be invincible-{\i1}dasu{\i0}!

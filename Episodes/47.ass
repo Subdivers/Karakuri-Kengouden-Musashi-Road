@@ -404,7 +404,7 @@ Dialogue: 0,0:10:19.50,0:10:21.62,Default,ko,0,0,0,,그래도, 왜 다들 여기
 Dialogue: 0,0:10:19.50,0:10:21.62,Default,en,0,0,0,,But, how did you make it here?
 Comment: 0,0:10:22.78,0:10:28.97,Default,ja,0,0,0,,ジュウベエ殿から敵のアジトが近いとの知らせを受け、あれに乗って駆けつけたのでございます。
 Dialogue: 0,0:10:22.78,0:10:28.97,Default,ko,0,0,0,,주베 님께서 적의 아지트가 가까이 있다는 알림을 받아, 저것에 타서 달려왔습니다.
-Dialogue: 0,0:10:22.78,0:10:28.97,Default,en,0,0,0,,We were notified that the hideout of the enemies are nearby by Mr. Jūbē, and so we hurried our way to here.
+Dialogue: 0,0:10:22.78,0:10:28.97,Default,en,0,0,0,,We were notified that the hideout of the enemies are nearby by Mr. Jūbee, and so we hurried our way to here.
 Comment: 0,0:10:31.29,0:10:34.52,Default,ja,0,0,0,,そうだ！あれに乗ってムサシ達を助けに行きましょう！
 Dialogue: 0,0:10:31.29,0:10:34.52,Default,ko,0,0,0,,그래! 저기에 타서 무사시하고 다들 구하러 가자!
 Dialogue: 0,0:10:31.29,0:10:34.52,Default,en,0,0,0,,Yeah! Let's ride on that and go save Musashi and others!
@@ -696,7 +696,7 @@ Dialogue: 0,0:18:39.26,0:18:40.04,Default,ko,0,0,0,,멈춰라!
 Dialogue: 0,0:18:39.26,0:18:40.04,Default,en,0,0,0,,Stop!
 Comment: 0,0:18:40.53,0:18:41.53,Default,ja,0,0,0,,ジュウベエさん！
 Dialogue: 0,0:18:40.53,0:18:41.53,Default,ko,0,0,0,,주베 씨!
-Dialogue: 0,0:18:40.53,0:18:41.53,Default,en,0,0,0,,Mr. Jūbē!
+Dialogue: 0,0:18:40.53,0:18:41.53,Default,en,0,0,0,,Mr. Jūbee!
 Comment: 0,0:18:41.79,0:18:42.65,Default,ja,0,0,0,,追いかけましょう！
 Dialogue: 0,0:18:41.79,0:18:42.65,Default,ko,0,0,0,,쫓읍시다!
 Dialogue: 0,0:18:41.79,0:18:42.65,Default,en,0,0,0,,Let's chase them!

@@ -420,10 +420,10 @@ Dialogue: 0,0:12:58.83,0:13:00.28,Default,ko,0,0,0,,음? 네놈은!
 Dialogue: 0,0:12:58.83,0:13:00.28,Default,en,0,0,0,,Hm? You bastard!
 Comment: 0,0:13:19.93,0:13:21.08,Default,ja,0,0,0,,ジュウベエさん！
 Dialogue: 0,0:13:19.93,0:13:21.08,Default,ko,0,0,0,,주베 씨!
-Dialogue: 0,0:13:19.93,0:13:21.08,Default,en,0,0,0,,Mr. Jūbē!
+Dialogue: 0,0:13:19.93,0:13:21.08,Default,en,0,0,0,,Mr. Jūbee!
 Comment: 0,0:13:21.08,0:13:22.89,Default,ja,0,0,0,,なに？ジュウベエ？
 Dialogue: 0,0:13:21.08,0:13:22.89,Default,ko,0,0,0,,뭐? 주베?
-Dialogue: 0,0:13:21.08,0:13:22.89,Default,en,0,0,0,,What? Jūbē?
+Dialogue: 0,0:13:21.08,0:13:22.89,Default,en,0,0,0,,What? Jūbee?
 Comment: 0,0:13:23.38,0:13:27.38,Default,ja,0,0,0,,不知火一族の秘密の兵器工場、しかと見せてもらったぞ！
 Dialogue: 0,0:13:23.38,0:13:27.38,Default,ko,0,0,0,,시라누이 일족의 비밀 병기 공장. 단단히 봐 두었다!
 Dialogue: 0,0:13:23.38,0:13:27.38,Default,en,0,0,0,,I've seen Shiranui Clan's secret weapon factory for sure!
@@ -432,7 +432,7 @@ Dialogue: 0,0:13:27.74,0:13:34.61,Default,ko,0,0,0,,이에야스의 개자식! �
 Dialogue: 0,0:13:27.74,0:13:34.61,Default,en,0,0,0,,Ieyasu's underling! How did you sneak in?! Anyway, know that your life ends now!
 Comment: 0,0:13:46.13,0:13:47.73,Default,ja,0,0,0,,ジュウベエさん、ありがとうだす！
 Dialogue: 0,0:13:46.13,0:13:47.73,Default,ko,0,0,0,,주베 씨, 고맙소!
-Dialogue: 0,0:13:46.13,0:13:47.73,Default,en,0,0,0,,Thank you, Mr. Jūbē!
+Dialogue: 0,0:13:46.13,0:13:47.73,Default,en,0,0,0,,Thank you, Mr. Jūbee!
 Comment: 0,0:13:48.15,0:13:50.60,Default,ja,0,0,0,,己己！くらえ！
 Dialogue: 0,0:13:48.15,0:13:50.60,Default,ko,0,0,0,,이 자식이! 먹어라!
 Dialogue: 0,0:13:48.15,0:13:50.60,Default,en,0,0,0,,How dare you, you bastard?! Take this!
@@ -453,7 +453,7 @@ Dialogue: 0,0:14:27.30,0:14:28.74,Default,ko,0,0,0,,나도 하오!
 Dialogue: 0,0:14:27.30,0:14:28.74,Default,en,0,0,0,,I'll fight too-{\i1}dasu{\i0}!
 Comment: 0,0:14:33.43,0:14:35.99,Default,ja,0,0,0,,そこまでだ！武蔵！ジュウベエ！
 Dialogue: 0,0:14:33.43,0:14:35.99,Default,ko,0,0,0,,거기까지다! 무사시! 주베!
-Dialogue: 0,0:14:33.43,0:14:35.99,Default,en,0,0,0,,That's as far as you go, Musashi, Jūbē!
+Dialogue: 0,0:14:33.43,0:14:35.99,Default,en,0,0,0,,That's as far as you go, Musashi, Jūbee!
 Comment: 0,0:14:40.24,0:14:43.72,Default,ja,0,0,0,,村人たちを殺されたくなかったあら刀を捨てろ！
 Dialogue: 0,0:14:40.24,0:14:43.72,Default,ko,0,0,0,,마을 사람들을 죽이기 싫다면 칼을 내려두어라!
 Dialogue: 0,0:14:40.24,0:14:43.72,Default,en,0,0,0,,If you don't want to kill the villagers, then put your sword down!
@@ -624,7 +624,7 @@ Dialogue: 0,0:19:08.02,0:19:10.82,Default,ko,0,0,0,,시라누이 요술 이카�
 Dialogue: 0,0:19:08.02,0:19:10.82,Default,en,0,0,0,,Shiranui Magic, Ikazuchi Shell!
 Comment: 0,0:19:14.43,0:19:15.98,Default,ja,0,0,0,,ジュウベエさん！サイゴーさん！
 Dialogue: 0,0:19:14.43,0:19:15.98,Default,ko,0,0,0,,주베 씨! 사이고 씨!
-Dialogue: 0,0:19:14.43,0:19:15.98,Default,en,0,0,0,,Mr. Jūbē! Mr. Saigo!
+Dialogue: 0,0:19:14.43,0:19:15.98,Default,en,0,0,0,,Mr. Jūbee! Mr. Saigo!
 Comment: 0,0:19:21.01,0:19:23.82,Default,ja,0,0,0,,武蔵さん！鳳凰丸を持ってきました！
 Dialogue: 0,0:19:21.01,0:19:23.82,Default,ko,0,0,0,,무사시 씨! 봉황환을 가져왔습니다!
 Dialogue: 0,0:19:21.01,0:19:23.82,Default,en,0,0,0,,Mr. Musashi! I took Hououmaru!

@@ -173,10 +173,10 @@ Dialogue: 0,0:04:03.03,0:04:04.47,Default,ko,0,0,0,,이렇게 해 주마!
 Dialogue: 0,0:04:03.03,0:04:04.47,Default,en,0,0,0,,You'll suffer this!
 Comment: 0,0:04:04.71,0:04:05.57,Default,ja,0,0,0,,あれはジュウベエ殿。
 Dialogue: 0,0:04:04.71,0:04:05.57,Default,ko,0,0,0,,저건 주베 님.
-Dialogue: 0,0:04:04.71,0:04:05.57,Default,en,0,0,0,,That's Mr. Jūbē!
+Dialogue: 0,0:04:04.71,0:04:05.57,Default,en,0,0,0,,That's Mr. Jūbee!
 Comment: 0,0:04:06.81,0:04:07.66,Default,ja,0,0,0,,ジュウベエどん？
 Dialogue: 0,0:04:06.81,0:04:07.66,Default,ko,0,0,0,,주베가?
-Dialogue: 0,0:04:06.81,0:04:07.66,Default,en,0,0,0,,Jūbē?
+Dialogue: 0,0:04:06.81,0:04:07.66,Default,en,0,0,0,,Jūbee?
 Comment: 0,0:04:20.57,0:04:22.71,Default,ja,0,0,0,,不知火一族のこと、何か分かった？
 Dialogue: 0,0:04:20.57,0:04:22.71,Default,ko,0,0,0,,시라누이 일족에 대해 뭔가 알았어?
 Dialogue: 0,0:04:20.57,0:04:22.71,Default,en,0,0,0,,Did you find something about Shiranui Clan?
@@ -687,7 +687,7 @@ Dialogue: 0,0:19:06.07,0:19:08.27,Default,ko,0,0,0,,시라누이 요술 용암�
 Dialogue: 0,0:19:06.07,0:19:08.27,Default,en,0,0,0,,Shiranui Magic, Lava Shell!
 Comment: 0,0:19:15.38,0:19:18.85,Default,ja,0,0,0,,ジュウベエさん！・ムサシ殿、ここは私に任せてください。
 Dialogue: 0,0:19:15.38,0:19:18.85,Default,ko,0,0,0,,-주베 씨!\N-무사시 님. 여긴 제게 맡겨 주세요.
-Dialogue: 0,0:19:15.38,0:19:18.85,Default,en,0,0,0,,-Mr. Jūbē!\N-Mr. Musashi. Leave this to me.
+Dialogue: 0,0:19:15.38,0:19:18.85,Default,en,0,0,0,,-Mr. Jūbee!\N-Mr. Musashi. Leave this to me.
 Comment: 0,0:19:19.35,0:19:23.21,Default,ja,0,0,0,,さ、こい！・ふん、相手が誰だろうと、俺は構わないね！
 Dialogue: 0,0:19:19.35,0:19:23.21,Default,ko,0,0,0,,-자, 와라!\N-흥, 상대가 누구라도 난 상관 없다!
 Dialogue: 0,0:19:19.35,0:19:23.21,Default,en,0,0,0,,-You may come!\N-Hmph! No matter the enemy, I don't care!
@@ -750,10 +750,10 @@ Dialogue: 0,0:21:01.55,0:21:03.28,Default,ko,0,0,0,,아직 이게 있다!
 Dialogue: 0,0:21:01.55,0:21:03.28,Default,en,0,0,0,,I still have this!
 Comment: 0,0:21:03.80,0:21:05.32,Default,ja,0,0,0,,ジュウベエさん、気を付けて！
 Dialogue: 0,0:21:03.80,0:21:05.32,Default,ko,0,0,0,,주베 씨, 조심하시오!
-Dialogue: 0,0:21:03.80,0:21:05.32,Default,en,0,0,0,,Mr. Jūbē, watch out!
+Dialogue: 0,0:21:03.80,0:21:05.32,Default,en,0,0,0,,Mr. Jūbee, watch out!
 Comment: 0,0:21:13.54,0:21:14.33,Default,ja,0,0,0,,ジュウベエさん！
 Dialogue: 0,0:21:13.54,0:21:14.33,Default,ko,0,0,0,,주베 씨!
-Dialogue: 0,0:21:13.54,0:21:14.33,Default,en,0,0,0,,Mr. Jūbē!
+Dialogue: 0,0:21:13.54,0:21:14.33,Default,en,0,0,0,,Mr. Jūbee!
 Comment: 0,0:21:14.50,0:21:15.61,Default,ja,0,0,0,,とどめだ！
 Dialogue: 0,0:21:14.50,0:21:15.61,Default,ko,0,0,0,,끝장이다!
 Dialogue: 0,0:21:14.50,0:21:15.61,Default,en,0,0,0,,Time to finish this!

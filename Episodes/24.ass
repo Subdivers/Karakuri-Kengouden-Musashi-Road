@@ -101,7 +101,7 @@ Dialogue: 0,0:03:15.50,0:03:16.18,Default,ko,0,0,0,,당신은?
 Dialogue: 0,0:03:15.50,0:03:16.18,Default,en,0,0,0,,Who are you?
 Comment: 0,0:03:18.81,0:03:20.81,Default,ja,0,0,0,,ジュウベエ殿よりの～でございます。
 Dialogue: 0,0:03:18.81,0:03:20.81,Default,ko,0,0,0,,주베 님이 보내신 사신입니다.
-Dialogue: 0,0:03:18.81,0:03:20.81,Default,en,0,0,0,,My master Jūbē has sent me as a messenger.
+Dialogue: 0,0:03:18.81,0:03:20.81,Default,en,0,0,0,,My master Jūbee has sent me as a messenger.
 Comment: 0,0:03:21.33,0:03:22.42,Default,ja,0,0,0,,すべてはこれを。
 Dialogue: 0,0:03:21.33,0:03:22.42,Default,ko,0,0,0,,모든 건 여기에.
 Dialogue: 0,0:03:21.33,0:03:22.42,Default,en,0,0,0,,Everything is written here.
@@ -113,7 +113,7 @@ Dialogue: 0,0:03:26.06,0:03:27.75,Default,ko,0,0,0,,십년은 감수했소!
 Dialogue: 0,0:03:26.06,0:03:27.75,Default,en,0,0,0,,You surprised me so much-{\i1}dasu{\i0}!
 Comment: 0,0:03:28.45,0:03:29.68,Default,ja,0,0,0,,ジュウベエ殿は。。。なんと？
 Dialogue: 0,0:03:28.45,0:03:29.68,Default,ko,0,0,0,,주베 님이 뭐라고?
-Dialogue: 0,0:03:28.45,0:03:29.68,Default,en,0,0,0,,What did Mr. Jūbē write?
+Dialogue: 0,0:03:28.45,0:03:29.68,Default,en,0,0,0,,What did Mr. Jūbee write?
 Comment: 0,0:03:30.61,0:03:35.90,Default,ja,0,0,0,,センヒメ様を亡き者に使用とするたくらみはハンゾウの仕業と判明。
 Dialogue: 0,0:03:30.61,0:03:35.90,Default,ko,0,0,0,,센히메님을 없애 버리고자 하는 음모는 한조의 짓이라 판명.
 Dialogue: 0,0:03:30.61,0:03:35.90,Default,en,0,0,0,,It became clear that the plot of removing Senhime is done by Hanzō.
@@ -125,7 +125,7 @@ Dialogue: 0,0:03:37.45,0:03:38.68,Default,ko,0,0,0,,그 한조가?
 Dialogue: 0,0:03:37.45,0:03:38.68,Default,en,0,0,0,,That Hanzō?
 Comment: 0,0:03:50.41,0:03:52.47,Default,ja,0,0,0,,ジュウベエ殿は何上ここに？
 Dialogue: 0,0:03:50.41,0:03:52.47,Default,ko,0,0,0,,주베 님이 왜 여기에?
-Dialogue: 0,0:03:50.41,0:03:52.47,Default,en,0,0,0,,Why did you come, Mr. Jūbē?
+Dialogue: 0,0:03:50.41,0:03:52.47,Default,en,0,0,0,,Why did you come, Mr. Jūbee?
 Comment: 0,0:03:53.18,0:03:56.57,Default,ja,0,0,0,,ハンゾウ殿にお尋ねしたいことがありで、参りました。
 Dialogue: 0,0:03:53.18,0:03:56.57,Default,ko,0,0,0,,한조 님께 찾아뵐 일이 있어서 왔습니다.
 Dialogue: 0,0:03:53.18,0:03:56.57,Default,en,0,0,0,,I am here to inquire you about something.
@@ -170,7 +170,7 @@ Dialogue: 0,0:04:53.70,0:04:58.40,Default,ko,0,0,0,,무사시, 코지로를 베�
 Dialogue: 0,0:04:53.70,0:04:58.40,Default,en,0,0,0,,There was a directive to cut Musashi and Kojirō, and steal Senhime.
 Comment: 0,0:04:58.88,0:05:04.61,Default,ja,0,0,0,,ハンゾウ。すべてはジュウベエの調べて明確である。潔く腹を切れ。
 Dialogue: 0,0:04:58.88,0:05:04.61,Default,ko,0,0,0,,한조. 모든 것은 주베가 조사하여 명확하다. 미련 없이 할복해라.
-Dialogue: 0,0:04:58.88,0:05:04.61,Default,en,0,0,0,,Hanzō, everything is clear as Jūbē investigated about this. Disembowel yourself to reclaim yourself.
+Dialogue: 0,0:04:58.88,0:05:04.61,Default,en,0,0,0,,Hanzō, everything is clear as Jūbee investigated about this. Disembowel yourself to reclaim yourself.
 Comment: 0,0:05:08.60,0:05:10.49,Default,ja,0,0,0,,ばれたからには仕方がない。
 Dialogue: 0,0:05:08.60,0:05:10.49,Default,ko,0,0,0,,들켰으니 어쩔 수 없군.
 Dialogue: 0,0:05:08.60,0:05:10.49,Default,en,0,0,0,,It can't be helped as you've found out.
@@ -206,7 +206,7 @@ Dialogue: 0,0:06:12.78,0:06:14.03,Default,ko,0,0,0,,네놈!
 Dialogue: 0,0:06:12.78,0:06:14.03,Default,en,0,0,0,,That bastard!
 Comment: 0,0:06:14.17,0:06:16.30,Default,ja,0,0,0,,センヒメが心配だ。ジュウベエ。
 Dialogue: 0,0:06:14.17,0:06:16.30,Default,ko,0,0,0,,센히메가 걱정되는군, 주베.
-Dialogue: 0,0:06:14.17,0:06:16.30,Default,en,0,0,0,,I am worried about Senhime, Jūbē.
+Dialogue: 0,0:06:14.17,0:06:16.30,Default,en,0,0,0,,I am worried about Senhime, Jūbee.
 Comment: 0,0:06:16.53,0:06:18.61,Default,ja,0,0,0,,は！直ちに出会え致します。
 Dialogue: 0,0:06:16.53,0:06:18.61,Default,ko,0,0,0,,예! 바로 만나러 가겠습니다.
 Dialogue: 0,0:06:16.53,0:06:18.61,Default,en,0,0,0,,Yessir! I will go meet her right away.
@@ -218,7 +218,7 @@ Dialogue: 0,0:06:24.52,0:06:29.64,Default,ko,0,0,0,,예. 한조 놈들은 진작
 Dialogue: 0,0:06:24.52,0:06:29.64,Default,en,0,0,0,,Yessir. Hanzō and his subordinates seem to be already at Hokkaido. Please be careful.
 Comment: 0,0:06:30.48,0:06:33.01,Default,ja,0,0,0,,ジュウベエ様もすぐに駆け付けて参ります。
 Dialogue: 0,0:06:30.48,0:06:33.01,Default,ko,0,0,0,,주베 님도 바로 만나러 오시고 계십니다.
-Dialogue: 0,0:06:30.48,0:06:33.01,Default,en,0,0,0,,My master Jūbē is coming to meet you at the moment.
+Dialogue: 0,0:06:30.48,0:06:33.01,Default,en,0,0,0,,My master Jūbee is coming to meet you at the moment.
 Comment: 0,0:06:34.28,0:06:35.12,Default,ja,0,0,0,,分かりました。
 Dialogue: 0,0:06:34.28,0:06:35.12,Default,ko,0,0,0,,알겠습니다.
 Dialogue: 0,0:06:34.28,0:06:35.12,Default,en,0,0,0,,Understood.
@@ -635,7 +635,7 @@ Dialogue: 0,0:18:14.76,0:18:19.42,Default,ko,0,0,0,,고에몬도와 슈텐의 �
 Dialogue: 0,0:18:14.76,0:18:19.42,Default,en,0,0,0,,They will pay for the hatred of Goemondo and Shuten!
 Comment: 0,0:18:32.68,0:18:36.34,Default,ja,0,0,0,,ジュウベエ殿にウシワカ殿！あら、ベンケイどのまで！
 Dialogue: 0,0:18:32.68,0:18:36.34,Default,ko,0,0,0,,주베 님에 우시와카 님! 어라, 벤케이 님까지!
-Dialogue: 0,0:18:32.68,0:18:36.34,Default,en,0,0,0,,Mr. Jūbē and Mr. Ushiwaka! Hey, even Mr. Benkei's there!
+Dialogue: 0,0:18:32.68,0:18:36.34,Default,en,0,0,0,,Mr. Jūbee and Mr. Ushiwaka! Hey, even Mr. Benkei's there!
 Comment: 0,0:18:40.45,0:18:41.37,Default,ja,0,0,0,,バイケン殿！
 Dialogue: 0,0:18:40.45,0:18:41.37,Default,ko,0,0,0,,바이켄 님!
 Dialogue: 0,0:18:40.45,0:18:41.37,Default,en,0,0,0,,Mr. Baiken!
@@ -668,7 +668,7 @@ Dialogue: 0,0:19:09.92,0:19:10.67,Default,ko,0,0,0,,뭐라!
 Dialogue: 0,0:19:09.92,0:19:10.67,Default,en,0,0,0,,What?!
 Comment: 0,0:19:11.22,0:19:15.99,Default,ja,0,0,0,,我らはジュウベエ殿より話を聞いて、そにかせいにまえるところ。
 Dialogue: 0,0:19:11.22,0:19:15.99,Default,ko,0,0,0,,우린 주베 님께 이야기를 들어 같이 가던 참이요.
-Dialogue: 0,0:19:11.22,0:19:15.99,Default,en,0,0,0,,We've heard that from Mr. Jūbē, and we're going along with him.
+Dialogue: 0,0:19:11.22,0:19:15.99,Default,en,0,0,0,,We've heard that from Mr. Jūbee, and we're going along with him.
 Comment: 0,0:19:16.12,0:19:17.66,Default,ja,0,0,0,,そうだったばい！
 Dialogue: 0,0:19:16.12,0:19:17.66,Default,ko,0,0,0,,그랬구나!
 Dialogue: 0,0:19:16.12,0:19:17.66,Default,en,0,0,0,,So that was it!
@@ -788,7 +788,7 @@ Dialogue: 0,0:22:05.92,0:22:08.82,Default,ko,0,0,0,,센히메를 무사하게 �
 Dialogue: 0,0:22:05.92,0:22:08.82,Default,en,0,0,0,,Will they manage to rescue Senhime safely?
 Comment: 0,0:22:09.62,0:22:13.14,Default,ja,0,0,0,,そのころ、ジュウベエたちはだいせつだんに向かっていた。
 Dialogue: 0,0:22:09.62,0:22:13.14,Default,ko,0,0,0,,그 쯤, 주베 일행은 대설사에 향하고 있었다.
-Dialogue: 0,0:22:09.62,0:22:13.14,Default,en,0,0,0,,At that moment, Jūbē's group was heading to Daisetsusha.
+Dialogue: 0,0:22:09.62,0:22:13.14,Default,en,0,0,0,,At that moment, Jūbee's group was heading to Daisetsusha.
 Comment: 0,0:22:13.94,0:22:20.64,Default,ja,0,0,0,,うんきゅう～への北海道への中にムサシの二刀流、果たしてまいようをとるか！
 Dialogue: 0,0:22:13.94,0:22:20.64,Default,ko,0,0,0,,구름이 짙게 낀 홋카이도의 땅에 무사시의 이도류, 과연 살아남을 것인가?
 Dialogue: 0,0:22:13.94,0:22:20.64,Default,en,0,0,0,,On the land of deeply cloudy Hokkaido, will Musashi's dual blade survive?
@@ -813,7 +813,7 @@ Dialogue: 0,0:24:07.49,0:24:09.53,Default,ko,0,0,0,,춥소! 몸도 얼어버리�
 Dialogue: 0,0:24:07.49,0:24:09.53,Default,en,0,0,0,,It's cold! My body is freezing-{\i1}dasu{\i0}!
 Comment: 0,0:24:09.93,0:24:13.75,Default,ja,0,0,0,,ジュウベエさんにウシワカ、ベンケイ、バイケンも駆け付けて対決戦！
 Dialogue: 0,0:24:09.93,0:24:13.75,Default,ko,0,0,0,,주베 씨에 우시와카, 벤케이, 바이켄도 가세해서 대결전!
-Dialogue: 0,0:24:09.93,0:24:13.75,Default,en,0,0,0,,Mr. Jūbē, Ushiwaka, Benkei, and Baiken have joined the fight and it's a big battle!
+Dialogue: 0,0:24:09.93,0:24:13.75,Default,en,0,0,0,,Mr. Jūbee, Ushiwaka, Benkei, and Baiken have joined the fight and it's a big battle!
 Comment: 0,0:24:13.92,0:24:17.20,Default,ja,0,0,0,,オニヒメ、ジライヤン、ハンゾウの雑魚にまで相手にして大変！
 Dialogue: 0,0:24:13.92,0:24:17.20,Default,ko,0,0,0,,오니히메, 지라이얀, 한조의 조무래기까지 상대해야 해서 큰일!
 Dialogue: 0,0:24:13.92,0:24:17.20,Default,en,0,0,0,,Facing Onihime, Jiraiyan, and Hanzō's lackies at once is difficult!

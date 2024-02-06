@@ -628,7 +628,7 @@ Dialogue: 0,0:14:08.42,0:14:11.73,Default,ko,0,0,0,,무사시 님! 서쪽에는 
 Dialogue: 0,0:14:08.42,0:14:11.73,Default,en,0,0,0,,Mr. Musashi! It seems that Megaton Castle didn't head to west.
 Comment: 0,0:14:12.31,0:14:14.01,Default,ja,0,0,0,,ジュウベエさん、あれなんだす？
 Dialogue: 0,0:14:12.31,0:14:14.01,Default,ko,0,0,0,,주베 씨, 저거 뭣이오?
-Dialogue: 0,0:14:12.31,0:14:14.01,Default,en,0,0,0,,Mr. Jūbē, what's that-dasu?
+Dialogue: 0,0:14:12.31,0:14:14.01,Default,en,0,0,0,,Mr. Jūbee, what's that-dasu?
 Comment: 0,0:14:15.22,0:14:16.25,Default,ja,0,0,0,,まさかあれは！
 Dialogue: 0,0:14:15.22,0:14:16.25,Default,ko,0,0,0,,설마 저건!
 Dialogue: 0,0:14:15.22,0:14:16.25,Default,en,0,0,0,,Could that be...!
@@ -794,13 +794,13 @@ Dialogue: 0,0:18:51.62,0:18:53.19,Default,ko,0,0,0,,늦어서 미안하오!
 Dialogue: 0,0:18:51.62,0:18:53.19,Default,en,0,0,0,,Sorry for being late-dasu!
 Comment: 0,0:18:55.80,0:18:57.42,Default,ja,0,0,0,,ジュウベエ、ただいま参上！
 Dialogue: 0,0:18:55.80,0:18:57.42,Default,ko,0,0,0,,주베, 지금 왔습니다!
-Dialogue: 0,0:18:55.80,0:18:57.42,Default,en,0,0,0,,Jūbē's here!
+Dialogue: 0,0:18:55.80,0:18:57.42,Default,en,0,0,0,,Jūbee's here!
 Comment: 0,0:18:59.27,0:19:00.10,Default,ja,0,0,0,,千姫様！
 Dialogue: 0,0:18:59.27,0:19:00.10,Default,ko,0,0,0,,센히메 님!
 Dialogue: 0,0:18:59.27,0:19:00.10,Default,en,0,0,0,,Senhime!
 Comment: 0,0:19:00.52,0:19:02.06,Default,ja,0,0,0,,ジュウベエ！コジロー！
 Dialogue: 0,0:19:00.52,0:19:02.06,Default,ko,0,0,0,,주베! 코지로!
-Dialogue: 0,0:19:00.52,0:19:02.06,Default,en,0,0,0,,Jūbē! Kojirō!
+Dialogue: 0,0:19:00.52,0:19:02.06,Default,en,0,0,0,,Jūbee! Kojirō!
 Comment: 0,0:19:02.33,0:19:04.05,Default,ja,0,0,0,,くそ！かがれ！
 Dialogue: 0,0:19:02.33,0:19:04.05,Default,ko,0,0,0,,젠장! 잡아라!
 Dialogue: 0,0:19:02.33,0:19:04.05,Default,en,0,0,0,,Damn! Get them!

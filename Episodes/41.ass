@@ -366,7 +366,7 @@ Dialogue: 0,0:09:14.42,0:09:16.18,Default,ko,0,0,0,,힘내, 무사시!
 Dialogue: 0,0:09:14.42,0:09:16.18,Default,en,0,0,0,,Do your best, Mr. Musashi!
 Comment: 0,0:09:17.90,0:09:24.78,Default,ja,0,0,0,,聖剣はジュウベエに預けてあります。国王殿下とショウトク殿はあの箱の中に入っていただきたい。
 Dialogue: 0,0:09:17.90,0:09:24.78,Default,ko,0,0,0,,성검은 주베에게 맡겨 두었습니다. 국왕 전하와 쇼토쿠 님은 저 상자에 들어가 주시길 바랍니다.
-Dialogue: 0,0:09:17.90,0:09:24.78,Default,en,0,0,0,,I've entrusted the sacred sword to Jūbē. I'd like to ask Your Highness and Shotoku to get inside that box.
+Dialogue: 0,0:09:17.90,0:09:24.78,Default,en,0,0,0,,I've entrusted the sacred sword to Jūbee. I'd like to ask Your Highness and Shotoku to get inside that box.
 Comment: 0,0:09:25.07,0:09:27.25,Default,ja,0,0,0,,あの箱に国王殿下を！
 Dialogue: 0,0:09:25.07,0:09:27.25,Default,ko,0,0,0,,저 상자에 국왕 전하를!?
 Dialogue: 0,0:09:25.07,0:09:27.25,Default,en,0,0,0,,The Highness, in that box!?
@@ -707,7 +707,7 @@ Dialogue: 0,0:19:05.24,0:19:08.56,Default,ko,0,0,0,,그래? 왜일까, 이상하
 Dialogue: 0,0:19:05.24,0:19:08.56,Default,en,0,0,0,,Really? How could that be? That's weird!
 Comment: 0,0:19:09.91,0:19:11.79,Default,ja,0,0,0,,ところで、ジュウベエどの。
 Dialogue: 0,0:19:09.91,0:19:11.79,Default,ko,0,0,0,,그런데, 주베 님.
-Dialogue: 0,0:19:09.91,0:19:11.79,Default,en,0,0,0,,By the way, Mr. Jūbē...
+Dialogue: 0,0:19:09.91,0:19:11.79,Default,en,0,0,0,,By the way, Mr. Jūbee...
 Comment: 0,0:19:13.53,0:19:16.24,Default,ja,0,0,0,,これからどうやって抜け出すつもりですか？
 Dialogue: 0,0:19:13.53,0:19:16.24,Default,ko,0,0,0,,지금부터 어떻게 빠져나갈 생각입니까.
 Dialogue: 0,0:19:13.53,0:19:16.24,Default,en,0,0,0,,How we are going to slip out from now on?

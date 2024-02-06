@@ -64,7 +64,7 @@ Comment: 0,0:01:59.73,0:02:08.39,Default,ja,0,0,0,,ジパング武芸大会に�
 Comment: 0,0:02:08.87,0:02:17.60,Default,ja,0,0,0,,踏んだり蹴ったりのムサシは今度はじゃじゃ馬娘、センヒメのお供をして、諸国まいぬの旅に出ることになった。
 Dialogue: 0,0:01:59.73,0:02:08.39,Default,ko,0,0,0,,지팡구 무예대회에 나가지 못하고 번외 시합에선 주베에게 완패당하는 것으로 모자라 한조에게 잡혀버리고 만
 Dialogue: 0,0:02:08.87,0:02:17.60,Default,ko,0,0,0,,엎친 데 덮친 격이었던 무사시는 이번엔 날뛰는 말과 같은 센히메를 모시고 따라가며 여러 지방을 돌아다니게 되었다.
-Dialogue: 0,0:01:59.73,0:02:05.67,Default,en,0,0,0,,Not only he wasn't able to participate in the martial arts competition, but he also lost to Jūbē in an extra match;
+Dialogue: 0,0:01:59.73,0:02:05.67,Default,en,0,0,0,,Not only he wasn't able to participate in the martial arts competition, but he also lost to Jūbee in an extra match;
 Dialogue: 0,0:02:05.67,0:02:11.05,Default,en,0,0,0,,he was even captured by Hanzō. All the misfortunes had come at once,
 Dialogue: 0,0:02:11.05,0:02:17.60,Default,en,0,0,0,,and as they went away, Musashi now have to follow Senhime and wander around various places.
 Comment: 0,0:02:17.73,0:02:22.73,TitleEP,ja,0,0,0,,大ガマ妖術ジライヤンだス
@@ -152,7 +152,7 @@ Dialogue: 0,0:03:48.69,0:03:53.40,Default,ko,0,0,0,,센히메 님, 삼국, 아�
 Dialogue: 0,0:03:48.69,0:03:53.40,Default,en,0,0,0,,Senhime, I hope you will find the best husband in the three county - no, in the Jipangu!
 Comment: 0,0:03:53.80,0:03:56.10,Default,ja,0,0,0,,ありがとう、ジュウベエ。頑張るわ。
 Dialogue: 0,0:03:53.80,0:03:56.10,Default,ko,0,0,0,,고마워, 주베. 힘낼게.
-Dialogue: 0,0:03:53.80,0:03:56.10,Default,en,0,0,0,,Thank you, Jūbē. I'll try.
+Dialogue: 0,0:03:53.80,0:03:56.10,Default,en,0,0,0,,Thank you, Jūbee. I'll try.
 Comment: 0,0:03:56.47,0:04:02.32,Default,ja,0,0,0,,北の地方では、何やら得体の知れぬ怪物が悪さをしているとの情報があります。
 Dialogue: 0,0:03:56.47,0:04:02.32,Default,ko,0,0,0,,북쪽 지방에는 그 정체를 알 수 없는 괴물이 악행을 저지르고 있다는 정보가 있습니다.
 Dialogue: 0,0:03:56.47,0:04:02.32,Default,en,0,0,0,,I have an information that an unknown monster is doing bad things in the north.
@@ -487,7 +487,7 @@ Dialogue: 0,0:11:52.66,0:11:57.72,Default,ko,0,0,0,,그 때야말로 무사시 �
 Dialogue: 0,0:11:52.66,0:11:57.72,Default,en,0,0,0,,When that time comes, Mr. Musashi, you'll become the best of the master swordsmen in the world.
 Comment: 0,0:11:58.44,0:12:00.57,Default,ja,0,0,0,,ジュウベエさん、ありがとうだス!
 Dialogue: 0,0:11:58.44,0:12:00.57,Default,ko,0,0,0,,주베 씨, 감사하오!
-Dialogue: 0,0:11:58.44,0:12:00.57,Default,en,0,0,0,,Thank you so much, Mr. Jūbē-{\i1}dasu{\i0}!
+Dialogue: 0,0:11:58.44,0:12:00.57,Default,en,0,0,0,,Thank you so much, Mr. Jūbee-{\i1}dasu{\i0}!
 Comment: 0,0:12:02.35,0:12:04.07,Default,ja,0,0,0,,おいら、めいっぱいやるだす！
 Dialogue: 0,0:12:02.35,0:12:04.07,Default,ko,0,0,0,,나, 힘껏 해 보겠소!
 Dialogue: 0,0:12:02.35,0:12:04.07,Default,en,0,0,0,,I'll do that with all my might!

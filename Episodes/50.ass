@@ -331,7 +331,7 @@ Dialogue: 0,0:06:19.84,0:06:21.58,Default,ko,0,0,0,,그렇군요. 그런 것이�
 Dialogue: 0,0:06:19.84,0:06:21.58,Default,en,0,0,0,,I see. I get it.
 Comment: 0,0:06:22.43,0:06:26.09,Default,ja,0,0,0,,ジュウベエさん！何がおかしいだスか。笑い事じゃないだス。
 Dialogue: 0,0:06:22.43,0:06:26.09,Default,ko,0,0,0,,주베 씨! 뭐가 이상하오! 웃을 일이 아니오!
-Dialogue: 0,0:06:22.43,0:06:26.09,Default,en,0,0,0,,Mr. Jūbē! What's so funny-{\1}dasu{\i0}? It's not a laughing matter-{\1}dasu{\i0}!
+Dialogue: 0,0:06:22.43,0:06:26.09,Default,en,0,0,0,,Mr. Jūbee! What's so funny-{\1}dasu{\i0}? It's not a laughing matter-{\1}dasu{\i0}!
 Comment: 0,0:06:26.36,0:06:34.80,Default,ja,0,0,0,,あ、いや、これは失敬。しかし、ご安心くだされ。コジロー殿の病、それは命を取ろうというほどのものではござらぬ。
 Dialogue: 0,0:06:26.36,0:06:34.80,Default,ko,0,0,0,,아, 아니, 실례했습니다. 그래도 안심해 주세요. 코지로 님의 병은 목숨을 위협하는 정도의 것은 아닙니다.
 Dialogue: 0,0:06:26.36,0:06:34.80,Default,en,0,0,0,,Well, no, excuse me. Please be relieved. Mr. Kojirō's sickness isn't something that will put his life at stake.
@@ -568,7 +568,7 @@ Dialogue: 0,0:11:14.98,0:11:25.19,Default,ko,0,0,0,,다 제 잘못이에요. 그
 Dialogue: 0,0:11:14.98,0:11:25.19,Default,en,0,0,0,,It's all my fault. If they fight each other, one of them will end up being hurt.
 Comment: 0,0:11:26.33,0:11:30.48,Default,ja,0,0,0,,だから、お願いです、ジュウベエさん！二人を止めてください！
 Dialogue: 0,0:11:26.33,0:11:30.48,Default,ko,0,0,0,,그러니까, 부탁드려요, 주베 씨. 그 들을 멈추어 주세요.
-Dialogue: 0,0:11:26.33,0:11:30.48,Default,en,0,0,0,,That's why I'm asking you a favor, Mr. Jūbē. Please make them stop.
+Dialogue: 0,0:11:26.33,0:11:30.48,Default,en,0,0,0,,That's why I'm asking you a favor, Mr. Jūbee. Please make them stop.
 Comment: 0,0:11:34.62,0:11:35.44,Default,ja,0,0,0,,オツルさん。
 Dialogue: 0,0:11:34.62,0:11:35.44,Default,ko,0,0,0,,오츠루 씨.
 Dialogue: 0,0:11:34.62,0:11:35.44,Default,en,0,0,0,,Ms. Otsuru.
@@ -598,7 +598,7 @@ Dialogue: 0,0:11:57.35,0:11:58.92,Default,ko,0,0,0,,그런 건 거짓말이야!
 Dialogue: 0,0:11:57.35,0:11:58.92,Default,en,0,0,0,,That's a lie!
 Comment: 0,0:11:59.63,0:12:05.85,Default,ja,0,0,0,,武芸者の生きる道とか言ってるけど、ジュウベエさんもみんなも、戦うのが好きなだけなのよ！
 Dialogue: 0,0:11:59.63,0:12:05.85,Default,ko,0,0,0,,무예가가 살아가는 방식이라 하지만, 주베 씨도 모두도 싸우는 게 좋을 뿐이야!
-Dialogue: 0,0:11:59.63,0:12:05.85,Default,en,0,0,0,,You're saying that's how martial artists live, but Mr. Jūbē and all others just love fighting!
+Dialogue: 0,0:11:59.63,0:12:05.85,Default,en,0,0,0,,You're saying that's how martial artists live, but Mr. Jūbee and all others just love fighting!
 Comment: 0,0:12:06.25,0:12:08.85,Default,ja,0,0,0,,男なんて、みんな、野蛮なのよ！
 Dialogue: 0,0:12:06.25,0:12:08.85,Default,ko,0,0,0,,남자는 다 야만스러워!
 Dialogue: 0,0:12:06.25,0:12:08.85,Default,en,0,0,0,,All men are barbaric!
@@ -813,7 +813,7 @@ Dialogue: 0,0:17:35.10,0:17:36.90,Default,ko,0,0,0,,-다들!\N-다들! 무슨 �
 Dialogue: 0,0:17:35.10,0:17:36.90,Default,en,0,0,0,,-Everyone!\N-Everyone! What's up-{\1}dasu{\i0}?
 Comment: 0,0:17:37.17,0:17:40.43,Default,ja,0,0,0,,ジュウベエさんから決闘の話を聞いて駆けつけてきたんだ。
 Dialogue: 0,0:17:37.17,0:17:40.43,Default,ko,0,0,0,,주베 씨한테 결투 이야기 듣고 서둘러 왔어.
-Dialogue: 0,0:17:37.17,0:17:40.43,Default,en,0,0,0,,We heard about your duel from Mr. Jūbē, so we hurried our way to here.
+Dialogue: 0,0:17:37.17,0:17:40.43,Default,en,0,0,0,,We heard about your duel from Mr. Jūbee, so we hurried our way to here.
 Comment: 0,0:17:40.43,0:17:41.80,Default,ja,0,0,0,,そうだスか！
 Dialogue: 0,0:17:40.43,0:17:41.80,Default,ko,0,0,0,,그렇소!
 Dialogue: 0,0:17:40.43,0:17:41.80,Default,en,0,0,0,,I see-{\1}dasu{\i0}!

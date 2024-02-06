@@ -109,7 +109,7 @@ Dialogue: 0,0:03:11.76,0:03:13.48,Default,en,0,0,0,,Leave it to me-{\i1}dasu{\i0
 Comment: 0,0:03:14.12,0:03:16.24,Default,ja,0,0,0,,鼻の下を伸ばしおって、無様な！
 Dialogue: 0,0:03:14.12,0:03:16.24,Default,ko,0,0,0,,여자 앞에 잘 보이려고 하는 네 모습, 꼴사납다!
 Dialogue: 0,0:03:14.12,0:03:16.24,Default,en,0,0,0,,How unsightly is your ogling!
-Comment: 0,0:03:16.65,0:03:20.81,Default,ja,0,0,0,,お、我がライバルコジロウ！今日こそ決着をつけるだス！
+Comment: 0,0:03:16.65,0:03:20.81,Default,ja,0,0,0,,お、我がライバルコジロー！今日こそ決着をつけるだス！
 Dialogue: 0,0:03:16.65,0:03:20.81,Default,ko,0,0,0,,오, 내 라이벌 코지로! 오늘로 결판을 내소!
 Dialogue: 0,0:03:16.65,0:03:20.81,Default,en,0,0,0,,Oh, my rival Kojirō! I'll finish you as of today-{\i1}dasu{\i0}!
 Comment: 0,0:03:20.81,0:03:22.85,Default,ja,0,0,0,,祖言うセリフは十年早い！
@@ -316,7 +316,7 @@ Dialogue: 0,0:07:41.60,0:07:43.37,Default,ko,0,0,0,,져, 졌습니다!
 Dialogue: 0,0:07:41.60,0:07:43.37,Default,en,0,0,0,,I- I lost!
 Comment: 0,0:07:43.79,0:07:46.46,Default,ja,0,0,0,,勝負終わり！ジュウベエどのの勝ち！
 Dialogue: 0,0:07:43.79,0:07:46.46,Default,ko,0,0,0,,승부 끝! 주베 님의 승리!
-Dialogue: 0,0:07:43.79,0:07:46.46,Default,en,0,0,0,,Match set! Mr. Jūbē wins!
+Dialogue: 0,0:07:43.79,0:07:46.46,Default,en,0,0,0,,Match set! Mr. Jūbee wins!
 Comment: 0,0:07:51.16,0:07:54.92,Default,ja,0,0,0,,押尾様。。。・この予選会場ではないようだな。
 Dialogue: 0,0:07:51.16,0:07:54.92,Default,ko,0,0,0,,-스님...\N-이 예선장에도 없는 모양이구나.
 Dialogue: 0,0:07:51.16,0:07:54.92,Default,en,0,0,0,,-Master...\N-I guess he's not here too.
@@ -332,16 +332,16 @@ Dialogue: 0,0:08:04.68,0:08:09.57,Default,en,0,0,0,,-Then, to the next place!\N-
 Comment: 0,0:08:10.22,0:08:11.15,Default,ja,0,0,0,,ムサシさん。。。
 Dialogue: 0,0:08:10.22,0:08:11.15,Default,ko,0,0,0,,무사시 씨...
 Dialogue: 0,0:08:10.22,0:08:11.15,Default,en,0,0,0,,Mr. Musashi...
-Comment: 0,0:08:12.59,0:08:18.72,Default,ja,0,0,0,,号外！号外！第三予選会場でコジロウが燕返しで三人抜きだよ！
+Comment: 0,0:08:12.59,0:08:18.72,Default,ja,0,0,0,,号外！号外！第三予選会場でコジローが燕返しで三人抜きだよ！
 Dialogue: 0,0:08:12.59,0:08:18.72,Default,ko,0,0,0,,호외! 호외! 제 3 예선 회장에서 코지로가 츠바메가에시로 3명을 쓰러트렸대요!
 Dialogue: 0,0:08:12.59,0:08:18.72,Default,en,0,0,0,,Extra! Extra! At the third preliminary place, Kojirō took down three people with his {\i1}Tsubamegaeshi{\i0}!
 Comment: 0,0:08:18.72,0:08:22.86,Default,ja,0,0,0,,ああ、ハンサムね！・かっこいいわ、あたしの好みよ!
 Dialogue: 0,0:08:18.72,0:08:22.86,Default,ko,0,0,0,,-잘생겼어!\N-멋지다! 딱 내 취향이야!
 Dialogue: 0,0:08:18.72,0:08:22.86,Default,en,0,0,0,,-He's so handsome!\N-So cool! He's totally my type!
-Comment: 0,0:08:22.86,0:08:24.67,Default,ja,0,0,0,,コジロウ様！
+Comment: 0,0:08:22.86,0:08:24.67,Default,ja,0,0,0,,コジロー様！
 Dialogue: 0,0:08:22.86,0:08:24.67,Default,ko,0,0,0,,코지로 님!
 Dialogue: 0,0:08:22.86,0:08:24.67,Default,en,0,0,0,,Mr. Kojirō!
-Comment: 0,0:08:25.90,0:08:26.75,Default,ja,0,0,0,,コジロウ？
+Comment: 0,0:08:25.90,0:08:26.75,Default,ja,0,0,0,,コジロー？
 Dialogue: 0,0:08:25.90,0:08:26.75,Default,ko,0,0,0,,코지로...?
 Dialogue: 0,0:08:25.90,0:08:26.75,Default,en,0,0,0,,Kojirō!
 Comment: 0,0:08:27.66,0:08:29.66,Default,ja,0,0,0,,河童がねだ！
@@ -353,13 +353,13 @@ Dialogue: 0,0:08:31.40,0:08:33.19,Default,en,0,0,0,,I'm not a Kappa-{\i1}dasu{\i
 Comment: 0,0:08:36.62,0:08:41.29,Default,ja,0,0,0,,第一回武芸大会燕返しの必見をもってsuisennokotokukojouしたのは
 Dialogue: 0,0:08:36.62,0:08:41.29,Default,ko,0,0,0,,제 1회 무예 대회에서 츠바메가에시로 필살을 써 모든 것을 뚫고 등장한 건
 Dialogue: 0,0:08:36.62,0:08:41.29,Default,en,0,0,0,,The one who appeared in the first martial arts competition by going through with {\i1}Tsubamegaeshi{\i0} is...
-Comment: 0,0:08:41.29,0:08:43.18,Default,ja,0,0,0,,天才剣士、コジロウ。
+Comment: 0,0:08:41.29,0:08:43.18,Default,ja,0,0,0,,天才剣士、コジロー。
 Dialogue: 0,0:08:41.29,0:08:43.18,Default,ko,0,0,0,,천재 검사, 코지로...
 Dialogue: 0,0:08:41.29,0:08:43.18,Default,en,0,0,0,,a genius Martial Artist, Kojirō...
 Comment: 0,0:08:44.49,0:08:46.41,Default,ja,0,0,0,,秘剣！燕返し！
 Dialogue: 0,0:08:44.49,0:08:46.41,Default,ko,0,0,0,,비검! 츠바메가에시!
 Dialogue: 0,0:08:44.49,0:08:46.41,Default,en,0,0,0,,Secret sword! {\i1}Tsubamegaeshi{\i0}!
-Comment: 0,0:08:47.07,0:08:50.92,Default,ja,0,0,0,,かっこいい！コジロウ様！
+Comment: 0,0:08:47.07,0:08:50.92,Default,ja,0,0,0,,かっこいい！コジロー様！
 Dialogue: 0,0:08:47.07,0:08:50.92,Default,ko,0,0,0,,멋져! 코지로 님!
 Dialogue: 0,0:08:47.07,0:08:50.92,Default,en,0,0,0,,So cool! Mr. Kojirō!
 Comment: 0,0:08:50.92,0:08:56.19,Default,ja,0,0,0,,優勝候補の一角にマークされたが、特にエドトピアの女性の人気はナンバーワン！
@@ -448,10 +448,10 @@ Dialogue: 0,0:10:23.07,0:10:26.03,Default,en,0,0,0,,Alright. Let me see the rost
 Comment: 0,0:10:26.03,0:10:29.94,Default,ja,0,0,0,,宮本村のムサシ。。ではなく、えっと。。
 Dialogue: 0,0:10:26.03,0:10:29.94,Default,ko,0,0,0,,미야모토 마을의 무사시... 가 아니라, 저...
 Dialogue: 0,0:10:26.03,0:10:29.94,Default,en,0,0,0,,Musashi from Miyamoto village... no, um...
-Comment: 0,0:10:29.94,0:10:31.58,Default,ja,0,0,0,,コジロウでござるだス！
+Comment: 0,0:10:29.94,0:10:31.58,Default,ja,0,0,0,,コジローでござるだス！
 Dialogue: 0,0:10:29.94,0:10:31.58,Default,ko,0,0,0,,코지로이오!
 Dialogue: 0,0:10:29.94,0:10:31.58,Default,en,0,0,0,,I am Kojirō-{\i1}dasu{\i0}!
-Comment: 0,0:10:32.20,0:10:35.28,Default,ja,0,0,0,,コジロウどのは。。。第三会場だ。
+Comment: 0,0:10:32.20,0:10:35.28,Default,ja,0,0,0,,コジローどのは。。。第三会場だ。
 Dialogue: 0,0:10:32.20,0:10:35.28,Default,ko,0,0,0,,코지로 님은... 제 3 회장이다.
 Dialogue: 0,0:10:32.20,0:10:35.28,Default,en,0,0,0,,Mr. Kojirō will go to the third contest place.
 Comment: 0,0:10:35.28,0:10:36.41,Default,ja,0,0,0,,ここではない。
@@ -578,7 +578,7 @@ Dialogue: 0,0:13:08.88,0:13:11.06,Default,ko,0,0,0,,{\i1}막부를 쓰러뜨리�
 Dialogue: 0,0:13:08.88,0:13:11.06,Default,en,0,0,0,,{\i1}a bad guy who's trying to take down shogunate.
 Comment: 0,0:13:11.50,0:13:14.05,Default,ja,0,0,0,,{\i1}おいら、ジュウベエさんに知らせようっと思ってただす！
 Dialogue: 0,0:13:11.50,0:13:14.05,Default,ko,0,0,0,,{\i1}나, 주베 씨에게 알려야겠다고 생각했소.
-Dialogue: 0,0:13:11.50,0:13:14.05,Default,en,0,0,0,,{\i1}I did thought I should tell this to Mr. Jūbē.
+Dialogue: 0,0:13:11.50,0:13:14.05,Default,en,0,0,0,,{\i1}I did thought I should tell this to Mr. Jūbee.
 Comment: 0,0:13:16.06,0:13:19.02,Default,ja,0,0,0,,いかんだス！おいら、武芸大会に来たんだス！
 Dialogue: 0,0:13:16.06,0:13:19.02,Default,ko,0,0,0,,안되오! 나, 무예 대회에 온 것이오!
 Dialogue: 0,0:13:16.06,0:13:19.02,Default,en,0,0,0,,No-{\i1}dasu{\i0}! I came to the martial arts competition!
@@ -973,7 +973,7 @@ Dialogue: 0,0:24:09.93,0:24:14.83,Default,ko,0,0,0,,그 아이, 사실은 이에
 Dialogue: 0,0:24:09.93,0:24:14.83,Default,en,0,0,0,,That child actually was Senhime who is a granddaughter of Ieyasu, but not knowing that,
 Comment: 0,0:24:14.83,0:24:19.14,Default,ja,0,0,0,,武芸大会会場へ乗り込んで、ジュウベエさんと戦うことになった出す！
 Dialogue: 0,0:24:14.83,0:24:19.14,Default,ko,0,0,0,,무예 대회 회장에 몰래 들어가 주베 님과 싸우게 됐소.
-Dialogue: 0,0:24:14.83,0:24:19.14,Default,en,0,0,0,,I sneaked into the martial arts competition place and had a match against Mr. Jūbē-{\i1}dasu{\i0}.
+Dialogue: 0,0:24:14.83,0:24:19.14,Default,en,0,0,0,,I sneaked into the martial arts competition place and had a match against Mr. Jūbee-{\i1}dasu{\i0}.
 Comment: 0,0:24:19.60,0:24:22.30,Default,ja,0,0,0,,次回！センヒメ助けて勝負だス！
 Dialogue: 0,0:24:19.60,0:24:22.30,Default,ko,0,0,0,,다음 이야기! 센히메를 구하고 승부이오
 Dialogue: 0,0:24:19.60,0:24:22.30,Default,en,0,0,0,,Next story! Rescue Senhime and Have a Match

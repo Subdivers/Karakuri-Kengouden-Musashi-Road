@@ -118,7 +118,7 @@ Dialogue: 0,0:03:39.08,0:03:42.49,Default,ko,0,0,0,,자, 일동 모였으니 오
 Dialogue: 0,0:03:39.08,0:03:42.49,Default,en,0,0,0,,As all of you are here, what a joyous day!
 Comment: 0,0:03:43.50,0:03:45.30,Default,ja,0,0,0,,ほら、ジュウベエ、食べてくれ！
 Dialogue: 0,0:03:43.50,0:03:45.30,Default,ko,0,0,0,,자, 주베, 먹어라!
-Dialogue: 0,0:03:43.50,0:03:45.30,Default,en,0,0,0,,Jūbē, you can eat now!
+Dialogue: 0,0:03:43.50,0:03:45.30,Default,en,0,0,0,,Jūbee, you can eat now!
 Comment: 0,0:03:46.49,0:03:49.38,Default,ja,0,0,0,,は。ではまず、煮付けから。
 Dialogue: 0,0:03:46.49,0:03:49.38,Default,ko,0,0,0,,예. 그럼 먼저 조림부터.
 Dialogue: 0,0:03:46.49,0:03:49.38,Default,en,0,0,0,,Yessir. Then I'll start with boiled fish.
@@ -686,7 +686,7 @@ Dialogue: 0,0:19:34.80,0:19:40.54,Default,ko,0,0,0,,정말, 내 대신 천하를
 Dialogue: 0,0:19:34.80,0:19:40.54,Default,en,0,0,0,,Really, trying to take over the country instead of me is unforgivable!
 Comment: 0,0:19:41.40,0:19:46.32,Default,ja,0,0,0,,は！殿のお命、このジュウベエ、我が身に代えてもお守りいたします。
 Dialogue: 0,0:19:41.40,0:19:46.32,Default,ko,0,0,0,,예! 영주님의 생명, 이 주베가 제 몸을 걸고 지켜 드리겠습니다.
-Dialogue: 0,0:19:41.40,0:19:46.32,Default,en,0,0,0,,Yessir! I, Jūbē, will protect your life risking my own body!
+Dialogue: 0,0:19:41.40,0:19:46.32,Default,en,0,0,0,,Yessir! I, Jūbee, will protect your life risking my own body!
 Comment: 0,0:19:51.82,0:19:58.25,Default,ja,0,0,0,,ハンゾウが生きていたとは驚きだスが。この厳しい警護を、今度こそ最後でござるだす！
 Dialogue: 0,0:19:51.82,0:19:58.25,Default,ko,0,0,0,,한조가 살아 있었다니 놀랐소이만, 이 엄한 경호 앞에선 이번에야말로 끝이오.
 Dialogue: 0,0:19:51.82,0:19:58.25,Default,en,0,0,0,,It's surprising that Hanzō's still alive-{\i1}dasu{\i0}, but with this level of guard in place, he's really gonna be done for this time-{\i1}dasu{\i0}.
@@ -707,7 +707,7 @@ Dialogue: 0,0:20:30.87,0:20:32.82,Default,ko,0,0,0,,무섭소!
 Dialogue: 0,0:20:30.87,0:20:32.82,Default,en,0,0,0,,I'm scared!
 Comment: 0,0:20:33.10,0:20:34.68,Default,ja,0,0,0,,さすがわジュウベエ。
 Dialogue: 0,0:20:33.10,0:20:34.68,Default,ko,0,0,0,,역시 주베.
-Dialogue: 0,0:20:33.10,0:20:34.68,Default,en,0,0,0,,That's Jūbē I know.
+Dialogue: 0,0:20:33.10,0:20:34.68,Default,en,0,0,0,,That's Jūbee I know.
 Comment: 0,0:20:36.99,0:20:37.80,Default,ja,0,0,0,,ハンゾウ！
 Dialogue: 0,0:20:36.99,0:20:37.80,Default,ko,0,0,0,,한조!
 Dialogue: 0,0:20:36.99,0:20:37.80,Default,en,0,0,0,,Hanzō!

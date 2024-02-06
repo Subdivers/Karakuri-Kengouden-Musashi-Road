@@ -768,9 +768,9 @@ Dialogue: 0,0:19:20.00,0:19:23.87,Default,ko,0,0,0,,상대는 아직 소년. 굳
 Dialogue: 0,0:19:20.00,0:19:23.87,Default,en,0,0,0,,The opponent is a boy. If you must fight, I will content with you.
 Comment: 0,0:19:27.31,0:19:32.64,Default,ja,0,0,0,,葵の紋章。諸国を見回る警察庁長官のジュウベエ殿か。
 Dialogue: 0,0:19:27.31,0:19:32.64,Default,ko,0,0,0,,{\i1}접시꽃 문장. 제국을 돌아보는 경찰청 장관 주베 님인가...
-Dialogue: 0,0:19:27.31,0:19:32.64,Default,en,0,0,0,,{\i1}Emblem of hollyhock. He must be Jūbē, director of the police department who takes care of whole empire...
+Dialogue: 0,0:19:27.31,0:19:32.64,Default,en,0,0,0,,{\i1}Emblem of hollyhock. He must be Jūbee, director of the police department who takes care of whole empire...
 Dialogue: 0,0:19:33.84,0:19:38.26,NoteOnAnime,ko,0,0,95,,주베
-Dialogue: 0,0:19:33.84,0:19:38.26,NoteOnAnime,en,0,0,95,,Jūbē
+Dialogue: 0,0:19:33.84,0:19:38.26,NoteOnAnime,en,0,0,95,,Jūbee
 Comment: 0,0:19:35.05,0:19:37.13,Default,ja,0,0,0,,一点の曇りもない澄んだ目だ。
 Dialogue: 0,0:19:35.05,0:19:37.13,Default,ko,0,0,0,,{\i1}한 점 구름도 없는 맑은 눈이다.
 Dialogue: 0,0:19:35.05,0:19:37.13,Default,en,0,0,0,,{\i1}He has clear eyes without a cloud.
@@ -827,7 +827,7 @@ Dialogue: 0,0:20:49.72,0:20:51.04,Default,ko,0,0,0,,감사하오!
 Dialogue: 0,0:20:49.72,0:20:51.04,Default,en,0,0,0,,Thank you-{\i1}dasu{\i0}!
 Comment: 0,0:20:51.98,0:20:58.22,Default,ja,0,0,0,,しかし天下一と名高いジュウベエ殿が弟子とは面白い男よ、ムサシ。
 Dialogue: 0,0:20:51.98,0:20:58.22,Default,ko,0,0,0,,{\i1}그래도 천하제일로 유명한 주베 님이 제자라니, 재미있는 소년이군. 무사시.
-Dialogue: 0,0:20:51.98,0:20:58.22,Default,en,0,0,0,,{\i1}You are an interesting boy, Musashi, to claim to have Jūbē, the unrivaled, as your student.
+Dialogue: 0,0:20:51.98,0:20:58.22,Default,en,0,0,0,,{\i1}You are an interesting boy, Musashi, to claim to have Jūbee, the unrivaled, as your student.
 Comment: 0,0:21:02.06,0:21:04.05,Default,ja,0,0,0,,あ、そうだ。忘れ物だス。
 Dialogue: 0,0:21:02.06,0:21:04.05,Default,ko,0,0,0,,아, 참. 두고 온 것이오.
 Dialogue: 0,0:21:02.06,0:21:04.05,Default,en,0,0,0,,Ah, right. You forgot something-{\i1}dasu{\i0}.
@@ -842,7 +842,7 @@ Dialogue: 0,0:21:13.84,0:21:20.12,Default,ko,0,0,0,,나, 사실은 당신의 스
 Dialogue: 0,0:21:13.84,0:21:20.12,Default,en,0,0,0,,To tell you the truth, I am not qualified to be your master-{\i1}dasu{\i0}. Please understand-{\i1}dasu{\i0}.
 Comment: 0,0:21:20.48,0:21:25.87,Default,ja,0,0,0,,いや、誤るのはわたくしです。わたくしは柳生家のジュウベエともうすもの。
 Dialogue: 0,0:21:20.48,0:21:25.87,Default,ko,0,0,0,,아니오. 사과할 쪽은 제 쪽입니다. 저는 야규 가(柳生家)의 주베라는 자.
-Dialogue: 0,0:21:20.48,0:21:25.87,Default,en,0,0,0,,No. It's me who have to apologize. I am Jūbē of Yagyū Family(柳生家).
+Dialogue: 0,0:21:20.48,0:21:25.87,Default,en,0,0,0,,No. It's me who have to apologize. I am Jūbee of Yagyū Family(柳生家).
 Comment: 0,0:21:26.36,0:21:29.84,Default,ja,0,0,0,,柳生家？っと言えば、将軍の親愛やく。
 Dialogue: 0,0:21:26.36,0:21:29.84,Default,ko,0,0,0,,야규 가? 그 말은 쇼군의 친애를 받는...
 Dialogue: 0,0:21:26.36,0:21:29.84,Default,en,0,0,0,,Yagyū Family? Then you must be directly under the shogun...
@@ -854,7 +854,7 @@ Dialogue: 0,0:21:36.27,0:21:37.76,Default,ko,0,0,0,,그런 이유로 사과드�
 Dialogue: 0,0:21:36.27,0:21:37.76,Default,en,0,0,0,,That's why I must apologize.
 Comment: 0,0:21:38.25,0:21:44.99,Default,ja,0,0,0,,いや、おいらもジュウベエさんがいなかったら骨になっていたでござるだス。おいらこそありがとうだス。
 Dialogue: 0,0:21:38.25,0:21:44.99,Default,ko,0,0,0,,아니, 나도 주베 씨가 없었다면 뼈가 되어 있었을 것이오. 나야말로 고맙소.
-Dialogue: 0,0:21:38.25,0:21:44.99,Default,en,0,0,0,,No, instead, if you wasn't there, Jūbē, I would end up as a skeleton-{\i1}dasu{\i0}. Thank you-{\i1}dasu{\i0}.
+Dialogue: 0,0:21:38.25,0:21:44.99,Default,en,0,0,0,,No, instead, if you wasn't there, Jūbee, I would end up as a skeleton-{\i1}dasu{\i0}. Thank you-{\i1}dasu{\i0}.
 Comment: 0,0:21:44.99,0:21:49.31,Default,ja,0,0,0,,ムサシ殿。その心の広さ、ジュウベエ関心しましたぞ。
 Dialogue: 0,0:21:44.99,0:21:49.31,Default,ko,0,0,0,,무사시 님. 그 마음의 넓이, 이 주베가 감탄했습니다!
 Dialogue: 0,0:21:44.99,0:21:49.31,Default,en,0,0,0,,Musashi. I am struck with admiration for the breadth of your spirit!
@@ -875,7 +875,7 @@ Dialogue: 0,0:22:04.91,0:22:07.13,Default,ko,0,0,0,,예. 그럼 에도토피아�
 Dialogue: 0,0:22:04.91,0:22:07.13,Default,en,0,0,0,,Right. Then see you at Edotopia.
 Comment: 0,0:22:08.43,0:22:14.48,Default,ja,0,0,0,,天下に名高いジュウベエとも知らず、師匠と呼ばれ、いい気分だったのもつかの間の夢。
 Dialogue: 0,0:22:08.43,0:22:14.48,Default,ko,0,0,0,,천하에 유명한 주베도 모르며 스승이라 불려 기분이 좋았던 것도 잠깐의 꿈.
-Dialogue: 0,0:22:08.43,0:22:14.48,Default,en,0,0,0,,Not knowing the world-famous Jūbē, he had a short but good dream, being called as a master.
+Dialogue: 0,0:22:08.43,0:22:14.48,Default,en,0,0,0,,Not knowing the world-famous Jūbee, he had a short but good dream, being called as a master.
 Comment: 0,0:22:14.81,0:22:22.73,Default,ja,0,0,0,,しかし、ホーゾーインといい勝負をしたムサシ、夢と希望に胸膨らませてエドトピアへと向かうのであった。
 Dialogue: 0,0:22:14.81,0:22:22.73,Default,ko,0,0,0,,그러나, 호조인과 좋은 승부를 한 무사시. 꿈과 희망으로 가슴이 부풀어 에도토피아를 향하고 있었다.
 Dialogue: 0,0:22:14.81,0:22:17.95,Default,en,0,0,0,,Moreover, Musashi managed to have a good match against Hōzōin.

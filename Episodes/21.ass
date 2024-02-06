@@ -709,7 +709,7 @@ Dialogue: 0,0:16:51.81,0:16:53.77,Default,ko,0,0,0,,이 자는 이시마츠라�
 Dialogue: 0,0:16:51.81,0:16:53.77,Default,en,0,0,0,,This guy is not someone named Ishimatsu.
 Comment: 0,0:16:54.14,0:16:55.09,Default,ja,0,0,0,,ジュウベエさん！
 Dialogue: 0,0:16:54.14,0:16:55.09,Default,ko,0,0,0,,주베 씨!
-Dialogue: 0,0:16:54.14,0:16:55.09,Default,en,0,0,0,,Mr. Jūbē!
+Dialogue: 0,0:16:54.14,0:16:55.09,Default,en,0,0,0,,Mr. Jūbee!
 Comment: 0,0:16:56.85,0:17:00.06,Default,ja,0,0,0,,ムサシ殿、こいつの正体をとくとくご覧あれ！
 Dialogue: 0,0:16:56.85,0:17:00.06,Default,ko,0,0,0,,무사시 님. 이 녀석의 정체를 똑똑히 봐 두십시오!
 Dialogue: 0,0:16:56.85,0:17:00.06,Default,en,0,0,0,,Musashi, see for yourself about who this guy actually is!
@@ -718,13 +718,13 @@ Dialogue: 0,0:17:12.14,0:17:13.60,Default,ko,0,0,0,,넌 오니히메!
 Dialogue: 0,0:17:12.14,0:17:13.60,Default,en,0,0,0,,You are Onihime!
 Comment: 0,0:17:14.17,0:17:18.77,Default,ja,0,0,0,,己、ジュウベエ！あと一歩というところをよくも邪魔してくれたな！
 Dialogue: 0,0:17:14.17,0:17:18.77,Default,ko,0,0,0,,네 이놈, 주베! 눈 앞이었는데 잘도 방해했겠다!
-Dialogue: 0,0:17:14.17,0:17:18.77,Default,en,0,0,0,,Jūbē, you bastard! It was so close and you dared to butt in!
+Dialogue: 0,0:17:14.17,0:17:18.77,Default,en,0,0,0,,Jūbee, you bastard! It was so close and you dared to butt in!
 Comment: 0,0:17:19.21,0:17:20.26,Default,ja,0,0,0,,覚えておれ！
 Dialogue: 0,0:17:19.21,0:17:20.26,Default,ko,0,0,0,,기억해 둬라!
 Dialogue: 0,0:17:19.21,0:17:20.26,Default,en,0,0,0,,Remember this!
 Comment: 0,0:17:24.99,0:17:27.14,Default,ja,0,0,0,,ジュウベエ殿。どうしてここに？
 Dialogue: 0,0:17:24.99,0:17:27.14,Default,ko,0,0,0,,주베 님. 어째서 여기에?
-Dialogue: 0,0:17:24.99,0:17:27.14,Default,en,0,0,0,,Mr. Jūbē. What brought you here?
+Dialogue: 0,0:17:24.99,0:17:27.14,Default,en,0,0,0,,Mr. Jūbee. What brought you here?
 Comment: 0,0:17:27.54,0:17:30.48,Default,ja,0,0,0,,その話はあとで。早くオニヒメを追いかけましょう。
 Dialogue: 0,0:17:27.54,0:17:30.48,Default,ko,0,0,0,,그 이야기는 나중에. 일단 서둘러 오니히메를 쫓읍시다.
 Dialogue: 0,0:17:27.54,0:17:30.48,Default,en,0,0,0,,We'll talk about that later. For now, let's chase Onihime.
@@ -733,7 +733,7 @@ Dialogue: 0,0:17:43.04,0:17:44.45,Default,ko,0,0,0,,역시 그랬군.
 Dialogue: 0,0:17:43.04,0:17:44.45,Default,en,0,0,0,,I knew it.
 Comment: 0,0:17:44.76,0:17:47.32,Default,ja,0,0,0,,ジュウベエさん、何がやっぱりなんだすか。
 Dialogue: 0,0:17:44.76,0:17:47.32,Default,ko,0,0,0,,주베 씨, 뭐가 역시이오?
-Dialogue: 0,0:17:44.76,0:17:47.32,Default,en,0,0,0,,Mr. Jūbē, what did you know-{\i1}dasu{\i0}?
+Dialogue: 0,0:17:44.76,0:17:47.32,Default,en,0,0,0,,Mr. Jūbee, what did you know-{\i1}dasu{\i0}?
 Comment: 0,0:17:47.70,0:17:52.96,Default,ja,0,0,0,,実は先日、ゼネラルイエヤス様が原因不明の熱を出して倒れられたのです。
 Dialogue: 0,0:17:47.70,0:17:52.96,Default,ko,0,0,0,,사실은 얼마 전, 제너럴 이에야스 님이 원인 불명의 고열로 쓰러졌습니다.
 Dialogue: 0,0:17:47.70,0:17:52.96,Default,en,0,0,0,,To tell you the truth, not too long ago, General Ieyasu has broken down because of a high fever of unknown reason.
@@ -775,7 +775,7 @@ Dialogue: 0,0:18:41.00,0:18:46.48,Default,ko,0,0,0,,인간의 마음을 가지�
 Dialogue: 0,0:18:41.00,0:18:46.48,Default,en,0,0,0,,Playing with humans' minds, and even trying to fiddle with General Ieyasu is unforgivable!
 Comment: 0,0:18:46.97,0:18:51.20,Default,ja,0,0,0,,ジュウベエさん、コジロー！あの呪術、なんとしてもそうちゅしてやるだす！
 Dialogue: 0,0:18:46.97,0:18:51.20,Default,ko,0,0,0,,주베 씨, 코지로! 저 주술, 어떻게든 조치해 주겠소!
-Dialogue: 0,0:18:46.97,0:18:51.20,Default,en,0,0,0,,Mr. Jūbē and Kojirō! We will do something with that sorcery-{\i1}dasu{\i0}!
+Dialogue: 0,0:18:46.97,0:18:51.20,Default,en,0,0,0,,Mr. Jūbee and Kojirō! We will do something with that sorcery-{\i1}dasu{\i0}!
 Comment: 0,0:18:52.14,0:18:54.24,Default,ja,0,0,0,,～て、みんな！
 Dialogue: 0,0:18:52.14,0:18:54.24,Default,ko,0,0,0,,힘내, 모두!
 Dialogue: 0,0:18:52.14,0:18:54.24,Default,en,0,0,0,,Do your best, everyone!
@@ -802,7 +802,7 @@ Dialogue: 0,0:19:40.74,0:19:41.90,Default,ko,0,0,0,,이런 건방진!
 Dialogue: 0,0:19:40.74,0:19:41.90,Default,en,0,0,0,,How impudent!
 Comment: 0,0:19:46.56,0:19:47.33,Default,ja,0,0,0,,ジュウベエさん！
 Dialogue: 0,0:19:46.56,0:19:47.33,Default,ko,0,0,0,,주베 씨!
-Dialogue: 0,0:19:46.56,0:19:47.33,Default,en,0,0,0,,Mr. Jūbē!
+Dialogue: 0,0:19:46.56,0:19:47.33,Default,en,0,0,0,,Mr. Jūbee!
 Comment: 0,0:19:48.46,0:19:51.99,Default,ja,0,0,0,,くそ、そっちが竜巻ならこっちも竜巻で勝負だス！
 Dialogue: 0,0:19:48.46,0:19:51.99,Default,ko,0,0,0,,젠장, 그 쪽이 회오리라면 이 쪽에서도 회오리로 승부이오!
 Dialogue: 0,0:19:48.46,0:19:51.99,Default,en,0,0,0,,If you're going with a whirlwind, then I'm going with a whirlwind, too!
@@ -850,7 +850,7 @@ Dialogue: 0,0:21:49.28,0:21:53.41,Default,ko,0,0,0,,그럼 저는 여기까지. 
 Dialogue: 0,0:21:49.28,0:21:53.41,Default,en,0,0,0,,Then I'll be going now. Senhime and both of you, be careful.
 Comment: 0,0:21:53.84,0:21:59.13,Default,ja,0,0,0,,ありがとう、ジュウベエ。さあ、ムサシ、～ゆっくりかわいい話してあげるわね。
 Dialogue: 0,0:21:53.84,0:21:59.13,Default,ko,0,0,0,,고마워, 주베. 자, 무사시. 도중에 무서운 이야기 잔뜩 해 줄게.
-Dialogue: 0,0:21:53.84,0:21:59.13,Default,en,0,0,0,,Thank you, Jūbē. Musashi, let me tell you all the scary stories during our way.
+Dialogue: 0,0:21:53.84,0:21:59.13,Default,en,0,0,0,,Thank you, Jūbee. Musashi, let me tell you all the scary stories during our way.
 Comment: 0,0:21:59.13,0:22:01.85,Default,ja,0,0,0,,えい、それだけは勘弁してくれだす！
 Dialogue: 0,0:21:59.13,0:22:01.85,Default,ko,0,0,0,,그건 하지 말아 주시오!
 Dialogue: 0,0:21:59.13,0:22:01.85,Default,en,0,0,0,,Please don't do that-{\i1}dasu{\i0}!

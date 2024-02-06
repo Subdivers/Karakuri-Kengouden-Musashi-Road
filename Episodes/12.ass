@@ -105,7 +105,7 @@ Dialogue: 0,0:02:53.71,0:02:55.49,Default,ko,0,0,0,,비검! 제일의 검!
 Dialogue: 0,0:02:53.71,0:02:55.49,Default,en,0,0,0,,Secret Sword! First Long Sword!
 Comment: 0,0:02:55.49,0:02:58.60,Default,ja,0,0,0,,第五会場代表、ジュウベエ殿に決定！
 Dialogue: 0,0:02:55.49,0:02:58.60,Default,ko,0,0,0,,제5회장 대표, 주베 님으로 결정!
-Dialogue: 0,0:02:55.49,0:02:58.60,Default,en,0,0,0,,The representative of the fifth grounds is Mr. Jūbē!
+Dialogue: 0,0:02:55.49,0:02:58.60,Default,en,0,0,0,,The representative of the fifth grounds is Mr. Jūbee!
 Comment: 0,0:02:58.97,0:03:01.06,Default,ja,0,0,0,,鎖鎌流！首狩り鎌！
 Dialogue: 0,0:02:58.97,0:03:01.06,Default,ko,0,0,0,,쿠사리가마류! 목 베는 낫!
 Dialogue: 0,0:02:58.97,0:03:01.06,Default,en,0,0,0,,Kusarigama style! Headhunting Sickle!
@@ -486,7 +486,7 @@ Dialogue: 0,0:13:54.17,0:13:56.89,Default,ko,0,0,0,,이번엔 네가 약속한 �
 Dialogue: 0,0:13:54.17,0:13:56.89,Default,en,0,0,0,,Now it's time for you to keep your promise.
 Comment: 0,0:13:56.89,0:14:02.62,Default,ja,0,0,0,,分かってるだス。うわ、凄い！ジュウベエさんもコンドウもほとんど互角だぜ！
 Dialogue: 0,0:13:56.89,0:14:02.62,Default,ko,0,0,0,,알고 있소. 우와, 대단하오! 주베 씨도 콘도도 대부분 막상막하이오!
-Dialogue: 0,0:13:56.89,0:14:02.62,Default,en,0,0,0,,I know-{\i1}dasu{\i0}. Wow, that's awesome! Mr. Jūbē, Kondou, and everyone are equal!
+Dialogue: 0,0:13:56.89,0:14:02.62,Default,en,0,0,0,,I know-{\i1}dasu{\i0}. Wow, that's awesome! Mr. Jūbee, Kondou, and everyone are equal!
 Comment: 0,0:14:03.90,0:14:04.65,Default,ja,0,0,0,,ムサシ！
 Dialogue: 0,0:14:03.90,0:14:04.65,Default,ko,0,0,0,,무사시!
 Dialogue: 0,0:14:03.90,0:14:04.65,Default,en,0,0,0,,Musashi!
@@ -504,7 +504,7 @@ Dialogue: 0,0:14:18.20,0:14:19.10,Default,ko,0,0,0,,무사시 님.
 Dialogue: 0,0:14:18.20,0:14:19.10,Default,en,0,0,0,,Mr. Musashi.
 Comment: 0,0:14:19.50,0:14:20.91,Default,ja,0,0,0,,あ、ジュウベエさん！
 Dialogue: 0,0:14:19.50,0:14:20.91,Default,ko,0,0,0,,아, 주베 씨!
-Dialogue: 0,0:14:19.50,0:14:20.91,Default,en,0,0,0,,Ah, Mr. Jūbē!
+Dialogue: 0,0:14:19.50,0:14:20.91,Default,en,0,0,0,,Ah, Mr. Jūbee!
 Comment: 0,0:14:23.88,0:14:25.56,Default,ja,0,0,0,,うわ、みんな！
 Dialogue: 0,0:14:23.88,0:14:25.56,Default,ko,0,0,0,,우와, 모두!
 Dialogue: 0,0:14:23.88,0:14:25.56,Default,en,0,0,0,,Hey, everyone!
@@ -537,7 +537,7 @@ Dialogue: 0,0:15:03.16,0:15:04.75,Default,ko,0,0,0,,무사시 님. 훌륭하오.
 Dialogue: 0,0:15:03.16,0:15:04.75,Default,en,0,0,0,,Mr. Musashi. That was splendid.
 Comment: 0,0:15:05.92,0:15:08.35,Default,ja,0,0,0,,ジュウベエさん、お久しぶりだス！
 Dialogue: 0,0:15:05.92,0:15:08.35,Default,ko,0,0,0,,주베 씨, 오랜만이오!
-Dialogue: 0,0:15:05.92,0:15:08.35,Default,en,0,0,0,,It's been some time, Mr. Jūbē-{\i1}dasu{\i0}!
+Dialogue: 0,0:15:05.92,0:15:08.35,Default,en,0,0,0,,It's been some time, Mr. Jūbee-{\i1}dasu{\i0}!
 Comment: 0,0:15:09.13,0:15:11.92,Default,ja,0,0,0,,ムサシ殿。 なぜこんなまねをするのです。
 Dialogue: 0,0:15:09.13,0:15:11.92,Default,ko,0,0,0,,무사시 님. 왜 이런 짓을 하십니까?
 Dialogue: 0,0:15:09.13,0:15:11.92,Default,en,0,0,0,,Mr. Musashi. Why are you doing this?
@@ -579,7 +579,7 @@ Dialogue: 0,0:16:03.30,0:16:05.68,Default,ko,0,0,0,,{\i1}저 자가 쇼군 이�
 Dialogue: 0,0:16:03.30,0:16:05.68,Default,en,0,0,0,,{\i1}He must be Shogun Ieyasu...
 Comment: 0,0:16:05.68,0:16:06.89,Default,ja,0,0,0,,何か、ジュウベエ。
 Dialogue: 0,0:16:05.68,0:16:06.89,Default,ko,0,0,0,,뭔가, 주베.
-Dialogue: 0,0:16:05.68,0:16:06.89,Default,en,0,0,0,,What is it, Jūbē?
+Dialogue: 0,0:16:05.68,0:16:06.89,Default,en,0,0,0,,What is it, Jūbee?
 Comment: 0,0:16:07.45,0:16:08.33,Default,ja,0,0,0,,このムサシ。
 Dialogue: 0,0:16:07.45,0:16:08.33,Default,ko,0,0,0,,이 무사시,
 Dialogue: 0,0:16:07.45,0:16:08.33,Default,en,0,0,0,,This Musashi.
@@ -597,7 +597,7 @@ Dialogue: 0,0:16:19.49,0:16:20.56,Default,ko,0,0,0,,용서할 수 없다!
 Dialogue: 0,0:16:19.49,0:16:20.56,Default,en,0,0,0,,Unforgivable!
 Comment: 0,0:16:20.56,0:16:24.43,Default,ja,0,0,0,,ならばこのジュウベエと番外の試合をさせてください！
 Dialogue: 0,0:16:20.56,0:16:24.43,Default,ko,0,0,0,,그럼 이 주베와 번외 시합을 하게 해 주십시오!
-Dialogue: 0,0:16:20.56,0:16:24.43,Default,en,0,0,0,,Then please let him have a match against me, Jūbē!
+Dialogue: 0,0:16:20.56,0:16:24.43,Default,en,0,0,0,,Then please let him have a match against me, Jūbee!
 Comment: 0,0:16:25.04,0:16:25.93,Default,ja,0,0,0,,なに？
 Dialogue: 0,0:16:25.04,0:16:25.93,Default,ko,0,0,0,,뭐라?
 Dialogue: 0,0:16:25.04,0:16:25.93,Default,en,0,0,0,,What?
@@ -609,7 +609,7 @@ Dialogue: 0,0:16:27.36,0:16:29.36,Default,ko,0,0,0,,무사시도 만족할 것�
 Dialogue: 0,0:16:27.36,0:16:29.36,Default,en,0,0,0,,Musashi should be satisfied.
 Comment: 0,0:16:29.36,0:16:34.37,Default,ja,0,0,0,,うあ、気が済む、気が済む！ジュウベエさんとやらせてくれれば、満足でござるだス！
 Dialogue: 0,0:16:29.36,0:16:34.37,Default,ko,0,0,0,,우와, 만족하오! 만족하오! 주베 씨하고 하면 만족이오!
-Dialogue: 0,0:16:29.36,0:16:34.37,Default,en,0,0,0,,Wow, I'll be satisfied, definitely satisfied! I'll be satisfied if I can have a match with Mr. Jūbē-{\i1}dasu{\i0}!
+Dialogue: 0,0:16:29.36,0:16:34.37,Default,en,0,0,0,,Wow, I'll be satisfied, definitely satisfied! I'll be satisfied if I can have a match with Mr. Jūbee-{\i1}dasu{\i0}!
 Comment: 0,0:16:34.97,0:16:37.68,Default,ja,0,0,0,,将軍。わたくしからもお願いいたします。
 Dialogue: 0,0:16:34.97,0:16:37.68,Default,ko,0,0,0,,쇼군. 저도 부탁드립니다.
 Dialogue: 0,0:16:34.97,0:16:37.68,Default,en,0,0,0,,Shogun, I also ask you for that.
@@ -651,7 +651,7 @@ Dialogue: 0,0:17:12.11,0:17:13.82,Default,ko,0,0,0,,지금부터 번외 시합.
 Dialogue: 0,0:17:12.11,0:17:13.82,Default,en,0,0,0,,An extra match will begin now.
 Comment: 0,0:17:13.82,0:17:17.07,Default,ja,0,0,0,,ジュウベエ殿とムサシ殿。一本勝負！
 Dialogue: 0,0:17:13.82,0:17:17.07,Default,ko,0,0,0,,주베 님 대 무사시 님, 단판 승부!
-Dialogue: 0,0:17:13.82,0:17:17.07,Default,en,0,0,0,,Mr. Jūbē vs Mr. Musashi. One-game match!
+Dialogue: 0,0:17:13.82,0:17:17.07,Default,en,0,0,0,,Mr. Jūbee vs Mr. Musashi. One-game match!
 Comment: 0,0:17:20.06,0:17:21.02,Default,ja,0,0,0,,初め！
 Dialogue: 0,0:17:20.06,0:17:21.02,Default,ko,0,0,0,,시작!
 Dialogue: 0,0:17:20.06,0:17:21.02,Default,en,0,0,0,,Start!
@@ -708,7 +708,7 @@ Dialogue: 0,0:19:50.64,0:19:52.30,Default,ko,0,0,0,,비검! 제일의 검!
 Dialogue: 0,0:19:50.64,0:19:52.30,Default,en,0,0,0,,Secret Sword! First Long Sword!
 Comment: 0,0:20:00.54,0:20:03.81,Default,ja,0,0,0,,勝負終わり！ジュウベエ殿の勝ち！
 Dialogue: 0,0:20:00.54,0:20:03.81,Default,ko,0,0,0,,승부 났습니다! 주베 님의 승리!
-Dialogue: 0,0:20:00.54,0:20:03.81,Default,en,0,0,0,,Match set! Mr. Jūbē wins!
+Dialogue: 0,0:20:00.54,0:20:03.81,Default,en,0,0,0,,Match set! Mr. Jūbee wins!
 Comment: 0,0:20:07.05,0:20:08.24,Default,ja,0,0,0,,見事だ。
 Dialogue: 0,0:20:07.05,0:20:08.24,Default,ko,0,0,0,,훌륭했다.
 Dialogue: 0,0:20:07.05,0:20:08.24,Default,en,0,0,0,,That was excellent.
@@ -717,7 +717,7 @@ Dialogue: 0,0:20:16.92,0:20:17.93,Default,ko,0,0,0,,졌소...
 Dialogue: 0,0:20:16.92,0:20:17.93,Default,en,0,0,0,,I lost...
 Comment: 0,0:20:18.84,0:20:21.13,Default,ja,0,0,0,,おいらはジュウベエさんに負けただス。。。
 Dialogue: 0,0:20:18.84,0:20:21.13,Default,ko,0,0,0,,나는 주베 씨에게 졌소...
-Dialogue: 0,0:20:18.84,0:20:21.13,Default,en,0,0,0,,I lost to Mr. Jūbē...
+Dialogue: 0,0:20:18.84,0:20:21.13,Default,en,0,0,0,,I lost to Mr. Jūbee...
 Comment: 0,0:20:25.36,0:20:26.70,Default,ja,0,0,0,,なんだす？
 Dialogue: 0,0:20:25.36,0:20:26.70,Default,ko,0,0,0,,뭣이오?
 Dialogue: 0,0:20:25.36,0:20:26.70,Default,en,0,0,0,,Wh- what is this-{\i1}dasu{\i0}?
@@ -753,7 +753,7 @@ Dialogue: 0,0:21:26.59,0:21:27.83,Default,ko,0,0,0,,날뛰었다?
 Dialogue: 0,0:21:26.59,0:21:27.83,Default,en,0,0,0,,Acted violently?
 Comment: 0,0:21:27.83,0:21:30.35,Default,ja,0,0,0,,あれはジュウベエさんが番外試合を！
 Dialogue: 0,0:21:27.83,0:21:30.35,Default,ko,0,0,0,,그건 주베 씨가 번외 시합을!
-Dialogue: 0,0:21:27.83,0:21:30.35,Default,en,0,0,0,,Mr. Jūbē asked for an extra match...
+Dialogue: 0,0:21:27.83,0:21:30.35,Default,en,0,0,0,,Mr. Jūbee asked for an extra match...
 Comment: 0,0:21:30.81,0:21:31.48,Default,ja,0,0,0,,黙れ！
 Dialogue: 0,0:21:30.81,0:21:31.48,Default,ko,0,0,0,,닥쳐라!
 Dialogue: 0,0:21:30.81,0:21:31.48,Default,en,0,0,0,,Shut up!
@@ -811,7 +811,7 @@ Dialogue: 0,0:24:04.24,0:24:06.19,Default,ko,0,0,0,,무예 대회도 슬슬 끝�
 Dialogue: 0,0:24:04.24,0:24:06.19,Default,en,0,0,0,,The martial arts competition is about to end.
 Comment: 0,0:24:06.19,0:24:08.73,Default,ja,0,0,0,,なんと、決勝戦はコジローとジュウベエさん。
 Dialogue: 0,0:24:06.19,0:24:08.73,Default,ko,0,0,0,,이게 무슨, 결승전은 코지로와 주베 씨.
-Dialogue: 0,0:24:06.19,0:24:08.73,Default,en,0,0,0,,No way! The final match is Kojirō vs Mr. Jūbē.
+Dialogue: 0,0:24:06.19,0:24:08.73,Default,en,0,0,0,,No way! The final match is Kojirō vs Mr. Jūbee.
 Comment: 0,0:24:08.73,0:24:11.34,Default,ja,0,0,0,,なんでおいらじゃないんだ！悔しい！
 Dialogue: 0,0:24:08.73,0:24:11.34,Default,ko,0,0,0,,왜 내가 아닌 것이오! 분하오!
 Dialogue: 0,0:24:08.73,0:24:11.34,Default,en,0,0,0,,Why isn't it me? How frustrating!
