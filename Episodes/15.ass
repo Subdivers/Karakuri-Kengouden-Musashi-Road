@@ -218,7 +218,7 @@ Dialogue: 0,0:06:01.15,0:06:02.33,Default,ko,0,0,0,,네네네네!
 Dialogue: 0,0:06:01.15,0:06:02.33,Default,en,0,0,0,,Right, right!
 Comment: 0,0:06:02.85,0:06:04.69,Default,ja,0,0,0,,団子買うでござるだスか?
 Dialogue: 0,0:06:02.85,0:06:04.69,Default,ko,0,0,0,,단고 사오?
-Dialogue: 0,0:06:02.85,0:06:04.69,Default,en,0,0,0,,Are we buying {\i1}dango{\i0}s-{\i1}dasu{\i0}?
+Dialogue: 0,0:06:02.85,0:06:04.69,Default,en,0,0,0,,Are we buying dangos-{\i1}dasu{\i0}?
 Comment: 0,0:06:04.69,0:06:10.92,Default,ja,0,0,0,,こら、ムサシ!このたびは観光旅行ではない！姫をお守りする指名を忘れたのか!
 Dialogue: 0,0:06:04.69,0:06:10.92,Default,ko,0,0,0,,어이, 무사시! 이 여행은 관광 여행이 아니다! 공주님을 지켜야 한다는 사명을 잊었나!
 Dialogue: 0,0:06:04.69,0:06:10.92,Default,en,0,0,0,,Hey, Musashi! This journey is not a pleasure trip! Did you forget your mission to protect the princess?
@@ -525,13 +525,13 @@ Dialogue: 0,0:13:10.80,0:13:13.67,Default,ko,0,0,0,,어라, 무사시 가 버렸
 Dialogue: 0,0:13:10.80,0:13:13.67,Default,en,0,0,0,,Huh, Musashi went.
 Comment: 0,0:13:14.19,0:13:17.41,Default,ja,0,0,0,,あの団子突きが我慢するなんて。。。信じられん！
 Dialogue: 0,0:13:14.19,0:13:17.41,Default,ko,0,0,0,,저 단고에 미친 놈이 참다니, 믿을 수가 없군!
-Dialogue: 0,0:13:14.19,0:13:17.41,Default,en,0,0,0,,I can't believe that {\i1}dango{\i0}-craving guy is actually enduring!
+Dialogue: 0,0:13:14.19,0:13:17.41,Default,en,0,0,0,,I can't believe that dango-craving guy is actually enduring!
 Comment: 0,0:13:17.80,0:13:19.75,Default,ja,0,0,0,,あ、きっと責任感からだわ。
 Dialogue: 0,0:13:17.80,0:13:19.75,Default,ko,0,0,0,,분명 책임감 때문일거야.
 Dialogue: 0,0:13:17.80,0:13:19.75,Default,en,0,0,0,,Must be his sense of responsibility.
 Comment: 0,0:13:20.29,0:13:22.48,Default,ja,0,0,0,,残りのお団子、持って行ってあげましょう。
 Dialogue: 0,0:13:20.29,0:13:22.48,Default,ko,0,0,0,,남은 단고는 가지고 가자.
-Dialogue: 0,0:13:20.29,0:13:22.48,Default,en,0,0,0,,Let's bvring the leftover {\i1}dango{\i0}s.
+Dialogue: 0,0:13:20.29,0:13:22.48,Default,en,0,0,0,,Let's bvring the leftover dangos.
 Comment: 0,0:13:22.48,0:13:23.08,Default,ja,0,0,0,,は。
 Dialogue: 0,0:13:22.48,0:13:23.08,Default,ko,0,0,0,,예.
 Dialogue: 0,0:13:22.48,0:13:23.08,Default,en,0,0,0,,Right.
@@ -549,7 +549,7 @@ Dialogue: 0,0:13:34.32,0:13:36.94,Default,ko,0,0,0,,그래! 그래서 흥미롭�
 Dialogue: 0,0:13:34.32,0:13:36.94,Default,en,0,0,0,,Yeah! Isn't that interesting?
 Comment: 0,0:13:37.56,0:13:41.21,Default,ja,0,0,0,,すみません！残りのお団子包んでください！
 Dialogue: 0,0:13:37.56,0:13:41.21,Default,ko,0,0,0,,저기요! 남은 단고는 포장해 주세요!
-Dialogue: 0,0:13:37.56,0:13:41.21,Default,en,0,0,0,,Excuse me! Please wrap the leftover {\i1}dango{\i0}s!
+Dialogue: 0,0:13:37.56,0:13:41.21,Default,en,0,0,0,,Excuse me! Please wrap the leftover dangos!
 Comment: 0,0:13:41.21,0:13:43.99,Default,ja,0,0,0,,私の方がよっぽどハンサムだと思うが。。。
 Dialogue: 0,0:13:41.21,0:13:43.99,Default,ko,0,0,0,,내가 훨씬 잘생겼다 생각하지만...
 Dialogue: 0,0:13:41.21,0:13:43.99,Default,en,0,0,0,,I think I am a whole lot more handsome...

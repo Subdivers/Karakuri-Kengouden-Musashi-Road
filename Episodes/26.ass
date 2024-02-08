@@ -452,10 +452,10 @@ Dialogue: 0,0:12:03.70,0:12:08.50,Eyecatch,ko,0,0,0,,카라쿠리 검호전 무�
 Dialogue: 0,0:12:03.70,0:12:08.50,Eyecatch,en,0,0,0,,Karakuri Kengouden: Musashi Road
 Comment: 0,0:12:21.26,0:12:24.17,Default,ja,0,0,0,,よちゃん、どうだい？焼き団子もうまそうだろう！
 Dialogue: 0,0:12:21.26,0:12:24.17,Default,ko,0,0,0,,아가씨, 어때? 구운 단고도 맛있어!
-Dialogue: 0,0:12:21.26,0:12:24.17,Default,en,0,0,0,,What do you think about this, miss? Fried {\i1}dango{\i0}s are good, too!
+Dialogue: 0,0:12:21.26,0:12:24.17,Default,en,0,0,0,,What do you think about this, miss? Fried dangos are good, too!
 Comment: 0,0:12:25.46,0:12:30.38,Default,ja,0,0,0,,このへんの物は、みんな祭り付きだからよ。どうだい！団子でも食ってか？
 Dialogue: 0,0:12:25.46,0:12:30.38,Default,ko,0,0,0,,이 주변 사람들은 다들 행사를 좋아하니까. 어떠냐, 단고라도 먹을텨?
-Dialogue: 0,0:12:25.46,0:12:30.38,Default,en,0,0,0,,All the people around here likes events and ceremonies. By the way, do you want to eat some {\i1}dango{\i0}s?
+Dialogue: 0,0:12:25.46,0:12:30.38,Default,en,0,0,0,,All the people around here likes events and ceremonies. By the way, do you want to eat some dangos?
 Comment: 0,0:12:30.90,0:12:33.40,Default,ja,0,0,0,,あら、お汁粉のほうがいいわよね。
 Dialogue: 0,0:12:30.90,0:12:33.40,Default,ko,0,0,0,,어라, 단팥죽 쪽이 더 좋아.
 Dialogue: 0,0:12:30.90,0:12:33.40,Default,en,0,0,0,,Hey, sweet red bean soup is better!
@@ -464,7 +464,7 @@ Dialogue: 0,0:12:33.98,0:12:36.35,Default,ko,0,0,0,,나, 이제 배부르오!
 Dialogue: 0,0:12:33.98,0:12:36.35,Default,en,0,0,0,,I'm already full now-{\i1}dasu{\i0}!
 Comment: 0,0:12:36.35,0:12:39.45,Default,ja,0,0,0,,何言ってんだい！団子の二本や三本へぇる（入る）だろ？
 Dialogue: 0,0:12:36.35,0:12:39.45,Default,ko,0,0,0,,뭔 소리냐! 단고 2줄이나 3줄 입에 안 넣으려?
-Dialogue: 0,0:12:36.35,0:12:39.45,Default,en,0,0,0,,No way! Don't want want 2 or 3 lines of {\i1}dango{\i0}s in your mouth?
+Dialogue: 0,0:12:36.35,0:12:39.45,Default,en,0,0,0,,No way! Don't want want 2 or 3 lines of dangos in your mouth?
 Comment: 0,0:12:39.45,0:12:43.73,Default,ja,0,0,0,,そうよ、ムサシさんだもの。あの店のしるこ、おいしいのよ。
 Dialogue: 0,0:12:39.45,0:12:43.73,Default,ko,0,0,0,,그래, 무사시 씨잖아. 저 가게 단팥죽 맛있어.
 Dialogue: 0,0:12:39.45,0:12:43.73,Default,en,0,0,0,,Yeah, it's you, Mr. Musashi! That sweet red bean soup tastes good!
@@ -473,7 +473,7 @@ Dialogue: 0,0:12:44.90,0:12:47.81,Default,ko,0,0,0,,둘 다 먹어보고 싶소.
 Dialogue: 0,0:12:44.90,0:12:47.81,Default,en,0,0,0,,I want to try both-{\i1}dasu{\i0}!
 Comment: 0,0:12:47.81,0:12:50.26,Default,ja,0,0,0,,へ、だれだれ。じゃ、まず、団子だ！こらこら！
 Dialogue: 0,0:12:47.81,0:12:50.26,Default,ko,0,0,0,,자, 그래, 그래! 일단 단고다! 따라와!
-Dialogue: 0,0:12:47.81,0:12:50.26,Default,en,0,0,0,,Well, yeah, then! Let's begin with {\i1}dango{\i0}s! Follow me!
+Dialogue: 0,0:12:47.81,0:12:50.26,Default,en,0,0,0,,Well, yeah, then! Let's begin with dangos! Follow me!
 Comment: 0,0:12:51.32,0:12:54.30,Default,ja,0,0,0,,もう、お前さんが食べたいんじゃないのか？
 Dialogue: 0,0:12:51.32,0:12:54.30,Default,ko,0,0,0,,저런, 당신이 먹고 싶은 거 아냐?
 Dialogue: 0,0:12:51.32,0:12:54.30,Default,en,0,0,0,,Hey, isn't it you who want that?
@@ -787,7 +787,7 @@ Dialogue: 0,0:23:36.66,0:23:44.63,SongED1,ED1!Lyric12,0,0,0,,未来も　てな�
 Dialogue: 0,0:23:44.87,0:23:50.47,SongED1,ED1!Lyric13,0,0,0,,両手ひろげて　笑ってるぜ
 Comment: 0,0:24:04.06,0:24:11.39,Default,ja,0,0,0,,お団子早食いコンクールに出場したばっかりにコジローと喧嘩になるは（し）、おせんちゃんはシラヌイ一族に捕まっちゃうは（し）と、めちゃくちゃ！
 Dialogue: 0,0:24:04.06,0:24:11.39,Default,ko,0,0,0,,단고 빨리 먹기 콩쿠르에 출전했다는 이유만으로 코지로하고 싸우고, 센짱은 시라누이 일족에게 잡히고, 엉망진창!
-Dialogue: 0,0:24:04.06,0:24:07.96,Default,en,0,0,0,,Just because I entered {\i1}dango{\i0} quick eating contest I fought with Kojirō,
+Dialogue: 0,0:24:04.06,0:24:07.96,Default,en,0,0,0,,Just because I entered dango quick eating contest I fought with Kojirō,
 Dialogue: 0,0:24:07.96,0:24:11.39,Default,en,0,0,0,,Sen-chan was taken by Shiranui clan, and it's a mess!
 Comment: 0,0:24:11.68,0:24:15.10,Default,ja,0,0,0,,そんなとき、サイゴーさんと懐かしいのリョウマさんに出会っただス！
 Dialogue: 0,0:24:11.68,0:24:15.10,Default,ko,0,0,0,,그 때, 사이고 씨하고 오랜만에 료마 씨하고 만났소!

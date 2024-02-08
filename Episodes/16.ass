@@ -101,7 +101,7 @@ Dialogue: 0,0:02:54.66,0:02:55.75,Default,ko,0,0,0,,얼마 나왔을까나?
 Dialogue: 0,0:02:54.66,0:02:55.75,Default,en,0,0,0,,I wonder how much it costs?
 Comment: 0,0:02:55.75,0:02:57.76,Default,ja,0,0,0,,いい、生きるもんです。
 Dialogue: 0,0:02:55.75,0:02:57.76,Default,ko,0,0,0,,예, 10문입니다.
-Dialogue: 0,0:02:55.75,0:02:57.76,Default,en,0,0,0,,It's 10 {\i1}mon{\i0}s.
+Dialogue: 0,0:02:55.75,0:02:57.76,Default,en,0,0,0,,It's 10 mons.
 Comment: 0,0:02:58.41,0:03:01.66,Default,ja,0,0,0,,たく、自分だけお金持ってるから偉そうに。
 Dialogue: 0,0:02:58.41,0:03:01.66,Default,ko,0,0,0,,진짜, 자기만 돈을 가지고 있으니 잘난 척은...
 Dialogue: 0,0:02:58.41,0:03:01.66,Default,en,0,0,0,,Really, only he has money and he's all puffed up...
@@ -179,7 +179,7 @@ Dialogue: 0,0:04:28.08,0:04:30.89,Default,ko,0,0,0,,제너럴 이에야스, 지�
 Dialogue: 0,0:04:28.08,0:04:30.89,Default,en,0,0,0,,General Ieyasu, I'll show you right now.
 Comment: 0,0:04:30.89,0:04:33.96,Default,ja,0,0,0,,天下はこの闇将軍、ハンゾウがいただくのだ。
 Dialogue: 0,0:04:30.89,0:04:33.96,Default,ko,0,0,0,,천하는 이 어둠의 쇼군, 한조가 가져가겠다.
-Dialogue: 0,0:04:30.89,0:04:33.96,Default,en,0,0,0,,I, Hanzō, the shadow shogun, will take the world.
+Dialogue: 0,0:04:30.89,0:04:33.96,Default,en,0,0,0,,I, Hanzō, the shadow shōgun, will take the world.
 Comment: 0,0:04:33.96,0:04:37.30,Default,ja,0,0,0,,そのためにはイエヤスの孫娘、センヒメを。。。
 Dialogue: 0,0:04:33.96,0:04:37.30,Default,ko,0,0,0,,그를 위해 이에야스의 손녀 센히메를...
 Dialogue: 0,0:04:33.96,0:04:37.30,Default,en,0,0,0,,For that, I must do something with Ieyasu's granddaugher, Senhime.

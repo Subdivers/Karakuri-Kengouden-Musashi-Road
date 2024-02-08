@@ -259,7 +259,7 @@ Dialogue: 0,0:07:22.64,0:07:24.01,Default,ko,0,0,0,,누, 누, 누구이오!
 Dialogue: 0,0:07:22.64,0:07:24.01,Default,en,0,0,0,,W- w- who is that-{\i1}dasu{\i0}?!
 Comment: 0,0:07:27.98,0:07:34.00,Default,ja,0,0,0,,あら、何でこんなところにお団子が。ああ、コジロー奴、きいきかせてたらしい！
 Dialogue: 0,0:07:27.98,0:07:34.00,Default,ko,0,0,0,,어라, 왜 이런 곳에 단고... 코지로 놈도 참, 가끔은 소원도 들어주오!
-Dialogue: 0,0:07:27.98,0:07:34.00,Default,en,0,0,0,,Hey, why are {\i1}dango{\i0}s here? Kojirō sure grant me my wish sometimes-{\i1}dasu{\i0}!
+Dialogue: 0,0:07:27.98,0:07:34.00,Default,en,0,0,0,,Hey, why are dangos here? Kojirō sure grant me my wish sometimes-{\i1}dasu{\i0}!
 Comment: 0,0:07:34.69,0:07:37.83,Default,ja,0,0,0,,食べ物があるならあるとすなをいえばいいだす。
 Dialogue: 0,0:07:34.69,0:07:37.83,Default,ko,0,0,0,,먹을 게 있으면 고분고분히 말하면 될 것이오.
 Dialogue: 0,0:07:34.69,0:07:37.83,Default,en,0,0,0,,If he's with something to eat, he should tell me as-is-{\i1}dasu{\i0}.
@@ -274,7 +274,7 @@ Dialogue: 0,0:07:45.38,0:07:48.48,Default,ko,0,0,0,,어라, 못 본 새에 저�
 Dialogue: 0,0:07:45.38,0:07:48.48,Default,en,0,0,0,,Huh, it moved that far while I wasn't looking at-{\i1}dasu{\i0}.
 Comment: 0,0:07:49.81,0:07:54.28,Default,ja,0,0,0,,あら？ほら、待だス！全く生きのいい団子だスな。
 Dialogue: 0,0:07:49.81,0:07:54.28,Default,ko,0,0,0,,어라? 어이, 멈추시오! 거 참 활기찬 단고오!
-Dialogue: 0,0:07:49.81,0:07:54.28,Default,en,0,0,0,,Huh? Hey, stop-{\i1}dasu{\i0}! You're one active {\i1}dango{\i0}s!
+Dialogue: 0,0:07:49.81,0:07:54.28,Default,en,0,0,0,,Huh? Hey, stop-{\i1}dasu{\i0}! You're one active dangos!
 Comment: 0,0:07:55.65,0:07:58.94,Default,ja,0,0,0,,もう、ムサシたら、やっぱり怖がって逃げちゃってもんね。
 Dialogue: 0,0:07:55.65,0:07:58.94,Default,ko,0,0,0,,정말, 무사시도 참. 진짜로 무서워서 도망쳤나 봐.
 Dialogue: 0,0:07:55.65,0:07:58.94,Default,en,0,0,0,,I knew it. Musashi ran away because he was scared.
@@ -298,7 +298,7 @@ Dialogue: 0,0:08:10.00,0:08:11.54,Default,ko,0,0,0,,-어?\N-따라갑시다.
 Dialogue: 0,0:08:10.00,0:08:11.54,Default,en,0,0,0,,-Huh?\N-Let's follow him.
 Comment: 0,0:08:17.62,0:08:21.62,Default,ja,0,0,0,,あれ、お団子ちゃん、どこに隠れただスか。。。
 Dialogue: 0,0:08:17.62,0:08:21.62,Default,ko,0,0,0,,거 참, 단고쨩 어디로 숨었소...
-Dialogue: 0,0:08:17.62,0:08:21.62,Default,en,0,0,0,,I wonder where did that {\i1}dango{\i0}-chan hide to.
+Dialogue: 0,0:08:17.62,0:08:21.62,Default,en,0,0,0,,I wonder where did that dango-chan hide to.
 Comment: 0,0:08:21.72,0:08:24.30,Default,ja,0,0,0,,よ、ムサシ！久しぶりだな！
 Dialogue: 0,0:08:21.72,0:08:24.30,Default,ko,0,0,0,,어이, 무사시! 오랜만이다!
 Dialogue: 0,0:08:21.72,0:08:24.30,Default,en,0,0,0,,Hey, Musashi! Long time no see!
@@ -346,7 +346,7 @@ Dialogue: 0,0:09:15.96,0:09:19.60,Default,ko,0,0,0,,그, 그건 아무리 이시
 Dialogue: 0,0:09:15.96,0:09:19.60,Default,en,0,0,0,,I- I can't accept that wish even if it's Mr. Ishimatsu's one.
 Comment: 0,0:09:19.97,0:09:23.65,Default,ja,0,0,0,,あの時食った兄弟の団子はうまかったよな。
 Dialogue: 0,0:09:19.97,0:09:23.65,Default,ko,0,0,0,,그 때 먹은 단고는 맛있었지...
-Dialogue: 0,0:09:19.97,0:09:23.65,Default,en,0,0,0,,The {\i1}dango{\i0}s that we ate back then was great...
+Dialogue: 0,0:09:19.97,0:09:23.65,Default,en,0,0,0,,The dangos that we ate back then was great...
 Comment: 0,0:09:24.49,0:09:26.59,Default,ja,0,0,0,,そうだっただすな！
 Dialogue: 0,0:09:24.49,0:09:26.59,Default,ko,0,0,0,,그렇소!
 Dialogue: 0,0:09:24.49,0:09:26.59,Default,en,0,0,0,,You're right-{\i1}dasu{\i0}!
@@ -541,7 +541,7 @@ Dialogue: 0,0:13:27.58,0:13:31.17,Default,ko,0,0,0,,저, 그게... 나는 역시
 Dialogue: 0,0:13:27.58,0:13:31.17,Default,en,0,0,0,,You know... I don't want to die-{\i1}dasu{\i0}.
 Comment: 0,0:13:31.52,0:13:34.57,Default,ja,0,0,0,,あの時食った団子はうまかったよな！
 Dialogue: 0,0:13:31.52,0:13:34.57,Default,ko,0,0,0,,그 때 먹은 단고는 맛있었지...
-Dialogue: 0,0:13:31.52,0:13:34.57,Default,en,0,0,0,,The {\i1}dango{\i0}s that we ate back then was great...
+Dialogue: 0,0:13:31.52,0:13:34.57,Default,en,0,0,0,,The dangos that we ate back then was great...
 Comment: 0,0:13:34.57,0:13:36.17,Default,ja,0,0,0,,うまかっただス！
 Dialogue: 0,0:13:34.57,0:13:36.17,Default,ko,0,0,0,,맛있었소!
 Dialogue: 0,0:13:34.57,0:13:36.17,Default,en,0,0,0,,It was great-{\i1}dasu{\i0}!
@@ -667,7 +667,7 @@ Dialogue: 0,0:15:58.52,0:16:03.98,Default,ko,0,0,0,,이시마츠 씨! 외로운 
 Dialogue: 0,0:15:58.52,0:16:03.98,Default,en,0,0,0,,Mr. Ishimatsu! I get that you're lonely, but I want you to cross the Sanzu by yourself-{\i1}dasu{\i0}.
 Comment: 0,0:16:04.70,0:16:07.42,Default,ja,0,0,0,,あの時の団子はうまかったよな。
 Dialogue: 0,0:16:04.70,0:16:07.42,Default,ko,0,0,0,,그 때 먹은 단고는 맛있었지...
-Dialogue: 0,0:16:04.70,0:16:07.42,Default,en,0,0,0,,The {\i1}dango{\i0}s that we ate back then was great...
+Dialogue: 0,0:16:04.70,0:16:07.42,Default,en,0,0,0,,The dangos that we ate back then was great...
 Comment: 0,0:16:08.01,0:16:10.33,Default,ja,0,0,0,,そうだっただすね！・ムサシ！
 Dialogue: 0,0:16:08.01,0:16:10.33,Default,ko,0,0,0,,-그랬었소!\N-무사시!
 Dialogue: 0,0:16:08.01,0:16:10.33,Default,en,0,0,0,,-That's right-{\i1}dasu{\i0}!\N-Musashi!
@@ -676,7 +676,7 @@ Dialogue: 0,0:16:10.76,0:16:13.41,Default,ko,0,0,0,,넌 내가 말하는 걸 듣
 Dialogue: 0,0:16:10.76,0:16:13.41,Default,en,0,0,0,,You'd better listen to me!
 Comment: 0,0:16:15.40,0:16:18.96,Default,ja,0,0,0,,何？お前、あの時の団子はうまくなかったのか！
 Dialogue: 0,0:16:15.40,0:16:18.96,Default,ko,0,0,0,,뭐야? 너, 그 때 단고가실은 맛없었던 거냐!
-Dialogue: 0,0:16:15.40,0:16:18.96,Default,en,0,0,0,,What's this? Were the {\i1}dango{\i0}s you ate back then bad actually?!
+Dialogue: 0,0:16:15.40,0:16:18.96,Default,en,0,0,0,,What's this? Were the dangos you ate back then bad actually?!
 Comment: 0,0:16:19.17,0:16:23.38,Default,ja,0,0,0,,うまかったけれどそれよりももっとうまいパンチをおいらがくらっただす！
 Dialogue: 0,0:16:19.17,0:16:23.38,Default,ko,0,0,0,,맛있었지만 그것보다도 더 맛있는 펀치를 내가 주겠소!
 Dialogue: 0,0:16:19.17,0:16:23.38,Default,en,0,0,0,,It was great, but I will give you a greater punch-{\i1}dasu{\i0}!

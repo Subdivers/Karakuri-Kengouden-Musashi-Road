@@ -106,10 +106,10 @@ Dialogue: 0,0:03:33.11,0:03:35.35,Default,ko,0,0,0,,마츠카시의 석류 아�
 Dialogue: 0,0:03:33.11,0:03:35.35,Default,en,0,0,0,,Aren't these pomegranates from Matsukasi-{\i1}dasu{\i0}!?
 Comment: 0,0:03:39.24,0:03:39.98,Default,ja,0,0,0,,2問。
 Dialogue: 0,0:03:39.24,0:03:39.98,Default,ko,0,0,0,,2문.
-Dialogue: 0,0:03:39.24,0:03:39.98,Default,en,0,0,0,,2 {\i1}mon{\i0}s.
+Dialogue: 0,0:03:39.24,0:03:39.98,Default,en,0,0,0,,2 mons.
 Comment: 0,0:03:41.75,0:03:42.71,Default,ja,0,0,0,,2問。
 Dialogue: 0,0:03:41.75,0:03:42.71,Default,ko,0,0,0,,2문.
-Dialogue: 0,0:03:41.75,0:03:42.71,Default,en,0,0,0,,2 {\i1}mon{\i0}s.
+Dialogue: 0,0:03:41.75,0:03:42.71,Default,en,0,0,0,,2 mons.
 Comment: 0,0:03:43.98,0:03:45.19,Default,ja,0,0,0,,お金を払え！
 Dialogue: 0,0:03:43.98,0:03:45.19,Default,ko,0,0,0,,돈을 내!
 Dialogue: 0,0:03:43.98,0:03:45.19,Default,en,0,0,0,,Pay the price!
@@ -259,10 +259,10 @@ Dialogue: 0,0:06:47.93,0:06:50.41,Default,ko,0,0,0,,무사시 씨라면 정말 �
 Dialogue: 0,0:06:47.93,0:06:50.41,Default,en,0,0,0,,Musashi really sounds like a name that I can depend on!
 Comment: 0,0:06:51.36,0:06:54.66,Default,ja,0,0,0,,さあさあ、どうぞ。味自慢のお団子です。
 Dialogue: 0,0:06:51.36,0:06:54.66,Default,ko,0,0,0,,자, 드세요! 맛 한번 끝내주는 단고에요.
-Dialogue: 0,0:06:51.36,0:06:54.66,Default,en,0,0,0,,You can eat this! These are be the best {\i1}dango{\i0}s you will ever have.
+Dialogue: 0,0:06:51.36,0:06:54.66,Default,en,0,0,0,,You can eat this! These are be the best dangos you will ever have.
 Comment: 0,0:06:54.81,0:06:57.70,Default,ja,0,0,0,,うわ、これはうまそうな団子だス！
 Dialogue: 0,0:06:54.81,0:06:57.70,Default,ko,0,0,0,,우와, 맛있어 보이는 단고이오!
-Dialogue: 0,0:06:54.81,0:06:57.70,Default,en,0,0,0,,Whoa, these {\i1}dango{\i0}s really look tasty-{\i1}dasu{\i0}!
+Dialogue: 0,0:06:54.81,0:06:57.70,Default,en,0,0,0,,Whoa, these dangos really look tasty-{\i1}dasu{\i0}!
 Comment: 0,0:06:57.87,0:06:59.29,Default,ja,0,0,0,,いっただきまーす
 Dialogue: 0,0:06:57.87,0:06:59.29,Default,ko,0,0,0,,잘 먹겠소!
 Dialogue: 0,0:06:57.87,0:06:59.29,Default,en,0,0,0,,Thank you for the meal!

@@ -218,7 +218,7 @@ Dialogue: 0,0:05:56.75,0:06:02.20,Default,ko,0,0,0,,오해이오, 오해이오! 
 Dialogue: 0,0:05:56.75,0:06:02.20,Default,en,0,0,0,,It's a misunderstanding-dasu! I just caught Sen-chan because she fell-dasu!
 Comment: 0,0:06:02.67,0:06:05.78,Default,ja,0,0,0,,あたし、せっかくお団子を差し入れにきたのよ。
 Dialogue: 0,0:06:02.67,0:06:05.78,Default,ko,0,0,0,,나, 기껏 단고 주러 왔더니!
-Dialogue: 0,0:06:02.67,0:06:05.78,Default,en,0,0,0,,I came to give you {\i1}dango{\i0}s and...
+Dialogue: 0,0:06:02.67,0:06:05.78,Default,en,0,0,0,,I came to give you dangos and...
 Comment: 0,0:06:06.10,0:06:07.02,Default,ja,0,0,0,,もう知らない！
 Dialogue: 0,0:06:06.10,0:06:07.02,Default,ko,0,0,0,,몰라!
 Dialogue: 0,0:06:06.10,0:06:07.02,Default,en,0,0,0,,I don't care anymore!
@@ -245,7 +245,7 @@ Dialogue: 0,0:06:18.11,0:06:19.49,Default,ko,0,0,0,,그런 거 아니오!
 Dialogue: 0,0:06:18.11,0:06:19.49,Default,en,0,0,0,,That's not it-dasu!
 Comment: 0,0:06:20.08,0:06:22.33,Default,ja,0,0,0,,ジライヤン、それ、おいらのお団子だす！
 Dialogue: 0,0:06:20.08,0:06:22.33,Default,ko,0,0,0,,지라이얀! 그거 내 단고오!
-Dialogue: 0,0:06:20.08,0:06:22.33,Default,en,0,0,0,,Jiraiyan! That's my {\i1}dango{\i0}s-dasu!
+Dialogue: 0,0:06:20.08,0:06:22.33,Default,en,0,0,0,,Jiraiyan! That's my dangos-dasu!
 Comment: 0,0:06:22.33,0:06:24.33,Default,ja,0,0,0,,やだよ、俺がもらったんだぞ。
 Dialogue: 0,0:06:22.33,0:06:24.33,Default,ko,0,0,0,,싫어. 내가 받았어.
 Dialogue: 0,0:06:22.33,0:06:24.33,Default,en,0,0,0,,No way. I got it!
@@ -394,7 +394,7 @@ Dialogue: 0,0:09:01.38,0:09:04.18,Default,ko,0,0,0,,그러니까, 무사시 씨 
 Dialogue: 0,0:09:01.38,0:09:04.18,Default,en,0,0,0,,You know that Mr. Musashi is bad!
 Comment: 0,0:09:04.18,0:09:08.02,Default,ja,0,0,0,,さき、お城へお団子の差し入れに行ったら、こともあろうか昼日中から、
 Dialogue: 0,0:09:04.18,0:09:08.02,Default,ko,0,0,0,,아까 단고 주러 갔더니 하필이면 대낮부터
-Dialogue: 0,0:09:04.18,0:09:08.02,Default,en,0,0,0,,When I went to give him {\i1}dango{\i0}s, he was publicly snuggling Senhime
+Dialogue: 0,0:09:04.18,0:09:08.02,Default,en,0,0,0,,When I went to give him dangos, he was publicly snuggling Senhime
 Comment: 0,0:09:08.02,0:09:13.40,Default,ja,0,0,0,,あたしの目の前で大っぴらに恥ずかし気もなく堂々とセンヒメ様と抱き合ってたんですもん。
 Dialogue: 0,0:09:08.02,0:09:13.40,Default,ko,0,0,0,,내 눈앞에서 대놓고 부끄러워하지도 않고 당당하게 센히메 님을 안고 있었어요!
 Dialogue: 0,0:09:08.02,0:09:13.40,Default,en,0,0,0,,without a sign of embarrassment in front of my bare eyes!
@@ -899,7 +899,7 @@ Dialogue: 0,0:21:29.41,0:21:32.26,Default,ko,0,0,0,,아, 오츠루, 무사했소
 Dialogue: 0,0:21:29.41,0:21:32.26,Default,en,0,0,0,,Otsuru, you're safe-dasu!
 Comment: 0,0:21:32.64,0:21:35.97,Default,ja,0,0,0,,ええ、でも、お団子が全部焼けちゃって。
 Dialogue: 0,0:21:32.64,0:21:35.97,Default,ko,0,0,0,,어, 그래도 단고가전부 타 버려서...
-Dialogue: 0,0:21:32.64,0:21:35.97,Default,en,0,0,0,,Yes, but all the {\i1}dango{\i0}s are burnt.
+Dialogue: 0,0:21:32.64,0:21:35.97,Default,en,0,0,0,,Yes, but all the dangos are burnt.
 Comment: 0,0:21:35.97,0:21:39.01,Default,ja,0,0,0,,だから、ムサシさんにしばらく差し入れできないわ。
 Dialogue: 0,0:21:35.97,0:21:39.01,Default,ko,0,0,0,,그래서 무사시 씨한테 당분간 못 줘.
 Dialogue: 0,0:21:35.97,0:21:39.01,Default,en,0,0,0,,That's why I can't give those to you for a while.
@@ -908,7 +908,7 @@ Dialogue: 0,0:21:40.25,0:21:42.12,Default,ko,0,0,0,,맛있는 냄새가 나오.
 Dialogue: 0,0:21:40.25,0:21:42.12,Default,en,0,0,0,,Something smells good-dasu.
 Comment: 0,0:21:44.78,0:21:47.11,Default,ja,0,0,0,,焼けたお団子がいっぱいあるんだす。
 Dialogue: 0,0:21:44.78,0:21:47.11,Default,ko,0,0,0,,구운 단고가 잔뜩 있소!
-Dialogue: 0,0:21:44.78,0:21:47.11,Default,en,0,0,0,,There are a lot of roasted {\i1}dango{\i0}s-dasu!
+Dialogue: 0,0:21:44.78,0:21:47.11,Default,en,0,0,0,,There are a lot of roasted dangos-dasu!
 Comment: 0,0:21:48.30,0:21:49.33,Default,ja,0,0,0,,こりゃうまいだス。
 Dialogue: 0,0:21:48.30,0:21:49.33,Default,ko,0,0,0,,이거 맛있소!
 Dialogue: 0,0:21:48.30,0:21:49.33,Default,en,0,0,0,,This is delicious-dasu!
@@ -926,10 +926,10 @@ Dialogue: 0,0:21:57.34,0:22:00.05,Default,ko,0,0,0,,좋소! 이건 명물이 될
 Dialogue: 0,0:21:57.34,0:22:00.05,Default,en,0,0,0,,Great! This will become a special product-dasu!
 Comment: 0,0:22:00.56,0:22:03.08,Default,ja,0,0,0,,焼き団子はいかがですか？
 Dialogue: 0,0:22:00.56,0:22:03.08,Default,ko,0,0,0,,구운 단고 어떠세요?
-Dialogue: 0,0:22:00.56,0:22:03.08,Default,en,0,0,0,,Would you like some roasted {\i1}dango{\i0}s?
+Dialogue: 0,0:22:00.56,0:22:03.08,Default,en,0,0,0,,Would you like some roasted dangos?
 Comment: 0,0:22:03.59,0:22:05.92,Default,ja,0,0,0,,焼き団子はいかがですか！
 Dialogue: 0,0:22:03.59,0:22:05.92,Default,ko,0,0,0,,구운 단고 어떠세요?
-Dialogue: 0,0:22:03.59,0:22:05.92,Default,en,0,0,0,,Try some roasted {\i1}dango{\i0}s!
+Dialogue: 0,0:22:03.59,0:22:05.92,Default,en,0,0,0,,Try some roasted dangos!
 Comment: 0,0:22:05.97,0:22:07.61,Default,ja,0,0,0,,おいしいですよ！
 Dialogue: 0,0:22:05.97,0:22:07.61,Default,ko,0,0,0,,맛있어요!
 Dialogue: 0,0:22:05.97,0:22:07.61,Default,en,0,0,0,,They're good!

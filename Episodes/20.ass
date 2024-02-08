@@ -204,7 +204,7 @@ Dialogue: 0,0:05:58.97,0:06:01.54,Default,ko,0,0,0,,-코지로?\N-가만히 두�
 Dialogue: 0,0:05:58.97,0:06:01.54,Default,en,0,0,0,,-Kojirō?\N-I can't just let this pass by.
 Comment: 0,0:06:03.28,0:06:08.22,Default,ja,0,0,0,,あれだけの金があったら、饅頭に、団子に、羊羹に。。。
 Dialogue: 0,0:06:03.28,0:06:08.22,Default,ko,0,0,0,,저만큼의 금이 있다면, 만두에 단고에 양갱에...
-Dialogue: 0,0:06:03.28,0:06:08.22,Default,en,0,0,0,,With gold that much, I'll be able to get dumplings, {\i1}dango{\i0}s, sweet red bean paste, ...
+Dialogue: 0,0:06:03.28,0:06:08.22,Default,en,0,0,0,,With gold that much, I'll be able to get dumplings, dangos, sweet red bean paste, ...
 Comment: 0,0:06:08.76,0:06:11.09,Default,ja,0,0,0,,腹いっぱい食べられるだす！
 Dialogue: 0,0:06:08.76,0:06:11.09,Default,ko,0,0,0,,배가 가득히 차도록 먹겠소!
 Dialogue: 0,0:06:08.76,0:06:11.09,Default,en,0,0,0,,I'll finally be able to fill my stomach to the full extent-{\i1}dasu{\i0}!
@@ -222,10 +222,10 @@ Dialogue: 0,0:06:32.48,0:06:40.28,Default,ko,0,0,0,,금괴인가... 그러나 �
 Dialogue: 0,0:06:32.48,0:06:40.28,Default,en,0,0,0,,Gold bars, eh... But this is not enough for redemption of failure of assaulting Senhime.
 Comment: 0,0:06:40.86,0:06:46.50,Default,ja,0,0,0,,もとより招致。これより何万、何百万両のくんしきぎょしらに献上したいと。
 Dialogue: 0,0:06:40.86,0:06:46.50,Default,ko,0,0,0,,잘 알고 있습니다. 이것보다도 몇만, 몇백 만 양의 군자금을 대신 바치고 싶다고...
-Dialogue: 0,0:06:40.86,0:06:46.50,Default,en,0,0,0,,We know that well. Not only this, but also we wanted to offer you war funds of thousands and millions of {\i1}ryo{\i0}s instead.
+Dialogue: 0,0:06:40.86,0:06:46.50,Default,en,0,0,0,,We know that well. Not only this, but also we wanted to offer you war funds of thousands and millions of ryos instead.
 Comment: 0,0:06:47.84,0:06:56.18,Default,ja,0,0,0,,それなら話が別だ。ゼネラルイエヤスを倒し、将軍となるには莫大な軍資金がいるからな。
 Dialogue: 0,0:06:47.84,0:06:56.18,Default,ko,0,0,0,,그렇다면 이야기가 다르다. 제너럴 이에야스를 쓰러뜨리고 쇼군이 되기 위한 막대한 군자금가 있으니 말이지.
-Dialogue: 0,0:06:47.84,0:06:56.18,Default,en,0,0,0,,Now that's an another story. There are lot of war funds required to take General Ieyasu down and become Shogun.
+Dialogue: 0,0:06:47.84,0:06:56.18,Default,en,0,0,0,,Now that's an another story. There are lot of war funds required to take General Ieyasu down and become Shōgun.
 Comment: 0,0:06:56.66,0:07:00.39,Default,ja,0,0,0,,は。シュテンともども、軍資金を作ってまいります。
 Dialogue: 0,0:06:56.66,0:07:00.39,Default,ko,0,0,0,,예. 슈텐과 함께 군자금을 만들어 오겠습니다.
 Dialogue: 0,0:06:56.66,0:07:00.39,Default,en,0,0,0,,Yessir. I'll be back after making war funds with Shuten.
@@ -255,7 +255,7 @@ Dialogue: 0,0:07:25.65,0:07:26.00,Default,ko,0,0,0,,예.
 Dialogue: 0,0:07:25.65,0:07:26.00,Default,en,0,0,0,,Yessir.
 Comment: 0,0:07:28.98,0:07:32.97,Default,ja,0,0,0,,そしてセンヒメを抑えた時、一気に幕府を倒す。
 Dialogue: 0,0:07:28.98,0:07:32.97,Default,ko,0,0,0,,그리고 센히메를 억누를 때, 단숨에 막부를 쓰러뜨리겠다.
-Dialogue: 0,0:07:28.98,0:07:32.97,Default,en,0,0,0,,And when we got Senhime in our hands, we'll take the shogunate down at once.
+Dialogue: 0,0:07:28.98,0:07:32.97,Default,en,0,0,0,,And when we got Senhime in our hands, we'll take the shōgunate down at once.
 Comment: 0,0:07:33.62,0:07:36.64,Default,ja,0,0,0,,後はこのハンゾウの天下となるのだ。
 Dialogue: 0,0:07:33.62,0:07:36.64,Default,ko,0,0,0,,그 이후에는 이 한조의 천하가 되는 것이다.
 Dialogue: 0,0:07:33.62,0:07:36.64,Default,en,0,0,0,,And then, the world will fall into my hands.
@@ -636,7 +636,7 @@ Dialogue: 0,0:21:32.01,0:21:36.64,Default,ko,0,0,0,,맞는 말입니다. 수행�
 Dialogue: 0,0:21:32.01,0:21:36.64,Default,en,0,0,0,,You're right. He should be practicing self-discipline, and moreover, this is a trip with an importan objective.
 Comment: 0,0:21:37.12,0:21:39.86,Default,ja,0,0,0,,腹減った。。。お団子。。。饅頭。。。
 Dialogue: 0,0:21:37.12,0:21:39.86,Default,ko,0,0,0,,배고프오... 단고... 만두...
-Dialogue: 0,0:21:37.12,0:21:39.86,Default,en,0,0,0,,I'm hungry... {\i1}Dango{\i0}... Dumpling...
+Dialogue: 0,0:21:37.12,0:21:39.86,Default,en,0,0,0,,I'm hungry... Dango... Dumpling...
 Comment: 0,0:21:40.44,0:21:42.30,Default,ja,0,0,0,,ムサシさん！・え？
 Dialogue: 0,0:21:40.44,0:21:42.30,Default,ko,0,0,0,,-무사시 씨!\N-어?
 Dialogue: 0,0:21:40.44,0:21:42.30,Default,en,0,0,0,,-Mr. Musashi!\N-Huh?

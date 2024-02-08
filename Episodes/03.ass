@@ -493,13 +493,13 @@ Dialogue: 0,0:12:35.31,0:12:37.44,Default,ko,0,0,0,,음... 이 정도이오.
 Dialogue: 0,0:12:35.31,0:12:37.44,Default,en,0,0,0,,About this much.
 Comment: 0,0:12:37.89,0:12:40.74,Default,ja,0,0,0,,うわ、安いな！二分でござるだスか。
 Dialogue: 0,0:12:37.89,0:12:40.74,Default,ko,0,0,0,,와, 저렴하오! 2분이오?
-Dialogue: 0,0:12:37.89,0:12:40.74,Default,en,0,0,0,,It's really cheap! Only two {\i1}bu{\i0}s-{\i1}dasu{\i0}?
+Dialogue: 0,0:12:37.89,0:12:40.74,Default,en,0,0,0,,It's really cheap! Only two bus-{\i1}dasu{\i0}?
 Comment: 0,0:12:40.74,0:12:42.65,Default,ja,0,0,0,,ご冗談を！20両です。
 Dialogue: 0,0:12:40.74,0:12:42.65,Default,ko,0,0,0,,심한 농담을! 20량이오.
-Dialogue: 0,0:12:40.74,0:12:42.65,Default,en,0,0,0,,You're joking! It's 20 {\i1}ryo{\i0}s.
+Dialogue: 0,0:12:40.74,0:12:42.65,Default,en,0,0,0,,You're joking! It's 20 ryos.
 Comment: 0,0:12:43.58,0:12:45.06,Default,ja,0,0,0,,20両？
 Dialogue: 0,0:12:43.58,0:12:45.06,Default,ko,0,0,0,,20량?!
-Dialogue: 0,0:12:43.58,0:12:45.06,Default,en,0,0,0,,20 {\i1}ryo{\i0}s?!
+Dialogue: 0,0:12:43.58,0:12:45.06,Default,en,0,0,0,,20 ryos?!
 Comment: 0,0:12:45.65,0:12:47.66,Default,ja,0,0,0,,おや、ご無理で？
 Dialogue: 0,0:12:45.65,0:12:47.66,Default,ko,0,0,0,,어라, 무리인가요?
 Dialogue: 0,0:12:45.65,0:12:47.66,Default,en,0,0,0,,Is it too much?
@@ -514,22 +514,22 @@ Dialogue: 0,0:12:56.34,0:12:57.97,Default,ko,0,0,0,,그럼 이건 어떤가요?
 Dialogue: 0,0:12:56.34,0:12:57.97,Default,en,0,0,0,,Then how is this?
 Comment: 0,0:12:58.83,0:13:01.20,Default,ja,0,0,0,,これならおまけして、2両5分。
 Dialogue: 0,0:12:58.83,0:13:01.20,Default,ko,0,0,0,,이거라면 깎아서 2량 5분!
-Dialogue: 0,0:12:58.83,0:13:01.20,Default,en,0,0,0,,With discount, it only costs 2 {\i1}ryo{\i0}s 5 {\i1}bu{\i0}s!
+Dialogue: 0,0:12:58.83,0:13:01.20,Default,en,0,0,0,,With discount, it only costs 2 ryos 5 bus!
 Comment: 0,0:13:02.69,0:13:04.94,Default,ja,0,0,0,,こんなのどうだい、1両2分！
 Dialogue: 0,0:13:02.69,0:13:04.94,Default,ko,0,0,0,,이거라면 어때요? 1량 2분!
-Dialogue: 0,0:13:02.69,0:13:04.94,Default,en,0,0,0,,How's this? 1 {\i1}ryo{\i0} 2 {\i1}bu{\i0}s!
+Dialogue: 0,0:13:02.69,0:13:04.94,Default,en,0,0,0,,How's this? 1 ryo 2 bus!
 Comment: 0,0:13:04.94,0:13:05.43,Default,ja,0,0,0,,まだまだ！
 Dialogue: 0,0:13:04.94,0:13:05.43,Default,ko,0,0,0,,아직아직!
 Dialogue: 0,0:13:04.94,0:13:05.43,Default,en,0,0,0,,More!
 Comment: 0,0:13:05.43,0:13:06.72,Default,ja,0,0,0,,1両ジャスト！
 Dialogue: 0,0:13:05.43,0:13:06.72,Default,ko,0,0,0,,단돈 1양!
-Dialogue: 0,0:13:05.43,0:13:06.72,Default,en,0,0,0,,Just 1 {\i1}ryo{\i0}!
+Dialogue: 0,0:13:05.43,0:13:06.72,Default,en,0,0,0,,Just 1 ryo!
 Comment: 0,0:13:06.72,0:13:07.41,Default,ja,0,0,0,,もういっちょ！
 Dialogue: 0,0:13:06.72,0:13:07.41,Default,ko,0,0,0,,좀만 더!
 Dialogue: 0,0:13:06.72,0:13:07.41,Default,en,0,0,0,,A bit more!
 Comment: 0,0:13:07.41,0:13:09.78,Default,ja,0,0,0,,もうおまけども9分でどうだ！
 Dialogue: 0,0:13:07.41,0:13:09.78,Default,ko,0,0,0,,거저나 다름없는 9분 어떱니까?
-Dialogue: 0,0:13:07.41,0:13:09.78,Default,en,0,0,0,,9 {\i1}bu{\i0}s then! It's practically free!
+Dialogue: 0,0:13:07.41,0:13:09.78,Default,en,0,0,0,,9 bus then! It's practically free!
 Comment: 0,0:13:09.78,0:13:10.54,Default,ja,0,0,0,,もうし底へ！
 Dialogue: 0,0:13:09.78,0:13:10.54,Default,ko,0,0,0,,쪼끔만 더 낮추면!
 Dialogue: 0,0:13:09.78,0:13:10.54,Default,en,0,0,0,,A tiny bit more!
@@ -547,10 +547,10 @@ Dialogue: 0,0:13:20.38,0:13:22.66,Default,ko,0,0,0,,이보다 저렴한 검은 �
 Dialogue: 0,0:13:20.38,0:13:22.66,Default,en,0,0,0,,This is the cheapest sword here!
 Comment: 0,0:13:22.66,0:13:24.53,Default,ja,0,0,0,,ズバリ3分ジャスト！
 Dialogue: 0,0:13:22.66,0:13:24.53,Default,ko,0,0,0,,딱 3분!
-Dialogue: 0,0:13:22.66,0:13:24.53,Default,en,0,0,0,,Exactly 3 {\i1}bu{\i0}s!
+Dialogue: 0,0:13:22.66,0:13:24.53,Default,en,0,0,0,,Exactly 3 bus!
 Comment: 0,0:13:26.30,0:13:28.61,Default,ja,0,0,0,,2分半にまかなんだスか。
 Dialogue: 0,0:13:26.30,0:13:28.61,Default,ko,0,0,0,,2분 반 되오?
-Dialogue: 0,0:13:26.30,0:13:28.61,Default,en,0,0,0,,Can you make it 2 {\i1}bu{\i0}s and a half-{\i1}dasu{\i0}?
+Dialogue: 0,0:13:26.30,0:13:28.61,Default,en,0,0,0,,Can you make it 2 bus and a half-{\i1}dasu{\i0}?
 Comment: 0,0:13:34.05,0:13:35.49,Default,ja,0,0,0,,ついに手に入れただス、
 Dialogue: 0,0:13:34.05,0:13:35.49,Default,ko,0,0,0,,드디어 손에 넣었소.
 Dialogue: 0,0:13:34.05,0:13:35.49,Default,en,0,0,0,,It's finally mine-{\i1}dasu{\i0}.

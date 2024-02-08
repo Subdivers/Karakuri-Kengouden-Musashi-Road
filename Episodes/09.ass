@@ -262,7 +262,7 @@ Dialogue: 0,0:06:56.79,0:06:58.14,Default,ko,0,0,0,,기다리셨습니다.
 Dialogue: 0,0:06:56.79,0:06:58.14,Default,en,0,0,0,,Here is your order!
 Comment: 0,0:06:58.29,0:07:01.53,Default,ja,0,0,0,,うわ！おいらは団子では目がないんだス！
 Dialogue: 0,0:06:58.29,0:07:01.53,Default,ko,0,0,0,,우와! 난 단고를 보면 눈이 돌아가오!
-Dialogue: 0,0:06:58.29,0:07:01.53,Default,en,0,0,0,,Whoa! I absolutely love {\i1}dango{\i0}s-{\i1}dasu{\i0}!
+Dialogue: 0,0:06:58.29,0:07:01.53,Default,en,0,0,0,,Whoa! I absolutely love dangos-{\i1}dasu{\i0}!
 Comment: 0,0:07:02.28,0:07:07.43,Default,ja,0,0,0,,そうかい、そうかい！ムサシ、お前、岡山穴の生まれだってな！
 Dialogue: 0,0:07:02.28,0:07:07.43,Default,ko,0,0,0,,그렇구나, 그래! 무사시, 너, 오카야마나에서 태어났다고?
 Dialogue: 0,0:07:02.28,0:07:07.43,Default,en,0,0,0,,Indeed, I see! Musashi, you said you were born at Okayamāna, right?
@@ -271,7 +271,7 @@ Dialogue: 0,0:07:07.91,0:07:10.44,Default,ko,0,0,0,,그렇소. 미야모토 마�
 Dialogue: 0,0:07:07.91,0:07:10.44,Default,en,0,0,0,,Right. I've came from Miyamoto village-{\i1}dasu{\i0}.
 Comment: 0,0:07:10.88,0:07:14.03,Default,ja,0,0,0,,おう、食入ね、食入ね！団子でも食入ね
 Dialogue: 0,0:07:10.88,0:07:14.03,Default,ko,0,0,0,,어, 먹어라, 먹어! 단고라도 얼마든지 먹어라!
-Dialogue: 0,0:07:10.88,0:07:14.03,Default,en,0,0,0,,Eat, eat! Eat your {\i1}dango{\i0}s!
+Dialogue: 0,0:07:10.88,0:07:14.03,Default,en,0,0,0,,Eat, eat! Eat your dangos!
 Comment: 0,0:07:14.25,0:07:15.76,Default,ja,0,0,0,,では、遠慮なく！
 Dialogue: 0,0:07:14.25,0:07:15.76,Default,ko,0,0,0,,그럼 사양않고!
 Dialogue: 0,0:07:14.25,0:07:15.76,Default,en,0,0,0,,Then, without hesitation!
@@ -352,7 +352,7 @@ Dialogue: 0,0:08:41.30,0:08:43.37,Default,ko,0,0,0,,쳇, 시시한 가게군!
 Dialogue: 0,0:08:41.30,0:08:43.37,Default,en,0,0,0,,Hmph, what an unprepared place!
 Comment: 0,0:08:43.88,0:08:47.45,Default,ja,0,0,0,,まあ、仕方ねぇ。代わりにこの団子ですますか！
 Dialogue: 0,0:08:43.88,0:08:47.45,Default,ko,0,0,0,,뭐, 어쩔 수 없지. 대신 이 단고로 끝낼까!
-Dialogue: 0,0:08:43.88,0:08:47.45,Default,en,0,0,0,,Well then, let's end this with these {\i1}dango{\i0}s!
+Dialogue: 0,0:08:43.88,0:08:47.45,Default,en,0,0,0,,Well then, let's end this with these dangos!
 Comment: 0,0:08:51.19,0:08:53.53,Default,ja,0,0,0,,さあ、兄弟！よろしく頼むぜ！
 Dialogue: 0,0:08:51.19,0:08:53.53,Default,ko,0,0,0,,자! 형제! 잘 부탁한다!
 Dialogue: 0,0:08:51.19,0:08:53.53,Default,en,0,0,0,,Brother! Looking forwards of us!
@@ -412,7 +412,7 @@ Dialogue: 0,0:09:53.40,0:09:57.36,Default,ko,0,0,0,,어? 계산은 이시마츠 
 Dialogue: 0,0:09:53.40,0:09:57.36,Default,en,0,0,0,,Huh? Didn't Mr. Ishimatsu paid you-{\i1}dasu{\i0}?
 Comment: 0,0:09:57.61,0:10:02.03,Default,ja,0,0,0,,いいえ、ぜんぜん！お団子50本で、ちょうど百門です！
 Dialogue: 0,0:09:57.61,0:10:02.03,Default,ko,0,0,0,,아니요, 전혀! 단고 50봉 딱 100문이오!
-Dialogue: 0,0:09:57.61,0:10:02.03,Default,en,0,0,0,,Nope, not at all! 50 {\i1}dango{\i0}s, total 100 {\i1}mon{\i0}s!
+Dialogue: 0,0:09:57.61,0:10:02.03,Default,en,0,0,0,,Nope, not at all! 50 dangos, total 100 mons!
 Comment: 0,0:10:02.14,0:10:06.04,Default,ja,0,0,0,,あ、そう言われても、無い袖は振れないだスよ。。。
 Dialogue: 0,0:10:02.14,0:10:06.04,Default,ko,0,0,0,,어, 그렇게 말해도 없는 것은 어쩔 수 없소...
 Dialogue: 0,0:10:02.14,0:10:06.04,Default,en,0,0,0,,Even if you say so, I can't pay what I don't have-{\i1}dasu{\i0}...
@@ -466,7 +466,7 @@ Dialogue: 0,0:10:51.01,0:10:52.11,Default,ko,0,0,0,,한 그릇 더 주오!
 Dialogue: 0,0:10:51.01,0:10:52.11,Default,en,0,0,0,,One more dish-{\i1}dasu{\i0}!
 Comment: 0,0:10:53.48,0:10:57.63,Default,ja,0,0,0,,よく食うね、さっき団子死にほど食ったくせに。
 Dialogue: 0,0:10:53.48,0:10:57.63,Default,ko,0,0,0,,잘 먹네, 아까 단고 죽을 정도로 쳐먹은 주제에.
-Dialogue: 0,0:10:53.48,0:10:57.63,Default,en,0,0,0,,You eat pretty well, for one who already ate {\i1}dango{\i0}s to death.
+Dialogue: 0,0:10:53.48,0:10:57.63,Default,en,0,0,0,,You eat pretty well, for one who already ate dangos to death.
 Comment: 0,0:10:57.77,0:11:03.97,Default,ja,0,0,0,,おいら、刀だけじゃなくて、食べることでも、ジパングナンバーワンの武芸者を目指しているだス。
 Dialogue: 0,0:10:57.77,0:11:03.97,Default,ko,0,0,0,,난 칼뿐만이 아니라 먹는 것도 지팡구 제일의 무예가를 꿈꾸오.
 Dialogue: 0,0:10:57.77,0:11:03.97,Default,en,0,0,0,,I'm seeking to be the number one martial artist, not only in swords, but also in eating-{\i1}dasu{\i0}.

@@ -272,7 +272,7 @@ Dialogue: 0,0:08:45.55,0:08:46.67,Default,ko,0,0,0,,뭐, 뭣이오?
 Dialogue: 0,0:08:45.55,0:08:46.67,Default,en,0,0,0,,Wh- what're you doing-{\i1}dasu{\i0}?!
 Comment: 0,0:08:46.87,0:08:49.54,Default,ja,0,0,0,,ゼニガタン、{???}四門字投げでぇい！
 Dialogue: 0,0:08:46.87,0:08:49.54,Default,ko,0,0,0,,제니가탄! 4문자 던지기!
-Dialogue: 0,0:08:46.87,0:08:49.54,Default,en,0,0,0,,Zenigatan! 4-{\i1}mon{\i0} Coin Throw!
+Dialogue: 0,0:08:46.87,0:08:49.54,Default,en,0,0,0,,Zenigatan! 4-mon Coin Throw!
 Comment: 0,0:08:58.10,0:09:00.18,Default,ja,0,0,0,,金なんか投げていけないんだスよ！
 Dialogue: 0,0:08:58.10,0:09:00.18,Default,ko,0,0,0,,돈을 던지면 안 되오!
 Dialogue: 0,0:08:58.10,0:09:00.18,Default,en,0,0,0,,You shouldn't throw money-{\i1}dasu{\i0}!
@@ -284,7 +284,7 @@ Dialogue: 0,0:09:07.05,0:09:08.04,Default,ko,0,0,0,,끝장이다!
 Dialogue: 0,0:09:07.05,0:09:08.04,Default,en,0,0,0,,Finish!
 Comment: 0,0:09:08.04,0:09:09.84,Default,ja,0,0,0,,四門字超弩級だい！
 Dialogue: 0,0:09:08.04,0:09:09.84,Default,ko,0,0,0,,4문자 초특급이다!
-Dialogue: 0,0:09:08.04,0:09:09.84,Default,en,0,0,0,,4-{\i1}mon{\i0} coin, supersized!
+Dialogue: 0,0:09:08.04,0:09:09.84,Default,en,0,0,0,,4-mon coin, supersized!
 Comment: 0,0:09:16.28,0:09:17.39,Default,ja,0,0,0,,やったでい！
 Dialogue: 0,0:09:16.28,0:09:17.39,Default,ko,0,0,0,,잡았다!
 Dialogue: 0,0:09:16.28,0:09:17.39,Default,en,0,0,0,,Got you!
@@ -717,7 +717,7 @@ Dialogue: 0,0:20:18.81,0:20:21.25,Default,ko,0,0,0,,안타깝군. 아직 있다!
 Dialogue: 0,0:20:18.81,0:20:21.25,Default,en,0,0,0,,Too bad, but I still have some!
 Comment: 0,0:20:29.89,0:20:33.51,Default,ja,0,0,0,,ビックコイン！よもんじん! なげ！
 Dialogue: 0,0:20:29.89,0:20:33.51,Default,ko,0,0,0,,빅 코인! 4문자 던지기!
-Dialogue: 0,0:20:29.89,0:20:33.51,Default,en,0,0,0,,Big coin! 4-{\i1}mon{\i0} coin throw!
+Dialogue: 0,0:20:29.89,0:20:33.51,Default,en,0,0,0,,Big coin! 4-mon coin throw!
 Comment: 0,0:20:45.19,0:20:48.99,Default,ja,0,0,0,,ちっ、椅子に宿ったおかげで、ちっと方向が変わちまったな。
 Dialogue: 0,0:20:45.19,0:20:48.99,Default,ko,0,0,0,,칫, 의자로 막은 덕에 조금 방향이 어긋났구나.
 Dialogue: 0,0:20:45.19,0:20:48.99,Default,en,0,0,0,,Hmph, that chair made me miss the target.

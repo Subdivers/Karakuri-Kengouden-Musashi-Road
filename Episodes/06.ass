@@ -227,16 +227,16 @@ Dialogue: 0,0:05:48.92,0:05:51.55,Default,ko,0,0,0,,아니, 정말 고맙소. �
 Dialogue: 0,0:05:48.92,0:05:51.55,Default,en,0,0,0,,Err, thanks. I'm grateful-dasu.
 Comment: 0,0:05:52.27,0:05:57.91,Default,ja,0,0,0,,さあさあ。あちらに茶店が見えます。団子など頂きながら大先生のお話を伺いたい。
 Dialogue: 0,0:05:52.27,0:05:57.91,Default,ko,0,0,0,,자, 자, 저기에 찻집이 보입니다. 단고라도 드실 동안 대선생의 말씀을 생각하고 싶습니다.
-Dialogue: 0,0:05:52.27,0:05:57.91,Default,en,0,0,0,,I see a tea house over there. I want to think about your teachings while you have some {\i1}dango{\i0}s.
+Dialogue: 0,0:05:52.27,0:05:57.91,Default,en,0,0,0,,I see a tea house over there. I want to think about your teachings while you have some dangos.
 Comment: 0,0:05:58.14,0:05:58.93,Default,ja,0,0,0,,団子？
 Dialogue: 0,0:05:58.14,0:05:58.93,Default,ko,0,0,0,,단고?!
-Dialogue: 0,0:05:58.14,0:05:58.93,Default,en,0,0,0,,{\i1}Dango{\i0}?!
+Dialogue: 0,0:05:58.14,0:05:58.93,Default,en,0,0,0,,Dango?!
 Comment: 0,0:06:01.64,0:06:08.51,Default,ja,0,0,0,,仕方がないだス。団子に免じて、いやいや、おぬしの熱意に免じてお話してやるだス。
 Dialogue: 0,0:06:01.64,0:06:08.51,Default,ko,0,0,0,,어, 어쩔 수가 없소. 단고에는 눈이 돌아, 아니아니, 네 열의에 눈이 돌았으니 이야기를 하겠소.
-Dialogue: 0,0:06:01.64,0:06:08.51,Default,en,0,0,0,,I can't refuse that-{\i1}dasu{\i0}. I have no eyes for {\i1}dango{\i0}, no, for your enthusiasm, so I'll talk with you-{\i1}dasu{\i0}.
+Dialogue: 0,0:06:01.64,0:06:08.51,Default,en,0,0,0,,I can't refuse that-{\i1}dasu{\i0}. I have no eyes for dango, no, for your enthusiasm, so I'll talk with you-{\i1}dasu{\i0}.
 Comment: 0,0:06:11.20,0:06:16.59,Default,ja,0,0,0,,いや、さすがに大先生！だんごの食べ方も実に男らしく豪快でござるな。
 Dialogue: 0,0:06:11.20,0:06:16.59,Default,ko,0,0,0,,이야, 역시 대선생! 단고를 먹는 방법도 참으로 사내답게 호쾌하시군요.
-Dialogue: 0,0:06:11.20,0:06:16.59,Default,en,0,0,0,,That's my master! The way you eat {\i1}dango{\i0}s is so manly and superb.
+Dialogue: 0,0:06:11.20,0:06:16.59,Default,en,0,0,0,,That's my master! The way you eat dangos is so manly and superb.
 Comment: 0,0:06:16.59,0:06:22.62,Default,ja,0,0,0,,うん、武芸者{???}
 Dialogue: 0,0:06:16.59,0:06:22.62,Default,ko,0,0,0,,응, 무예가라면 먹을 때에도 사양하면 안 되오.
 Dialogue: 0,0:06:16.59,0:06:22.62,Default,en,0,0,0,,Righ{\alphaa0}t{\alpha0}, i{\alphaa0}f{\alpha0} you a{\alphaa0}re{\alpha0} a {\alphaa0}s{\alpha0}wo{\alphaa0}rd{\alpha0}s{\alphaa0}m{\alpha0}an, e{\alphaa0}ve{\alpha0}n w{\alphaa0}h{\alpha0}en you ea{\alphaa0}t{\alpha0}, you mu{\alphaa0}st n{\alpha0}o{\alpha0}t {\alphaa0}b{\alpha0}e mo{\alphaa0}d{\alpha0}es{\alphaa0}t{\alpha0}.
@@ -257,10 +257,10 @@ Dialogue: 0,0:06:40.01,0:06:41.73,Default,ko,0,0,0,,주인장! 얼마이오?
 Dialogue: 0,0:06:40.01,0:06:41.73,Default,en,0,0,0,,Owner! How much are they-{\i1}dasu{\i0}?
 Comment: 0,0:06:41.90,0:06:43.37,Default,ja,0,0,0,,へい、百問で。
 Dialogue: 0,0:06:41.90,0:06:43.37,Default,ko,0,0,0,,네, 100문입니다.
-Dialogue: 0,0:06:41.90,0:06:43.37,Default,en,0,0,0,,They are 100 {\i1}mon{\i0}s.
+Dialogue: 0,0:06:41.90,0:06:43.37,Default,en,0,0,0,,They are 100 mons.
 Comment: 0,0:06:44.08,0:06:45.44,Default,ja,0,0,0,,百問？
 Dialogue: 0,0:06:44.08,0:06:45.44,Default,ko,0,0,0,,100문?!
-Dialogue: 0,0:06:44.08,0:06:45.44,Default,en,0,0,0,,100 {\i1}mon{\i0}s?!
+Dialogue: 0,0:06:44.08,0:06:45.44,Default,en,0,0,0,,100 mons?!
 Comment: 0,0:06:46.17,0:06:48.24,Default,ja,0,0,0,,そんなかねどこにもないだス。
 Dialogue: 0,0:06:46.17,0:06:48.24,Default,ko,0,0,0,,그, 그런 돈은 어디에도 없소...
 Dialogue: 0,0:06:46.17,0:06:48.24,Default,en,0,0,0,,I have no money for that-{\i1}dasu{\i0}...
@@ -286,7 +286,7 @@ Dialogue: 0,0:07:07.61,0:07:09.41,Default,ko,0,0,0,,지팡구 무예 대회인�
 Dialogue: 0,0:07:07.61,0:07:09.41,Default,en,0,0,0,,Jipangu Martial Arts Competition?
 Comment: 0,0:07:09.68,0:07:16.80,Default,ja,0,0,0,,はい。エドトピアの将軍イエヤス公が主催するジパング1の武芸大会で、毎年年末に行われます。
 Dialogue: 0,0:07:09.68,0:07:16.80,Default,ko,0,0,0,,예. 에도토피아의 쇼군 이에야스 공이 주최하는 지팡구 제일의 무예 대회로 매년 연말에 열립니다.
-Dialogue: 0,0:07:09.68,0:07:16.80,Default,en,0,0,0,,Yes. It is the most important martial arts competition of Jipangu at every year-end by Ieyasu, the shogun of Edotopia.
+Dialogue: 0,0:07:09.68,0:07:16.80,Default,en,0,0,0,,Yes. It is the most important martial arts competition of Jipangu at every year-end by Ieyasu, the shōgun of Edotopia.
 Comment: 0,0:07:17.42,0:07:18.87,Default,ja,0,0,0,,それに優勝すれば？
 Dialogue: 0,0:07:17.42,0:07:18.87,Default,ko,0,0,0,,거기서 우승하면?
 Dialogue: 0,0:07:17.42,0:07:18.87,Default,en,0,0,0,,What happens if I win?
@@ -529,7 +529,7 @@ Dialogue: 0,0:13:43.19,0:13:46.70,NoteOnAnimeVert,ko,0,0,0,,{\frz-70\fry-20\fs80
 Dialogue: 0,0:13:43.19,0:13:46.70,NoteOnAnime,en,0,0,0,,{\frz-74\fry-10\fs64\move(427,92,427,660)\c&H7790B2&}Hōzō Temple
 Comment: 0,0:13:44.60,0:13:47.64,Default,ja,0,0,0,,果たして幕府を倒す謀反のたくらみがあるのか。
 Dialogue: 0,0:13:44.60,0:13:47.64,Default,ko,0,0,0,,{\i1}과연 막부 정권을 쓰러뜨릴 반역 음모가 있는 것인가.
-Dialogue: 0,0:13:44.60,0:13:47.64,Default,en,0,0,0,,{\i1}Are they planning to rebel over the shogunate government?
+Dialogue: 0,0:13:44.60,0:13:47.64,Default,en,0,0,0,,{\i1}Are they planning to rebel over the shōgunate government?
 Comment: 0,0:13:51.64,0:13:54.07,Default,ja,0,0,0,,子供の武芸者が侵入だと？
 Dialogue: 0,0:13:51.64,0:13:54.07,Default,ko,0,0,0,,아이 무예가가 침입자라?
 Dialogue: 0,0:13:51.64,0:13:54.07,Default,en,0,0,0,,A kid martial artist invaded?
@@ -599,13 +599,13 @@ Dialogue: 0,0:15:24.01,0:15:27.29,Default,ko,0,0,0,,무슨 소립니까, 스승�
 Dialogue: 0,0:15:24.01,0:15:27.29,Default,en,0,0,0,,What are you saying, master? This is also what a student does.
 Comment: 0,0:15:27.40,0:15:31.30,Default,ja,0,0,0,,さあさあ、好物の団子も用意させて頂きました。はい、どうぞ。
 Dialogue: 0,0:15:27.40,0:15:31.30,Default,ko,0,0,0,,자, 좋아하시는 음식인 단고도 드십시오. 여기 있습니다.
-Dialogue: 0,0:15:27.40,0:15:31.30,Default,en,0,0,0,,Here it is. Your favorite food is {\i1}dango{\i0}, right?
+Dialogue: 0,0:15:27.40,0:15:31.30,Default,en,0,0,0,,Here it is. Your favorite food is dango, right?
 Comment: 0,0:15:32.80,0:15:35.27,Default,ja,0,0,0,,うまい！とってもうまいだス。
 Dialogue: 0,0:15:32.80,0:15:35.27,Default,ko,0,0,0,,맛있소! 정말 맛있소!
 Dialogue: 0,0:15:32.80,0:15:35.27,Default,en,0,0,0,,So good! It's excellent-{\i1}dasu{\i0}!
 Comment: 0,0:15:36.09,0:15:42.21,Default,ja,0,0,0,,これはもち米やゴマの粉を蜂蜜などで練り固めた非常食で、栄養たっぷりの団子です。
 Dialogue: 0,0:15:36.09,0:15:42.21,Default,ko,0,0,0,,이건 찹쌀이나 참깨를 뿌린 벌꿀 등으로 개어서 굳힌 비상식으로 영양이 듬뿍 담긴 단고입니다.
-Dialogue: 0,0:15:36.09,0:15:42.21,Default,en,0,0,0,,These are nutritious {\i1}dango{\i0}s made with sticky rice, sesame, and honey, which also serve as emergency rations.
+Dialogue: 0,0:15:36.09,0:15:42.21,Default,en,0,0,0,,These are nutritious dangos made with sticky rice, sesame, and honey, which also serve as emergency rations.
 Comment: 0,0:15:42.97,0:15:45.08,Default,ja,0,0,0,,すごいもの持ってるだスな。
 Dialogue: 0,0:15:42.97,0:15:45.08,Default,ko,0,0,0,,대단한 걸 가지고 있소!
 Dialogue: 0,0:15:42.97,0:15:45.08,Default,en,0,0,0,,You have awesome things-{\i1}dasu{\i0}!
@@ -845,10 +845,10 @@ Dialogue: 0,0:21:20.48,0:21:25.87,Default,ko,0,0,0,,아니오. 사과할 쪽은 
 Dialogue: 0,0:21:20.48,0:21:25.87,Default,en,0,0,0,,No. It's me who have to apologize. I am Jūbee of Yagyū Family(柳生家).
 Comment: 0,0:21:26.36,0:21:29.84,Default,ja,0,0,0,,柳生家？っと言えば、将軍の親愛やく。
 Dialogue: 0,0:21:26.36,0:21:29.84,Default,ko,0,0,0,,야규 가? 그 말은 쇼군의 친애를 받는...
-Dialogue: 0,0:21:26.36,0:21:29.84,Default,en,0,0,0,,Yagyū Family? Then you must be directly under the shogun...
+Dialogue: 0,0:21:26.36,0:21:29.84,Default,en,0,0,0,,Yagyū Family? Then you must be directly under the shōgun...
 Comment: 0,0:21:30.50,0:21:35.82,Default,ja,0,0,0,,将軍の命令でホーゾーインの様子を探るため、ムサシ殿を利用したのです。
 Dialogue: 0,0:21:30.50,0:21:35.82,Default,ko,0,0,0,,쇼군의 명령으로 호조인의 모습을 정탐하기 위해 무사시 님을 이용했습니다.
-Dialogue: 0,0:21:30.50,0:21:35.82,Default,en,0,0,0,,I used you, Musashi, to spy upon Hōzōin, under the order of the shogun.
+Dialogue: 0,0:21:30.50,0:21:35.82,Default,en,0,0,0,,I used you, Musashi, to spy upon Hōzōin, under the order of the shōgun.
 Comment: 0,0:21:36.27,0:21:37.76,Default,ja,0,0,0,,この通り誤ります。
 Dialogue: 0,0:21:36.27,0:21:37.76,Default,ko,0,0,0,,그런 이유로 사과드립니다.
 Dialogue: 0,0:21:36.27,0:21:37.76,Default,en,0,0,0,,That's why I must apologize.

@@ -168,7 +168,7 @@ Dialogue: 0,0:05:41.90,0:05:45.00,Default,ko,0,0,0,,그러고 보니 어젯밤�
 Dialogue: 0,0:05:41.90,0:05:45.00,Default,en,0,0,0,,I just remembered that I didn't eat anything since last night-{\i1}dasu{\i0}.
 Comment: 0,0:05:46.47,0:05:50.13,Default,ja,0,0,0,,すいませんだす！この辺にお団子やさんないだスか！
 Dialogue: 0,0:05:46.47,0:05:50.13,Default,ko,0,0,0,,실례하오! 이 주변에 단고집 있소?
-Dialogue: 0,0:05:46.47,0:05:50.13,Default,en,0,0,0,,Excuse me-{\i1}dasu{\i0}! Is there a {\i1}dango{\i0} house around here-{\i1}dasu{\i0}?
+Dialogue: 0,0:05:46.47,0:05:50.13,Default,en,0,0,0,,Excuse me-{\i1}dasu{\i0}! Is there a dango house around here-{\i1}dasu{\i0}?
 Comment: 0,0:05:53.10,0:05:54.16,Default,ja,0,0,0,,もしもしだす！
 Dialogue: 0,0:05:53.10,0:05:54.16,Default,ko,0,0,0,,누구 있소?
 Dialogue: 0,0:05:53.10,0:05:54.16,Default,en,0,0,0,,Hello-{\i1}dasu{\i0}?
@@ -177,7 +177,7 @@ Dialogue: 0,0:05:55.65,0:05:56.50,Default,ko,0,0,0,,외출이오...
 Dialogue: 0,0:05:55.65,0:05:56.50,Default,en,0,0,0,,Absent, I guess...
 Comment: 0,0:05:59.73,0:06:03.46,Default,ja,0,0,0,,ごめんくださいだス！この辺にお団子やさんないんだすか！
 Dialogue: 0,0:05:59.73,0:06:03.46,Default,ko,0,0,0,,실례하오! 이 주변에 단고집 있소?
-Dialogue: 0,0:05:59.73,0:06:03.46,Default,en,0,0,0,,Excuse me-{\i1}dasu{\i0}! Is there a {\i1}dango{\i0} house around here-{\i1}dasu{\i0}?
+Dialogue: 0,0:05:59.73,0:06:03.46,Default,en,0,0,0,,Excuse me-{\i1}dasu{\i0}! Is there a dango house around here-{\i1}dasu{\i0}?
 Comment: 0,0:06:03.46,0:06:06.45,Default,ja,0,0,0,,おいら、おなか減って、死にそうなんだす。
 Dialogue: 0,0:06:03.46,0:06:06.45,Default,ko,0,0,0,,나, 배고파서 죽을 것 같소.
 Dialogue: 0,0:06:03.46,0:06:06.45,Default,en,0,0,0,,I'm gonna die of hunger-{\i1}dasu{\i0}...

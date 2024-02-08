@@ -109,10 +109,10 @@ Dialogue: 0,0:03:07.79,0:03:10.09,Default,ko,0,0,0,,센짱도 차가워...
 Dialogue: 0,0:03:07.79,0:03:10.09,Default,en,0,0,0,,Sen-chan is cold too...
 Comment: 0,0:03:10.52,0:03:14.50,Default,ja,0,0,0,,さあ、さあ、開店サービスの団子早食いコンクールだよ！
 Dialogue: 0,0:03:10.52,0:03:14.50,Default,ko,0,0,0,,자, 자, 개점 서비스인 단고 빨리 먹기 콩쿠르입니다!
-Dialogue: 0,0:03:10.52,0:03:14.50,Default,en,0,0,0,,People, I'm holding a {\i1}dango{\i0} quick eating contest as a shop opening event!
+Dialogue: 0,0:03:10.52,0:03:14.50,Default,en,0,0,0,,People, I'm holding a dango quick eating contest as a shop opening event!
 Comment: 0,0:03:14.78,0:03:16.99,Default,ja,0,0,0,,何？！団子の早食いだと？！
 Dialogue: 0,0:03:14.78,0:03:16.99,Default,ko,0,0,0,,뭐라?! 단고 빨리 먹기?!
-Dialogue: 0,0:03:14.78,0:03:16.99,Default,en,0,0,0,,What?! {\i1}Dango{\i0} quick eating contest?!
+Dialogue: 0,0:03:14.78,0:03:16.99,Default,en,0,0,0,,What?! Dango quick eating contest?!
 Comment: 0,0:03:20.23,0:03:22.64,Default,ja,0,0,0,,こんな時だけは素早いんだから。
 Dialogue: 0,0:03:20.23,0:03:22.64,Default,ko,0,0,0,,이럴 때만은 잽싸다니까.
 Dialogue: 0,0:03:20.23,0:03:22.64,Default,en,0,0,0,,He's so quick only at times like this.
@@ -121,13 +121,13 @@ Dialogue: 0,0:03:23.53,0:03:26.82,Note,ko,0,0,0,,오픈
 Dialogue: 0,0:03:23.53,0:03:26.82,Note,en,0,0,0,,OPEN
 Comment: 0,0:03:25.24,0:03:30.13,Default,ja,0,0,0,,さて、団子の早食いこくるだよ。誰か挑戦する奴はいないか？
 Dialogue: 0,0:03:25.24,0:03:30.13,Default,ko,0,0,0,,자, 단고 빨리 먹기 콩쿠르입니다! 누구 도전할 사람 없나요!
-Dialogue: 0,0:03:25.24,0:03:30.13,Default,en,0,0,0,,Welcome to {\i1}dango{\i0} quick eating contest! Would anybody want to attempt?
+Dialogue: 0,0:03:25.24,0:03:30.13,Default,en,0,0,0,,Welcome to dango quick eating contest! Would anybody want to attempt?
 Comment: 0,0:03:30.67,0:03:35.58,Default,ja,0,0,0,,この砂時計の須永落ちるまでに100本の団子を食えたらお題はタダ。
 Dialogue: 0,0:03:30.67,0:03:35.58,Default,ko,0,0,0,,이 모래시계의 모래가 떨어질 때까지 단고 100줄을 먹으면 값은 무료.
-Dialogue: 0,0:03:30.67,0:03:35.58,Default,en,0,0,0,,If you eat 100 lines of {\i1}dango{\i0} before this hourglass runs out, it's free!
+Dialogue: 0,0:03:30.67,0:03:35.58,Default,en,0,0,0,,If you eat 100 lines of dango before this hourglass runs out, it's free!
 Comment: 0,0:03:35.85,0:03:38.99,Default,ja,0,0,0,,おまけに、300もんのお小遣いがもらえちゃうよ！
 Dialogue: 0,0:03:35.85,0:03:38.99,Default,ko,0,0,0,,덤으로, 300문의 용돈도 받습니다!
-Dialogue: 0,0:03:35.85,0:03:38.99,Default,en,0,0,0,,You're also gonna get 300 {\i1}mon{\i0}s in addition!
+Dialogue: 0,0:03:35.85,0:03:38.99,Default,en,0,0,0,,You're also gonna get 300 mons in addition!
 Comment: 0,0:03:39.27,0:03:42.02,Default,ja,0,0,0,,さあ、誰かやってみようってやつはいないか？
 Dialogue: 0,0:03:39.27,0:03:42.02,Default,ko,0,0,0,,자, 누구 해 볼 사람 없습니까!
 Dialogue: 0,0:03:39.27,0:03:42.02,Default,en,0,0,0,,Any participants?
@@ -187,7 +187,7 @@ Dialogue: 0,0:04:23.49,0:04:26.15,Default,ko,0,0,0,,무예가 주제에 되는 �
 Dialogue: 0,0:04:23.49,0:04:26.15,Default,en,0,0,0,,For a martial artist, he's trying his best to be disgraceful.
 Comment: 0,0:04:26.67,0:04:32.13,Default,ja,0,0,0,,頑張れ、ムサシ！賞金もらったらお祝いにみんなでお団子食べましょう！
 Dialogue: 0,0:04:26.67,0:04:32.13,Default,ko,0,0,0,,힘내, 무사시! 상금 받으면 축하로 다 같이 단고 먹자!
-Dialogue: 0,0:04:26.67,0:04:32.13,Default,en,0,0,0,,You can do it, Musashi! Let's have a {\i1}dango{\i0} party if you win!
+Dialogue: 0,0:04:26.67,0:04:32.13,Default,en,0,0,0,,You can do it, Musashi! Let's have a dango party if you win!
 Comment: 0,0:04:38.55,0:04:41.08,Default,ja,0,0,0,,くそ、よく食いやがるな！
 Dialogue: 0,0:04:38.55,0:04:41.08,Default,ko,0,0,0,,{\i1}제기랄, 잘도 쳐먹네!
 Dialogue: 0,0:04:38.55,0:04:41.08,Default,en,0,0,0,,{\i1}Damn, he's such an extreme eater!
@@ -210,7 +210,7 @@ Dialogue: 0,0:05:00.06,0:05:02.41,Default,ko,0,0,0,,어디, 어디?!
 Dialogue: 0,0:05:00.06,0:05:02.41,Default,en,0,0,0,,Where, where?!
 Comment: 0,0:05:04.11,0:05:06.41,Default,ja,0,0,0,,これで300もんはおいらのもんだ！
 Dialogue: 0,0:05:04.11,0:05:06.41,Default,ko,0,0,0,,이걸로 300문은 내 것!
-Dialogue: 0,0:05:04.11,0:05:06.41,Default,en,0,0,0,,And now 300 {\i1}mon{\i0}s are mine!
+Dialogue: 0,0:05:04.11,0:05:06.41,Default,en,0,0,0,,And now 300 mons are mine!
 Comment: 0,0:05:07.14,0:05:08.05,Default,ja,0,0,0,,はい、そこまで！
 Dialogue: 0,0:05:07.14,0:05:08.05,Default,ko,0,0,0,,네, 거기까지!
 Dialogue: 0,0:05:07.14,0:05:08.05,Default,en,0,0,0,,And that's it!
@@ -222,10 +222,10 @@ Dialogue: 0,0:05:14.10,0:05:18.83,Default,ko,0,0,0,,어라, 아까까진 아직 
 Dialogue: 0,0:05:14.10,0:05:18.83,Default,en,0,0,0,,Huh, I thought it still had a lot to go just before...
 Comment: 0,0:05:18.99,0:05:23.21,Default,ja,0,0,0,,はい、残念でした！食べきれなかった人は300問をいただきます！
 Dialogue: 0,0:05:18.99,0:05:23.21,Default,ko,0,0,0,,네, 안타깝습니다! 다 먹지 못한 사람에게선 300문을 가져갑니다!
-Dialogue: 0,0:05:18.99,0:05:23.21,Default,en,0,0,0,,Well, that's too bad for you! I'll take 300 {\i1}mon{\i0}s from whoever couldn't eat 'em all!
+Dialogue: 0,0:05:18.99,0:05:23.21,Default,en,0,0,0,,Well, that's too bad for you! I'll take 300 mons from whoever couldn't eat 'em all!
 Comment: 0,0:05:23.21,0:05:28.01,Default,ja,0,0,0,,え？300問？お、おいら、お金払うなんて聞いてないだスよ。
 Dialogue: 0,0:05:23.21,0:05:28.01,Default,ko,0,0,0,,어, 300문?! 나, 나, 돈 내야 한다고는 못 들었소...
-Dialogue: 0,0:05:23.21,0:05:28.01,Default,en,0,0,0,,What, 300 {\i1}mon{\i0}s?! I never heard I had to pay for that...
+Dialogue: 0,0:05:23.21,0:05:28.01,Default,en,0,0,0,,What, 300 mons?! I never heard I had to pay for that...
 Comment: 0,0:05:28.44,0:05:33.42,Default,ja,0,0,0,,何言ってんの！食べきれなかったッラお題をもらうのは常識でしょう？
 Dialogue: 0,0:05:28.44,0:05:33.42,Default,ko,0,0,0,,무슨 소릴! 다 못 먹으면 돈 내는 건 상식이잖아요?
 Dialogue: 0,0:05:28.44,0:05:33.42,Default,en,0,0,0,,What are you talking about? It's obvious that you have to pay if you couldn't eat them all!
@@ -684,13 +684,13 @@ Dialogue: 0,0:16:00.28,0:16:02.50,Default,ko,0,0,0,,사이고 씨, 당신이라�
 Dialogue: 0,0:16:00.28,0:16:02.50,Default,en,0,0,0,,Mr. Saigo, who are you?!
 Comment: 0,0:16:02.75,0:16:08.96,Default,ja,0,0,0,,おはんは、昼間のお団子君ではないでごわすか。変な所から出てきて何をするでゴわす！
 Dialogue: 0,0:16:02.75,0:16:08.96,Default,ko,0,0,0,,그대는 낮에 단고 군이군. 이상한 곳에서 튀어나와 뭔 짓이냐!
-Dialogue: 0,0:16:02.75,0:16:08.96,Default,en,0,0,0,,You are that {\i1}dango{\i0} boy I saw during the day-{\i1}gowasu{\i0}. What are you doing, springing out from a weird place-{\i1}gowasu{\i0}?!
+Dialogue: 0,0:16:02.75,0:16:08.96,Default,en,0,0,0,,You are that dango boy I saw during the day-{\i1}gowasu{\i0}. What are you doing, springing out from a weird place-{\i1}gowasu{\i0}?!
 Comment: 0,0:16:09.27,0:16:15.30,Default,ja,0,0,0,,おいら、あんた、いい人だと思っていただスが、不知火の仲間だったとはがっかりしたでござるだす！
 Dialogue: 0,0:16:09.27,0:16:15.30,Default,ko,0,0,0,,나, 당신, 좋은 사람이라 생각했지만 시라누이의 동료라니 놀랐소!
 Dialogue: 0,0:16:09.27,0:16:15.30,Default,en,0,0,0,,I thought you were a good guy, but I was surprised when I realized you are Shiranui's comrade-{\i1}dasu{\i0}!
 Comment: 0,0:16:15.54,0:16:21.18,Default,ja,0,0,0,,ちょ、ちょっとまってくれ、お団子君。おいどんにはなんのことがさっぱりわからないでゴわす。
 Dialogue: 0,0:16:15.54,0:16:21.18,Default,ko,0,0,0,,자, 잠깐만, 단고 군. 난 그대가 뭔 말을 하고 있는지 전혀 모르겠다.
-Dialogue: 0,0:16:15.54,0:16:21.18,Default,en,0,0,0,,J- just a moment, {\i1}dango{\i0} guy-{\i1}gowasu{\i0}. I do not get what you're talking about at all-{\i1}gowasu{\i0}.
+Dialogue: 0,0:16:15.54,0:16:21.18,Default,en,0,0,0,,J- just a moment, dango guy-{\i1}gowasu{\i0}. I do not get what you're talking about at all-{\i1}gowasu{\i0}.
 Comment: 0,0:16:21.96,0:16:28.03,Default,ja,0,0,0,,えい、この期に及んでまだ白を切るつもりだスか！往生際の悪い奴でござるだス！
 Dialogue: 0,0:16:21.96,0:16:28.03,Default,ko,0,0,0,,에잇, 이 마당에 와서 아직 시치미 뗄 생각이오! 깨끗히 죽지 못하는 놈이오!
 Dialogue: 0,0:16:21.96,0:16:28.03,Default,en,0,0,0,,Are you still trying to play innocent at the last moment-{\i1}dasu{\i0}?! Know when to give up-{\i1}dasu{\i0}!
@@ -885,7 +885,7 @@ Dialogue: 0,0:21:37.94,0:21:42.57,Default,ko,0,0,0,,아, 마침 적당하게 구
 Dialogue: 0,0:21:37.94,0:21:42.57,Default,en,0,0,0,,It is a big relief that we could rescue you in time-{\i1}dasu{\i0}, Sen-chan and Kojirō!
 Comment: 0,0:21:42.87,0:21:47.87,Default,ja,0,0,0,,ふん！こんな目にあったのも、元後を言えばお前が団子の早食いなどに出たからだぞ！
 Dialogue: 0,0:21:42.87,0:21:47.87,Default,ko,0,0,0,,흥! 이런 꼴이 된 것도 애초에 네놈이 단고 빨리 먹기를 해서 그런 것이다!
-Dialogue: 0,0:21:42.87,0:21:47.87,Default,en,0,0,0,,Hmph! This also is because you ate {\i1}dango{\i0}s quickly at the first place!
+Dialogue: 0,0:21:42.87,0:21:47.87,Default,en,0,0,0,,Hmph! This also is because you ate dangos quickly at the first place!
 Comment: 0,0:21:48.29,0:21:49.29,Default,ja,0,0,0,,なんだスと？！
 Dialogue: 0,0:21:48.29,0:21:49.29,Default,ko,0,0,0,,뭣이오?!
 Dialogue: 0,0:21:48.29,0:21:49.29,Default,en,0,0,0,,What-{\i1}dasu{\i0}?!

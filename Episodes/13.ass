@@ -348,7 +348,7 @@ Dialogue: 0,0:11:21.37,0:11:22.76,Default,ko,0,0,0,,{\i1}역시 대단하오.
 Dialogue: 0,0:11:21.37,0:11:22.76,Default,en,0,0,0,,{\i1}You are superb.
 Comment: 0,0:11:23.69,0:11:29.77,Default,ja,0,0,0,,ジュウベエの奴、これでますますイエヤスの信望を集め、将軍に力を注ぐんだろうが、
 Dialogue: 0,0:11:23.69,0:11:29.77,Default,ko,0,0,0,,{\i1}주베 놈, 이걸로 점점 이에야스의 신망을 모아 쇼군의 힘을 얻겠다는 것 같다만,
-Dialogue: 0,0:11:23.69,0:11:29.77,Default,en,0,0,0,,{\i1}It seems that that damned Jūbee is trying to gain confidence from Ieyasu and gain the power of Shogun...
+Dialogue: 0,0:11:23.69,0:11:29.77,Default,en,0,0,0,,{\i1}It seems that that damned Jūbee is trying to gain confidence from Ieyasu and gain the power of shōgun...
 Comment: 0,0:11:30.17,0:11:32.96,Default,ja,0,0,0,,今に吠え面をかく時が必ず来る。
 Dialogue: 0,0:11:30.17,0:11:32.96,Default,ko,0,0,0,,{\i1}곧 울상을 지을 때가 꼭 온다.
 Dialogue: 0,0:11:30.17,0:11:32.96,Default,en,0,0,0,,{\i1}The time for you to make a tearful face will come.
@@ -425,7 +425,7 @@ Dialogue: 0,0:13:25.85,0:13:27.47,Default,ko,0,0,0,,구한다니?
 Dialogue: 0,0:13:25.85,0:13:27.47,Default,en,0,0,0,,Rescue him?
 Comment: 0,0:13:27.47,0:13:31.63,Default,ja,0,0,0,,おじいちゃんは将軍なんでしょ？どんなことでもできるじゃないのよ！
 Dialogue: 0,0:13:27.47,0:13:31.63,Default,ko,0,0,0,,할아버진 쇼군이잖아! 뭐라도 할 수 있는 거 아니야?
-Dialogue: 0,0:13:27.47,0:13:31.63,Default,en,0,0,0,,Aren't you a Shogun, grandpa? Aren't you supposed to be able to do anything?
+Dialogue: 0,0:13:27.47,0:13:31.63,Default,en,0,0,0,,Aren't you a shōgun, grandpa? Aren't you supposed to be able to do anything?
 Comment: 0,0:13:31.63,0:13:36.19,Default,ja,0,0,0,,落ち着くんだ、センヒメ。あの男は狼藉を働いて！
 Dialogue: 0,0:13:31.63,0:13:36.19,Default,ko,0,0,0,,진정해라, 센히메. 그 남자는 반역을 저질러서!
 Dialogue: 0,0:13:31.63,0:13:36.19,Default,en,0,0,0,,Calm down, Senhime. That man has done a treachery!
@@ -434,7 +434,7 @@ Dialogue: 0,0:13:36.99,0:13:41.29,Default,ko,0,0,0,,그러니까 그게 아니�
 Dialogue: 0,0:13:36.99,0:13:41.29,Default,en,0,0,0,,That's not it! He was just late for the competition.
 Comment: 0,0:13:42.11,0:13:48.73,Default,ja,0,0,0,,しかしだな、いくら世は将軍と言えでも、謀反人として指名手配された男を。。。
 Dialogue: 0,0:13:42.11,0:13:48.73,Default,ko,0,0,0,,그래도 내가 아무리 쇼군이라고 해도 반역자로 지명수배됐던 남자를...
-Dialogue: 0,0:13:42.11,0:13:48.73,Default,en,0,0,0,,But still, even for a Shogun, it's difficult to pardon someone who was wanted as a traitor...
+Dialogue: 0,0:13:42.11,0:13:48.73,Default,en,0,0,0,,But still, even for a shōgun, it's difficult to pardon someone who was wanted as a traitor...
 Comment: 0,0:13:48.73,0:13:53.04,Default,ja,0,0,0,,何を言ってるの？ほっといったら無実の人が処刑されてしまうんだから！
 Dialogue: 0,0:13:48.73,0:13:53.04,Default,ko,0,0,0,,뭔 소리야? 늦으면 무고한 사람이 사형돼!
 Dialogue: 0,0:13:48.73,0:13:53.04,Default,en,0,0,0,,What are you talking about? If we're late, a innocent people will be executed!
@@ -443,7 +443,7 @@ Dialogue: 0,0:13:53.58,0:13:55.13,Default,ko,0,0,0,,그, 그래도 말야...
 Dialogue: 0,0:13:53.58,0:13:55.13,Default,en,0,0,0,,B- but still...
 Comment: 0,0:13:55.55,0:13:56.17,Default,ja,0,0,0,,将軍！
 Dialogue: 0,0:13:55.55,0:13:56.17,Default,ko,0,0,0,,쇼군!
-Dialogue: 0,0:13:55.55,0:13:56.17,Default,en,0,0,0,,Shogun!
+Dialogue: 0,0:13:55.55,0:13:56.17,Default,en,0,0,0,,Shōgun!
 Comment: 0,0:13:57.02,0:13:59.58,Default,ja,0,0,0,,ジュウベエ、お願いの気がございます。
 Dialogue: 0,0:13:57.02,0:13:59.58,Default,ko,0,0,0,,주베, 부탁드릴 것이 있습니다.
 Dialogue: 0,0:13:57.02,0:13:59.58,Default,en,0,0,0,,I, Jūbee, has a request.
@@ -536,7 +536,7 @@ Dialogue: 0,0:15:58.25,0:15:59.04,Default,ko,0,0,0,,주베 씨?
 Dialogue: 0,0:15:58.25,0:15:59.04,Default,en,0,0,0,,Mr. Jūbee?
 Comment: 0,0:16:00.44,0:16:03.61,Default,ja,0,0,0,,いやしくも将軍家のお庭番、イガハンゾウのお屋敷。
 Dialogue: 0,0:16:00.44,0:16:03.61,Default,ko,0,0,0,,일단 이곳은 쇼군의 직속 밀정, 이가 닌자 한조의 저택이다.
-Dialogue: 0,0:16:00.44,0:16:03.61,Default,en,0,0,0,,First, this place is the mansion of Iga Ninja Hanzō, the Shogun's spy.
+Dialogue: 0,0:16:00.44,0:16:03.61,Default,en,0,0,0,,First, this place is the mansion of Iga Ninja Hanzō, the shōgun's spy.
 Comment: 0,0:16:03.92,0:16:07.75,Default,ja,0,0,0,,たとえジュウベエ殿であろうと、狼藉を許すわけにはまいらぬ。
 Dialogue: 0,0:16:03.92,0:16:07.75,Default,ko,0,0,0,,설마 주베 님이라 하더라도 반역은 용서할 수 없다.
 Dialogue: 0,0:16:03.92,0:16:07.75,Default,en,0,0,0,,Even for you, Mr. Jūbee, I will not forgive your treachery.
@@ -548,7 +548,7 @@ Dialogue: 0,0:16:10.28,0:16:12.49,Default,ko,0,0,0,,무사시 님의 사슬을 �
 Dialogue: 0,0:16:10.28,0:16:12.49,Default,en,0,0,0,,Untie the chain on Mr. Musashi.
 Comment: 0,0:16:12.49,0:16:17.21,Default,ja,0,0,0,,なんと？奴は将軍家に狼藉を働いた天下の謀反人！
 Dialogue: 0,0:16:12.49,0:16:17.21,Default,ko,0,0,0,,뭐시라? 녀석은 쇼군을 거슬러 반역을 저지른 천하의 반역자!
-Dialogue: 0,0:16:12.49,0:16:17.21,Default,en,0,0,0,,What? That bastard is the incomparable traitor who defied Shogun!
+Dialogue: 0,0:16:12.49,0:16:17.21,Default,en,0,0,0,,What? That bastard is the incomparable traitor who defied the shōgun!
 Comment: 0,0:16:17.92,0:16:20.32,Default,ja,0,0,0,,何を血迷っておられる？
 Dialogue: 0,0:16:17.92,0:16:20.32,Default,ko,0,0,0,,뭐에 눈이 뒤집혀 계시나?
 Dialogue: 0,0:16:17.92,0:16:20.32,Default,en,0,0,0,,Why did you lose your mind?
@@ -563,7 +563,7 @@ Dialogue: 0,0:16:24.88,0:16:28.35,Default,ko,0,0,0,,무, 무슨. 뭔가 착각�
 Dialogue: 0,0:16:24.88,0:16:28.35,Default,en,0,0,0,,Th- there... there must be a mistake...
 Comment: 0,0:16:28.35,0:16:31.87,Default,ja,0,0,0,,黙れ！将軍直筆のお墨付きを疑うか！
 Dialogue: 0,0:16:28.35,0:16:31.87,Default,ko,0,0,0,,닥쳐라! 쇼군 직필 증명서를 의심하는가!
-Dialogue: 0,0:16:28.35,0:16:31.87,Default,en,0,0,0,,Shut up! Are you questioning the ceritifcate directly written by Shogun?
+Dialogue: 0,0:16:28.35,0:16:31.87,Default,en,0,0,0,,Shut up! Are you questioning the ceritifcate directly written by the shōgun?
 Comment: 0,0:16:32.33,0:16:34.17,Default,ja,0,0,0,,その方こそ謀反人となるぞ！
 Dialogue: 0,0:16:32.33,0:16:34.17,Default,ko,0,0,0,,그 쪽이야말로 반역자가 될 터이다!
 Dialogue: 0,0:16:32.33,0:16:34.17,Default,en,0,0,0,,You will become the traitor instead!
@@ -737,7 +737,7 @@ Dialogue: 0,0:19:37.12,0:19:39.82,Default,ko,0,0,0,,{\i1}오츠루 씨... 나, �
 Dialogue: 0,0:19:37.12,0:19:39.82,Default,en,0,0,0,,{\i1}Otsuru... I will do it...
 Comment: 0,0:20:29.02,0:20:34.27,Default,ja,0,0,0,,こ、このおいらが将軍様の孫娘様の警護役？
 Dialogue: 0,0:20:29.02,0:20:34.27,Default,ko,0,0,0,,이, 이 내가 쇼군 님의 손녀님의 경호 역할?
-Dialogue: 0,0:20:29.02,0:20:34.27,Default,en,0,0,0,,I... I'll guard the granddaughter of Shogun?
+Dialogue: 0,0:20:29.02,0:20:34.27,Default,en,0,0,0,,I... I'll guard the granddaughter of the shōgun?
 Comment: 0,0:20:34.91,0:20:36.64,Default,ja,0,0,0,,で、ござるだスか？
 Dialogue: 0,0:20:34.91,0:20:36.64,Default,ko,0,0,0,,인 것이오?
 Dialogue: 0,0:20:34.91,0:20:36.64,Default,en,0,0,0,,Is that right-{\i1}dasu{\i0}?

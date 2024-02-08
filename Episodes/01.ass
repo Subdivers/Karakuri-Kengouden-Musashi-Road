@@ -741,9 +741,9 @@ Dialogue: 0,0:20:55.98,0:20:57.46,Default,ko,0,0,0,,무사시 등장!
 Dialogue: 0,0:20:55.98,0:20:57.46,Default,en,0,0,0,,Here I come!
 Comment: 0,0:21:00.86,0:21:05.18,Default,ja,0,0,0,,秘剣！燕返し！
 Dialogue: 0,0:21:00.86,0:21:05.18,Default,ko,0,0,0,,비검! 츠바메가에시!
-Dialogue: 0,0:21:00.86,0:21:05.18,Default,en,0,0,0,,Secret Sword {\i1}Tsubamegaeshi{\i0}!
+Dialogue: 0,0:21:00.86,0:21:05.18,Default,en,0,0,0,,Secret Sword Tsubamegaeshi!
 Dialogue: 0,0:21:00.86,0:21:05.25,Note,ko,0,0,0,,(츠바메가에시: 燕返し. 말 그대로는 제비 뒤집기)
-Dialogue: 0,0:21:00.86,0:21:05.25,Note,en,0,0,0,,({\i1}Tsubamegaeshi{\i0}: 燕返し. lit. Swallow Reversal)
+Dialogue: 0,0:21:00.86,0:21:05.25,Note,en,0,0,0,,(Tsubamegaeshi: 燕返し. lit. Swallow Reversal)
 Comment: 0,0:21:12.93,0:21:15.04,Default,ja,0,0,0,,さらばだ、ムサシ。ばっかめ。
 Dialogue: 0,0:21:12.93,0:21:15.04,Default,ko,0,0,0,,안녕이다, 무사시. 바보 녀석.
 Dialogue: 0,0:21:12.93,0:21:15.04,Default,en,0,0,0,,Farewell, Musashi. Idiot.

@@ -425,7 +425,7 @@ Dialogue: 0,0:12:18.65,0:12:19.55,Default,ko,0,0,0,,몰라요.
 Dialogue: 0,0:12:18.65,0:12:19.55,Default,en,0,0,0,,I don't know.
 Comment: 0,0:12:20.22,0:12:26.88,Default,ja,0,0,0,,この辺りにある団子屋、さつま揚げ屋、すべて聞いて回ったんですが、ムサシを見たものは誰もいないとは。。。
 Dialogue: 0,0:12:20.22,0:12:26.88,Default,ko,0,0,0,,이 주변에 있는 단고집이나 사츠마아게집에는 죄다 물어봤습니다만 무사시를 봤다는 사람은 아무도 없습니다.
-Dialogue: 0,0:12:20.22,0:12:26.88,Default,en,0,0,0,,I've asked all {\i1}Dango{\i0} or Satsumaage house around here, but it seems that nobody saw him.
+Dialogue: 0,0:12:20.22,0:12:26.88,Default,en,0,0,0,,I've asked all Dango or Satsumaage house around here, but it seems that nobody saw him.
 Comment: 0,0:12:27.11,0:12:27.98,Default,ja,0,0,0,,そうだわ！
 Dialogue: 0,0:12:27.11,0:12:27.98,Default,ko,0,0,0,,그거야!
 Dialogue: 0,0:12:27.11,0:12:27.98,Default,en,0,0,0,,That's it!

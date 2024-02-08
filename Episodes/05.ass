@@ -240,11 +240,11 @@ Dialogue: 0,0:06:20.97,0:06:24.58,Default,ko,0,0,0,,나... 배고파 죽겠소..
 Dialogue: 0,0:06:20.97,0:06:24.58,Default,en,0,0,0,,I am starved to death-{\i1}dasu{\i0}...
 Comment: 0,0:06:25.86,0:06:28.69,Default,ja,0,0,0,,こ、これはお団子のにおいでござるだス！
 Dialogue: 0,0:06:25.86,0:06:28.69,Default,ko,0,0,0,,이, 이건 단고의 향이오!
-Dialogue: 0,0:06:25.86,0:06:28.69,Default,en,0,0,0,,This smell must be {\i1}dango{\i0}-{\i1}dasu{\i0}!
+Dialogue: 0,0:06:25.86,0:06:28.69,Default,en,0,0,0,,This smell must be dango-{\i1}dasu{\i0}!
 Dialogue: 0,0:06:35.64,0:06:36.18,NoteOnAnimeVert,ko,0,0,0,,{\fs24\an4\frz-90\move(177,188,177,188)}단고 5문
 Dialogue: 0,0:06:35.64,0:06:36.18,NoteOnAnimeVert,ko,0,0,0,,{\fs24\an4\move(120,189,120,189)\frz-93}차 1문
-Dialogue: 0,0:06:35.64,0:06:36.18,NoteOnAnime,en,0,0,0,,{\fs24\an4\frz-90\move(177,188,177,188)}Dango 5 {\i1}mon{\i0}
-Dialogue: 0,0:06:35.64,0:06:36.18,NoteOnAnime,en,0,0,0,,{\fs24\an4\move(120,189,120,189)\frz-93}Tea 1 {\i1}mon{\i0}
+Dialogue: 0,0:06:35.64,0:06:36.18,NoteOnAnime,en,0,0,0,,{\fs24\an4\frz-90\move(177,188,177,188)}Dango 5 mon
+Dialogue: 0,0:06:35.64,0:06:36.18,NoteOnAnime,en,0,0,0,,{\fs24\an4\move(120,189,120,189)\frz-93}Tea 1 mon
 Comment: 0,0:06:40.92,0:06:44.84,Default,ja,0,0,0,,おなかと背中が引っ付いてしまうだス。
 Dialogue: 0,0:06:40.92,0:06:44.84,Default,ko,0,0,0,,아... 뱃가죽이 등에 붙고야 말겠소.
 Dialogue: 0,0:06:40.92,0:06:44.84,Default,en,0,0,0,,My belly's going to meet my back-{\i1}dasu{\i0}...
@@ -257,7 +257,7 @@ Dialogue: 0,0:06:44.84,0:06:46.84,NoteOnAnimeVert,ko,0,0,0,,{\fs18\move(136,94,1
 Dialogue: 0,0:06:44.84,0:06:46.84,NoteOnAnimeVert,ko,0,0,0,,{\fs40\move(137,295,137,295)\an4\frz-90}음악찻집
 Dialogue: 0,0:06:44.84,0:06:46.84,NoteOnAnime,en,0,0,0,,{\alpha40\p1\an7\bord0\c&HDAFEFF&}m 102 53 l 499 50 494 460 95 461
 Dialogue: 0,0:06:44.84,0:06:46.84,NoteOnAnime,en,0,0,0,,{\an8\fs48\c&H4C5BDC&\move(307,72,307,72)}Part Time Job{\c&HFFFFFF&} Notice
-Dialogue: 0,0:06:44.84,0:06:46.84,NoteOnAnime,en,0,0,0,,{\an8\move(311,159,311,159)\fs32}3 {\i1}mon{\i0}s an hour\NTraffic expenses provided\N{\c&H4C5BDC&\fs48}Meal{\c&HFFFFFF&\fs32} provided\NImmediate interview
+Dialogue: 0,0:06:44.84,0:06:46.84,NoteOnAnime,en,0,0,0,,{\an8\move(311,159,311,159)\fs32}3 mons an hour\NTraffic expenses provided\N{\c&H4C5BDC&\fs48}Meal{\c&HFFFFFF&\fs32} provided\NImmediate interview
 Dialogue: 0,0:06:44.84,0:06:46.84,NoteOnAnime,en,0,0,0,,{\an8\move(310,371,310,371)}Sakai Ginja 634-5
 Dialogue: 0,0:06:44.84,0:06:46.84,NoteOnAnime,en,0,0,0,,{\an8\move(310,421,310,421)\fs40}Musical Tea House
 Dialogue: 0,0:06:46.84,0:06:48.21,NoteOnAnimeVert,ko,0,0,0,,{\pos(320,240)\an5\fs270\c&H4C5BDC&\bord16\frz-90}식사
@@ -289,10 +289,10 @@ Dialogue: 0,0:07:15.94,0:07:16.70,Default,ko,0,0,0,,네.
 Dialogue: 0,0:07:15.94,0:07:16.70,Default,en,0,0,0,,Okay.
 Comment: 0,0:07:17.70,0:07:19.94,Default,ja,0,0,0,,3番テーブル団子いっちょう。
 Dialogue: 0,0:07:17.70,0:07:19.94,Default,ko,0,0,0,,3번 테이블 단고 한 접시!
-Dialogue: 0,0:07:17.70,0:07:19.94,Default,en,0,0,0,,One {\i1}dango{\i0} plate on the 3th table!
+Dialogue: 0,0:07:17.70,0:07:19.94,Default,en,0,0,0,,One dango plate on the 3th table!
 Comment: 0,0:07:20.04,0:07:21.81,Default,ja,0,0,0,,はいよ！団子いっちょう。
 Dialogue: 0,0:07:20.04,0:07:21.81,Default,ko,0,0,0,,네! 단고 한 접시!
-Dialogue: 0,0:07:20.04,0:07:21.81,Default,en,0,0,0,,Got it! One {\i1}dango{\i0} plate!
+Dialogue: 0,0:07:20.04,0:07:21.81,Default,en,0,0,0,,Got it! One dango plate!
 Comment: 0,0:07:22.16,0:07:23.75,Default,ja,0,0,0,,ほらほら、早くもって行って！
 Dialogue: 0,0:07:22.16,0:07:23.75,Default,ko,0,0,0,,어이, 어이, 빨리 가져다 줘!
 Dialogue: 0,0:07:22.16,0:07:23.75,Default,en,0,0,0,,Hey, hey! Hurry up and bring it!
@@ -349,7 +349,7 @@ Dialogue: 0,0:08:16.44,0:08:17.35,Default,ko,0,0,0,,죄송하오...
 Dialogue: 0,0:08:16.44,0:08:17.35,Default,en,0,0,0,,I'm sorry-{\i1}dasu{\i0}...
 Comment: 0,0:08:17.53,0:08:23.30,Default,ja,0,0,0,,まあ、君には{???}ほうんの仕事は向いていないみたいだから、え、そこで団子の櫛でも削ってもらおうか。
 Dialogue: 0,0:08:17.53,0:08:23.30,Default,ko,0,0,0,,네게 식당 앞 일은 어울리지 않는 것 같으니 저기서 단고 막대기라도 깎아라.
-Dialogue: 0,0:08:17.53,0:08:23.30,Default,en,0,0,0,,It seems that you're not suited for working at the front of house. Maybe you're better off with carving {\i1}dango{\i0} sticks.
+Dialogue: 0,0:08:17.53,0:08:23.30,Default,en,0,0,0,,It seems that you're not suited for working at the front of house. Maybe you're better off with carving dango sticks.
 Comment: 0,0:08:23.90,0:08:25.24,Default,ja,0,0,0,,あの、食事は。。。
 Dialogue: 0,0:08:23.90,0:08:25.24,Default,ko,0,0,0,,저, 식사는...
 Dialogue: 0,0:08:23.90,0:08:25.24,Default,en,0,0,0,,Uh, the meal...
@@ -888,7 +888,7 @@ Dialogue: 0,0:24:08.52,0:24:10.87,Default,ko,0,0,0,,결국엔 나도 제자를 �
 Dialogue: 0,0:24:08.52,0:24:10.87,Default,en,0,0,0,,Finally, I got a student-{\i1}dasu{\i0}!
 Comment: 0,0:24:11.10,0:24:17.05,Default,ja,0,0,0,,弟子っていうものは便利出すな。お金の心配しないで団子は食べられるし、道案内もしてくれるし。
 Dialogue: 0,0:24:11.10,0:24:17.05,Default,ko,0,0,0,,제자라는 것은 편리하오! 돈 걱정 없이 단고를 먹게 해 주고, 길을 안내해 주고.
-Dialogue: 0,0:24:11.10,0:24:17.05,Default,en,0,0,0,,A student is convinient! He lets me eat {\i1}dango{\i0}s without worry, and guides my path.
+Dialogue: 0,0:24:11.10,0:24:17.05,Default,en,0,0,0,,A student is convinient! He lets me eat dangos without worry, and guides my path.
 Comment: 0,0:24:17.32,0:24:20.47,Default,ja,0,0,0,,でも、この弟子って、おいらより強いんだスね。
 Dialogue: 0,0:24:17.32,0:24:20.47,Default,ko,0,0,0,,근데 이 제자라는 자, 나보다 강하오...
 Dialogue: 0,0:24:17.32,0:24:20.47,Default,en,0,0,0,,But this student is powerful than me, heh...

@@ -117,7 +117,7 @@ Dialogue: 0,0:03:20.91,0:03:22.76,Default,ko,0,0,0,,그런 대사를 하기엔 1
 Dialogue: 0,0:03:20.91,0:03:22.76,Default,en,0,0,0,,You're 10 years early to say that!
 Comment: 0,0:03:22.96,0:03:24.81,Default,ja,0,0,0,,見よ！秘剣！燕返し！
 Dialogue: 0,0:03:22.96,0:03:24.81,Default,ko,0,0,0,,봐라! 비검 츠바메가에시!
-Dialogue: 0,0:03:22.96,0:03:24.81,Default,en,0,0,0,,Look! Secret Sword {\i1}Tsubamegaeshi{\i0}!
+Dialogue: 0,0:03:22.96,0:03:24.81,Default,en,0,0,0,,Look! Secret Sword Tsubamegaeshi!
 Comment: 0,0:03:25.03,0:03:26.65,Default,ja,0,0,0,,あ！UFOだす！
 Dialogue: 0,0:03:25.03,0:03:26.65,Default,ko,0,0,0,,어라! UFO이오.
 Dialogue: 0,0:03:25.03,0:03:26.65,Default,en,0,0,0,,Huh?! It's a UFO-{\i1}dasu{\i0}.
@@ -255,10 +255,10 @@ Dialogue: 0,0:06:03.18,0:06:05.32,Default,ko,0,0,0,,내년까지 기다릴 수 �
 Dialogue: 0,0:06:03.18,0:06:05.32,Default,en,0,0,0,,I can't wait until next year-{\i1}dasu{\i0}!
 Comment: 0,0:06:06.33,0:06:08.11,Default,ja,0,0,0,,お願い！十問あげるだすから！
 Dialogue: 0,0:06:06.33,0:06:08.11,Default,ko,0,0,0,,부탁드리오. 10문 드릴 테니.
-Dialogue: 0,0:06:06.33,0:06:08.11,Default,en,0,0,0,,Please! I'll give you 10 {\i1}mon{\i0}s-{\i1}dasu{\i0}.
+Dialogue: 0,0:06:06.33,0:06:08.11,Default,en,0,0,0,,Please! I'll give you 10 mons-{\i1}dasu{\i0}.
 Comment: 0,0:06:08.92,0:06:13.21,Default,ja,0,0,0,,何？いやしくも将軍家に使えるわれらを買収しようというのか！
 Dialogue: 0,0:06:08.92,0:06:13.21,Default,ko,0,0,0,,뭐라? 설마 쇼군을 위해 일하는 우리를 매수하겠다는 거냐!
-Dialogue: 0,0:06:08.92,0:06:13.21,Default,en,0,0,0,,What? Are you trying to bribe us working under the shogun?
+Dialogue: 0,0:06:08.92,0:06:13.21,Default,en,0,0,0,,What? Are you trying to bribe us working under the shōgun?
 Comment: 0,0:06:13.51,0:06:16.39,Default,ja,0,0,0,,帰れ！さもないと、ポリスを呼ぶぞ！
 Dialogue: 0,0:06:13.51,0:06:16.39,Default,ko,0,0,0,,돌아가! 안 돌아가면 경찰을 부르겠다!
 Dialogue: 0,0:06:13.51,0:06:16.39,Default,en,0,0,0,,Go back! If you don't go back, we'll call the police!
@@ -282,7 +282,7 @@ Dialogue: 0,0:06:34.27,0:06:38.06,Default,ko,0,0,0,,이제 알겠소! 힘으로�
 Dialogue: 0,0:06:34.27,0:06:38.06,Default,en,0,0,0,,I get it-{\i1}dasu{\i0}! I'm going to enter the competition by force-{\i1}dasu{\i0}!
 Comment: 0,0:06:38.17,0:06:41.64,Default,ja,0,0,0,,何？将軍家に逆らえば打ち首だぞ！帰れ！
 Dialogue: 0,0:06:38.17,0:06:41.64,Default,ko,0,0,0,,뭐라? 쇼군을 거역하면 참수다. 돌아가라!
-Dialogue: 0,0:06:38.17,0:06:41.64,Default,en,0,0,0,,What? Defiance against the shogun is a ground for decapitation. Go back!
+Dialogue: 0,0:06:38.17,0:06:41.64,Default,en,0,0,0,,What? Defiance against the shōgun is a ground for decapitation. Go back!
 Comment: 0,0:06:41.85,0:06:45.38,Default,ja,0,0,0,,打ち首？おいらの。。。おいらの命かけた夢が。。。
 Dialogue: 0,0:06:41.85,0:06:45.38,Default,ko,0,0,0,,참수? 내... 목숨을 건 꿈이...
 Dialogue: 0,0:06:41.85,0:06:45.38,Default,en,0,0,0,,Decapitated?! My dream that I risked my life for...
@@ -334,7 +334,7 @@ Dialogue: 0,0:08:10.39,0:08:11.32,Default,ko,0,0,0,,무사시 씨...
 Dialogue: 0,0:08:10.39,0:08:11.32,Default,en,0,0,0,,Musashi...
 Comment: 0,0:08:12.74,0:08:18.52,Default,ja,0,0,0,,号外！号外！第三予選会場でコジローが燕返しで三人抜きだよ！
 Dialogue: 0,0:08:12.74,0:08:18.52,Default,ko,0,0,0,,호외! 호외! 제 3 예선 회장에서 코지로가 츠바메가에시로 3명을 쓰러트렸대요!
-Dialogue: 0,0:08:12.74,0:08:18.52,Default,en,0,0,0,,Extra! Extra! At the third preliminary place, Kojirō took down three opponents with his {\i1}Tsubamegaeshi{\i0}!
+Dialogue: 0,0:08:12.74,0:08:18.52,Default,en,0,0,0,,Extra! Extra! At the third preliminary place, Kojirō took down three opponents with his Tsubamegaeshi!
 Comment: 0,0:08:18.89,0:08:22.75,Default,ja,0,0,0,,-ああ、ハンサムね！\N-かっこいいわ、あたしの好みよ！
 Dialogue: 0,0:08:18.89,0:08:22.75,Default,ko,0,0,0,,-잘생겼어!\N-멋지다! 딱 내 취향이야!
 Dialogue: 0,0:08:18.89,0:08:22.75,Default,en,0,0,0,,-He's so handsome!\N-So cool! He's totally my type!
@@ -352,13 +352,13 @@ Dialogue: 0,0:08:31.57,0:08:33.36,Default,ko,0,0,0,,물귀신 따위 아니오.
 Dialogue: 0,0:08:31.57,0:08:33.36,Default,en,0,0,0,,I'm not a water monster-{\i1}dasu{\i0}.
 Comment: 0,0:08:36.79,0:08:41.46,Default,ja,0,0,0,,第一回武芸大会燕返しの秘剣をもって彗星の如く登場したのは
 Dialogue: 0,0:08:36.79,0:08:41.46,Default,ko,0,0,0,,제 1회 무예 대회에서 비검 츠바메가에시로 혜성과 같이 등장한
-Dialogue: 0,0:08:36.79,0:08:41.46,Default,en,0,0,0,,Appeared with his secret sword {\i1}Tsubamegaeshi{\i0} like a comet in the first martial arts competition,
+Dialogue: 0,0:08:36.79,0:08:41.46,Default,en,0,0,0,,Appeared with his secret sword Tsubamegaeshi like a comet in the first martial arts competition,
 Comment: 0,0:08:41.46,0:08:43.35,Default,ja,0,0,0,,天才剣士、コジロー。
 Dialogue: 0,0:08:41.46,0:08:43.35,Default,ko,0,0,0,,천재 검사, 코지로...
 Dialogue: 0,0:08:41.46,0:08:43.35,Default,en,0,0,0,,Kojirō is a genius martial artist...
 Comment: 0,0:08:44.66,0:08:46.58,Default,ja,0,0,0,,秘剣！燕返し！
 Dialogue: 0,0:08:44.66,0:08:46.58,Default,ko,0,0,0,,비검! 츠바메가에시!
-Dialogue: 0,0:08:44.66,0:08:46.58,Default,en,0,0,0,,Secret sword! {\i1}Tsubamegaeshi{\i0}!
+Dialogue: 0,0:08:44.66,0:08:46.58,Default,en,0,0,0,,Secret sword! Tsubamegaeshi!
 Comment: 0,0:08:47.28,0:08:50.24,Default,ja,0,0,0,,かっこいい！コジロー様！
 Dialogue: 0,0:08:47.28,0:08:50.24,Default,ko,0,0,0,,멋져! 코지로 님!
 Dialogue: 0,0:08:47.28,0:08:50.24,Default,en,0,0,0,,So cool! Kojirō!
@@ -570,7 +570,7 @@ Dialogue: 0,0:12:57.38,0:12:58.93,Default,ko,0,0,0,,{\i1}한조라고 하면...
 Dialogue: 0,0:12:57.38,0:12:58.93,Default,en,0,0,0,,{\i1}Hanzō must be...
 Comment: 0,0:13:09.05,0:13:11.23,Default,ja,0,0,0,,{\i1}幕府を倒そうっとする悪い奴だス！
 Dialogue: 0,0:13:09.05,0:13:11.23,Default,ko,0,0,0,,{\i1}막부를 쓰러뜨리겠다는 나쁜 놈이오.
-Dialogue: 0,0:13:09.05,0:13:11.23,Default,en,0,0,0,,{\i1}that bad guy trying to take down the shogunate.
+Dialogue: 0,0:13:09.05,0:13:11.23,Default,en,0,0,0,,{\i1}that bad guy trying to take down the shōgunate.
 Comment: 0,0:13:11.67,0:13:14.22,Default,ja,0,0,0,,{\i1}おいら、ジュウベエさんに知らせようっと思ってただス！
 Dialogue: 0,0:13:11.67,0:13:14.22,Default,ko,0,0,0,,{\i1}나, 주베 씨에게 알려야겠다고 생각했소.
 Dialogue: 0,0:13:11.67,0:13:14.22,Default,en,0,0,0,,{\i1}I did thought I should tell this to Jūbee.
@@ -812,7 +812,7 @@ Dialogue: 0,0:19:32.47,0:19:34.21,Default,ko,0,0,0,,뭐라? 그런 것인가!
 Dialogue: 0,0:19:32.47,0:19:34.21,Default,en,0,0,0,,What? Is that true?
 Comment: 0,0:19:34.67,0:19:39.46,Default,ja,0,0,0,,将軍決済の神聖な武芸大会をぶっつこわさんとする謀反人でござる！
 Dialogue: 0,0:19:34.67,0:19:39.46,Default,ko,0,0,0,,쇼군께서 결재하신 신성한 무예 대회에 훼방을 놓는 반역자이오!
-Dialogue: 0,0:19:34.67,0:19:39.46,Default,en,0,0,0,,He's a traitor for hindering the sacred martial arts competition Shogun approved!
+Dialogue: 0,0:19:34.67,0:19:39.46,Default,en,0,0,0,,He's a traitor for hindering the sacred martial arts competition the shōgun approved!
 Comment: 0,0:19:39.61,0:19:41.55,Default,ja,0,0,0,,しっとらえて処刑してくだされ！
 Dialogue: 0,0:19:39.61,0:19:41.55,Default,ko,0,0,0,,잡아서 처형해 주쇼!
 Dialogue: 0,0:19:39.61,0:19:41.55,Default,en,0,0,0,,Get him and execute him!

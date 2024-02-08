@@ -458,10 +458,10 @@ Dialogue: 0,0:11:28.58,0:11:30.78,Default,ko,0,0,0,,왠지 눈물나오오.
 Dialogue: 0,0:11:28.58,0:11:30.78,Default,en,0,0,0,,It's making me sad-{\i1}dasu{\i0}.
 Comment: 0,0:11:33.51,0:11:34.83,Default,ja,0,0,0,,団子だす！
 Dialogue: 0,0:11:33.51,0:11:34.83,Default,ko,0,0,0,,단고이오!
-Dialogue: 0,0:11:33.51,0:11:34.83,Default,en,0,0,0,,{\i1}Dango{\i0}s-{\i1}dasu{\i0}!
+Dialogue: 0,0:11:33.51,0:11:34.83,Default,en,0,0,0,,Dangos-{\i1}dasu{\i0}!
 Comment: 0,0:11:36.18,0:11:39.51,Default,ja,0,0,0,,相変わらずお団子に目がないんだね、ムサシさん？
 Dialogue: 0,0:11:36.18,0:11:39.51,Default,ko,0,0,0,,여전히 단고는 참 좋아하네, 무사시 씨?
-Dialogue: 0,0:11:36.18,0:11:39.51,Default,en,0,0,0,,You still like {\i1}dango{\i0}s very much, Mr. Musashi!
+Dialogue: 0,0:11:36.18,0:11:39.51,Default,en,0,0,0,,You still like dangos very much, Mr. Musashi!
 Comment: 0,0:11:40.51,0:11:42.71,Default,ja,0,0,0,,ほ、ほら、この声！
 Dialogue: 0,0:11:40.51,0:11:42.71,Default,ko,0,0,0,,어, 어라, 이 목소리!
 Dialogue: 0,0:11:40.51,0:11:42.71,Default,en,0,0,0,,H- huh? This voice!
@@ -485,7 +485,7 @@ Dialogue: 0,0:12:13.44,0:12:16.97,Default,ko,0,0,0,,오츠루하고 만나서, �
 Dialogue: 0,0:12:13.44,0:12:16.97,Default,en,0,0,0,,My courage is now 100 times as I met Otsuru-{\i1}dasu{\i0}!
 Comment: 0,0:12:18.36,0:12:20.50,Default,ja,0,0,0,,本当はお団子のおかげでしょう？
 Dialogue: 0,0:12:18.36,0:12:20.50,Default,ko,0,0,0,,사실은 단고 덕분이지?
-Dialogue: 0,0:12:18.36,0:12:20.50,Default,en,0,0,0,,I know that it's actually because of {\i1}dango{\i0}s!
+Dialogue: 0,0:12:18.36,0:12:20.50,Default,en,0,0,0,,I know that it's actually because of dangos!
 Comment: 0,0:12:20.50,0:12:21.95,Default,ja,0,0,0,,いや、違うだスよ！
 Dialogue: 0,0:12:20.50,0:12:21.95,Default,ko,0,0,0,,아니, 아니오!
 Dialogue: 0,0:12:20.50,0:12:21.95,Default,en,0,0,0,,No, it isn't-{\i1}dasu{\i0}!
