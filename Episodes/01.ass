@@ -16,8 +16,9 @@ Video File: ../Videos/01.mp4
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Active Line: 85
-Video Position: 5420
+Scroll Position: 605
+Active Line: 631
+Video Position: 26489
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -607,63 +608,63 @@ Dialogue: 0,0:17:44.09,0:17:45.10,Default,en,0,0,0,,Otsuru!
 Comment: 0,0:17:46.15,0:17:47.31,Default,ja,0,0,0,,今助けてあげるわ。
 Dialogue: 0,0:17:46.15,0:17:47.31,Default,ko,0,0,0,,지금 구해 드릴게요.
 Dialogue: 0,0:17:46.15,0:17:47.31,Default,en,0,0,0,,I'm going to save you!
-Comment: 0,0:17:56.86,0:17:57.99,Default,ja,0,0,0,,もう大丈夫ね。
-Dialogue: 0,0:17:56.86,0:17:57.99,Default,ko,0,0,0,,이제 괜찮네요!
-Dialogue: 0,0:17:56.86,0:17:57.99,Default,en,0,0,0,,It's all right now!
-Comment: 0,0:17:59.01,0:18:01.54,Default,ja,0,0,0,,でも、オツルさん和尚さんに叱られるだス。
-Dialogue: 0,0:17:59.01,0:18:01.54,Default,ko,0,0,0,,그래도 오츠루 씨 혼나겠소!
-Dialogue: 0,0:17:59.01,0:18:01.54,Default,en,0,0,0,,But Otsuru, you're going to be scolded-{\i1}dasu{\i0}!
-Comment: 0,0:18:01.54,0:18:08.91,Default,ja,0,0,0,,ううん、あたしのことは心配しないで。あたしはムサシさんがスズメと遊んでるのを見てとてもうれしいかったわ。
-Dialogue: 0,0:18:01.54,0:18:08.91,Default,ko,0,0,0,,아니에요, 걱정하지 말고 전 무사시 씨가 참새하고 같이 있는 걸 보고 정말 기뻤어요!
-Dialogue: 0,0:18:01.54,0:18:08.91,Default,en,0,0,0,,No, don't worry about it. I was happy to see you with those sparrows!
-Comment: 0,0:18:09.73,0:18:14.59,Default,ja,0,0,0,,だって、ムサシさんは本当はとても心が優しいんだって分かってんだもの！
-Dialogue: 0,0:18:09.73,0:18:14.59,Default,ko,0,0,0,,그러니까 무사시 씨 사실은 정말 마음이 착한 걸 알겠어요!
-Dialogue: 0,0:18:09.73,0:18:14.59,Default,en,0,0,0,,You really have a kind spirit inside of you!
-Comment: 0,0:18:15.35,0:18:17.87,Default,ja,0,0,0,,いや、そんな、てれるんだスよ。
-Dialogue: 0,0:18:15.35,0:18:17.87,Default,ko,0,0,0,,수줍소...
-Dialogue: 0,0:18:15.35,0:18:17.87,Default,en,0,0,0,,You're making me blush-{\i1}dasu{\i0}...
-Comment: 0,0:18:20.13,0:18:21.05,Default,ja,0,0,0,,ムサシさん？
-Dialogue: 0,0:18:20.13,0:18:21.05,Default,ko,0,0,0,,무사시 씨?
-Dialogue: 0,0:18:20.13,0:18:21.05,Default,en,0,0,0,,Musashi?
-Comment: 0,0:18:21.87,0:18:22.59,Default,ja,0,0,0,,なに？
-Dialogue: 0,0:18:21.87,0:18:22.59,Default,ko,0,0,0,,뭐오?
-Dialogue: 0,0:18:21.87,0:18:22.59,Default,en,0,0,0,,What is it?
-Comment: 0,0:18:22.59,0:18:23.93,Default,ja,0,0,0,,これ、お結びよ。
-Dialogue: 0,0:18:22.59,0:18:23.93,Default,ko,0,0,0,,이거 주먹밥이에요.
-Dialogue: 0,0:18:22.59,0:18:23.93,Default,en,0,0,0,,I made some rice balls for you.
-Comment: 0,0:18:24.00,0:18:24.82,Default,ja,0,0,0,,オツルさん！
-Dialogue: 0,0:18:24.00,0:18:24.82,Default,ko,0,0,0,,오츠루 씨!
-Dialogue: 0,0:18:24.00,0:18:24.82,Default,en,0,0,0,,Otsuru!
-Comment: 0,0:18:25.33,0:18:27.78,Default,ja,0,0,0,,和尚さんだってきっと分かってくださるわ。
-Dialogue: 0,0:18:25.33,0:18:27.78,Default,ko,0,0,0,,스님도 알아주실 거에요.
-Dialogue: 0,0:18:25.33,0:18:27.78,Default,en,0,0,0,,I hope that Master will understand.
-Comment: 0,0:18:28.50,0:18:28.93,Default,ja,0,0,0,,うん。
-Dialogue: 0,0:18:28.50,0:18:28.93,Default,ko,0,0,0,,그러오.
-Dialogue: 0,0:18:28.50,0:18:28.93,Default,en,0,0,0,,Agreed.
-Comment: 0,0:18:29.05,0:18:30.91,Default,ja,0,0,0,,ムサシが逃げたぞ！
-Dialogue: 0,0:18:29.05,0:18:30.91,Default,ko,0,0,0,,무사시가 도망쳤다!
-Dialogue: 0,0:18:29.05,0:18:30.91,Default,en,0,0,0,,Musashi ran away!
+Comment: 0,0:17:56.86,0:17:57.99,Default,ja;L1756,0,0,0,,もう大丈夫ね。
+Dialogue: 0,0:17:56.86,0:17:57.99,Default,ko;L1756,0,0,0,,이제 괜찮네요!
+Dialogue: 0,0:17:56.86,0:17:57.99,Default,en;L1756,0,0,0,,It's all right now!
+Comment: 0,0:17:59.01,0:18:01.54,Default,ja;L1759,0,0,0,,でも、オツルさん和尚さんに叱られるだス。
+Dialogue: 0,0:17:59.01,0:18:01.54,Default,ko;L1759,0,0,0,,그래도 오츠루 씨 혼나겠소!
+Dialogue: 0,0:17:59.01,0:18:01.54,Default,en;L1759,0,0,0,,But Otsuru, you're going to be scolded-{\i1}dasu{\i0}!
+Comment: 0,0:18:01.54,0:18:08.91,Default,ja;L1801,0,0,0,,ううん、あたしのことは心配しないで。あたしはムサシさんがスズメと遊んでるのを見てとてもうれしいかったわ。
+Dialogue: 0,0:18:01.54,0:18:08.91,Default,ko;L1801,0,0,0,,아니에요, 걱정하지 말고 전 무사시 씨가 참새하고 같이 있는 걸 보고 정말 기뻤어요!
+Dialogue: 0,0:18:01.54,0:18:08.91,Default,en;L1801,0,0,0,,No, don't worry about it. I was happy to see you with those sparrows!
+Comment: 0,0:18:09.73,0:18:14.59,Default,ja;L1809,0,0,0,,だって、ムサシさんは本当はとても心が優しいんだって分かってんだもの！
+Dialogue: 0,0:18:09.73,0:18:14.59,Default,ko;L1809,0,0,0,,그러니까 무사시 씨 사실은 정말 마음이 착한 걸 알겠어요!
+Dialogue: 0,0:18:09.73,0:18:14.59,Default,en;L1809,0,0,0,,You really have a kind spirit inside of you!
+Comment: 0,0:18:15.35,0:18:17.87,Default,ja;L1815,0,0,0,,いや、そんな、てれるんだスよ。
+Dialogue: 0,0:18:15.35,0:18:17.87,Default,ko;L1815,0,0,0,,수줍소...
+Dialogue: 0,0:18:15.35,0:18:17.87,Default,en;L1815,0,0,0,,You're making me blush-{\i1}dasu{\i0}...
+Comment: 0,0:18:20.13,0:18:21.05,Default,ja;L1820,0,0,0,,ムサシさん？
+Dialogue: 0,0:18:20.13,0:18:21.05,Default,ko;L1820,0,0,0,,무사시 씨?
+Dialogue: 0,0:18:20.13,0:18:21.05,Default,en;L1820,0,0,0,,Musashi?
+Comment: 0,0:18:21.87,0:18:22.59,Default,ja;L1821,0,0,0,,なに？
+Dialogue: 0,0:18:21.87,0:18:22.59,Default,ko;L1821,0,0,0,,뭐오?
+Dialogue: 0,0:18:21.87,0:18:22.59,Default,en;L1821,0,0,0,,What is it?
+Comment: 0,0:18:22.59,0:18:23.93,Default,ja;L1822,0,0,0,,これ、お結びよ。
+Dialogue: 0,0:18:22.59,0:18:23.93,Default,ko;L1822,0,0,0,,이거 주먹밥이에요.
+Dialogue: 0,0:18:22.59,0:18:23.93,Default,en;L1822,0,0,0,,I made some rice balls for you.
+Comment: 0,0:18:24.00,0:18:24.82,Default,ja;L1824,0,0,0,,オツルさん！
+Dialogue: 0,0:18:24.00,0:18:24.82,Default,ko;L1824,0,0,0,,오츠루 씨!
+Dialogue: 0,0:18:24.00,0:18:24.82,Default,en;L1824,0,0,0,,Otsuru!
+Comment: 0,0:18:25.33,0:18:27.78,Default,ja;L1825,0,0,0,,和尚さんだってきっと分かってくださるわ。
+Dialogue: 0,0:18:25.33,0:18:27.78,Default,ko;L1825,0,0,0,,스님도 알아주실 거에요.
+Dialogue: 0,0:18:25.33,0:18:27.78,Default,en;L1825,0,0,0,,I hope that Master will understand.
+Comment: 0,0:18:28.50,0:18:28.93,Default,ja;L1828,0,0,0,,うん。
+Dialogue: 0,0:18:28.50,0:18:28.93,Default,ko;L1828,0,0,0,,그러오.
+Dialogue: 0,0:18:28.50,0:18:28.93,Default,en;L1828,0,0,0,,Agreed.
+Comment: 0,0:18:29.05,0:18:30.91,Default,ja;L1829,0,0,0,,ムサシが逃げたぞ！
+Dialogue: 0,0:18:29.05,0:18:30.91,Default,ko;L1829,0,0,0,,무사시가 도망쳤다!
+Dialogue: 0,0:18:29.05,0:18:30.91,Default,en;L1829,0,0,0,,Musashi ran away!
 Comment: 0,0:18:31.89,0:18:32.42,Default,ja,0,0,0,,早く！
 Dialogue: 0,0:18:31.89,0:18:32.42,Default,ko,0,0,0,,빨리!
 Dialogue: 0,0:18:31.89,0:18:32.42,Default,en,0,0,0,,Quick!
-Comment: 0,0:18:34.66,0:18:36.50,Default,ja,0,0,0,,きっと夢を叶えてね！
-Dialogue: 0,0:18:34.66,0:18:36.50,Default,ko,0,0,0,,꼭 꿈을 이루세요!
-Dialogue: 0,0:18:34.66,0:18:36.50,Default,en,0,0,0,,Follow your dreams.
-Comment: 0,0:18:36.98,0:18:41.37,Default,ja,0,0,0,,ありがとう。おいら、ジパングナンバー1の武芸者にきっとなって見せるだス！
-Dialogue: 0,0:18:36.98,0:18:41.37,Default,ko,0,0,0,,고맙소. 전 꼭 지팡구 제일의 무예가가 되겠소!
-Dialogue: 0,0:18:36.98,0:18:41.37,Default,en,0,0,0,,Thank you. I will definitely become the number one martial artist of Jipangu-{\i1}dasu{\i0}!
-Comment: 0,0:18:42.09,0:18:44.71,Default,ja,0,0,0,,オツルさん、あ、あの。。。
-Dialogue: 0,0:18:42.09,0:18:44.71,Default,ko,0,0,0,,오츠루 씨, 저... 저...
-Dialogue: 0,0:18:42.09,0:18:44.71,Default,en,0,0,0,,Otsuru, I... I...
-Comment: 0,0:18:44.71,0:18:45.83,Default,ja,0,0,0,,ええ、なに？
-Dialogue: 0,0:18:44.71,0:18:45.83,Default,ko,0,0,0,,네, 뭐에요?
-Dialogue: 0,0:18:44.71,0:18:45.83,Default,en,0,0,0,,Yes, what is it?
-Comment: 0,0:18:46.00,0:18:48.82,Default,ja,0,0,0,,あの、た、達者で言って{???}ほしいだス。
-Dialogue: 0,0:18:46.00,0:18:48.82,Default,ko,0,0,0,,저... 작별인사를 해 주면 고맙겠소!
-Dialogue: 0,0:18:46.00,0:18:48.82,Default,en,0,0,0,,I... I'd like a farewell from you-{\i1}dasu{\i0}!
-Comment: 0,0:18:52.75,0:18:56.51,Default,ja,0,0,0,,元気でね、ムサシさん！
-Dialogue: 0,0:18:52.75,0:18:56.51,Default,ko,0,0,0,,건강하세요, 무사시 씨!
-Dialogue: 0,0:18:52.75,0:18:56.51,Default,en,0,0,0,,Stay well, Musashi!
+Comment: 0,0:18:34.66,0:18:36.50,Default,ja;L1834,0,0,0,,きっと夢を叶えてね！
+Dialogue: 0,0:18:34.66,0:18:36.50,Default,ko;L1834,0,0,0,,꼭 꿈을 이루세요!
+Dialogue: 0,0:18:34.66,0:18:36.50,Default,en;L1834,0,0,0,,Follow your dreams.
+Comment: 0,0:18:36.98,0:18:41.37,Default,ja;L1836,0,0,0,,ありがとう。おいら、ジパングナンバー1の武芸者にきっとなって見せるだス！
+Dialogue: 0,0:18:36.98,0:18:41.37,Default,ko;L1836,0,0,0,,고맙소. 난 꼭 지팡구 제일의 무예가가 되겠소!
+Dialogue: 0,0:18:36.98,0:18:41.37,Default,en;L1836,0,0,0,,Thank you. I will definitely become the number one martial artist of Jipangu-{\i1}dasu{\i0}!
+Comment: 0,0:18:42.09,0:18:44.71,Default,ja;L1842,0,0,0,,オツルさん、あ、あの。。。
+Dialogue: 0,0:18:42.09,0:18:44.71,Default,ko;L1842,0,0,0,,오츠루 씨, 저... 저...
+Dialogue: 0,0:18:42.09,0:18:44.71,Default,en;L1842,0,0,0,,Otsuru, I... I...
+Comment: 0,0:18:44.71,0:18:45.83,Default,ja;L1844,0,0,0,,ええ、なに？
+Dialogue: 0,0:18:44.71,0:18:45.83,Default,ko;L1844,0,0,0,,네, 뭐에요?
+Dialogue: 0,0:18:44.71,0:18:45.83,Default,en;L1844,0,0,0,,Yes, what is it?
+Comment: 0,0:18:46.00,0:18:48.82,Default,ja;L1846,0,0,0,,あの、た、達者で言って{???}ほしいだス。
+Dialogue: 0,0:18:46.00,0:18:48.82,Default,ko;L1846,0,0,0,,저... 작별인사를 해 주면 고맙겠소!
+Dialogue: 0,0:18:46.00,0:18:48.82,Default,en;L1846,0,0,0,,I... I'd like a farewell from you-{\i1}dasu{\i0}!
+Comment: 0,0:18:52.75,0:18:56.51,Default,ja;L1852,0,0,0,,元気でね、ムサシさん！
+Dialogue: 0,0:18:52.75,0:18:56.51,Default,ko;L1852,0,0,0,,건강하세요, 무사시 씨!
+Dialogue: 0,0:18:52.75,0:18:56.51,Default,en;L1852,0,0,0,,Stay well, Musashi!
 Comment: 0,0:18:56.97,0:18:59.92,Default,ja,0,0,0,,ムサシさん！
 Dialogue: 0,0:18:56.97,0:18:59.92,Default,ko,0,0,0,,무사시 씨!
 Dialogue: 0,0:18:56.97,0:18:59.92,Default,en,0,0,0,,Musashi!
@@ -679,39 +680,39 @@ Dialogue: 0,0:19:25.32,0:19:29.08,Default,en,0,0,0,,Otsuru's rice balls taste so
 Comment: 0,0:19:33.70,0:19:34.39,Default,ja,0,0,0,,あの時の！
 Dialogue: 0,0:19:33.70,0:19:34.39,Default,ko,0,0,0,,그 때 그...
 Dialogue: 0,0:19:33.70,0:19:34.39,Default,en,0,0,0,,He's from back then...
-Comment: 0,0:19:34.87,0:19:36.91,Default,ja,0,0,0,,ちょ、ちょっと待つでござるだス！
-Dialogue: 0,0:19:34.87,0:19:36.91,Default,ko,0,0,0,,잠, 잠깐 기다리시오!
-Dialogue: 0,0:19:34.87,0:19:36.91,Default,en,0,0,0,,Wait a moment-{\i1}dasu{\i0}!
-Comment: 0,0:19:39.40,0:19:41.49,Default,ja,0,0,0,,待てと言うのは私のことか。
-Dialogue: 0,0:19:39.40,0:19:41.49,Default,ko,0,0,0,,기다리라는 건 나 말인가.
-Dialogue: 0,0:19:39.40,0:19:41.49,Default,en,0,0,0,,Are you talking to me?
+Comment: 0,0:19:34.87,0:19:36.91,Default,ja;L1934,0,0,0,,ちょ、ちょっと待つでござるだス！
+Dialogue: 0,0:19:34.87,0:19:36.91,Default,ko;L1934,0,0,0,,잠, 잠깐 기다리시오!
+Dialogue: 0,0:19:34.87,0:19:36.91,Default,en;L1934,0,0,0,,Wait a moment-{\i1}dasu{\i0}!
+Comment: 0,0:19:39.40,0:19:41.49,Default,ja;L1939,0,0,0,,待てと言うのは私のことか。
+Dialogue: 0,0:19:39.40,0:19:41.49,Default,ko;L1939,0,0,0,,기다리라는 건 나 말인가.
+Dialogue: 0,0:19:39.40,0:19:41.49,Default,en;L1939,0,0,0,,Are you talking to me?
 Comment: 0,0:19:42.02,0:19:47.29,Default,ja,0,0,0,,そ、そうだす。おいら、武芸の修行中のみ{???}、お手合わせを願うでござるだス。
 Dialogue: 0,0:19:42.02,0:19:47.29,Default,ko,0,0,0,,그, 그렇소. 나, 무예의 수련을 위해 상대가 되어 주길 부탁드리오.
 Dialogue: 0,0:19:42.02,0:19:47.29,Default,en,0,0,0,,That's right-{\i1}dasu{\i0}. For my training, I'd like you to be my opponent-{\i1}dasu{\i0}.
-Comment: 0,0:19:47.99,0:19:49.83,Default,ja,0,0,0,,お弁当付けて何をいう。
-Dialogue: 0,0:19:47.99,0:19:49.83,Default,ko,0,0,0,,얼굴에 밥풀이나 붙이고 다니는 주제에 무슨 소리를.
-Dialogue: 0,0:19:47.99,0:19:49.83,Default,en,0,0,0,,You have rice stuck to your face.
+Comment: 0,0:19:47.99,0:19:49.83,Default,ja;L1947,0,0,0,,お弁当付けて何をいう。
+Dialogue: 0,0:19:47.99,0:19:49.83,Default,ko;L1947,0,0,0,,얼굴에 밥풀이나 붙이고 다니는 주제에 무슨 소리를.
+Dialogue: 0,0:19:47.99,0:19:49.83,Default,en;L1947,0,0,0,,You have rice stuck to your face.
 Comment: 0,0:19:53.53,0:19:55.77,Default,ja,0,0,0,,おぬし、あの時の坊やではないか。
 Dialogue: 0,0:19:53.53,0:19:55.77,Default,ko,0,0,0,,너, 아까 그 꼬마 아니냐.
 Dialogue: 0,0:19:53.53,0:19:55.77,Default,en,0,0,0,,Aren't you that kiddo from a few days ago?
 Comment: 0,0:19:56.33,0:20:00.48,Default,ja,0,0,0,,坊やなんかじゃないだス！おいら、ミヤモト村のムサシでござるだス。
 Dialogue: 0,0:19:56.33,0:20:00.48,Default,ko,0,0,0,,꼬마 아니오! 난 미야모토 마을의 무사시이오!
 Dialogue: 0,0:19:56.33,0:20:00.48,Default,en,0,0,0,,I'm not a kiddo-{\i1}dasu{\i0}! I am Musashi from Miyamoto village-{\i1}dasu{\i0}!
-Comment: 0,0:20:01.19,0:20:04.65,Default,ja,0,0,0,,悪いことは言わん。村へ帰って畑の手伝えでもするんだな。
-Dialogue: 0,0:20:01.19,0:20:04.65,Default,ko,0,0,0,,나쁜 소리는 하지 않겠다. 마을에 돌아가서 밭일이나 도와줘라.
-Dialogue: 0,0:20:01.19,0:20:04.65,Default,en,0,0,0,,I'll cut it short. You should go back and help with fieldworks.
-Comment: 0,0:20:05.69,0:20:08.45,Default,ja,0,0,0,,おのれ、馬鹿にするでないんだス！
-Dialogue: 0,0:20:05.69,0:20:08.45,Default,ko,0,0,0,,네이놈, 업신여기지 마시오!
-Dialogue: 0,0:20:05.69,0:20:08.45,Default,en,0,0,0,,Damn you, don't look down on me-{\i1}dasu{\i0}!
+Comment: 0,0:20:01.19,0:20:04.65,Default,ja;L2001,0,0,0,,悪いことは言わん。村へ帰って畑の手伝えでもするんだな。
+Dialogue: 0,0:20:01.19,0:20:04.65,Default,ko;L2001,0,0,0,,나쁜 소리는 하지 않겠다. 마을에 돌아가서 밭일이나 도와줘라.
+Dialogue: 0,0:20:01.19,0:20:04.65,Default,en;L2001,0,0,0,,I'll cut it short. You should go back and help with fieldworks.
+Comment: 0,0:20:05.69,0:20:08.45,Default,ja;L2005,0,0,0,,おのれ、馬鹿にするでないんだス！
+Dialogue: 0,0:20:05.69,0:20:08.45,Default,ko;L2005,0,0,0,,네이놈, 업신여기지 마시오!
+Dialogue: 0,0:20:05.69,0:20:08.45,Default,en;L2005,0,0,0,,Damn you, don't look down on me-{\i1}dasu{\i0}!
 Comment: 0,0:20:08.74,0:20:10.40,Default,ja,0,0,0,,勝負！
 Dialogue: 0,0:20:08.74,0:20:10.40,Default,ko,0,0,0,,승부!
 Dialogue: 0,0:20:08.74,0:20:10.40,Default,en,0,0,0,,Face me!
-Comment: 0,0:20:21.87,0:20:24.21,Default,ja,0,0,0,,飛び上がるなんて卑怯でござるだス。
-Dialogue: 0,0:20:21.87,0:20:24.21,Default,ko,0,0,0,,뛰어 올라가다니 비겁하오!
-Dialogue: 0,0:20:21.87,0:20:24.21,Default,en,0,0,0,,It's cowardly to jump up-{\i1}dasu{\i0}!
-Comment: 0,0:20:25.05,0:20:27.86,Default,ja,0,0,0,,後ろから切り付けるというのは卑怯ではないのか！
-Dialogue: 0,0:20:25.05,0:20:27.86,Default,ko,0,0,0,,뒤에서 달려드는 것은 비겁한 것이 아니냐!
-Dialogue: 0,0:20:25.05,0:20:27.86,Default,en,0,0,0,,And attacking from behind isn't?
+Comment: 0,0:20:21.87,0:20:24.21,Default,ja;L2021,0,0,0,,飛び上がるなんて卑怯でござるだス。
+Dialogue: 0,0:20:21.87,0:20:24.21,Default,ko;L2021,0,0,0,,뛰어 올라가다니 비겁하오!
+Dialogue: 0,0:20:21.87,0:20:24.21,Default,en;L2021,0,0,0,,It's cowardly to jump up-{\i1}dasu{\i0}!
+Comment: 0,0:20:25.05,0:20:27.86,Default,ja;L2025,0,0,0,,後ろから切り付けるというのは卑怯ではないのか！
+Dialogue: 0,0:20:25.05,0:20:27.86,Default,ko;L2025,0,0,0,,뒤에서 달려드는 것은 비겁한 것이 아니냐!
+Dialogue: 0,0:20:25.05,0:20:27.86,Default,en;L2025,0,0,0,,And attacking from behind isn't?
 Comment: 0,0:20:28.50,0:20:30.61,Default,ja,0,0,0,,そんな言い口はどうでもいいだス！
 Dialogue: 0,0:20:28.50,0:20:30.61,Default,ko,0,0,0,,그건 아무래도 상관없소!
 Dialogue: 0,0:20:28.50,0:20:30.61,Default,en,0,0,0,,That doesn't matter-{\i1}dasu{\i0}!
@@ -733,26 +734,26 @@ Dialogue: 0,0:20:45.27,0:20:46.24,Default,en,0,0,0,,How astonishing!
 Comment: 0,0:20:46.82,0:20:51.52,Default,ja,0,0,0,,{???}じょうとだス！名のある武芸者なら、おいらが倒して名をあげるだス！
 Dialogue: 0,0:20:46.82,0:20:51.52,Default,ko,0,0,0,,좋소! 이름 있는 무예가라면 내가 쓰러뜨려 이름을 세우겠소!
 Dialogue: 0,0:20:46.82,0:20:51.52,Default,en,0,0,0,,Fine-{\i1}dasu{\i0}! If you're a famous martial artist, then I will take you down and make myself famous-{\i1}dasu{\i0}!
-Comment: 0,0:20:51.85,0:20:55.76,Default,ja,0,0,0,,よかろう！武芸の道がいたに厳しいものか教えてやろう！
-Dialogue: 0,0:20:51.85,0:20:55.76,Default,ko,0,0,0,,좋다! 무예의 길이란 얼마나 혹독한 것인지 알려 주겠다!
-Dialogue: 0,0:20:51.85,0:20:55.76,Default,en,0,0,0,,Sure! I'll show you how relentless is the path of martial arts!
-Comment: 0,0:20:55.98,0:20:57.46,Default,ja,0,0,0,,ムサシ見参！
-Dialogue: 0,0:20:55.98,0:20:57.46,Default,ko,0,0,0,,무사시 등장!
-Dialogue: 0,0:20:55.98,0:20:57.46,Default,en,0,0,0,,Here I come!
-Comment: 0,0:21:00.86,0:21:05.18,Default,ja,0,0,0,,秘剣！燕返し！
-Dialogue: 0,0:21:00.86,0:21:05.18,Default,ko,0,0,0,,비검! 츠바메가에시!
-Dialogue: 0,0:21:00.86,0:21:05.18,Default,en,0,0,0,,Secret Sword Tsubamegaeshi!
+Comment: 0,0:20:51.85,0:20:55.76,Default,ja;L2051,0,0,0,,よかろう！武芸の道がいたに厳しいものか教えてやろう！
+Dialogue: 0,0:20:51.85,0:20:55.76,Default,ko;L2051,0,0,0,,좋다! 무예의 길이란 얼마나 혹독한 것인지 알려 주겠다!
+Dialogue: 0,0:20:51.85,0:20:55.76,Default,en;L2051,0,0,0,,Sure! I'll show you how relentless is the path of martial arts!
+Comment: 0,0:20:55.98,0:20:57.46,Default,ja;L2055,0,0,0,,ムサシ見参！
+Dialogue: 0,0:20:55.98,0:20:57.46,Default,ko;L2055,0,0,0,,무사시 등장!
+Dialogue: 0,0:20:55.98,0:20:57.46,Default,en;L2055,0,0,0,,Here I come!
+Comment: 0,0:21:00.86,0:21:05.18,Default,ja;L2100,0,0,0,,秘剣！燕返し！
+Dialogue: 0,0:21:00.86,0:21:05.18,Default,ko;L2100,0,0,0,,비검! 츠바메가에시!
+Dialogue: 0,0:21:00.86,0:21:05.18,Default,en;L2100,0,0,0,,Secret Sword Tsubamegaeshi!
 Dialogue: 0,0:21:00.86,0:21:05.25,Note,ko,0,0,0,,(츠바메가에시: 燕返し. 말 그대로는 제비 뒤집기)
 Dialogue: 0,0:21:00.86,0:21:05.25,Note,en,0,0,0,,(Tsubamegaeshi: 燕返し. lit. Swallow Reversal)
-Comment: 0,0:21:12.93,0:21:15.04,Default,ja,0,0,0,,さらばだ、ムサシ。ばっかめ。
-Dialogue: 0,0:21:12.93,0:21:15.04,Default,ko,0,0,0,,안녕이다, 무사시. 바보 녀석.
-Dialogue: 0,0:21:12.93,0:21:15.04,Default,en,0,0,0,,Farewell, Musashi. Idiot.
-Comment: 0,0:21:15.27,0:21:17.99,Default,ja,0,0,0,,こ、こりゃ！勝負はまだついー
-Dialogue: 0,0:21:15.27,0:21:17.99,Default,ko,0,0,0,,야! 승부는 아직...
-Dialogue: 0,0:21:15.27,0:21:17.99,Default,en,0,0,0,,Hey! The match isn't...
-Comment: 0,0:21:23.17,0:21:24.98,Default,ja,0,0,0,,そんなばかな。。。
-Dialogue: 0,0:21:23.17,0:21:24.98,Default,ko,0,0,0,,말도 안 돼...
-Dialogue: 0,0:21:23.17,0:21:24.98,Default,en,0,0,0,,No way...
+Comment: 0,0:21:12.93,0:21:15.04,Default,ja;L2112,0,0,0,,さらばだ、ムサシ。ばっかめ。
+Dialogue: 0,0:21:12.93,0:21:15.04,Default,ko;L2112,0,0,0,,안녕이다, 무사시. 바보 녀석.
+Dialogue: 0,0:21:12.93,0:21:15.04,Default,en;L2112,0,0,0,,Farewell, Musashi. Idiot.
+Comment: 0,0:21:15.27,0:21:17.99,Default,ja;L2115,0,0,0,,こ、こりゃ！勝負はまだついー
+Dialogue: 0,0:21:15.27,0:21:17.99,Default,ko;L2115,0,0,0,,야! 승부는 아직...
+Dialogue: 0,0:21:15.27,0:21:17.99,Default,en;L2115,0,0,0,,Hey! The match isn't...
+Comment: 0,0:21:23.17,0:21:24.98,Default,ja;L2123,0,0,0,,そんなばかな。。。
+Dialogue: 0,0:21:23.17,0:21:24.98,Default,ko;L2123,0,0,0,,말도 안 돼...
+Dialogue: 0,0:21:23.17,0:21:24.98,Default,en;L2123,0,0,0,,No way...
 Comment: 0,0:21:46.71,0:21:49.26,Default,ja,0,0,0,,おいら、悔しいでござるだス。
 Dialogue: 0,0:21:46.71,0:21:49.26,Default,ko,0,0,0,,나... 나, 분하오...
 Dialogue: 0,0:21:46.71,0:21:49.26,Default,en,0,0,0,,I'm so embarrassed-{\i1}dasu{\i0}...

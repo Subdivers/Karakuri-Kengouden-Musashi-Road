@@ -16,9 +16,9 @@ Video File: ../Videos/12.mp4
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 788
-Active Line: 803
-Video Position: 35179
+Scroll Position: 650
+Active Line: 679
+Video Position: 24865
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -660,12 +660,12 @@ Dialogue: 0,0:17:07.39,0:17:08.67,Default,en,0,0,0,,I am very happy to hear that
 Comment: 0,0:17:12.44,0:17:14.08,Default,ja,0,0,0,,これより番外試合。
 Dialogue: 0,0:17:12.44,0:17:14.08,Default,ko,0,0,0,,지금부터 번외 시합.
 Dialogue: 0,0:17:12.44,0:17:14.08,Default,en,0,0,0,,An extra match will begin now.
-Comment: 0,0:17:14.11,0:17:17.33,Default,ja,0,0,0,,ジュウベエ殿とムサシ殿。一本勝負！
+Comment: 0,0:17:14.11,0:17:17.33,Default,ja,0,0,0,,ジュウベエ殿対ムサシ殿。一本勝負！
 Dialogue: 0,0:17:14.11,0:17:17.33,Default,ko,0,0,0,,주베 님 대 무사시 님, 단판 승부!
 Dialogue: 0,0:17:14.11,0:17:17.33,Default,en,0,0,0,,Jūbee vs Musashi. One-game match!
-Comment: 0,0:17:20.26,0:17:21.31,Default,ja,0,0,0,,初め！
-Dialogue: 0,0:17:20.26,0:17:21.31,Default,ko,0,0,0,,시작!
-Dialogue: 0,0:17:20.26,0:17:21.31,Default,en,0,0,0,,Start!
+Comment: 0,0:17:20.26,0:17:21.31,Default,ja;L1720,0,0,0,,初め！
+Dialogue: 0,0:17:20.26,0:17:21.31,Default,ko;L1720,0,0,0,,시작!
+Dialogue: 0,0:17:20.26,0:17:21.31,Default,en;L1720,0,0,0,,Start!
 Comment: 0,0:17:34.07,0:17:35.52,Default,ja,0,0,0,,さすがわ、ジュウベエ。
 Dialogue: 0,0:17:34.07,0:17:35.52,Default,ko,0,0,0,,대단하군, 주베.
 Dialogue: 0,0:17:34.07,0:17:35.52,Default,en,0,0,0,,Excellent job, Jūbee.
@@ -708,12 +708,12 @@ Dialogue: 0,0:18:52.69,0:18:53.67,Default,en,0,0,0,,Awesome!
 Comment: 0,0:18:56.55,0:18:57.44,Default,ja,0,0,0,,ムサシ！
 Dialogue: 0,0:18:56.55,0:18:57.44,Default,ko,0,0,0,,무사시!
 Dialogue: 0,0:18:56.55,0:18:57.44,Default,en,0,0,0,,Musashi!
-Comment: 0,0:18:58.18,0:19:01.71,Default,ja,0,0,0,,行かん！このままではやられるだス、このままでは！
-Dialogue: 0,0:18:58.18,0:19:01.71,Default,ko,0,0,0,,{\i1}안 돼! 이대로는 당하오! 이대로는!
-Dialogue: 0,0:18:58.18,0:19:01.71,Default,en,0,0,0,,{\i1}No! I'll be done for at this rate-{\i1}dasu{\i0}! I need something!
-Comment: 0,0:19:03.46,0:19:05.49,Default,ja,0,0,0,,なんとか切り抜ける手はないだスか！
-Dialogue: 0,0:19:03.46,0:19:05.49,Default,ko,0,0,0,,{\i1}어떻게 타개할 방법은 없소?
-Dialogue: 0,0:19:03.46,0:19:05.49,Default,en,0,0,0,,{\i1}Is there a way to get over-{\i1}dasu{\i0}?
+Comment: 0,0:18:58.18,0:19:01.71,Default,ja;L1858,0,0,0,,行かん！このままではやられるだス、このままでは！
+Dialogue: 0,0:18:58.18,0:19:01.71,Default,ko;L1858,0,0,0,,{\i1}안 돼! 이대로는 당하오! 이대로는!
+Dialogue: 0,0:18:58.18,0:19:01.71,Default,en;L1858,0,0,0,,{\i1}No! I'll be done for at this rate-{\i1}dasu{\i0}! I need something!
+Comment: 0,0:19:03.46,0:19:05.49,Default,ja;L1903,0,0,0,,なんとか切り抜ける手はないだスか！
+Dialogue: 0,0:19:03.46,0:19:05.49,Default,ko;L1903,0,0,0,,{\i1}어떻게 타개할 방법은 없소?
+Dialogue: 0,0:19:03.46,0:19:05.49,Default,en;L1903,0,0,0,,{\i1}Is there a way to get over-{\i1}dasu{\i0}?
 Comment: 0,0:19:50.91,0:19:52.43,Default,ja,0,0,0,,秘剣！一の太刀！
 Dialogue: 0,0:19:50.91,0:19:52.43,Default,ko,0,0,0,,비검! 제일의 검!
 Dialogue: 0,0:19:50.91,0:19:52.43,Default,en,0,0,0,,Secret Sword! Ichi no Tachi!

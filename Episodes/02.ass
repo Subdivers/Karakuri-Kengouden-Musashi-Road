@@ -16,9 +16,9 @@ Video File: ../Videos/02.mp4
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 706
-Active Line: 737
-Video Position: 35174
+Scroll Position: 630
+Active Line: 644
+Video Position: 26462
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -640,18 +640,18 @@ Dialogue: 0,0:18:05.91,0:18:08.53,Default,en,0,0,0,,But no need to worry at all!
 Comment: 0,0:18:08.65,0:18:12.01,Default,ja,0,0,0,,ムサシのことだ。たくましくやっておるよ。
 Dialogue: 0,0:18:08.65,0:18:12.01,Default,ko,0,0,0,,무사시니까. 씩씩하게 뭐든 해낼 테니까!
 Dialogue: 0,0:18:08.65,0:18:12.01,Default,en,0,0,0,,He's Musashi after all. He'll bravely fight for his future.
-Comment: 0,0:18:23.87,0:18:25.27,Default,ja,0,0,0,,あまい、あまい！
-Dialogue: 0,0:18:23.87,0:18:25.27,Default,ko,0,0,0,,무디다! 무뎌!
-Dialogue: 0,0:18:23.87,0:18:25.27,Default,en,0,0,0,,Soft and naive!
-Comment: 0,0:18:46.09,0:18:47.14,Default,ja,0,0,0,,師匠！
-Dialogue: 0,0:18:46.09,0:18:47.14,Default,ko,0,0,0,,스승님!
-Dialogue: 0,0:18:46.09,0:18:47.14,Default,en,0,0,0,,Master!
-Comment: 0,0:18:50.70,0:18:51.99,Default,ja,0,0,0,,何するだス！
-Dialogue: 0,0:18:50.70,0:18:51.99,Default,ko,0,0,0,,뭔 짓이오!
-Dialogue: 0,0:18:50.70,0:18:51.99,Default,en,0,0,0,,What are you doing-{\i1}dasu{\i0}?!
-Comment: 0,0:18:52.17,0:18:56.95,Default,ja,0,0,0,,ばかもん！実際の戦いで助けてくれる奴があると思うか！
-Dialogue: 0,0:18:52.17,0:18:56.95,Default,ko,0,0,0,,바보 녀석! 실제 싸움에서 구해주는 놈이 있을 거라 생각하나!
-Dialogue: 0,0:18:52.17,0:18:56.95,Default,en,0,0,0,,You idiot! Do you think your opponent is going to save you in real battles?
+Comment: 0,0:18:23.87,0:18:25.27,Default,ja;L1823,0,0,0,,あまい、あまい！
+Dialogue: 0,0:18:23.87,0:18:25.27,Default,ko;L1823,0,0,0,,무디다! 무뎌!
+Dialogue: 0,0:18:23.87,0:18:25.27,Default,en;L1823,0,0,0,,Soft and naive!
+Comment: 0,0:18:46.09,0:18:47.14,Default,ja;L1846,0,0,0,,師匠！
+Dialogue: 0,0:18:46.09,0:18:47.14,Default,ko;L1846,0,0,0,,스승님!
+Dialogue: 0,0:18:46.09,0:18:47.14,Default,en;L1846,0,0,0,,Master!
+Comment: 0,0:18:50.70,0:18:51.99,Default,ja;L1850,0,0,0,,何するだス！
+Dialogue: 0,0:18:50.70,0:18:51.99,Default,ko;L1850,0,0,0,,뭔 짓이오!
+Dialogue: 0,0:18:50.70,0:18:51.99,Default,en;L1850,0,0,0,,What are you doing-{\i1}dasu{\i0}?!
+Comment: 0,0:18:52.17,0:18:56.95,Default,ja;L1852,0,0,0,,ばかもん！実際の戦いで助けてくれる奴があると思うか！
+Dialogue: 0,0:18:52.17,0:18:56.95,Default,ko;L1852,0,0,0,,바보 녀석! 실제 싸움에서 구해주는 놈이 있을 거라 생각하나!
+Dialogue: 0,0:18:52.17,0:18:56.95,Default,en;L1852,0,0,0,,You idiot! Do you think your opponent is going to save you in real battles?
 Comment: 0,0:19:23.79,0:19:24.51,Default,ja,0,0,0,,ムサシさん！
 Dialogue: 0,0:19:23.79,0:19:24.51,Default,ko,0,0,0,,무사시 씨!
 Dialogue: 0,0:19:23.79,0:19:24.51,Default,en,0,0,0,,Musashi!
@@ -673,12 +673,12 @@ Dialogue: 0,0:19:41.81,0:19:42.75,Default,en,0,0,0,,{\i1}Idiot.
 Comment: 0,0:19:43.12,0:19:44.22,Default,ja,0,0,0,,コジロー！
 Dialogue: 0,0:19:43.12,0:19:44.22,Default,ko,0,0,0,,코지로!
 Dialogue: 0,0:19:43.12,0:19:44.22,Default,en,0,0,0,,Kojirō!
-Comment: 0,0:20:14.39,0:20:17.85,Default,ja,0,0,0,,おいしい男だった。死ぬまで剣を放さぬとは。
-Dialogue: 0,0:20:14.39,0:20:17.85,Default,ko,0,0,0,,괜찮은 사내었다... 죽을 때까지 검을 놓지 않다니.
-Dialogue: 0,0:20:14.39,0:20:17.85,Default,en,0,0,0,,He was a fine guy, to keep onto his sword to his death.
-Comment: 0,0:20:18.30,0:20:19.75,Default,ja,0,0,0,,隙あり！
-Dialogue: 0,0:20:18.30,0:20:19.75,Default,ko,0,0,0,,빈틈이오!
-Dialogue: 0,0:20:18.30,0:20:19.75,Default,en,0,0,0,,Chink in the armor!
+Comment: 0,0:20:14.39,0:20:17.85,Default,ja;L2014,0,0,0,,おいしい男だった。死ぬまで剣を放さぬとは。
+Dialogue: 0,0:20:14.39,0:20:17.85,Default,ko;L2014,0,0,0,,괜찮은 사내었다... 죽을 때까지 검을 놓지 않다니.
+Dialogue: 0,0:20:14.39,0:20:17.85,Default,en;L2014,0,0,0,,He was a fine guy, to keep onto his sword to his death.
+Comment: 0,0:20:18.30,0:20:19.75,Default,ja;L2018,0,0,0,,隙あり！
+Dialogue: 0,0:20:18.30,0:20:19.75,Default,ko;L2018,0,0,0,,빈틈이오!
+Dialogue: 0,0:20:18.30,0:20:19.75,Default,en;L2018,0,0,0,,Chink in the armor!
 Comment: 0,0:20:49.64,0:20:51.12,Default,ja,0,0,0,,見事だ、ムサシ。
 Dialogue: 0,0:20:49.64,0:20:51.12,Default,ko,0,0,0,,잘 했다, 무사시.
 Dialogue: 0,0:20:49.64,0:20:51.12,Default,en,0,0,0,,Good job, Musashi.

@@ -16,9 +16,9 @@ Video File: ../Videos/03.mp4
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 821
-Active Line: 848
-Video Position: 35176
+Scroll Position: 749
+Active Line: 783
+Video Position: 30733
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -669,42 +669,42 @@ Dialogue: 0,0:16:42.75,0:16:47.08,Default,en,0,0,0,,Why do I have to run away? Y
 Comment: 0,0:16:47.95,0:16:51.09,Default,ja,0,0,0,,ベンケイ！あ、見参！
 Dialogue: 0,0:16:47.95,0:16:51.09,Default,ko,0,0,0,,벤케이! 등장!
 Dialogue: 0,0:16:47.95,0:16:51.09,Default,en,0,0,0,,Benkei's here!
-Comment: 0,0:16:51.71,0:16:54.94,Default,ja,0,0,0,,でたな、ベンケイ！ムサシがお相手をするでござるだス！
-Dialogue: 0,0:16:51.71,0:16:54.94,Default,ko,0,0,0,,나오셨소, 벤케이! 무사시가 상대해 주겠소!
-Dialogue: 0,0:16:51.71,0:16:54.94,Default,en,0,0,0,,You came out, Benkei! Musashi will face you-{\i1}dasu{\i0}!
+Comment: 0,0:16:51.71,0:16:54.94,Default,ja;L1651,0,0,0,,出たな、ベンケイ！ムサシがお相手をするでござるだス！
+Dialogue: 0,0:16:51.71,0:16:54.94,Default,ko;L1651,0,0,0,,나오셨소, 벤케이! 무사시가 상대해 주겠소!
+Dialogue: 0,0:16:51.71,0:16:54.94,Default,en;L1651,0,0,0,,You came out, Benkei! Musashi will face you-{\i1}dasu{\i0}!
 Comment: 0,0:16:55.14,0:16:57.93,Default,ja,0,0,0,,おお、おぬし、あの時の間抜けな小僧か。
 Dialogue: 0,0:16:55.14,0:16:57.93,Default,ko,0,0,0,,오, 너는 그 때 얼뜨기 꼬맹이냐.
 Dialogue: 0,0:16:55.14,0:16:57.93,Default,en,0,0,0,,Oh, you're that inane kid from before.
 Comment: 0,0:16:58.05,0:17:01.91,Default,ja,0,0,0,,なに？刀ばかりか馬まで奪うとは、卑怯千万！
 Dialogue: 0,0:16:58.05,0:17:01.91,Default,ko,0,0,0,,뭣이? 검만으로는 모자라 말까지 빼앗는 것은 비겁하기 짝이 없소!
 Dialogue: 0,0:16:58.05,0:17:01.91,Default,en,0,0,0,,What?! To steal not only swords but also horses, you're very cowardly!
-Comment: 0,0:17:02.54,0:17:05.18,Default,ja,0,0,0,,いざ尋常に勝負するだス！
-Dialogue: 0,0:17:02.54,0:17:05.18,Default,ko,0,0,0,,알겠소? 전력으로 승부를 보겠소!
-Dialogue: 0,0:17:02.54,0:17:05.18,Default,en,0,0,0,,Got it? Let's have a match to death-{\i1}dasu{\i0}!
-Comment: 0,0:17:05.70,0:17:09.28,Default,ja,0,0,0,,やめろ、やめろ！今夜記念すべき千人目の夜。
-Dialogue: 0,0:17:05.70,0:17:09.28,Default,ko,0,0,0,,관둬라, 관둬! 오늘밤은 기념할 만한 천인째의 밤.
-Dialogue: 0,0:17:05.70,0:17:09.28,Default,en,0,0,0,,Give it up and shoo! Today is the monumental night for the 1000th.
-Comment: 0,0:17:09.28,0:17:12.83,Default,ja,0,0,0,,その相手は歯ごたえのある大物に決めておる。
-Dialogue: 0,0:17:09.28,0:17:12.83,Default,ko,0,0,0,,그 상대는 실력있는 거물로 정했다.
-Dialogue: 0,0:17:09.28,0:17:12.83,Default,en,0,0,0,,I decided the opponent to be an important person.
-Comment: 0,0:17:13.17,0:17:15.29,Default,ja,0,0,0,,さあ、子供はとっととうせ！
-Dialogue: 0,0:17:13.17,0:17:15.29,Default,ko,0,0,0,,자! 얘야! 얼렁 비켜라!
-Dialogue: 0,0:17:13.17,0:17:15.29,Default,en,0,0,0,,Now, get lost, kid!
-Comment: 0,0:17:16.26,0:17:23.39,Default,ja,0,0,0,,黙れ！おいら、子供じゃないだス！剣星ボクデンの{???}勉強かいでんの、一番弟子でござるだス！
-Dialogue: 0,0:17:16.26,0:17:23.39,Default,ko,0,0,0,,닥치시오! 난 아이가 아니오! 검성 보쿠덴의 가르침을 받은 제일의 제자이오!
-Dialogue: 0,0:17:16.26,0:17:23.39,Default,en,0,0,0,,Shut up! I am not a kid! I am the only student of Bokuden, the master swordsman!
+Comment: 0,0:17:02.54,0:17:05.18,Default,ja;L1702,0,0,0,,いざ尋常に勝負するだス！
+Dialogue: 0,0:17:02.54,0:17:05.18,Default,ko;L1702,0,0,0,,알겠소? 전력으로 승부를 보겠소!
+Dialogue: 0,0:17:02.54,0:17:05.18,Default,en;L1702,0,0,0,,Got it? Let's have a match to death-{\i1}dasu{\i0}!
+Comment: 0,0:17:05.70,0:17:09.28,Default,ja;L1705,0,0,0,,やめろ、やめろ！今夜記念すべき千人目の夜。
+Dialogue: 0,0:17:05.70,0:17:09.28,Default,ko;L1705,0,0,0,,관둬라, 관둬! 오늘밤은 기념할 만한 천인째의 밤.
+Dialogue: 0,0:17:05.70,0:17:09.28,Default,en;L1705,0,0,0,,Give it up and shoo! Today is the monumental night for the 1000th.
+Comment: 0,0:17:09.28,0:17:12.83,Default,ja;L1709,0,0,0,,その相手は歯ごたえのある大物に決めておる。
+Dialogue: 0,0:17:09.28,0:17:12.83,Default,ko;L1709,0,0,0,,그 상대는 실력있는 거물로 정했다.
+Dialogue: 0,0:17:09.28,0:17:12.83,Default,en;L1709,0,0,0,,I decided the opponent to be an important person.
+Comment: 0,0:17:13.17,0:17:15.29,Default,ja;L1713,0,0,0,,さあ、子供はとっととうせ！
+Dialogue: 0,0:17:13.17,0:17:15.29,Default,ko;L1713,0,0,0,,자! 얘야! 얼렁 비켜라!
+Dialogue: 0,0:17:13.17,0:17:15.29,Default,en;L1713,0,0,0,,Now, get lost, kid!
+Comment: 0,0:17:16.26,0:17:23.39,Default,ja;L1716,0,0,0,,黙れ！おいら、子供じゃないだス！剣星ボクデンの{???}勉強かいでんの、一番弟子でござるだス！
+Dialogue: 0,0:17:16.26,0:17:23.39,Default,ko;L1716,0,0,0,,닥치시오! 난 아이가 아니오! 검성 보쿠덴의 가르침을 받은 제일의 제자이오!
+Dialogue: 0,0:17:16.26,0:17:23.39,Default,en;L1716,0,0,0,,Shut up! I am not a kid! I am the only student of Bokuden, the master swordsman!
 Comment: 0,0:17:35.87,0:17:37.71,Default,ja,0,0,0,,あいつ、やるな！
 Dialogue: 0,0:17:35.87,0:17:37.71,Default,ko,0,0,0,,녀석, 꽤 하네!
 Dialogue: 0,0:17:35.87,0:17:37.71,Default,en,0,0,0,,He's pretty good!
 Comment: 0,0:17:38.05,0:17:41.31,Default,ja,0,0,0,,どうだ！{???}で後悔するな！
 Dialogue: 0,0:17:38.05,0:17:41.31,Default,ko,0,0,0,,어떻소! 물러나지 않은 걸 후회하지 마시오!
 Dialogue: 0,0:17:38.05,0:17:41.31,Default,en,0,0,0,,How's this? Don't regret doing this!
-Comment: 0,0:17:49.47,0:17:51.06,Default,ja,0,0,0,,うさいこばえが！
-Dialogue: 0,0:17:49.47,0:17:51.06,Default,ko,0,0,0,,시끄러운 애새끼가!
-Dialogue: 0,0:17:49.47,0:17:51.06,Default,en,0,0,0,,What a noisy kid!
-Comment: 0,0:18:01.92,0:18:04.64,Default,ja,0,0,0,,買ったばっかりの刀が。。。
-Dialogue: 0,0:18:01.92,0:18:04.64,Default,ko,0,0,0,,산 지 얼마 안 된 칼이...
-Dialogue: 0,0:18:01.92,0:18:04.64,Default,en,0,0,0,,I bought this sword today and...
+Comment: 0,0:17:49.47,0:17:51.06,Default,ja;L1749,0,0,0,,うるさい小前が！
+Dialogue: 0,0:17:49.47,0:17:51.06,Default,ko;L1749,0,0,0,,시끄러운 애새끼가!
+Dialogue: 0,0:17:49.47,0:17:51.06,Default,en;L1749,0,0,0,,What a noisy kid!
+Comment: 0,0:18:01.92,0:18:04.64,Default,ja;L1801,0,0,0,,買ったばっかりの刀が。。。
+Dialogue: 0,0:18:01.92,0:18:04.64,Default,ko;L1801,0,0,0,,산 지 얼마 안 된 칼이...
+Dialogue: 0,0:18:01.92,0:18:04.64,Default,en;L1801,0,0,0,,I bought this sword today and...
 Comment: 0,0:18:06.54,0:18:08.70,Default,ja,0,0,0,,あいつ、安物買いしたんだ。
 Dialogue: 0,0:18:06.54,0:18:08.70,Default,ko,0,0,0,,녀석, 싼 걸 샀구나.
 Dialogue: 0,0:18:06.54,0:18:08.70,Default,en,0,0,0,,I guess he bought a cheap one.
@@ -717,39 +717,39 @@ Dialogue: 0,0:18:11.46,0:18:15.42,Default,en,0,0,0,,That sword store must have s
 Comment: 0,0:18:15.42,0:18:16.64,Default,ja,0,0,0,,くっそ！
 Dialogue: 0,0:18:15.42,0:18:16.64,Default,ko,0,0,0,,젠장!
 Dialogue: 0,0:18:15.42,0:18:16.64,Default,en,0,0,0,,Damn!
-Comment: 0,0:18:17.65,0:18:19.92,Default,ja,0,0,0,,もはやここまで。ゲームオーバーよ。
-Dialogue: 0,0:18:17.65,0:18:19.92,Default,ko,0,0,0,,벌써 여기까지군. 게임 오버다.
-Dialogue: 0,0:18:17.65,0:18:19.92,Default,en,0,0,0,,I see it's settled. Game over.
+Comment: 0,0:18:17.65,0:18:19.92,Default,ja;L1817,0,0,0,,もはやここまで。ゲームオーバーよ。
+Dialogue: 0,0:18:17.65,0:18:19.92,Default,ko;L1817,0,0,0,,벌써 여기까지군. 게임 오버다.
+Dialogue: 0,0:18:17.65,0:18:19.92,Default,en;L1817,0,0,0,,I see it's settled. Game over.
 Comment: 0,0:18:20.35,0:18:23.62,Default,ja,0,0,0,,いくらわしでもないものは取れんからな。
 Dialogue: 0,0:18:20.35,0:18:23.62,Default,ko,0,0,0,,아무리 나라고 해도 애초에 없는 걸 가져갈 수는 없지 않겠냐.
 Dialogue: 0,0:18:20.35,0:18:23.62,Default,en,0,0,0,,Even for me, I can't take something that doesn't even exist, you know?
-Comment: 0,0:18:27.25,0:18:30.12,Default,ja,0,0,0,,こうなったら煮るなり焼くなり好きにするだス！
-Dialogue: 0,0:18:27.25,0:18:30.12,Default,ko,0,0,0,,이렇게 됐으면 삶든 태우든 맘대로 하시오!
-Dialogue: 0,0:18:27.25,0:18:30.12,Default,en,0,0,0,,Boil me or set me on fire; do whatever you want-{\i1}dasu{\i0}!
-Comment: 0,0:18:30.34,0:18:32.96,Default,ja,0,0,0,,仕事の邪魔だ！とっととうせ！
-Dialogue: 0,0:18:30.34,0:18:32.96,Default,ko,0,0,0,,방해하지 마라! 얼렁 비켜라!
-Dialogue: 0,0:18:30.34,0:18:32.96,Default,en,0,0,0,,Don't interfere! Just get lost!
-Comment: 0,0:18:59.36,0:19:00.23,Default,ja,0,0,0,,待て。
-Dialogue: 0,0:18:59.36,0:19:00.23,Default,ko,0,0,0,,멈춰라.
-Dialogue: 0,0:18:59.36,0:19:00.23,Default,en,0,0,0,,Stop.
-Comment: 0,0:19:03.71,0:19:04.70,Default,ja,0,0,0,,なにか。
-Dialogue: 0,0:19:03.71,0:19:04.70,Default,ko,0,0,0,,뭔가?
-Dialogue: 0,0:19:03.71,0:19:04.70,Default,en,0,0,0,,What is it?
-Comment: 0,0:19:05.70,0:19:08.53,Default,ja,0,0,0,,その腰のもの、おいていっていただこうか。
-Dialogue: 0,0:19:05.70,0:19:08.53,Default,ko,0,0,0,,그 허리에 있는 것을 가져가겠다.
-Dialogue: 0,0:19:05.70,0:19:08.53,Default,en,0,0,0,,I will take what you have on your waist.
-Comment: 0,0:19:09.07,0:19:10.11,Default,ja,0,0,0,,おお、これを？
-Dialogue: 0,0:19:09.07,0:19:10.11,Default,ko,0,0,0,,오? 이걸?
-Dialogue: 0,0:19:09.07,0:19:10.11,Default,en,0,0,0,,Oh? This?
-Comment: 0,0:19:10.93,0:19:15.12,Default,ja,0,0,0,,そなたの黄金の太刀、まさにわが千本目に相応しき獲物。
-Dialogue: 0,0:19:10.93,0:19:15.12,Default,ko,0,0,0,,그쪽의 금 야태도, 참으로 나의 천 번째로 어울리는 것.
-Dialogue: 0,0:19:10.93,0:19:15.12,Default,en,0,0,0,,Your gold large war sword will be a perfect fit for the 1000th item of my collection.
-Comment: 0,0:19:15.12,0:19:17.57,Default,ja,0,0,0,,おとなしく置いて行ってはくれぬか。
-Dialogue: 0,0:19:15.12,0:19:17.57,Default,ko,0,0,0,,순순히 주지 않겠는가?
-Dialogue: 0,0:19:15.12,0:19:17.57,Default,en,0,0,0,,Wouldn't you obediently pass it over?
-Comment: 0,0:19:17.94,0:19:19.02,Default,ja,0,0,0,,ならんな。
-Dialogue: 0,0:19:17.94,0:19:19.02,Default,ko,0,0,0,,싫다.
-Dialogue: 0,0:19:17.94,0:19:19.02,Default,en,0,0,0,,No way.
+Comment: 0,0:18:27.25,0:18:30.12,Default,ja;L1827,0,0,0,,こうなったら煮るなり焼くなり好きにするだス！
+Dialogue: 0,0:18:27.25,0:18:30.12,Default,ko;L1827,0,0,0,,이렇게 됐으면 삶든 태우든 맘대로 하시오!
+Dialogue: 0,0:18:27.25,0:18:30.12,Default,en;L1827,0,0,0,,Boil me or set me on fire; do whatever you want-{\i1}dasu{\i0}!
+Comment: 0,0:18:30.34,0:18:32.96,Default,ja;L1830,0,0,0,,仕事の邪魔だ！とっととうせ！
+Dialogue: 0,0:18:30.34,0:18:32.96,Default,ko;L1830,0,0,0,,방해하지 마라! 얼렁 비켜라!
+Dialogue: 0,0:18:30.34,0:18:32.96,Default,en;L1830,0,0,0,,Don't interfere! Just get lost!
+Comment: 0,0:18:59.36,0:19:00.23,Default,ja;L1859,0,0,0,,待て。
+Dialogue: 0,0:18:59.36,0:19:00.23,Default,ko;L1859,0,0,0,,멈춰라.
+Dialogue: 0,0:18:59.36,0:19:00.23,Default,en;L1859,0,0,0,,Stop.
+Comment: 0,0:19:03.71,0:19:04.70,Default,ja;L1903,0,0,0,,なにか。
+Dialogue: 0,0:19:03.71,0:19:04.70,Default,ko;L1903,0,0,0,,뭔가?
+Dialogue: 0,0:19:03.71,0:19:04.70,Default,en;L1903,0,0,0,,What is it?
+Comment: 0,0:19:05.70,0:19:08.53,Default,ja;L1905,0,0,0,,その腰のもの、おいていっていただこうか。
+Dialogue: 0,0:19:05.70,0:19:08.53,Default,ko;L1905,0,0,0,,그 허리에 있는 것을 가져가겠다.
+Dialogue: 0,0:19:05.70,0:19:08.53,Default,en;L1905,0,0,0,,I will take what you have on your waist.
+Comment: 0,0:19:09.07,0:19:10.11,Default,ja;L1909,0,0,0,,おお、これを？
+Dialogue: 0,0:19:09.07,0:19:10.11,Default,ko;L1909,0,0,0,,오? 이걸?
+Dialogue: 0,0:19:09.07,0:19:10.11,Default,en;L1909,0,0,0,,Oh? This?
+Comment: 0,0:19:10.93,0:19:15.12,Default,ja;L1910,0,0,0,,そなたの黄金の太刀、まさにわが千本目に相応しき獲物。
+Dialogue: 0,0:19:10.93,0:19:15.12,Default,ko;L1910,0,0,0,,그쪽의 금 야태도, 참으로 나의 천 번째로 어울리는 것.
+Dialogue: 0,0:19:10.93,0:19:15.12,Default,en;L1910,0,0,0,,Your gold large war sword will be a perfect fit for the 1000th item of my collection.
+Comment: 0,0:19:15.12,0:19:17.57,Default,ja;L1915,0,0,0,,おとなしく置いて行ってはくれぬか。
+Dialogue: 0,0:19:15.12,0:19:17.57,Default,ko;L1915,0,0,0,,순순히 주지 않겠는가?
+Dialogue: 0,0:19:15.12,0:19:17.57,Default,en;L1915,0,0,0,,Wouldn't you obediently pass it over?
+Comment: 0,0:19:17.94,0:19:19.02,Default,ja;L1917,0,0,0,,ならんな。
+Dialogue: 0,0:19:17.94,0:19:19.02,Default,ko;L1917,0,0,0,,싫다.
+Dialogue: 0,0:19:17.94,0:19:19.02,Default,en;L1917,0,0,0,,No way.
 Comment: 0,0:19:19.50,0:19:23.62,Default,ja,0,0,0,,そうか。ならばもらい受けるまで！
 Dialogue: 0,0:19:19.50,0:19:23.62,Default,ko,0,0,0,,그런가. 그렇다면... 얻어서 내 것으로 만들 때까지!
 Dialogue: 0,0:19:19.50,0:19:23.62,Default,en,0,0,0,,I see. If then... I'll simply take it myself!
@@ -761,42 +761,39 @@ Dialogue: 0,0:19:33.09,0:19:38.23,Default,en,0,0,0,,I see that you're that Benke
 Comment: 0,0:19:38.43,0:19:39.22,Default,ja,0,0,0,,なに？
 Dialogue: 0,0:19:38.43,0:19:39.22,Default,ko,0,0,0,,뭐라?
 Dialogue: 0,0:19:38.43,0:19:39.22,Default,en,0,0,0,,What?
-Comment: 0,0:19:39.81,0:19:43.53,Default,ja,0,0,0,,ミヤコを荒らす不届きもの！麻呂が退治してくれようぞ！
-Dialogue: 0,0:19:39.81,0:19:43.53,Default,ko,0,0,0,,미야코를 휩쓰는 고얀놈, 내가 퇴치하겠다!
-Dialogue: 0,0:19:39.81,0:19:43.53,Default,en,0,0,0,,I'll get rid of the scoundrel that rampages in Miyako!
-Comment: 0,0:19:43.68,0:19:44.88,Default,ja,0,0,0,,なんだと？
-Dialogue: 0,0:19:43.68,0:19:44.88,Default,ko,0,0,0,,뭐시라?!
-Dialogue: 0,0:19:43.68,0:19:44.88,Default,en,0,0,0,,What?!
-Comment: 0,0:19:45.65,0:19:47.28,Default,ja,0,0,0,,ばかぞうが！
-Dialogue: 0,0:19:45.65,0:19:47.28,Default,ko,0,0,0,,놀리지 마라!
-Dialogue: 0,0:19:45.65,0:19:47.28,Default,en,0,0,0,,Don't make me laugh!
-Comment: 0,0:19:58.64,0:19:59.76,Default,ja,0,0,0,,どうしたのか？
-Dialogue: 0,0:19:58.64,0:19:59.76,Default,ko,0,0,0,,뭔 일이냐?
-Dialogue: 0,0:19:58.64,0:19:59.76,Default,en,0,0,0,,What's the problem?
-Comment: 0,0:20:00.83,0:20:03.79,Default,ja,0,0,0,,くそ、小癪な！
-Dialogue: 0,0:20:00.83,0:20:03.79,Default,ko,0,0,0,,젠장... 시건방진 것!
-Dialogue: 0,0:20:00.83,0:20:03.79,Default,en,0,0,0,,Dammit... How impudent!
-Comment: 0,0:20:03.79,0:20:04.44,Default,ja,0,0,0,,なに？
-Dialogue: 0,0:20:03.79,0:20:04.44,Default,ko,0,0,0,,뭐야?!
-Dialogue: 0,0:20:03.79,0:20:04.44,Default,en,0,0,0,,What?!
-Comment: 0,0:20:16.75,0:20:19.19,Default,ja,0,0,0,,どうだ。麻呂にはかなうまい。
-Dialogue: 0,0:20:16.75,0:20:19.19,Default,ko,0,0,0,,어떤가. 내게 당해 낼 수 있겠는가?
-Dialogue: 0,0:20:16.75,0:20:19.19,Default,en,0,0,0,,How's that? Can you stand up to me?
-Comment: 0,0:20:19.87,0:20:21.75,Default,ja,0,0,0,,なんの、これしき。
-Dialogue: 0,0:20:19.87,0:20:21.75,Default,ko,0,0,0,,뭔 이까짓 걸로...
-Dialogue: 0,0:20:19.87,0:20:21.75,Default,en,0,0,0,,That's nothing.
-Comment: 0,0:20:47.30,0:20:49.76,Default,ja,0,0,0,,まいった。この通りでござる。
-Dialogue: 0,0:20:47.30,0:20:49.76,Default,ko,0,0,0,,져, 졌다. 제가 졌습니다.
-Dialogue: 0,0:20:47.30,0:20:49.76,Default,en,0,0,0,,I lost, as you see.
-Comment: 0,0:20:50.45,0:20:54.75,Default,ja,0,0,0,,このようの長物、もっと修行を積むのだな。
-Dialogue: 0,0:20:50.45,0:20:54.75,Default,ko,0,0,0,,오늘 밤의 장물, 더욱 수련해야겠구나.
-Dialogue: 0,0:20:50.45,0:20:54.75,Default,en,0,0,0,,Tonight's useless thing should train more.
-Comment: 0,0:20:58.18,0:20:59.60,Default,ja,0,0,0,,お、お待ちください！
-Dialogue: 0,0:20:58.18,0:20:59.60,Default,ko,0,0,0,,기, 기다려 주십시오!
-Dialogue: 0,0:20:58.18,0:20:59.60,Default,en,0,0,0,,Please wait!
-Comment: 0,0:20:59.60,0:21:01.19,Default,ja,0,0,0,,どうかお名前を！
-Dialogue: 0,0:20:59.60,0:21:01.19,Default,ko,0,0,0,,일단 존함을!
-Dialogue: 0,0:20:59.60,0:21:01.19,Default,en,0,0,0,,Tell me your name!
+Comment: 0,0:19:39.81,0:19:43.53,Default,ja;L1939,0,0,0,,ミヤコを荒らす不届きもの！麻呂が退治してくれようぞ！
+Dialogue: 0,0:19:39.81,0:19:43.53,Default,ko;L1939,0,0,0,,미야코를 휩쓰는 고얀놈, 내가 퇴치하겠다!
+Dialogue: 0,0:19:39.81,0:19:43.53,Default,en;L1939,0,0,0,,I'll get rid of the scoundrel that rampages in Miyako!
+Comment: 0,0:19:43.68,0:19:44.88,Default,ja;L1943,0,0,0,,なんだと？
+Dialogue: 0,0:19:43.68,0:19:44.88,Default,ko;L1943,0,0,0,,뭐시라?!
+Dialogue: 0,0:19:43.68,0:19:44.88,Default,en;L1943,0,0,0,,What?!
+Comment: 0,0:19:45.65,0:19:47.28,Default,ja;L1945,0,0,0,,ばかぞうが！
+Dialogue: 0,0:19:45.65,0:19:47.28,Default,ko;L1945,0,0,0,,놀리지 마라!
+Dialogue: 0,0:19:45.65,0:19:47.28,Default,en;L1945,0,0,0,,Don't make me laugh!
+Comment: 0,0:19:58.64,0:19:59.76,Default,ja;L1958,0,0,0,,どうしたのか？
+Dialogue: 0,0:19:58.64,0:19:59.76,Default,ko;L1958,0,0,0,,뭔 일이냐?
+Dialogue: 0,0:19:58.64,0:19:59.76,Default,en;L1958,0,0,0,,Any problems?
+Comment: 0,0:20:00.83,0:20:03.79,Default,ja;L2000,0,0,0,,くそ、小癪な！
+Dialogue: 0,0:20:00.83,0:20:03.79,Default,ko;L2000,0,0,0,,젠장... 시건방진 것!
+Dialogue: 0,0:20:00.83,0:20:03.79,Default,en;L2000,0,0,0,,Dammit... How impudent!
+Comment: 0,0:20:03.79,0:20:04.44,Default,ja;L2003,0,0,0,,なに？
+Dialogue: 0,0:20:03.79,0:20:04.44,Default,ko;L2003,0,0,0,,뭐야?!
+Dialogue: 0,0:20:03.79,0:20:04.44,Default,en;L2003,0,0,0,,What?!
+Comment: 0,0:20:16.75,0:20:19.19,Default,ja;L2016,0,0,0,,どうだ。麻呂にはかなうまい。
+Dialogue: 0,0:20:16.75,0:20:19.19,Default,ko;L2016,0,0,0,,어떤가. 내게 당해 낼 수 있겠는가?
+Dialogue: 0,0:20:16.75,0:20:19.19,Default,en;L2016,0,0,0,,How's that? Can you stand up to me?
+Comment: 0,0:20:19.87,0:20:21.75,Default,ja;L2019,0,0,0,,なんの、これしき。
+Dialogue: 0,0:20:19.87,0:20:21.75,Default,ko;L2019,0,0,0,,뭔 이까짓 걸로...
+Dialogue: 0,0:20:19.87,0:20:21.75,Default,en;L2019,0,0,0,,That's nothing.
+Comment: 0,0:20:46.90,0:20:49.76,Default,ja;L2046,0,0,0,,まいった。この通りでござる。
+Dialogue: 0,0:20:46.90,0:20:49.76,Default,ko;L2046,0,0,0,,져, 졌다. 제가 졌습니다.
+Dialogue: 0,0:20:46.90,0:20:49.76,Default,en;L2046,0,0,0,,I lost, as you see.
+Comment: 0,0:20:50.45,0:20:54.75,Default,ja;L2050,0,0,0,,無用の長物。もっと修行を積むのだな。
+Dialogue: 0,0:20:50.45,0:20:54.75,Default,ko;L2050,0,0,0,,필요 없는 장물이다. 더욱 수련해야겠구나.
+Dialogue: 0,0:20:50.45,0:20:54.75,Default,en;L2050,0,0,0,,I do not need such a useless thing. You shall train more.
+Comment: 0,0:20:58.18,0:21:01.19,Default,ja;L2058,0,0,0,,お、お待ちください！どうかお名前を！
+Dialogue: 0,0:20:58.18,0:21:01.19,Default,ko;L2058,0,0,0,,기, 기다려 주십시오! 일단 존함을!
+Dialogue: 0,0:20:58.18,0:21:01.19,Default,en;L2058,0,0,0,,Please wait! Tell me your name!
 Comment: 0,0:21:01.94,0:21:04.35,Default,ja,0,0,0,,麻呂の名を聞いてどうするつもりじゃ。
 Dialogue: 0,0:21:01.94,0:21:04.35,Default,ko,0,0,0,,내 이름을 알아서 어쩔 생각인가?
 Dialogue: 0,0:21:01.94,0:21:04.35,Default,en,0,0,0,,What are you going to do with my name?
@@ -812,21 +809,15 @@ Dialogue: 0,0:21:12.74,0:21:13.82,Default,en,0,0,0,,Right!
 Comment: 0,0:21:13.82,0:21:16.11,Default,ja,0,0,0,,では、教えて差し上げよう。
 Dialogue: 0,0:21:13.82,0:21:16.11,Default,ko,0,0,0,,그럼 가르쳐 드리겠소.
 Dialogue: 0,0:21:13.82,0:21:16.11,Default,en,0,0,0,,Then I'll let you know.
-Comment: 0,0:21:17.34,0:21:18.93,Default,ja,0,0,0,,麻呂はウシワカ。
-Dialogue: 0,0:21:17.34,0:21:18.93,Default,ko,0,0,0,,나는 우시와카.
-Dialogue: 0,0:21:17.34,0:21:18.93,Default,en,0,0,0,,I am Ushiwaka.
-Comment: 0,0:21:18.93,0:21:20.30,Default,ja,0,0,0,,ウシワカと申す。
-Dialogue: 0,0:21:18.93,0:21:20.30,Default,ko,0,0,0,,우시와카라 하오.
-Dialogue: 0,0:21:18.93,0:21:20.30,Default,en,0,0,0,,You may call me Ushiwaka.
-Comment: 0,0:21:20.90,0:21:22.03,Default,ja,0,0,0,,ウシワカ殿。。。
-Dialogue: 0,0:21:20.90,0:21:22.03,Default,ko,0,0,0,,우시와카 님...
-Dialogue: 0,0:21:20.90,0:21:22.03,Default,en,0,0,0,,Ushiwaka...
-Comment: 0,0:21:22.13,0:21:23.71,Default,ja,0,0,0,,お、お待ちを！
-Dialogue: 0,0:21:22.13,0:21:23.71,Default,ko,0,0,0,,기, 기다려 주십시오!
-Dialogue: 0,0:21:22.13,0:21:23.71,Default,en,0,0,0,,Please wait!
-Comment: 0,0:21:24.29,0:21:28.41,Default,ja,0,0,0,,何卒、何卒！ベンケイを！
-Dialogue: 0,0:21:24.29,0:21:28.41,Default,ko,0,0,0,,제발! 부디! 벤케이를!
-Dialogue: 0,0:21:24.29,0:21:28.41,Default,en,0,0,0,,Please! I beg of you! Have Benkei!
+Comment: 0,0:21:17.34,0:21:20.30,Default,ja;L2117,0,0,0,,麻呂はウシワカ。ウシワカと申す。
+Dialogue: 0,0:21:17.34,0:21:20.30,Default,ko;L2117,0,0,0,,나는 우시와카. 우시와카라 하오.
+Dialogue: 0,0:21:17.34,0:21:20.30,Default,en;L2117,0,0,0,,I am Ushiwaka. You may call me Ushiwaka.
+Comment: 0,0:21:20.90,0:21:23.71,Default,ja;L2120,0,0,0,,ウシワカ殿。。。お、お待ちを！
+Dialogue: 0,0:21:20.90,0:21:23.71,Default,ko;L2120,0,0,0,,우시와카 님... 기, 기다려 주십시오!
+Dialogue: 0,0:21:20.90,0:21:23.71,Default,en;L2120,0,0,0,,Ushiwaka... Please wait!
+Comment: 0,0:21:24.29,0:21:28.41,Default,ja;L2124,0,0,0,,何卒、何卒！ベンケイを！
+Dialogue: 0,0:21:24.29,0:21:28.41,Default,ko;L2124,0,0,0,,제발! 부디! 벤케이를!
+Dialogue: 0,0:21:24.29,0:21:28.41,Default,en;L2124,0,0,0,,Please! I beg of you! Have Benkei!
 Comment: 0,0:21:37.15,0:21:40.37,Default,ja,0,0,0,,ミヤコパレスには悪が多いって言ったじゃねぇか。
 Dialogue: 0,0:21:37.15,0:21:40.37,Default,ko,0,0,0,,미야코 팔레스에 나쁜 사람 많다고 했잖아.
 Dialogue: 0,0:21:37.15,0:21:40.37,Default,en,0,0,0,,I told you there are many bad people in the Miyako Palace.

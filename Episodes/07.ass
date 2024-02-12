@@ -16,9 +16,9 @@ Video File: ../Videos/07.mp4
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 715
-Active Line: 732
-Video Position: 35242
+Scroll Position: 418
+Active Line: 440
+Video Position: 20957
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -459,21 +459,21 @@ Dialogue: 0,0:13:48.94,0:13:54.89,Default,en,0,0,0,,If you're prepared enough to
 Comment: 0,0:13:58.80,0:13:59.44,Default,ja,0,0,0,,あんちゃん！
 Dialogue: 0,0:13:58.80,0:13:59.44,Default,ko,0,0,0,,형!
 Dialogue: 0,0:13:58.80,0:13:59.44,Default,en,0,0,0,,Brother!
-Comment: 0,0:14:00.72,0:14:01.60,Default,ja,0,0,0,,しまった！
-Dialogue: 0,0:14:00.72,0:14:01.60,Default,ko,0,0,0,,저런!
-Dialogue: 0,0:14:00.72,0:14:01.60,Default,en,0,0,0,,No!
-Comment: 0,0:14:14.81,0:14:16.59,Default,ja,0,0,0,,いった、何するんだス！
-Dialogue: 0,0:14:14.81,0:14:16.59,Default,ko,0,0,0,,아야, 뭔 짓이오!
-Dialogue: 0,0:14:14.81,0:14:16.59,Default,en,0,0,0,,Ouch! What are you doing-{\i1}dasu{\i0}?!
-Comment: 0,0:14:21.90,0:14:23.09,Default,ja,0,0,0,,やめるばい！
-Dialogue: 0,0:14:21.90,0:14:23.09,Default,ko,0,0,0,,멈춰라!
-Dialogue: 0,0:14:21.90,0:14:23.09,Default,en,0,0,0,,Stop that!
-Comment: 0,0:14:27.12,0:14:29.13,Default,ja,0,0,0,,やめろと言うのが分からぬか！
-Dialogue: 0,0:14:27.12,0:14:29.13,Default,ko,0,0,0,,멈추라는 말이 안 들리나!
-Dialogue: 0,0:14:27.12,0:14:29.13,Default,en,0,0,0,,Don't you hear me?!
-Comment: 0,0:14:32.81,0:14:34.09,Default,ja,0,0,0,,おらの負けばい。
-Dialogue: 0,0:14:32.81,0:14:34.09,Default,ko,0,0,0,,내가 졌다.
-Dialogue: 0,0:14:32.81,0:14:34.09,Default,en,0,0,0,,I lost.
+Comment: 0,0:14:00.72,0:14:01.60,Default,ja;L1400,0,0,0,,しまった！
+Dialogue: 0,0:14:00.72,0:14:01.60,Default,ko;L1400,0,0,0,,저런!
+Dialogue: 0,0:14:00.72,0:14:01.60,Default,en;L1400,0,0,0,,No!
+Comment: 0,0:14:14.81,0:14:16.59,Default,en;L1414,0,0,0,,いったた、何するんだス！
+Dialogue: 0,0:14:14.81,0:14:16.59,Default,en;L1414,0,0,0,,아야, 뭔 짓이오!
+Dialogue: 0,0:14:14.81,0:14:16.59,Default,en;L1414,0,0,0,,Ouch! What are you doing-{\i1}dasu{\i0}?!
+Comment: 0,0:14:21.90,0:14:23.09,Default,ja;L1421,0,0,0,,やめるばい！
+Dialogue: 0,0:14:21.90,0:14:23.09,Default,ja;L1421,0,0,0,,멈춰라!
+Dialogue: 0,0:14:21.90,0:14:23.09,Default,ja;L1421,0,0,0,,Stop that!
+Comment: 0,0:14:27.12,0:14:29.13,Default,ja;L1427,0,0,0,,やめろと言うのが分からぬか！
+Dialogue: 0,0:14:27.12,0:14:29.13,Default,ja;L1427,0,0,0,,멈추라는 말이 안 들리나!
+Dialogue: 0,0:14:27.12,0:14:29.13,Default,ja;L1427,0,0,0,,Don't you hear me?!
+Comment: 0,0:14:32.81,0:14:34.09,Default,ja;L1432,0,0,0,,おらの負けばい。
+Dialogue: 0,0:14:32.81,0:14:34.09,Default,ko;L1432,0,0,0,,내가 졌다.
+Dialogue: 0,0:14:32.81,0:14:34.09,Default,en;L1432,0,0,0,,I lost.
 Comment: 0,0:14:34.51,0:14:37.31,Default,ja,0,0,0,,いや、まだ勝負はついてないでござるだス。
 Dialogue: 0,0:14:34.51,0:14:37.31,Default,ko,0,0,0,,아니오. 아직 승부가 나지 않았소.
 Dialogue: 0,0:14:34.51,0:14:37.31,Default,en,0,0,0,,No. The match isn't over yet-{\i1}dasu{\i0}.

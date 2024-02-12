@@ -191,7 +191,7 @@ Dialogue: 0,0:05:19.40,0:05:22.89,Default,ko,0,0,0,,그럼 지금부터 준결�
 Dialogue: 0,0:05:19.40,0:05:22.89,Default,en,0,0,0,,The semi-finals will begin now!
 Comment: 0,0:05:22.89,0:05:28.42,Default,ja,0,0,0,,赤コーナー、98本の二天一流、ムサシ！
 Dialogue: 0,0:05:22.89,0:05:28.42,Default,ko,0,0,0,,빨강 코너, 98번 이천일류 무사시!
-Dialogue: 0,0:05:22.89,0:05:28.42,Default,en,0,0,0,,Red corner: #98 Nitenichiryu Musashi!
+Dialogue: 0,0:05:22.89,0:05:28.42,Default,en,0,0,0,,Red corner: #98 Niten'ichiryū Musashi!
 Comment: 0,0:05:30.35,0:05:36.67,Default,ja,0,0,0,,白コーナー、99本のがんりゅう、ミスターコジロー！
 Dialogue: 0,0:05:30.35,0:05:36.67,Default,ko,0,0,0,,하양 코너, 99번 간류 미스터 코지로!
 Dialogue: 0,0:05:30.35,0:05:36.67,Default,en,0,0,0,,White corner: #99 Ganryu Mister Kojirō!
@@ -284,7 +284,7 @@ Dialogue: 0,0:08:19.57,0:08:24.60,Default,ko,0,0,0,,꽤 하게 되었구나, 무
 Dialogue: 0,0:08:19.57,0:08:24.60,Default,en,0,0,0,,You became better, Musashi. But will you manage to evade my Tsubamegaeshi?
 Comment: 0,0:08:25.13,0:08:29.45,Default,ja,0,0,0,,それはおいらのセリフだす！二天一流～けん！
 Dialogue: 0,0:08:25.13,0:08:29.45,Default,ko,0,0,0,,그건 내가 할 말이오! 이천일류 섬광권!
-Dialogue: 0,0:08:25.13,0:08:29.45,Default,en,0,0,0,,That's my line-{\i1}dasu{\i0}! Nitenichiryu: Flash Sword!
+Dialogue: 0,0:08:25.13,0:08:29.45,Default,en,0,0,0,,That's my line-{\i1}dasu{\i0}! Niten'ichiryū: Flash Sword!
 Comment: 0,0:08:33.39,0:08:35.12,Default,ja,0,0,0,,待った！
 Dialogue: 0,0:08:33.39,0:08:35.12,Default,ko,0,0,0,,중단!
 Dialogue: 0,0:08:33.39,0:08:35.12,Default,en,0,0,0,,Stop!

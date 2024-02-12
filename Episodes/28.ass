@@ -499,7 +499,7 @@ Dialogue: 0,0:13:26.75,0:13:28.87,Default,ko,0,0,0,,센히메 님의 부탁이�
 Dialogue: 0,0:13:26.75,0:13:28.87,Default,en,0,0,0,,If it's you who're asking me, Senhime...
 Comment: 0,0:13:30.20,0:13:32.37,Default,ja,0,0,0,,二天一流、ムサシだス。
 Dialogue: 0,0:13:30.20,0:13:32.37,Default,ko,0,0,0,,이천일류 무사시이오.
-Dialogue: 0,0:13:30.20,0:13:32.37,Default,en,0,0,0,,I am Musashi of Niten'ichiryu-{\i1}dasu{\i0}.
+Dialogue: 0,0:13:30.20,0:13:32.37,Default,en,0,0,0,,I am Musashi of Niten'ichiryū-{\i1}dasu{\i0}.
 Comment: 0,0:13:37.64,0:13:38.84,Default,ja,0,0,0,,あ、ベンケイさん！
 Dialogue: 0,0:13:37.64,0:13:38.84,Default,ko,0,0,0,,어, 벤케이 씨!
 Dialogue: 0,0:13:37.64,0:13:38.84,Default,en,0,0,0,,Mr. Benkei!
@@ -643,7 +643,7 @@ Dialogue: 0,0:18:00.14,0:18:01.86,Default,ko,0,0,0,,그러면 긴장을 늦추�
 Dialogue: 0,0:18:00.14,0:18:01.86,Default,en,0,0,0,,Then I will not lose focus!
 Comment: 0,0:18:12.74,0:18:15.74,Default,ja,0,0,0,,二天一流！鉄風車！
 Dialogue: 0,0:18:12.74,0:18:15.74,Default,ko,0,0,0,,이천일류 철풍차!
-Dialogue: 0,0:18:12.74,0:18:15.74,Default,en,0,0,0,,Nitenichiryu: Iron Windmill!
+Dialogue: 0,0:18:12.74,0:18:15.74,Default,en,0,0,0,,Niten'ichiryū: Iron Windmill!
 Comment: 0,0:18:30.51,0:18:33.00,Default,ja,0,0,0,,ふさくな！こうなれば奥の手を！
 Dialogue: 0,0:18:30.51,0:18:33.00,Default,ko,0,0,0,,웃기는군! 이렇게 된 바 비장의 수를!
 Dialogue: 0,0:18:30.51,0:18:33.00,Default,en,0,0,0,,How foolish! Time to show my ultimate move!
@@ -655,7 +655,7 @@ Dialogue: 0,0:18:42.02,0:18:43.12,Default,ko,0,0,0,,젠장!
 Dialogue: 0,0:18:42.02,0:18:43.12,Default,en,0,0,0,,Damn!
 Comment: 0,0:18:44.58,0:18:47.31,Default,ja,0,0,0,,二天一流、竜巻劍！
 Dialogue: 0,0:18:44.58,0:18:47.31,Default,ko,0,0,0,,이천일류, 회오리검!
-Dialogue: 0,0:18:44.58,0:18:47.31,Default,en,0,0,0,,Nitenichiryu: Tornado Sword!
+Dialogue: 0,0:18:44.58,0:18:47.31,Default,en,0,0,0,,Niten'ichiryū: Tornado Sword!
 Comment: 0,0:19:01.78,0:19:04.09,Default,ja,0,0,0,,ムサシ！もうやめんか！
 Dialogue: 0,0:19:01.78,0:19:04.09,Default,ko,0,0,0,,무사시! 그만하지 못할까!
 Dialogue: 0,0:19:01.78,0:19:04.09,Default,en,0,0,0,,Musashi! Halt!

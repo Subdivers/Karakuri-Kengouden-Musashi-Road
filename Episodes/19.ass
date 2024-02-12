@@ -58,14 +58,14 @@ Dialogue: 0,0:01:39.36,0:01:45.59,SongOP,OP!Lyric17,0,0,0,,BUGEI! 二刀流　�
 Dialogue: 0,0:01:45.59,0:01:50.85,SongOP,OP!Lyric18,0,0,0,,みけんが　きらめいた　ムサシ！！
 Comment: 0,0:02:00.58,0:02:06.45,Default,ja,0,0,0,,天空丸、天地丸のにとうをわがとしたムサシは、二天一流の勘違いを目指した。
 Dialogue: 0,0:02:00.58,0:02:06.45,Default,ko,0,0,0,,천공환, 천지환과 이도류를 자기 것으로 만든 무사시는 이천일류의 완성을 노린다.
-Dialogue: 0,0:02:00.58,0:02:06.45,Note,en,0,0,0,,({\i1}Niten'ichi-ryu{\i0}: {\fnMeiryo UI}二天一流{\r}, {\i1}Musashi-ryu{\i0}; the art of using two swords)
-Dialogue: 0,0:02:00.58,0:02:06.45,Default,en,0,0,0,,After taking Tenkūmaru and Tenchimaru into his hands, Musashi looks to perfect his Nitenichiryu.
+Dialogue: 0,0:02:00.58,0:02:06.45,Note,en,0,0,0,,({\i1}Niten'ichiryu{\i0}: {\fnMeiryo UI}二天一流{\r}, {\i1}Musashiryu{\i0}; the art of using two swords)
+Dialogue: 0,0:02:00.58,0:02:06.45,Default,en,0,0,0,,After taking Tenkūmaru and Tenchimaru into his hands, Musashi looks to perfect his Niten'ichiryū.
 Comment: 0,0:02:07.02,0:02:10.81,Default,ja,0,0,0,,大泥棒ゴエモンドの大ムカデに苦しめられるムサシたち。
 Dialogue: 0,0:02:07.02,0:02:10.81,Default,ko,0,0,0,,대도둑 고에몬도의 거대 지네에 고통받는 무사시 일행.
 Dialogue: 0,0:02:07.02,0:02:10.81,Default,en,0,0,0,,Everyone suffered from the huge centipede of Goemondo, a grand thief.
 Comment: 0,0:02:11.25,0:02:17.81,Default,ja,0,0,0,,だが、その戦いの中でムサシはついに二天一流を開眼したのである。
 Dialogue: 0,0:02:11.25,0:02:17.81,Default,ko,0,0,0,,그러나 그 전투 중에서 무사시는 결국 이천일류를 개안하였다.
-Dialogue: 0,0:02:11.25,0:02:17.81,Default,en,0,0,0,,But during that fight, Musashi finally opened his eyes towards Nitenichiryu.
+Dialogue: 0,0:02:11.25,0:02:17.81,Default,en,0,0,0,,But during that fight, Musashi finally opened his eyes towards Niten'ichiryū.
 Comment: 0,0:02:18.09,0:02:23.14,Default,ja,0,0,0,,鵺の鳴く夜は怖いだス
 Dialogue: 0,0:02:18.09,0:02:23.14,Note,en,0,0,0,,(I am unsure with some proper nouns used in this episode, so they might be wrong)
 Comment: 0,0:02:18.09,0:02:23.14,TitleEP,ja,0,0,100,,
@@ -101,10 +101,10 @@ Dialogue: 0,0:03:05.38,0:03:09.69,Default,ko,0,0,0,,그렇소! 난 쉽게 발끈
 Dialogue: 0,0:03:05.38,0:03:09.69,Default,en,0,0,0,,That's right! I get angry easily-{\i1}dasu{\i0}! Now, Kojirō, face me-{\i1}dasu{\i0}!
 Comment: 0,0:03:10.23,0:03:14.58,Default,ja,0,0,0,,二天一流を見事にツバメガエシを藪って見せるだス！
 Dialogue: 0,0:03:10.23,0:03:14.58,Default,ko,0,0,0,,이천일류로 훌륭하게 츠바메가에시를 물려내 보이겠소!
-Dialogue: 0,0:03:10.23,0:03:14.58,Default,en,0,0,0,,I will defeat Tsubamegaeshi with Nitenichiryu!
+Dialogue: 0,0:03:10.23,0:03:14.58,Default,en,0,0,0,,I will defeat Tsubamegaeshi with Niten'ichiryū!
 Comment: 0,0:03:14.84,0:03:20.11,Default,ja,0,0,0,,分かった、分かった！二天一流は凄い。だが、ムサシ、このたびの目的は。。。
 Dialogue: 0,0:03:14.84,0:03:20.11,Default,ko,0,0,0,,알았어, 알았어! 이천이류는 대단해. 그렇지만, 무사시, 이 여행의 목적은...
-Dialogue: 0,0:03:14.84,0:03:20.11,Default,en,0,0,0,,Sure, I get that Nitenichiryu is great. But Musashi, what is the purpose of this trip?
+Dialogue: 0,0:03:14.84,0:03:20.11,Default,en,0,0,0,,Sure, I get that Niten'ichiryū is great. But Musashi, what is the purpose of this trip?
 Comment: 0,0:03:20.72,0:03:22.50,Default,ja,0,0,0,,おせんちゃんを守りとさんこう。
 Dialogue: 0,0:03:20.72,0:03:22.50,Default,ko,0,0,0,,센짱을 지키는 것이오.
 Dialogue: 0,0:03:20.72,0:03:22.50,Default,en,0,0,0,,To protect Sen-chan-{\i1}dasu{\i0}.
@@ -419,16 +419,16 @@ Dialogue: 0,0:10:46.17,0:10:46.85,Default,ko,0,0,0,,예.
 Dialogue: 0,0:10:46.17,0:10:46.85,Default,en,0,0,0,,Thank you.
 Comment: 0,0:10:47.60,0:10:51.02,Default,ja,0,0,0,,あ、あの、おいらの二天一流も有名で。。。
 Dialogue: 0,0:10:47.60,0:10:51.02,Default,ko,0,0,0,,어, 저, 제 이천일류도 유명하고...
-Dialogue: 0,0:10:47.60,0:10:51.02,Default,en,0,0,0,,Uh, how about my Nitenichiryu, the world-famous technique?
+Dialogue: 0,0:10:47.60,0:10:51.02,Default,en,0,0,0,,Uh, how about my Niten'ichiryū, the world-famous technique?
 Comment: 0,0:10:51.12,0:10:53.24,Default,ja,0,0,0,,二天一流？しらんな。
 Dialogue: 0,0:10:51.12,0:10:53.24,Default,ko,0,0,0,,이천일류? 몰라.
-Dialogue: 0,0:10:51.12,0:10:53.24,Default,en,0,0,0,,Nitenichiryu? Never heard of it.
+Dialogue: 0,0:10:51.12,0:10:53.24,Default,en,0,0,0,,Niten'ichiryū? Never heard of it.
 Comment: 0,0:10:54.74,0:10:57.52,Default,ja,0,0,0,,では、皆の者、後は鹿と任せたぞ！
 Dialogue: 0,0:10:54.74,0:10:57.52,Default,ko,0,0,0,,그럼 모두들, 나머지는 잘 부탁한다!
 Dialogue: 0,0:10:54.74,0:10:57.52,Default,en,0,0,0,,Then everyone, please do your best!
 Comment: 0,0:11:00.17,0:11:03.20,Default,ja,0,0,0,,二天一流を知らないなんて、失礼だス！
 Dialogue: 0,0:11:00.17,0:11:03.20,Default,ko,0,0,0,,이천일류를 모르다니 실례이오!
-Dialogue: 0,0:11:00.17,0:11:03.20,Default,en,0,0,0,,It's a discourtesy to not know about Nitenichiryu-{\i1}dasu{\i0}!
+Dialogue: 0,0:11:00.17,0:11:03.20,Default,en,0,0,0,,It's a discourtesy to not know about Niten'ichiryū-{\i1}dasu{\i0}!
 Comment: 0,0:11:14.00,0:11:14.72,Default,ja,0,0,0,,大変だ！
 Dialogue: 0,0:11:14.00,0:11:14.72,Default,ko,0,0,0,,큰일이다!
 Dialogue: 0,0:11:14.00,0:11:14.72,Default,en,0,0,0,,This is bad!
@@ -676,7 +676,7 @@ Dialogue: 0,0:19:59.16,0:20:01.28,Default,ko,0,0,0,,아키노카미! 각오해�
 Dialogue: 0,0:19:59.16,0:20:01.28,Default,en,0,0,0,,Akinokami! Prepare yourself!
 Comment: 0,0:20:24.88,0:20:27.93,Default,ja,0,0,0,,二天一流、閃光剣！
 Dialogue: 0,0:20:24.88,0:20:27.93,Default,ko,0,0,0,,이천일류 섬광검!
-Dialogue: 0,0:20:24.88,0:20:27.93,Default,en,0,0,0,,Nitenichiryu: Flash Sword!
+Dialogue: 0,0:20:24.88,0:20:27.93,Default,en,0,0,0,,Niten'ichiryū: Flash Sword!
 Comment: 0,0:20:34.90,0:20:36.88,Default,ja,0,0,0,,ムサシ目、覚えておれ！
 Dialogue: 0,0:20:34.90,0:20:36.88,Default,ko,0,0,0,,무사시 놈, 기억해 둬라!
 Dialogue: 0,0:20:34.90,0:20:36.88,Default,en,0,0,0,,Musashi, you bastard! Remember this!

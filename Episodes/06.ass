@@ -16,9 +16,9 @@ Video File: ../Videos/06.mp4
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 864
-Active Line: 874
-Video Position: 35168
+Scroll Position: 740
+Active Line: 772
+Video Position: 29282
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -690,15 +690,15 @@ Dialogue: 0,0:17:11.82,0:17:14.03,Default,en,0,0,0,,Next!
 Comment: 0,0:17:22.52,0:17:27.55,Default,ja,0,0,0,,えい！一人二人は面倒だス。ホーゾーイン殿と勝負するだス！
 Dialogue: 0,0:17:22.52,0:17:27.55,Default,ko,0,0,0,,에잇! 이깟 한둘은 그저 성가시오! 호조인 님과 승부를 보고 싶소!
 Dialogue: 0,0:17:22.52,0:17:27.55,Default,en,0,0,0,,These ones are nothing-{\i1}dasu{\i0}! I want to have a match against Hōzōin-{\i1}dasu{\i0}!
-Comment: 0,0:17:28.03,0:17:30.48,Default,ja,0,0,0,,刀をわしに向けるとはいい度胸だ。
-Dialogue: 0,0:17:28.03,0:17:30.48,Default,ko,0,0,0,,칼을 내게 세우다니, 배짱 좋구나.
-Dialogue: 0,0:17:28.03,0:17:30.48,Default,en,0,0,0,,Some confidence you have, to hold your sword against me.
-Comment: 0,0:17:30.92,0:17:35.73,Default,ja,0,0,0,,よかろう。しかし、真剣勝負以外は受けぬが、よいかな。
-Dialogue: 0,0:17:30.92,0:17:35.73,Default,ko,0,0,0,,좋다. 다만 진검승부 이외에는 하지 않겠다. 괜찮나?
-Dialogue: 0,0:17:30.92,0:17:35.73,Default,en,0,0,0,,Good then. But I do not have a match without a real sword. Will you accept?
-Comment: 0,0:17:36.00,0:17:37.19,Default,ja,0,0,0,,望む所だス。
-Dialogue: 0,0:17:36.00,0:17:37.19,Default,ko,0,0,0,,바라던 바이오!
-Dialogue: 0,0:17:36.00,0:17:37.19,Default,en,0,0,0,,That's what I wanted-{\i1}dasu{\i0}!
+Comment: 0,0:17:28.03,0:17:31.51,Default,ja;L1728,0,0,0,,刀をわしに向けるとはいい度胸だ。よかろう。
+Dialogue: 0,0:17:28.03,0:17:31.51,Default,ko;L1728,0,0,0,,칼을 내게 세우다니, 배짱 좋구나. 좋다.
+Dialogue: 0,0:17:28.03,0:17:31.51,Default,en;L1728,0,0,0,,Some confidence you have, to hold your sword against me. Well then.
+Comment: 0,0:17:31.88,0:17:35.73,Default,ja;L1731,0,0,0,,しかし、真剣勝負以外は受けぬが、よいかな。
+Dialogue: 0,0:17:31.88,0:17:35.73,Default,ko;L1731,0,0,0,,다만 진검승부 이외에는 하지 않겠다. 괜찮나?
+Dialogue: 0,0:17:31.88,0:17:35.73,Default,en;L1731,0,0,0,,But I do not have a match without a real sword. Will you accept?
+Comment: 0,0:17:36.00,0:17:37.19,Default,ja;L1736,0,0,0,,望む所だス。
+Dialogue: 0,0:17:36.00,0:17:37.19,Default,ko;L1736,0,0,0,,바라던 바이오!
+Dialogue: 0,0:17:36.00,0:17:37.19,Default,en;L1736,0,0,0,,That's what I wanted-{\i1}dasu{\i0}!
 Comment: 0,0:17:39.02,0:17:40.40,Default,ja,0,0,0,,ムサシ！先生！
 Dialogue: 0,0:17:39.02,0:17:40.40,Default,ko,0,0,0,,무사시! 스승님!
 Dialogue: 0,0:17:39.02,0:17:40.40,Default,en,0,0,0,,Musashi! ...Master!
@@ -708,67 +708,67 @@ Dialogue: 0,0:17:41.39,0:17:42.80,Default,en,0,0,0,,Do not worry-{\i1}dasu{\i0}.
 Comment: 0,0:17:42.99,0:17:43.61,Default,ja,0,0,0,,来い！
 Dialogue: 0,0:17:42.99,0:17:43.61,Default,ko,0,0,0,,오시오!
 Dialogue: 0,0:17:42.99,0:17:43.61,Default,en,0,0,0,,Come!
-Comment: 0,0:17:47.72,0:17:49.51,Default,ja,0,0,0,,変わった槍でござるだス。
-Dialogue: 0,0:17:47.72,0:17:49.51,Default,ko,0,0,0,,희한한 창이오!
-Dialogue: 0,0:17:47.72,0:17:49.51,Default,en,0,0,0,,That's one strange lance-{\i1}dasu{\i0}!
-Comment: 0,0:17:50.14,0:17:53.82,Default,ja,0,0,0,,この鎌槍こそ、わがホーゾーイン流の必殺武器。
-Dialogue: 0,0:17:50.14,0:17:53.82,Default,ko,0,0,0,,이 미늘창이야말로 우리 호조인류의 필살무기!
-Dialogue: 0,0:17:50.14,0:17:53.82,Note,en,0,0,0,,({\i1}kamayari{\i0}: 鎌槍. Spear with curved cross-blades)
+Comment: 0,0:17:47.72,0:17:49.51,Default,ja;L1747,0,0,0,,変わった槍でござるだス。
+Dialogue: 0,0:17:47.72,0:17:49.51,Default,ko;L1747,0,0,0,,희한한 창이오!
+Dialogue: 0,0:17:47.72,0:17:49.51,Default,en;L1747,0,0,0,,That's one strange lance-{\i1}dasu{\i0}!
+Comment: 0,0:17:50.14,0:17:53.82,Default,ja;L1750,0,0,0,,この鎌槍こそ、わがホーゾーイン流の必殺武器。
+Dialogue: 0,0:17:50.14,0:17:53.82,Default,ko;L1750,0,0,0,,이 미늘창이야말로 우리 호조인류의 필살무기!
+Dialogue: 0,0:17:50.14,0:17:53.82,Note,en;L1750,0,0,0,,({\i1}kamayari{\i0}: 鎌槍. Spear with curved cross-blades)
 Dialogue: 0,0:17:50.14,0:17:53.82,Default,en,0,0,0,,This {\i1}kamayari{\i0} is the special weapon of our Hōzōin family!
-Comment: 0,0:17:54.46,0:17:55.37,Default,ja,0,0,0,,いざ、勝負！
-Dialogue: 0,0:17:54.46,0:17:55.37,Default,ko,0,0,0,,승부다!
-Dialogue: 0,0:17:54.46,0:17:55.37,Default,en,0,0,0,,Begin match!
+Comment: 0,0:17:54.46,0:17:55.37,Default,ja;L1754,0,0,0,,いざ、勝負！
+Dialogue: 0,0:17:54.46,0:17:55.37,Default,ko;L1754,0,0,0,,승부다!
+Dialogue: 0,0:17:54.46,0:17:55.37,Default,en;L1754,0,0,0,,Begin match!
 Comment: 0,0:17:55.64,0:17:55.95,Default,ja,0,0,0,,おう！
 Dialogue: 0,0:17:55.64,0:17:55.95,Default,ko,0,0,0,,오시오!
 Dialogue: 0,0:17:55.64,0:17:55.95,Default,en,0,0,0,,Come!
-Comment: 0,0:18:12.46,0:18:15.60,Default,ja,0,0,0,,鎌の部分を計算に入れなかっただス。
-Dialogue: 0,0:18:12.46,0:18:15.60,Default,ko,0,0,0,,쇠붙이 부분을 계산에 넣지 않았소.
-Dialogue: 0,0:18:12.46,0:18:15.60,Default,en,0,0,0,,I didn't put the metal part to my calculations-{\i1}dasu{\i0}...
-Comment: 0,0:18:16.20,0:18:23.20,Default,ja,0,0,0,,見たか。これぞホーゾーイン流鎌槍の特技。それだけではなく切る機能も備えた万能槍。
-Dialogue: 0,0:18:16.20,0:18:23.20,Default,ko,0,0,0,,보았나? 이게 호조인류 미늘창의 특기. 그것뿐만이 아니라 자르는 기능도 있는 만능 창.
-Dialogue: 0,0:18:16.20,0:18:23.20,Default,en,0,0,0,,Did you see? This is the specialty of {\i1}kamayari{\i0} of our Hōzōin family. This spear also can cut. It is capable of anything.
-Comment: 0,0:18:23.66,0:18:24.67,Default,ja,0,0,0,,覚悟！
-Dialogue: 0,0:18:23.66,0:18:24.67,Default,ko,0,0,0,,각오해라!
-Dialogue: 0,0:18:23.66,0:18:24.67,Default,en,0,0,0,,Prepare yourself!
-Comment: 0,0:18:28.78,0:18:31.53,Default,ja,0,0,0,,このままでは漬け込む隙がないでござるだス。
-Dialogue: 0,0:18:28.78,0:18:31.53,Default,ko,0,0,0,,{\i1}이대로는 허점을 이용할 틈이 전혀 없소!
-Dialogue: 0,0:18:28.78,0:18:31.53,Default,en,0,0,0,,{\i1}I cannot find a way to take advantage of anything-{\i1}dasu{\i0}!
-Comment: 0,0:18:37.58,0:18:38.20,Default,ja,0,0,0,,とどめだ！
-Dialogue: 0,0:18:37.58,0:18:38.20,Default,ko,0,0,0,,끝장이다!
-Dialogue: 0,0:18:37.58,0:18:38.20,Default,en,0,0,0,,Finishing move!
-Comment: 0,0:18:40.50,0:18:42.08,Default,ja,0,0,0,,逃げるのか、小僧！
-Dialogue: 0,0:18:40.50,0:18:42.08,Default,ko,0,0,0,,달아가냐, 꼬맹아!
-Dialogue: 0,0:18:40.50,0:18:42.08,Default,en,0,0,0,,Are you running away, you brat?!
-Comment: 0,0:18:42.22,0:18:46.63,Default,ja,0,0,0,,違うだス。狭い道場は息が詰まるから外へ出ただけだス。
-Dialogue: 0,0:18:42.22,0:18:46.63,Default,ko,0,0,0,,아니오! 좁은 도장에서는 숨이 막히니까 밖으로 나왔을 뿐이오!
-Dialogue: 0,0:18:42.22,0:18:46.63,Default,en,0,0,0,,That's not it! I just came out because the air was stale inside that limited space of Dōjō!
-Comment: 0,0:18:47.28,0:18:49.63,Default,ja,0,0,0,,負け惜しみだけはいっちょう前だな！
-Dialogue: 0,0:18:47.28,0:18:49.63,Default,ko,0,0,0,,패배를 인정하기 1초 전이군!
-Dialogue: 0,0:18:47.28,0:18:49.63,Default,en,0,0,0,,One second before you admit your loss!
-Comment: 0,0:18:57.85,0:18:59.37,Default,ja,0,0,0,,うわ、動けないだス。
-Dialogue: 0,0:18:57.85,0:18:59.37,Default,ko,0,0,0,,움직일 수가 없소!
-Dialogue: 0,0:18:57.85,0:18:59.37,Default,en,0,0,0,,I cannot move-{\i1}dasu{\i0}!
-Comment: 0,0:18:59.79,0:19:01.85,Default,ja,0,0,0,,それ、串刺しだ！
-Dialogue: 0,0:18:59.79,0:19:01.85,Default,ko,0,0,0,,이랴, 꼬치 꽂기다!
-Dialogue: 0,0:18:59.79,0:19:01.85,Default,en,0,0,0,,Time for skewering!
-Comment: 0,0:19:03.60,0:19:04.42,Default,ja,0,0,0,,覚悟！
-Dialogue: 0,0:19:03.60,0:19:04.42,Default,ko,0,0,0,,각오해라!
-Dialogue: 0,0:19:03.60,0:19:04.42,Default,en,0,0,0,,Prepare yourself!
-Comment: 0,0:19:09.87,0:19:10.52,Default,ja,0,0,0,,誰だ！
-Dialogue: 0,0:19:09.87,0:19:10.52,Default,ko,0,0,0,,누구냐!
-Dialogue: 0,0:19:09.87,0:19:10.52,Default,en,0,0,0,,Who did that?!
-Comment: 0,0:19:14.38,0:19:15.43,Default,ja,0,0,0,,貴様。。。
-Dialogue: 0,0:19:14.38,0:19:15.43,Default,ko,0,0,0,,네이놈.
-Dialogue: 0,0:19:14.38,0:19:15.43,Default,en,0,0,0,,How dare you...
-Comment: 0,0:19:17.68,0:19:19.28,Default,ja,0,0,0,,うん？おぬしは。。。
-Dialogue: 0,0:19:17.68,0:19:19.28,Default,ko,0,0,0,,어? 너는...
-Dialogue: 0,0:19:17.68,0:19:19.28,Default,en,0,0,0,,Huh? You're...
-Comment: 0,0:19:20.00,0:19:23.87,Default,ja,0,0,0,,相手はまだ少年。たってとあらば拙者がお相手いたす。
-Dialogue: 0,0:19:20.00,0:19:23.87,Default,ko,0,0,0,,상대는 아직 소년. 굳이 날뛰어야 한다면 소생이 상대하겠습니다.
-Dialogue: 0,0:19:20.00,0:19:23.87,Default,en,0,0,0,,The opponent is a boy. If you must fight, I will content with you.
-Comment: 0,0:19:27.31,0:19:32.64,Default,ja,0,0,0,,葵の紋章。諸国を見回る警察庁長官のジュウベエ殿か。
-Dialogue: 0,0:19:27.31,0:19:32.64,Default,ko,0,0,0,,{\i1}접시꽃 문장. 제국을 돌아보는 경찰청 장관 주베 님인가...
-Dialogue: 0,0:19:27.31,0:19:32.64,Default,en,0,0,0,,{\i1}Emblem of hollyhock. He must be Jūbee, director of the police department who takes care of whole empire...
+Comment: 0,0:18:12.46,0:18:15.60,Default,ja;L1812,0,0,0,,鎌の部分を計算に入れなかっただス。
+Dialogue: 0,0:18:12.46,0:18:15.60,Default,ko;L1812,0,0,0,,쇠붙이 부분을 계산에 넣지 않았소.
+Dialogue: 0,0:18:12.46,0:18:15.60,Default,en;L1812,0,0,0,,I didn't put the metal part to my calculations-{\i1}dasu{\i0}...
+Comment: 0,0:18:16.20,0:18:23.20,Default,ja;L1816,0,0,0,,見たか。これぞホーゾーイン流鎌槍の特技。それだけではなく切る機能も備えた万能槍。
+Dialogue: 0,0:18:16.20,0:18:23.20,Default,ko;L1816,0,0,0,,보았나? 이게 호조인류 미늘창의 특기. 그것뿐만이 아니라 자르는 기능도 있는 만능 창.
+Dialogue: 0,0:18:16.20,0:18:23.20,Default,en;L1816,0,0,0,,Did you see? This is the specialty of {\i1}kamayari{\i0} of our Hōzōin family. This spear also can cut. It is capable of anything.
+Comment: 0,0:18:23.66,0:18:24.67,Default,ja;L1823,0,0,0,,覚悟！
+Dialogue: 0,0:18:23.66,0:18:24.67,Default,ko;L1823,0,0,0,,각오해라!
+Dialogue: 0,0:18:23.66,0:18:24.67,Default,en;L1823,0,0,0,,Prepare yourself!
+Comment: 0,0:18:28.78,0:18:31.53,Default,ja;L1828,0,0,0,,このままでは漬け込む隙がないでござるだス。
+Dialogue: 0,0:18:28.78,0:18:31.53,Default,ko;L1828,0,0,0,,{\i1}이대로는 허점을 이용할 틈이 전혀 없소!
+Dialogue: 0,0:18:28.78,0:18:31.53,Default,en;L1828,0,0,0,,{\i1}I cannot find a way to take advantage of anything-{\i1}dasu{\i0}!
+Comment: 0,0:18:37.58,0:18:38.20,Default,ja;L1837,0,0,0,,とどめだ！
+Dialogue: 0,0:18:37.58,0:18:38.20,Default,ko;L1837,0,0,0,,끝장이다!
+Dialogue: 0,0:18:37.58,0:18:38.20,Default,en;L1837,0,0,0,,Finishing move!
+Comment: 0,0:18:40.50,0:18:42.08,Default,ja;L1840,0,0,0,,逃げるのか、小僧！
+Dialogue: 0,0:18:40.50,0:18:42.08,Default,ko;L1840,0,0,0,,달아가냐, 꼬맹아!
+Dialogue: 0,0:18:40.50,0:18:42.08,Default,en;L1840,0,0,0,,Are you running away, you brat?!
+Comment: 0,0:18:42.22,0:18:46.63,Default,ja;L1842,0,0,0,,違うだス。狭い道場は息が詰まるから外へ出ただけだス。
+Dialogue: 0,0:18:42.22,0:18:46.63,Default,ko;L1842,0,0,0,,아니오! 좁은 도장에서는 숨이 막히니까 밖으로 나왔을 뿐이오!
+Dialogue: 0,0:18:42.22,0:18:46.63,Default,en;L1842,0,0,0,,That's not it! I just came out because the air was stale inside that limited space of Dōjō!
+Comment: 0,0:18:47.28,0:18:49.63,Default,ja;L1847,0,0,0,,負け惜しみだけはいっちょう前だな！
+Dialogue: 0,0:18:47.28,0:18:49.63,Default,ko;L1847,0,0,0,,패배를 인정하기 1초 전이군!
+Dialogue: 0,0:18:47.28,0:18:49.63,Default,en;L1847,0,0,0,,One second before you admit your loss!
+Comment: 0,0:18:57.85,0:18:59.37,Default,ja;L1857,0,0,0,,うわ、動けないだス。
+Dialogue: 0,0:18:57.85,0:18:59.37,Default,ko;L1857,0,0,0,,움직일 수가 없소!
+Dialogue: 0,0:18:57.85,0:18:59.37,Default,en;L1857,0,0,0,,I cannot move-{\i1}dasu{\i0}!
+Comment: 0,0:18:59.79,0:19:01.85,Default,ja;L1859,0,0,0,,それ、串刺しだ！
+Dialogue: 0,0:18:59.79,0:19:01.85,Default,ko;L1859,0,0,0,,이랴, 꼬치 꽂기다!
+Dialogue: 0,0:18:59.79,0:19:01.85,Default,en;L1859,0,0,0,,Time for skewering!
+Comment: 0,0:19:03.60,0:19:04.42,Default,ja;L1903,0,0,0,,覚悟！
+Dialogue: 0,0:19:03.60,0:19:04.42,Default,ko;L1903,0,0,0,,각오해라!
+Dialogue: 0,0:19:03.60,0:19:04.42,Default,en;L1903,0,0,0,,Prepare yourself!
+Comment: 0,0:19:09.87,0:19:10.52,Default,ja;L1909,0,0,0,,誰だ！
+Dialogue: 0,0:19:09.87,0:19:10.52,Default,ko;L1909,0,0,0,,누구냐!
+Dialogue: 0,0:19:09.87,0:19:10.52,Default,en;L1909,0,0,0,,Who did that?!
+Comment: 0,0:19:14.38,0:19:15.43,Default,ja;L1914,0,0,0,,貴様。。。
+Dialogue: 0,0:19:14.38,0:19:15.43,Default,ko;L1914,0,0,0,,네이놈.
+Dialogue: 0,0:19:14.38,0:19:15.43,Default,en;L1914,0,0,0,,How dare you...
+Comment: 0,0:19:17.68,0:19:19.28,Default,ja;L1917,0,0,0,,うん？おぬしは。。。
+Dialogue: 0,0:19:17.68,0:19:19.28,Default,ko;L1917,0,0,0,,어? 너는...
+Dialogue: 0,0:19:17.68,0:19:19.28,Default,en;L1917,0,0,0,,Huh? You're...
+Comment: 0,0:19:20.00,0:19:23.87,Default,ja;L1920,0,0,0,,相手はまだ少年。たってとあらば拙者がお相手いたす。
+Dialogue: 0,0:19:20.00,0:19:23.87,Default,ko;L1920,0,0,0,,상대는 아직 소년. 굳이 날뛰어야 한다면 소생이 상대하겠습니다.
+Dialogue: 0,0:19:20.00,0:19:23.87,Default,en;L1920,0,0,0,,The opponent is a boy. If you must fight, I will content with you.
+Comment: 0,0:19:27.31,0:19:32.64,Default,ja;L1927,0,0,0,,{\i1}葵の紋章。諸国を見回る警察庁長官のジュウベエ殿か。
+Dialogue: 0,0:19:27.31,0:19:32.64,Default,ko;L1927,0,0,0,,{\i1}접시꽃 문장. 제국을 돌아보는 경찰청 장관 주베 님인가...
+Dialogue: 0,0:19:27.31,0:19:32.64,Default,en;L1927,0,0,0,,{\i1}Emblem of hollyhock. He must be Jūbee, director of the police department who takes care of whole empire...
 Dialogue: 0,0:19:33.84,0:19:38.26,NoteOnAnime,ko,0,0,95,,주베
 Dialogue: 0,0:19:33.84,0:19:38.26,NoteOnAnime,en,0,0,95,,Jūbee
 Comment: 0,0:19:35.05,0:19:37.13,Default,ja,0,0,0,,一点の曇りもない澄んだ目だ。
@@ -783,33 +783,30 @@ Dialogue: 0,0:19:41.46,0:19:43.19,Default,en,0,0,0,,A clear sky.
 Comment: 0,0:19:43.66,0:19:45.77,Default,ja,0,0,0,,それを聞いて安心しました。
 Dialogue: 0,0:19:43.66,0:19:45.77,Default,ko,0,0,0,,그 말을 들으니 안심됩니다.
 Dialogue: 0,0:19:43.66,0:19:45.77,Default,en,0,0,0,,I am relieved to hear that.
-Comment: 0,0:19:51.95,0:19:53.90,Default,ja,0,0,0,,勝負を忘れたか、ホーゾーイン！
-Dialogue: 0,0:19:51.95,0:19:53.90,Default,ko,0,0,0,,승부를 잊었소, 호조인?
-Dialogue: 0,0:19:51.95,0:19:53.90,Default,en,0,0,0,,Did you forget the match-{\i1}dasu{\i0}, Hōzōin?
-Comment: 0,0:19:54.22,0:19:55.37,Default,ja,0,0,0,,覚悟！
-Dialogue: 0,0:19:54.22,0:19:55.37,Default,ko,0,0,0,,각오하시오!
-Dialogue: 0,0:19:54.22,0:19:55.37,Default,en,0,0,0,,Prepare yourself!
+Comment: 0,0:19:51.95,0:19:55.37,Default,ja;L1951,0,0,0,,勝負を忘れたか、ホーゾーイン！覚悟！
+Dialogue: 0,0:19:51.95,0:19:55.37,Default,ko;L1951,0,0,0,,승부를 잊었소, 호조인? 각오하시오!
+Dialogue: 0,0:19:51.95,0:19:55.37,Default,en;L1951,0,0,0,,Did you forget the match-{\i1}dasu{\i0}, Hōzōin? Prepare yourself!
 Comment: 0,0:20:00.25,0:20:01.34,Default,ja,0,0,0,,もらった！
 Dialogue: 0,0:20:00.25,0:20:01.34,Default,ko,0,0,0,,잡았소!
 Dialogue: 0,0:20:00.25,0:20:01.34,Default,en,0,0,0,,I got you!
-Comment: 0,0:20:16.60,0:20:17.35,Default,ja,0,0,0,,参った。
-Dialogue: 0,0:20:16.60,0:20:17.35,Default,ko,0,0,0,,졌소.
-Dialogue: 0,0:20:16.60,0:20:17.35,Default,en,0,0,0,,I lost.
-Comment: 0,0:20:17.92,0:20:21.51,Default,ja,0,0,0,,え？どうしてでござるだス。今の勝負は相打ちでは。
-Dialogue: 0,0:20:17.92,0:20:21.51,Default,ko,0,0,0,,어째서오? 지금 승부는 비긴 것이...
-Dialogue: 0,0:20:17.92,0:20:21.51,Default,en,0,0,0,,Why-{\i1}dasu{\i0}? This match is a draw...
-Comment: 0,0:20:22.06,0:20:26.02,Default,ja,0,0,0,,いやいや、自慢の槍を切れ落とされて私の負けでござる。
-Dialogue: 0,0:20:22.06,0:20:26.02,Default,ko,0,0,0,,아니오. 자랑스러운 창이 끊어진 제가 진 것이오.
-Dialogue: 0,0:20:22.06,0:20:26.02,Default,en,0,0,0,,No. It is my loss, as my spear has been cut off, as well as my pride.
-Comment: 0,0:20:26.20,0:20:28.26,Default,ja,0,0,0,,以後、精進仕りまする。
-Dialogue: 0,0:20:26.20,0:20:28.26,Default,ko,0,0,0,,이후, 정진하겠소이다.
-Dialogue: 0,0:20:26.20,0:20:28.26,Default,en,0,0,0,,I will devote more, from now on.
-Comment: 0,0:20:28.46,0:20:29.47,Default,ja,0,0,0,,ほ、本当？
-Dialogue: 0,0:20:28.46,0:20:29.47,Default,ko,0,0,0,,저, 정말이오?
-Dialogue: 0,0:20:28.46,0:20:29.47,Default,en,0,0,0,,Re- really?
-Comment: 0,0:20:29.79,0:20:32.75,Default,ja,0,0,0,,やった！やったでござるだス。
-Dialogue: 0,0:20:29.79,0:20:32.75,Default,ko,0,0,0,,해냈다! 해냈소!
-Dialogue: 0,0:20:29.79,0:20:32.75,Default,en,0,0,0,,I did it! I did it-{\i1}dasu{\i0}!
+Comment: 0,0:20:16.60,0:20:17.35,Default,ja;L2016,0,0,0,,参った。
+Dialogue: 0,0:20:16.60,0:20:17.35,Default,ko;L2016,0,0,0,,졌소.
+Dialogue: 0,0:20:16.60,0:20:17.35,Default,en;L2016,0,0,0,,I lost.
+Comment: 0,0:20:17.92,0:20:21.51,Default,ja;L2017,0,0,0,,え？どうしてでござるだス。今の勝負は相打ちでは。
+Dialogue: 0,0:20:17.92,0:20:21.51,Default,ko;L2017,0,0,0,,어째서오? 지금 승부는 비긴 것이...
+Dialogue: 0,0:20:17.92,0:20:21.51,Default,en;L2017,0,0,0,,Why-{\i1}dasu{\i0}? This match is a draw...
+Comment: 0,0:20:22.06,0:20:26.02,Default,ja;L2022,0,0,0,,いやいや、自慢の槍を切れ落とされて私の負けでござる。
+Dialogue: 0,0:20:22.06,0:20:26.02,Default,ko;L2022,0,0,0,,아니오. 자랑스러운 창이 끊어진 제가 진 것이오.
+Dialogue: 0,0:20:22.06,0:20:26.02,Default,en;L2022,0,0,0,,No. It is my loss, as my spear has been cut off, as well as my pride.
+Comment: 0,0:20:26.20,0:20:28.26,Default,ja;L2026,0,0,0,,以後、精進仕りまする。
+Dialogue: 0,0:20:26.20,0:20:28.26,Default,ko;L2026,0,0,0,,이후, 정진하겠소이다.
+Dialogue: 0,0:20:26.20,0:20:28.26,Default,en;L2026,0,0,0,,I will devote more, from now on.
+Comment: 0,0:20:28.46,0:20:29.47,Default,ja;L2028,0,0,0,,ほ、本当？
+Dialogue: 0,0:20:28.46,0:20:29.47,Default,ko;L2028,0,0,0,,저, 정말이오?
+Dialogue: 0,0:20:28.46,0:20:29.47,Default,en;L2028,0,0,0,,Re- really?
+Comment: 0,0:20:29.79,0:20:32.75,Default,ja;L2029,0,0,0,,やった！やったでござるだス。
+Dialogue: 0,0:20:29.79,0:20:32.75,Default,ko;L2029,0,0,0,,해냈다! 해냈소!
+Dialogue: 0,0:20:29.79,0:20:32.75,Default,en;L2029,0,0,0,,I did it! I did it-{\i1}dasu{\i0}!
 Comment: 0,0:20:39.05,0:20:43.84,Default,ja,0,0,0,,エドトピアのジパング武芸大会で改めて勝負したいでござるだス。
 Dialogue: 0,0:20:39.05,0:20:43.84,Default,ko,0,0,0,,에도토피아의 지팡구 무예 대회에서 새롭게 다시 승부를 보고 싶소.
 Dialogue: 0,0:20:39.05,0:20:43.84,Default,en,0,0,0,,I want to have a new match against you in Jipangu Martial Arts Competition in Edotopia.
@@ -914,8 +911,8 @@ Dialogue: 0,0:24:20.80,0:24:24.03,Default,en,0,0,0,,Next story! Clean and Poor K
 Comment: 0,0:24:24.03,0:24:26.63,Default,ja,0,0,0,,疾風怒濤のいっし格闘戦だス。
 Dialogue: 0,0:24:24.03,0:24:26.63,Default,ko,0,0,0,,질풍노도의 전력의 격투전이오!
 Dialogue: 0,0:24:24.03,0:24:26.63,Default,en,0,0,0,,There will be a stormy fight!
-Dialogue: 0,0:24:26.63,0:24:30.64,NoteOnAnime,ko,60,0,60,,{\an7}다음 이야기
 Comment: 0,0:24:26.63,0:24:30.64,TitleEP,ja,0,0,70,,清く貧しいクサリガマだス
+Dialogue: 0,0:24:26.63,0:24:30.64,NoteOnAnime,ko,60,0,60,,{\an7}다음 이야기
 Dialogue: 0,0:24:26.63,0:24:30.64,TitleEP,ko,0,0,70,,깨끗하고 가난한 쿠사리가마오
 Dialogue: 0,0:24:26.63,0:24:30.64,NoteOnAnime,ko,0,60,30,,{\an3\fs32}기대하세요!
 Dialogue: 0,0:24:26.63,0:24:30.64,NoteOnAnime,en,60,0,60,,{\an7}Next Episode
