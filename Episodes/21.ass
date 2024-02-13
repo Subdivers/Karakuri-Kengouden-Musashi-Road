@@ -84,8 +84,8 @@ Comment: 0,0:02:50.74,0:02:55.20,Default,ja,0,0,0,,センヒメ様が襲われ�
 Dialogue: 0,0:02:50.74,0:02:55.20,Default,ko,0,0,0,,센히메 님이 습격당하면 어쩔 셈이냐? 그런 태평한 일할 틈이 있을 것 같냐!
 Dialogue: 0,0:02:50.74,0:02:55.20,Default,en,0,0,0,,What if Senhime gets attacked? Do you think we have time to enjoy something at leisure?
 Comment: 0,0:02:55.49,0:03:00.60,Default,ja,0,0,0,,ふん、じゃ、おいら、おせんちゃんと一緒にお風呂に入って見張るだす。
-Dialogue: 0,0:02:55.49,0:03:00.60,Default,ko,0,0,0,,흠, 그럼 나, 센짱하고 같이 탕에 들어가서 망보겠소.
-Dialogue: 0,0:02:55.49,0:03:00.60,Default,en,0,0,0,,Hmm, then I'll join Sen-chan in the bath and stand watch-{\i1}dasu{\i0}.
+Dialogue: 0,0:02:55.49,0:03:00.60,Default,ko,0,0,0,,흠, 그럼 나, 오센짱하고 같이 탕에 들어가서 망보겠소.
+Dialogue: 0,0:02:55.49,0:03:00.60,Default,en,0,0,0,,Hmm, then I'll join Osenchan in the bath and stand watch-{\i1}dasu{\i0}.
 Comment: 0,0:03:00.73,0:03:03.86,Default,ja,0,0,0,,ば、ばか！お前、エチケットを知らんか！
 Dialogue: 0,0:03:00.73,0:03:03.86,Default,ko,0,0,0,,바, 바보야! 너, 예의도 모르냐!
 Dialogue: 0,0:03:00.73,0:03:03.86,Default,en,0,0,0,,I- idiot! Don't you know your etiquette?
@@ -168,8 +168,8 @@ Comment: 0,0:05:31.60,0:05:32.61,Default,ja,0,0,0,,本当ですか？
 Dialogue: 0,0:05:31.60,0:05:32.61,Default,ko,0,0,0,,정말입니까?
 Dialogue: 0,0:05:31.60,0:05:32.61,Default,en,0,0,0,,Really?
 Comment: 0,0:05:32.92,0:05:36.09,Default,ja,0,0,0,,ちょちょちょっと、おせんちゃん！それはまりにも危険だす！
-Dialogue: 0,0:05:32.92,0:05:36.09,Default,ko,0,0,0,,자자잠깐, 센짱, 그건 어떻게 봐도 위험하오!
-Dialogue: 0,0:05:32.92,0:05:36.09,Default,en,0,0,0,,J- j- just a moment, Sen-chan! That's too dangerous-{\i1}dasu{\i0}!
+Dialogue: 0,0:05:32.92,0:05:36.09,Default,ko,0,0,0,,자자잠깐, 오센짱, 그건 어떻게 봐도 위험하오!
+Dialogue: 0,0:05:32.92,0:05:36.09,Default,en,0,0,0,,J- j- just a moment, Osenchan! That's too dangerous-{\i1}dasu{\i0}!
 Comment: 0,0:05:36.09,0:05:41.89,Default,ja,0,0,0,,あら、誰もあたしがっては言ってないのよ。あんたが退治するの、あんたが。
 Dialogue: 0,0:05:36.09,0:05:41.89,Default,ko,0,0,0,,어라, 내가 한다고는 한 적 없어. 네가 퇴치할 거야, 네가.
 Dialogue: 0,0:05:36.09,0:05:41.89,Default,en,0,0,0,,Hey, I never said that I'm going to do that myself. It's you who's going to wipe them out. You will.
@@ -192,8 +192,8 @@ Comment: 0,0:06:02.26,0:06:06.17,Default,ja,0,0,0,,もう、ムサシたら、�
 Dialogue: 0,0:06:02.26,0:06:06.17,Default,ko,0,0,0,,거 무사시도 참, 이런 이야기에 약하다니까.
 Dialogue: 0,0:06:02.26,0:06:06.17,Default,en,0,0,0,,Aren't you a scardycat, Musashi.
 Comment: 0,0:06:06.41,0:06:10.16,Default,ja,0,0,0,,おせんちゃん、飯はもういいだすから、早く寝ようだす。
-Dialogue: 0,0:06:06.41,0:06:10.16,Default,ko,0,0,0,,센짱, 밥은 이제 됐으니까 빨리 자오.
-Dialogue: 0,0:06:06.41,0:06:10.16,Default,en,0,0,0,,Sen-chan, I don't care about dinner anymore, so please let us sleep now-{\i1}dasu{\i0}...
+Dialogue: 0,0:06:06.41,0:06:10.16,Default,ko,0,0,0,,오센짱, 밥은 이제 됐으니까 빨리 자오.
+Dialogue: 0,0:06:06.41,0:06:10.16,Default,en,0,0,0,,Osenchan, I don't care about dinner anymore, so please let us sleep now-{\i1}dasu{\i0}...
 Comment: 0,0:06:10.70,0:06:16.41,Default,ja,0,0,0,,いやよ。せっかくなまで幽霊が見られるチャンスなんだもん。もったいなくてねてられますかって！
 Dialogue: 0,0:06:10.70,0:06:16.41,Default,ko,0,0,0,,싫어. 겨우 유령을 볼 수 있는 기회인데. 안 보고 잘 수 있을 것 같니?
 Dialogue: 0,0:06:10.70,0:06:16.41,Default,en,0,0,0,,Nope! This is a rare chance to see ghosts with my bare eyes. Do you think I can sleep without missing that chance?
@@ -507,8 +507,8 @@ Comment: 0,0:12:56.88,0:12:58.64,Default,ja,0,0,0,,よ、こりゃいったい�
 Dialogue: 0,0:12:56.88,0:12:58.64,Default,ko,0,0,0,,아니, 이건 대체...
 Dialogue: 0,0:12:56.88,0:12:58.64,Default,en,0,0,0,,What's going on?
 Comment: 0,0:12:58.88,0:13:02.87,Default,ja,0,0,0,,コジロー！おせんちゃん！どこだスか！
-Dialogue: 0,0:12:58.88,0:13:02.87,Default,ko,0,0,0,,코지로! 센짱! 어디이오!
-Dialogue: 0,0:12:58.88,0:13:02.87,Default,en,0,0,0,,Kojirō! Sen-chan! Where are you-{\i1}dasu{\i0}?!
+Dialogue: 0,0:12:58.88,0:13:02.87,Default,ko,0,0,0,,코지로! 오센짱! 어디이오!
+Dialogue: 0,0:12:58.88,0:13:02.87,Default,en,0,0,0,,Kojirō! Osenchan! Where are you-{\i1}dasu{\i0}?!
 Comment: 0,0:13:02.87,0:13:04.13,Default,ja,0,0,0,,私はここにいる！
 Dialogue: 0,0:13:02.87,0:13:04.13,Default,ko,0,0,0,,난 여기 있어!
 Dialogue: 0,0:13:02.87,0:13:04.13,Default,en,0,0,0,,I'm here!
@@ -648,8 +648,8 @@ Comment: 0,0:15:31.98,0:15:39.81,Default,ja,0,0,0,,センヒメ様、少々気�
 Dialogue: 0,0:15:31.98,0:15:39.81,Default,ko,0,0,0,,센히메 님, 계속 신경쓰이는 게 있는데, 이 공산은 사람들을 불러들이고 있는 것 같습니다.
 Dialogue: 0,0:15:31.98,0:15:39.81,Default,en,0,0,0,,Senhime, this has been bothering me; this Osorezan seems to be calling people towards it.
 Comment: 0,0:15:42.53,0:15:43.21,Default,ja,0,0,0,,おせんちゃん！
-Dialogue: 0,0:15:42.53,0:15:43.21,Default,ko,0,0,0,,센짱!
-Dialogue: 0,0:15:42.53,0:15:43.21,Default,en,0,0,0,,Sen-chan!
+Dialogue: 0,0:15:42.53,0:15:43.21,Default,ko,0,0,0,,오센짱!
+Dialogue: 0,0:15:42.53,0:15:43.21,Default,en,0,0,0,,Osenchan!
 Comment: 0,0:15:43.61,0:15:45.37,Default,ja,0,0,0,,助けて！
 Dialogue: 0,0:15:43.61,0:15:45.37,Default,ko,0,0,0,,살려줘!
 Dialogue: 0,0:15:43.61,0:15:45.37,Default,en,0,0,0,,Help me!

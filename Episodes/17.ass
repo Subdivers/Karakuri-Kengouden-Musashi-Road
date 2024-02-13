@@ -185,8 +185,8 @@ Comment: 0,0:04:44.39,0:04:45.31,Default,ja,0,0,0,,へ、行きましょう！
 Dialogue: 0,0:04:44.39,0:04:45.31,Default,ko,0,0,0,,자, 가자!
 Dialogue: 0,0:04:44.39,0:04:45.31,Default,en,0,0,0,,Let's go!
 Comment: 0,0:04:45.31,0:04:46.52,Default,ja,0,0,0,,待て、おせんちゃん！
-Dialogue: 0,0:04:45.31,0:04:46.52,Default,ko,0,0,0,,기다리시오, 센짱!
-Dialogue: 0,0:04:45.31,0:04:46.52,Default,en,0,0,0,,Wait for me, Sen-chan!
+Dialogue: 0,0:04:45.31,0:04:46.52,Default,ko,0,0,0,,기다리시오, 오센짱!
+Dialogue: 0,0:04:45.31,0:04:46.52,Default,en,0,0,0,,Wait for me, Osenchan!
 Comment: 0,0:04:58.29,0:04:59.57,Default,ja,0,0,0,,おいしいわ！
 Dialogue: 0,0:04:58.29,0:04:59.57,Default,ko,0,0,0,,맛있어!
 Dialogue: 0,0:04:58.29,0:04:59.57,Default,en,0,0,0,,It's so good!
@@ -407,8 +407,8 @@ Comment: 0,0:11:01.30,0:11:04.24,Default,ja,0,0,0,,伊賀氏天皇の一人、�
 Dialogue: 0,0:11:01.30,0:11:04.24,Default,ko,0,0,0,,이하 사천왕의 하나, 슈텐타이거!
 Dialogue: 0,0:11:01.30,0:11:04.24,Default,en,0,0,0,,One of Four Iga Kings, Shutentiger!
 Comment: 0,0:11:07.45,0:11:08.51,Default,ja,0,0,0,,おせんちゃん
-Dialogue: 0,0:11:07.45,0:11:08.51,Default,ko,0,0,0,,센짱!
-Dialogue: 0,0:11:07.45,0:11:08.51,Default,en,0,0,0,,Sen-chan!
+Dialogue: 0,0:11:07.45,0:11:08.51,Default,ko,0,0,0,,오센짱!
+Dialogue: 0,0:11:07.45,0:11:08.51,Default,en,0,0,0,,Osenchan!
 Comment: 0,0:11:19.86,0:11:22.66,Default,ja,0,0,0,,あたまが多いだけの蛇なんかにやられんだス！
 Dialogue: 0,0:11:19.86,0:11:22.66,Default,ko,0,0,0,,머리가 많은 뱀 따위에게 당하지 않겠소!
 Dialogue: 0,0:11:19.86,0:11:22.66,Default,en,0,0,0,,I won't be defeated by a snake with many heads-{\i1}dasu{\i0}!
@@ -485,8 +485,8 @@ Comment: 0,0:13:47.99,0:13:48.55,Default,ja,0,0,0,,これを見ろ。
 Dialogue: 0,0:13:47.99,0:13:48.55,Default,ko,0,0,0,,이걸 봐라.
 Dialogue: 0,0:13:47.99,0:13:48.55,Default,en,0,0,0,,Look at this.
 Comment: 0,0:13:49.37,0:13:50.86,Default,ja,0,0,0,,こ、これは、おせんちゃんの笛！
-Dialogue: 0,0:13:49.37,0:13:50.86,Default,ko,0,0,0,,이, 이건 센짱의 피리!
-Dialogue: 0,0:13:49.37,0:13:50.86,Default,en,0,0,0,,T- this is Sen-chan's flute!
+Dialogue: 0,0:13:49.37,0:13:50.86,Default,ko,0,0,0,,이, 이건 오센짱의 피리!
+Dialogue: 0,0:13:49.37,0:13:50.86,Default,en,0,0,0,,T- this is Osenchan's flute!
 Comment: 0,0:14:01.56,0:14:02.13,Default,ja,0,0,0,,あった！
 Dialogue: 0,0:14:01.56,0:14:02.13,Default,ko,0,0,0,,여기!
 Dialogue: 0,0:14:01.56,0:14:02.13,Default,en,0,0,0,,Here it is!
@@ -494,8 +494,8 @@ Comment: 0,0:14:03.94,0:14:08.43,Default,ja,0,0,0,,おお、まさしくセン�
 Dialogue: 0,0:14:03.94,0:14:08.43,Default,ko,0,0,0,,오, 이건 참말로 센히메의 물건. 이 주변에서 찾아라!
 Dialogue: 0,0:14:03.94,0:14:08.43,Default,en,0,0,0,,This really is of Senhime. Find her around this place!
 Comment: 0,0:14:09.31,0:14:12.36,Default,ja,0,0,0,,おせんちゃん、おいらがきっと助けてあげるだス！
-Dialogue: 0,0:14:09.31,0:14:12.36,Default,ko,0,0,0,,센짱, 내가 꼭 구해 주겠소!
-Dialogue: 0,0:14:09.31,0:14:12.36,Default,en,0,0,0,,Sen-chan, I'll rescue you no matter what!
+Dialogue: 0,0:14:09.31,0:14:12.36,Default,ko,0,0,0,,오센짱, 내가 꼭 구해 주겠소!
+Dialogue: 0,0:14:09.31,0:14:12.36,Default,en,0,0,0,,Osenchan, I'll rescue you no matter what!
 Comment: 0,0:14:13.07,0:14:18.17,Default,ja,0,0,0,,ムサシ！おけっとしてるな！音はと言えば、お前のせいでこうなったんだぞ！
 Dialogue: 0,0:14:13.07,0:14:18.17,Default,ko,0,0,0,,무사시! 딴짓하지 마라! 굳이 말하자면 너 때문에 이렇게 됐다!
 Dialogue: 0,0:14:13.07,0:14:18.17,Default,en,0,0,0,,Musashi! Pay attention! To be exact, it's all your fault!
@@ -572,8 +572,8 @@ Comment: 0,0:15:37.62,0:15:39.63,Default,ja,0,0,0,,[???????????????] オロチ�
 Dialogue: 0,0:15:37.62,0:15:39.63,Default,ko,0,0,0,,오로치에게 바칠 술이오.
 Dialogue: 0,0:15:37.62,0:15:39.63,Default,en,0,0,0,,I'll let Orochi take this-{\i1}dasu{\i0}.
 Comment: 0,0:15:40.13,0:15:42.17,Default,ja,0,0,0,,これもおせんちゃんのためだす。
-Dialogue: 0,0:15:40.13,0:15:42.17,Default,ko,0,0,0,,이것도 센짱을 위해서이오.
-Dialogue: 0,0:15:40.13,0:15:42.17,Default,en,0,0,0,,This is also for Sen-chan-{\i1}dasu{\i0}.
+Dialogue: 0,0:15:40.13,0:15:42.17,Default,ko,0,0,0,,이것도 오센짱을 위해서이오.
+Dialogue: 0,0:15:40.13,0:15:42.17,Default,en,0,0,0,,This is also for Osenchan-{\i1}dasu{\i0}.
 Comment: 0,0:15:44.92,0:15:49.63,Default,ja,0,0,0,,そんな怖いがおしないでよ、野みたいなんじゃないがたは待って！
 Dialogue: 0,0:15:44.92,0:15:49.63,Default,ko,0,0,0,,그런 무서운 얼굴 하지 말구, 마시고 싶지 않을까 하고 생각해서!
 Dialogue: 0,0:15:44.92,0:15:49.63,Default,en,0,0,0,,Quit making scary faces; I know you want to drink!
@@ -623,8 +623,8 @@ Comment: 0,0:16:40.78,0:16:43.88,Default,ja,0,0,0,,飛んで火にいる夏の�
 Dialogue: 0,0:16:40.78,0:16:43.88,Default,ko,0,0,0,,불에 뛰어드는 여름의 벌레라는 건 널 말하는군.
 Dialogue: 0,0:16:40.78,0:16:43.88,Default,en,0,0,0,,You are nothing more than a bug in summer flying into fires.
 Comment: 0,0:16:44.98,0:16:48.50,Default,ja,0,0,0,,ばれがしらながないだす！おせんちゃんを返しだス！
-Dialogue: 0,0:16:44.98,0:16:48.50,Default,ko,0,0,0,,바보로 여기지 마시오! 센짱을 풀어주시오!
-Dialogue: 0,0:16:44.98,0:16:48.50,Default,en,0,0,0,,Don't treat me like an idiot-{\i1}dasu{\i0}! Let Sen-chan go-{\i1}dasu{\i0}!
+Dialogue: 0,0:16:44.98,0:16:48.50,Default,ko,0,0,0,,바보로 여기지 마시오! 오센짱을 풀어주시오!
+Dialogue: 0,0:16:44.98,0:16:48.50,Default,en,0,0,0,,Don't treat me like an idiot-{\i1}dasu{\i0}! Let Osenchan go-{\i1}dasu{\i0}!
 Comment: 0,0:16:49.12,0:16:51.47,Default,ja,0,0,0,,オロチ！ムサシをくっちまえ！
 Dialogue: 0,0:16:49.12,0:16:51.47,Default,ko,0,0,0,,오로치! 무사시를 먹어 없얘라!
 Dialogue: 0,0:16:49.12,0:16:51.47,Default,en,0,0,0,,Orochi! Eat up Musashi!
@@ -668,8 +668,8 @@ Comment: 0,0:18:54.86,0:18:55.80,Default,ja,0,0,0,,ムサシ！
 Dialogue: 0,0:18:54.86,0:18:55.80,Default,ko,0,0,0,,무사시!
 Dialogue: 0,0:18:54.86,0:18:55.80,Default,en,0,0,0,,Musashi!
 Comment: 0,0:18:56.27,0:18:57.02,Default,ja,0,0,0,,おせんちゃん！
-Dialogue: 0,0:18:56.27,0:18:57.02,Default,ko,0,0,0,,센짱!
-Dialogue: 0,0:18:56.27,0:18:57.02,Default,en,0,0,0,,Sen-chan!
+Dialogue: 0,0:18:56.27,0:18:57.02,Default,ko,0,0,0,,오센짱!
+Dialogue: 0,0:18:56.27,0:18:57.02,Default,en,0,0,0,,Osenchan!
 Comment: 0,0:18:57.48,0:18:59.35,Default,ja,0,0,0,,いくわよ！はいっ！
 Dialogue: 0,0:18:57.48,0:18:59.35,Default,ko,0,0,0,,간다! 이럇!
 Dialogue: 0,0:18:57.48,0:18:59.35,Default,en,0,0,0,,Here it goes! Catch!

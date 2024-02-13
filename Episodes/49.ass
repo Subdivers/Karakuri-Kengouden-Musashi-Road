@@ -406,8 +406,8 @@ Comment: 0,0:11:26.51,0:11:31.64,Default,ja,0,0,0,,おじいちゃん、こん�
 Dialogue: 0,0:11:26.51,0:11:31.64,Default,ko,0,0,0,,할아버지, 이런 겐나이 씨를 믿은 내가 바보였어.
 Dialogue: 0,0:11:26.51,0:11:31.64,Default,en,0,0,0,,Grandpa, I was a fool, to actually believe in this Mr. Gennai.
 Comment: 0,0:11:31.87,0:11:33.66,Default,ja,0,0,0,,おせんちゃんの、ばかばかばか！
-Dialogue: 0,0:11:31.87,0:11:33.66,Default,ko,0,0,0,,센짱 바보, 바보!
-Dialogue: 0,0:11:31.87,0:11:33.66,Default,en,0,0,0,,Sen-chan, you're an idiot!
+Dialogue: 0,0:11:31.87,0:11:33.66,Default,ko,0,0,0,,오센짱 바보, 바보!
+Dialogue: 0,0:11:31.87,0:11:33.66,Default,en,0,0,0,,Osenchan, you're an idiot!
 Comment: 0,0:11:34.21,0:11:37.42,Default,ja,0,0,0,,おかげで、おじいちゃんも余計な時間を取らせちゃって。
 Dialogue: 0,0:11:34.21,0:11:37.42,Default,ko,0,0,0,,덕분에 할아버지도 쓸데없이 시간을 낭비하고...
 Dialogue: 0,0:11:34.21,0:11:37.42,Default,en,0,0,0,,Thanks to that, you wasted your time, grandpa.
@@ -807,11 +807,11 @@ Comment: 0,0:23:41.69,0:23:44.32,SongED1,ja,0,0,0,,なんかやるせない
 Dialogue: 0,0:23:41.69,0:23:44.32,SongED1,ko,0,0,0,,왠지 안타까워
 Dialogue: 0,0:23:41.69,0:23:44.32,SongED1,en,0,0,0,,you'll feel downhearted
 Comment: 0,0:24:03.89,0:24:06.97,Default,ja,0,0,0,,なんと、おせんちゃんと国王殿下が結婚することになっただス。
-Dialogue: 0,0:24:03.89,0:24:06.97,Default,ko,0,0,0,,무슨, 센짱하고 국왕 전하가 결혼하게 되었소.
-Dialogue: 0,0:24:03.89,0:24:06.97,Default,en,0,0,0,,Sen-chan and the Highness are going to marry-dasu!
+Dialogue: 0,0:24:03.89,0:24:06.97,Default,ko,0,0,0,,무슨, 오센짱하고 국왕 전하가 결혼하게 되었소.
+Dialogue: 0,0:24:03.89,0:24:06.97,Default,en,0,0,0,,Osenchan and the Highness are going to marry-dasu!
 Comment: 0,0:24:07.48,0:24:11.22,Default,ja,0,0,0,,それでおせんちゃんのわがままも治って、女らしくなるだすかな。
-Dialogue: 0,0:24:07.48,0:24:11.22,Default,ko,0,0,0,,그걸로 센짱의 제멋대로 구는 습관도 고쳐지고 여자다워 질 지도 모르오.
-Dialogue: 0,0:24:07.48,0:24:11.22,Default,en,0,0,0,,That might help with Sen-chan's selfishness, and she might become like other women-dasu!
+Dialogue: 0,0:24:07.48,0:24:11.22,Default,ko,0,0,0,,그걸로 오센짱의 제멋대로 구는 습관도 고쳐지고 여자다워 질 지도 모르오.
+Dialogue: 0,0:24:07.48,0:24:11.22,Default,en,0,0,0,,That might help with Osenchan's selfishness, and she might become like other women-dasu!
 Comment: 0,0:24:11.59,0:24:14.47,Default,ja,0,0,0,,そしておいらとコジローは巌流島で結婚する。
 Dialogue: 0,0:24:11.59,0:24:14.47,Default,ko,0,0,0,,그리고 나와 코지로는 간류 섬에서 결혼하오.
 Dialogue: 0,0:24:11.59,0:24:14.47,Default,en,0,0,0,,And Kojirō and I marry on Ganryu Island-dasu.

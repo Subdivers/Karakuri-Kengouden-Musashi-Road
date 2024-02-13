@@ -105,8 +105,8 @@ Comment: 0,0:03:05.00,0:03:06.34,Default,ja,0,0,0,,??? 他人の降れしよっ�
 Dialogue: 0,0:03:05.00,0:03:06.34,Default,ko,0,0,0,,모르는 사람 치자.
 Dialogue: 0,0:03:05.00,0:03:06.34,Default,en,0,0,0,,Let's treat him as if we don't know him.
 Comment: 0,0:03:07.79,0:03:10.09,Default,ja,0,0,0,,おせんちゃんも冷たいのね。
-Dialogue: 0,0:03:07.79,0:03:10.09,Default,ko,0,0,0,,센짱도 차가워...
-Dialogue: 0,0:03:07.79,0:03:10.09,Default,en,0,0,0,,Sen-chan is cold too...
+Dialogue: 0,0:03:07.79,0:03:10.09,Default,ko,0,0,0,,오센짱도 차가워...
+Dialogue: 0,0:03:07.79,0:03:10.09,Default,en,0,0,0,,Osenchan is cold too...
 Comment: 0,0:03:10.52,0:03:14.50,Default,ja,0,0,0,,さあ、さあ、開店サービスの団子早食いコンクールだよ！
 Dialogue: 0,0:03:10.52,0:03:14.50,Default,ko,0,0,0,,자, 자, 개점 서비스인 단고 빨리 먹기 콩쿠르입니다!
 Dialogue: 0,0:03:10.52,0:03:14.50,Default,en,0,0,0,,People, I'm holding a dango quick eating contest as a shop opening event!
@@ -455,8 +455,8 @@ Comment: 0,0:09:52.41,0:09:53.62,Default,ja,0,0,0,,こ、これは。。。
 Dialogue: 0,0:09:52.41,0:09:53.62,Default,ko,0,0,0,,이, 이건...
 Dialogue: 0,0:09:52.41,0:09:53.62,Default,en,0,0,0,,N- no way...
 Comment: 0,0:10:01.08,0:10:06.90,Default,ja,0,0,0,,ち、なんだス、なんだス！おせんちゃんもコジローもすぐに怒るような奴はおいら、嫌いだス！
-Dialogue: 0,0:10:01.08,0:10:06.90,Default,ko,0,0,0,,칫, 뭣이오, 뭣이오! 센짱도 코지로도! 쉽사리 화내는 놈들은 난 싫소!
-Dialogue: 0,0:10:01.08,0:10:06.90,Default,en,0,0,0,,Tch, what are wrong with Sen-chan and Kojirō-{\i1}dasu{\i0}?! I hate whoever gets angry so easily-{\i1}dasu{\i0}!
+Dialogue: 0,0:10:01.08,0:10:06.90,Default,ko,0,0,0,,칫, 뭣이오, 뭣이오! 오센짱도 코지로도! 쉽사리 화내는 놈들은 난 싫소!
+Dialogue: 0,0:10:01.08,0:10:06.90,Default,en,0,0,0,,Tch, what are wrong with Osenchan and Kojirō-{\i1}dasu{\i0}?! I hate whoever gets angry so easily-{\i1}dasu{\i0}!
 Comment: 0,0:10:10.93,0:10:16.33,Default,ja,0,0,0,,でも。。。大丈夫だスかな。シラヌイ一族は強敵だというし。。。
 Dialogue: 0,0:10:10.93,0:10:16.33,Default,ko,0,0,0,,그래도... 괜찮을지 모르겠소. 시라누이 일족은 강적이라 하고...
 Dialogue: 0,0:10:10.93,0:10:16.33,Default,en,0,0,0,,But still... I'm worried-{\i1}dasu{\i0}. Shiranui Clan is told to be a strong enemy, too.
@@ -881,8 +881,8 @@ Comment: 0,0:21:32.15,0:21:33.99,Default,ja,0,0,0,,逃げろ、逃げろ！
 Dialogue: 0,0:21:32.15,0:21:33.99,Default,ko,0,0,0,,도망쳐라, 도망쳐!
 Dialogue: 0,0:21:32.15,0:21:33.99,Default,en,0,0,0,,Run away, run!
 Comment: 0,0:21:37.94,0:21:42.57,Default,ja,0,0,0,,あ、～一発助かって良かっただスな、おせんちゃん、コジロー！
-Dialogue: 0,0:21:37.94,0:21:42.57,Default,ko,0,0,0,,아, 마침 적당하게 구할 수 있어서 다행이었소, 센짱, 코지로!
-Dialogue: 0,0:21:37.94,0:21:42.57,Default,en,0,0,0,,It is a big relief that we could rescue you in time-{\i1}dasu{\i0}, Sen-chan and Kojirō!
+Dialogue: 0,0:21:37.94,0:21:42.57,Default,ko,0,0,0,,아, 마침 적당하게 구할 수 있어서 다행이었소, 오센짱, 코지로!
+Dialogue: 0,0:21:37.94,0:21:42.57,Default,en,0,0,0,,It is a big relief that we could rescue you in time-{\i1}dasu{\i0}, Osenchan and Kojirō!
 Comment: 0,0:21:42.87,0:21:47.87,Default,ja,0,0,0,,ふん！こんな目にあったのも、元後を言えばお前が団子の早食いなどに出たからだぞ！
 Dialogue: 0,0:21:42.87,0:21:47.87,Default,ko,0,0,0,,흥! 이런 꼴이 된 것도 애초에 네놈이 단고 빨리 먹기를 해서 그런 것이다!
 Dialogue: 0,0:21:42.87,0:21:47.87,Default,en,0,0,0,,Hmph! This also is because you ate dangos quickly at the first place!

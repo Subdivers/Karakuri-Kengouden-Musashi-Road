@@ -275,8 +275,8 @@ Comment: 0,0:08:22.51,0:08:28.23,Default,ja,0,0,0,,ムサシ。あたしたち�
 Dialogue: 0,0:08:22.51,0:08:28.23,Default,ko,0,0,0,,무사시. 우리는 몰래 적의 아지트를 찾고 있는 거야. 더 긴장해!
 Dialogue: 0,0:08:22.51,0:08:28.23,Default,en,0,0,0,,Musashi, we're here to find the hideout of our enemy. Be serious!
 Comment: 0,0:08:31.95,0:08:34.45,Default,ja,0,0,0,,おせんちゃん、そのかっこは、緊張？
-Dialogue: 0,0:08:31.95,0:08:34.45,Default,ko,0,0,0,,센짱, 그 모습이 긴장한 것이오?
-Dialogue: 0,0:08:31.95,0:08:34.45,Default,en,0,0,0,,Sen-chan, you call that serious-{\i1}dasu{\i0}?
+Dialogue: 0,0:08:31.95,0:08:34.45,Default,ko,0,0,0,,오센짱, 그 모습이 긴장한 것이오?
+Dialogue: 0,0:08:31.95,0:08:34.45,Default,en,0,0,0,,Osenchan, you call that serious-{\i1}dasu{\i0}?
 Comment: 0,0:08:34.73,0:08:38.40,Default,ja,0,0,0,,決まってるじゃない。敵の目をごまかすに変装よ。
 Dialogue: 0,0:08:34.73,0:08:38.40,Default,ko,0,0,0,,당연하잖아! 적의 눈을 속이기 위한 변장이지!
 Dialogue: 0,0:08:34.73,0:08:38.40,Default,en,0,0,0,,Isn't it obvious? I disguised to fool the enemies!
@@ -562,8 +562,8 @@ Comment: 0,0:15:21.12,0:15:22.30,Default,ja,0,0,0,,軽いだス！
 Dialogue: 0,0:15:21.12,0:15:22.30,Default,ko,0,0,0,,쉽소!
 Dialogue: 0,0:15:21.12,0:15:22.30,Default,en,0,0,0,,That's easy-{\i1}dasu{\i0}!
 Comment: 0,0:15:23.16,0:15:24.17,Default,ja,0,0,0,,さあ、おせんちゃん！
-Dialogue: 0,0:15:23.16,0:15:24.17,Default,ko,0,0,0,,자, 센짱!
-Dialogue: 0,0:15:23.16,0:15:24.17,Default,en,0,0,0,,Now, Sen-chan!
+Dialogue: 0,0:15:23.16,0:15:24.17,Default,ko,0,0,0,,자, 오센짱!
+Dialogue: 0,0:15:23.16,0:15:24.17,Default,en,0,0,0,,Now, Osenchan!
 Comment: 0,0:15:24.77,0:15:26.58,Default,ja,0,0,0,,ムサシさん、あたしもいく！
 Dialogue: 0,0:15:24.77,0:15:26.58,Default,ko,0,0,0,,무사시 씨, 나도 갈래!
 Dialogue: 0,0:15:24.77,0:15:26.58,Default,en,0,0,0,,Mr. Musashi, let me go, too!
@@ -652,8 +652,8 @@ Comment: 0,0:16:58.30,0:17:02.84,Default,ja,0,0,0,,オツルちゃんがムサ�
 Dialogue: 0,0:16:58.30,0:17:02.84,Default,ko,0,0,0,,오츠루가 무사시를 좋아하는 것도 알 거 같아.
 Dialogue: 0,0:16:58.30,0:17:02.84,Default,en,0,0,0,,I think I understand why would Otsuru like you.
 Comment: 0,0:17:04.58,0:17:10.06,Default,ja,0,0,0,,やだな、おせんちゃんったら！まだまだそうやっておいらをからかうんだから。
-Dialogue: 0,0:17:04.58,0:17:10.06,Default,ko,0,0,0,,아니, 센짱도 참! 그런 소리를 해서 날 놀리오...
-Dialogue: 0,0:17:04.58,0:17:10.06,Default,en,0,0,0,,No, Sen-chan, you're ridiculing me with that-{\i1}dasu{\i0}!
+Dialogue: 0,0:17:04.58,0:17:10.06,Default,ko,0,0,0,,아니, 오센짱도 참! 그런 소리를 해서 날 놀리오...
+Dialogue: 0,0:17:04.58,0:17:10.06,Default,en,0,0,0,,No, Osenchan, you're ridiculing me with that-{\i1}dasu{\i0}!
 Comment: 0,0:17:17.89,0:17:18.90,Default,ja,0,0,0,,ムサシさん！
 Dialogue: 0,0:17:17.89,0:17:18.90,Default,ko,0,0,0,,무사시 씨!
 Dialogue: 0,0:17:17.89,0:17:18.90,Default,en,0,0,0,,Mr. Musashi!

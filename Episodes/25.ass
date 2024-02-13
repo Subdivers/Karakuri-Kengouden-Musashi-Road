@@ -198,8 +198,8 @@ Comment: 0,0:06:50.14,0:06:51.56,Default,ja,0,0,0,,ありがとうでござる�
 Dialogue: 0,0:06:50.14,0:06:51.56,Default,ko,0,0,0,,고맙소!
 Dialogue: 0,0:06:50.14,0:06:51.56,Default,en,0,0,0,,Thank you-{\i1}dasu{\i0}!
 Comment: 0,0:07:00.29,0:07:02.53,Default,ja,0,0,0,,ウシワカさん、おせんちゃんを頼むだス！
-Dialogue: 0,0:07:00.29,0:07:02.53,Default,ko,0,0,0,,우시와카 씨! 센짱을 맡기오!
-Dialogue: 0,0:07:00.29,0:07:02.53,Default,en,0,0,0,,Mr. Ushiwaka! Take care of Sen-chan-{\i1}dasu{\i0}!
+Dialogue: 0,0:07:00.29,0:07:02.53,Default,ko,0,0,0,,우시와카 씨! 오센짱을 맡기오!
+Dialogue: 0,0:07:00.29,0:07:02.53,Default,en,0,0,0,,Mr. Ushiwaka! Take care of Osenchan-{\i1}dasu{\i0}!
 Comment: 0,0:07:02.78,0:07:03.53,Default,ja,0,0,0,,心得た。
 Dialogue: 0,0:07:02.78,0:07:03.53,Default,ko,0,0,0,,알겠습니다.
 Dialogue: 0,0:07:02.78,0:07:03.53,Default,en,0,0,0,,Got it.
@@ -479,10 +479,10 @@ Dialogue: 0,0:15:50.66,0:15:53.37,Default,ko,0,0,0,,그것도, 무사시의 동�
 Dialogue: 0,0:15:50.66,0:15:53.37,Default,en,0,0,0,,More specifically, the friendship between Musashi's friends!
 Comment: 0,0:15:53.66,0:15:56.48,Default,ja,0,0,0,,おせんちゃん！・ウシワカ殿！
 Dialogue: 0,0:15:53.66,0:15:56.48,Default,ko,0,0,0,,-센쨩!\N-우시와카 님!
-Dialogue: 0,0:15:53.66,0:15:56.48,Default,en,0,0,0,,-Sen-chan!\N-Mr. Ushiwaka!
+Dialogue: 0,0:15:53.66,0:15:56.48,Default,en,0,0,0,,-Osenchan!\N-Mr. Ushiwaka!
 Comment: 0,0:15:58.46,0:15:59.88,Default,ja,0,0,0,,おせんちゃん！
 Dialogue: 0,0:15:58.46,0:15:59.88,Default,ko,0,0,0,,센쨩!
-Dialogue: 0,0:15:58.46,0:15:59.88,Default,en,0,0,0,,Sen-chan!
+Dialogue: 0,0:15:58.46,0:15:59.88,Default,en,0,0,0,,Osenchan!
 Comment: 0,0:16:01.09,0:16:02.90,Default,ja,0,0,0,,来たな、ムサシ目。
 Dialogue: 0,0:16:01.09,0:16:02.90,Default,ko,0,0,0,,왔군, 무사시 놈.
 Dialogue: 0,0:16:01.09,0:16:02.90,Default,en,0,0,0,,So Musashi's here.
@@ -496,8 +496,8 @@ Comment: 0,0:16:14.50,0:16:20.52,Default,ja,0,0,0,,何を怖いしておる。�
 Dialogue: 0,0:16:14.50,0:16:20.52,Default,ko,0,0,0,,뭘 화난 얼굴 하고 있나. 둘이서 무사시 놈들을 쓰러뜨리고 천하를 제패하는 것이다.
 Dialogue: 0,0:16:14.50,0:16:20.52,Default,en,0,0,0,,What's with your grim face? We will take those Musashi bunch down and dominate over the globe.
 Comment: 0,0:16:23.00,0:16:24.22,Default,ja,0,0,0,,おせんちゃん！
-Dialogue: 0,0:16:23.00,0:16:24.22,Default,ko,0,0,0,,센짱!
-Dialogue: 0,0:16:23.00,0:16:24.22,Default,en,0,0,0,,Sen-chan!
+Dialogue: 0,0:16:23.00,0:16:24.22,Default,ko,0,0,0,,오센짱!
+Dialogue: 0,0:16:23.00,0:16:24.22,Default,en,0,0,0,,Osenchan!
 Comment: 0,0:16:24.52,0:16:25.96,Default,ja,0,0,0,,ムサシ！・コジロー！
 Dialogue: 0,0:16:24.52,0:16:25.96,Default,ko,0,0,0,,-무사시!\N-코지로!
 Dialogue: 0,0:16:24.52,0:16:25.96,Default,en,0,0,0,,-Musashi!\N-Kojirō!
@@ -511,8 +511,8 @@ Comment: 0,0:16:29.26,0:16:30.29,Default,ja,0,0,0,,もういちらしたか！
 Dialogue: 0,0:16:29.26,0:16:30.29,Default,ko,0,0,0,,벌써 도망쳤나...
 Dialogue: 0,0:16:29.26,0:16:30.29,Default,en,0,0,0,,They already ran away, eh...
 Comment: 0,0:16:30.96,0:16:33.88,Default,ja,0,0,0,,シー！おせんちゃんの笛のねだす。
-Dialogue: 0,0:16:30.96,0:16:33.88,Default,ko,0,0,0,,쉬잇! 센짱의 피리 소리이오!
-Dialogue: 0,0:16:30.96,0:16:33.88,Default,en,0,0,0,,Shh! I can hear Sen-chan's flute!
+Dialogue: 0,0:16:30.96,0:16:33.88,Default,ko,0,0,0,,쉬잇! 오센짱의 피리 소리이오!
+Dialogue: 0,0:16:30.96,0:16:33.88,Default,en,0,0,0,,Shh! I can hear Osenchan's flute!
 Comment: 0,0:16:39.09,0:16:39.92,Default,ja,0,0,0,,こっちだス！
 Dialogue: 0,0:16:39.09,0:16:39.92,Default,ko,0,0,0,,이쪽이오!
 Dialogue: 0,0:16:39.09,0:16:39.92,Default,en,0,0,0,,This way-{\i1}dasu{\i0}!
@@ -523,8 +523,8 @@ Comment: 0,0:16:59.16,0:17:00.60,Default,ja,0,0,0,,待っていたぞ、ムサ�
 Dialogue: 0,0:16:59.16,0:17:00.60,Default,ko,0,0,0,,기다리고 있었다, 무사시!
 Dialogue: 0,0:16:59.16,0:17:00.60,Default,en,0,0,0,,I've been waiting for you, Musashi!
 Comment: 0,0:17:02.85,0:17:04.70,Default,ja,0,0,0,,ハンゾウ！おせんちゃんはどこだス！
-Dialogue: 0,0:17:02.85,0:17:04.70,Default,ko,0,0,0,,한조! 센짱은 어디 있소!
-Dialogue: 0,0:17:02.85,0:17:04.70,Default,en,0,0,0,,Hanzō! Where is Sen-chan-{\i1}dasu{\i0}?!
+Dialogue: 0,0:17:02.85,0:17:04.70,Default,ko,0,0,0,,한조! 오센짱은 어디 있소!
+Dialogue: 0,0:17:02.85,0:17:04.70,Default,en,0,0,0,,Hanzō! Where is Osenchan-{\i1}dasu{\i0}?!
 Comment: 0,0:17:05.46,0:17:08.09,Default,ja,0,0,0,,ここまで来てみろ。そうすればわかる。
 Dialogue: 0,0:17:05.46,0:17:08.09,Default,ko,0,0,0,,여기까지 와 봐라. 그럼 알게 될 테다.
 Dialogue: 0,0:17:05.46,0:17:08.09,Default,en,0,0,0,,Come here. Then you'll know.
@@ -754,8 +754,8 @@ Comment: 0,0:24:12.37,0:24:15.92,Default,ja,0,0,0,,コジローは芝居見物�
 Dialogue: 0,0:24:12.37,0:24:15.92,Default,ko,0,0,0,,코지로는 연극 구경. 나는 제니가탄 두목하고 같이 잿날 행사.
 Dialogue: 0,0:24:12.37,0:24:15.92,Default,en,0,0,0,,Kojirō is watching plays, and I'm at a temple festival with Zenigatan boss.
 Comment: 0,0:24:15.92,0:24:19.21,Default,ja,0,0,0,,おせんちゃんはお見合いとつかの間の休日を楽しいんでいたら、
-Dialogue: 0,0:24:15.92,0:24:19.21,Default,ko,0,0,0,,센짱은 맞선과 함께 잠깐의 휴일을 즐기고 있더니,
-Dialogue: 0,0:24:15.92,0:24:19.21,Default,en,0,0,0,,Sen-chan was enjoying her marriage mettings and short holidays,
+Dialogue: 0,0:24:15.92,0:24:19.21,Default,ko,0,0,0,,오센짱은 맞선과 함께 잠깐의 휴일을 즐기고 있더니,
+Dialogue: 0,0:24:15.92,0:24:19.21,Default,en,0,0,0,,Osenchan was enjoying her marriage mettings and short holidays,
 Comment: 0,0:24:19.21,0:24:21.67,Default,ja,0,0,0,,なんと！あのハンゾウがいきて居ただス！
 Dialogue: 0,0:24:19.21,0:24:21.67,Default,ko,0,0,0,,무슨! 그 한조가 살아 있었소!
 Dialogue: 0,0:24:19.21,0:24:21.67,Default,en,0,0,0,,What?! That Hanzō was still alive-{\i1}dasu{\i0}!

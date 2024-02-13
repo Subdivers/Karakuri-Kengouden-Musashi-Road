@@ -401,8 +401,8 @@ Dialogue: 0,0:12:29.82,0:12:32.83,NoteOnAnime,ko,0,0,0,,{\c&H000000&\3c&HB1ABB9&
 Dialogue: 0,0:12:29.82,0:12:32.83,Note,en,0,0,0,,({\i1}bunmei kaika{\i0}: lit. civilization; basically westernization; govt. system revamp in Meiji Period)
 Dialogue: 0,0:12:29.82,0:12:32.83,NoteOnAnime,en,0,0,0,,{\c&H000000&\3c&HB1ABB9&\bord8\3a20\fs32\pos(306.006,326)\i1}bunmei kaika
 Comment: 0,0:12:39.49,0:12:42.34,Default,ja,0,0,0,,おせんちゃん。ただいま。だす。
-Dialogue: 0,0:12:39.49,0:12:42.34,Default,ko,0,0,0,,센짱, 돌아왔소...
-Dialogue: 0,0:12:39.49,0:12:42.34,Default,en,0,0,0,,Sen-chan, I'm back-dasu...
+Dialogue: 0,0:12:39.49,0:12:42.34,Default,ko,0,0,0,,오센짱, 돌아왔소...
+Dialogue: 0,0:12:39.49,0:12:42.34,Default,en,0,0,0,,Osenchan, I'm back-dasu...
 Comment: 0,0:12:44.17,0:12:48.36,Default,ja,0,0,0,,さっきがごめんだす。おいら、今日はいいお天気だったからお散歩だったんだす！
 Dialogue: 0,0:12:44.17,0:12:48.36,Default,ko,0,0,0,,아깐 미안했소. 나 오늘은 날씨가 좋아서 산책했소!
 Dialogue: 0,0:12:44.17,0:12:48.36,Default,en,0,0,0,,I'm sorry for that-dasu. I was strolling since the weather was so good today-dasu!
@@ -458,7 +458,7 @@ Comment: 0,0:13:35.82,0:13:41.29,Default,ja,0,0,0,,だから、ここは恋愛�
 Dialogue: 0,0:13:35.82,0:13:41.29,Default,ko,0,0,0,,그러니까 이건 연애 경험 가득한 내가 상담해 줄 테니까!
 Dialogue: 0,0:13:35.82,0:13:41.29,Default,en,0,0,0,,Then, I'll give you a consultation, since I have a lot of experiences with love!
 Comment: 0,0:13:41.29,0:13:43.73,Default,ja,0,0,0,,オセンちゃんは片思いだけじゃないだスか
-Dialogue: 0,0:13:41.29,0:13:43.73,Default,ko,0,0,0,,센짱 맨날 짝사랑이잖소.
+Dialogue: 0,0:13:41.29,0:13:43.73,Default,ko,0,0,0,,오센짱 맨날 짝사랑이잖소.
 Dialogue: 0,0:13:41.29,0:13:43.73,Default,en,0,0,0,,Your loves are all unrequited-dasu.
 Comment: 0,0:13:47.37,0:13:49.50,Default,ja,0,0,0,,～ていらっしゃるだす！
 Dialogue: 0,0:13:47.37,0:13:49.50,Default,ko,0,0,0,,거긴 안 되오!

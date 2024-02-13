@@ -193,8 +193,8 @@ Comment: 0,0:05:55.89,0:05:59.57,Default,ja,0,0,0,,あたしたち、どうな�
 Dialogue: 0,0:05:55.89,0:05:59.57,Default,ko,0,0,0,,우리, 어떻게 되는 걸까, 이대로 가라앉아 버린다면...
 Dialogue: 0,0:05:55.89,0:05:59.57,Default,en,0,0,0,,What will happen to us if we sink like this?
 Comment: 0,0:05:59.58,0:06:03.16,Default,ja,0,0,0,,任しといてくれだす。おいらがおせんちゃんを守ってあげるだす！
-Dialogue: 0,0:05:59.58,0:06:03.16,Default,ko,0,0,0,,맡겨만 주시오. 내가 센짱을 지켜드리겠소!
-Dialogue: 0,0:05:59.58,0:06:03.16,Default,en,0,0,0,,Just leave it to me-{\i1}dasu{\i0}. I will protect Sen-chan-{\i1}dasu{\i0}!
+Dialogue: 0,0:05:59.58,0:06:03.16,Default,ko,0,0,0,,맡겨만 주시오. 내가 오센짱을 지켜드리겠소!
+Dialogue: 0,0:05:59.58,0:06:03.16,Default,en,0,0,0,,Just leave it to me-{\i1}dasu{\i0}. I will protect Osenchan-{\i1}dasu{\i0}!
 Comment: 0,0:06:03.73,0:06:05.17,Default,ja,0,0,0,,余計心配だわ。。。
 Dialogue: 0,0:06:03.73,0:06:05.17,Default,ko,0,0,0,,쓸데없는 배려구만...
 Dialogue: 0,0:06:03.73,0:06:05.17,Default,en,0,0,0,,That was one useless help...
@@ -202,8 +202,8 @@ Comment: 0,0:06:06.70,0:06:08.45,Default,ja,0,0,0,,コジローが大丈夫か�
 Dialogue: 0,0:06:06.70,0:06:08.45,Default,ko,0,0,0,,코지로는 괜찮을까.
 Dialogue: 0,0:06:06.70,0:06:08.45,Default,en,0,0,0,,I wonder if Kojirō's okay...
 Comment: 0,0:06:22.89,0:06:24.96,Default,ja,0,0,0,,おせんちゃん、早く逃げるだス！
-Dialogue: 0,0:06:22.89,0:06:24.96,Default,ko,0,0,0,,센짱, 빨리 도망치시오!
-Dialogue: 0,0:06:22.89,0:06:24.96,Default,en,0,0,0,,Sen-chan, hurry up and move-{\i1}dasu{\i0}!
+Dialogue: 0,0:06:22.89,0:06:24.96,Default,ko,0,0,0,,오센짱, 빨리 도망치시오!
+Dialogue: 0,0:06:22.89,0:06:24.96,Default,en,0,0,0,,Osenchan, hurry up and move-{\i1}dasu{\i0}!
 Comment: 0,0:06:25.28,0:06:26.09,Default,ja,0,0,0,,ムサシ！
 Dialogue: 0,0:06:25.28,0:06:26.09,Default,ko,0,0,0,,무사시!
 Dialogue: 0,0:06:25.28,0:06:26.09,Default,en,0,0,0,,Musashi!
@@ -313,7 +313,7 @@ Comment: 0,0:09:14.32,0:09:19.77,Default,ja,0,0,0,,からくのなをおのわ�
 Dialogue: 0,0:09:14.32,0:09:19.77,Default,ko,0,0,0,,겨우 마의 손에서 벗어난 센히메와 그 일행이지만, 재난이 끝나자마자 또 바로 재난.
 Dialogue: 0,0:09:14.32,0:09:19.77,Default,en,0,0,0,,Senhime and others just escaped from the evil hands, but another disaster was again waiting for them.
 Comment: 0,0:09:24.97,0:09:29.56,Default,ja,0,0,0,,どうだす、～おせんちゃんのかお、～よっとするとだすか。
-Dialogue: 0,0:09:24.97,0:09:29.56,Default,ko,0,0,0,,어떻소, 저 수줍어진 센짱 얼굴? 저거 분명 그것이오?
+Dialogue: 0,0:09:24.97,0:09:29.56,Default,ko,0,0,0,,어떻소, 저 수줍어진 오센짱 얼굴? 저거 분명 그것이오?
 Dialogue: 0,0:09:24.97,0:09:29.56,Default,en,0,0,0,,What do you think about her shying face-{\i1}dasu{\i0}? Does it mean {\i1}that{\i0}-{\i1}dasu{\i0}?
 Comment: 0,0:09:29.78,0:09:34.76,Default,ja,0,0,0,,今までの出会いはついまなざし、まさしく本気であの男に心が燃えているか。
 Dialogue: 0,0:09:29.78,0:09:34.76,Default,ko,0,0,0,,지금까지 없던 뜨거운 눈빛. 분명 저 사내에게 마음이 불타고 있는 거야.
@@ -513,8 +513,8 @@ Comment: 0,0:13:26.26,0:13:27.96,Default,ja,0,0,0,,来たって、あの船？
 Dialogue: 0,0:13:26.26,0:13:27.96,Default,ko,0,0,0,,오다니, 저 배?
 Dialogue: 0,0:13:26.26,0:13:27.96,Default,en,0,0,0,,You mean, that ship?
 Comment: 0,0:13:28.36,0:13:31.92,Default,ja,0,0,0,,おせんちゃん！だす！
-Dialogue: 0,0:13:28.36,0:13:31.92,Default,ko,0,0,0,,센짱!
-Dialogue: 0,0:13:28.36,0:13:31.92,Default,en,0,0,0,,Sen-chan!
+Dialogue: 0,0:13:28.36,0:13:31.92,Default,ko,0,0,0,,오센짱!
+Dialogue: 0,0:13:28.36,0:13:31.92,Default,en,0,0,0,,Osenchan!
 Comment: 0,0:13:33.16,0:13:35.08,Default,ja,0,0,0,,あ、あのふねをおいらに。。。
 Dialogue: 0,0:13:33.16,0:13:35.08,Default,ko,0,0,0,,저, 저 배를 나한테...
 Dialogue: 0,0:13:33.16,0:13:35.08,Default,en,0,0,0,,T- that ship, for me...
@@ -528,8 +528,8 @@ Comment: 0,0:13:41.96,0:13:45.40,Default,ja,0,0,0,,見かけはそう見える�
 Dialogue: 0,0:13:41.96,0:13:45.40,Default,ko,0,0,0,,보이기엔 그렇게 보일지 몰라도, 비밀의 무기가 잔뜩 달려 있어!
 Dialogue: 0,0:13:41.96,0:13:45.40,Default,en,0,0,0,,It does look so, but it is full of secret weapons!
 Comment: 0,0:13:45.45,0:13:48.22,Default,ja,0,0,0,,そうか！おせんちゃん、ありがとう！感謝するよ！
-Dialogue: 0,0:13:45.45,0:13:48.22,Default,ko,0,0,0,,그렇구나! 센짱, 고마워! 감사해!
-Dialogue: 0,0:13:45.45,0:13:48.22,Default,en,0,0,0,,I see! Thank you so much, Sen-chan!
+Dialogue: 0,0:13:45.45,0:13:48.22,Default,ko,0,0,0,,그렇구나! 오센짱, 고마워! 감사해!
+Dialogue: 0,0:13:45.45,0:13:48.22,Default,en,0,0,0,,I see! Thank you so much, Osenchan!
 Comment: 0,0:14:06.54,0:14:08.27,Default,ja,0,0,0,,うまくサメに会えるかしら。
 Dialogue: 0,0:14:06.54,0:14:08.27,Default,ko,0,0,0,,상어하고 만날 수 있으려나...
 Dialogue: 0,0:14:06.54,0:14:08.27,Default,en,0,0,0,,I wonder if we can meet that Shark well...
@@ -738,8 +738,8 @@ Comment: 0,0:21:30.02,0:21:33.21,Default,ja,0,0,0,,あたし、おさかな大�
 Dialogue: 0,0:21:30.02,0:21:33.21,Default,ko,0,0,0,,나, 물고기 정말 좋아해! 매일 먹을 수 있어.
 Dialogue: 0,0:21:30.02,0:21:33.21,Default,en,0,0,0,,I like eating fishes really much! I can eat them every day.
 Comment: 0,0:21:33.52,0:21:35.17,Default,ja,0,0,0,,おせんちゃん、あんなこと言ってるんだす。
-Dialogue: 0,0:21:33.52,0:21:35.17,Default,ko,0,0,0,,센짱, 저런 소리를 하오.
-Dialogue: 0,0:21:33.52,0:21:35.17,Default,en,0,0,0,,Sen-chan is saying that-{\i1}dasu{\i0}...
+Dialogue: 0,0:21:33.52,0:21:35.17,Default,ko,0,0,0,,오센짱, 저런 소리를 하오.
+Dialogue: 0,0:21:33.52,0:21:35.17,Default,en,0,0,0,,Osenchan is saying that-{\i1}dasu{\i0}...
 Comment: 0,0:21:35.40,0:21:36.21,Default,ja,0,0,0,,しぃ！
 Dialogue: 0,0:21:35.40,0:21:36.21,Default,ko,0,0,0,,쉿!
 Dialogue: 0,0:21:35.40,0:21:36.21,Default,en,0,0,0,,Shh!
@@ -762,8 +762,8 @@ Comment: 0,0:21:48.49,0:21:49.36,Default,ja,0,0,0,,うん。。。
 Dialogue: 0,0:21:48.49,0:21:49.36,Default,ko,0,0,0,,그러게...
 Dialogue: 0,0:21:48.49,0:21:49.36,Default,en,0,0,0,,Agreed...
 Comment: 0,0:21:53.02,0:21:55.49,Default,ja,0,0,0,,おせんちゃん！おいら、泳げるようになっただすよ！
-Dialogue: 0,0:21:53.02,0:21:55.49,Default,ko,0,0,0,,센짱! 나 수영할 수 있게 됐소!
-Dialogue: 0,0:21:53.02,0:21:55.49,Default,en,0,0,0,,Sen-chan! I can swim now-{\i1}dasu{\i0}!
+Dialogue: 0,0:21:53.02,0:21:55.49,Default,ko,0,0,0,,오센짱! 나 수영할 수 있게 됐소!
+Dialogue: 0,0:21:53.02,0:21:55.49,Default,en,0,0,0,,Osenchan! I can swim now-{\i1}dasu{\i0}!
 Comment: 0,0:21:55.49,0:21:57.43,Default,ja,0,0,0,,いや、ムサシは大したもんだ！
 Dialogue: 0,0:21:55.49,0:21:57.43,Default,ko,0,0,0,,이야, 무사시 참 잘 했어요!
 Dialogue: 0,0:21:55.49,0:21:57.43,Default,en,0,0,0,,Wow, Musashi did a great job!

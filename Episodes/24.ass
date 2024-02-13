@@ -79,8 +79,8 @@ Comment: 0,0:02:37.43,0:02:43.10,Default,ja,0,0,0,,うるさいぞ、ムサシ�
 Dialogue: 0,0:02:37.43,0:02:43.10,Default,ko,0,0,0,,시끄러워, 무사시! 적어도 무예가라는 놈이 춥다고 징징대면 안 된다!
 Dialogue: 0,0:02:37.43,0:02:43.10,Default,en,0,0,0,,Be quiet, Musashi! A martial artist must not complain about cold weather!
 Comment: 0,0:02:44.85,0:02:46.29,Default,ja,0,0,0,,な、なんだス、おせんちゃん？！
-Dialogue: 0,0:02:44.85,0:02:46.29,Default,ko,0,0,0,,뭐, 뭣이오, 센짱?!
-Dialogue: 0,0:02:44.85,0:02:46.29,Default,en,0,0,0,,W- what is it-{\i1}dasu{\i0}, Sen-chan?!
+Dialogue: 0,0:02:44.85,0:02:46.29,Default,ko,0,0,0,,뭐, 뭣이오, 오센짱?!
+Dialogue: 0,0:02:44.85,0:02:46.29,Default,en,0,0,0,,W- what is it-{\i1}dasu{\i0}, Osenchan?!
 Comment: 0,0:02:46.53,0:02:47.84,Default,ja,0,0,0,,く、くまよ！
 Dialogue: 0,0:02:46.53,0:02:47.84,Default,ko,0,0,0,,고, 곰이야!
 Dialogue: 0,0:02:46.53,0:02:47.84,Default,en,0,0,0,,A- a bear!
@@ -355,8 +355,8 @@ Comment: 0,0:10:21.67,0:10:22.78,Default,ja,0,0,0,,待て、オニヒメ！
 Dialogue: 0,0:10:21.67,0:10:22.78,Default,ko,0,0,0,,멈춰라, 오니히메!
 Dialogue: 0,0:10:21.67,0:10:22.78,Default,en,0,0,0,,Stop, Onihime!
 Comment: 0,0:10:22.98,0:10:24.62,Default,ja,0,0,0,,おせんちゃんを返すだス！
-Dialogue: 0,0:10:22.98,0:10:24.62,Default,ko,0,0,0,,센짱을 돌려주시오!
-Dialogue: 0,0:10:22.98,0:10:24.62,Default,en,0,0,0,,Give Sen-chan back-{\i1}dasu{\i0}!
+Dialogue: 0,0:10:22.98,0:10:24.62,Default,ko,0,0,0,,오센짱을 돌려주시오!
+Dialogue: 0,0:10:22.98,0:10:24.62,Default,en,0,0,0,,Give Osenchan back-{\i1}dasu{\i0}!
 Comment: 0,0:10:27.78,0:10:30.47,Default,ja,0,0,0,,しつこいやるら。だが、これまで！
 Dialogue: 0,0:10:27.78,0:10:30.47,Default,ko,0,0,0,,성가신 놈들. 그렇지만 여기까지다!
 Dialogue: 0,0:10:27.78,0:10:30.47,Default,en,0,0,0,,Aren't you annoying. But that's as far as you go!
@@ -421,11 +421,11 @@ Comment: 0,0:12:32.21,0:12:36.80,Default,ja,0,0,0,,おおさむ。危なく氷�
 Dialogue: 0,0:12:32.21,0:12:36.80,Default,ko,0,0,0,,엄청 춥소. 까딱하단 얼음덩어리가 되어버릴 뻔했소.
 Dialogue: 0,0:12:32.21,0:12:36.80,Default,en,0,0,0,,So cold-{\i1}dasu{\i0}. I might have ended up as an ice-{\i1}dasu{\i0}.
 Comment: 0,0:12:38.26,0:12:41.29,Default,ja,0,0,0,,おせんちゃん！コジロー！どこだすか！
-Dialogue: 0,0:12:38.26,0:12:41.29,Default,ko,0,0,0,,센짱! 코지로! 어디이오!
-Dialogue: 0,0:12:38.26,0:12:41.29,Default,en,0,0,0,,Sen-chan! Kojirō! Where are you-{\i1}dasu{\i0}?!
+Dialogue: 0,0:12:38.26,0:12:41.29,Default,ko,0,0,0,,오센짱! 코지로! 어디이오!
+Dialogue: 0,0:12:38.26,0:12:41.29,Default,en,0,0,0,,Osenchan! Kojirō! Where are you-{\i1}dasu{\i0}?!
 Comment: 0,0:12:44.05,0:12:47.81,Default,ja,0,0,0,,おせおちゃんはさらわれてしまって、コジローは行方不明。。。
-Dialogue: 0,0:12:44.05,0:12:47.81,Default,ko,0,0,0,,센짱은 빼앗겼고 코지로는 행방불명...
-Dialogue: 0,0:12:44.05,0:12:47.81,Default,en,0,0,0,,Sen-chan has been taken away and Kojirō's nowhere to be found-{\i1}dasu{\i0}...
+Dialogue: 0,0:12:44.05,0:12:47.81,Default,ko,0,0,0,,오센짱은 빼앗겼고 코지로는 행방불명...
+Dialogue: 0,0:12:44.05,0:12:47.81,Default,en,0,0,0,,Osenchan has been taken away and Kojirō's nowhere to be found-{\i1}dasu{\i0}...
 Comment: 0,0:12:48.72,0:12:50.72,Default,ja,0,0,0,,どうすりゃいいんだす？
 Dialogue: 0,0:12:48.72,0:12:50.72,Default,ko,0,0,0,,이걸 어쩌오?
 Dialogue: 0,0:12:48.72,0:12:50.72,Default,en,0,0,0,,What should I do now-{\i1}dasu{\i0}?
@@ -493,8 +493,8 @@ Comment: 0,0:13:54.90,0:13:58.09,Default,ja,0,0,0,,あ？ムサシ！こんな�
 Dialogue: 0,0:13:54.90,0:13:58.09,Default,ko,0,0,0,,어? 무사시! 이런 짓이나 하고 있을 때가 아냐!
 Dialogue: 0,0:13:54.90,0:13:58.09,Default,en,0,0,0,,Huh? Musashi! This is not a good time to be doing this!
 Comment: 0,0:13:59.49,0:14:02.34,Default,ja,0,0,0,,そうだス。おせんちゃんを助けるのが先だス。
-Dialogue: 0,0:13:59.49,0:14:02.34,Default,ko,0,0,0,,그렇소. 센짱을 구하는 게 먼저이오.
-Dialogue: 0,0:13:59.49,0:14:02.34,Default,en,0,0,0,,That's right-{\i1}dasu{\i0}. Rescuing Sen-chan comes first-{\i1}dasu{\i0}.
+Dialogue: 0,0:13:59.49,0:14:02.34,Default,ko,0,0,0,,그렇소. 오센짱을 구하는 게 먼저이오.
+Dialogue: 0,0:13:59.49,0:14:02.34,Default,en,0,0,0,,That's right-{\i1}dasu{\i0}. Rescuing Osenchan comes first-{\i1}dasu{\i0}.
 Comment: 0,0:14:02.62,0:14:05.45,Default,ja,0,0,0,,オニヒメは向こうへ向かったようだ。足跡を探せ！
 Dialogue: 0,0:14:02.62,0:14:05.45,Default,ko,0,0,0,,오니히메는 맞은편에 간 것 같다. 발자국을 찾아라!
 Dialogue: 0,0:14:02.62,0:14:05.45,Default,en,0,0,0,,Onihime went to the other side. Find her footsteps!
@@ -619,8 +619,8 @@ Comment: 0,0:17:41.74,0:17:43.60,Default,ja,0,0,0,,ハンゾウ一味の砦に�
 Dialogue: 0,0:17:41.74,0:17:43.60,Default,ko,0,0,0,,한조 일당의 요새임이 틀림없다.
 Dialogue: 0,0:17:41.74,0:17:43.60,Default,en,0,0,0,,It must be Hanzō gang's stronghold.
 Comment: 0,0:17:44.32,0:17:46.00,Default,ja,0,0,0,,ここだスな、汚染ちゃんも。
-Dialogue: 0,0:17:44.32,0:17:46.00,Default,ko,0,0,0,,여기 있겠소, 센짱도.
-Dialogue: 0,0:17:44.32,0:17:46.00,Default,en,0,0,0,,Sen-chan must be here-{\i1}dasu{\i0}, too.
+Dialogue: 0,0:17:44.32,0:17:46.00,Default,ko,0,0,0,,여기 있겠소, 오센짱도.
+Dialogue: 0,0:17:44.32,0:17:46.00,Default,en,0,0,0,,Osenchan must be here-{\i1}dasu{\i0}, too.
 Comment: 0,0:17:46.29,0:17:48.20,Default,ja,0,0,0,,ああ。なんとしても助けるのだ！
 Dialogue: 0,0:17:46.29,0:17:48.20,Default,ko,0,0,0,,그래. 무슨 일이 있어도 구해야 한다!
 Dialogue: 0,0:17:46.29,0:17:48.20,Default,en,0,0,0,,Yes. We must rescue her no matter what!
@@ -730,8 +730,8 @@ Comment: 0,0:20:45.42,0:20:47.61,Default,ja,0,0,0,,その必要はない。こ�
 Dialogue: 0,0:20:45.42,0:20:47.61,Default,ko,0,0,0,,그럴 필요는 없다. 이걸 봐라!
 Dialogue: 0,0:20:45.42,0:20:47.61,Default,en,0,0,0,,I have no need for that. Take a look at this!
 Comment: 0,0:20:50.48,0:20:51.26,Default,ja,0,0,0,,おせんちゃん！
-Dialogue: 0,0:20:50.48,0:20:51.26,Default,ko,0,0,0,,센짱!
-Dialogue: 0,0:20:50.48,0:20:51.26,Default,en,0,0,0,,Sen-chan!
+Dialogue: 0,0:20:50.48,0:20:51.26,Default,ko,0,0,0,,오센짱!
+Dialogue: 0,0:20:50.48,0:20:51.26,Default,en,0,0,0,,Osenchan!
 Comment: 0,0:20:52.56,0:20:54.27,Default,ja,0,0,0,,ムサシ。。。コジロー。。。
 Dialogue: 0,0:20:52.56,0:20:54.27,Default,ko,0,0,0,,무사시... 코지로...
 Dialogue: 0,0:20:52.56,0:20:54.27,Default,en,0,0,0,,Musashi... Kojirō...
@@ -754,8 +754,8 @@ Comment: 0,0:21:11.05,0:21:13.96,Default,ja,0,0,0,,ムサシ。コジロー。�
 Dialogue: 0,0:21:11.05,0:21:13.96,Default,ko,0,0,0,,무사시, 코지로, 싸우세요.
 Dialogue: 0,0:21:11.05,0:21:13.96,Default,en,0,0,0,,Musashi. Kojirō. Fight.
 Comment: 0,0:21:14.53,0:21:15.23,Default,ja,0,0,0,,おせんちゃん。。。
-Dialogue: 0,0:21:14.53,0:21:15.23,Default,ko,0,0,0,,센짱...
-Dialogue: 0,0:21:14.53,0:21:15.23,Default,en,0,0,0,,Sen-chan...
+Dialogue: 0,0:21:14.53,0:21:15.23,Default,ko,0,0,0,,오센짱...
+Dialogue: 0,0:21:14.53,0:21:15.23,Default,en,0,0,0,,Osenchan...
 Comment: 0,0:21:15.81,0:21:16.61,Default,ja,0,0,0,,センヒメ様！
 Dialogue: 0,0:21:15.81,0:21:16.61,Default,ko,0,0,0,,센히메 님!
 Dialogue: 0,0:21:15.81,0:21:16.61,Default,en,0,0,0,,Senhime!
@@ -763,13 +763,13 @@ Comment: 0,0:21:22.45,0:21:30.16,Default,ja,0,0,0,,私はあなた方と生ま�
 Dialogue: 0,0:21:22.45,0:21:30.16,Default,ko,0,0,0,,난 여러분 덕분에 태어나서 처음으로 자유로운 여행을 할 수 있어 행복했습니다. 여기서 죽어도 후회는 없습니다.
 Dialogue: 0,0:21:22.45,0:21:30.16,Default,en,0,0,0,,I could travel freely for the first time ever since I was born thanks to you two. I have no regrets even if I die here.
 Comment: 0,0:21:30.65,0:21:31.50,Default,ja,0,0,0,,おせんちゃん！
-Dialogue: 0,0:21:30.65,0:21:31.50,Default,ko,0,0,0,,센짱!
-Dialogue: 0,0:21:30.65,0:21:31.50,Default,en,0,0,0,,Sen-chan!
+Dialogue: 0,0:21:30.65,0:21:31.50,Default,ko,0,0,0,,오센짱!
+Dialogue: 0,0:21:30.65,0:21:31.50,Default,en,0,0,0,,Osenchan!
 Comment: 0,0:21:32.85,0:21:41.94,Default,ja,0,0,0,,ムサシはドジでおっちぇこっちょで食いしん坊だったから、とっても楽しかった。コジローは～だから強くて、頼もしかった。
 Dialogue: 0,0:21:32.85,0:21:41.94,Default,ko,0,0,0,,무사시는 바보에 덜렁대며 먹보였으니까 참 즐거웠어요. 코지로는 아니꼬워도 강하고 믿음직스러웠어요.
 Dialogue: 0,0:21:32.85,0:21:41.94,Default,en,0,0,0,,Musashi was a stupid fidgeting glutton, and that made the trip enjoyable. Kojirō was pompous yet strong and dependable.
 Comment: 0,0:21:43.57,0:21:46.45,Default,ja,0,0,0,,おせんちゃん！おいらも一緒に死ぬだス！
-Dialogue: 0,0:21:43.57,0:21:46.45,Default,ko,0,0,0,,센짱! 나도 같이 죽소!
+Dialogue: 0,0:21:43.57,0:21:46.45,Default,ko,0,0,0,,오센짱! 나도 같이 죽소!
 Dialogue: 0,0:21:43.57,0:21:46.45,Default,en,0,0,0,,Senchan! I'll die with you-{\i1}dasu{\i0}!
 Comment: 0,0:21:47.69,0:21:50.01,Default,ja,0,0,0,,さぁ、コジロー。お前はどうする。
 Dialogue: 0,0:21:47.69,0:21:50.01,Default,ko,0,0,0,,그럼 코지로, 넌 어쩔래?
@@ -818,8 +818,8 @@ Comment: 0,0:24:13.92,0:24:17.20,Default,ja,0,0,0,,オニヒメ、ジライヤ�
 Dialogue: 0,0:24:13.92,0:24:17.20,Default,ko,0,0,0,,오니히메, 지라이얀, 한조의 조무래기까지 상대해야 해서 큰일!
 Dialogue: 0,0:24:13.92,0:24:17.20,Default,en,0,0,0,,Facing Onihime, Jiraiyan, and Hanzō's lackies at once is difficult!
 Comment: 0,0:24:17.58,0:24:20.30,Default,ja,0,0,0,,おせんちゃんを助けることはできるんだスかな！
-Dialogue: 0,0:24:17.58,0:24:20.30,Default,ko,0,0,0,,센짱을 구하는 건 가능할지 모르겠소!
-Dialogue: 0,0:24:17.58,0:24:20.30,Default,en,0,0,0,,I wonder if it's possible to rescue Sen-chan-{\i1}dasu{\i0}!
+Dialogue: 0,0:24:17.58,0:24:20.30,Default,ko,0,0,0,,오센짱을 구하는 건 가능할지 모르겠소!
+Dialogue: 0,0:24:17.58,0:24:20.30,Default,en,0,0,0,,I wonder if it's possible to rescue Osenchan-{\i1}dasu{\i0}!
 Comment: 0,0:24:20.80,0:24:23.69,Default,ja,0,0,0,,次回！氷も解かす友情パワーだス
 Dialogue: 0,0:24:20.80,0:24:23.69,Default,ko,0,0,0,,다음 이야기! 얼음도 녹이는 우정 파워이오
 Dialogue: 0,0:24:20.80,0:24:23.69,Default,en,0,0,0,,Next story! Ice-Melting Power of Friendship

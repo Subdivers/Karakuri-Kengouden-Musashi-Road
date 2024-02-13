@@ -101,8 +101,8 @@ Comment: 0,0:03:19.23,0:03:20.04,Default,ja,0,0,0,,あたしよ！
 Dialogue: 0,0:03:19.23,0:03:20.04,Default,ko,0,0,0,,나야!
 Dialogue: 0,0:03:19.23,0:03:20.04,Default,en,0,0,0,,It's me!
 Comment: 0,0:03:20.64,0:03:23.27,Default,ja,0,0,0,,おせんちゃん！邪魔したら困るだすよ！
-Dialogue: 0,0:03:20.64,0:03:23.27,Default,ko,0,0,0,,센짱! 방해하면 곤란하오!
-Dialogue: 0,0:03:20.64,0:03:23.27,Default,en,0,0,0,,Sen-chan! Don't interfere with me-{\i1}dasu{\i0}!
+Dialogue: 0,0:03:20.64,0:03:23.27,Default,ko,0,0,0,,오센짱! 방해하면 곤란하오!
+Dialogue: 0,0:03:20.64,0:03:23.27,Default,en,0,0,0,,Osenchan! Don't interfere with me-{\i1}dasu{\i0}!
 Comment: 0,0:03:23.29,0:03:24.68,Default,ja,0,0,0,,だって、退屈なんかも。
 Dialogue: 0,0:03:23.29,0:03:24.68,Default,ko,0,0,0,,그래도 지루한걸.
 Dialogue: 0,0:03:23.29,0:03:24.68,Default,en,0,0,0,,But I'm bored.
@@ -149,8 +149,8 @@ Comment: 0,0:04:21.32,0:04:22.83,Default,ja,0,0,0,,あら、いい男。
 Dialogue: 0,0:04:21.32,0:04:22.83,Default,ko,0,0,0,,어라, 잘 생긴 남자잖아.
 Dialogue: 0,0:04:21.32,0:04:22.83,Default,en,0,0,0,,What a handsome man!
 Comment: 0,0:04:24.38,0:04:25.80,Default,ja,0,0,0,,おせんちゃん、危ないだス！
-Dialogue: 0,0:04:24.38,0:04:25.80,Default,ko,0,0,0,,센짱, 위험하오!
-Dialogue: 0,0:04:24.38,0:04:25.80,Default,en,0,0,0,,Sen-chan, it's dangerous here!
+Dialogue: 0,0:04:24.38,0:04:25.80,Default,ko,0,0,0,,오센짱, 위험하오!
+Dialogue: 0,0:04:24.38,0:04:25.80,Default,en,0,0,0,,Osenchan, it's dangerous here!
 Comment: 0,0:04:29.50,0:04:35.61,Default,ja,0,0,0,,いきなり切りかかるとは卑怯だす！こうなれば降りかかる～あるまででござるだす。
 Dialogue: 0,0:04:29.50,0:04:35.61,Default,ko,0,0,0,,갑자기 달려들다니 비겁하오! 이렇게 된 바 전부 쫒아낼 뿐이오.
 Dialogue: 0,0:04:29.50,0:04:35.61,Default,en,0,0,0,,It's cowardly to rush at me all of sudden-{\i1}dasu{\i0}! That leaves me no choice but to get rid of everyone-{\i1}dasu{\i0}.
@@ -284,17 +284,17 @@ Comment: 0,0:08:26.33,0:08:27.66,Default,ja,0,0,0,,え、しかし、センヒ�
 Dialogue: 0,0:08:26.33,0:08:27.66,Default,ko,0,0,0,,그래도, 센히메 님...
 Dialogue: 0,0:08:26.33,0:08:27.66,Default,en,0,0,0,,But, Senhime...
 Comment: 0,0:08:28.77,0:08:32.78,Default,ja,0,0,0,,そんな堅苦しい呼び方しないで、おせんちゃんて呼んで！
-Dialogue: 0,0:08:28.77,0:08:32.78,Default,ko,0,0,0,,그런 딱딱한 말 하지 말고, 센짱이라 불러 봐요.
-Dialogue: 0,0:08:28.77,0:08:32.78,Default,en,0,0,0,,Don't be so formal; call me Sen-chan!
+Dialogue: 0,0:08:28.77,0:08:32.78,Default,ko,0,0,0,,그런 딱딱한 말 하지 말고, 오센짱이라 불러 봐요.
+Dialogue: 0,0:08:28.77,0:08:32.78,Default,en,0,0,0,,Don't be so formal; call me Osenchan!
 Comment: 0,0:08:32.95,0:08:34.74,Default,ja,0,0,0,,え、お、おせんちゃん、ですか。
-Dialogue: 0,0:08:32.95,0:08:34.74,Default,ko,0,0,0,,세- 센짱입니까.
-Dialogue: 0,0:08:32.95,0:08:34.74,Default,en,0,0,0,,S- Sen-chan?
+Dialogue: 0,0:08:32.95,0:08:34.74,Default,ko,0,0,0,,세- 오센짱입니까.
+Dialogue: 0,0:08:32.95,0:08:34.74,Default,en,0,0,0,,S- Osenchan?
 Comment: 0,0:08:35.05,0:08:36.61,Default,ja,0,0,0,,もっと優しく読んで。
 Dialogue: 0,0:08:35.05,0:08:36.61,Default,ko,0,0,0,,더 상냥하게 불러줘.
 Dialogue: 0,0:08:35.05,0:08:36.61,Default,en,0,0,0,,More gently.
 Comment: 0,0:08:36.80,0:08:38.54,Default,ja,0,0,0,,ああ、おせんちゃん。
-Dialogue: 0,0:08:36.80,0:08:38.54,Default,ko,0,0,0,,센짱!
-Dialogue: 0,0:08:36.80,0:08:38.54,Default,en,0,0,0,,Sen-chan!
+Dialogue: 0,0:08:36.80,0:08:38.54,Default,ko,0,0,0,,오센짱!
+Dialogue: 0,0:08:36.80,0:08:38.54,Default,en,0,0,0,,Osenchan!
 Comment: 0,0:08:38.82,0:08:40.27,Default,ja,0,0,0,,おお、いいわ。
 Dialogue: 0,0:08:38.82,0:08:40.27,Default,ko,0,0,0,,오, 좋아.
 Dialogue: 0,0:08:38.82,0:08:40.27,Default,en,0,0,0,,Perfect.

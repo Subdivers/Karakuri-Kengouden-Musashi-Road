@@ -436,8 +436,8 @@ Comment: 0,0:13:00.14,0:13:01.05,Default,ja,0,0,0,,ムサシ！
 Dialogue: 0,0:13:00.14,0:13:01.05,Default,ko,0,0,0,,무사시!
 Dialogue: 0,0:13:00.14,0:13:01.05,Default,en,0,0,0,,Musashi!
 Comment: 0,0:13:01.40,0:13:04.40,Default,ja,0,0,0,,おせんちゃん！ここは危ないだス！早くミゲルだス！
-Dialogue: 0,0:13:01.40,0:13:04.40,Default,ko,0,0,0,,센짱! 여긴 위험하오! 어서 도망치시오!
-Dialogue: 0,0:13:01.40,0:13:04.40,Default,en,0,0,0,,Sen-chan! It's dangerous here-{\i1}dasu{\i0}! Run away fast-{\i1}dasu{\i0}!
+Dialogue: 0,0:13:01.40,0:13:04.40,Default,ko,0,0,0,,오센짱! 여긴 위험하오! 어서 도망치시오!
+Dialogue: 0,0:13:01.40,0:13:04.40,Default,en,0,0,0,,Osenchan! It's dangerous here-{\i1}dasu{\i0}! Run away fast-{\i1}dasu{\i0}!
 Comment: 0,0:13:04.40,0:13:06.59,Default,ja,0,0,0,,容赦するな！とどめを刺せ！
 Dialogue: 0,0:13:04.40,0:13:06.59,Default,ko,0,0,0,,용서하지 말고 끝장을 내라!
 Dialogue: 0,0:13:04.40,0:13:06.59,Default,en,0,0,0,,Do not forgive them; finish them!

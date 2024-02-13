@@ -112,11 +112,11 @@ Comment: 0,0:04:25.27,0:04:28.30,Default,ja,0,0,0,,どいてどいて！邪魔�
 Dialogue: 0,0:04:25.27,0:04:28.30,Default,ko,0,0,0,,비켜비켜! 방해돼, 무사시! 어서 비켜!
 Dialogue: 0,0:04:25.27,0:04:28.30,Default,en,0,0,0,,Get out of my way! Musashi, you're standing in my way! Move!
 Comment: 0,0:04:28.30,0:04:30.30,Default,ja,0,0,0,,ああ、おせんちゃん！無事だっただスか！
-Dialogue: 0,0:04:28.30,0:04:30.30,Default,ko,0,0,0,,센짱, 무사했소!
-Dialogue: 0,0:04:28.30,0:04:30.30,Default,en,0,0,0,,Sen-chan, you're safe!
+Dialogue: 0,0:04:28.30,0:04:30.30,Default,ko,0,0,0,,오센짱, 무사했소!
+Dialogue: 0,0:04:28.30,0:04:30.30,Default,en,0,0,0,,Osenchan, you're safe!
 Comment: 0,0:04:32.81,0:04:35.91,Default,ja,0,0,0,,おせんちゃん、大丈夫だスか？あ、あの、おせんちゃん？
-Dialogue: 0,0:04:32.81,0:04:35.91,Default,ko,0,0,0,,센짱, 괜찮소? 어, 센짱?
-Dialogue: 0,0:04:32.81,0:04:35.91,Default,en,0,0,0,,Sen-chan, are you alright? Sen-chan?
+Dialogue: 0,0:04:32.81,0:04:35.91,Default,ko,0,0,0,,오센짱, 괜찮소? 어, 오센짱?
+Dialogue: 0,0:04:32.81,0:04:35.91,Default,en,0,0,0,,Osenchan, are you alright? Osenchan?
 Comment: 0,0:04:38.99,0:04:42.42,Default,ja,0,0,0,,ボッサとしてないでさっそと火を消しなさい！
 Dialogue: 0,0:04:38.99,0:04:42.42,Default,ko,0,0,0,,꾸물대고 있지 말고 어서 불이나 꺼!
 Dialogue: 0,0:04:38.99,0:04:42.42,Default,en,0,0,0,,Don't be tardy and put off the fire!
@@ -355,8 +355,8 @@ Comment: 0,0:09:31.64,0:09:33.50,Default,ja,0,0,0,,ああ、気持ちはいい�
 Dialogue: 0,0:09:31.64,0:09:33.50,Default,ko,0,0,0,,아, 기분 좋다.
 Dialogue: 0,0:09:31.64,0:09:33.50,Default,en,0,0,0,,This feels good.
 Comment: 0,0:09:33.50,0:09:35.84,Default,ja,0,0,0,,オツルちゃんもおせんちゃんももういいだス！
-Dialogue: 0,0:09:33.50,0:09:35.84,Default,ko,0,0,0,,오츠루도 센짱도 이제 됐소!
-Dialogue: 0,0:09:33.50,0:09:35.84,Default,en,0,0,0,,Both Otsuru and Sen-chan can quit-{\i1}dasu{\i0}!
+Dialogue: 0,0:09:33.50,0:09:35.84,Default,ko,0,0,0,,오츠루도 오센짱도 이제 됐소!
+Dialogue: 0,0:09:33.50,0:09:35.84,Default,en,0,0,0,,Both Otsuru and Osenchan can quit-{\i1}dasu{\i0}!
 Comment: 0,0:09:37.03,0:09:41.26,Default,ja,0,0,0,,なんだかんだいって、本当は作れないもんだからごまかしてるだけなんだス！
 Dialogue: 0,0:09:37.03,0:09:41.26,Default,ko,0,0,0,,이러니저러니 말하면서, 애초에 못 만드니까 속이고 있는 것이오!
 Dialogue: 0,0:09:37.03,0:09:41.26,Default,en,0,0,0,,He's just fooling around because he can't make one-{\i1}dasu{\i0}!
@@ -389,11 +389,11 @@ Comment: 0,0:10:17.96,0:10:19.22,Default,ja,0,0,0,,あたしがやるわ。
 Dialogue: 0,0:10:17.96,0:10:19.22,Default,ko,0,0,0,,내가 할게.
 Dialogue: 0,0:10:17.96,0:10:19.22,Default,en,0,0,0,,I'll do it.
 Comment: 0,0:10:22.87,0:10:23.72,Default,ja,0,0,0,,お、おせんちゃん！
-Dialogue: 0,0:10:22.87,0:10:23.72,Default,ko,0,0,0,,센짱!
-Dialogue: 0,0:10:22.87,0:10:23.72,Default,en,0,0,0,,Sen-chan!
+Dialogue: 0,0:10:22.87,0:10:23.72,Default,ko,0,0,0,,오센짱!
+Dialogue: 0,0:10:22.87,0:10:23.72,Default,en,0,0,0,,Osenchan!
 Comment: 0,0:10:31.26,0:10:34.19,Default,ja,0,0,0,,おせんちゃん！頼むだス！
-Dialogue: 0,0:10:31.26,0:10:34.19,Default,ko,0,0,0,,센짱! 부탁하오!
-Dialogue: 0,0:10:31.26,0:10:34.19,Default,en,0,0,0,,Sen-chan! Please do it-{\i1}dasu{\i0}!
+Dialogue: 0,0:10:31.26,0:10:34.19,Default,ko,0,0,0,,오센짱! 부탁하오!
+Dialogue: 0,0:10:31.26,0:10:34.19,Default,en,0,0,0,,Osenchan! Please do it-{\i1}dasu{\i0}!
 Comment: 0,0:10:34.43,0:10:38.86,Default,ja,0,0,0,,へ、やっぱりサーフィンには水着の女の子が似合うな。
 Dialogue: 0,0:10:34.43,0:10:38.86,Default,ko,0,0,0,,헤, 역시 서핑은 수영복 입은 여자얘가 어울려.
 Dialogue: 0,0:10:34.43,0:10:38.86,Default,en,0,0,0,,Heh, surfing is beautiful when done by a girl in swimsuit.

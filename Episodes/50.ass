@@ -174,14 +174,14 @@ Comment: 0,0:03:52.79,0:03:53.31,Default,ja,0,0,0,,何が！
 Dialogue: 0,0:03:52.79,0:03:53.31,Default,ko,0,0,0,,뭐가!
 Dialogue: 0,0:03:52.79,0:03:53.31,Default,en,0,0,0,,What is!?
 Comment: 0,0:03:53.69,0:03:59.31,Default,ja,0,0,0,,これでおせんちゃんが落ち着いてくれれば、おいらたちもお役ごめん！ゆっくりできるだス。
-Dialogue: 0,0:03:53.69,0:03:59.31,Default,ko,0,0,0,,이걸로 센짱이 진정하면 우리도 면직되고 느긋하게 살 수 있소!
-Dialogue: 0,0:03:53.69,0:03:59.31,Default,en,0,0,0,,If Sen-chan calms down by this, we'll be dismissed and we'll be able to live restfully-{\1}dasu{\i0}!
+Dialogue: 0,0:03:53.69,0:03:59.31,Default,ko,0,0,0,,이걸로 오센짱이 진정하면 우리도 면직되고 느긋하게 살 수 있소!
+Dialogue: 0,0:03:53.69,0:03:59.31,Default,en,0,0,0,,If Osenchan calms down by this, we'll be dismissed and we'll be able to live restfully-{\1}dasu{\i0}!
 Comment: 0,0:03:59.71,0:04:02.01,Default,ja,0,0,0,,落ち着く？何のことだ。
 Dialogue: 0,0:03:59.71,0:04:02.01,Default,ko,0,0,0,,진정해? 뭔 소리냐.
 Dialogue: 0,0:03:59.71,0:04:02.01,Default,en,0,0,0,,Calm down? What are you talking about?
 Comment: 0,0:04:02.61,0:04:06.99,Default,ja,0,0,0,,結婚だすよ。結婚。おせんちゃんと国王が結婚するんだス。
-Dialogue: 0,0:04:02.61,0:04:06.99,Default,ko,0,0,0,,결혼 말이오, 결혼. 센짱하고 국왕이 결혼하오.
-Dialogue: 0,0:04:02.61,0:04:06.99,Default,en,0,0,0,,I'm talking about a marriage-{\1}dasu{\i0}. Sen-chan and the Highness will marry-{\1}dasu{\i0}.
+Dialogue: 0,0:04:02.61,0:04:06.99,Default,ko,0,0,0,,결혼 말이오, 결혼. 오센짱하고 국왕이 결혼하오.
+Dialogue: 0,0:04:02.61,0:04:06.99,Default,en,0,0,0,,I'm talking about a marriage-{\1}dasu{\i0}. Osenchan and the Highness will marry-{\1}dasu{\i0}.
 Comment: 0,0:04:07.54,0:04:08.21,Default,ja,0,0,0,,結婚？！
 Dialogue: 0,0:04:07.54,0:04:08.21,Default,ko,0,0,0,,결혼!?
 Dialogue: 0,0:04:07.54,0:04:08.21,Default,en,0,0,0,,Marry!?
@@ -321,7 +321,7 @@ Comment: 0,0:06:10.30,0:06:12.08,Default,ja,0,0,0,,いつからそんな状態�
 Dialogue: 0,0:06:10.30,0:06:12.08,Default,ko,0,0,0,,언제부터 그 상태가 되었나요?
 Dialogue: 0,0:06:10.30,0:06:12.08,Default,en,0,0,0,,Since when he's like that?
 Comment: 0,0:06:12.54,0:06:17.19,Default,ja,0,0,0,,えっと、せんちゃんの結婚の話をしたときからかな。
-Dialogue: 0,0:06:12.54,0:06:17.19,Default,ko,0,0,0,,어디, 센짱 결혼 이야기를 막 했을 때일까...
+Dialogue: 0,0:06:12.54,0:06:17.19,Default,ko,0,0,0,,어디, 오센짱 결혼 이야기를 막 했을 때일까...
 Dialogue: 0,0:06:12.54,0:06:17.19,Default,en,0,0,0,,Let's see... when I said about Senhime's marriage...
 Comment: 0,0:06:17.54,0:06:18.26,Default,ja,0,0,0,,結婚？
 Dialogue: 0,0:06:17.54,0:06:18.26,Default,ko,0,0,0,,결혼?
@@ -372,8 +372,8 @@ Comment: 0,0:07:04.74,0:07:06.40,Default,ja,0,0,0,,こ、恋の病？
 Dialogue: 0,0:07:04.74,0:07:06.40,Default,ko,0,0,0,,사, 사랑의 병?
 Dialogue: 0,0:07:04.74,0:07:06.40,Default,en,0,0,0,,L- lovesickness?
 Comment: 0,0:07:06.73,0:07:11.94,Default,ja,0,0,0,,そうだス！おせんちゃんに失礼しちゃったから、胸が苦しいんだすよ！コジロー！
-Dialogue: 0,0:07:06.73,0:07:11.94,Default,ko,0,0,0,,그렇소! 센짱에게 실례해서 가슴이 아파오는 것이오, 코지로!
-Dialogue: 0,0:07:06.73,0:07:11.94,Default,en,0,0,0,,Yeah-{\1}dasu{\i0}! Your chest hurts because you did a discourtesy to Sen-chan-{\1}dasu{\i0}, Kojirō!
+Dialogue: 0,0:07:06.73,0:07:11.94,Default,ko,0,0,0,,그렇소! 오센짱에게 실례해서 가슴이 아파오는 것이오, 코지로!
+Dialogue: 0,0:07:06.73,0:07:11.94,Default,en,0,0,0,,Yeah-{\1}dasu{\i0}! Your chest hurts because you did a discourtesy to Osenchan-{\1}dasu{\i0}, Kojirō!
 Comment: 0,0:07:12.66,0:07:15.42,Default,ja,0,0,0,,なんだ、わけもわからないことを言ってんだ、お前は。
 Dialogue: 0,0:07:12.66,0:07:15.42,Default,ko,0,0,0,,뭔 이상한 소릴 하고 있냐, 너는.
 Dialogue: 0,0:07:12.66,0:07:15.42,Default,en,0,0,0,,What are you blabbering about?
@@ -679,8 +679,8 @@ Comment: 0,0:14:24.51,0:14:26.22,Default,ja,0,0,0,,しぶといやつ。
 Dialogue: 0,0:14:24.51,0:14:26.22,Default,ko,0,0,0,,끈질긴 놈...
 Dialogue: 0,0:14:24.51,0:14:26.22,Default,en,0,0,0,,How stubborn...
 Comment: 0,0:14:30.79,0:14:32.16,Default,ja,0,0,0,,あ、おせんちゃん！
-Dialogue: 0,0:14:30.79,0:14:32.16,Default,ko,0,0,0,,어, 어라, 센짱!
-Dialogue: 0,0:14:30.79,0:14:32.16,Default,en,0,0,0,,H- hey, Sen-chan!
+Dialogue: 0,0:14:30.79,0:14:32.16,Default,ko,0,0,0,,어, 어라, 오센짱!
+Dialogue: 0,0:14:30.79,0:14:32.16,Default,en,0,0,0,,H- hey, Osenchan!
 Comment: 0,0:14:32.16,0:14:32.55,Default,ja,0,0,0,,なに？！
 Dialogue: 0,0:14:32.16,0:14:32.55,Default,ko,0,0,0,,뭐라고!?
 Dialogue: 0,0:14:32.16,0:14:32.55,Default,en,0,0,0,,What!?

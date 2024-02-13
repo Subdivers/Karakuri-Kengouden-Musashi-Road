@@ -106,8 +106,8 @@ Comment: 0,0:03:14.84,0:03:20.11,Default,ja,0,0,0,,分かった、分かった�
 Dialogue: 0,0:03:14.84,0:03:20.11,Default,ko,0,0,0,,알았어, 알았어! 이천이류는 대단해. 그렇지만, 무사시, 이 여행의 목적은...
 Dialogue: 0,0:03:14.84,0:03:20.11,Default,en,0,0,0,,Sure, I get that Niten'ichiryū is great. But Musashi, what is the purpose of this trip?
 Comment: 0,0:03:20.72,0:03:22.50,Default,ja,0,0,0,,おせんちゃんを守りとさんこう。
-Dialogue: 0,0:03:20.72,0:03:22.50,Default,ko,0,0,0,,센짱을 지키는 것이오.
-Dialogue: 0,0:03:20.72,0:03:22.50,Default,en,0,0,0,,To protect Sen-chan-{\i1}dasu{\i0}.
+Dialogue: 0,0:03:20.72,0:03:22.50,Default,ko,0,0,0,,오센짱을 지키는 것이오.
+Dialogue: 0,0:03:20.72,0:03:22.50,Default,en,0,0,0,,To protect Osenchan-{\i1}dasu{\i0}.
 Comment: 0,0:03:23.04,0:03:26.68,Default,ja,0,0,0,,そう。だから旅が終わったらちゃんと相手をする。
 Dialogue: 0,0:03:23.04,0:03:26.68,Default,ko,0,0,0,,그래. 그러니까 여행이 끝나면 바로 상대해 줄 테니까.
 Dialogue: 0,0:03:23.04,0:03:26.68,Default,en,0,0,0,,Right. So just know that I'll going to face you as soon as the trip is over.
@@ -118,8 +118,8 @@ Comment: 0,0:03:29.37,0:03:30.58,Default,ja,0,0,0,,え？・なぜ？
 Dialogue: 0,0:03:29.37,0:03:30.58,Default,ko,0,0,0,,-어?\N-왜?
 Dialogue: 0,0:03:29.37,0:03:30.58,Default,en,0,0,0,,-Huh?\N-Why?
 Comment: 0,0:03:31.16,0:03:35.22,Default,ja,0,0,0,,おせんちゃん、永遠にお婿さん見つけられないからだす。
-Dialogue: 0,0:03:31.16,0:03:35.22,Default,ko,0,0,0,,센짱은 영원히 새신랑 못 찾으니까이오!
-Dialogue: 0,0:03:31.16,0:03:35.22,Default,en,0,0,0,,Sen-chan will never find a new husband-{\i1}dasu{\i0}!
+Dialogue: 0,0:03:31.16,0:03:35.22,Default,ko,0,0,0,,오센짱은 영원히 새신랑 못 찾으니까이오!
+Dialogue: 0,0:03:31.16,0:03:35.22,Default,en,0,0,0,,Osenchan will never find a new husband-{\i1}dasu{\i0}!
 Comment: 0,0:03:36.30,0:03:37.32,Default,ja,0,0,0,,ごめんだす！
 Dialogue: 0,0:03:36.30,0:03:37.32,Default,ko,0,0,0,,미안하오!
 Dialogue: 0,0:03:36.30,0:03:37.32,Default,en,0,0,0,,I'm sorry-{\i1}dasu{\i0}!
@@ -160,8 +160,8 @@ Comment: 0,0:04:07.94,0:04:10.27,Default,ja,0,0,0,,飯がおいらを読んで�
 Dialogue: 0,0:04:07.94,0:04:10.27,Default,ko,0,0,0,,밥이 날 부르고 있소...
 Dialogue: 0,0:04:07.94,0:04:10.27,Default,en,0,0,0,,Food is calling me-{\i1}dasu{\i0}!
 Comment: 0,0:04:14.37,0:04:15.90,Default,ja,0,0,0,,おせんちゃん、後ろだス！
-Dialogue: 0,0:04:14.37,0:04:15.90,Default,ko,0,0,0,,센짱, 뒤이오!
-Dialogue: 0,0:04:14.37,0:04:15.90,Default,en,0,0,0,,Sen-chan, on your back-{\i1}dasu{\i0}!
+Dialogue: 0,0:04:14.37,0:04:15.90,Default,ko,0,0,0,,오센짱, 뒤이오!
+Dialogue: 0,0:04:14.37,0:04:15.90,Default,en,0,0,0,,Osenchan, on your back-{\i1}dasu{\i0}!
 Comment: 0,0:04:23.84,0:04:27.95,Default,ja,0,0,0,,いったい何者だス！いきなり襲うなんて、卑怯でござるだス！
 Dialogue: 0,0:04:23.84,0:04:27.95,Default,ko,0,0,0,,대체 누구시오! 갑자기 덤벼들다니 비겁하오!
 Dialogue: 0,0:04:23.84,0:04:27.95,Default,en,0,0,0,,Who is it-{\i1}dasu{\i0}?! It is cowardly to pounce out of nowhere-{\i1}dasu{\i0}!
@@ -190,11 +190,11 @@ Comment: 0,0:05:07.13,0:05:11.57,Default,ja,0,0,0,,知らぬこととはいえ�
 Dialogue: 0,0:05:07.13,0:05:11.57,Default,ko,0,0,0,,모른다고 하지는 않겠습니다. 큰 무례를 저질렀습니다. 용서해 주십시오, 센히메 님!
 Dialogue: 0,0:05:07.13,0:05:11.57,Default,en,0,0,0,,I'm not going to make excuses. I was very rude to you. Please forgive me, princess!
 Comment: 0,0:05:12.80,0:05:16.39,Default,ja,0,0,0,,おせんちゃんよ！おせんちゃん！
-Dialogue: 0,0:05:12.80,0:05:16.39,Default,ko,0,0,0,,센짱이야! 센짱!
-Dialogue: 0,0:05:12.80,0:05:16.39,Default,en,0,0,0,,Sen-chan, that is! Sen-chan!
+Dialogue: 0,0:05:12.80,0:05:16.39,Default,ko,0,0,0,,오센짱이야! 오센짱!
+Dialogue: 0,0:05:12.80,0:05:16.39,Default,en,0,0,0,,Osenchan, that is! Osenchan!
 Comment: 0,0:05:16.86,0:05:19.19,Default,ja,0,0,0,,あ、お、おせんちゃん、ですか？
-Dialogue: 0,0:05:16.86,0:05:19.19,Default,ko,0,0,0,,아, 센짱입니까...
-Dialogue: 0,0:05:16.86,0:05:19.19,Default,en,0,0,0,,Oh, Sen-chan, is it?
+Dialogue: 0,0:05:16.86,0:05:19.19,Default,ko,0,0,0,,아, 오센짱입니까...
+Dialogue: 0,0:05:16.86,0:05:19.19,Default,en,0,0,0,,Oh, Osenchan, is it?
 Comment: 0,0:05:19.62,0:05:21.94,Default,ja,0,0,0,,それよりバイケンはどうしてここに？
 Dialogue: 0,0:05:19.62,0:05:21.94,Default,ko,0,0,0,,그보다도, 바이켄은 왜 여기에?
 Dialogue: 0,0:05:19.62,0:05:21.94,Default,en,0,0,0,,More importantly, why is Baiken here?

@@ -91,8 +91,8 @@ Comment: 0,0:02:52.48,0:02:59.85,Default,ja,0,0,0,,?????? まあ、ご安心を�
 Dialogue: 0,0:02:52.48,0:02:59.85,Default,ko,0,0,0,,뭐, 안심하세요. 그런 패거리에게 끌려다닐 시라누이 일족이 아닙니다.
 Dialogue: 0,0:02:52.48,0:02:59.85,Default,en,0,0,0,,Well, don't worry about that. We, Shiranui Clan do not get taken over by those small bunch.
 Comment: 0,0:03:03.81,0:03:05.76,Default,ja,0,0,0,,おせんちゃん、待ってくれだす！
-Dialogue: 0,0:03:03.81,0:03:05.76,Default,ko,0,0,0,,센짱, 같이 가오!
-Dialogue: 0,0:03:03.81,0:03:05.76,Default,en,0,0,0,,Sen-chan, wait for me-{\i1}dasu{\i0}!
+Dialogue: 0,0:03:03.81,0:03:05.76,Default,ko,0,0,0,,오센짱, 같이 가오!
+Dialogue: 0,0:03:03.81,0:03:05.76,Default,en,0,0,0,,Osenchan, wait for me-{\i1}dasu{\i0}!
 Comment: 0,0:03:05.76,0:03:07.79,Default,ja,0,0,0,,ふん！本当にもう！
 Dialogue: 0,0:03:05.76,0:03:07.79,Default,ko,0,0,0,,흥! 정말 진짜!
 Dialogue: 0,0:03:05.76,0:03:07.79,Default,en,0,0,0,,Hmph! Really!
@@ -259,8 +259,8 @@ Comment: 0,0:06:19.37,0:06:23.26,Default,ja,0,0,0,,今度こそこっちから�
 Dialogue: 0,0:06:19.37,0:06:23.26,Default,ko,0,0,0,,이번에야말로 먼저 공격을 걸어서 오명을 만회하겠소!
 Dialogue: 0,0:06:19.37,0:06:23.26,Default,en,0,0,0,,I'll attack first this time, and clear my bad reputatoin-{\i1}dasu{\i0}!
 Comment: 0,0:06:23.82,0:06:26.03,Default,ja,0,0,0,,せんちゃんもおいらのこと、見直すだス！
-Dialogue: 0,0:06:23.82,0:06:26.03,Default,ko,0,0,0,,센짱도 날 다시 볼 것이오!
-Dialogue: 0,0:06:23.82,0:06:26.03,Default,en,0,0,0,,Sen-chan will reevaluate me, too-{\i1}dasu{\i0}!
+Dialogue: 0,0:06:23.82,0:06:26.03,Default,ko,0,0,0,,오센짱도 날 다시 볼 것이오!
+Dialogue: 0,0:06:23.82,0:06:26.03,Default,en,0,0,0,,Osenchan will reevaluate me, too-{\i1}dasu{\i0}!
 Comment: 0,0:06:29.54,0:06:32.18,Default,ja,0,0,0,,もう！本当にムサシったら！
 Dialogue: 0,0:06:29.54,0:06:32.18,Default,ko,0,0,0,,진짜! 정말 무사시 놈!
 Dialogue: 0,0:06:29.54,0:06:32.18,Default,en,0,0,0,,That damn Musashi!
@@ -776,8 +776,8 @@ Comment: 0,0:21:36.04,0:21:37.14,Default,ja,0,0,0,,千姫様！
 Dialogue: 0,0:21:36.04,0:21:37.14,Default,ko,0,0,0,,센히메 님!
 Dialogue: 0,0:21:36.04,0:21:37.14,Default,en,0,0,0,,Senhime!
 Comment: 0,0:21:37.27,0:21:38.63,Default,ja,0,0,0,,おせんちゃん、危ない！
-Dialogue: 0,0:21:37.27,0:21:38.63,Default,ko,0,0,0,,센짱, 위험하오!
-Dialogue: 0,0:21:37.27,0:21:38.63,Default,en,0,0,0,,Sen-chan, watch out!
+Dialogue: 0,0:21:37.27,0:21:38.63,Default,ko,0,0,0,,오센짱, 위험하오!
+Dialogue: 0,0:21:37.27,0:21:38.63,Default,en,0,0,0,,Osenchan, watch out!
 Comment: 0,0:21:44.45,0:21:45.31,Default,ja,0,0,0,,ムサシ！
 Dialogue: 0,0:21:44.45,0:21:45.31,Default,ko,0,0,0,,무사시!
 Dialogue: 0,0:21:44.45,0:21:45.31,Default,en,0,0,0,,Musashi!

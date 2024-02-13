@@ -371,7 +371,7 @@ Dialogue: 0,0:10:02.46,0:10:04.90,Default,ko,0,0,0,,누구이오! 돌 던진 바
 Dialogue: 0,0:10:02.46,0:10:04.90,Default,en,0,0,0,,What ultra fool threw a stone-{\i1}dasu{\i0}?!
 Comment: 0,0:10:06.46,0:10:07.95,Default,ja,0,0,0,,いや、おせんちゃん。
 Dialogue: 0,0:10:06.46,0:10:07.95,Default,ko,0,0,0,,아니, 센쨩.
-Dialogue: 0,0:10:06.46,0:10:07.95,Default,en,0,0,0,,It was you, Sen-chan...
+Dialogue: 0,0:10:06.46,0:10:07.95,Default,en,0,0,0,,It was you, Osenchan...
 Comment: 0,0:10:07.95,0:10:10.07,Default,ja,0,0,0,,誰がドアホですって？
 Dialogue: 0,0:10:07.95,0:10:10.07,Default,ko,0,0,0,,누가 바보멍청이야?
 Dialogue: 0,0:10:07.95,0:10:10.07,Default,en,0,0,0,,Who's an ultra fool?
@@ -388,8 +388,8 @@ Comment: 0,0:10:23.47,0:10:25.19,Default,ja,0,0,0,,ムサシさん。この人�
 Dialogue: 0,0:10:23.47,0:10:25.19,Default,ko,0,0,0,,무사시 씨, 이 사람은?
 Dialogue: 0,0:10:23.47,0:10:25.19,Default,en,0,0,0,,Mr. Musashi, who's this?
 Comment: 0,0:10:25.89,0:10:28.22,Default,ja,0,0,0,,い、一緒に旅してたおせんちゃんだスよ。
-Dialogue: 0,0:10:25.89,0:10:28.22,Default,ko,0,0,0,,같이 여행한 센짱이오.
-Dialogue: 0,0:10:25.89,0:10:28.22,Default,en,0,0,0,,She's Sen-chan whom I traveled with-{\i1}dasu{\i0}.
+Dialogue: 0,0:10:25.89,0:10:28.22,Default,ko,0,0,0,,같이 여행한 오센짱이오.
+Dialogue: 0,0:10:25.89,0:10:28.22,Default,en,0,0,0,,She's Osenchan whom I traveled with-{\i1}dasu{\i0}.
 Comment: 0,0:10:28.47,0:10:32.89,Default,ja,0,0,0,,あなたがオツルちゃんね。ムサシからうわさは聞いているわ。
 Dialogue: 0,0:10:28.47,0:10:32.89,Default,ko,0,0,0,,네가 오츠루구나. 무사시한테 들었어.
 Dialogue: 0,0:10:28.47,0:10:32.89,Default,en,0,0,0,,You must be Otsuru. Musashi told me about you.
@@ -409,8 +409,8 @@ Comment: 0,0:10:47.94,0:10:50.98,Default,ja,0,0,0,,なんで～て！もう一�
 Dialogue: 0,0:10:47.94,0:10:50.98,Default,ko,0,0,0,,뭔 개소리야! 다시 한번 말해봐라!
 Dialogue: 0,0:10:47.94,0:10:50.98,Default,en,0,0,0,,What are you being stupid about?! Say that again!
 Comment: 0,0:10:50.98,0:10:53.48,Default,ja,0,0,0,,わかっただス！おせんちゃんは美人だす！
-Dialogue: 0,0:10:50.98,0:10:53.48,Default,ko,0,0,0,,알겠소! 센짱은 미인이오!
-Dialogue: 0,0:10:50.98,0:10:53.48,Default,en,0,0,0,,I get it! You're beautiful, Sen-chan!
+Dialogue: 0,0:10:50.98,0:10:53.48,Default,ko,0,0,0,,알겠소! 오센짱은 미인이오!
+Dialogue: 0,0:10:50.98,0:10:53.48,Default,en,0,0,0,,I get it! You're beautiful, Osenchan!
 Comment: 0,0:10:53.48,0:10:57.59,Default,ja,0,0,0,,それから？・美人で～って、性格がよくて、お金持ちでー
 Dialogue: 0,0:10:53.48,0:10:57.59,Default,ko,0,0,0,,-그리고?\N-미인에 똑바르고 성격 좋고 부자이고-
 Dialogue: 0,0:10:53.48,0:10:57.59,Default,en,0,0,0,,-And?\N-Beautiful, dead straight, has a good personality, rich,
@@ -758,8 +758,8 @@ Comment: 0,0:21:28.60,0:21:34.05,Default,ja,0,0,0,,うわ、感激だス！戦�
 Dialogue: 0,0:21:28.60,0:21:34.05,Default,ko,0,0,0,,우와, 감격이오! 전투 후의 단고는 제일 맛있소!
 Dialogue: 0,0:21:28.60,0:21:34.05,Default,en,0,0,0,,I'm so deeply happy-{\i1}dasu{\i0}! Dangos after a battle are the best-{\i1}dasu{\i0}!
 Comment: 0,0:21:35.98,0:21:37.18,Default,ja,0,0,0,,おせんちゃん！
-Dialogue: 0,0:21:35.98,0:21:37.18,Default,ko,0,0,0,,센짱!
-Dialogue: 0,0:21:35.98,0:21:37.18,Default,en,0,0,0,,Sen-chan!
+Dialogue: 0,0:21:35.98,0:21:37.18,Default,ko,0,0,0,,오센짱!
+Dialogue: 0,0:21:35.98,0:21:37.18,Default,en,0,0,0,,Osenchan!
 Comment: 0,0:21:38.41,0:21:45.56,Default,ja,0,0,0,,いつもドジ化けしてたあんたが、今日は大活躍だな！もしかして脳は～隠していたね！
 Dialogue: 0,0:21:38.41,0:21:45.56,Default,ko,0,0,0,,계속 바보짓만 하던 놈이 오늘은 대활약이구나! 그 뇌의 능력을 숨기고 있었구나!
 Dialogue: 0,0:21:38.41,0:21:45.56,Default,en,0,0,0,,You usual idiot did a great job today! You were hiding your brain capabilities!
@@ -807,8 +807,8 @@ Dialogue: 0,0:23:28.08,0:23:37.59,SongED1,ED1!Lyric11,0,0,0,,てなもんだ　�
 Dialogue: 0,0:23:38.09,0:23:46.05,SongED1,ED1!Lyric12,0,0,0,,未来も　てなもんさ　あしたが　ほら
 Dialogue: 0,0:23:46.30,0:23:51.89,SongED1,ED1!Lyric13,0,0,0,,両手ひろげて　笑ってるぜ
 Comment: 0,0:24:04.21,0:24:11.14,Default,ja,0,0,0,,なかなか彼氏の見つかれなかったじゃじゃ馬姫のおせんちゃんが、なんと、二枚目の国王殿下を救うになってしまっただす。
-Dialogue: 0,0:24:04.21,0:24:11.14,Default,ko,0,0,0,,꽤나 남자친구를 찾지 못한 난폭한 말과 같은 센짱이, 무슨, 미남인 국왕 전하를 구하게 되고 말았소.
-Dialogue: 0,0:24:04.21,0:24:07.74,Default,en,0,0,0,,That unmanageable person Sen-chan's going to rescue the Highness who's really handsome,
+Dialogue: 0,0:24:04.21,0:24:11.14,Default,ko,0,0,0,,꽤나 남자친구를 찾지 못한 난폭한 말과 같은 오센짱이, 무슨, 미남인 국왕 전하를 구하게 되고 말았소.
+Dialogue: 0,0:24:04.21,0:24:07.74,Default,en,0,0,0,,That unmanageable person Osenchan's going to rescue the Highness who's really handsome,
 Dialogue: 0,0:24:07.74,0:24:11.14,Default,en,0,0,0,,after being unable to find a boyfriend for a long time-{\i1}dasu{\i0}!
 Comment: 0,0:24:11.45,0:24:15.72,Default,ja,0,0,0,,そこへまたまたメガトンジョーが攻めてきて、エドトピアが大火事だス！
 Dialogue: 0,0:24:11.45,0:24:15.72,Default,ko,0,0,0,,거기에 다시 메가톤성이 공격해 와서 에도토피아에 큰 화재이오!

@@ -106,8 +106,8 @@ Comment: 0,0:02:58.41,0:03:01.66,Default,ja,0,0,0,,たく、自分だけお金�
 Dialogue: 0,0:02:58.41,0:03:01.66,Default,ko,0,0,0,,진짜, 자기만 돈을 가지고 있으니 잘난 척은...
 Dialogue: 0,0:02:58.41,0:03:01.66,Default,en,0,0,0,,Really, only he has money and he's all puffed up...
 Comment: 0,0:03:02.05,0:03:02.94,Default,ja,0,0,0,,ねぇ、おせんちゃん！
-Dialogue: 0,0:03:02.05,0:03:02.94,Default,ko,0,0,0,,그치, 센짱?
-Dialogue: 0,0:03:02.05,0:03:02.94,Default,en,0,0,0,,Don't you agree, Sen-chan?
+Dialogue: 0,0:03:02.05,0:03:02.94,Default,ko,0,0,0,,그치, 오센짱?
+Dialogue: 0,0:03:02.05,0:03:02.94,Default,en,0,0,0,,Don't you agree, Osenchan?
 Comment: 0,0:03:03.90,0:03:06.03,Default,ja,0,0,0,,おぉ、いい男！
 Dialogue: 0,0:03:03.90,0:03:06.03,Default,ko,0,0,0,,오, 좋은 남자!
 Dialogue: 0,0:03:03.90,0:03:06.03,Default,en,0,0,0,,Hey, a good man!
@@ -163,8 +163,8 @@ Comment: 0,0:04:03.37,0:04:06.51,Default,ja,0,0,0,,俺、音楽ていうのは�
 Dialogue: 0,0:04:03.37,0:04:06.51,Default,ko,0,0,0,,나, 음악이라는 것은 마음이라고 생각해.
 Dialogue: 0,0:04:03.37,0:04:06.51,Default,en,0,0,0,,I think music represents spirit.
 Comment: 0,0:04:06.51,0:04:08.66,Default,ja,0,0,0,,あ、おせんちゃん！
-Dialogue: 0,0:04:06.51,0:04:08.66,Default,ko,0,0,0,,어, 센짱!
-Dialogue: 0,0:04:06.51,0:04:08.66,Default,en,0,0,0,,Hey, Sen-chan!
+Dialogue: 0,0:04:06.51,0:04:08.66,Default,ko,0,0,0,,어, 오센짱!
+Dialogue: 0,0:04:06.51,0:04:08.66,Default,en,0,0,0,,Hey, Osenchan!
 Comment: 0,0:04:10.68,0:04:12.82,Default,ja,0,0,0,,このたびの目的を忘れたのか！
 Dialogue: 0,0:04:10.68,0:04:12.82,Default,ko,0,0,0,,이 여행의 목적을 잊었나!
 Dialogue: 0,0:04:10.68,0:04:12.82,Default,en,0,0,0,,Did you forget why are we on the trip?
@@ -187,8 +187,8 @@ Comment: 0,0:04:39.64,0:04:43.65,Default,ja,0,0,0,,オニヒメに伝えよう�
 Dialogue: 0,0:04:39.64,0:04:43.65,Default,ko,0,0,0,,오니히메에게 전달해라. 무사시, 코지로를 쓰러뜨리라고!
 Dialogue: 0,0:04:39.64,0:04:43.65,Default,en,0,0,0,,Let Onihime know that she will have to take Musashi and Kojirō down!
 Comment: 0,0:04:50.85,0:04:56.49,Default,ja,0,0,0,,あんな男のどこがいいんだすか！たく、おせんちゃんの気が知れないだス！なあ、コジロー？
-Dialogue: 0,0:04:50.85,0:04:56.49,Default,ko,0,0,0,,저런 남자의 뭐가 좋소! 정말 센짱은 알다가도 모르겠소! 안 그렇소, 코지로?
-Dialogue: 0,0:04:50.85,0:04:56.49,Default,en,0,0,0,,What's so good about such man-{\i1}dasu{\i0}?! I totally can't understand Sen-chan-{\i1}dasu{\i0}. Don't you agree, Kojirō?
+Dialogue: 0,0:04:50.85,0:04:56.49,Default,ko,0,0,0,,저런 남자의 뭐가 좋소! 정말 오센짱은 알다가도 모르겠소! 안 그렇소, 코지로?
+Dialogue: 0,0:04:50.85,0:04:56.49,Default,en,0,0,0,,What's so good about such man-{\i1}dasu{\i0}?! I totally can't understand Osenchan-{\i1}dasu{\i0}. Don't you agree, Kojirō?
 Comment: 0,0:04:57.85,0:05:00.12,Default,ja,0,0,0,,なあって言ってるのが聞こえないんだスか！
 Dialogue: 0,0:04:57.85,0:05:00.12,Default,ko,0,0,0,,안 그렇소라고 말하는 게 안 들리오?!
 Dialogue: 0,0:04:57.85,0:05:00.12,Default,en,0,0,0,,Don't you hear that I just asked you don't you agree-{\i1}dasu{\i0}?!
@@ -566,8 +566,8 @@ Comment: 0,0:13:41.32,0:13:44.71,Default,ja,0,0,0,,「ひかりのつけ」さ�
 Dialogue: 0,0:13:41.32,0:13:44.71,Default,ko,0,0,0,,??? 씨가 원하는 음악과는 전혀 다르긴 해도.
 Dialogue: 0,0:13:41.32,0:13:44.71,Default,en,0,0,0,,Mine is totally different from the music that ??? is looking for.
 Comment: 0,0:13:44.71,0:13:48.41,Default,ja,0,0,0,,うん、それはそれでいいんだよ。うまいじゃないか、おせんちゃん！
-Dialogue: 0,0:13:44.71,0:13:48.41,Default,ko,0,0,0,,으응, 그건 그걸로 괜찮아. 잘하잖아, 센짱?
-Dialogue: 0,0:13:44.71,0:13:48.41,Default,en,0,0,0,,Nah, it's all right. You're good at it anyway, Sen-chan.
+Dialogue: 0,0:13:44.71,0:13:48.41,Default,ko,0,0,0,,으응, 그건 그걸로 괜찮아. 잘하잖아, 오센짱?
+Dialogue: 0,0:13:44.71,0:13:48.41,Default,en,0,0,0,,Nah, it's all right. You're good at it anyway, Osenchan.
 Comment: 0,0:13:48.41,0:13:49.43,Default,ja,0,0,0,,本当？
 Dialogue: 0,0:13:48.41,0:13:49.43,Default,ko,0,0,0,,정말?
 Dialogue: 0,0:13:48.41,0:13:49.43,Default,en,0,0,0,,Really?
@@ -608,14 +608,14 @@ Comment: 0,0:14:38.94,0:14:42.84,Default,ja,0,0,0,,いずれにしろ。私た�
 Dialogue: 0,0:14:38.94,0:14:42.84,Default,ko,0,0,0,,어쨌든 우리 역할은 여기서 끝날지도 모르지.
 Dialogue: 0,0:14:38.94,0:14:42.84,Default,en,0,0,0,,Anyway, our duty might end right here.
 Comment: 0,0:14:42.84,0:14:47.66,Default,ja,0,0,0,,え？まさか、おせんちゃんがあの音楽野郎をお婿さんにするっていうんじゃ。。。
-Dialogue: 0,0:14:42.84,0:14:47.66,Default,ko,0,0,0,,에? 설마 센짱이 저 음악놈을 신랑으로 한다는 게...
-Dialogue: 0,0:14:42.84,0:14:47.66,Default,en,0,0,0,,Huh? Are you saying that Sen-chan is going to have that music guy as her husband...?
+Dialogue: 0,0:14:42.84,0:14:47.66,Default,ko,0,0,0,,에? 설마 오센짱이 저 음악놈을 신랑으로 한다는 게...
+Dialogue: 0,0:14:42.84,0:14:47.66,Default,en,0,0,0,,Huh? Are you saying that Osenchan is going to have that music guy as her husband...?
 Comment: 0,0:14:48.21,0:14:49.92,Default,ja,0,0,0,,その可能性十分だ。
 Dialogue: 0,0:14:48.21,0:14:49.92,Default,ko,0,0,0,,그럴 가능성도 충분하지.
 Dialogue: 0,0:14:48.21,0:14:49.92,Default,en,0,0,0,,That's possible.
 Comment: 0,0:14:50.37,0:14:55.36,Default,ja,0,0,0,,そんな馬鹿な！いくらなんだっておせんちゃんがあんな武芸者でもない男と。。。
-Dialogue: 0,0:14:50.37,0:14:55.36,Default,ko,0,0,0,,무슨 말을! 뭐가 뭐래도 센짱이 저런 무예가가 아닌 남자하고...
-Dialogue: 0,0:14:50.37,0:14:55.36,Default,en,0,0,0,,Impossible! No matter what, Sen-chan wouldn't do that with someone who's not a martial artist!
+Dialogue: 0,0:14:50.37,0:14:55.36,Default,ko,0,0,0,,무슨 말을! 뭐가 뭐래도 오센짱이 저런 무예가가 아닌 남자하고...
+Dialogue: 0,0:14:50.37,0:14:55.36,Default,en,0,0,0,,Impossible! No matter what, Osenchan wouldn't do that with someone who's not a martial artist!
 Comment: 0,0:14:55.77,0:15:01.78,Default,ja,0,0,0,,だからこそ、しんせんそう感じたと思いえる。女の子ろとはそういうもんだ。
 Dialogue: 0,0:14:55.77,0:15:01.78,Default,ko,0,0,0,,그러니까말로, 신선한 느낌이기는 하지. 여자란 그런 것이다.
 Dialogue: 0,0:14:55.77,0:15:01.78,Default,en,0,0,0,,That's why I agree that it's a fresh idea for her. That's how girls are.
@@ -795,8 +795,8 @@ Comment: 0,0:19:14.50,0:19:15.46,Default,ja,0,0,0,,突きあり！
 Dialogue: 0,0:19:14.50,0:19:15.46,Default,ko,0,0,0,37-20,빈틈이다!
 Dialogue: 0,0:19:14.50,0:19:15.46,Default,en,0,0,0,37-20,Chink in the armor!
 Comment: 0,0:19:21.88,0:19:22.90,Default,ja,0,0,0,,おせんちゃん！
-Dialogue: 0,0:19:21.88,0:19:22.90,Default,ko,0,0,0,37-21,센짱!
-Dialogue: 0,0:19:21.88,0:19:22.90,Default,en,0,0,0,37-21,Sen-chan!
+Dialogue: 0,0:19:21.88,0:19:22.90,Default,ko,0,0,0,37-21,오센짱!
+Dialogue: 0,0:19:21.88,0:19:22.90,Default,en,0,0,0,37-21,Osenchan!
 Comment: 0,0:19:25.18,0:19:27.58,Default,ja,0,0,0,,助けて！
 Dialogue: 0,0:19:25.18,0:19:27.58,Default,ko,0,0,0,37-22,살려줘!
 Dialogue: 0,0:19:25.18,0:19:27.58,Default,en,0,0,0,37-22,Help me!

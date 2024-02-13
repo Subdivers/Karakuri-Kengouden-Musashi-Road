@@ -16,9 +16,9 @@ Video File: ../Videos/14.mp4
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 611
-Active Line: 629
-Video Position: 35020
+Scroll Position: 551
+Active Line: 579
+Video Position: 30618
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -532,45 +532,39 @@ Dialogue: 0,0:19:07.12,0:19:09.63,Default,en,0,0,0,,Alright. I'll get you a meal
 Comment: 0,0:19:13.30,0:19:14.21,Default,ja,0,0,0,,おいしいだス。
 Dialogue: 0,0:19:13.30,0:19:14.21,Default,ko,0,0,0,,맛있소!
 Dialogue: 0,0:19:13.30,0:19:14.21,Default,en,0,0,0,,It's so good-{\i1}dasu{\i0}!
-Comment: 0,0:19:17.12,0:19:18.30,Default,ja,0,0,0,,ところでムサシどの。
-Dialogue: 0,0:19:17.12,0:19:18.30,Default,ko,0,0,0,,그런데 무사시 님.
-Dialogue: 0,0:19:17.12,0:19:18.30,Default,en,0,0,0,,By the way, Musashi...
-Comment: 0,0:19:18.93,0:19:21.30,Default,ja,0,0,0,,その豆を一本の箸で撮めるかな？
-Dialogue: 0,0:19:18.93,0:19:21.30,Default,ko,0,0,0,,그 콩을 젓가락 하나로 집을 수 있을까요?
-Dialogue: 0,0:19:18.93,0:19:21.30,Default,en,0,0,0,,Can you pick one of those beans with one chopstick?
-Comment: 0,0:19:22.53,0:19:23.44,Default,ja,0,0,0,,一本で？
-Dialogue: 0,0:19:22.53,0:19:23.44,Default,ko,0,0,0,,하나로?
-Dialogue: 0,0:19:22.53,0:19:23.44,Default,en,0,0,0,,One?
-Comment: 0,0:19:26.27,0:19:28.48,Default,ja,0,0,0,,お箸一本なんて無理だスよ。。。
-Dialogue: 0,0:19:26.27,0:19:28.48,Default,ko,0,0,0,,젓가락 하나로는 무리이오.
-Dialogue: 0,0:19:26.27,0:19:28.48,Default,en,0,0,0,,It's impossible with only one chopstick-{\i1}dasu{\i0}!
-Comment: 0,0:19:28.76,0:19:30.22,Default,ja,0,0,0,,では二本ならどうです。
-Dialogue: 0,0:19:28.76,0:19:30.22,Default,ko,0,0,0,,그럼 둘이라면 어떻습니까.
-Dialogue: 0,0:19:28.76,0:19:30.22,Default,en,0,0,0,,Then, how is it using two?
-Comment: 0,0:19:32.15,0:19:33.69,Default,ja,0,0,0,,これなら楽々だす。
-Dialogue: 0,0:19:32.15,0:19:33.69,Default,ko,0,0,0,,이거라면 쉽소.
-Dialogue: 0,0:19:32.15,0:19:33.69,Default,en,0,0,0,,This is easy-{\i1}dasu{\i0}.
-Comment: 0,0:19:36.62,0:19:37.86,Default,ja,0,0,0,,そういうわけです
-Dialogue: 0,0:19:36.62,0:19:37.86,Default,ko,0,0,0,,그런 것입니다.
-Dialogue: 0,0:19:36.62,0:19:37.86,Default,en,0,0,0,,That's how it is.
-Comment: 0,0:19:38.04,0:19:38.93,Default,ja,0,0,0,,そういうわけ？
-Dialogue: 0,0:19:38.04,0:19:38.93,Default,ko,0,0,0,,그런 것?
-Dialogue: 0,0:19:38.04,0:19:38.93,Default,en,0,0,0,,That's how it is?
-Comment: 0,0:19:40.12,0:19:43.18,Default,ja,0,0,0,,コジローどのに燕返しの必見がありと言えども、
-Dialogue: 0,0:19:40.12,0:19:43.18,Default,ko,0,0,0,,코지로 님에게 츠바메가에시라는 비검이 있다고 해도,
-Dialogue: 0,0:19:40.12,0:19:43.18,Default,en,0,0,0,,Kojirō may have a secret sword named Tsubamegaeshi,
-Comment: 0,0:19:43.48,0:19:45.02,Default,ja,0,0,0,,その刀は一本。
-Dialogue: 0,0:19:43.48,0:19:45.02,Default,ko,0,0,0,,그 칼은 하나.
-Dialogue: 0,0:19:43.48,0:19:45.02,Default,en,0,0,0,,but only one sword is used.
-Comment: 0,0:19:47.50,0:19:48.77,Default,ja,0,0,0,,刀は日本がある！
-Dialogue: 0,0:19:47.50,0:19:48.77,Default,ko,0,0,0,,칼은 둘이 있다!
-Dialogue: 0,0:19:47.50,0:19:48.77,Default,en,0,0,0,,You have two swords!
-Comment: 0,0:19:51.33,0:19:52.57,Default,ja,0,0,0,,二刀流。。。
-Dialogue: 0,0:19:51.33,0:19:52.57,Default,ko,0,0,0,,이도류...
-Dialogue: 0,0:19:51.33,0:19:52.57,Default,en,0,0,0,,Dual blade...
-Comment: 0,0:19:53.12,0:19:55.80,Default,ja,0,0,0,,いつぞや偶然に見せた二刀流の使い方。。
-Dialogue: 0,0:19:53.12,0:19:55.80,Default,ko,0,0,0,,언젠가 우연히 보여주신 이도류의 기술.
-Dialogue: 0,0:19:53.12,0:19:55.80,Default,en,0,0,0,,You have showed me the technique of using dual blades before.
+Comment: 0,0:19:17.12,0:19:21.30,Default,ja;L1917,0,0,0,,ところでムサシどの。その豆を一本の箸で撮めるかな？
+Dialogue: 0,0:19:17.12,0:19:21.30,Default,ko;L1917,0,0,0,,그런데 무사시 님. 그 콩을 젓가락 하나로 집을 수 있을까요?
+Dialogue: 0,0:19:17.12,0:19:21.30,Default,en;L1917,0,0,0,,By the way, Musashi. Can you pick one of those beans with one chopstick?
+Comment: 0,0:19:21.56,0:19:23.44,Default,ja;L1921,0,0,0,,え？一本で?
+Dialogue: 0,0:19:21.56,0:19:23.44,Default,ko;L1921,0,0,0,,어? 하나로?
+Dialogue: 0,0:19:21.56,0:19:23.44,Default,en;L1921,0,0,0,,Huh? Using only one?
+Comment: 0,0:19:26.27,0:19:28.48,Default,ja;L1926,0,0,0,,お箸一本なんて無理だスよ。。。
+Dialogue: 0,0:19:26.27,0:19:28.48,Default,ko;L1926,0,0,0,,젓가락 하나로는 무리이오.
+Dialogue: 0,0:19:26.27,0:19:28.48,Default,en;L1926,0,0,0,,It's impossible with only one chopstick-{\i1}dasu{\i0}!
+Comment: 0,0:19:28.76,0:19:30.22,Default,ja;L1928,0,0,0,,では二本ならどうです。
+Dialogue: 0,0:19:28.76,0:19:30.22,Default,ko;L1928,0,0,0,,그럼 둘이라면 어떻습니까.
+Dialogue: 0,0:19:28.76,0:19:30.22,Default,en;L1928,0,0,0,,Then, how is it using two?
+Comment: 0,0:19:32.15,0:19:33.69,Default,ja;L1932,0,0,0,,これなら楽々だす。
+Dialogue: 0,0:19:32.15,0:19:33.69,Default,ko;L1932,0,0,0,,이거라면 쉽소.
+Dialogue: 0,0:19:32.15,0:19:33.69,Default,en;L1932,0,0,0,,This is easy-{\i1}dasu{\i0}.
+Comment: 0,0:19:36.62,0:19:37.86,Default,ja;L1936,0,0,0,,そういうわけです
+Dialogue: 0,0:19:36.62,0:19:37.86,Default,ko;L1936,0,0,0,,그런 것입니다.
+Dialogue: 0,0:19:36.62,0:19:37.86,Default,en;L1936,0,0,0,,That's how it is.
+Comment: 0,0:19:38.04,0:19:38.93,Default,ja;L1938,0,0,0,,そういうわけ？
+Dialogue: 0,0:19:38.04,0:19:38.93,Default,ko;L1938,0,0,0,,그런 것?
+Dialogue: 0,0:19:38.04,0:19:38.93,Default,en;L1938,0,0,0,,That's how it is?
+Comment: 0,0:19:40.12,0:19:45.02,Default,ja;L1940,0,0,0,,コジローどのに燕返しの必見がありと言えども、その刀は一本。
+Dialogue: 0,0:19:40.12,0:19:45.02,Default,ko;L1940,0,0,0,,코지로 님에게 츠바메가에시라는 비검이 있다고 해도, 그 칼은 하나.
+Dialogue: 0,0:19:40.12,0:19:45.02,Default,en;L1940,0,0,0,,Kojirō may have a secret sword named Tsubamegaeshi, but only one sword is used.
+Comment: 0,0:19:47.50,0:19:48.77,Default,ja;L1947,0,0,0,,刀は日本がある！
+Dialogue: 0,0:19:47.50,0:19:48.77,Default,ko;L1947,0,0,0,,칼은 둘이 있다!
+Dialogue: 0,0:19:47.50,0:19:48.77,Default,en;L1947,0,0,0,,You have two swords!
+Comment: 0,0:19:51.33,0:19:52.57,Default,ja;L1951,0,0,0,,二刀流。。。
+Dialogue: 0,0:19:51.33,0:19:52.57,Default,ko;L1951,0,0,0,,이도류...
+Dialogue: 0,0:19:51.33,0:19:52.57,Default,en;L1951,0,0,0,,Dual blade...
+Comment: 0,0:19:53.12,0:19:55.80,Default,ja;L1953,0,0,0,,いつぞや偶然に見せた二刀流の使い方。。
+Dialogue: 0,0:19:53.12,0:19:55.80,Default,ko;L1953,0,0,0,,언젠가 우연히 보여주신 이도류의 기술.
+Dialogue: 0,0:19:53.12,0:19:55.80,Default,en;L1953,0,0,0,,You have showed me the technique of using dual blades before.
 Comment: 0,0:19:56.21,0:19:57.55,Default,ja,0,0,0,,あれを工夫すれば。。。
 Dialogue: 0,0:19:56.21,0:19:57.55,Default,ko,0,0,0,,그걸 공부한다면...
 Dialogue: 0,0:19:56.21,0:19:57.55,Default,en,0,0,0,,If you explore further...
@@ -586,43 +580,43 @@ Dialogue: 0,0:20:46.73,0:20:48.90,Default,12!L1903,0,0,0,,{\i1}何とか切り�
 Comment: 0,0:21:06.32,0:21:10.79,Default,ja,0,0,0,,その時、偶然見せたのが二刀流であった。
 Dialogue: 0,0:21:06.32,0:21:10.79,Default,ko,0,0,0,,그 때, 우연히 보여준 것이 이도류였다.
 Dialogue: 0,0:21:06.32,0:21:10.79,Default,en,0,0,0,,What he showed us back then is the technique of dual blades.
-Comment: 0,0:21:11.91,0:21:16.46,Default,ja,0,0,0,,あの構えを工夫すれば天下無双の武芸者となれるかもしれぬ。
-Dialogue: 0,0:21:11.91,0:21:16.46,Default,ko,0,0,0,,그 자세를 공부한다면 천하무적의 무예가가 될 지도 모릅니다.
-Dialogue: 0,0:21:11.91,0:21:16.46,Default,en,0,0,0,,If you build upon that posture, you might become the matchless martial artist as well.
-Comment: 0,0:21:17.22,0:21:19.55,Default,ja,0,0,0,,二刀流を工夫するのだスか！
-Dialogue: 0,0:21:17.22,0:21:19.55,Default,ko,0,0,0,,이도류를 공부하는 것이겠소!
-Dialogue: 0,0:21:17.22,0:21:19.55,Default,en,0,0,0,,So I should study dual blades-{\i1}dasu{\i0}!
-Comment: 0,0:21:20.19,0:21:26.99,Default,ja,0,0,0,,コジローどのと共に旅を続けながら己の剣も修行し、二刀流を完成させて見てはどうかな。
-Dialogue: 0,0:21:20.19,0:21:26.99,Default,ko,0,0,0,,코지로 님과 함께 여행하면서 자신의 검술을 수련하며 이도류를 완성하는 건 어떨지요.
-Dialogue: 0,0:21:20.19,0:21:26.99,Default,en,0,0,0,,I suggest you to develop your technique of dual blades to perfection on the journey with Kojirō.
-Comment: 0,0:21:27.32,0:21:34.37,Default,ja,0,0,0,,分かったでござるだス。おいら、きっと、二刀流を工夫して宿命のライバル、コジローを倒すだス。
-Dialogue: 0,0:21:27.32,0:21:34.37,Default,ko,0,0,0,,알겠소. 나, 꼭 이도류를 공부해서 숙명의 라이벌, 코지로를 쓰러뜨리겠소!
-Dialogue: 0,0:21:27.32,0:21:34.37,Default,en,0,0,0,,Understood-{\i1}dasu{\i0}. I will take Kojirō down by studying the technique of dual blade-{\i1}dasu{\i0}!
-Comment: 0,0:21:35.04,0:21:39.40,Default,ja,0,0,0,,二刀流を完成させた暁は、この怪物を退治することです。
-Dialogue: 0,0:21:35.04,0:21:39.40,Default,ko,0,0,0,,이도류를 완성한 새벽녘에는 이 괴물을 퇴치하십시오.
-Dialogue: 0,0:21:35.04,0:21:39.40,Default,en,0,0,0,,Once you develop the technique of dual blade, you will eliminate these monsters.
+Comment: 0,0:21:11.91,0:21:16.46,Default,ja;L2111,0,0,0,,あの構えを工夫すれば天下無双の武芸者となれるかもしれぬ。
+Dialogue: 0,0:21:11.91,0:21:16.46,Default,ko;L2111,0,0,0,,그 자세를 공부한다면 천하무적의 무예가가 될 지도 모릅니다.
+Dialogue: 0,0:21:11.91,0:21:16.46,Default,en;L2111,0,0,0,,If you build upon that posture, you might become the matchless martial artist as well.
+Comment: 0,0:21:17.22,0:21:19.55,Default,ja;L2117,0,0,0,,二刀流を工夫するのだスか！
+Dialogue: 0,0:21:17.22,0:21:19.55,Default,ko;L2117,0,0,0,,이도류를 공부하는 것이겠소!
+Dialogue: 0,0:21:17.22,0:21:19.55,Default,en;L2117,0,0,0,,So I should study dual blades-{\i1}dasu{\i0}!
+Comment: 0,0:21:20.19,0:21:26.99,Default,ja;L2120,0,0,0,,コジローどのと共に旅を続けながら己の剣も修行し、二刀流を完成させて見てはどうかな。
+Dialogue: 0,0:21:20.19,0:21:26.99,Default,ko;L2120,0,0,0,,코지로 님과 함께 여행하면서 자신의 검술을 수련하며 이도류를 완성하는 건 어떨지요.
+Dialogue: 0,0:21:20.19,0:21:26.99,Default,en;L2120,0,0,0,,I suggest you to develop your technique of dual blades to perfection on the journey with Kojirō.
+Comment: 0,0:21:27.32,0:21:34.37,Default,ja;L2127,0,0,0,,分かったでござるだス。おいら、きっと、二刀流を工夫して宿命のライバル、コジローを倒すだス。
+Dialogue: 0,0:21:27.32,0:21:34.37,Default,ko;L2127,0,0,0,,알겠소. 나, 꼭 이도류를 공부해서 숙명의 라이벌, 코지로를 쓰러뜨리겠소!
+Dialogue: 0,0:21:27.32,0:21:34.37,Default,en;L2127,0,0,0,,Understood-{\i1}dasu{\i0}. I will take Kojirō down by studying the technique of dual blade-{\i1}dasu{\i0}!
+Comment: 0,0:21:35.04,0:21:39.40,Default,ja;L2135,0,0,0,,二刀流を完成させた暁は、この怪物を退治することです。
+Dialogue: 0,0:21:35.04,0:21:39.40,Default,ko;L2135,0,0,0,,이도류를 완성한 새벽녘에는 이 괴물을 퇴치하십시오.
+Dialogue: 0,0:21:35.04,0:21:39.40,Default,en;L2135,0,0,0,,Once you develop the technique of dual blade, you will eliminate these monsters.
 Comment: 0,0:21:40.78,0:21:42.06,Default,ja,0,0,0,,ヤマタノオロチ？
 Dialogue: 0,0:21:40.78,0:21:42.06,Default,ko,0,0,0,,야마타노오로치?
 Dialogue: 0,0:21:40.78,0:21:42.06,Default,en,0,0,0,,{\i1}Yamata no Orochi{\i0}?
 Comment: 0,0:21:42.39,0:21:43.61,Default,ja,0,0,0,,土蜘蛛？
 Dialogue: 0,0:21:42.39,0:21:43.61,Default,ko,0,0,0,,츠치구모?
 Dialogue: 0,0:21:42.39,0:21:43.61,Default,en,0,0,0,,{\i1}Tsuchigumo{\i0}?
-Comment: 0,0:21:44.19,0:21:50.50,Default,ja,0,0,0,,その怪物が神代の頃より名刀、天空丸、天地丸を守っていると伝えらています。
-Dialogue: 0,0:21:44.19,0:21:50.50,Default,ko,0,0,0,,신이 다스리던 시대부터 명도 천공환, 천지환을 지키고 있다고 전해지는 괴물입니다.
+Comment: 0,0:21:44.19,0:21:50.50,Default,ja;L2144,0,0,0,,その怪物が神代の頃より名刀、天空丸、天地丸を守っていると伝えらています。
+Dialogue: 0,0:21:44.19,0:21:50.50,Default,ko;L2144,0,0,0,,신이 다스리던 시대부터 명도 천공환, 천지환을 지키고 있다고 전해지는 괴물입니다.
+Dialogue: 0,0:21:44.19,0:21:50.50,Default,en;L2144,0,0,0,,They are monsters that are told to be protecting the sacred swords named Tenkūmaru and Tenchimaru.
 Dialogue: 0,0:21:44.19,0:21:50.50,Note,en,0,0,0,,(Tenkūmaru: Sword of the sky, Tenchimaru: Sword of the world)
-Dialogue: 0,0:21:44.19,0:21:50.50,Default,en,0,0,0,,They are monsters that are told to be protecting the sacred swords named Tenkūmaru and Tenchimaru.
-Comment: 0,0:21:52.60,0:21:56.39,Default,ja,0,0,0,,この怪物を退治すればその名刀が手に入るだスな！
-Dialogue: 0,0:21:52.60,0:21:56.39,Default,ko,0,0,0,,그 괴물을 퇴치하면 그 명도가 손에 들어오는 것이오!
-Dialogue: 0,0:21:52.60,0:21:56.39,Default,en,0,0,0,,So by getting rid of those monsters, I will claim those excellent swords-{\i1}dasu{\i0}!
-Comment: 0,0:21:57.79,0:22:01.81,Default,ja,0,0,0,,その時こそムサシどのは天下一の剣豪となることでしょう。
-Dialogue: 0,0:21:57.79,0:22:01.81,Default,ko,0,0,0,,그 때야말로 무사시 님은 천하제일의 검호가 되겠죠.
-Dialogue: 0,0:21:57.79,0:22:01.81,Default,en,0,0,0,,When that time comes, Musashi, you'll become the best of the best swordsmen around the world.
-Comment: 0,0:22:02.33,0:22:04.51,Default,ja,0,0,0,,ジュウベエさん、ありがとうだス！
-Dialogue: 0,0:22:02.33,0:22:04.51,Default,ko,0,0,0,,주베 씨, 감사하오!
-Dialogue: 0,0:22:02.33,0:22:04.51,Default,en,0,0,0,,Thank you so much-{\i1}dasu{\i0}, Jūbee!
-Comment: 0,0:22:06.13,0:22:07.80,Default,ja,0,0,0,,おいら、目一杯やるだス！
-Dialogue: 0,0:22:06.13,0:22:07.80,Default,ko,0,0,0,,나, 힘껏 해 보겠소!
-Dialogue: 0,0:22:06.13,0:22:07.80,Default,en,0,0,0,,I'll do that with all my might!
+Comment: 0,0:21:52.60,0:21:56.39,Default,ja;L2152,0,0,0,,この怪物を退治すればその名刀が手に入るだスな！
+Dialogue: 0,0:21:52.60,0:21:56.39,Default,ko;L2152,0,0,0,,그 괴물을 퇴치하면 그 명도가 손에 들어오는 것이오!
+Dialogue: 0,0:21:52.60,0:21:56.39,Default,en;L2152,0,0,0,,So by getting rid of those monsters, I will claim those excellent swords-{\i1}dasu{\i0}!
+Comment: 0,0:21:57.79,0:22:01.81,Default,ja;L2157,0,0,0,,その時こそムサシどのは天下一の剣豪となることでしょう。
+Dialogue: 0,0:21:57.79,0:22:01.81,Default,ko;L2157,0,0,0,,그 때야말로 무사시 님은 천하제일의 검호가 되겠죠.
+Dialogue: 0,0:21:57.79,0:22:01.81,Default,en;L2157,0,0,0,,When that time comes, Musashi, you'll become the best of the best swordsmen around the world.
+Comment: 0,0:22:02.33,0:22:04.51,Default,ja;L2202,0,0,0,,ジュウベエさん、ありがとうだス！
+Dialogue: 0,0:22:02.33,0:22:04.51,Default,ko;L2202,0,0,0,,주베 씨, 감사하오!
+Dialogue: 0,0:22:02.33,0:22:04.51,Default,en;L2202,0,0,0,,Thank you so much-{\i1}dasu{\i0}, Jūbee!
+Comment: 0,0:22:06.13,0:22:07.80,Default,ja;L2206,0,0,0,,おいら、目一杯やるだス！
+Dialogue: 0,0:22:06.13,0:22:07.80,Default,ko;L2206,0,0,0,,나, 힘껏 해 보겠소!
+Dialogue: 0,0:22:06.13,0:22:07.80,Default,en;L2206,0,0,0,,I'll do that with all my might!
 Comment: 0,0:22:09.80,0:22:14.71,Default,ja,0,0,0,,これがnosiniムサシの二天一流開眼のヒントとなるのだが、
 Dialogue: 0,0:22:09.80,0:22:14.71,Default,ko,0,0,0,,이것이 바로 무사시의 이천일류 개안의 힌트가 되긴 했지만
 Dialogue: 0,0:22:09.80,0:22:14.71,Default,en,0,0,0,,This is the hint to Musashi's realization of Niten'ichiryū,
