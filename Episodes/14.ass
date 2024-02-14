@@ -17,8 +17,8 @@ Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
 Scroll Position: 551
-Active Line: 579
-Video Position: 30618
+Active Line: 565
+Video Position: 31213
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -595,12 +595,12 @@ Dialogue: 0,0:21:27.32,0:21:34.37,Default,en;L2127,0,0,0,,Understood-{\i1}dasu{\
 Comment: 0,0:21:35.04,0:21:39.40,Default,ja;L2135,0,0,0,,二刀流を完成させた暁は、この怪物を退治することです。
 Dialogue: 0,0:21:35.04,0:21:39.40,Default,ko;L2135,0,0,0,,이도류를 완성한 새벽녘에는 이 괴물을 퇴치하십시오.
 Dialogue: 0,0:21:35.04,0:21:39.40,Default,en;L2135,0,0,0,,Once you develop the technique of dual blade, you will eliminate these monsters.
-Comment: 0,0:21:40.78,0:21:42.06,Default,ja,0,0,0,,ヤマタノオロチ？
-Dialogue: 0,0:21:40.78,0:21:42.06,Default,ko,0,0,0,,야마타노오로치?
-Dialogue: 0,0:21:40.78,0:21:42.06,Default,en,0,0,0,,{\i1}Yamata no Orochi{\i0}?
-Comment: 0,0:21:42.39,0:21:43.61,Default,ja,0,0,0,,土蜘蛛？
-Dialogue: 0,0:21:42.39,0:21:43.61,Default,ko,0,0,0,,츠치구모?
-Dialogue: 0,0:21:42.39,0:21:43.61,Default,en,0,0,0,,{\i1}Tsuchigumo{\i0}?
+Comment: 0,0:21:40.78,0:21:42.06,Default,ja;L2140,0,0,0,,ヤマタノオロチ？
+Dialogue: 0,0:21:40.78,0:21:42.06,Default,ko;L2140,0,0,0,,야마타노오로치?
+Dialogue: 0,0:21:40.78,0:21:42.06,Default,en;L2140,0,0,0,,Yamata no Orochi?
+Comment: 0,0:21:42.39,0:21:43.61,Default,ja;L2142,0,0,0,,土蜘蛛？
+Dialogue: 0,0:21:42.39,0:21:43.61,Default,ko;L2142,0,0,0,,츠치구모?
+Dialogue: 0,0:21:42.39,0:21:43.61,Default,en;L2142,0,0,0,,Tsuchigumo?
 Comment: 0,0:21:44.19,0:21:50.50,Default,ja;L2144,0,0,0,,その怪物が神代の頃より名刀、天空丸、天地丸を守っていると伝えらています。
 Dialogue: 0,0:21:44.19,0:21:50.50,Default,ko;L2144,0,0,0,,신이 다스리던 시대부터 명도 천공환, 천지환을 지키고 있다고 전해지는 괴물입니다.
 Dialogue: 0,0:21:44.19,0:21:50.50,Default,en;L2144,0,0,0,,They are monsters that are told to be protecting the sacred swords named Tenkūmaru and Tenchimaru.
