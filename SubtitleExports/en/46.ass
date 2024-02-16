@@ -1,0 +1,316 @@
+﻿[Script Info]
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 480
+Title: Big Laughter Octopus Dance Strategy
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: NoteOnAnime,Candara,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,10,1
+Style: SongOP,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: TitleOP,DejaVu Serif,42,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: TitleEP,DejaVu Serif,42,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: SongED1,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: Note,Candara,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,10,10,10,1
+Style: Eyecatch,Candara,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,10,10,10,1
+Style: NoteOnAnimeVert,@맑은 고딕,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,10,1
+Style: InsOtsuru,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.42,0:00:06.58,Default,en,0,0,0,,It is the turbulent Sengoku period.
+Dialogue: 0,0:00:07.12,0:00:11.53,Default,en,0,0,0,,Warlords keep on fighting day and night over\NJipangu State, where Karakuri people live.
+Dialogue: 0,0:00:11.88,0:00:16.24,Default,en,0,0,0,,Karakuri martial artists were sharpening their swords, dreaming of victory and honor.
+Dialogue: 0,0:00:16.87,0:00:23.19,Default,en,0,0,0,,And now, a wild hero has arrived, seeking to be the number one Karakuri martial artist!
+Dialogue: 0,0:00:24.48,0:00:26.91,Default,en,0,0,0,,Musashi is here-{\i1}dasu{\i0}!
+Dialogue: 0,0:00:27.90,0:00:33.24,TitleOP,en,0,0,40,,{\an8\fs32\fade(770,0)}Karakuri Kengouden
+Dialogue: 0,0:00:27.90,0:00:33.24,TitleOP,en,0,0,40,,{\fade(770,0)}Musashi Road
+Dialogue: 0,0:00:27.90,0:00:33.24,TitleOP,en,0,0,40,,{\fs24\fade(770,0)}(The Story of {\i1}Karakuri{\i0} Martial Artist: Road of Musashi)
+Dialogue: 0,0:00:33.24,0:00:38.08,SongOP,en,0,0,0,,A man always dreams of the day
+Dialogue: 0,0:00:38.91,0:00:41.83,SongOP,en,0,0,0,,in the center of the world to become
+Dialogue: 0,0:00:41.83,0:00:44.71,SongOP,en,0,0,0,,AH! AH! the strongest
+Dialogue: 0,0:00:44.71,0:00:49.76,SongOP,en,0,0,0,,Raise the sword of your heart high to the wide sky
+Dialogue: 0,0:00:50.38,0:00:54.39,SongOP,en,0,0,0,,Raise the curtain to the road of adventure
+Dialogue: 0,0:00:55.72,0:01:00.98,SongOP,en,0,0,0,,A skilled swordsman roams on Jipangu State
+Dialogue: 0,0:01:01.56,0:01:06.61,SongOP,en,0,0,0,,His name is Musashi, a Karakuri man
+Dialogue: 0,0:01:06.61,0:01:08.11,SongOP,en,0,0,0,,Go! Fight!
+Dialogue: 0,0:01:08.11,0:01:11.03,SongOP,en,0,0,0,,The sound of fierce duels
+Dialogue: 0,0:01:11.03,0:01:13.87,SongOP,en,0,0,0,,makes life dazzling
+Dialogue: 0,0:01:13.87,0:01:19.33,SongOP,en,0,0,0,,Battles of yesterdays make you stronger today
+Dialogue: 0,0:01:19.37,0:01:25.59,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
+Dialogue: 0,0:01:25.59,0:01:28.47,SongOP,en,0,0,0,,Tomorrow will be glorious
+Dialogue: 0,0:01:28.47,0:01:31.05,SongOP,en,0,0,0,,The sound of fierce duels
+Dialogue: 0,0:01:31.05,0:01:33.55,SongOP,en,0,0,0,,makes life dazzling
+Dialogue: 0,0:01:34.26,0:01:39.64,SongOP,en,0,0,0,,Fight the utmost with the stillness
+Dialogue: 0,0:01:39.69,0:01:45.90,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
+Dialogue: 0,0:01:45.90,0:01:51.11,SongOP,en,0,0,0,,His eyes shined! Musashi!
+Dialogue: 0,0:02:00.45,0:02:08.45,Default,en,0,0,0,,After making a perverted inventor Gennai make a submarine, Musashi and others search the sea, and found Megaton Castle.
+Dialogue: 0,0:02:08.99,0:02:11.92,Default,en,0,0,0,,With a determination, Musashi and others got in to rage.
+Dialogue: 0,0:02:12.36,0:02:17.93,Default,en,0,0,0,,They damaged Megaton Castle, but also destroyed was their submarine.
+Dialogue: 0,0:02:18.34,0:02:23.35,TitleEP,en,0,0,220,,Big Laughter
+Dialogue: 0,0:02:18.34,0:02:23.35,TitleEP,en,0,0,85,,Octopus Dance Strategy
+Dialogue: 0,0:02:29.68,0:02:34.76,Default,en,0,0,0,,After repairing the submarine, Musashi and others were looking for Nobunaga's base.
+Dialogue: 0,0:02:43.14,0:02:45.57,Default,en,0,0,0,,I don't feel so good. I'm seasick.
+Dialogue: 0,0:02:46.34,0:02:50.57,Default,en,0,0,0,,Mr. Gennai, they say seasickness will be gone if you lick your own nose-{\i1}dasu{\i0}!
+Dialogue: 0,0:02:51.16,0:02:52.35,Default,en,0,0,0,,Yeah, right!
+Dialogue: 0,0:02:52.35,0:02:59.51,Default,en,0,0,0,,No, Musashi! How dare you get me ride onto this thing!? I don't know what will happen if we don't go up now!
+Dialogue: 0,0:03:00.05,0:03:03.99,Default,en,0,0,0,,You made this-{\i1}dasu{\i0}! You should be more confident with what you made-{\i1}dasu{\i0}!
+Dialogue: 0,0:03:04.20,0:03:07.42,Default,en,0,0,0,,I can't trust this thing because I made this!
+Dialogue: 0,0:03:10.48,0:03:12.02,Default,en,0,0,0,,Huh? Jiraiyan!
+Dialogue: 0,0:03:12.55,0:03:15.12,Default,en,0,0,0,,Heya! There's nothing over here!
+Dialogue: 0,0:03:15.62,0:03:20.09,Default,en,0,0,0,,There should be their base somewhere in this wide sea...
+Dialogue: 0,0:03:21.00,0:03:23.34,Default,en,0,0,0,,Hey! I'll go find over there!
+Dialogue: 0,0:03:23.77,0:03:27.24,Default,en,0,0,0,,Just hurry up. Hurry up to the grounds.
+Dialogue: 0,0:03:27.75,0:03:32.52,Default,en,0,0,0,,Mr. Gennai, is there somewhere else than this place where the enemy's base is likely to be at?
+Dialogue: 0,0:03:32.52,0:03:36.82,Default,en,0,0,0,,There's no way for me to know that. Just go back to the grounds!
+Dialogue: 0,0:03:37.41,0:03:45.11,Default,en,0,0,0,,Mr. Kojirō. We've been underwater more than 3 hours. Maybe it's best for us to take a rest around here.
+Dialogue: 0,0:03:45.11,0:03:46.99,Default,en,0,0,0,,Agreed.
+Dialogue: 0,0:03:46.99,0:03:50.56,Default,en,0,0,0,,You're right. Even if we hurry, the sea is too wide.
+Dialogue: 0,0:03:57.35,0:03:58.29,Default,en,0,0,0,,Just a moment-{\i1}dasu{\i0}!
+Dialogue: 0,0:03:58.72,0:03:59.98,Default,en,0,0,0,,What's wrong, Mr. Musashi?
+Dialogue: 0,0:04:00.59,0:04:01.78,Default,en,0,0,0,,What's that-{\i1}dasu{\i0}?
+Dialogue: 0,0:04:08.01,0:04:09.65,Default,en,0,0,0,,-Mr. Kojirō.\N-Roger.
+Dialogue: 0,0:04:27.17,0:04:28.03,Default,en,0,0,0,,L- look!
+Dialogue: 0,0:04:28.80,0:04:31.81,Default,en,0,0,0,,This must be Nobunaga's hideout.
+Dialogue: 0,0:04:31.81,0:04:33.85,Default,en,0,0,0,,We finally found it-{\i1}dasu{\i0}!
+Dialogue: 0,0:04:34.72,0:04:37.69,Default,en,0,0,0,,But still, how did they built a base this big here?
+Dialogue: 0,0:04:38.70,0:04:42.40,Default,en,0,0,0,,That Nobunaga guy must be having a power that we do not know about.
+Dialogue: 0,0:04:43.61,0:04:51.04,Default,en,0,0,0,,Their base is big, but so what-{\i1}dasu{\i0}? It's a base of a coward-{\i1}dasu{\i0}. The victory depends on big guts-{\i1}dasu{\i0}!
+Dialogue: 0,0:04:51.34,0:04:54.95,Default,en,0,0,0,,-Oh?\N-Good job, Mr. Musashi. Well said.
+Dialogue: 0,0:04:58.70,0:04:59.70,Default,en,0,0,0,,Torpedo-{\i1}dasu{\i0}!
+Dialogue: 0,0:05:09.24,0:05:11.84,Default,en,0,0,0,,There are holes in the ship-{\i1}dasu{\i0}!
+Dialogue: 0,0:05:13.75,0:05:14.65,Default,en,0,0,0,,Incoming again!
+Dialogue: 0,0:05:15.04,0:05:16.74,Default,en,0,0,0,,Let's retreat for now.
+Dialogue: 0,0:05:26.02,0:05:29.12,Default,en,0,0,0,,Jiraiyan! I'm the man!
+Dialogue: 0,0:05:29.12,0:05:32.45,Default,en,0,0,0,,Kerokichi's the toad oil~
+Dialogue: 0,0:05:36.64,0:05:38.69,Default,en,0,0,0,,Hey! Did you find something over there?
+Dialogue: 0,0:05:43.77,0:05:44.95,Default,en,0,0,0,,Look at front?
+Dialogue: 0,0:05:54.47,0:05:58.21,Default,en,0,0,0,,Impact confirmed. At least 2 were hit.
+Dialogue: 0,0:06:00.23,0:06:04.54,Default,en,0,0,0,,They found out Babel 13 at last, but it's not going to help them.
+Dialogue: 0,0:06:05.05,0:06:07.36,Default,en,0,0,0,,Hanzō. Do not treat this incident lightly.
+Dialogue: 0,0:06:08.05,0:06:09.52,Default,en,0,0,0,,Lord Nobunaga.
+Dialogue: 0,0:06:09.96,0:06:14.73,Default,en,0,0,0,,It's about them. Since they found out this place, they will try to invade.
+Dialogue: 0,0:06:16.27,0:06:21.03,Default,en,0,0,0,,That goes for you too. Make the guards more strict and never let anyone go back alive.
+Dialogue: 0,0:06:21.53,0:06:22.11,Default,en,0,0,0,,Yessir!
+Dialogue: 0,0:06:27.25,0:06:30.30,Default,en,0,0,0,,Damn... We finally found the enemy's base, and...
+Dialogue: 0,0:06:30.93,0:06:33.27,Default,en,0,0,0,,If I ever go there again, I will finish them-{\i1}dasu{\i0}!
+Dialogue: 0,0:06:35.78,0:06:38.31,Default,en,0,0,0,,But you can't use the submarine anymore.
+Dialogue: 0,0:06:38.31,0:06:41.54,Default,en,0,0,0,,Does that mean we can't go there anymore-{\i1}dasu{\i0}?
+Dialogue: 0,0:06:42.54,0:06:46.07,Default,en,0,0,0,,Can't you just try repairing it once again-{\i1}dasu{\i0}?
+Dialogue: 0,0:06:46.28,0:06:50.05,Default,en,0,0,0,,Look at this. It's unusable.
+Dialogue: 0,0:06:50.68,0:06:54.94,Default,en,0,0,0,,Even if we can go again, it's difficult to go through that security.
+Dialogue: 0,0:06:55.39,0:06:58.67,Default,en,0,0,0,,Then, will we be unable to do anything at all anymore?
+Dialogue: 0,0:07:00.27,0:07:02.77,Default,en,0,0,0,,We have to think of something else.
+Dialogue: 0,0:07:03.51,0:07:05.00,Default,en,0,0,0,,Mr. Kojirō, do you have any idea?
+Dialogue: 0,0:07:05.00,0:07:11.51,Default,en,0,0,0,,Yes. For them to live in that deep sea, they have to take air from somewhere.
+Dialogue: 0,0:07:11.78,0:07:16.35,Default,en,0,0,0,,I see! That's it! You're saying that there's a ventilation on some island around here!
+Dialogue: 0,0:07:16.35,0:07:17.16,Default,en,0,0,0,,What's that-{\i1}dasu{\i0}?
+Dialogue: 0,0:07:18.88,0:07:24.75,Default,en,0,0,0,,Anyway, if we can discover where their ventilation is, we should be able to get into their base.
+Dialogue: 0,0:07:35.31,0:07:37.03,Default,en,0,0,0,,-Hey, hey!\N-Huh?
+Dialogue: 0,0:07:37.39,0:07:40.87,Default,en,0,0,0,,Otsuru, you should tan your back, instead of doing nothing over there!
+Dialogue: 0,0:07:41.78,0:07:44.54,Default,en,0,0,0,,Maybe I really should have followed them...
+Dialogue: 0,0:07:45.44,0:07:50.90,Default,en,0,0,0,,Leave them be. They won't find anything, else than being bit by mosquitoes.
+Dialogue: 0,0:07:51.55,0:07:55.90,Default,en,0,0,0,,But Mr. Musashi can't do collective actions...
+Dialogue: 0,0:08:02.56,0:08:09.22,Default,en,0,0,0,,This island is hot-{\i1}dasu{\i0}... It's like we're on a southern island-{\i1}dasu{\i0}. Don't you agree, Kojirō?
+Dialogue: 0,0:08:09.86,0:08:11.84,Default,en,0,0,0,,What is it, Musashi? Are you tired already?
+Dialogue: 0,0:08:11.84,0:08:16.82,Default,en,0,0,0,,No, that's not it-{\i1}dasu{\i0}. I'm so thirsty that I might become stale-{\i1}dasu{\i0}.
+Dialogue: 0,0:08:19.99,0:08:23.25,Default,en,0,0,0,,Yay! Bananas-{\i1}dasu{\i0}!
+Dialogue: 0,0:08:24.53,0:08:27.15,Default,en,0,0,0,,I'm happy that there are a lot of them-{\i1}dasu{\i0}!
+Dialogue: 0,0:08:27.15,0:08:32.37,Default,en,0,0,0,,Mr. Musashi is really skillful. That tree-climbing skill will even scare a monkey away.
+Dialogue: 0,0:08:33.47,0:08:39.34,Default,en,0,0,0,,This is delicious-{\i1}dasu{\i0}! I always wanted to eat at least one banana that'll make my stomach full-{\i1}dasu{\i0}!
+Dialogue: 0,0:08:39.56,0:08:42.71,Default,en,0,0,0,,Hey, Musashi! It's not a time to be eating some grasses!
+Dialogue: 0,0:08:42.71,0:08:44.53,Default,en,0,0,0,,It's banana, not grass-{\i1}dasu{\i0}!
+Dialogue: 0,0:08:46.36,0:08:48.25,Default,en,0,0,0,,Let's go first.
+Dialogue: 0,0:08:49.93,0:08:52.59,Default,en,0,0,0,,What's wrong? Did a banana stuck in your neck?
+Dialogue: 0,0:08:52.59,0:08:55.07,Default,en,0,0,0,,A large earthen pipe is over there-{\i1}dasu{\i0}!
+Dialogue: 0,0:08:55.37,0:08:56.06,Default,en,0,0,0,,What!?
+Dialogue: 0,0:08:56.57,0:08:57.72,Default,en,0,0,0,,That-{\i1}dasu{\i0}!
+Dialogue: 0,0:08:59.87,0:09:00.51,Default,en,0,0,0,,Mr. Kojirō.
+Dialogue: 0,0:09:01.00,0:09:01.82,Default,en,0,0,0,,Let's go.
+Dialogue: 0,0:09:10.97,0:09:12.24,Default,en,0,0,0,,How refreshing-{\i1}dasu{\i0}!
+Dialogue: 0,0:09:12.92,0:09:14.47,Default,en,0,0,0,,Musashi, let's have a race!
+Dialogue: 0,0:09:14.81,0:09:18.46,Default,en,0,0,0,,Hey, you guys! We don't know where are the enemis hiding at!
+Dialogue: 0,0:09:18.96,0:09:23.41,Default,en,0,0,0,,That's why we're trying to go over the river-{\i1}dasu{\i0}! Right, Jiraiyan?
+Dialogue: 0,0:09:23.41,0:09:27.31,Default,en,0,0,0,,Right, right! We'll see who'll reach the rock on the other side first. Let's go!
+Dialogue: 0,0:09:40.97,0:09:43.33,Default,en,0,0,0,,Are they even swimming or what?
+Dialogue: 0,0:09:43.84,0:09:48.09,Default,en,0,0,0,,I heard that Mr. Musashi learned swimming from you, Mr. Kojirō.
+Dialogue: 0,0:09:56.52,0:09:59.59,Default,en,0,0,0,,What a giant earthen pipe-{\i1}dasu{\i0}!
+Dialogue: 0,0:10:00.04,0:10:02.86,Default,en,0,0,0,,This must be the ventilation of the enemy's hideout.
+Dialogue: 0,0:10:03.13,0:10:04.88,Default,en,0,0,0,,Then, let's get in right away!
+Dialogue: 0,0:10:05.41,0:10:06.49,Default,en,0,0,0,,Wait!
+Dialogue: 0,0:10:07.09,0:10:08.90,Default,en,0,0,0,,Wait! This is a wait call!
+Dialogue: 0,0:10:09.79,0:10:13.13,Default,en,0,0,0,,I, Kenshin, will not let you go to Babel 13 from here!
+Dialogue: 0,0:10:14.76,0:10:19.73,Default,en,0,0,0,,No way! I, Shingen, will send you guys to hell instead!
+Dialogue: 0,0:10:21.10,0:10:23.92,Default,en,0,0,0,,They're guarding a place like this too...
+Dialogue: 0,0:10:24.16,0:10:29.46,Default,en,0,0,0,,We already know all your shallow plots. Everyone, get them!
+Dialogue: 0,0:10:50.89,0:10:55.20,Default,en,0,0,0,,You're being pain in a butt-{\i1}dasu{\i0}! I'm going to get rid of all of you-{\i1}dasu{\i0}!
+Dialogue: 0,0:11:21.90,0:11:23.72,Default,en,0,0,0,,How impudent of you!
+Dialogue: 0,0:11:23.97,0:11:26.99,Default,en,0,0,0,,Shingen! Let's combine our powers right away!
+Dialogue: 0,0:11:26.99,0:11:32.08,Default,en,0,0,0,,Agreed! Lord Nobunaga will kill us if we let them go through!
+Dialogue: 0,0:11:35.01,0:11:36.30,Default,en,0,0,0,,Sky Ground Fusion!
+Dialogue: 0,0:11:37.89,0:11:39.20,Default,en,0,0,0,,T- this is bad-{\i1}dasu{\i0}!
+Dialogue: 0,0:11:49.47,0:11:52.66,Default,en,0,0,0,,Come attack whenever you're ready!
+Dialogue: 0,0:11:57.21,0:11:58.17,Default,en,0,0,0,,They aren't there...
+Dialogue: 0,0:11:58.76,0:12:02.36,Default,en,0,0,0,,Fighting them is tiresome-{\i1}dasu{\i0}. We'll skip this for now-{\i1}dasu{\i0}.
+Dialogue: 0,0:12:02.88,0:12:03.96,Default,en,0,0,0,,You're right.
+Dialogue: 0,0:12:04.85,0:12:10.58,Default,en,0,0,0,,Will Musashi and others make their way in? Wait for the stormy latter half!
+Dialogue: 0,0:12:10.89,0:12:16.78,Eyecatch,en,0,0,0,,Karakuri Kengouden: Musashi Road
+Dialogue: 0,0:12:20.13,0:12:23.37,Default,en,0,0,0,,We sweated a lot-{\i1}dasu{\i0}.
+Dialogue: 0,0:12:23.72,0:12:29.42,Default,en,0,0,0,,Running away right after finding the ventilation is really slovenly.
+Dialogue: 0,0:12:30.13,0:12:33.14,Default,en,0,0,0,,Then, Osenchan, will you get rid of Shingenshin-{\i1}dasu{\i0}?
+Dialogue: 0,0:12:33.37,0:12:34.66,Default,en,0,0,0,,No.
+Dialogue: 0,0:12:35.06,0:12:38.09,Default,en,0,0,0,,Now, now, it's not a time to be fighting.
+Dialogue: 0,0:12:38.74,0:12:41.22,Default,en,0,0,0,,We need a new strategy again...
+Dialogue: 0,0:12:45.52,0:12:48.18,Default,en,0,0,0,,Look, Mr. Musashi!
+Dialogue: 0,0:12:48.55,0:12:49.95,Default,en,0,0,0,,What's up-{\i1}dasu{\i0}, Otsuru?
+Dialogue: 0,0:12:52.64,0:12:53.75,Default,en,0,0,0,,How cute!
+Dialogue: 0,0:12:54.18,0:12:55.94,Default,en,0,0,0,,True-{\i1}dasu{\i0}!
+Dialogue: 0,0:13:01.57,0:13:03.62,Default,en,0,0,0,,How cool-{\i1}dasu{\i0}!
+Dialogue: 0,0:13:04.06,0:13:07.74,Default,en,0,0,0,,Everyone are troubled and they're...
+Dialogue: 0,0:13:09.34,0:13:12.26,Default,en,0,0,0,,It jumped again! Dolphins are awesome!
+Dialogue: 0,0:13:12.52,0:13:17.25,Default,en,0,0,0,,I want to become a dolphin so that I can swim freely in the sea-{\i1}dasu{\i0}.
+Dialogue: 0,0:13:17.47,0:13:18.12,Default,en,0,0,0,,That's it!
+Dialogue: 0,0:13:19.77,0:13:21.30,Default,en,0,0,0,,We'll become dolphins, too.
+Dialogue: 0,0:13:26.34,0:13:29.31,Default,en,0,0,0,,Are you serious that this will work-{\i1}dasu{\i0}?
+Dialogue: 0,0:13:29.60,0:13:32.41,Default,en,0,0,0,,Then, do you have any better idea? Spit it out!
+Dialogue: 0,0:13:32.70,0:13:34.62,Default,en,0,0,0,,I- I don't-{\i1}dasu{\i0}...
+Dialogue: 0,0:13:35.02,0:13:36.58,Default,en,0,0,0,,Then, don't complain!
+Dialogue: 0,0:13:37.72,0:13:39.90,Default,en,0,0,0,,Dolphin tolls fins...
+Dialogue: 0,0:13:42.98,0:13:46.02,Default,en,0,0,0,,Perfect. This will be enough to fool them.
+Dialogue: 0,0:13:46.30,0:13:50.24,Default,en,0,0,0,,Perfect? A clumsy stuffed toy like this will be revealed soon-{\i1}dasu{\i0}!
+Dialogue: 0,0:13:51.21,0:13:56.54,Default,en,0,0,0,,Sorry for being clumsy, duh! We really did our best to make this!
+Dialogue: 0,0:13:56.54,0:13:58.76,Default,en,0,0,0,,Take a look at these pitiful fingers!
+Dialogue: 0,0:13:59.83,0:14:01.67,Default,en,0,0,0,,It's because you did something you can't-{\i1}dasu{\i0}.
+Dialogue: 0,0:14:02.06,0:14:06.13,Default,en,0,0,0,,Shut up! After all my hard work, you still don't want to wear it!?
+Dialogue: 0,0:14:06.13,0:14:10.78,Default,en,0,0,0,,Yeah, Mr. Musashi, wear it! It's not like I'm good at needlework,
+Dialogue: 0,0:14:10.78,0:14:18.12,Default,en,0,0,0,,but that Senhime, who can't do laundries, cleaning, cooking, and all other housekeeping at all, really did her best to make!
+Dialogue: 0,0:14:18.12,0:14:20.44,Default,en,0,0,0,,Hey, you don't have to tell that...
+Dialogue: 0,0:14:20.53,0:14:24.40,Default,en,0,0,0,,I get it, I'll wear-{\i1}dasu{\i0}! I'll wear-{\i1}dasu{\i0}!
+Dialogue: 0,0:14:24.98,0:14:26.36,Default,en,0,0,0,,How cute!
+Dialogue: 0,0:14:27.24,0:14:28.95,Default,en,0,0,0,,Do you think so-{\i1}dasu{\i0}! I knew it!
+Dialogue: 0,0:14:29.16,0:14:31.40,Default,en,0,0,0,,Let's go, since we're ready!
+Dialogue: 0,0:14:33.28,0:14:33.80,Default,en,0,0,0,,Here I go!
+Dialogue: 0,0:14:37.20,0:14:38.03,Default,en,0,0,0,,Heave, ho!
+Dialogue: 0,0:14:38.03,0:14:38.97,Default,en,0,0,0,,Mr. Musashi!
+Dialogue: 0,0:14:39.50,0:14:43.91,Default,en,0,0,0,,Listen to Mr. Kojirō well, and try not to bother anybody.
+Dialogue: 0,0:14:44.35,0:14:45.73,Default,en,0,0,0,,Got it-{\i1}dasu{\i0}.
+Dialogue: 0,0:14:45.73,0:14:52.18,Default,en,0,0,0,,And, since you don't know what kind of danger will be there, be always with Mr. Jūbee.
+Dialogue: 0,0:14:52.48,0:14:53.59,Default,en,0,0,0,,Got it-{\i1}dasu{\i0}.
+Dialogue: 0,0:14:53.94,0:14:59.02,Default,en,0,0,0,,Oh, and, be careful of sharks. Sharks like octopuses.
+Dialogue: 0,0:14:59.37,0:15:03.25,Default,en,0,0,0,,I'll be careful of both sharks and whales-{\i1}dasu{\i0}. See you later-{\i1}dasu{\i0}!
+Dialogue: 0,0:15:09.91,0:15:13.83,Default,en,0,0,0,,I'm worried about Mr. Musashi so much. Come back soon!
+Dialogue: 0,0:15:39.07,0:15:40.48,Default,en,0,0,0,,Now, Musashi, do it.
+Dialogue: 0,0:15:40.75,0:15:45.51,Default,en,0,0,0,,Do I really have to do this-{\i1}dasu{\i0}? I'm embarrassed-{\i1}dasu{\i0}.
+Dialogue: 0,0:15:52.28,0:15:54.38,Default,en,0,0,0,,Dance more tastily!
+Dialogue: 0,0:15:55.80,0:16:03.83,Default,en,0,0,0,,{\i1}octopus, octopus{\i0}, I'm a totally tasty octopus-{\i1}dasu{\i0}.\N{\i1}octopus, octopus{\i0}, I'm the best for Edo-Style Sushi-{\i1}dasu{\i0}.
+Dialogue: 0,0:16:04.20,0:16:06.97,Default,en,0,0,0,,Huh? Hey, look! There's a tasty-looking octopus!
+Dialogue: 0,0:16:06.97,0:16:07.59,Default,en,0,0,0,,Where?
+Dialogue: 0,0:16:08.00,0:16:11.24,Default,en,0,0,0,,Hey, it's round and fat, good enough to eat.
+Dialogue: 0,0:16:14.85,0:16:19.71,Default,en,0,0,0,,Hey, what are you up to?
+Dialogue: 0,0:16:19.71,0:16:22.15,Default,en,0,0,0,,I'm just going to catch that.
+Dialogue: 0,0:16:24.59,0:16:25.86,Default,en,0,0,0,,{\i1}octopus, octopus{\i0}~
+Dialogue: 0,0:16:29.89,0:16:31.87,Default,en,0,0,0,,It sure looks tasty!
+Dialogue: 0,0:16:32.38,0:16:35.05,Default,en,0,0,0,,This guy looks great!
+Dialogue: 0,0:16:35.05,0:16:37.61,Default,en,0,0,0,,Let's eat this as a side dish.
+Dialogue: 0,0:16:37.99,0:16:39.42,Default,en,0,0,0,,What's this? This isn't right.
+Dialogue: 0,0:16:40.63,0:16:42.12,Default,en,0,0,0,,I- isn't this cloth!?
+Dialogue: 0,0:16:43.73,0:16:44.19,Default,en,0,0,0,,What!?
+Dialogue: 0,0:16:44.63,0:16:45.85,Default,en,0,0,0,,I'm an octopus!
+Dialogue: 0,0:16:46.31,0:16:47.32,Default,en,0,0,0,,A fake!
+Dialogue: 0,0:16:49.29,0:16:51.54,Default,en,0,0,0,,Octopus dance plan was successful-{\i1}dasu{\i0}!
+Dialogue: 0,0:16:57.03,0:16:57.54,Default,en,0,0,0,,He did it!
+Dialogue: 0,0:17:01.55,0:17:02.58,Default,en,0,0,0,,Are you alright-{\i1}dasu{\i0}?
+Dialogue: 0,0:17:03.70,0:17:06.27,Default,en,0,0,0,,Mr. Musashi, your octopus dance was splendid.
+Dialogue: 0,0:17:07.17,0:17:10.98,Default,en,0,0,0,,Do you think so-{\i1}dasu{\i0}? I wanted to show this to Otsuru-{\i1}dasu{\i0}!
+Dialogue: 0,0:17:11.36,0:17:14.58,Default,en,0,0,0,,Now, let's find where Nobunaga is, before they find us out.
+Dialogue: 0,0:17:14.82,0:17:16.16,Default,en,0,0,0,,I was waiting for you.
+Dialogue: 0,0:17:21.80,0:17:26.84,Default,en,0,0,0,,You're Dokuganryu! Since you found out, it can't be helped-{\i1}dasu{\i0}! Prepare yourself-{\i1}dasu{\i0}!
+Dialogue: 0,0:17:27.05,0:17:31.34,Default,en,0,0,0,,Woah, slow down. I'm not intending to fight you.
+Dialogue: 0,0:17:33.77,0:17:38.10,Default,en,0,0,0,,This way, please. Lord Nobunaga the Rikudomaoh is waiting.
+Dialogue: 0,0:17:38.42,0:17:39.92,Default,en,0,0,0,,What? Nobunaga?
+Dialogue: 0,0:17:41.00,0:17:43.59,Default,en,0,0,0,,This isn't good. This has to be a trap.
+Dialogue: 0,0:17:44.06,0:17:46.55,Default,en,0,0,0,,What are we going to do, Mr. Kojirō?
+Dialogue: 0,0:17:49.83,0:17:52.31,Default,en,0,0,0,,I guess we'll have to go.
+Dialogue: 0,0:17:56.64,0:18:01.14,Default,en,0,0,0,,I'll praise you, for managing to get into this Babel 13.
+Dialogue: 0,0:18:01.82,0:18:05.72,Default,en,0,0,0,,We don't need appraisal-{\i1}dasu{\i0}! What are you going to do-{\i1}dasu{\i0}!?
+Dialogue: 0,0:18:06.21,0:18:13.42,Default,en,0,0,0,,Hmph. I like your stubbornness. Wouldn't you like to become my subordinates?
+Dialogue: 0,0:18:13.67,0:18:15.09,Default,en,0,0,0,,What?
+Dialogue: 0,0:18:17.12,0:18:20.39,Default,en,0,0,0,,Hmph! Don't fool around too much-{\i1}dasu{\i0}!
+Dialogue: 0,0:18:20.39,0:18:25.05,Default,en,0,0,0,,I am a Karakuri martial artist of justice-{\i1}dasu{\i0}! I won't become villains' friend-{\i1}dasu{\i0}!
+Dialogue: 0,0:18:25.54,0:18:32.03,Default,en,0,0,0,,You have might, Musashi. Then let me ask you: what is justice?
+Dialogue: 0,0:18:32.23,0:18:34.69,Default,en,0,0,0,,Protecting the peaceful world-{\i1}dasu{\i0}!
+Dialogue: 0,0:18:35.36,0:18:39.84,Default,en,0,0,0,,Peaceful? Are you saying that the world of now is peaceful?
+Dialogue: 0,0:18:40.37,0:18:43.91,Default,en,0,0,0,,Under Ieyasu, it looks like it's peaceful at first sight,
+Dialogue: 0,0:18:43.91,0:18:50.18,Default,en,0,0,0,,but aren't powerful families in various areas are fighting to expand their territories?
+Dialogue: 0,0:18:51.23,0:18:57.72,Default,en,0,0,0,,Only a small number of people live peacefully, while others can't even have dinner tonight.
+Dialogue: 0,0:18:58.79,0:19:00.71,Default,en,0,0,0,,Now you've said that, that's true-{\i1}dasu{\i0}...
+Dialogue: 0,0:19:01.46,0:19:08.14,Default,en,0,0,0,,I look to lead this whole world into destruction, and create a world without any wars.
+Dialogue: 0,0:19:08.47,0:19:12.90,Default,en,0,0,0,,For that, I need the power of young people, like you..
+Dialogue: 0,0:19:12.90,0:19:16.75,Default,en,0,0,0,,What do you think? Wouldn't you want to lend me your powers to me?
+Dialogue: 0,0:19:17.57,0:19:21.83,Default,en,0,0,0,,Yes! I will help Mr. Nobunaga-{\i1}dasu{\i0}!
+Dialogue: 0,0:19:21.83,0:19:24.59,Default,en,0,0,0,,You idiot! Don't believe what Nobunaga is saying!
+Dialogue: 0,0:19:25.00,0:19:29.25,Default,en,0,0,0,,Why-{\i1}dasu{\i0}? Isn't what Mr. Nobunaga saying correct-{\i1}dasu{\i0}?
+Dialogue: 0,0:19:29.70,0:19:34.05,Default,en,0,0,0,,If you think he's right, then why would he be trying to steal the Three Sacred Treasures?
+Dialogue: 0,0:19:34.63,0:19:37.32,Default,en,0,0,0,,That makes sense, too-{\i1}dasu{\i0}...
+Dialogue: 0,0:19:38.12,0:19:44.61,Default,en,0,0,0,,You are right in that the battles are going on even now, but Lord Ieyasu is trying to decrease the number of them.
+Dialogue: 0,0:19:46.15,0:19:51.88,Default,en,0,0,0,,Your way of thinking, to annihilate people who're living peacefully, is wrong!
+Dialogue: 0,0:19:52.77,0:19:54.64,Default,en,0,0,0,,I agree to Mr. Jūbee!
+Dialogue: 0,0:19:55.16,0:20:00.10,Default,en,0,0,0,,Hmph. You guys cannot understand my greatness at the first place.
+Dialogue: 0,0:20:01.16,0:20:03.91,Default,en,0,0,0,,Hanzō! Annihilate them.
+Dialogue: 0,0:20:04.42,0:20:04.92,Default,en,0,0,0,,Yessir!
+Dialogue: 0,0:20:07.21,0:20:08.08,Default,en,0,0,0,,Stop-{\i1}dasu{\i0}!
+Dialogue: 0,0:20:08.60,0:20:09.62,Default,en,0,0,0,,Nope!
+Dialogue: 0,0:20:10.11,0:20:12.03,Default,en,0,0,0,,Hanzō! Get out of my way-{\i1}dasu{\i0}!
+Dialogue: 0,0:20:12.03,0:20:15.62,Default,en,0,0,0,,Hmph. Refusing Lord Nobunaga's invitation? How foolish.
+Dialogue: 0,0:20:19.98,0:20:23.27,Default,en,0,0,0,,You should have done that at the first place. You're just putting on airs!
+Dialogue: 0,0:20:23.57,0:20:24.83,Default,en,0,0,0,,Get them!
+Dialogue: 0,0:20:27.12,0:20:28.95,Default,en,0,0,0,,You think those small fries can be my enemies?
+Dialogue: 0,0:20:33.45,0:20:35.95,Default,en,0,0,0,,How impudent! Sousou Armor!
+Dialogue: 0,0:20:36.74,0:20:37.83,Default,en,0,0,0,,Me too-{\i1}dasu{\i0}!
+Dialogue: 0,0:20:42.78,0:20:46.75,Default,en,0,0,0,,Karakuri Shift! Gentoku Armor!
+Dialogue: 0,0:20:55.93,0:20:57.12,Default,en,0,0,0,,Hanzō! Prepare yourself!
+Dialogue: 0,0:21:01.47,0:21:05.64,Default,en,0,0,0,,Karakuri Shift! Kanu Armor!
+Dialogue: 0,0:21:17.74,0:21:20.23,Default,en,0,0,0,,Hanzō! You're not getting away this time-{\i1}dasu{\i0}!
+Dialogue: 0,0:21:20.74,0:21:23.23,Default,en,0,0,0,,You fool. Where do you think you are?
+Dialogue: 0,0:21:31.92,0:21:32.45,Default,en,0,0,0,,What's this?
+Dialogue: 0,0:21:36.90,0:21:37.92,Default,en,0,0,0,,You fell into my trap!
+Dialogue: 0,0:21:38.77,0:21:40.33,Default,en,0,0,0,,What are you going to do-{\i1}dasu{\i0}, Hanzō!?
+Dialogue: 0,0:21:41.07,0:21:43.38,Default,en,0,0,0,,Are you going to take us prisoners!?
+Dialogue: 0,0:21:43.70,0:21:45.83,Default,en,0,0,0,,Hmph. I wasn't even thinking of letting you alive.
+Dialogue: 0,0:21:49.65,0:21:50.42,Default,en,0,0,0,,Inundation!
+Dialogue: 0,0:21:53.53,0:22:00.88,Default,en,0,0,0,,I'm guessing your specialty is swimming, since you swam your way to here. Swim all as you wanted, before you die.
+Dialogue: 0,0:22:01.47,0:22:04.78,Default,en,0,0,0,,Damn! We're not going to end up drowning-{\i1}dasu{\i0}!
+Dialogue: 0,0:22:07.80,0:22:08.66,Default,en,0,0,0,,My armor!
+Dialogue: 0,0:22:16.50,0:22:19.55,Default,en,0,0,0,,Right before confronting Nobunaga the Rikudomaoh,
+Dialogue: 0,0:22:19.55,0:22:25.64,Default,en,0,0,0,,will you end up becoming a drowned body in some fishbowl, Musashi!? Wait for the stormy counterattack!
+Dialogue: 0,0:22:45.24,0:22:48.45,SongED1,en,0,0,0,,I fought and I got beaten
+Dialogue: 0,0:22:48.45,0:22:51.20,SongED1,en,0,0,0,,Nosebleed drips rendezvous
+Dialogue: 0,0:22:51.45,0:22:53.87,SongED1,en,0,0,0,,I can't lose, so take my blow!
+Dialogue: 0,0:22:53.87,0:22:56.46,SongED1,en,0,0,0,,Pinch! Punch! I won by reversal
+Dialogue: 0,0:22:57.25,0:23:00.38,SongED1,en,0,0,0,,Next is delightful lunchtime
+Dialogue: 0,0:23:00.38,0:23:03.51,SongED1,en,0,0,0,,But it's not delightful today
+Dialogue: 0,0:23:03.51,0:23:05.80,SongED1,en,0,0,0,,The thunder of my teacher
+Dialogue: 0,0:23:05.80,0:23:08.35,SongED1,en,0,0,0,,only hit me and nobody else
+Dialogue: 0,0:23:09.81,0:23:12.60,SongED1,en,0,0,0,,I tried to explain
+Dialogue: 0,0:23:12.60,0:23:15.31,SongED1,en,0,0,0,,But he won't listen
+Dialogue: 0,0:23:15.90,0:23:18.40,SongED1,en,0,0,0,,Now whatever I do
+Dialogue: 0,0:23:18.40,0:23:20.82,SongED1,en,0,0,0,,I end up crying
+Dialogue: 0,0:23:20.82,0:23:24.70,SongED1,en,0,0,0,,Don't cry when you eat, or
+Dialogue: 0,0:23:24.70,0:23:26.82,SongED1,en,0,0,0,,it tastes totally bad
+Dialogue: 0,0:23:26.82,0:23:30.79,SongED1,en,0,0,0,,Don't cry when you eat, or
+Dialogue: 0,0:23:30.79,0:23:32.83,SongED1,en,0,0,0,,it tastes totally bad
+Dialogue: 0,0:23:32.83,0:23:36.83,SongED1,en,0,0,0,,Don't cry when you eat, or
+Dialogue: 0,0:23:36.83,0:23:38.83,SongED1,en,0,0,0,,it tastes totally bad
+Dialogue: 0,0:23:38.83,0:23:42.84,SongED1,en,0,0,0,,Don't cry when you eat, or
+Dialogue: 0,0:23:42.84,0:23:45.47,SongED1,en,0,0,0,,you'll feel downhearted
+Dialogue: 0,0:24:05.89,0:24:13.09,Default,en,0,0,0,,We got caught. Meanwhile, that Nobunaga bastard ordered Dokuganryu to capture Senhime, no matter her life-{\i1}dasu{\i0}.
+Dialogue: 0,0:24:13.41,0:24:17.22,Default,en,0,0,0,,This is bad-{\i1}dasu{\i0}! Otsuru might be killed, too-{\i1}dasu{\i0}!
+Dialogue: 0,0:24:17.22,0:24:20.04,Default,en,0,0,0,,But at there, everyone came to help-{\i1}dasu{\i0}!
+Dialogue: 0,0:24:20.04,0:24:22.43,Default,en,0,0,0,,Ushiwaka, Benkei, and Boss Zenigatan-{\i1}dasu{\i0}.
+Dialogue: 0,0:24:22.66,0:24:26.16,Default,en,0,0,0,,Next story! Destroy Babel 13
+Dialogue: 0,0:24:26.16,0:24:28.66,Default,en,0,0,0,,It's the stormy Double Dragon Sword-{\i1}dasu{\i0}!
+Dialogue: 0,0:24:27.42,0:24:31.68,NoteOnAnime,en,60,0,60,,{\an7}Next Episode
+Dialogue: 0,0:24:27.42,0:24:31.68,TitleEP,en,0,0,220,,Destroy
+Dialogue: 0,0:24:27.42,0:24:31.68,TitleEP,en,0,0,80,,Babel 13
+Dialogue: 0,0:24:27.42,0:24:31.68,NoteOnAnime,en,0,60,30,,{\an3\fs32}Look forwards for it!

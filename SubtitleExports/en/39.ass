@@ -1,0 +1,317 @@
+﻿[Script Info]
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 480
+Title: A Monster! Megaton Castle
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: NoteOnAnime,Candara,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,10,1
+Style: SongOP,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: TitleOP,DejaVu Serif,42,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: TitleEP,DejaVu Serif,42,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: SongED1,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: Note,Candara,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,10,10,10,1
+Style: Eyecatch,Candara,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,10,10,10,1
+Style: NoteOnAnimeVert,@맑은 고딕,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,10,1
+Style: InsOtsuru,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.38,0:00:06.54,Default,en,0,0,0,,It is the turbulent Sengoku period.
+Dialogue: 0,0:00:07.08,0:00:11.49,Default,en,0,0,0,,Warlords keep on fighting day and night over\NJipangu State, where Karakuri people live.
+Dialogue: 0,0:00:11.84,0:00:16.20,Default,en,0,0,0,,Karakuri martial artists were sharpening their swords, dreaming of victory and honor.
+Dialogue: 0,0:00:16.83,0:00:23.15,Default,en,0,0,0,,And now, a wild hero has arrived, seeking to be the number one Karakuri martial artist!
+Dialogue: 0,0:00:24.44,0:00:26.87,Default,en,0,0,0,,Musashi is here-{\i1}dasu{\i0}!
+Dialogue: 0,0:00:27.86,0:00:33.20,TitleOP,en,0,0,40,,{\an8\fs32\fade(770,0)}Karakuri Kengouden
+Dialogue: 0,0:00:27.86,0:00:33.20,TitleOP,en,0,0,40,,{\fade(770,0)}Musashi Road
+Dialogue: 0,0:00:27.86,0:00:33.20,TitleOP,en,0,0,40,,{\fs24\fade(770,0)}(The Story of {\i1}Karakuri{\i0} Martial Artist: Road of Musashi)
+Dialogue: 0,0:00:33.20,0:00:38.04,SongOP,en,0,0,0,,A man always dreams of the day
+Dialogue: 0,0:00:38.87,0:00:41.79,SongOP,en,0,0,0,,in the center of the world to become
+Dialogue: 0,0:00:41.79,0:00:44.67,SongOP,en,0,0,0,,AH! AH! the strongest
+Dialogue: 0,0:00:44.67,0:00:49.72,SongOP,en,0,0,0,,Raise the sword of your heart high to the wide sky
+Dialogue: 0,0:00:50.34,0:00:54.35,SongOP,en,0,0,0,,Raise the curtain to the road of adventure
+Dialogue: 0,0:00:55.68,0:01:00.94,SongOP,en,0,0,0,,A skilled swordsman roams on Jipangu State
+Dialogue: 0,0:01:01.52,0:01:06.57,SongOP,en,0,0,0,,His name is Musashi, a Karakuri man
+Dialogue: 0,0:01:06.57,0:01:08.07,SongOP,en,0,0,0,,Go! Fight!
+Dialogue: 0,0:01:08.07,0:01:10.99,SongOP,en,0,0,0,,The sound of fierce duels
+Dialogue: 0,0:01:10.99,0:01:13.83,SongOP,en,0,0,0,,makes life dazzling
+Dialogue: 0,0:01:13.83,0:01:19.29,SongOP,en,0,0,0,,Battles of yesterdays make you stronger today
+Dialogue: 0,0:01:19.33,0:01:25.55,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
+Dialogue: 0,0:01:25.55,0:01:28.43,SongOP,en,0,0,0,,Tomorrow will be glorious
+Dialogue: 0,0:01:28.43,0:01:31.01,SongOP,en,0,0,0,,The sound of fierce duels
+Dialogue: 0,0:01:31.01,0:01:33.51,SongOP,en,0,0,0,,makes life dazzling
+Dialogue: 0,0:01:34.22,0:01:39.60,SongOP,en,0,0,0,,Fight the utmost with the stillness
+Dialogue: 0,0:01:39.65,0:01:45.86,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
+Dialogue: 0,0:01:45.86,0:01:51.07,SongOP,en,0,0,0,,His eyes shined! Musashi!
+Dialogue: 0,0:02:01.31,0:02:08.54,Default,en,0,0,0,,Joining the annual Jipangu Maritial Arts Competition, Musashi keeps winning, changed completely from the previous one.
+Dialogue: 0,0:02:08.94,0:02:15.81,Default,en,0,0,0,,But meanwhile, Rikudomaoh, who's looking to take the Three Sacred Treasures from the king,
+Dialogue: 0,0:02:15.81,0:02:17.69,Default,en,0,0,0,,already got the shield and the round jewel.
+Dialogue: 0,0:02:18.35,0:02:23.36,TitleEP,en,0,0,190,,A Monster!
+Dialogue: 0,0:02:18.35,0:02:23.36,TitleEP,en,0,0,60,,Megaton Castle
+Dialogue: 0,0:02:33.81,0:02:36.53,Default,en,0,0,0,,Mr. Musashi and Otsuru, can you help me?
+Dialogue: 0,0:02:39.31,0:02:41.99,Default,en,0,0,0,,Dear. What are you doing there?
+Dialogue: 0,0:02:42.66,0:02:43.63,Default,en,0,0,0,,Shh!
+Dialogue: 0,0:02:51.95,0:02:54.37,Default,en,0,0,0,,Finally, you have semi-finals tomorrow!
+Dialogue: 0,0:02:54.37,0:02:57.89,Default,en,0,0,0,,Right-{\i1}dasu{\i0}. It's finally time to fight that Kojirō-{\i1}dasu{\i0}!
+Dialogue: 0,0:02:58.54,0:03:06.27,Default,en,0,0,0,,Go for it, Mr. Musashi! I have to work in the store and I can't go cheer for you, but I'm still wishing for your victory!
+Dialogue: 0,0:03:06.27,0:03:11.79,Default,en,0,0,0,,Leave it to me-{\i1}dasu{\i0}! I'll win and become the number one Karakuri martial artist of Jipangu!
+Dialogue: 0,0:03:12.68,0:03:14.26,Default,en,0,0,0,,And then...
+Dialogue: 0,0:03:15.60,0:03:16.70,Default,en,0,0,0,,And then?
+Dialogue: 0,0:03:18.41,0:03:24.21,Default,en,0,0,0,,And then, Otsuru, as promised, I...
+Dialogue: 0,0:03:25.19,0:03:27.94,Default,en,0,0,0,,What is it? I can't hear you, Mr. Musashi.
+Dialogue: 0,0:03:28.62,0:03:31.30,Default,en,0,0,0,,I'd like to have you as my wife...
+Dialogue: 0,0:03:31.86,0:03:33.64,Default,en,0,0,0,,You already knew-{\i1}dasu{\i0}?!
+Dialogue: 0,0:03:33.64,0:03:34.88,Default,en,0,0,0,,A shooting star!
+Dialogue: 0,0:03:37.69,0:03:41.29,Default,en,0,0,0,,Wishing Mr. Musashi to win in tomorrow's match.
+Dialogue: 0,0:03:42.76,0:03:43.78,Default,en,0,0,0,,Otsuru...
+Dialogue: 0,0:03:45.03,0:03:48.73,Default,en,0,0,0,,They won't be needing our cheers, after all!
+Dialogue: 0,0:03:48.73,0:03:50.98,Default,en,0,0,0,,They're so romantic.
+Dialogue: 0,0:03:50.98,0:03:53.95,Default,en,0,0,0,,N- no, not at a place like this! It's embarassing!
+Dialogue: 0,0:03:54.25,0:03:56.85,Default,en,0,0,0,,Isn't it alright? We're married.
+Dialogue: 0,0:03:56.85,0:03:58.71,Default,en,0,0,0,,Well, that's true...
+Dialogue: 0,0:03:59.11,0:04:00.81,Default,en,0,0,0,,Dear?
+Dialogue: 0,0:04:00.81,0:04:01.96,Default,en,0,0,0,,Akane?
+Dialogue: 0,0:04:03.41,0:04:04.44,Default,en,0,0,0,,Dear!
+Dialogue: 0,0:04:04.44,0:04:05.07,Default,en,0,0,0,,What is it?
+Dialogue: 0,0:04:09.87,0:04:10.71,Default,en,0,0,0,,That's ominous.
+Dialogue: 0,0:04:11.99,0:04:15.51,Default,en,0,0,0,,No, it's not the time to be watching stars.
+Dialogue: 0,0:04:20.41,0:04:22.97,Default,en,0,0,0,,Well. Should this be my finishing pose tomorrow?
+Dialogue: 0,0:04:23.55,0:04:26.10,Default,en,0,0,0,,Nah, this looks cool, too...
+Dialogue: 0,0:04:26.10,0:04:27.82,Default,en,0,0,0,,This is good, too!
+Dialogue: 0,0:04:30.87,0:04:35.73,Note,en,0,0,0,,(jipangbare: twist of {\i1}nihon{\i0}bare; clear and cloudless sky)
+Dialogue: 0,0:04:30.87,0:04:35.73,Default,en,0,0,0,,When the sun rises, the sky of Jipangu is clear and the semi-finals finally begins!
+Dialogue: 0,0:04:43.57,0:04:47.45,Default,en,0,0,0,,Welcome, 10 million martial art fans! The waiting is soon over!
+Dialogue: 0,0:04:47.91,0:04:55.07,Default,en,0,0,0,,The competition on that shining stage is already at semi-finals! Today, we have Senhime as a special guest!
+Dialogue: 0,0:04:55.07,0:04:56.97,Default,en,0,0,0,,Is this live?!
+Dialogue: 0,0:04:56.97,0:05:02.15,Default,en,0,0,0,,Senhime here! Now looking for a husband! Please contact me!
+Dialogue: 0,0:05:02.15,0:05:05.98,Default,en,0,0,0,,Er, Senhime, who do you think will win?
+Dialogue: 0,0:05:05.98,0:05:11.07,Default,en,0,0,0,,I wonder... I guess the stronger wins and the weaker loses, probably!
+Dialogue: 0,0:05:12.43,0:05:17.44,Default,en,0,0,0,,{\i1}Mr. Musashi. I am truly looking for a match with you.
+Dialogue: 0,0:05:19.40,0:05:22.89,Default,en,0,0,0,,The semi-finals will begin now!
+Dialogue: 0,0:05:22.89,0:05:28.42,Default,en,0,0,0,,Red corner: #98 Niten'ichiryū Musashi!
+Dialogue: 0,0:05:30.35,0:05:36.67,Default,en,0,0,0,,White corner: #99 Ganryu Mister Kojirō!
+Dialogue: 0,0:05:39.80,0:05:43.68,Default,en,0,0,0,,-Mr. Kojirō!\N-Mr. Musashi!
+Dialogue: 0,0:05:44.49,0:05:50.52,Default,en,0,0,0,,Even if I win and you lose, or you lose and I win, let's have a good match, Musashi.
+Dialogue: 0,0:05:51.11,0:05:52.41,Default,en,0,0,0,,Of course-{\i1}dasu{\i0}.
+Dialogue: 0,0:05:53.51,0:05:59.38,Default,en,0,0,0,,Huh? Even if I win and you lose, or you lose and I win...
+Dialogue: 0,0:06:00.02,0:06:03.26,Default,en,0,0,0,,What was that-{\i1}dasu{\i0}?! I lose in both ways-{\i1}dasu{\i0}!
+Dialogue: 0,0:06:03.26,0:06:05.10,Default,en,0,0,0,,Tch. You found it out.
+Dialogue: 0,0:06:05.46,0:06:06.50,Default,en,0,0,0,,Of course-{\i1}dasu{\i0}!
+Dialogue: 0,0:06:06.86,0:06:07.90,Default,en,0,0,0,,Start!
+Dialogue: 0,0:06:18.35,0:06:21.53,Default,en,0,0,0,,Open the door! Open the door!
+Dialogue: 0,0:06:26.90,0:06:33.74,Default,en,0,0,0,,W- what?! Is it true that the certificate of the king, the Three Sacred Treasures have been stolen?
+Dialogue: 0,0:06:33.98,0:06:41.05,Default,en,0,0,0,,Right. They came to invade the palace yesterday night. The sacred sword is safe, though.
+Dialogue: 0,0:06:42.25,0:06:45.92,Default,en,0,0,0,,Enemies are in pursuit of us, looking for that.
+Dialogue: 0,0:06:46.35,0:06:52.98,Default,en,0,0,0,,Ieyasu. I'll also ask you to protect the sacred sword from the hands of evil, and recover the stolen treasures.
+Dialogue: 0,0:06:53.43,0:06:57.85,Default,en,0,0,0,,Yessir. Just as you instructed. I will gather people fluent in martial arts.
+Dialogue: 0,0:07:13.85,0:07:17.94,Default,en,0,0,0,,I see. The king did ask for a help to Ieyasu.
+Dialogue: 0,0:07:18.17,0:07:25.07,Default,en,0,0,0,,What will you do, Lord Rikudomaoh. Even if my body became stronger, Edo Castle is impregnable.
+Dialogue: 0,0:07:25.49,0:07:30.74,Default,en,0,0,0,,Hmph. A newcomer like you do not know the true fearfulness of our force!
+Dialogue: 0,0:07:30.74,0:07:31.30,Default,en,0,0,0,,What?!
+Dialogue: 0,0:07:31.62,0:07:32.83,Default,en,0,0,0,,Stop, Hanzō.
+Dialogue: 0,0:07:35.26,0:07:38.09,Default,en,0,0,0,,This is not the time for internal discord.
+Dialogue: 0,0:07:38.43,0:07:40.00,Default,en,0,0,0,,U- understood.
+Dialogue: 0,0:07:41.30,0:07:43.68,Default,en,0,0,0,,Dokuganryu. Prepare for landing.
+Dialogue: 0,0:07:43.68,0:07:44.02,Default,en,0,0,0,,Yessir!
+Dialogue: 0,0:07:44.83,0:07:48.67,Default,en,0,0,0,,{\i1}Damn you, you Maoh. You'll regret this.
+Dialogue: 0,0:07:56.62,0:08:00.90,Default,en,0,0,0,,{\an8}Go for it, Musashi! Hit him! Kojirō, you too!
+Dialogue: 0,0:07:55.91,0:08:00.96,Default,en,0,0,0,,That is awesome! It's a battle full of force!
+Dialogue: 0,0:08:01.34,0:08:03.78,Default,en,0,0,0,,Do it properly!
+Dialogue: 0,0:08:09.20,0:08:10.00,Default,en,0,0,0,,Got you!
+Dialogue: 0,0:08:19.57,0:08:24.60,Default,en,0,0,0,,You became better, Musashi. But will you manage to evade my Tsubamegaeshi?
+Dialogue: 0,0:08:25.13,0:08:29.45,Default,en,0,0,0,,That's my line-{\i1}dasu{\i0}! Niten'ichiryū: Flash Sword!
+Dialogue: 0,0:08:33.39,0:08:35.12,Default,en,0,0,0,,Stop!
+Dialogue: 0,0:08:36.78,0:08:38.65,Default,en,0,0,0,,Who dares to interrupt our match?!
+Dialogue: 0,0:08:39.85,0:08:40.83,Default,en,0,0,0,,Lord Ieyasu!
+Dialogue: 0,0:08:41.61,0:08:42.91,Default,en,0,0,0,,Grandpa!
+Dialogue: 0,0:08:42.91,0:08:45.90,Default,en,0,0,0,,Driven by the stress of circumstnaces, the martial arts competition will end here.
+Dialogue: 0,0:08:46.53,0:08:49.75,Default,en,0,0,0,,No way! Our match is not over-{\i1}dasu{\i0}!
+Dialogue: 0,0:08:49.75,0:08:54.26,Default,en,0,0,0,,No questions asked! Musashi, Kojirō, follow me with Jūbee.
+Dialogue: 0,0:08:54.54,0:08:55.90,Default,en,0,0,0,,Lord Ieyasu!
+Dialogue: 0,0:08:58.39,0:09:00.07,Default,en,0,0,0,,Thank you!
+Dialogue: 0,0:09:02.37,0:09:04.61,Default,en,0,0,0,,I wonder if the semi-final match is over.
+Dialogue: 0,0:09:06.19,0:09:08.68,Default,en,0,0,0,,Please let Mr. Musashi be the winner.
+Dialogue: 0,0:09:08.94,0:09:10.23,Default,en,0,0,0,,Otsuru!
+Dialogue: 0,0:09:11.29,0:09:12.44,Default,en,0,0,0,,Otsuru!
+Dialogue: 0,0:09:12.87,0:09:15.08,Default,en,0,0,0,,Mr. Musashi! The match shouldn't be already over!
+Dialogue: 0,0:09:15.08,0:09:17.02,Default,en,0,0,0,,We can't do that anymore-{\i1}dasu{\i0}.
+Dialogue: 0,0:09:17.02,0:09:17.55,Default,en,0,0,0,,Huh?
+Dialogue: 0,0:09:17.55,0:09:21.20,Default,en,0,0,0,,That Hanzō is looking to steal the treasures of Jipangu State this time-{\i1}dasu{\i0}.
+Dialogue: 0,0:09:21.20,0:09:26.69,Default,en,0,0,0,,Because of that, I have to stay in the castle from this night and do a guard duty-{\i1}dasu{\i0}.
+Dialogue: 0,0:09:28.29,0:09:31.32,Default,en,0,0,0,,Then it means that we can't meet again.
+Dialogue: 0,0:09:31.67,0:09:32.88,Default,en,0,0,0,,Otsuru...
+Dialogue: 0,0:09:33.54,0:09:39.61,Default,en,0,0,0,,It'll be alright-{\i1}dasu{\i0}! That Edo Castle is within a stone's throw-{\i1}dasu{\i0}. I'll skip the guard duty and come see you-{\i1}dasu{\i0}!
+Dialogue: 0,0:09:40.87,0:09:45.49,Default,en,0,0,0,,That's right. I'll go everyday to give you dangos!
+Dialogue: 0,0:09:45.78,0:09:46.65,Default,en,0,0,0,,Otsuru!
+Dialogue: 0,0:09:47.32,0:09:50.49,Default,en,0,0,0,,Right! Let me make today's amount right away.
+Dialogue: 0,0:09:51.90,0:09:54.84,Default,en,0,0,0,,Otsuru is so kind-{\i1}dasu{\i0}!
+Dialogue: 0,0:09:57.59,0:09:58.68,Default,en,0,0,0,,Mr. Musashi!
+Dialogue: 0,0:09:59.90,0:10:01.58,Default,en,0,0,0,,Are you okay, Mr. Musashi?
+Dialogue: 0,0:10:02.46,0:10:04.90,Default,en,0,0,0,,What ultra fool threw a stone-{\i1}dasu{\i0}?!
+Dialogue: 0,0:10:06.46,0:10:07.95,Default,en,0,0,0,,It was you, Osenchan...
+Dialogue: 0,0:10:07.95,0:10:10.07,Default,en,0,0,0,,Who's an ultra fool?
+Dialogue: 0,0:10:10.07,0:10:11.89,Default,en,0,0,0,,Nonononono... that's...
+Dialogue: 0,0:10:11.89,0:10:18.03,Default,en,0,0,0,,It's not the time to buy dangos! We have to go back to the castle as soon as possible!
+Dialogue: 0,0:10:18.03,0:10:23.47,Default,en,0,0,0,,No-{\i1}dasu{\i0}! I'm here just to tell Otsuru that I can't come to meet her for a while-{\i1}dasu{\i0}!
+Dialogue: 0,0:10:23.47,0:10:25.19,Default,en,0,0,0,,Mr. Musashi, who's this?
+Dialogue: 0,0:10:25.89,0:10:28.22,Default,en,0,0,0,,She's Osenchan whom I traveled with-{\i1}dasu{\i0}.
+Dialogue: 0,0:10:28.47,0:10:32.89,Default,en,0,0,0,,You must be Otsuru. Musashi told me about you.
+Dialogue: 0,0:10:33.60,0:10:34.94,Default,en,0,0,0,,Traveled with?
+Dialogue: 0,0:10:36.79,0:10:38.67,Default,en,0,0,0,,I see. She's pretty.
+Dialogue: 0,0:10:38.67,0:10:44.99,Default,en,0,0,0,,N- no, if you're going to say something that's true, then do it loudly!
+Dialogue: 0,0:10:45.37,0:10:47.13,Default,en,0,0,0,,But her personality is bad-{\i1}dasu{\i0}.
+Dialogue: 0,0:10:47.94,0:10:50.98,Default,en,0,0,0,,What are you being stupid about?! Say that again!
+Dialogue: 0,0:10:50.98,0:10:53.48,Default,en,0,0,0,,I get it! You're beautiful, Osenchan!
+Dialogue: 0,0:10:53.48,0:10:57.59,Default,en,0,0,0,,-And?\N-Beautiful, dead straight, has a good personality, rich,
+Dialogue: 0,0:10:57.59,0:10:59.56,Default,en,0,0,0,,-Not yet! List more!\N-But!
+Dialogue: 0,0:10:59.87,0:11:01.04,Default,en,0,0,0,,Hey, Otsuru!
+Dialogue: 0,0:11:01.40,0:11:02.84,Default,en,0,0,0,,Otsuru! Dangos!
+Dialogue: 0,0:11:02.84,0:11:03.65,Default,en,0,0,0,,I don't care!
+Dialogue: 0,0:11:03.65,0:11:05.01,Default,en,0,0,0,,Otsuru!
+Dialogue: 0,0:11:05.31,0:11:07.21,Default,en,0,0,0,,What happened-{\i1}dasu{\i0}?
+Dialogue: 0,0:11:22.89,0:11:24.51,Default,en,0,0,0,,W- what's that?!
+Dialogue: 0,0:11:29.94,0:11:35.12,Default,en,0,0,0,,A crisis is approaching Edotopia! Wait for the stormy latter half!
+Dialogue: 0,0:11:35.82,0:11:40.83,Eyecatch,en,0,0,0,,Karakuri Kengouden: Musashi Road
+Dialogue: 0,0:11:45.21,0:11:50.25,Default,en,0,0,0,,Mr. Ieyasu. Are they the strongest Karakuri martial artists that you chose?
+Dialogue: 0,0:11:50.55,0:11:56.43,Default,en,0,0,0,,This glum man does look strong, but aren't the other two still children?
+Dialogue: 0,0:11:57.00,0:12:03.35,Default,en,0,0,0,,You're one rude old man-{\i1}dasu{\i0}! We just went to the semi-finals of the martial arts contest-{\i1}dasu{\i0}!
+Dialogue: 0,0:12:03.62,0:12:07.22,Default,en,0,0,0,,Shut your mouth, Musashi! We're at the presence of the Highness!
+Dialogue: 0,0:12:07.59,0:12:08.13,Default,en,0,0,0,,But!
+Dialogue: 0,0:12:08.73,0:12:14.70,Default,en,0,0,0,,These people fought against Hanzō and won for numerous times. Rest assured.
+Dialogue: 0,0:12:14.70,0:12:18.90,Default,en,0,0,0,,Oh, is that so? If you do certify them...
+Dialogue: 0,0:12:19.95,0:12:25.37,Default,en,0,0,0,,Anyway, your Highness, can we take a look at the targeted sacred sword?
+Dialogue: 0,0:12:29.35,0:12:30.43,Default,en,0,0,0,,This is it.
+Dialogue: 0,0:12:32.57,0:12:36.05,Default,en,0,0,0,,Other than this sword, there exist the round jewel and the sword.
+Dialogue: 0,0:12:36.05,0:12:40.13,Default,en,0,0,0,,The one to have all three of them becomes the king of Jipangu State.
+Dialogue: 0,0:12:41.02,0:12:47.06,Default,en,0,0,0,,Lord! We have a problem! Something giant that looks like a castle has appeared at Edotopia Bay!
+Dialogue: 0,0:12:47.33,0:12:47.92,Default,en,0,0,0,,What?!
+Dialogue: 0,0:13:14.41,0:13:16.27,Default,en,0,0,0,,A castle is walking towards here-{\i1}dasu{\i0}!
+Dialogue: 0,0:13:16.27,0:13:19.08,Default,en,0,0,0,,That Hanzō appeared with something so nonsensical!
+Dialogue: 0,0:13:19.55,0:13:27.75,Default,en,0,0,0,,Informing to Ieyasu and the king. Hand over the sacred sword, or I'll crash this Megaton Castle to Edo Castle!
+Dialogue: 0,0:13:28.36,0:13:30.61,Default,en,0,0,0,,That's different! That voice is not Hanzō's!
+Dialogue: 0,0:13:30.84,0:13:32.27,Default,en,0,0,0,,Who are you-{\i1}dasu{\i0}?!
+Dialogue: 0,0:13:32.70,0:13:37.18,Default,en,0,0,0,,I am Dokuganryu, a family member of Rikudomaoh looking to rule over the world!
+Dialogue: 0,0:13:37.68,0:13:41.73,Default,en,0,0,0,,Ieyasu, answer me right now. I am impatient.
+Dialogue: 0,0:13:41.94,0:13:48.45,Default,en,0,0,0,,You bastard! Everyone! Return the fire! We will not hand over the sacred sword!
+Dialogue: 0,0:14:05.19,0:14:06.90,Default,en,0,0,0,,What kind of monster is that?!
+Dialogue: 0,0:14:07.32,0:14:11.05,Default,en,0,0,0,,Lord Ieyasu. It is dangerous here. You have to take shelter!
+Dialogue: 0,0:14:11.36,0:14:14.71,Default,en,0,0,0,,You fool! Do you think that the ruler of a country can flee from the castle?
+Dialogue: 0,0:14:14.71,0:14:17.16,Default,en,0,0,0,,Hey! Fire, fire, and keep firing!
+Dialogue: 0,0:14:22.56,0:14:25.53,Default,en,0,0,0,,We'll end up becoming crushed at this rate!
+Dialogue: 0,0:14:25.79,0:14:29.99,Default,en,0,0,0,,If our castle can move too, it would be a good battle between two castles.
+Dialogue: 0,0:14:31.00,0:14:35.89,Default,en,0,0,0,,That's it-{\i1}dasu{\i0}, that's it-{\i1}dasu{\i0}! You can be right sometimes-{\i1}dasu{\i0}!
+Dialogue: 0,0:14:36.63,0:14:40.07,Default,en,0,0,0,,Hey, Musashi! What are you doing to the Highness?!
+Dialogue: 0,0:14:40.07,0:14:43.44,Default,en,0,0,0,,We have one-{\i1}dasu{\i0}! The castle that will stand up to them!
+Dialogue: 0,0:14:48.85,0:14:52.22,Default,en,0,0,0,,Musashi, what do you mean by the castle that will stand up to Megaton Castle?
+Dialogue: 0,0:14:52.22,0:14:52.99,Default,en,0,0,0,,That's it-{\i1}dasu{\i0}!
+Dialogue: 0,0:14:53.28,0:14:57.58,Default,en,0,0,0,,Fusion Castle! That does move!
+Dialogue: 0,0:15:02.92,0:15:06.26,Default,en,0,0,0,,This must be the cockpit of Fusion Castle!
+Dialogue: 0,0:15:15.31,0:15:17.42,Default,en,0,0,0,,Alright! We're moving forward-{\i1}dasu{\i0}!
+Dialogue: 0,0:15:24.87,0:15:28.10,Default,en,0,0,0,,We'll crash this to the enemy and knock it over-{\i1}dasu{\i0}!
+Dialogue: 0,0:15:40.24,0:15:42.14,Default,en,0,0,0,,My pointy nose...
+Dialogue: 0,0:15:42.46,0:15:44.01,Default,en,0,0,0,,What was that for, Musashi?!
+Dialogue: 0,0:15:44.01,0:15:45.32,Default,en,0,0,0,,Look at that-{\i1}dasu{\i0}!
+Dialogue: 0,0:15:47.95,0:15:48.70,Default,en,0,0,0,,Damn!
+Dialogue: 0,0:15:50.47,0:15:55.98,Default,en,0,0,0,,We can't go through here-{\i1}dasu{\i0}. I thought I had a good idea...
+Dialogue: 0,0:15:56.29,0:15:59.65,Default,en,0,0,0,,Don't give up, Musashi! This castle can divided into seven!
+Dialogue: 0,0:15:59.95,0:16:05.24,Default,en,0,0,0,,But who'll move those 7 parts-{\i1}dasu{\i0}? There are only 3 here-{\i1}dasu{\i0}.
+Dialogue: 0,0:16:05.45,0:16:07.28,Default,en,0,0,0,,That was unusually clever.
+Dialogue: 0,0:16:07.28,0:16:08.68,Default,en,0,0,0,,We'll help!
+Dialogue: 0,0:16:10.01,0:16:14.63,Default,en,0,0,0,,Boss Zenigatan! Jiraiyan! Mr. Ushiwaka! Mr. Benkei in addition!
+Dialogue: 0,0:16:14.95,0:16:16.73,Default,en,0,0,0,,I am not an addition!
+Dialogue: 0,0:16:16.93,0:16:20.69,Default,en,0,0,0,,As a fellow martial artist, I cannot forgive an evil wrongdoing like that!
+Dialogue: 0,0:16:20.88,0:16:25.93,Default,en,0,0,0,,Me too! I'm really up for a real fight, since I've changed recently!
+Dialogue: 0,0:16:26.43,0:16:30.87,Default,en,0,0,0,,Whoever disrupts the peace of Edotopia will not be forgiven by me, Zenigatan!
+Dialogue: 0,0:16:31.09,0:16:36.23,Default,en,0,0,0,,Everyone! Alright! We'll show the friendship powers of Karakuri martial artists-{\i1}dasu{\i0}!
+Dialogue: 0,0:16:46.43,0:16:48.82,Default,en,0,0,0,,Alright, everyone! Let's go-{\i1}dasu{\i0}!
+Dialogue: 0,0:17:08.03,0:17:10.01,Default,en,0,0,0,,Set out for Edo castle!
+Dialogue: 0,0:17:10.56,0:17:11.74,Default,en,0,0,0,,Right!
+Dialogue: 0,0:17:23.93,0:17:28.44,Default,en,0,0,0,,It was big when it was far away, but it's even bigger when it got closer!
+Dialogue: 0,0:17:28.44,0:17:31.95,Default,en,0,0,0,,Mr. Ieyasu. We have to get the Highness to somewhere safe.
+Dialogue: 0,0:17:32.31,0:17:38.14,Default,en,0,0,0,,No. If this Edo Castle gets destroyed, there is no more safe place.
+Dialogue: 0,0:17:38.14,0:17:41.06,Default,en,0,0,0,,Musashi, Kojirō, hurry up and come!
+Dialogue: 0,0:17:43.02,0:17:47.00,Default,en,0,0,0,,If you don't want to have your castle destroyed, then hand over the sacred sword!
+Dialogue: 0,0:17:47.00,0:17:52.21,Default,en,0,0,0,,I refuse! No fool will acknowledge you bastards as the king of this country!
+Dialogue: 0,0:17:53.52,0:17:57.57,Default,en,0,0,0,,Then die. We can always find the sacred sword later in peace.
+Dialogue: 0,0:18:00.40,0:18:02.39,Default,en,0,0,0,,We're doomed!
+Dialogue: 0,0:18:02.39,0:18:04.11,Default,en,0,0,0,,Stop-{\i1}dasu{\i0}!
+Dialogue: 0,0:18:07.08,0:18:08.68,Default,en,0,0,0,,That must be Fusion Castle!
+Dialogue: 0,0:18:08.68,0:18:09.59,Default,en,0,0,0,,Musashi!
+Dialogue: 0,0:18:14.06,0:18:17.52,Default,en,0,0,0,,We aren't afraid of Megaton Castle anymore, since we got this-{\i1}dasu{\i0}!
+Dialogue: 0,0:18:17.76,0:18:22.66,Default,en,0,0,0,,You fool! Do you really think that you can defeat Megaton Castle with something that small?!
+Dialogue: 0,0:18:23.39,0:18:26.70,Default,en,0,0,0,,You can judge whether it's small after this-{\i1}dasu{\i0}!
+Dialogue: 0,0:18:42.56,0:18:43.71,Default,en,0,0,0,,T- that's!
+Dialogue: 0,0:18:44.12,0:18:47.81,Default,en,0,0,0,,Hmph. Fusion Castle. You used your brain for once, Musashi.
+Dialogue: 0,0:18:48.13,0:18:53.93,Default,en,0,0,0,,Did you see-{\i1}dasu{\i0}? This is Fusion Castle, the ultimate stadium of Jipangu Martial Arts Competition-{\i1}dasu{\i0}!
+Dialogue: 0,0:18:54.21,0:18:55.76,Default,en,0,0,0,,Here we go-{\i1}dasu{\i0}!
+Dialogue: 0,0:19:08.79,0:19:11.76,Default,en,0,0,0,,You bastard! How impudent of you!
+Dialogue: 0,0:19:12.58,0:19:15.49,Default,en,0,0,0,,Power room! Do you repeat? Power room!
+Dialogue: 0,0:19:15.87,0:19:21.10,Default,en,0,0,0,,This is the power room. To explain about how Megaton Castle moves,
+Dialogue: 0,0:19:21.59,0:19:26.37,Default,en,0,0,0,,5 monks named The Five Mystery Monks move it with psychokinesis.
+Dialogue: 0,0:19:29.03,0:19:31.20,Default,en,0,0,0,,Power room! Full power!
+Dialogue: 0,0:19:43.24,0:19:45.01,Default,en,0,0,0,,We don't lose-{\i1}dasu{\i0}!
+Dialogue: 0,0:19:45.41,0:19:47.23,Default,en,0,0,0,,Everyone, power up-{\i1}dasu{\i0}!
+Dialogue: 0,0:19:50.03,0:19:53.50,Default,en,0,0,0,,You're pretty good. But you won't evade this!
+Dialogue: 0,0:19:57.40,0:19:58.31,Default,en,0,0,0,,Musashi!
+Dialogue: 0,0:19:58.60,0:20:00.45,Default,en,0,0,0,,Musashi! Are you okay, Musashi?!
+Dialogue: 0,0:20:02.91,0:20:04.08,Default,en,0,0,0,,I'm fine-{\i1}dasu{\i0}.
+Dialogue: 0,0:20:06.44,0:20:10.42,Default,en,0,0,0,,Now, while this holds up, let's sink them into the sea!
+Dialogue: 0,0:20:19.03,0:20:20.28,Default,en,0,0,0,,It's at its limit!
+Dialogue: 0,0:20:20.28,0:20:21.13,Default,en,0,0,0,,Let's escape!
+Dialogue: 0,0:20:28.50,0:20:33.84,Default,en,0,0,0,,Hah! I knew that was children's toy! It can't possibly be an enemy of this Megaton Castle!
+Dialogue: 0,0:20:34.48,0:20:37.15,Default,en,0,0,0,,Now, crush Edo Castle at once!
+Dialogue: 0,0:20:37.15,0:20:37.94,Default,en,0,0,0,,Lord Dokuganryu!
+Dialogue: 0,0:20:38.35,0:20:39.14,Default,en,0,0,0,,What is it?!
+Dialogue: 0,0:20:39.45,0:20:41.69,Default,en,0,0,0,,The power room isn't making any power!
+Dialogue: 0,0:20:42.17,0:20:42.91,Default,en,0,0,0,,What?!
+Dialogue: 0,0:20:47.44,0:20:51.65,Default,en,0,0,0,,You bastards... This will be paid back!
+Dialogue: 0,0:20:52.36,0:20:54.56,Default,en,0,0,0,,Emergency firecracker rocket, ignite!
+Dialogue: 0,0:21:00.97,0:21:03.78,Default,en,0,0,0,,Hmph! We won-{\i1}dasu{\i0}!
+Dialogue: 0,0:21:03.78,0:21:06.75,Default,en,0,0,0,,-Musashi!\N-Good job! Good job!
+Dialogue: 0,0:21:07.31,0:21:08.52,Default,en,0,0,0,,You did it, Musashi.
+Dialogue: 0,0:21:08.52,0:21:10.69,Default,en,0,0,0,,No, it's thanks to everyone-{\i1}dasu{\i0}.
+Dialogue: 0,0:21:10.69,0:21:12.20,Default,en,0,0,0,,Mr. Musashi!
+Dialogue: 0,0:21:12.69,0:21:14.64,Default,en,0,0,0,,Mr. Musashi!
+Dialogue: 0,0:21:14.99,0:21:16.16,Default,en,0,0,0,,Otsuru!
+Dialogue: 0,0:21:18.74,0:21:20.79,Default,en,0,0,0,,Otsuru, you're safe-{\i1}dasu{\i0}!
+Dialogue: 0,0:21:20.79,0:21:23.58,Default,en,0,0,0,,I was worried about you, Mr. Musashi!
+Dialogue: 0,0:21:24.50,0:21:26.92,Default,en,0,0,0,,You must be hungry after that fighting!
+Dialogue: 0,0:21:27.15,0:21:28.54,Default,en,0,0,0,,Have this!
+Dialogue: 0,0:21:28.60,0:21:34.05,Default,en,0,0,0,,I'm so deeply happy-{\i1}dasu{\i0}! Dangos after a battle are the best-{\i1}dasu{\i0}!
+Dialogue: 0,0:21:35.98,0:21:37.18,Default,en,0,0,0,,Osenchan!
+Dialogue: 0,0:21:38.41,0:21:45.56,Default,en,0,0,0,,You usual idiot did a great job today! You were hiding your brain capabilities!
+Dialogue: 0,0:21:45.56,0:21:48.85,Default,en,0,0,0,,No, no, stop it-{\i1}dasu{\i0}! Stop it-{\i1}dasu{\i0}!
+Dialogue: 0,0:21:50.02,0:21:54.02,Default,en,0,0,0,,Now, Mr. Kojirō and everyone, you must be hungry! Have some dangos.
+Dialogue: 0,0:21:54.02,0:21:55.51,Default,en,0,0,0,,Oh, right, thank you!
+Dialogue: 0,0:21:55.51,0:21:56.35,Default,en,0,0,0,,Yeah!
+Dialogue: 0,0:21:58.78,0:22:01.48,Default,en,0,0,0,,My dangos!
+Dialogue: 0,0:22:05.28,0:22:08.87,Default,en,0,0,0,,-Otsuru!\N-Hey, Musashi, smile! Smile!
+Dialogue: 0,0:22:09.09,0:22:10.36,Default,en,0,0,0,,Otsuru!
+Dialogue: 0,0:22:11.52,0:22:16.18,Default,en,0,0,0,,That fearful Megaton Castle was beaten off by the friendship power of Musashi and his friends.
+Dialogue: 0,0:22:16.18,0:22:19.63,Default,en,0,0,0,,But Musashi got a new problem.
+Dialogue: 0,0:22:19.94,0:22:22.88,Default,en,0,0,0,,That was Otsuru who is very jealous.
+Dialogue: 0,0:22:42.16,0:22:44.20,SongED1,en,0,0,0,,Sometimes the moon jumps over
+Dialogue: 0,0:22:44.91,0:22:47.45,SongED1,en,0,0,0,,the pocket of empty sky
+Dialogue: 0,0:22:47.66,0:22:49.83,SongED1,en,0,0,0,,Laugh loudly and
+Dialogue: 0,0:22:50.46,0:22:52.46,SongED1,en,0,0,0,,morning will come tomorrow
+Dialogue: 0,0:22:53.21,0:22:57.80,SongED1,en,0,0,0,,Don't worry too much about losing
+Dialogue: 0,0:22:58.80,0:23:01.38,SongED1,en,0,0,0,,Keep going! Go for it!
+Dialogue: 0,0:23:01.38,0:23:03.80,SongED1,en,0,0,0,,A bare hand is strong
+Dialogue: 0,0:23:04.22,0:23:13.89,SongED1,en,0,0,0,,That's how it is! Let's go lightly
+Dialogue: 0,0:23:14.35,0:23:21.94,SongED1,en,0,0,0,,That's how life is! Look, a chance
+Dialogue: 0,0:23:22.40,0:23:26.66,SongED1,en,0,0,0,,follows us wagging its tail!
+Dialogue: 0,0:23:28.08,0:23:37.59,SongED1,en,0,0,0,,That's how it is! Let's go lightly
+Dialogue: 0,0:23:38.09,0:23:46.05,SongED1,en,0,0,0,,That's how the future is, too! Look, tomorrow
+Dialogue: 0,0:23:46.30,0:23:51.89,SongED1,en,0,0,0,,is opening its hands and smiling at us!
+Dialogue: 0,0:24:04.21,0:24:07.74,Default,en,0,0,0,,That unmanageable person Osenchan's going to rescue the Highness who's really handsome,
+Dialogue: 0,0:24:07.74,0:24:11.14,Default,en,0,0,0,,after being unable to find a boyfriend for a long time-{\i1}dasu{\i0}!
+Dialogue: 0,0:24:11.45,0:24:15.72,Default,en,0,0,0,,Megaton Castle came to attack again, and Edotopia's on big fire-{\i1}dasu{\i0}!
+Dialogue: 0,0:24:16.23,0:24:22.08,Default,en,0,0,0,,Jiraiyan and others are doing their best to put off fire, but Otsuru's dango store is also burnt-{\i1}dasu{\i0}!
+Dialogue: 0,0:24:22.55,0:24:25.16,Default,en,0,0,0,,Next story! Senhime's Love Wins
+Dialogue: 0,0:24:25.42,0:24:28.29,Default,en,0,0,0,,It's a stormy cooked dango-{\i1}dasu{\i0}!
+Dialogue: 0,0:24:26.97,0:24:30.97,NoteOnAnime,en,60,0,60,,{\an7}Next Episode
+Dialogue: 0,0:24:26.97,0:24:30.97,TitleEP,en,0,0,220,,Senhime's Love
+Dialogue: 0,0:24:26.97,0:24:30.97,TitleEP,en,0,0,80,,Wins
+Dialogue: 0,0:24:26.97,0:24:30.97,NoteOnAnime,en,0,60,30,,{\an3\fs32}Look forwards for it!

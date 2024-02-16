@@ -1,0 +1,340 @@
+﻿[Script Info]
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 480
+Title: Woah! It's Ishimatsu's Ghost!
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: NoteOnAnime,Candara,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,10,1
+Style: OP1TR,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: TitleOP,DejaVu Serif,42,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: TitleEP,DejaVu Serif,42,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: ED1TR,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: Note,Candara,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,10,10,10,1
+Style: Eyecatch,Candara,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,10,10,10,1
+Style: NoteOnAnimeVert,@맑은 고딕,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,10,1
+Style: InsOtsuru,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.27,0:00:06.50,Default,en,0,0,0,,It is the turbulent Sengoku period.
+Dialogue: 0,0:00:06.91,0:00:11.73,Default,en,0,0,0,,Warlords keep on fighting day and night over\NJipangu State, where Karakuri people live.
+Dialogue: 0,0:00:11.73,0:00:16.69,Default,en,0,0,0,,Karakuri martial artists were sharpening their swords, dreaming of victory and honor.
+Dialogue: 0,0:00:16.69,0:00:23.16,Default,en,0,0,0,,And now, a wild hero has arrived, seeking to be the number one Karakuri martial artist!
+Dialogue: 0,0:00:24.30,0:00:26.83,Default,en,0,0,0,,Musashi is here-{\i1}dasu{\i0}!
+Dialogue: 0,0:00:27.81,0:00:32.99,TitleOP,en,0,0,40,,{\an8\fs32\fade(770,0)}Karakuri Kengouden
+Dialogue: 0,0:00:27.81,0:00:32.99,TitleOP,en,0,0,40,,{\fade(770,0)}Musashi Road
+Dialogue: 0,0:00:27.81,0:00:32.99,TitleOP,en,0,0,40,,{\fs24\fade(770,0)}(The Story of {\i1}Karakuri{\i0} Martial Artist: Road of Musashi)
+Dialogue: 0,0:00:32.99,0:00:37.82,SongOP,en,0,0,0,,A man always dreams of the day
+Dialogue: 0,0:00:38.66,0:00:41.58,SongOP,en,0,0,0,,in the center of the world to become
+Dialogue: 0,0:00:41.58,0:00:44.45,SongOP,en,0,0,0,,AH! AH! the strongest
+Dialogue: 0,0:00:44.45,0:00:49.49,SongOP,en,0,0,0,,Raise the sword of your heart high to the wide sky
+Dialogue: 0,0:00:50.13,0:00:54.13,SongOP,en,0,0,0,,Raise the curtain to the road of adventure
+Dialogue: 0,0:00:55.46,0:01:00.72,SongOP,en,0,0,0,,A skilled swordsman roams on Jipangu State
+Dialogue: 0,0:01:01.30,0:01:06.37,SongOP,en,0,0,0,,His name is Musashi, a Karakuri man
+Dialogue: 0,0:01:06.37,0:01:07.84,SongOP,en,0,0,0,,Go! Fight!
+Dialogue: 0,0:01:07.84,0:01:10.80,SongOP,en,0,0,0,,The sound of fierce duels
+Dialogue: 0,0:01:10.80,0:01:13.61,SongOP,en,0,0,0,,makes life dazzling
+Dialogue: 0,0:01:13.61,0:01:19.07,SongOP,en,0,0,0,,Battles of yesterdays make you stronger today
+Dialogue: 0,0:01:19.12,0:01:25.34,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
+Dialogue: 0,0:01:25.34,0:01:28.32,SongOP,en,0,0,0,,Tomorrow will be glorious
+Dialogue: 0,0:01:28.32,0:01:30.79,SongOP,en,0,0,0,,The sound of fierce duels
+Dialogue: 0,0:01:30.79,0:01:33.32,SongOP,en,0,0,0,,makes life dazzling
+Dialogue: 0,0:01:34.03,0:01:39.39,SongOP,en,0,0,0,,Fight the utmost with the stillness
+Dialogue: 0,0:01:39.41,0:01:45.64,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
+Dialogue: 0,0:01:45.64,0:01:50.90,SongOP,en,0,0,0,,His eyes shined! Musashi!
+Dialogue: 0,0:02:02.32,0:02:07.40,Default,en,0,0,0,,Shutentiger was forcing the villagers to work to mine alluvial gold.
+Dialogue: 0,0:02:08.50,0:02:17.34,Default,en,0,0,0,,Musashi and Kojirō responded to Santa's wish by making Shutentiger explode after a intense fight.
+Dialogue: 0,0:02:18.15,0:02:23.20,TitleEP,en,0,0,250,,Woah!
+Dialogue: 0,0:02:18.15,0:02:23.20,TitleEP,en,0,0,110,,It's Ishimatsu's Ghost!
+Dialogue: 0,0:02:25.45,0:02:30.50,Default,en,0,0,0,,Our characters have stopped at a hot spring to relieve their strain of travelling.
+Dialogue: 0,0:02:37.92,0:02:40.09,Default,en,0,0,0,,Hot springs are the best no matter what.
+Dialogue: 0,0:02:46.88,0:02:50.37,Default,en,0,0,0,,Hey, Kojirō, let's get into the hot spring too-{\i1}dasu{\i0}.
+Dialogue: 0,0:02:50.74,0:02:55.20,Default,en,0,0,0,,What if Senhime gets attacked? Do you think we have time to enjoy something at leisure?
+Dialogue: 0,0:02:55.49,0:03:00.60,Default,en,0,0,0,,Hmm, then I'll join Osenchan in the bath and stand watch-{\i1}dasu{\i0}.
+Dialogue: 0,0:03:00.73,0:03:03.86,Default,en,0,0,0,,I- idiot! Don't you know your etiquette?
+Dialogue: 0,0:03:04.34,0:03:06.28,Default,en,0,0,0,,I'm just doing what I have to-{\i1}dasu{\i0}.
+Dialogue: 0,0:03:06.85,0:03:07.46,Default,en,0,0,0,,Then!
+Dialogue: 0,0:03:10.96,0:03:12.21,Default,en,0,0,0,,I told you.
+Dialogue: 0,0:03:12.60,0:03:16.10,Default,en,0,0,0,,We don't even have to protect her if she's that strong-{\i1}dasu{\i0}...
+Dialogue: 0,0:03:16.10,0:03:17.17,Default,en,0,0,0,,Musashi!
+Dialogue: 0,0:03:27.80,0:03:30.60,Default,en,0,0,0,,This is one gloomy inn-{\i1}dasu{\i0}.
+Dialogue: 0,0:03:30.82,0:03:32.82,Default,en,0,0,0,,What is it, Musashi? Are you scared?
+Dialogue: 0,0:03:32.98,0:03:34.74,Default,en,0,0,0,,T- that's not it-{\i1}dasu{\i0}!
+Dialogue: 0,0:03:34.93,0:03:36.90,Default,en,0,0,0,,But aren't you shivering your knees?
+Dialogue: 0,0:03:41.09,0:03:45.24,Default,en,0,0,0,,T- t- this is because the dinner is late-{\i1}dasu{\i0}.
+Dialogue: 0,0:04:01.63,0:04:03.06,Default,en,0,0,0,,Princess, watch out!
+Dialogue: 0,0:04:03.62,0:04:05.53,Default,en,0,0,0,,Dinner is ready.
+Dialogue: 0,0:04:09.17,0:04:13.80,Default,en,0,0,0,,Oh, it was just the inn owner-{\i1}dasu{\i0}! Please don't scare us like that-{\i1}dasu{\i0}!
+Dialogue: 0,0:04:15.53,0:04:17.25,Default,en,0,0,0,,Aren't you a coward, Musashi.
+Dialogue: 0,0:04:17.64,0:04:23.95,Default,en,0,0,0,,N- no, that isn't it-{\i1}dasu{\i0}. I was just like, "Wow, the food is finally here!"-{\i1}dasu{\i0}!
+Dialogue: 0,0:04:23.95,0:04:28.20,Default,en,0,0,0,,I was so hungry-{\i1}dasu{\i0}! I'll eat as much as... I... wanted-{\i1}dasu{\i0}...
+Dialogue: 0,0:04:30.53,0:04:32.50,Default,en,0,0,0,,I- is this all you have-{\i1}dasu{\i0}?
+Dialogue: 0,0:04:32.50,0:04:35.44,Default,en,0,0,0,,Even a diet menu would be more than this.
+Dialogue: 0,0:04:35.68,0:04:37.51,Default,en,0,0,0,,Isn't this too much?
+Dialogue: 0,0:04:37.78,0:04:44.80,Default,en,0,0,0,,I'm sorry. But this is the best cooking available.
+Dialogue: 0,0:04:48.00,0:04:52.54,Default,en,0,0,0,,It seems that he has something to tell. Would you like to share your story with us?
+Dialogue: 0,0:04:53.37,0:05:01.89,Default,en,0,0,0,,Yes. There is a mountain named Osorezan near this village, and it is told that spirits gather in there.
+Dialogue: 0,0:05:06.00,0:05:13.18,Default,en,0,0,0,,Recently at there, the departed spirits of fleeing soldiers have appeared and raged.
+Dialogue: 0,0:05:13.81,0:05:23.30,Default,en,0,0,0,,The villagers were scared and left the village, and this inn is the only remaining here.
+Dialogue: 0,0:05:25.90,0:05:31.18,Default,en,0,0,0,,Those are really bad ghosts. Alright, we will get rid of those ghosts.
+Dialogue: 0,0:05:31.60,0:05:32.61,Default,en,0,0,0,,Really?
+Dialogue: 0,0:05:32.92,0:05:36.09,Default,en,0,0,0,,J- j- just a moment, Osenchan! That's too dangerous-{\i1}dasu{\i0}!
+Dialogue: 0,0:05:36.09,0:05:41.89,Default,en,0,0,0,,Hey, I never said that I'm going to do that myself. It's you who's going to wipe them out. You will.
+Dialogue: 0,0:05:41.89,0:05:44.42,Default,en,0,0,0,,I... I will?
+Dialogue: 0,0:05:44.60,0:05:47.14,Default,en,0,0,0,,-Are you scared?\N-Err, no way-{\i1}dasu{\i0}.
+Dialogue: 0,0:05:47.30,0:05:51.30,Default,en,0,0,0,,That's right! Musashi is an excellent martial artist!
+Dialogue: 0,0:05:51.41,0:05:52.74,Default,en,0,0,0,,It's good if you know that-{\i1}dasu{\i0}.
+Dialogue: 0,0:05:52.97,0:05:57.94,Default,en,0,0,0,,That ghost does not have eyes, a neck, or anything, and will appear like this...
+Dialogue: 0,0:06:02.26,0:06:06.17,Default,en,0,0,0,,Aren't you a scardycat, Musashi.
+Dialogue: 0,0:06:06.41,0:06:10.16,Default,en,0,0,0,,Osenchan, I don't care about dinner anymore, so please let us sleep now-{\i1}dasu{\i0}...
+Dialogue: 0,0:06:10.70,0:06:16.41,Default,en,0,0,0,,Nope! This is a rare chance to see ghosts with my bare eyes. Do you think I can sleep without missing that chance?
+Dialogue: 0,0:06:16.78,0:06:17.91,Default,en,0,0,0,,Don't you agree, Kojirō?
+Dialogue: 0,0:06:21.30,0:06:23.48,Default,en,0,0,0,,Kojirō, aren't you scared?
+Dialogue: 0,0:06:23.86,0:06:28.12,Default,en,0,0,0,,Yes. Coincidentally, I don't believe in ghosts at the moment.
+Dialogue: 0,0:06:28.37,0:06:30.66,Default,en,0,0,0,,Then you go take ghosts down-{\i1}dasu{\i0}.
+Dialogue: 0,0:06:30.99,0:06:35.91,Default,en,0,0,0,,My objective is to protect Senhime. Nothing more or less than that.
+Dialogue: 0,0:06:36.17,0:06:37.93,Default,en,0,0,0,,I see that you're scared too, Kojirō-{\i1}dasu{\i0}.
+Dialogue: 0,0:06:42.22,0:06:48.57,Default,en,0,0,0,,This means that ghosts will show up soon. Then...
+Dialogue: 0,0:06:49.36,0:06:50.45,Default,en,0,0,0,,Night!
+Dialogue: 0,0:06:50.45,0:06:51.24,Default,en,0,0,0,,Hey, inn owner!
+Dialogue: 0,0:06:54.14,0:06:56.16,Default,en,0,0,0,,It just became interesting.
+Dialogue: 0,0:06:56.45,0:06:57.71,Default,en,0,0,0,,How-{\i1}dasu{\i0}...
+Dialogue: 0,0:06:58.14,0:07:00.13,Default,en,0,0,0,,Go, Musashi, Kojirō!
+Dialogue: 0,0:07:00.32,0:07:04.06,Default,en,0,0,0,,B- before that, let me go to toilet-{\i1}dasu{\i0}!
+Dialogue: 0,0:07:04.32,0:07:05.18,Default,en,0,0,0,,Musashi!
+Dialogue: 0,0:07:06.82,0:07:09.69,Default,en,0,0,0,,Musashi...
+Dialogue: 0,0:07:10.50,0:07:12.98,Default,en,0,0,0,,Musashi...
+Dialogue: 0,0:07:14.04,0:07:16.64,Default,en,0,0,0,,Musashi...
+Dialogue: 0,0:07:16.92,0:07:20.64,Default,en,0,0,0,,I suddenly wanted to pee because it became scary-{\i1}dasu{\i0}...
+Dialogue: 0,0:07:20.64,0:07:22.40,Default,en,0,0,0,,Musashi...
+Dialogue: 0,0:07:22.64,0:07:24.01,Default,en,0,0,0,,W- w- who is that-{\i1}dasu{\i0}?!
+Dialogue: 0,0:07:27.98,0:07:34.00,Default,en,0,0,0,,Hey, why are dangos here? Kojirō sure grant me my wish sometimes-{\i1}dasu{\i0}!
+Dialogue: 0,0:07:34.69,0:07:37.83,Default,en,0,0,0,,If he's with something to eat, he should tell me as-is-{\i1}dasu{\i0}.
+Dialogue: 0,0:07:38.61,0:07:40.03,Default,en,0,0,0,,Thank you for this!
+Dialogue: 0,0:07:40.89,0:07:41.72,Default,en,0,0,0,,H- huh?
+Dialogue: 0,0:07:45.38,0:07:48.48,Default,en,0,0,0,,Huh, it moved that far while I wasn't looking at-{\i1}dasu{\i0}.
+Dialogue: 0,0:07:49.81,0:07:54.28,Default,en,0,0,0,,Huh? Hey, stop-{\i1}dasu{\i0}! You're one active dangos!
+Dialogue: 0,0:07:55.65,0:07:58.94,Default,en,0,0,0,,I knew it. Musashi ran away because he was scared.
+Dialogue: 0,0:07:59.94,0:08:00.86,Default,en,0,0,0,,Hey, Musashi!
+Dialogue: 0,0:08:01.22,0:08:02.88,Default,en,0,0,0,,Hey, Musashi!
+Dialogue: 0,0:08:02.96,0:08:04.09,Default,en,0,0,0,,Hey, wait-{\i1}dasu{\i0}!
+Dialogue: 0,0:08:04.78,0:08:07.74,Default,en,0,0,0,,He has no courage whatsoever.
+Dialogue: 0,0:08:07.85,0:08:09.85,Default,en,0,0,0,,No, something looks very wrong with him.
+Dialogue: 0,0:08:10.00,0:08:11.54,Default,en,0,0,0,,-Huh?\N-Let's follow him.
+Dialogue: 0,0:08:17.62,0:08:21.62,Default,en,0,0,0,,I wonder where did that dango-chan hide to.
+Dialogue: 0,0:08:21.72,0:08:24.30,Default,en,0,0,0,,Hey, Musashi! Long time no see!
+Dialogue: 0,0:08:30.25,0:08:31.49,Default,en,0,0,0,,M- Mr. Ishimatsu!
+Dialogue: 0,0:08:32.16,0:08:35.87,Default,en,0,0,0,,Ishimatsu was like an older brother of Musashi.
+Dialogue: 0,0:08:36.43,0:08:37.07,Default,en,0,0,0,,Heya!
+Dialogue: 0,0:08:37.65,0:08:40.74,Default,en,0,0,0,,B- but, Mr. Ishimatsu, you were supposed to be dead...
+Dialogue: 0,0:08:41.12,0:08:43.54,Default,en,0,0,0,,Yeah, just as you see, I'm a ghost.
+Dialogue: 0,0:08:46.20,0:08:50.38,Default,en,0,0,0,,It's been a long time, and this is how you treat me, bro?
+Dialogue: 0,0:08:50.76,0:08:54.44,Default,en,0,0,0,,Mr. Ishimatsu, you haven't changed at all from when you were living...
+Dialogue: 0,0:08:54.44,0:08:57.84,Default,en,0,0,0,,Did you get lost and couldn't rest in peace-{\i1}dasu{\i0}?
+Dialogue: 0,0:08:58.21,0:09:02.82,Default,en,0,0,0,,You idiot! The road to the other world is one step away; you simply cannot get lost!
+Dialogue: 0,0:09:03.75,0:09:08.09,Default,en,0,0,0,,But, you know, walking that path alone is somewhat lonely.
+Dialogue: 0,0:09:09.28,0:09:11.85,Default,en,0,0,0,,Musashi, wouldn't you like to go with me?
+Dialogue: 0,0:09:12.12,0:09:14.82,Default,en,0,0,0,,Huh? Are you telling me to die-{\i1}dasu{\i0}?
+Dialogue: 0,0:09:15.08,0:09:15.70,Default,en,0,0,0,,Right!
+Dialogue: 0,0:09:15.96,0:09:19.60,Default,en,0,0,0,,I- I can't accept that wish even if it's Mr. Ishimatsu's one.
+Dialogue: 0,0:09:19.97,0:09:23.65,Default,en,0,0,0,,The dangos that we ate back then was great...
+Dialogue: 0,0:09:24.49,0:09:26.59,Default,en,0,0,0,,You're right-{\i1}dasu{\i0}!
+Dialogue: 0,0:09:27.96,0:09:32.74,Default,en,0,0,0,,If you didn't mess up back then, I would be living instead of being dead.
+Dialogue: 0,0:09:37.44,0:09:40.22,Default,en,0,0,0,,I am really sorry about what happened back then-{\i1}dasu{\i0}.
+Dialogue: 0,0:09:40.57,0:09:43.52,Default,en,0,0,0,,But you know, it's all good memories now!
+Dialogue: 0,0:09:44.22,0:09:49.51,Default,en,0,0,0,,How's this, Musashi? Wouldn't you like to travel by two with me like how we did back then?
+Dialogue: 0,0:09:49.51,0:09:53.24,Default,en,0,0,0,,B- but! Dying is still scary-{\i1}dasu{\i0}...
+Dialogue: 0,0:09:53.56,0:09:59.89,Default,en,0,0,0,,How spiritless are you? I guess you'd be satisfied if we die together!
+Dialogue: 0,0:09:59.89,0:10:02.86,Default,en,0,0,0,,That's it-{\i1}dasu{\i0}! That will work perfectly-{\i1}dasu{\i0}!
+Dialogue: 0,0:10:03.13,0:10:04.69,Default,en,0,0,0,,Alright! Then let's hurry!
+Dialogue: 0,0:10:10.54,0:10:15.47,Default,en,0,0,0,,I'll count; let's jump off when I say one, two, and three!
+Dialogue: 0,0:10:15.47,0:10:16.41,Default,en,0,0,0,,Got it-{\i1}dasu{\i0}!
+Dialogue: 0,0:10:17.20,0:10:18.97,Default,en,0,0,0,,Then let's do this! One...
+Dialogue: 0,0:10:19.49,0:10:20.26,Default,en,0,0,0,,Two and...
+Dialogue: 0,0:10:20.68,0:10:21.97,Default,en,0,0,0,,-Three\N-Errr
+Dialogue: 0,0:10:23.48,0:10:25.32,Default,en,0,0,0,,Are you okay, Mr. Ishimatsu?
+Dialogue: 0,0:10:25.32,0:10:31.03,Default,en,0,0,0,,Erm, f- forget about me! It could have been better if you jumped down right away.
+Dialogue: 0,0:10:31.20,0:10:35.21,Default,en,0,0,0,,No, I can't let Mr. Ishimatsu be alone and be lonely!
+Dialogue: 0,0:10:35.21,0:10:36.86,Default,en,0,0,0,,Aren't you cumbersome...
+Dialogue: 0,0:10:37.41,0:10:40.08,Default,en,0,0,0,,Alright! Let's brace ourselves up and try this again!
+Dialogue: 0,0:10:40.16,0:10:40.97,Default,en,0,0,0,,One!
+Dialogue: 0,0:10:41.21,0:10:41.86,Default,en,0,0,0,,Two and...
+Dialogue: 0,0:10:42.02,0:10:42.82,Default,en,0,0,0,,Three
+Dialogue: 0,0:10:43.18,0:10:46.53,Default,en,0,0,0,,Huh? Mr. Ishimatsu, why aren't you jumping off-{\i1}dasu{\i0}?
+Dialogue: 0,0:10:46.69,0:10:49.02,Default,en,0,0,0,,U- uh, that is...
+Dialogue: 0,0:10:49.55,0:10:51.96,Default,en,0,0,0,,I have something to ask you, Mr. Ishimatsu-{\i1}dasu{\i0}.
+Dialogue: 0,0:10:52.52,0:10:53.37,Default,en,0,0,0,,What is it?
+Dialogue: 0,0:10:54.14,0:10:56.28,Default,en,0,0,0,,Can a ghost die twice-{\i1}dasu{\i0}?
+Dialogue: 0,0:10:57.30,0:11:02.66,Default,en,0,0,0,,I- idiot! For my cute younger brother, I can die multiple times!
+Dialogue: 0,0:11:03.21,0:11:09.73,Default,en,0,0,0,,That was it-{\i1}dasu{\i0}! You thought about me that much-{\i1}dasu{\i0}!
+Dialogue: 0,0:11:09.73,0:11:11.35,Default,en,0,0,0,,Hey, watch out!
+Dialogue: 0,0:11:11.80,0:11:15.33,Default,en,0,0,0,,Musashi, nevermind about whatever; let's just jump off!
+Dialogue: 0,0:11:15.52,0:11:18.33,Default,en,0,0,0,,-Musashi!\N-Musashi!
+Dialogue: 0,0:11:18.33,0:11:22.08,Default,en,0,0,0,,Oh, right. I must bid farewell to those two-{\i1}dasu{\i0}!
+Dialogue: 0,0:11:22.16,0:11:24.49,Default,en,0,0,0,,Dammit! Just die already!
+Dialogue: 0,0:11:34.44,0:11:35.78,Default,en,0,0,0,,What the-?! Who's there?!
+Dialogue: 0,0:11:38.46,0:11:40.69,Default,en,0,0,0,,Musashi!
+Dialogue: 0,0:11:40.90,0:11:41.95,Default,en,0,0,0,,More and more interference!
+Dialogue: 0,0:11:44.24,0:11:48.72,Default,en,0,0,0,,-Musashi!\N-Say something if you're there!
+Dialogue: 0,0:11:49.02,0:11:52.72,Default,en,0,0,0,,I'm here-{\i1}dasu{\i0}! Hey!
+Dialogue: 0,0:11:52.90,0:11:55.74,Default,en,0,0,0,,-Musashi!\N-What in the world are you doing?
+Dialogue: 0,0:11:57.25,0:12:03.57,Default,en,0,0,0,,Are you an idiot or what? Who in the world would be lured by a ghost and ask that ghost to die together?
+Dialogue: 0,0:12:03.88,0:12:09.76,Default,en,0,0,0,,But I cannot refuse Mr. Ishimatsu's favor when we are a brother by blood-{\i1}dasu{\i0}...
+Dialogue: 0,0:12:09.85,0:12:13.14,Default,en,0,0,0,,That Ishimatsu's ghost... Isn't something weird?
+Dialogue: 0,0:12:13.80,0:12:14.72,Default,en,0,0,0,,Weird?
+Dialogue: 0,0:12:15.34,0:12:19.03,Default,en,0,0,0,,You said you were kicked away hard. Does a ghost ever do that?
+Dialogue: 0,0:12:19.41,0:12:21.25,Default,en,0,0,0,,That's true-{\i1}dasu{\i0}, but...
+Dialogue: 0,0:12:21.25,0:12:25.02,Default,en,0,0,0,,Moreover, who threw the rope that saved your life?
+Dialogue: 0,0:12:25.25,0:12:25.82,Default,en,0,0,0,,Dunno...
+Dialogue: 0,0:12:26.60,0:12:32.25,Default,en,0,0,0,,According to my hunch, all the answer should be at that Osorezan.
+Dialogue: 0,0:12:34.96,0:12:40.48,Default,en,0,0,0,,What kind of secret is hidden in that Osorezan? Wait for the stormy latter half!
+Dialogue: 0,0:12:40.78,0:12:45.78,Eyecatch,en,0,0,0,,Karakuri Kengouden: Musashi Road
+Dialogue: 0,0:12:51.05,0:12:56.56,Default,en,0,0,0,,Wow. This lukewarm wind... It feels like something's about to show up.
+Dialogue: 0,0:12:56.88,0:12:58.64,Default,en,0,0,0,,What's going on?
+Dialogue: 0,0:12:58.88,0:13:02.87,Default,en,0,0,0,,Kojirō! Osenchan! Where are you-{\i1}dasu{\i0}?!
+Dialogue: 0,0:13:02.87,0:13:04.13,Default,en,0,0,0,,I'm here!
+Dialogue: 0,0:13:04.58,0:13:07.14,Default,en,0,0,0,,-Senhime!\N-I'm here too!
+Dialogue: 0,0:13:07.14,0:13:07.60,Default,en,0,0,0,,Huh?
+Dialogue: 0,0:13:07.60,0:13:12.47,Default,en,0,0,0,,Senhime! Musashi! You'd better not move here until the fog clears up.
+Dialogue: 0,0:13:12.70,0:13:14.86,Default,en,0,0,0,,-Let's wait for now!\N-Got it!
+Dialogue: 0,0:13:15.22,0:13:16.58,Default,en,0,0,0,,Roger-{\i1}dasu{\i0}!
+Dialogue: 0,0:13:17.56,0:13:18.50,Default,en,0,0,0,,Huh? Is it Kojirō?
+Dialogue: 0,0:13:20.05,0:13:22.18,Default,en,0,0,0,,-Hey, Musashi.\N-Mr. Ishimatsu!
+Dialogue: 0,0:13:22.50,0:13:26.61,Default,en,0,0,0,,Musashi! Even though we've failed yesterday, let's go to the other world today as friends!
+Dialogue: 0,0:13:27.58,0:13:31.17,Default,en,0,0,0,,You know... I don't want to die-{\i1}dasu{\i0}.
+Dialogue: 0,0:13:31.52,0:13:34.57,Default,en,0,0,0,,The dangos that we ate back then was great...
+Dialogue: 0,0:13:34.57,0:13:36.17,Default,en,0,0,0,,It was great-{\i1}dasu{\i0}!
+Dialogue: 0,0:13:36.38,0:13:40.55,Default,en,0,0,0,,Just like how we did back then, I'd love to share the impression with you.
+Dialogue: 0,0:13:41.18,0:13:44.76,Default,en,0,0,0,,Mr. Ishimatsu! You're so kind-{\i1}dasu{\i0}!
+Dialogue: 0,0:13:45.70,0:13:49.27,Default,en,0,0,0,,Musashi! We will be able to die properly this time.
+Dialogue: 0,0:13:49.38,0:13:51.05,Default,en,0,0,0,,Y- you're right.
+Dialogue: 0,0:13:51.18,0:13:53.78,Default,en,0,0,0,,Let's do this properly today!
+Dialogue: 0,0:13:55.10,0:13:56.06,Default,en,0,0,0,,Got it-{\i1}dasu{\i0}.
+Dialogue: 0,0:13:56.62,0:13:57.94,Default,en,0,0,0,,Before that...
+Dialogue: 0,0:13:58.74,0:14:00.52,Default,en,0,0,0,,W- what are you doing?
+Dialogue: 0,0:14:02.00,0:14:05.25,Default,en,0,0,0,,By this, we will be able to jump down together without any mistake-{\i1}dasu{\i0}.
+Dialogue: 0,0:14:05.40,0:14:06.52,Default,en,0,0,0,,What?!
+Dialogue: 0,0:14:07.24,0:14:08.53,Default,en,0,0,0,,Let's go-{\i1}dasu{\i0}.
+Dialogue: 0,0:14:08.53,0:14:14.57,Default,en,0,0,0,,Uh, that is... M- Musashi, I... I don't like to be tied like this.
+Dialogue: 0,0:14:14.57,0:14:15.56,Default,en,0,0,0,,Please don't do that.
+Dialogue: 0,0:14:15.97,0:14:19.09,Default,en,0,0,0,,If you're gonna die, your preferences don't matter-{\i1}dasu{\i0}!
+Dialogue: 0,0:14:19.56,0:14:20.49,Default,en,0,0,0,,Let's go-{\i1}dasu{\i0}!
+Dialogue: 0,0:14:20.49,0:14:25.12,Default,en,0,0,0,,Y- you know, can't you just tie it lightly so that I can pull my hand out?
+Dialogue: 0,0:14:25.12,0:14:25.84,Default,en,0,0,0,,No way-{\i1}dasu{\i0}.
+Dialogue: 0,0:14:26.13,0:14:31.31,Default,en,0,0,0,,T- then, wouldn't you like to fall from somewhere more relaxing that we can fall more softly?
+Dialogue: 0,0:14:31.64,0:14:33.33,Default,en,0,0,0,,Then we can't die!
+Dialogue: 0,0:14:33.45,0:14:36.20,Default,en,0,0,0,,Give it up like an adult!
+Dialogue: 0,0:14:36.20,0:14:39.00,Default,en,0,0,0,,I- idiot! Stop it!
+Dialogue: 0,0:14:39.00,0:14:40.27,Default,en,0,0,0,,Y- you brat!
+Dialogue: 0,0:14:43.48,0:14:45.68,Default,en,0,0,0,,W- what are you doing-{\i1}dasu{\i0}, Mr. Ishimatsu?!
+Dialogue: 0,0:14:52.78,0:14:53.96,Default,en,0,0,0,,Are you okay, Musashi?!
+Dialogue: 0,0:14:54.50,0:14:54.94,Default,en,0,0,0,,Huh?
+Dialogue: 0,0:14:55.85,0:14:56.64,Default,en,0,0,0,,You bastards!
+Dialogue: 0,0:14:57.22,0:14:58.47,Default,en,0,0,0,,Hey, Mr. Ishimatsu!
+Dialogue: 0,0:14:58.58,0:15:02.71,Default,en,0,0,0,,Musashi, you dimwit! I told you he's not a ghost!
+Dialogue: 0,0:15:03.20,0:15:06.66,Default,en,0,0,0,,But I can't leave Mr. Ishimatsu like that-{\i1}dasu{\i0}!
+Dialogue: 0,0:15:07.21,0:15:12.22,Default,en,0,0,0,,Even if that Ishimatsu is a ghost, your friendship is fishy.
+Dialogue: 0,0:15:13.20,0:15:18.39,Default,en,0,0,0,,If Ishimatsu really couldn't die properly, then make him rest in peace with your power!
+Dialogue: 0,0:15:19.02,0:15:21.95,Default,en,0,0,0,,Isn't that the true friendship to your dead friend?!
+Dialogue: 0,0:15:23.89,0:15:25.70,Default,en,0,0,0,,Yes, you're right-{\i1}dasu{\i0}.
+Dialogue: 0,0:15:31.98,0:15:39.81,Default,en,0,0,0,,Senhime, this has been bothering me; this Osorezan seems to be calling people towards it.
+Dialogue: 0,0:15:42.53,0:15:43.21,Default,en,0,0,0,,Osenchan!
+Dialogue: 0,0:15:43.61,0:15:45.37,Default,en,0,0,0,,Help me!
+Dialogue: 0,0:15:46.28,0:15:47.36,Default,en,0,0,0,,Mr. Ishimatsu!
+Dialogue: 0,0:15:47.49,0:15:54.98,Default,en,0,0,0,,Musashi! I took your comrade to prevent us from being interrupted! Now, let us cross Sanzu River all together!
+Dialogue: 0,0:15:55.18,0:15:58.32,Default,en,0,0,0,,What's this?! Let me go! Let me go!
+Dialogue: 0,0:15:58.52,0:16:03.98,Default,en,0,0,0,,Mr. Ishimatsu! I get that you're lonely, but I want you to cross the Sanzu by yourself-{\i1}dasu{\i0}.
+Dialogue: 0,0:16:04.70,0:16:07.42,Default,en,0,0,0,,The dangos that we ate back then was great...
+Dialogue: 0,0:16:08.01,0:16:10.33,Default,en,0,0,0,,-That's right-{\i1}dasu{\i0}!\N-Musashi!
+Dialogue: 0,0:16:10.76,0:16:13.41,Default,en,0,0,0,,You'd better listen to me!
+Dialogue: 0,0:16:15.40,0:16:18.96,Default,en,0,0,0,,What's this? Were the dangos you ate back then bad actually?!
+Dialogue: 0,0:16:19.17,0:16:23.38,Default,en,0,0,0,,It was great, but I will give you a greater punch-{\i1}dasu{\i0}!
+Dialogue: 0,0:16:24.41,0:16:27.71,Default,en,0,0,0,,I will have you rest in peace with my hands-{\i1}dasu{\i0}, Mr. Ishimatsu!
+Dialogue: 0,0:16:28.16,0:16:29.74,Default,en,0,0,0,,Well, thank you!
+Dialogue: 0,0:16:32.86,0:16:36.48,Default,en,0,0,0,,Mr. Ishimatsu, when did you learn techniques like this-{\i1}dasu{\i0}?!
+Dialogue: 0,0:16:36.56,0:16:38.24,Default,en,0,0,0,,In the other world.
+Dialogue: 0,0:16:40.02,0:16:40.64,Default,en,0,0,0,,Kojirō!
+Dialogue: 0,0:16:41.21,0:16:43.27,Default,en,0,0,0,,Die, Musashi!
+Dialogue: 0,0:16:47.49,0:16:48.71,Default,en,0,0,0,,W- who is it?!
+Dialogue: 0,0:16:48.90,0:16:51.15,Default,en,0,0,0,,Musashi, you must not be fooled.
+Dialogue: 0,0:16:51.81,0:16:53.77,Default,en,0,0,0,,This guy is not someone named Ishimatsu.
+Dialogue: 0,0:16:54.14,0:16:55.09,Default,en,0,0,0,,Mr. Jūbee!
+Dialogue: 0,0:16:56.85,0:17:00.06,Default,en,0,0,0,,Musashi, see for yourself about who this guy actually is!
+Dialogue: 0,0:17:12.14,0:17:13.60,Default,en,0,0,0,,You are Onihime!
+Dialogue: 0,0:17:14.17,0:17:18.77,Default,en,0,0,0,,Jūbee, you bastard! It was so close and you dared to butt in!
+Dialogue: 0,0:17:19.21,0:17:20.26,Default,en,0,0,0,,Remember this!
+Dialogue: 0,0:17:24.99,0:17:27.14,Default,en,0,0,0,,Mr. Jūbee. What brought you here?
+Dialogue: 0,0:17:27.54,0:17:30.48,Default,en,0,0,0,,We'll talk about that later. For now, let's chase Onihime.
+Dialogue: 0,0:17:43.04,0:17:44.45,Default,en,0,0,0,,I knew it.
+Dialogue: 0,0:17:44.76,0:17:47.32,Default,en,0,0,0,,Mr. Jūbee, what did you know-{\i1}dasu{\i0}?
+Dialogue: 0,0:17:47.70,0:17:52.96,Default,en,0,0,0,,To tell you the truth, not too long ago, General Ieyasu has broken down because of a high fever of unknown reason.
+Dialogue: 0,0:17:53.10,0:17:54.51,Default,en,0,0,0,,What? My grandpa?
+Dialogue: 0,0:17:55.53,0:18:01.81,Default,en,0,0,0,,Numerous doctors couldn't find out the reason. That's why we asked a shaman for a purification,
+Dialogue: 0,0:18:02.37,0:18:06.76,Default,en,0,0,0,,and we found that there is a spiritual wave from the north side that is cursing General Ieyasu.
+Dialogue: 0,0:18:08.54,0:18:10.84,Default,en,0,0,0,,You're saying that it's that-{\i1}dasu{\i0}, right?
+Dialogue: 0,0:18:11.40,0:18:12.17,Default,en,0,0,0,,No doubt about it.
+Dialogue: 0,0:18:12.53,0:18:15.01,Default,en,0,0,0,,Then the disturbance in the village too?
+Dialogue: 0,0:18:15.28,0:18:19.61,Default,en,0,0,0,,When I looked around this place, everything was because of Onihime's sorcery.
+Dialogue: 0,0:18:20.36,0:18:21.22,Default,en,0,0,0,,Onihime?
+Dialogue: 0,0:18:22.52,0:18:30.06,Default,en,0,0,0,,The time has come for you to not hold back. Send all the spiritual wave from Osorezan to General Ieyasu.
+Dialogue: 0,0:18:31.04,0:18:32.21,Default,en,0,0,0,,The world will be ours!
+Dialogue: 0,0:18:33.00,0:18:34.17,Default,en,0,0,0,,The world will be ours!
+Dialogue: 0,0:18:41.00,0:18:46.48,Default,en,0,0,0,,Playing with humans' minds, and even trying to fiddle with General Ieyasu is unforgivable!
+Dialogue: 0,0:18:46.97,0:18:51.20,Default,en,0,0,0,,Mr. Jūbee and Kojirō! We will do something with that sorcery-{\i1}dasu{\i0}!
+Dialogue: 0,0:18:52.14,0:18:54.24,Default,en,0,0,0,,Do your best, everyone!
+Dialogue: 0,0:18:55.68,0:18:58.90,Default,en,0,0,0,,Onihime! I will not forgive for what you did to me-{\i1}dasu{\i0}!
+Dialogue: 0,0:19:00.44,0:19:01.53,Default,en,0,0,0,,No use with interference!
+Dialogue: 0,0:19:13.88,0:19:17.05,Default,en,0,0,0,,Most of all, you dared to play with my precious memories!
+Dialogue: 0,0:19:17.70,0:19:21.19,Default,en,0,0,0,,Hmph, it's your fault for even treating those preciously.
+Dialogue: 0,0:19:21.33,0:19:23.26,Default,en,0,0,0,,I will not forgive you-{\i1}dasu{\i0}!
+Dialogue: 0,0:19:24.52,0:19:27.13,Default,en,0,0,0,,Everyone! Take care of all of them at once!
+Dialogue: 0,0:19:40.74,0:19:41.90,Default,en,0,0,0,,How impudent!
+Dialogue: 0,0:19:46.56,0:19:47.33,Default,en,0,0,0,,Mr. Jūbee!
+Dialogue: 0,0:19:48.46,0:19:51.99,Default,en,0,0,0,,If you're going with a whirlwind, then I'm going with a whirlwind, too!
+Dialogue: 0,0:20:21.30,0:20:23.46,Default,en,0,0,0,,Niten'ichiryū: Tornado Sword!
+Dialogue: 0,0:20:51.17,0:20:52.85,Default,en,0,0,0,,That was excellent, Musashi!
+Dialogue: 0,0:20:53.65,0:20:54.44,Default,en,0,0,0,,You bastard!
+Dialogue: 0,0:20:55.10,0:20:55.70,Default,en,0,0,0,,Onihime!
+Dialogue: 0,0:20:56.96,0:21:00.67,Default,en,0,0,0,,Give it up, Onihime! There is no precedent of praising the evil!
+Dialogue: 0,0:21:01.28,0:21:02.36,Default,en,0,0,0,,Shut up!
+Dialogue: 0,0:21:11.56,0:21:15.66,Default,en,0,0,0,,Hiding your beautiful face, why are you doing the evil?
+Dialogue: 0,0:21:16.53,0:21:19.85,Default,en,0,0,0,,Hmph! You will never understand what's in my mind!
+Dialogue: 0,0:21:21.72,0:21:24.56,Default,en,0,0,0,,Remember this. I will pay this back!
+Dialogue: 0,0:21:29.93,0:21:31.51,Default,en,0,0,0,,Do not run away, Onihime!
+Dialogue: 0,0:21:31.51,0:21:32.52,Default,en,0,0,0,,Stop, Musashi!
+Dialogue: 0,0:21:32.66,0:21:33.28,Default,en,0,0,0,,What?
+Dialogue: 0,0:21:35.85,0:21:36.21,Default,en,0,0,0,,Hm?
+Dialogue: 0,0:21:49.28,0:21:53.41,Default,en,0,0,0,,Then I'll be going now. Senhime and both of you, be careful.
+Dialogue: 0,0:21:53.84,0:21:59.13,Default,en,0,0,0,,Thank you, Jūbee. Musashi, let me tell you all the scary stories during our way.
+Dialogue: 0,0:21:59.13,0:22:01.85,Default,en,0,0,0,,Please don't do that-{\i1}dasu{\i0}!
+Dialogue: 0,0:22:02.13,0:22:03.89,Default,en,0,0,0,,It isn't scary when it's bright, you know!
+Dialogue: 0,0:22:03.89,0:22:09.59,Default,en,0,0,0,,-No, that's not the problem-{\i1}dasu{\i0}!\N-Hey, Musashi! At a graveyard around this place...
+Dialogue: 0,0:22:09.59,0:22:11.93,Default,en,0,0,0,,Ahhh! I don't want to listen-{\i1}dasu{\i0}!
+Dialogue: 0,0:22:13.68,0:22:22.14,Default,en,0,0,0,,The enemy's attack that deranged Musashi's mind is gone. Now, to the intense evil hands of Hanzō... Go, go, Musashi!
+Dialogue: 0,0:22:22.36,0:22:26.69,Default,en,0,0,0,,Do not lose, Musashi! Keep going on with your stormy journey!
+Dialogue: 0,0:22:41.56,0:22:43.60,SongED1,en,0,0,0,,Sometimes the moon jumps over
+Dialogue: 0,0:22:44.31,0:22:46.86,SongED1,en,0,0,0,,the pocket of empty sky
+Dialogue: 0,0:22:47.07,0:22:49.23,SongED1,en,0,0,0,,Laugh loudly and
+Dialogue: 0,0:22:49.85,0:22:51.85,SongED1,en,0,0,0,,morning will come tomorrow
+Dialogue: 0,0:22:52.61,0:22:57.20,SongED1,en,0,0,0,,Don't worry too much about losing
+Dialogue: 0,0:22:58.20,0:23:00.79,SongED1,en,0,0,0,,Keep going! Go for it!
+Dialogue: 0,0:23:00.79,0:23:03.21,SongED1,en,0,0,0,,A bare hand is strong
+Dialogue: 0,0:23:03.62,0:23:13.30,SongED1,en,0,0,0,,That's how it is! Let's go lightly
+Dialogue: 0,0:23:13.76,0:23:21.35,SongED1,en,0,0,0,,That's how life is! Look, a chance
+Dialogue: 0,0:23:21.81,0:23:26.05,SongED1,en,0,0,0,,follows us wagging its tail!
+Dialogue: 0,0:23:27.48,0:23:36.98,SongED1,en,0,0,0,,That's how it is! Let's go lightly
+Dialogue: 0,0:23:37.49,0:23:45.46,SongED1,en,0,0,0,,That's how the future is, too! Look, tomorrow
+Dialogue: 0,0:23:45.71,0:23:51.30,SongED1,en,0,0,0,,is opening its hands and smiling at us!
+Dialogue: 0,0:24:04.65,0:24:08.01,Default,en,0,0,0,,Winter is the ideal of men-{\i1}dasu{\i0}. And it is not the time to act like a gentleman-{\i1}dasu{\i0}.
+Dialogue: 0,0:24:08.28,0:24:10.41,Default,en,0,0,0,,I don't feel so good because of seasickness-{\i1}dasu{\i0}.
+Dialogue: 0,0:24:10.64,0:24:15.42,Default,en,0,0,0,,Misfortune comes after another; this time, Onigoroshi, who uses a Karakuri shark, has appeared-{\i1}dasu{\i0}.
+Dialogue: 0,0:24:15.78,0:24:19.56,Default,en,0,0,0,,With Daisuke, we rode on a transportation ship-{\i1}dasu{\i0}.
+Dialogue: 0,0:24:20.22,0:24:23.16,Default,en,0,0,0,,Next story! The Sea is Scary - It's Onigoroshi!
+Dialogue: 0,0:24:23.34,0:24:26.30,Default,en,0,0,0,,It's time for a stormy revenge-{\i1}dasu{\i0}!
+Dialogue: 0,0:24:26.30,0:24:30.28,NoteOnAnime,en,60,0,60,,{\an7}Next Episode
+Dialogue: 0,0:24:26.30,0:24:30.28,TitleEP,en,0,0,240,,The Sea is Scary
+Dialogue: 0,0:24:26.30,0:24:30.28,TitleEP,en,0,0,90,,It's Onigoroshi
+Dialogue: 0,0:24:26.30,0:24:30.28,NoteOnAnime,en,0,60,30,,{\an3\fs32}Look forwards for it!

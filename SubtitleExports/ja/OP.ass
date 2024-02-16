@@ -1,0 +1,46 @@
+﻿[Script Info]
+Title: 
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 480
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: NoteOnAnime,Candara,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,10,1
+Style: SongOP,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: TitleOP,DejaVu Serif,42,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: TitleEP,DejaVu Serif,42,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: SongED1,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: Note,Candara,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,10,10,10,1
+Style: Eyecatch,Candara,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:04.20,0:00:06.47,Default,ja,0,0,0,Intro01,時は戦国、乱世の時代。
+Comment: 0,0:00:06.84,0:00:11.66,Default,ja,0,0,0,Intro02,からくり人の住むジパング国では群雄割拠して合戦に明け暮れ、
+Comment: 0,0:00:11.66,0:00:16.61,Default,ja,0,0,0,Intro03,からくり武芸者たちも勝利と栄光を目指してしのぎを削っていた。
+Comment: 0,0:00:16.61,0:00:23.34,Default,ja,0,0,0,Intro04,そしていま、からくり武芸者ナンバー１を目指す、とてつもないヒーローが誕生した！
+Comment: 0,0:00:24.20,0:00:26.93,Default,ja,0,0,0,Intro05,ムサシ、見参でござるだス！
+Comment: 0,0:00:27.84,0:00:33.01,TitleOP,ja,0,0,0,Title,からくり剣豪伝ムサシロード
+Comment: 0,0:00:33.01,0:00:37.85,SongOP,ja,0,0,0,Lyric01,男はいつでも　世界の真ん中で
+Comment: 0,0:00:38.68,0:00:41.60,SongOP,ja,0,0,0,Lyric02,いちばん　強くなる日を
+Comment: 0,0:00:41.60,0:00:44.48,SongOP,ja,0,0,0,Lyric03,AH! AH! 夢見て
+Comment: 0,0:00:44.48,0:00:49.53,SongOP,ja,0,0,0,Lyric04,心の刃　大空にふりかざし
+Comment: 0,0:00:50.15,0:00:54.16,SongOP,ja,0,0,0,Lyric05,冒険の旅の　幕を開ける
+Comment: 0,0:00:55.49,0:01:00.75,SongOP,ja,0,0,0,Lyric06,ジパング国を　さすらう剣豪
+Comment: 0,0:01:01.33,0:01:06.38,SongOP,ja,0,0,0,Lyric07,その名　からくりびと　ムサシ
+Comment: 0,0:01:06.38,0:01:07.88,SongOP,ja,0,0,0,Lyric08,GO! FIGHT!
+Comment: 0,0:01:07.88,0:01:10.80,SongOP,ja,0,0,0,Lyric09,鍔迫り合いの音が
+Comment: 0,0:01:10.80,0:01:13.64,SongOP,ja,0,0,0,Lyric10,眩しい人生
+Comment: 0,0:01:13.64,0:01:19.10,SongOP,ja,0,0,0,Lyric11,戦い　昨日よりも　今日　強い
+Comment: 0,0:01:19.14,0:01:25.36,SongOP,ja,0,0,0,Lyric12,BUGEI! 二刀流　ムサシ
+Comment: 0,0:01:25.36,0:01:28.28,SongOP,ja,0,0,0,Lyric13,明日は　輝くぞ
+Comment: 0,0:01:28.28,0:01:30.82,SongOP,ja,0,0,0,Lyric14,鍔迫り合いの音が
+Comment: 0,0:01:30.82,0:01:33.32,SongOP,ja,0,0,0,Lyric15,眩しい人生
+Comment: 0,0:01:33.99,0:01:39.41,SongOP,ja,0,0,0,Lyric16,戦い　思い切りと　静けさと
+Comment: 0,0:01:39.45,0:01:45.67,SongOP,ja,0,0,0,Lyric17,BUGEI! 二刀流　ムサシ
+Comment: 0,0:01:45.67,0:01:50.92,SongOP,ja,0,0,0,Lyric18,みけんが　きらめいた　ムサシ！！

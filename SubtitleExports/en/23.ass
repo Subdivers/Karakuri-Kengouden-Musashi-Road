@@ -1,0 +1,298 @@
+﻿[Script Info]
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 480
+Title: Desperate Struggle in Hokkai-Western
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: NoteOnAnime,Candara,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,10,1
+Style: OP1TR,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: TitleOP,DejaVu Serif,42,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: TitleEP,DejaVu Serif,42,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: ED1TR,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: Note,Candara,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,10,10,10,1
+Style: Eyecatch,Candara,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,10,10,10,1
+Style: NoteOnAnimeVert,@맑은 고딕,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,10,1
+Style: InsOtsuru,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.31,0:00:06.46,Default,en,0,0,0,,It is the turbulent Sengoku period.
+Dialogue: 0,0:00:06.83,0:00:11.65,Default,en,0,0,0,,Warlords keep on fighting day and night over\NJipangu State, where Karakuri people live.
+Dialogue: 0,0:00:11.65,0:00:16.60,Default,en,0,0,0,,Karakuri martial artists were sharpening their swords, dreaming of victory and honor.
+Dialogue: 0,0:00:16.60,0:00:23.33,Default,en,0,0,0,,And now, a wild hero has arrived, seeking to be the number one Karakuri martial artist!
+Dialogue: 0,0:00:24.19,0:00:26.92,Default,en,0,0,0,,Musashi is here-{\i1}dasu{\i0}!
+Dialogue: 0,0:00:27.81,0:00:32.99,TitleOP,en,0,0,40,,{\an8\fs32\fade(770,0)}Karakuri Kengouden
+Dialogue: 0,0:00:27.81,0:00:32.99,TitleOP,en,0,0,40,,{\fade(770,0)}Musashi Road
+Dialogue: 0,0:00:27.81,0:00:32.99,TitleOP,en,0,0,40,,{\fs24\fade(770,0)}(The Story of {\i1}Karakuri{\i0} Martial Artist: Road of Musashi)
+Dialogue: 0,0:00:32.99,0:00:37.82,SongOP,en,0,0,0,,A man always dreams of the day
+Dialogue: 0,0:00:38.66,0:00:41.58,SongOP,en,0,0,0,,in the center of the world to become
+Dialogue: 0,0:00:41.58,0:00:44.45,SongOP,en,0,0,0,,AH! AH! the strongest
+Dialogue: 0,0:00:44.45,0:00:49.49,SongOP,en,0,0,0,,Raise the sword of your heart high to the wide sky
+Dialogue: 0,0:00:50.13,0:00:54.13,SongOP,en,0,0,0,,Raise the curtain to the road of adventure
+Dialogue: 0,0:00:55.46,0:01:00.72,SongOP,en,0,0,0,,A skilled swordsman roams on Jipangu State
+Dialogue: 0,0:01:01.30,0:01:06.33,SongOP,en,0,0,0,,His name is Musashi, a Karakuri man
+Dialogue: 0,0:01:06.33,0:01:07.84,SongOP,en,0,0,0,,Go! Fight!
+Dialogue: 0,0:01:07.84,0:01:10.75,SongOP,en,0,0,0,,The sound of fierce duels
+Dialogue: 0,0:01:10.75,0:01:13.61,SongOP,en,0,0,0,,makes life dazzling
+Dialogue: 0,0:01:13.61,0:01:19.07,SongOP,en,0,0,0,,Battles of yesterdays make you stronger today
+Dialogue: 0,0:01:19.12,0:01:25.31,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
+Dialogue: 0,0:01:25.31,0:01:28.32,SongOP,en,0,0,0,,Tomorrow will be glorious
+Dialogue: 0,0:01:28.32,0:01:30.79,SongOP,en,0,0,0,,The sound of fierce duels
+Dialogue: 0,0:01:30.79,0:01:33.28,SongOP,en,0,0,0,,makes life dazzling
+Dialogue: 0,0:01:33.99,0:01:39.39,SongOP,en,0,0,0,,Fight the utmost with the stillness
+Dialogue: 0,0:01:39.41,0:01:45.64,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
+Dialogue: 0,0:01:45.64,0:01:50.90,SongOP,en,0,0,0,,His eyes shined! Musashi!
+Dialogue: 0,0:02:02.13,0:02:05.89,Default,en,0,0,0,,During their trip to Hokkaido, Musashi and others were
+Dialogue: 0,0:02:05.89,0:02:09.96,Default,en,0,0,0,,attacked by Onigoroshi, the pirate that was rampaging on the northern sea.
+Dialogue: 0,0:02:10.72,0:02:14.78,Default,en,0,0,0,,Senhime met with Daisuke, who was chasing Karakuri Shark in order to have
+Dialogue: 0,0:02:14.78,0:02:17.54,Default,en,0,0,0,,revenge for his father,and was moved by his valiantness.
+Dialogue: 0,0:02:18.44,0:02:20.98,Default,en,0,0,0,,Musashi and Kojirō fought, helping Daisuke.
+Dialogue: 0,0:02:21.30,0:02:27.52,Default,en,0,0,0,,After an intense fight, they won the fight, but Senhime's heart was crushed.
+Dialogue: 0,0:02:28.16,0:02:33.17,TitleEP,en,0,0,210,,Desperate Struggle
+Dialogue: 0,0:02:28.16,0:02:33.17,TitleEP,en,0,0,80,,in Hokkai-Western
+Dialogue: 0,0:02:43.16,0:02:43.90,Default,en,0,0,0,,By the way...
+Dialogue: 0,0:02:44.72,0:02:47.00,Default,en,0,0,0,,They were hungry.
+Dialogue: 0,0:02:54.74,0:02:56.79,Default,en,0,0,0,,Snow, right when I was feeling cold...
+Dialogue: 0,0:02:56.98,0:02:58.90,Default,en,0,0,0,,Misfortunes never come singly, eh...
+Dialogue: 0,0:02:59.75,0:03:01.20,Default,en,0,0,0,,I- I'm hungry-{\i1}dasu{\i0}.
+Dialogue: 0,0:03:01.62,0:03:05.57,Default,en,0,0,0,,It's already fourth day today-{\i1}dasu{\i0}. I want to eat anything, no matter what it is-{\i1}dasu{\i0}.
+Dialogue: 0,0:03:07.57,0:03:10.53,Default,en,0,0,0,,Shut up! Keep quiet! It's ringing in our stomachs...
+Dialogue: 0,0:03:11.01,0:03:14.17,Default,en,0,0,0,,You aren't the only one hungry here, Musashi.
+Dialogue: 0,0:03:14.64,0:03:17.21,Default,en,0,0,0,,Moreover, it's all your fault, to be specific.
+Dialogue: 0,0:03:17.49,0:03:21.50,Default,en,0,0,0,,Say whatever you want, but my stomach is on my back because I'm too hungry-{\i1}dasu{\i0}.
+Dialogue: 0,0:03:31.05,0:03:34.06,Default,en,0,0,0,,So, we three are going to die on a road at nowhere at a place like this...
+Dialogue: 0,0:03:34.57,0:03:39.44,Default,en,0,0,0,,Damn... I knew it was a bad idea to entrust the wallet to Musashi!
+Dialogue: 0,0:03:39.73,0:03:44.56,Default,en,0,0,0,,Who are you blaming at-{\i1}dasu{\i0}?! It's not only my fault that someone stole the wallet-{\i1}dasu{\i0}!
+Dialogue: 0,0:03:45.08,0:03:50.05,Default,en,0,0,0,,Thief! Thief! I yelled, but nobody came out to chase-{\i1}dasu{\i0}!
+Dialogue: 0,0:03:51.12,0:03:52.88,Default,en,0,0,0,,Most of all, Osenchan, what were you doing-{\i1}dasu{\i0}?!
+Dialogue: 0,0:03:53.34,0:03:57.54,Default,en,0,0,0,,Oh? Uh, well, I was taking a bath.
+Dialogue: 0,0:03:58.02,0:04:01.13,Default,en,0,0,0,,You have problems, if you really have to spend 2 hours for that in mornings.
+Dialogue: 0,0:04:01.13,0:04:04.81,Default,en,0,0,0,,Oh, is that true? Did I take that much time?
+Dialogue: 0,0:04:06.05,0:04:08.50,Default,en,0,0,0,,Kojirō! What were you doing-{\i1}dasu{\i0}?!
+Dialogue: 0,0:04:08.65,0:04:11.73,Default,en,0,0,0,,I- I was preparing for another trip...
+Dialogue: 0,0:04:12.88,0:04:15.02,Default,en,0,0,0,,I look perfect, great!
+Dialogue: 0,0:04:17.09,0:04:19.14,Default,en,0,0,0,,What?! Do you have anything to say?!
+Dialogue: 0,0:04:19.54,0:04:22.60,Default,en,0,0,0,,Hmph! I know you were just fiddling with your hair-{\i1}dasu{\i0}!
+Dialogue: 0,0:04:22.86,0:04:28.33,Default,en,0,0,0,,Caring about personal appearance is also a swordsman's manner, especially when you want to be a nice man, like me.
+Dialogue: 0,0:04:28.79,0:04:29.79,Default,en,0,0,0,,A nice man like you, eh?
+Dialogue: 0,0:04:30.33,0:04:30.96,Default,en,0,0,0,,What?!
+Dialogue: 0,0:04:33.14,0:04:34.22,Default,en,0,0,0,,Take it out, Musashi!
+Dialogue: 0,0:04:34.36,0:04:38.02,Default,en,0,0,0,,Forget it! You're embarrassing me! If someone ever looks at this, it would be so shameful!
+Dialogue: 0,0:04:40.52,0:04:41.58,Default,en,0,0,0,,Face me!
+Dialogue: 0,0:04:42.73,0:04:48.77,Default,en,0,0,0,,Senhime! Don't worry about this! It was a bad idea at the first place to have a journey with a low-class man like that guy!
+Dialogue: 0,0:04:49.13,0:04:51.22,Default,en,0,0,0,,Musashi! It's your last chance to apologize!
+Dialogue: 0,0:04:51.67,0:04:55.06,Default,en,0,0,0,,Hmph! Your conceited attitude was really becoming a pain in the ass-{\i1}dasu{\i0}!
+Dialogue: 0,0:04:55.37,0:04:57.10,Default,en,0,0,0,,You're going down instead-{\i1}dasu{\i0}!
+Dialogue: 0,0:04:57.21,0:04:59.07,Default,en,0,0,0,,Die, Musashi!
+Dialogue: 0,0:04:59.07,0:04:59.97,Default,en,0,0,0,,One moment.
+Dialogue: 0,0:05:07.02,0:05:08.78,Default,en,0,0,0,,I smell food-{\i1}dasu{\i0}!
+Dialogue: 0,0:05:10.70,0:05:13.81,Default,en,0,0,0,,This is the smell of Sapporo ramen-{\i1}dasu{\i0}!
+Dialogue: 0,0:05:13.81,0:05:15.29,Default,en,0,0,0,,Are you sure about that, Musashi?!
+Dialogue: 0,0:05:15.95,0:05:18.46,Default,en,0,0,0,,My nose does not lie-{\i1}dasu{\i0}!
+Dialogue: 0,0:05:18.73,0:05:19.42,Default,en,0,0,0,,A village!
+Dialogue: 0,0:05:24.06,0:05:25.41,Default,en,0,0,0,,Food-{\i1}dasu{\i0}!
+Dialogue: 0,0:05:25.53,0:05:26.77,Default,en,0,0,0,,We're saved!
+Dialogue: 0,0:05:27.69,0:05:32.02,Default,en,0,0,0,,Hooray! Hooray! Hooray!
+Dialogue: 0,0:05:36.81,0:05:39.99,Default,en,0,0,0,,Here, here! Tasty ramen for you! It'll make your body warm!
+Dialogue: 0,0:05:40.14,0:05:42.46,Default,en,0,0,0,,Pork fillet is free, dear customers!
+Dialogue: 0,0:05:44.97,0:05:48.32,Default,en,0,0,0,,Pork fillet! Dried bamboo shoots! Put eggs in, in double size, and give me a soybean paste ramen immediately!
+Dialogue: 0,0:05:48.32,0:05:49.76,Default,en,0,0,0,,In quadruple size!
+Dialogue: 0,0:05:49.76,0:05:51.77,Default,en,0,0,0,,And on top of that, give me three of those-{\i1}dasu{\i0}!
+Dialogue: 0,0:06:07.28,0:06:12.59,Default,en,0,0,0,,You guys are lucky, to find my store first!
+Dialogue: 0,0:06:12.59,0:06:14.84,Default,en,0,0,0,,You really saved us-{\i1}dasu{\i0}!
+Dialogue: 0,0:06:15.05,0:06:17.52,Default,en,0,0,0,,We will never forget your kindness to us.
+Dialogue: 0,0:06:17.88,0:06:22.09,Default,en,0,0,0,,Nah, we just rescue and be rescued! Give and take, that is!
+Dialogue: 0,0:06:23.56,0:06:26.54,Default,en,0,0,0,,We came to Hokkaido to find a new world.
+Dialogue: 0,0:06:26.66,0:06:29.22,Default,en,0,0,0,,Still, I never expected to meet you here!
+Dialogue: 0,0:06:31.01,0:06:34.42,Default,en,0,0,0,,The world is wide, but narrow at once-{\i1}dasu{\i0}!
+Dialogue: 0,0:06:34.68,0:06:37.70,Default,en,0,0,0,,Your ramen was really great, Mr. Baiken!
+Dialogue: 0,0:06:37.84,0:06:42.07,Default,en,0,0,0,,Agreed. I eat ramen often, but that was the best one I've ever had!
+Dialogue: 0,0:06:42.32,0:06:49.10,Default,en,0,0,0,,Thank you, thank you! But you know, I'm not here at Hokkaido to make ramens!
+Dialogue: 0,0:06:49.40,0:06:53.56,Default,en,0,0,0,,We know that-{\i1}dasu{\i0}! You're trying to success in life with that Kusarigama!
+Dialogue: 0,0:06:54.04,0:06:59.09,Default,en,0,0,0,,No need to explain more! Also these little guys have gone through troubles, too.
+Dialogue: 0,0:07:01.77,0:07:02.85,Default,en,0,0,0,,How cute!
+Dialogue: 0,0:07:09.16,0:07:10.66,Default,en,0,0,0,,-What was that?\N-I wonder...
+Dialogue: 0,0:07:12.38,0:07:13.68,Default,en,0,0,0,,Brother, I'm scared!
+Dialogue: 0,0:07:13.82,0:07:16.27,Default,en,0,0,0,,It's alirght! That's a sound of gun.
+Dialogue: 0,0:07:16.41,0:07:17.62,Default,en,0,0,0,,Yeah, must be a matchlock.
+Dialogue: 0,0:07:18.56,0:07:20.46,Default,en,0,0,0,,I- is it sound of a covered wagon-{\i1}dasu{\i0}?
+Dialogue: 0,0:07:32.66,0:07:33.71,Default,en,0,0,0,,M- Matazo!
+Dialogue: 0,0:07:34.57,0:07:35.65,Default,en,0,0,0,,What's wrong, Matazo?!
+Dialogue: 0,0:07:36.04,0:07:37.01,Default,en,0,0,0,,Did you get hit?!
+Dialogue: 0,0:07:37.49,0:07:40.47,Default,en,0,0,0,,Gozuke, it's now all up to you!
+Dialogue: 0,0:07:42.57,0:07:44.61,Default,en,0,0,0,,Damn!
+Dialogue: 0,0:07:47.02,0:07:49.92,Default,en,0,0,0,,Dammit! Dammit! Dammit!
+Dialogue: 0,0:07:51.85,0:07:52.69,Default,en,0,0,0,,He's taken down!
+Dialogue: 0,0:07:59.33,0:08:00.37,Default,en,0,0,0,,Is he dead?
+Dialogue: 0,0:08:01.04,0:08:03.54,Default,en,0,0,0,,No, but he doesn't look good at this rate.
+Dialogue: 0,0:08:06.44,0:08:08.22,Default,en,0,0,0,,Who are you guys?!
+Dialogue: 0,0:08:09.46,0:08:11.56,Default,en,0,0,0,,Do not ask anything, and get away from here!
+Dialogue: 0,0:08:12.09,0:08:13.74,Default,en,0,0,0,,-They're ninjas.\N-Ninja?
+Dialogue: 0,0:08:14.49,0:08:22.05,Default,en,0,0,0,,T- the covered wagon... I- if they take it from us, fellow settlers will be annihilated...
+Dialogue: 0,0:08:22.92,0:08:24.64,Default,en,0,0,0,,Settlers will be annihilated?
+Dialogue: 0,0:08:25.42,0:08:26.51,Default,en,0,0,0,,What's going on here?
+Dialogue: 0,0:08:27.04,0:08:28.54,Default,en,0,0,0,,W- we are...
+Dialogue: 0,0:08:32.89,0:08:35.02,Default,en,0,0,0,,The conversation is not over yet-{\i1}dasu{\i0}!
+Dialogue: 0,0:08:35.54,0:08:37.04,Default,en,0,0,0,,Cool!
+Dialogue: 0,0:08:37.04,0:08:39.76,Default,en,0,0,0,,I took a rare chance-{\i1}dasu{\i0}!
+Dialogue: 0,0:08:43.70,0:08:46.21,Default,en,0,0,0,,Senhime, please take care of the kids for a moment.
+Dialogue: 0,0:08:46.21,0:08:46.61,Default,en,0,0,0,,Got it!
+Dialogue: 0,0:08:51.32,0:08:53.20,Default,en,0,0,0,,What's the problem? Is that all you can do?
+Dialogue: 0,0:08:55.02,0:08:56.77,Default,en,0,0,0,,Come attack wherever you are-{\i1}dasu{\i0}!
+Dialogue: 0,0:09:14.62,0:09:17.02,Default,en,0,0,0,,You must be using a cheap sword-{\i1}dasu{\i0}...
+Dialogue: 0,0:09:17.52,0:09:20.60,Default,en,0,0,0,,R- retreat! Retreat!
+Dialogue: 0,0:09:27.10,0:09:33.72,Default,en,0,0,0,,Following Ishikari River, we've cultivated Hokkai Highlands and finally managed to harvest crops...
+Dialogue: 0,0:09:34.65,0:09:37.10,Default,en,0,0,0,,T- they came to attack...
+Dialogue: 0,0:09:38.41,0:09:40.36,Default,en,0,0,0,,Asked us for something unreasonable...
+Dialogue: 0,0:09:44.89,0:09:48.04,Default,en,0,0,0,,We've built a fortress and fought...
+Dialogue: 0,0:09:50.56,0:09:51.80,Default,en,0,0,0,,It wasn't something great.
+Dialogue: 0,0:09:52.12,0:09:53.38,Default,en,0,0,0,,We've stood somehow.
+Dialogue: 0,0:09:56.42,0:09:59.13,Default,en,0,0,0,,And we've gathered available weapons...
+Dialogue: 0,0:10:01.02,0:10:08.21,Default,en,0,0,0,,We two, Matazo and I, sneaked out from the fortress and got cannons and ammo from the streets of Sapporo,
+Dialogue: 0,0:10:08.61,0:10:10.74,Default,en,0,0,0,,they found it out...
+Dialogue: 0,0:10:11.52,0:10:14.07,Default,en,0,0,0,,So that's what happened-{\i1}dasu{\i0}!
+Dialogue: 0,0:10:14.40,0:10:16.93,Default,en,0,0,0,,Those ninjas are bad guys!
+Dialogue: 0,0:10:17.21,0:10:22.41,Default,en,0,0,0,,It's unforgivable to take things that people worked so hard to obtain!
+Dialogue: 0,0:10:22.70,0:10:27.92,Default,en,0,0,0,,Please... Take that covered wagon to Hokkai Fortress... to the fortress...
+Dialogue: 0,0:10:29.02,0:10:31.20,Default,en,0,0,0,,Where is that Hokkai Fortress?!
+Dialogue: 0,0:10:31.69,0:10:33.19,Default,en,0,0,0,,Is it at Hokkai Highlands?
+Dialogue: 0,0:10:33.61,0:10:36.74,Default,en,0,0,0,,-Y- yes. \N-T- then, I know well!
+Dialogue: 0,0:10:37.33,0:10:38.30,Default,en,0,0,0,,What's your name?!
+Dialogue: 0,0:10:38.57,0:10:40.08,Default,en,0,0,0,,G- Gozuke...
+Dialogue: 0,0:10:50.49,0:10:54.60,Default,en,0,0,0,,So you're Gozuke. We will send that covered wagon to Hokkai Fortress, no matter what.
+Dialogue: 0,0:10:55.50,0:10:56.82,Default,en,0,0,0,,Yeah! Let's go!
+Dialogue: 0,0:10:57.36,0:11:00.66,Default,en,0,0,0,,-Agreed!\N-It is not manly to go now-{\i1}dasu{\i0}!
+Dialogue: 0,0:11:00.84,0:11:02.91,Default,en,0,0,0,,We're going right now!
+Dialogue: 0,0:11:04.39,0:11:10.06,Note,en,0,0,0,,{\an5\fad(1820,0)\frz276.9\frx354\fry352\3c&H978373&\pos(297.008,273)}RIP Gozuke
+Dialogue: 0,0:11:04.39,0:11:10.06,Note,en,0,0,0,,{\an5\fad(1820,0)\3c&H978373&\frz263\frx354\fry6\pos(516.35,268)}RIP Matazo
+Dialogue: 0,0:11:17.99,0:11:20.91,NoteOnAnime,en,0,0,0,,Gen'unsai
+Dialogue: 0,0:11:30.38,0:11:32.42,Default,en,0,0,0,,They aren't chasing-{\i1}dasu{\i0}...
+Dialogue: 0,0:11:33.13,0:11:34.66,Default,en,0,0,0,,I wonder if they gave up.
+Dialogue: 0,0:11:34.78,0:11:41.05,Default,en,0,0,0,,That is naive. They must be knowing our destination, so they should be lying in ambush.
+Dialogue: 0,0:11:41.66,0:11:42.56,Default,en,0,0,0,,Ambush?
+Dialogue: 0,0:11:42.89,0:11:47.21,Default,en,0,0,0,,Sis, it's alright, since Baiken is with us!
+Dialogue: 0,0:11:47.21,0:11:48.73,Default,en,0,0,0,,Yeah, yeah, that's true!
+Dialogue: 0,0:12:10.93,0:12:14.42,Default,en,0,0,0,,Niten'ichiryū, Ten({\fsMeiryo UI}十{\r}) Shaped Cut!
+Dialogue: 0,0:12:21.88,0:12:22.82,Default,en,0,0,0,,Hooray!
+Dialogue: 0,0:12:37.29,0:12:38.61,Default,en,0,0,0,,I'm getting dizzy!
+Dialogue: 0,0:12:40.34,0:12:45.57,Default,en,0,0,0,,What will happen to them?! Wait for the stormy latter half!
+Dialogue: 0,0:12:45.74,0:12:50.54,Eyecatch,en,0,0,0,,Karakuri Kengouden: Musashi Road
+Dialogue: 0,0:13:03.06,0:13:03.92,Default,en,0,0,0,,That's bad!
+Dialogue: 0,0:13:12.13,0:13:14.22,Default,en,0,0,0,,Everyone! Hold on tight!
+Dialogue: 0,0:13:24.78,0:13:25.96,Default,en,0,0,0,,You did it!
+Dialogue: 0,0:13:26.97,0:13:28.59,Default,en,0,0,0,,It was so close!
+Dialogue: 0,0:13:29.76,0:13:32.75,Default,en,0,0,0,,I told so! It's alright with Baiken!
+Dialogue: 0,0:13:32.88,0:13:35.16,Default,en,0,0,0,,Yeah, I looked Baiken again!
+Dialogue: 0,0:13:35.86,0:13:36.62,Default,en,0,0,0,,Damn...
+Dialogue: 0,0:13:41.62,0:13:42.34,Default,en,0,0,0,,Go.
+Dialogue: 0,0:13:52.73,0:13:54.76,Default,en,0,0,0,,I can see the fortress!
+Dialogue: 0,0:13:56.02,0:13:57.06,Default,en,0,0,0,,Is that it?!
+Dialogue: 0,0:13:59.01,0:14:02.16,Default,en,0,0,0,,Is that the fortress? Looks safe for now.
+Dialogue: 0,0:14:03.02,0:14:04.28,Default,en,0,0,0,,I hope so...
+Dialogue: 0,0:14:14.09,0:14:15.53,Default,en,0,0,0,,Someone set a fire!
+Dialogue: 0,0:14:15.95,0:14:18.71,Default,en,0,0,0,,How can they do that to these precious fields?!
+Dialogue: 0,0:14:22.77,0:14:23.88,Default,en,0,0,0,,We're surrounded-{\i1}dasu{\i0}!
+Dialogue: 0,0:14:24.02,0:14:27.67,Default,en,0,0,0,,There's gunpowder in this wagon, right? If fire gets on this...
+Dialogue: 0,0:14:28.38,0:14:30.21,Default,en,0,0,0,,BOOM!
+Dialogue: 0,0:14:32.01,0:14:33.58,Default,en,0,0,0,,Don't be scared by this!
+Dialogue: 0,0:14:33.76,0:14:35.73,Default,en,0,0,0,,You're in no position to say that1
+Dialogue: 0,0:14:35.73,0:14:36.72,Default,en,0,0,0,,Oh, is that so?
+Dialogue: 0,0:14:36.85,0:14:39.53,Default,en,0,0,0,,You said it's alright since Baiken is here!
+Dialogue: 0,0:14:42.13,0:14:44.48,Default,en,0,0,0,,I'll mow down the enemy and make a road!
+Dialogue: 0,0:14:44.48,0:14:47.94,Default,en,0,0,0,,Hey, just a moment! Our opponent is fire, no matter what you think!
+Dialogue: 0,0:14:48.20,0:14:49.82,Default,en,0,0,0,,Stop, Musashi! I'll join!
+Dialogue: 0,0:14:50.51,0:14:52.11,Default,en,0,0,0,,I myself is enough-{\i1}dasu{\i0}!
+Dialogue: 0,0:14:52.52,0:14:54.78,Default,en,0,0,0,,Yeah, right. Just stop for now. I have an idea.
+Dialogue: 0,0:15:04.37,0:15:05.28,Default,en,0,0,0,,H- hey, look!
+Dialogue: 0,0:15:08.10,0:15:09.13,Default,en,0,0,0,,F- fire!
+Dialogue: 0,0:15:09.33,0:15:13.06,Default,en,0,0,0,,Grandfather! Fire! A fire is on the fields!
+Dialogue: 0,0:15:13.54,0:15:15.12,Default,en,0,0,0,,They set a fire on the fields!
+Dialogue: 0,0:15:18.80,0:15:21.20,Default,en,0,0,0,,But why would they set a fire on there...
+Dialogue: 0,0:15:21.86,0:15:24.38,Default,en,0,0,0,,Aren't they trying to lure us out with smoke?
+Dialogue: 0,0:15:24.56,0:15:26.92,Default,en,0,0,0,,Probably not. You think that's an illusion?
+Dialogue: 0,0:15:29.84,0:15:32.37,Default,en,0,0,0,,My, my. Isn't this a pretty good bonfire?
+Dialogue: 0,0:15:32.37,0:15:35.33,Default,en,0,0,0,,Well, wouldn't this burn down Senhime and others, too?
+Dialogue: 0,0:15:49.80,0:15:51.52,Default,en,0,0,0,,It worked, Musashi! The fire is gone for now!
+Dialogue: 0,0:15:51.66,0:15:55.01,Default,en,0,0,0,,Wait, let me throw in this, one more-{\i1}dasu{\i0}!
+Dialogue: 0,0:15:55.01,0:15:55.68,Default,en,0,0,0,,Not needed!
+Dialogue: 0,0:15:56.52,0:15:59.05,Default,en,0,0,0,,Haha, you're right-{\i1}dasu{\i0}. It's too worthy for that-{\i1}dasu{\i0}.
+Dialogue: 0,0:15:59.26,0:16:00.76,Default,en,0,0,0,,I'll go put this on the wagon-{\i1}dasu{\i0}!
+Dialogue: 0,0:16:01.42,0:16:02.60,Default,en,0,0,0,,I'll go first, then!
+Dialogue: 0,0:16:03.36,0:16:04.69,Default,en,0,0,0,,Wait for me-{\i1}dasu{\i0}!
+Dialogue: 0,0:16:05.17,0:16:10.08,Default,en,0,0,0,,Anyway, Kojirō really is bright, for thinking to put off the fire with the detonation blast of gunpowder!
+Dialogue: 0,0:16:34.17,0:16:35.71,Default,en,0,0,0,,I do not lose in a sword fight-{\i1}dasu{\i0}!
+Dialogue: 0,0:16:57.88,0:16:58.97,Default,en,0,0,0,,Musashi! Let's go!
+Dialogue: 0,0:16:59.80,0:17:00.40,Default,en,0,0,0,,Right!
+Dialogue: 0,0:17:07.22,0:17:08.25,Default,en,0,0,0,,Hurry, Musashi!
+Dialogue: 0,0:17:08.46,0:17:09.50,Default,en,0,0,0,,Wait for me-{\i1}dasu{\i0}!
+Dialogue: 0,0:17:09.76,0:17:10.92,Default,en,0,0,0,,Open fire!
+Dialogue: 0,0:17:25.64,0:17:28.30,Default,en,0,0,0,,This leaves us only one choice - an all-out attack!
+Dialogue: 0,0:17:28.64,0:17:30.21,Default,en,0,0,0,,Everyone, engage in battle!
+Dialogue: 0,0:17:34.69,0:17:36.02,Default,en,0,0,0,,Incoming!
+Dialogue: 0,0:17:40.53,0:17:42.00,Default,en,0,0,0,,It's an all-out attack!
+Dialogue: 0,0:17:43.60,0:17:47.56,Default,en,0,0,0,,A covered wagon! Gosuke's back!
+Dialogue: 0,0:17:51.29,0:17:53.16,Default,en,0,0,0,,Great! Open the door!
+Dialogue: 0,0:17:58.33,0:17:59.86,Default,en,0,0,0,,They're not Gosuke and Matazo!
+Dialogue: 0,0:18:00.14,0:18:01.98,Default,en,0,0,0,,Those two are dead!
+Dialogue: 0,0:18:07.60,0:18:09.24,Default,en,0,0,0,,Hurry! Grab the guns and cannons!
+Dialogue: 0,0:18:17.58,0:18:19.33,Default,en,0,0,0,,Everyone! Hurry and take these guns!
+Dialogue: 0,0:18:20.53,0:18:21.85,Default,en,0,0,0,,Thanks!
+Dialogue: 0,0:18:21.85,0:18:23.26,Default,en,0,0,0,,Steadily counterattack-{\i1}dasu{\i0}!
+Dialogue: 0,0:18:24.86,0:18:26.21,Default,en,0,0,0,,Fire!
+Dialogue: 0,0:18:32.97,0:18:35.68,Default,en,0,0,0,,Don't hesitate! Fire! Fire!
+Dialogue: 0,0:18:40.34,0:18:42.91,Default,en,0,0,0,,You bastards! Take some fiery darts!
+Dialogue: 0,0:18:48.81,0:18:50.66,Default,en,0,0,0,,We'll do this soon!
+Dialogue: 0,0:18:51.74,0:18:52.86,Default,en,0,0,0,,Now!
+Dialogue: 0,0:19:01.04,0:19:01.80,Default,en,0,0,0,,Fire!
+Dialogue: 0,0:19:02.17,0:19:06.46,Default,en,0,0,0,,Fire! Hurry! Go get some water! Now!
+Dialogue: 0,0:19:11.16,0:19:13.70,Default,en,0,0,0,,It's not good at this rate! Everyone, withdraw!
+Dialogue: 0,0:19:16.96,0:19:17.62,Default,en,0,0,0,,They're here-{\i1}dasu{\i0}!
+Dialogue: 0,0:19:21.41,0:19:23.50,Default,en,0,0,0,,We'll show our stubbornness-{\i1}dasu{\i0}!
+Dialogue: 0,0:19:51.14,0:19:52.47,Default,en,0,0,0,,You brat!
+Dialogue: 0,0:19:56.69,0:19:58.09,Default,en,0,0,0,,Who are you-{\i1}dasu{\i0}?!
+Dialogue: 0,0:19:58.49,0:20:02.28,Default,en,0,0,0,,I am Gen'unsai, the boss of Hokkai Ninja Group.
+Dialogue: 0,0:20:02.84,0:20:06.21,Default,en,0,0,0,,Why are you aiming for a village that settles made-{\i1}dasu{\i0}?!
+Dialogue: 0,0:20:08.13,0:20:10.74,Default,en,0,0,0,,You do not have to know that!
+Dialogue: 0,0:20:11.06,0:20:11.83,Default,en,0,0,0,,Why is that-{\i1}dasu{\i0}?!
+Dialogue: 0,0:20:12.05,0:20:15.16,Default,en,0,0,0,,Hmph! Because you're bound to die soon, Musashi!
+Dialogue: 0,0:20:15.16,0:20:19.66,Default,en,0,0,0,,Why do you know my name-{\i1}dasu{\i0}?! Am I that famous even in Hokkaido-{\i1}dasu{\i0}?
+Dialogue: 0,0:20:33.13,0:20:35.78,Default,en,0,0,0,,What's this-{\i1}dasu{\i0}?! There are lots of you... that's cowardly-{\i1}dasu{\i0}!
+Dialogue: 0,0:20:36.77,0:20:39.26,Default,en,0,0,0,,No questions asked!
+Dialogue: 0,0:20:44.04,0:20:45.34,Default,en,0,0,0,,Damn!
+Dialogue: 0,0:20:48.13,0:20:50.42,Default,en,0,0,0,,Who should I face?!
+Dialogue: 0,0:20:58.48,0:21:00.13,Default,en,0,0,0,,D- damn...
+Dialogue: 0,0:21:10.45,0:21:13.78,Default,en,0,0,0,,{\i1}That shadow... That's it! I can fight, looking at shadow!
+Dialogue: 0,0:21:21.37,0:21:22.45,Default,en,0,0,0,,You bastard!
+Dialogue: 0,0:21:23.04,0:21:26.49,Default,en,0,0,0,,Niten'ichiryū: Flash Sword!
+Dialogue: 0,0:21:26.49,0:21:27.70,Default,en,0,0,0,,How impudent!
+Dialogue: 0,0:21:33.57,0:21:35.20,Default,en,0,0,0,,Two! Fire!
+Dialogue: 0,0:21:53.41,0:21:55.86,Default,en,0,0,0,,Baiken, are you really staying here-{\i1}dasu{\i0}?
+Dialogue: 0,0:21:57.46,0:22:02.00,Default,en,0,0,0,,It can't be helped whenever there are fields in front of me. Moreover, Ikken and kids like it here, too.
+Dialogue: 0,0:22:02.81,0:22:05.55,Default,en,0,0,0,,I see-{\i1}dasu{\i0}! That'll be great-{\i1}dasu{\i0}.
+Dialogue: 0,0:22:07.52,0:22:12.56,Default,en,0,0,0,,Even when Musashi and others went a long way to reach Hokkaido, it didn't welcome them so nicely.
+Dialogue: 0,0:22:12.89,0:22:20.29,Default,en,0,0,0,,But still, the friendship with Baiken got deeper, and Musashi's heart was as clean as the blue sky of Hokkaido.
+Dialogue: 0,0:22:42.27,0:22:44.31,SongED1,en,0,0,0,,Sometimes the moon jumps over
+Dialogue: 0,0:22:45.00,0:22:47.56,SongED1,en,0,0,0,,the pocket of empty sky
+Dialogue: 0,0:22:47.77,0:22:49.94,SongED1,en,0,0,0,,Laugh loudly and
+Dialogue: 0,0:22:50.57,0:22:52.56,SongED1,en,0,0,0,,morning will come tomorrow
+Dialogue: 0,0:22:53.31,0:22:57.90,SongED1,en,0,0,0,,Don't worry too much about losing
+Dialogue: 0,0:22:58.90,0:23:01.49,SongED1,en,0,0,0,,Keep going! Go for it!
+Dialogue: 0,0:23:01.49,0:23:03.91,SongED1,en,0,0,0,,A bare hand is strong
+Dialogue: 0,0:23:04.32,0:23:14.00,SongED1,en,0,0,0,,That's how it is! Let's go lightly
+Dialogue: 0,0:23:14.46,0:23:22.05,SongED1,en,0,0,0,,That's how life is! Look, a chance
+Dialogue: 0,0:23:22.51,0:23:26.76,SongED1,en,0,0,0,,follows us wagging its tail!
+Dialogue: 0,0:23:28.18,0:23:37.69,SongED1,en,0,0,0,,That's how it is! Let's go lightly
+Dialogue: 0,0:23:38.19,0:23:46.16,SongED1,en,0,0,0,,That's how the future is, too! Look, tomorrow
+Dialogue: 0,0:23:46.40,0:23:52.00,SongED1,en,0,0,0,,is opening its hands and smiling at us!
+Dialogue: 0,0:24:05.32,0:24:11.01,Default,en,0,0,0,,The one who controlled Four Iga Kings, and the one who keeps trying to get rid of Senhime was - no way! - Hanzō-{\i1}dasu{\i0}!
+Dialogue: 0,0:24:11.30,0:24:17.04,Default,en,0,0,0,,We're fighting against Onihime and Jiraiyan, but we're at disadvantage, in a heavy snow of Hokkaido-{\i1}dasu{\i0}!
+Dialogue: 0,0:24:17.40,0:24:19.66,Default,en,0,0,0,,They took Senhime, and we're in crisis-{\i1}dasu{\i0}!
+Dialogue: 0,0:24:20.24,0:24:23.69,Default,en,0,0,0,,Next story! Kaboom! Karakuri Stronghold
+Dialogue: 0,0:24:23.97,0:24:27.02,Default,en,0,0,0,,A stormy big snowstorm is waiting for us-{\i1}dasu{\i0}!
+Dialogue: 0,0:24:27.02,0:24:30.99,NoteOnAnime,en,60,0,60,,{\an7}Next Episode
+Dialogue: 0,0:24:27.02,0:24:30.99,TitleEP,en,0,0,225,,Kaboom!
+Dialogue: 0,0:24:27.02,0:24:30.99,TitleEP,en,0,0,85,,Karakuri Stronghold
+Dialogue: 0,0:24:27.02,0:24:30.99,NoteOnAnime,en,0,60,30,,{\an3\fs32}Look forwards for it!

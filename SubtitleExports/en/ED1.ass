@@ -1,0 +1,35 @@
+﻿[Script Info]
+Title: 
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 480
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: NoteOnAnime,Candara,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,10,1
+Style: SongOP,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: TitleOP,DejaVu Serif,42,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: TitleEP,DejaVu Serif,42,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: SongED1,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: Note,Candara,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,10,10,10,1
+Style: Eyecatch,Candara,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:13.24,0:00:15.29,SongED1,en,0,0,0,Lyric01,Sometimes the moon jumps over
+Dialogue: 0,0:00:16.00,0:00:18.54,SongED1,en,0,0,0,Lyric02,the pocket of empty sky
+Dialogue: 0,0:00:18.75,0:00:20.92,SongED1,en,0,0,0,Lyric03,Laugh loudly and
+Dialogue: 0,0:00:21.54,0:00:23.54,SongED1,en,0,0,0,Lyric04,morning will come tomorrow
+Dialogue: 0,0:00:24.30,0:00:28.88,SongED1,en,0,0,0,Lyric05,Don't worry too much about losing
+Dialogue: 0,0:00:29.88,0:00:32.47,SongED1,en,0,0,0,Lyric06,Keep going! Go for it!
+Dialogue: 0,0:00:32.47,0:00:34.89,SongED1,en,0,0,0,Lyric07,A bare hand is strong
+Dialogue: 0,0:00:35.31,0:00:44.98,SongED1,en,0,0,0,Lyric08,That's how it is! Let's go lightly
+Dialogue: 0,0:00:45.44,0:00:53.03,SongED1,en,0,0,0,Lyric09,That's how life is! Look, a chance
+Dialogue: 0,0:00:53.49,0:00:57.75,SongED1,en,0,0,0,Lyric10,follows us wagging its tail!
+Dialogue: 0,0:00:59.16,0:01:08.67,SongED1,en,0,0,0,Lyric11,That's how it is! Let's go lightly
+Dialogue: 0,0:01:09.17,0:01:17.14,SongED1,en,0,0,0,Lyric12,That's how the future is, too! Look, tomorrow
+Dialogue: 0,0:01:17.39,0:01:22.98,SongED1,en,0,0,0,Lyric13,is opening its hands and smiling at us!

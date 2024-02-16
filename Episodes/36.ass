@@ -32,30 +32,30 @@ Style: InsOtsuru,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,SETTINGS,,0,0,0,,complete:false;song:song.*;lang:en,ko
-Dialogue: 0,0:00:04.34,0:00:06.50,Default,OP!Intro01,0,0,0,,時は戦国、乱世の時代。
-Dialogue: 0,0:00:07.04,0:00:11.45,Default,OP!Intro02,0,0,0,,からくり人の住むジパング国では群雄割拠して合戦に明け暮れ、
-Dialogue: 0,0:00:11.80,0:00:16.16,Default,OP!Intro03,0,0,0,,からくり武芸者たちも勝利と栄光を目指してしのぎを削っていた。
-Dialogue: 0,0:00:16.79,0:00:23.11,Default,OP!Intro04,0,0,0,,そしていま、からくり武芸者ナンバー１を目指す、とてつもないヒーローが誕生した！
-Dialogue: 0,0:00:24.40,0:00:26.83,Default,OP!Intro05,0,0,0,,ムサシ、見参でござるだス！
-Dialogue: 0,0:00:27.82,0:00:33.16,TitleOP,OP!Title,0,0,40,,からくり剣豪伝ムサシロード
-Dialogue: 0,0:00:33.16,0:00:38.00,SongOP,OP!Lyric01,0,0,0,,男はいつでも　世界の真ん中で
-Dialogue: 0,0:00:38.83,0:00:41.75,SongOP,OP!Lyric02,0,0,0,,いちばん　強くなる日を
-Dialogue: 0,0:00:41.75,0:00:44.63,SongOP,OP!Lyric03,0,0,0,,AH! AH! 夢見て
-Dialogue: 0,0:00:44.63,0:00:49.68,SongOP,OP!Lyric04,0,0,0,,心の刃　大空にふりかざし
-Dialogue: 0,0:00:50.30,0:00:54.31,SongOP,OP!Lyric05,0,0,0,,冒険の旅の　幕を開ける
-Dialogue: 0,0:00:55.64,0:01:00.90,SongOP,OP!Lyric06,0,0,0,,ジパング国を　さすらう剣豪
-Dialogue: 0,0:01:01.48,0:01:06.53,SongOP,OP!Lyric07,0,0,0,,その名　からくりびと　ムサシ
-Dialogue: 0,0:01:06.53,0:01:08.03,SongOP,OP!Lyric08,0,0,0,,GO! FIGHT!
-Dialogue: 0,0:01:08.03,0:01:10.95,SongOP,OP!Lyric09,0,0,0,,鍔迫り合いの音が
-Dialogue: 0,0:01:10.95,0:01:13.79,SongOP,OP!Lyric10,0,0,0,,眩しい人生
-Dialogue: 0,0:01:13.79,0:01:19.25,SongOP,OP!Lyric11,0,0,0,,戦い　昨日よりも　今日　強い
-Dialogue: 0,0:01:19.29,0:01:25.51,SongOP,OP!Lyric12,0,0,0,,BUGEI! 二刀流　ムサシ
-Dialogue: 0,0:01:25.51,0:01:28.39,SongOP,OP!Lyric13,0,0,0,,明日は　輝くぞ
-Dialogue: 0,0:01:28.39,0:01:30.97,SongOP,OP!Lyric14,0,0,0,,鍔迫り合いの音が
-Dialogue: 0,0:01:30.97,0:01:33.47,SongOP,OP!Lyric15,0,0,0,,眩しい人生
-Dialogue: 0,0:01:34.18,0:01:39.56,SongOP,OP!Lyric16,0,0,0,,戦い　思い切りと　静けさと
-Dialogue: 0,0:01:39.61,0:01:45.82,SongOP,OP!Lyric17,0,0,0,,BUGEI! 二刀流　ムサシ
-Dialogue: 0,0:01:45.82,0:01:51.03,SongOP,OP!Lyric18,0,0,0,,みけんが　きらめいた　ムサシ！！
+Dialogue: 0,0:00:04.34,0:00:06.50,Default,ref,0,0,0,OP!Intro01,時は戦国、乱世の時代。
+Dialogue: 0,0:00:07.04,0:00:11.45,Default,ref,0,0,0,OP!Intro02,からくり人の住むジパング国では群雄割拠して合戦に明け暮れ、
+Dialogue: 0,0:00:11.80,0:00:16.16,Default,ref,0,0,0,OP!Intro03,からくり武芸者たちも勝利と栄光を目指してしのぎを削っていた。
+Dialogue: 0,0:00:16.79,0:00:23.11,Default,ref,0,0,0,OP!Intro04,そしていま、からくり武芸者ナンバー１を目指す、とてつもないヒーローが誕生した！
+Dialogue: 0,0:00:24.40,0:00:26.83,Default,ref,0,0,0,OP!Intro05,ムサシ、見参でござるだス！
+Dialogue: 0,0:00:27.82,0:00:33.16,TitleOP,ref,0,0,40,OP!Title,からくり剣豪伝ムサシロード
+Dialogue: 0,0:00:33.16,0:00:38.00,SongOP,ref,0,0,0,OP!Lyric01,男はいつでも　世界の真ん中で
+Dialogue: 0,0:00:38.83,0:00:41.75,SongOP,ref,0,0,0,OP!Lyric02,いちばん　強くなる日を
+Dialogue: 0,0:00:41.75,0:00:44.63,SongOP,ref,0,0,0,OP!Lyric03,AH! AH! 夢見て
+Dialogue: 0,0:00:44.63,0:00:49.68,SongOP,ref,0,0,0,OP!Lyric04,心の刃　大空にふりかざし
+Dialogue: 0,0:00:50.30,0:00:54.31,SongOP,ref,0,0,0,OP!Lyric05,冒険の旅の　幕を開ける
+Dialogue: 0,0:00:55.64,0:01:00.90,SongOP,ref,0,0,0,OP!Lyric06,ジパング国を　さすらう剣豪
+Dialogue: 0,0:01:01.48,0:01:06.53,SongOP,ref,0,0,0,OP!Lyric07,その名　からくりびと　ムサシ
+Dialogue: 0,0:01:06.53,0:01:08.03,SongOP,ref,0,0,0,OP!Lyric08,GO! FIGHT!
+Dialogue: 0,0:01:08.03,0:01:10.95,SongOP,ref,0,0,0,OP!Lyric09,鍔迫り合いの音が
+Dialogue: 0,0:01:10.95,0:01:13.79,SongOP,ref,0,0,0,OP!Lyric10,眩しい人生
+Dialogue: 0,0:01:13.79,0:01:19.25,SongOP,ref,0,0,0,OP!Lyric11,戦い　昨日よりも　今日　強い
+Dialogue: 0,0:01:19.29,0:01:25.51,SongOP,ref,0,0,0,OP!Lyric12,BUGEI! 二刀流　ムサシ
+Dialogue: 0,0:01:25.51,0:01:28.39,SongOP,ref,0,0,0,OP!Lyric13,明日は　輝くぞ
+Dialogue: 0,0:01:28.39,0:01:30.97,SongOP,ref,0,0,0,OP!Lyric14,鍔迫り合いの音が
+Dialogue: 0,0:01:30.97,0:01:33.47,SongOP,ref,0,0,0,OP!Lyric15,眩しい人生
+Dialogue: 0,0:01:34.18,0:01:39.56,SongOP,ref,0,0,0,OP!Lyric16,戦い　思い切りと　静けさと
+Dialogue: 0,0:01:39.61,0:01:45.82,SongOP,ref,0,0,0,OP!Lyric17,BUGEI! 二刀流　ムサシ
+Dialogue: 0,0:01:45.82,0:01:51.03,SongOP,ref,0,0,0,OP!Lyric18,みけんが　きらめいた　ムサシ！！
 Comment: 0,0:01:59.48,0:02:04.08,Default,ja,0,0,0,,今、まさにサツマニアへ一斉攻撃をかけようとする不知火一族。
 Dialogue: 0,0:01:59.48,0:02:04.08,Default,ko,0,0,0,,지금 막 사츠마니아에 일제 공격을 하고자 하는 시라누이 일족.
 Dialogue: 0,0:01:59.48,0:02:04.08,Default,en,0,0,0,,Shiranui Clan is about to do a full out attack on Satsumania.
@@ -72,17 +72,17 @@ Comment: 0,0:02:17.81,0:02:22.81,TitleEP,ja,0,0,60,,
 Dialogue: 0,0:02:17.81,0:02:22.81,TitleEP,ko,0,0,60,,음모이오
 Dialogue: 0,0:02:17.81,0:02:22.81,TitleEP,en,0,0,200,,The Last Conspiracy
 Dialogue: 0,0:02:17.81,0:02:22.81,TitleEP,en,0,0,60,,of Shiranui
-Dialogue: 0,0:02:29.69,0:02:34.25,Default,recap,0,0,0,35#36-01,ここはすでに不知火の本拠地。いつ敵が襲ってくるかしれません。
-Dialogue: 0,0:02:35.64,0:02:37.55,Default,recap,0,0,0,35#36-02,油断は禁物でゴワス。
-Dialogue: 0,0:02:44.93,0:02:45.93,Default,recap,0,0,0,35#36-03,ムサシ殿！
-Dialogue: 0,0:02:47.30,0:02:49.47,Default,recap,0,0,0,35#36-04,ムサシ！無事だったよね！
+Dialogue: 0,0:02:29.69,0:02:34.25,Default,ref,0,0,0,35#36-01,ここはすでに不知火の本拠地。いつ敵が襲ってくるかしれません。
+Dialogue: 0,0:02:35.64,0:02:37.55,Default,ref,0,0,0,35#36-02,油断は禁物でゴワス。
+Dialogue: 0,0:02:44.93,0:02:45.93,Default,ref,0,0,0,35#36-03,ムサシ殿！
+Dialogue: 0,0:02:47.30,0:02:49.47,Default,ref,0,0,0,35#36-04,ムサシ！無事だったよね！
 Comment: 0,0:02:54.62,0:02:56.40,Default,ja,0,0,0,,シロ！同下でゴワス！
 Dialogue: 0,0:02:54.62,0:02:56.40,Default,ko,0,0,0,,시로! 뭔 일이오!
 Dialogue: 0,0:02:54.62,0:02:56.40,Default,en,0,0,0,,Shiro! What's wrong-{\i1}gowasu{\i0}?
-Dialogue: 0,0:02:57.35,0:02:59.66,Default,recap,0,0,0,35#36-05,殺せ。殺せ。
-Dialogue: 0,0:03:04.74,0:03:06.25,Default,recap,0,0,0,35#36-06,ムサシ！
-Dialogue: 0,0:03:12.62,0:03:13.49,Default,recap,0,0,0,35#36-07,ムサシ！
-Dialogue: 0,0:03:13.49,0:03:15.21,Default,recap,0,0,0,35#36-08,ムサシ！なんてことを！
+Dialogue: 0,0:02:57.35,0:02:59.66,Default,ref,0,0,0,35#36-05,殺せ。殺せ。
+Dialogue: 0,0:03:04.74,0:03:06.25,Default,ref,0,0,0,35#36-06,ムサシ！
+Dialogue: 0,0:03:12.62,0:03:13.49,Default,ref,0,0,0,35#36-07,ムサシ！
+Dialogue: 0,0:03:13.49,0:03:15.21,Default,ref,0,0,0,35#36-08,ムサシ！なんてことを！
 Comment: 0,0:03:15.53,0:03:17.77,Default,ja,0,0,0,,殺せ。殺せ！
 Dialogue: 0,0:03:15.53,0:03:17.77,Default,ko,0,0,0,,죽여라. 죽여라!
 Dialogue: 0,0:03:15.53,0:03:17.77,Default,en,0,0,0,,Kill. Kill!
@@ -696,19 +696,19 @@ Dialogue: 0,0:22:16.38,0:22:22.55,Default,en,0,0,0,,Do not cry, Musashi. A boy g
 Comment: 0,0:22:23.20,0:22:26.45,Default,ja,0,0,0,,悲しみを乗り越えて進め、ムサシ！
 Dialogue: 0,0:22:23.20,0:22:26.45,Default,ko,0,0,0,,슬픔을 뛰어넘어 나아가라, 무사시.
 Dialogue: 0,0:22:23.20,0:22:26.45,Default,en,0,0,0,,Get over the sadness and advance, Musashi.
-Dialogue: 0,0:22:41.49,0:22:43.53,SongED1,ED1!Lyric01,0,0,0,,カラのポケットに　ツキが
-Dialogue: 0,0:22:44.24,0:22:46.78,SongED1,ED1!Lyric02,0,0,0,,飛び込むことも　あるさ
-Dialogue: 0,0:22:46.99,0:22:49.16,SongED1,ED1!Lyric03,0,0,0,,おっきな声で　笑えば
-Dialogue: 0,0:22:49.79,0:22:51.79,SongED1,ED1!Lyric04,0,0,0,,あしたには　朝が来る
-Dialogue: 0,0:22:52.54,0:22:57.13,SongED1,ED1!Lyric05,0,0,0,,無くすものなんか　何もないさ
-Dialogue: 0,0:22:58.13,0:23:00.71,SongED1,ED1!Lyric06,0,0,0,,やっちゃえ！イケイケ！
-Dialogue: 0,0:23:00.71,0:23:03.13,SongED1,ED1!Lyric07,0,0,0,,手ぶらは　強いぜ
-Dialogue: 0,0:23:03.55,0:23:13.22,SongED1,ED1!Lyric08,0,0,0,,てなもんだ　のーてんきに行こう
-Dialogue: 0,0:23:13.68,0:23:21.27,SongED1,ED1!Lyric09,0,0,0,,人生　てなもんさ　チャンスが　ほら
-Dialogue: 0,0:23:21.73,0:23:25.99,SongED1,ED1!Lyric10,0,0,0,,しっぽを振って　追ってくるぜ
-Dialogue: 0,0:23:27.41,0:23:36.92,SongED1,ED1!Lyric11,0,0,0,,てなもんだ　のーてんきに行こう
-Dialogue: 0,0:23:37.42,0:23:45.38,SongED1,ED1!Lyric12,0,0,0,,未来も　てなもんさ　あしたが　ほら
-Dialogue: 0,0:23:45.63,0:23:51.22,SongED1,ED1!Lyric13,0,0,0,,両手ひろげて　笑ってるぜ
+Dialogue: 0,0:22:41.49,0:22:43.53,SongED1,ref,0,0,0,ED1!Lyric01,カラのポケットに　ツキが
+Dialogue: 0,0:22:44.24,0:22:46.78,SongED1,ref,0,0,0,ED1!Lyric02,飛び込むことも　あるさ
+Dialogue: 0,0:22:46.99,0:22:49.16,SongED1,ref,0,0,0,ED1!Lyric03,おっきな声で　笑えば
+Dialogue: 0,0:22:49.79,0:22:51.79,SongED1,ref,0,0,0,ED1!Lyric04,あしたには　朝が来る
+Dialogue: 0,0:22:52.54,0:22:57.13,SongED1,ref,0,0,0,ED1!Lyric05,無くすものなんか　何もないさ
+Dialogue: 0,0:22:58.13,0:23:00.71,SongED1,ref,0,0,0,ED1!Lyric06,やっちゃえ！イケイケ！
+Dialogue: 0,0:23:00.71,0:23:03.13,SongED1,ref,0,0,0,ED1!Lyric07,手ぶらは　強いぜ
+Dialogue: 0,0:23:03.55,0:23:13.22,SongED1,ref,0,0,0,ED1!Lyric08,てなもんだ　のーてんきに行こう
+Dialogue: 0,0:23:13.68,0:23:21.27,SongED1,ref,0,0,0,ED1!Lyric09,人生　てなもんさ　チャンスが　ほら
+Dialogue: 0,0:23:21.73,0:23:25.99,SongED1,ref,0,0,0,ED1!Lyric10,しっぽを振って　追ってくるぜ
+Dialogue: 0,0:23:27.41,0:23:36.92,SongED1,ref,0,0,0,ED1!Lyric11,てなもんだ　のーてんきに行こう
+Dialogue: 0,0:23:37.42,0:23:45.38,SongED1,ref,0,0,0,ED1!Lyric12,未来も　てなもんさ　あしたが　ほら
+Dialogue: 0,0:23:45.63,0:23:51.22,SongED1,ref,0,0,0,ED1!Lyric13,両手ひろげて　笑ってるぜ
 Comment: 0,0:24:04.47,0:24:07.30,Default,ja,0,0,0,,コジローを倒してジパングアンバーワンになったおいら！
 Dialogue: 0,0:24:04.47,0:24:07.30,Default,ko,0,0,0,,코지로를 쓰러트리고 지팡구 제일이 된 나!
 Dialogue: 0,0:24:04.47,0:24:07.30,Default,en,0,0,0,,I became the number of Jipangu by taking down Kojirō!

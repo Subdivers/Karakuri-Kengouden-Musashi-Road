@@ -1,0 +1,285 @@
+﻿[Script Info]
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 480
+Title: The Last Conspiracy of Shiranui
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: NoteOnAnime,Candara,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,10,1
+Style: OP1TR,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: TitleOP,DejaVu Serif,42,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: TitleEP,DejaVu Serif,42,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: ED1TR,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: Note,Candara,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,10,10,10,1
+Style: Eyecatch,Candara,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,10,10,10,1
+Style: NoteOnAnimeVert,@맑은 고딕,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,10,1
+Style: InsOtsuru,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.34,0:00:06.50,Default,en,0,0,0,,It is the turbulent Sengoku period.
+Dialogue: 0,0:00:07.04,0:00:11.45,Default,en,0,0,0,,Warlords keep on fighting day and night over\NJipangu State, where Karakuri people live.
+Dialogue: 0,0:00:11.80,0:00:16.16,Default,en,0,0,0,,Karakuri martial artists were sharpening their swords, dreaming of victory and honor.
+Dialogue: 0,0:00:16.79,0:00:23.11,Default,en,0,0,0,,And now, a wild hero has arrived, seeking to be the number one Karakuri martial artist!
+Dialogue: 0,0:00:24.40,0:00:26.83,Default,en,0,0,0,,Musashi is here-{\i1}dasu{\i0}!
+Dialogue: 0,0:00:27.82,0:00:33.16,TitleOP,en,0,0,40,,{\an8\fs32\fade(770,0)}Karakuri Kengouden
+Dialogue: 0,0:00:27.82,0:00:33.16,TitleOP,en,0,0,40,,{\fade(770,0)}Musashi Road
+Dialogue: 0,0:00:27.82,0:00:33.16,TitleOP,en,0,0,40,,{\fs24\fade(770,0)}(The Story of {\i1}Karakuri{\i0} Martial Artist: Road of Musashi)
+Dialogue: 0,0:00:33.16,0:00:38.00,SongOP,en,0,0,0,,A man always dreams of the day
+Dialogue: 0,0:00:38.83,0:00:41.75,SongOP,en,0,0,0,,in the center of the world to become
+Dialogue: 0,0:00:41.75,0:00:44.63,SongOP,en,0,0,0,,AH! AH! the strongest
+Dialogue: 0,0:00:44.63,0:00:49.68,SongOP,en,0,0,0,,Raise the sword of your heart high to the wide sky
+Dialogue: 0,0:00:50.30,0:00:54.31,SongOP,en,0,0,0,,Raise the curtain to the road of adventure
+Dialogue: 0,0:00:55.64,0:01:00.90,SongOP,en,0,0,0,,A skilled swordsman roams on Jipangu State
+Dialogue: 0,0:01:01.48,0:01:06.53,SongOP,en,0,0,0,,His name is Musashi, a Karakuri man
+Dialogue: 0,0:01:06.53,0:01:08.03,SongOP,en,0,0,0,,Go! Fight!
+Dialogue: 0,0:01:08.03,0:01:10.95,SongOP,en,0,0,0,,The sound of fierce duels
+Dialogue: 0,0:01:10.95,0:01:13.79,SongOP,en,0,0,0,,makes life dazzling
+Dialogue: 0,0:01:13.79,0:01:19.25,SongOP,en,0,0,0,,Battles of yesterdays make you stronger today
+Dialogue: 0,0:01:19.29,0:01:25.51,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
+Dialogue: 0,0:01:25.51,0:01:28.39,SongOP,en,0,0,0,,Tomorrow will be glorious
+Dialogue: 0,0:01:28.39,0:01:30.97,SongOP,en,0,0,0,,The sound of fierce duels
+Dialogue: 0,0:01:30.97,0:01:33.47,SongOP,en,0,0,0,,makes life dazzling
+Dialogue: 0,0:01:34.18,0:01:39.56,SongOP,en,0,0,0,,Fight the utmost with the stillness
+Dialogue: 0,0:01:39.61,0:01:45.82,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
+Dialogue: 0,0:01:45.82,0:01:51.03,SongOP,en,0,0,0,,His eyes shined! Musashi!
+Dialogue: 0,0:01:59.48,0:02:04.08,Default,en,0,0,0,,Shiranui Clan is about to do a full out attack on Satsumania.
+Dialogue: 0,0:02:04.72,0:02:10.95,Default,en,0,0,0,,Musashi tried to let Saigo know, but Hanzō caught him before he could run away.
+Dialogue: 0,0:02:11.36,0:02:17.43,Default,en,0,0,0,,Under the hypnotism of Himiko, Musashi was ordered to kill Kojirō and others.
+Dialogue: 0,0:02:17.81,0:02:22.81,TitleEP,en,0,0,200,,The Last Conspiracy
+Dialogue: 0,0:02:17.81,0:02:22.81,TitleEP,en,0,0,60,,of Shiranui
+Dialogue: 0,0:02:54.62,0:02:56.40,Default,en,0,0,0,,Shiro! What's wrong-{\i1}gowasu{\i0}?
+Dialogue: 0,0:03:15.53,0:03:17.77,Default,en,0,0,0,,Kill. Kill!
+Dialogue: 0,0:03:29.27,0:03:32.01,Default,en,0,0,0,,Stop it, Musashi! Don't you recognize us?
+Dialogue: 0,0:03:33.86,0:03:35.80,Default,en,0,0,0,,Musashi! Stop it-{\i1}gowasu{\i0}!
+Dialogue: 0,0:03:38.46,0:03:42.31,Default,en,0,0,0,,If you're angry about being treated like a fool all the time, let us apologize!
+Dialogue: 0,0:03:42.31,0:03:47.61,Default,en,0,0,0,,Or if you're mad about that I didn't let you eat dangos as much as you wanted, then I'll apologize about that too!
+Dialogue: 0,0:03:55.29,0:03:59.58,Default,en,0,0,0,,It seems that Mr. Musashi is under hypnotism of some guy.
+Dialogue: 0,0:04:00.11,0:04:02.90,Default,en,0,0,0,,Then, some kind of strong shock might do.
+Dialogue: 0,0:04:03.12,0:04:04.83,Default,en,0,0,0,,He will wake up by doing so.
+Dialogue: 0,0:04:06.37,0:04:07.54,Default,en,0,0,0,,Come and face me, Musashi!
+Dialogue: 0,0:04:14.42,0:04:16.50,Default,en,0,0,0,,Ganryu! Whimsy Hit!
+Dialogue: 0,0:04:21.76,0:04:24.64,Default,en,0,0,0,,Kojirō! What the heck did you just do!?
+Dialogue: 0,0:04:25.31,0:04:27.24,Default,en,0,0,0,,Don't worry. I used the back of my sword.
+Dialogue: 0,0:04:30.21,0:04:32.22,Default,en,0,0,0,,You're awake-{\i1}gowasu{\i0}!
+Dialogue: 0,0:04:33.50,0:04:34.43,Default,en,0,0,0,,Mr. Musashi!
+Dialogue: 0,0:04:39.02,0:04:41.71,Default,en,0,0,0,,Hey, he didn't wake up at all!
+Dialogue: 0,0:04:41.71,0:04:44.85,Default,en,0,0,0,,I totally forgot that Musashi's nerves are insensible.
+Dialogue: 0,0:04:45.94,0:04:47.99,Default,en,0,0,0,,Kill. Kill. Kill.
+Dialogue: 0,0:04:49.91,0:04:51.42,Default,en,0,0,0,,Chest!
+Dialogue: 0,0:04:57.08,0:05:00.25,Default,en,0,0,0,,Let's use this chance to make Mr. Musashi wake up.
+Dialogue: 0,0:05:05.36,0:05:09.53,Default,en,0,0,0,,What is it-{\i1}dasu{\i0}!? Why am I in sea-{\i1}dasu{\i0}!?
+Dialogue: 0,0:05:10.23,0:05:12.47,Default,en,0,0,0,,Huh? Are you all hiking together-{\i1}dasu{\i0}?
+Dialogue: 0,0:05:12.70,0:05:14.82,Default,en,0,0,0,,Why are you so carefree!?
+Dialogue: 0,0:05:15.64,0:05:21.02,Default,en,0,0,0,,I see-{\i1}dasu{\i0}. I was under hypnotism-{\i1}dasu{\i0}...
+Dialogue: 0,0:05:21.77,0:05:26.44,Default,en,0,0,0,,I can't forgive that Himiko as she made me try to kill everyone-{\i1}dasu{\i0}!
+Dialogue: 0,0:05:27.01,0:05:32.83,Default,en,0,0,0,,But, as Musashi said, if Shiranui Clan comes to attack Satsumania, it'll be a serious problem-{\i1}gowasu{\i0}.
+Dialogue: 0,0:05:33.16,0:05:35.92,Default,en,0,0,0,,Mr. Musashi. Where is Shiranui Clan's base?
+Dialogue: 0,0:05:36.64,0:05:37.99,Default,en,0,0,0,,I'll guide you-{\i1}dasu{\i0}!
+Dialogue: 0,0:05:38.68,0:05:50.52,Default,en,0,0,0,,For Lord Himiko! For Lord Himiko! For Lord Himiko! For Lord Himiko!
+Dialogue: 0,0:05:52.98,0:05:57.83,Default,en,0,0,0,,The time finally has come. It's time to build the kingdom of Shiranui in Kyushu.
+Dialogue: 0,0:05:57.83,0:06:01.78,Default,en,0,0,0,,Yessir! For Lord Queen Himiko!
+Dialogue: 0,0:06:02.12,0:06:05.24,Default,en,0,0,0,,Ms. Himiko. Everything is ready.
+Dialogue: 0,0:06:05.50,0:06:08.90,Default,en,0,0,0,,Mr. Hanzō, thank you for your cooperation.
+Dialogue: 0,0:06:09.11,0:06:13.29,Default,en,0,0,0,,I have a last present for you, Ms. Himiko. Please look for yourself.
+Dialogue: 0,0:06:19.82,0:06:21.94,Default,en,0,0,0,,Mr. Hanzō, what is that?
+Dialogue: 0,0:06:22.74,0:06:28.51,Default,en,0,0,0,,That is the missile that will hit Satsumania, the central city of the kingdom of Saikai.
+Dialogue: 0,0:06:28.51,0:06:29.86,Default,en,0,0,0,,To Satsumania?
+Dialogue: 0,0:06:36.86,0:06:38.68,Default,en,0,0,0,,Why did you make such thing?
+Dialogue: 0,0:06:39.71,0:06:48.26,Default,en,0,0,0,,To make sure the victory of our force. That one thing will make taking the whole Jipangu into our hands easier.
+Dialogue: 0,0:06:49.94,0:06:52.56,Default,en,0,0,0,,Using a thing like that is unforgivable.
+Dialogue: 0,0:06:52.86,0:06:54.55,Default,en,0,0,0,,Why is that, Ms. Himiko?
+Dialogue: 0,0:06:54.55,0:07:02.34,Default,en,0,0,0,,Shiranui do not wage war to kill people. Securing the land that we can live where sun shines is all we want.
+Dialogue: 0,0:07:02.34,0:07:11.00,Default,en,0,0,0,,For Lord Himiko! For Lord Himiko! For Lord Himiko!
+Dialogue: 0,0:07:11.54,0:07:12.67,Default,en,0,0,0,,Who's there!?
+Dialogue: 0,0:07:14.20,0:07:18.02,Default,en,0,0,0,,Oh, it's you, Musashi. Did you take care of Kojirō and others?
+Dialogue: 0,0:07:18.78,0:07:20.78,Default,en,0,0,0,,I have to report to Lord Himiko.
+Dialogue: 0,0:07:21.15,0:07:23.02,Default,en,0,0,0,,Alright. You may go in.
+Dialogue: 0,0:07:27.14,0:07:27.46,Default,en,0,0,0,,Yes.
+Dialogue: 0,0:07:32.25,0:07:33.54,Default,en,0,0,0,,Now-{\i1}dasu{\i0}!
+Dialogue: 0,0:07:49.97,0:07:51.68,Default,en,0,0,0,,They have so many weapons!
+Dialogue: 0,0:07:52.58,0:07:56.55,Default,en,0,0,0,,If all of this come attack Satsumania, it'll be annihilated-{\i1}gowasu{\i0}.
+Dialogue: 0,0:07:57.07,0:07:58.60,Default,en,0,0,0,,We need to move.
+Dialogue: 0,0:07:58.93,0:08:00.17,Default,en,0,0,0,,Leave it to me-{\i1}dasu{\i0}!
+Dialogue: 0,0:08:00.17,0:08:04.28,Default,en,0,0,0,,Stop it, you fool! There's no way we're going to defeat all of them by ourselves!
+Dialogue: 0,0:08:04.86,0:08:07.15,Default,en,0,0,0,,Let's use these.
+Dialogue: 0,0:08:08.64,0:08:12.86,Default,en,0,0,0,,This bomb will explode 10 minutes after setting fire.
+Dialogue: 0,0:08:13.65,0:08:19.11,Default,en,0,0,0,,If we destroy this base by installing this to various places, their scheme will come to nothing.
+Dialogue: 0,0:08:19.33,0:08:23.80,Default,en,0,0,0,,You're great, Mr. Jūbee! When did you get that-{\i1}dasu{\i0}?
+Dialogue: 0,0:08:24.17,0:08:28.02,Default,en,0,0,0,,My mail order has arrived yesterday.
+Dialogue: 0,0:08:28.25,0:08:30.37,Default,en,0,0,0,,Then let's divide and install.
+Dialogue: 0,0:08:54.85,0:08:55.46,Default,en,0,0,0,,Who's there!?
+Dialogue: 0,0:09:00.19,0:09:01.66,Default,en,0,0,0,,Oh, it's just a rat.
+Dialogue: 0,0:09:07.65,0:09:08.14,Default,en,0,0,0,,Shiro!
+Dialogue: 0,0:09:09.55,0:09:12.51,Default,en,0,0,0,,Are you suggesting that this is a good place to install one-{\i1}gowasu{\i0}?
+Dialogue: 0,0:09:12.51,0:09:14.83,Default,en,0,0,0,,Shiro is a good boy-{\i1}gowasu{\i0}.
+Dialogue: 0,0:09:23.21,0:09:26.94,Note,en,0,0,0,,({\i1}iikagen ni shiro! dajare, tūjinai de gowasu{\i0}:\Nthat's enough! this word play did not work so well-{\i1}gowasu{\i0})
+Dialogue: 0,0:09:23.21,0:09:26.94,Default,en,0,0,0,,You're a bad boy! But you're not going to change-{\i1}gowasu{\i0}.
+Dialogue: 0,0:09:30.35,0:09:32.78,Default,en,0,0,0,,Something smells good-{\i1}dasu{\i0}.
+Dialogue: 0,0:09:40.42,0:09:42.82,Default,en,0,0,0,,Looks tasty-{\i1}dasu{\i0}!
+Dialogue: 0,0:09:42.82,0:09:48.84,Default,en,0,0,0,,It'll end up disappearing it explodes-{\i1}dasu{\i0}! I'll eat instead so that these won't be wasteful-{\i1}dasu{\i0}!
+Dialogue: 0,0:09:49.68,0:09:53.33,Default,en,0,0,0,,What are you doing!? This is not a time to be snitching foods!
+Dialogue: 0,0:09:53.33,0:09:54.64,Default,en,0,0,0,,But...
+Dialogue: 0,0:09:55.43,0:09:57.81,Default,en,0,0,0,,It's all because this exists!
+Dialogue: 0,0:10:03.77,0:10:05.98,Default,en,0,0,0,,Now, let's keep installing bombs!
+Dialogue: 0,0:10:06.41,0:10:08.44,Default,en,0,0,0,,Y- yessir-{\i1}dasu{\i0}.
+Dialogue: 0,0:10:15.52,0:10:16.44,Default,en,0,0,0,,Are you done?
+Dialogue: 0,0:10:16.44,0:10:17.34,Default,en,0,0,0,,Good-{\i1}dasu{\i0}.
+Dialogue: 0,0:10:17.89,0:10:20.74,Default,en,0,0,0,,Then let's get out before it explodes-{\i1}gowasu{\i0}.
+Dialogue: 0,0:10:20.74,0:10:21.80,Default,en,0,0,0,,The exit is on this way-{\i1}dasu{\i0}!
+Dialogue: 0,0:10:28.00,0:10:29.85,Default,en,0,0,0,,The exit is after this turn-{\i1}dasu{\i0}!
+Dialogue: 0,0:10:30.36,0:10:30.91,Default,en,0,0,0,,Huh?
+Dialogue: 0,0:10:34.54,0:10:38.59,Default,en,0,0,0,,Hey, you idiot! This is not an exit! This is a resting room of Shiranui!
+Dialogue: 0,0:10:38.59,0:10:41.52,Default,en,0,0,0,,You're super ultra directionally challenged!
+Dialogue: 0,0:10:41.79,0:10:43.20,Default,en,0,0,0,,I- I'm sorry-{\i1}dasu{\i0}!
+Dialogue: 0,0:10:45.24,0:10:51.36,Default,en,0,0,0,,You guys dared to come into this base, but you will have no exit.
+Dialogue: 0,0:10:51.36,0:10:53.44,Default,en,0,0,0,,Give up and die.
+Dialogue: 0,0:11:23.89,0:11:25.75,Default,en,0,0,0,,Chest!
+Dialogue: 0,0:11:32.18,0:11:36.27,Default,en,0,0,0,,Ms. Himiko. Please make an order for a sally.
+Dialogue: 0,0:11:36.53,0:11:42.24,Default,en,0,0,0,,No matter what you say, unless that missile is gone, I will not make such order.
+Dialogue: 0,0:11:42.46,0:11:45.58,Default,en,0,0,0,,But that will end up leaving big damage to our forces.
+Dialogue: 0,0:11:45.90,0:11:51.05,Default,en,0,0,0,,To revive the Fire Country, everyone here are prepared for numerous losses.
+Dialogue: 0,0:11:53.77,0:11:58.96,Default,en,0,0,0,,Understood. I will dispose the missile as you said, Ms. Himiko.
+Dialogue: 0,0:11:59.21,0:12:03.65,Default,en,0,0,0,,That's our Mr. Hanzō. You understand us well.
+Dialogue: 0,0:12:04.33,0:12:07.11,Default,en,0,0,0,,Then, please make a sortie order to all forces.
+Dialogue: 0,0:12:07.52,0:12:08.50,Default,en,0,0,0,,Understood.
+Dialogue: 0,0:12:16.72,0:12:21.68,Default,en,0,0,0,,The explosion is nearby! Wait for the stormy latter half!
+Dialogue: 0,0:12:22.28,0:12:27.29,Eyecatch,en,0,0,0,,Karakuri Kengouden: Musashi Road
+Dialogue: 0,0:12:27.31,0:12:29.96,Default,en,0,0,0,,Shiranui Magic, Fireball Throwing Stone!
+Dialogue: 0,0:12:39.71,0:12:41.67,Default,en,0,0,0,,Chest!
+Dialogue: 0,0:12:41.67,0:12:43.68,Default,en,0,0,0,,Ouchie!
+Dialogue: 0,0:12:47.41,0:12:49.29,Default,en,0,0,0,,There's no end to this. Let's run!
+Dialogue: 0,0:12:50.56,0:12:51.90,Default,en,0,0,0,,Understood!
+Dialogue: 0,0:12:53.39,0:12:55.36,Default,en,0,0,0,,Let's run using this moment-{\i1}gowasu{\i0}!
+Dialogue: 0,0:13:01.41,0:13:06.15,Default,en,0,0,0,,{\i1}I must pay back Ms. Himiko for hypnotizing me, or I can't take this-dasu!
+Dialogue: 0,0:13:13.51,0:13:15.43,Default,en,0,0,0,,I have something to ask-{\i1}dasu{\i0}.
+Dialogue: 0,0:13:16.00,0:13:17.80,Default,en,0,0,0,,Which way is Ms. Himiko's room-{\i1}dasu{\i0}?
+Dialogue: 0,0:13:18.32,0:13:20.24,Default,en,0,0,0,,Oh, it's over there.
+Dialogue: 0,0:13:20.67,0:13:21.88,Default,en,0,0,0,,Thank you-{\i1}dasu{\i0}!
+Dialogue: 0,0:13:23.48,0:13:24.29,Default,en,0,0,0,,Musashi!
+Dialogue: 0,0:13:29.23,0:13:31.34,Default,en,0,0,0,,W- what are you doing, Hanzō!?
+Dialogue: 0,0:13:32.18,0:13:34.86,Default,en,0,0,0,,If the number of soldiers decrease here,
+Dialogue: 0,0:13:34.86,0:13:40.33,Default,en,0,0,0,,there won't be enough subordinates for me when I'm going to rule over Jipangu State.
+Dialogue: 0,0:13:40.33,0:13:43.31,Default,en,0,0,0,,Hanzō. Was that your true objective?
+Dialogue: 0,0:13:43.31,0:13:45.88,Default,en,0,0,0,,Himiko. I'm claiming your soldiers!
+Dialogue: 0,0:13:47.54,0:13:51.38,Default,en,0,0,0,,Hey, Himiko! How dare you hypnotize me-{\i1}dasu{\i0}!
+Dialogue: 0,0:13:51.67,0:13:53.33,Default,en,0,0,0,,That's unforgivable-{\i1}dasu{\i0}!
+Dialogue: 0,0:13:53.74,0:13:54.09,Default,en,0,0,0,,Huh?
+Dialogue: 0,0:13:56.07,0:13:57.41,Default,en,0,0,0,,What's going on-{\i1}dasu{\i0}?
+Dialogue: 0,0:13:57.67,0:14:01.89,Default,en,0,0,0,,Musashi! You were still tenaciously alive like a cockroach!
+Dialogue: 0,0:14:02.36,0:14:05.10,Default,en,0,0,0,,Being healthy and living long are my good things-{\i1}dasu{\i0}!
+Dialogue: 0,0:14:05.30,0:14:07.41,Default,en,0,0,0,,You're really going to the other world this time!
+Dialogue: 0,0:14:07.77,0:14:10.32,Default,en,0,0,0,,That's my line-{\i1}dasu{\i0}!
+Dialogue: 0,0:14:17.93,0:14:20.90,Default,en,0,0,0,,Niten'ichiryū: Iron Windmill!
+Dialogue: 0,0:14:27.91,0:14:29.35,Default,en,0,0,0,,Musashi, how dare you!
+Dialogue: 0,0:14:36.39,0:14:38.14,Default,en,0,0,0,,Move and have your neck cut.
+Dialogue: 0,0:14:38.14,0:14:39.98,Default,en,0,0,0,,Damn! That's cowardly-{\i1}dasu{\i0}!
+Dialogue: 0,0:14:39.98,0:14:43.63,Default,en,0,0,0,,Hmph! You can list all your complaints in the other world!
+Dialogue: 0,0:14:45.61,0:14:48.64,Default,en,0,0,0,,I don't want to die yet-{\i1}dasu{\i0}!
+Dialogue: 0,0:14:48.64,0:14:50.67,Default,en,0,0,0,,Help me, mother!
+Dialogue: 0,0:14:52.37,0:14:54.52,Default,en,0,0,0,,Mother!
+Dialogue: 0,0:14:57.76,0:14:59.23,Default,en,0,0,0,,Farewell, Musashi!
+Dialogue: 0,0:15:05.31,0:15:07.26,Default,en,0,0,0,,Are you out of your mind, Himiko!?
+Dialogue: 0,0:15:08.61,0:15:09.63,Default,en,0,0,0,,Hanzō.
+Dialogue: 0,0:15:10.63,0:15:13.38,Default,en,0,0,0,,I- I can't let you kill Musashi.
+Dialogue: 0,0:15:22.90,0:15:24.67,Default,en,0,0,0,,Musashi! We'll finish this later!
+Dialogue: 0,0:15:26.19,0:15:28.54,Default,en,0,0,0,,M- Ms. Himiko...
+Dialogue: 0,0:15:28.82,0:15:29.63,Default,en,0,0,0,,Ms. Himiko!
+Dialogue: 0,0:15:30.56,0:15:40.60,Default,en,0,0,0,,Musashi. I was wrong. Hanzō was trying to use Shiranui Clan only for his own ambition.
+Dialogue: 0,0:15:43.04,0:15:47.71,Default,en,0,0,0,37-01,Musashi. Will you forgive me?
+Dialogue: 0,0:15:56.02,0:16:00.41,Default,en,0,0,0,37-02,M- Musashi. Please call me mother for the last time.
+Dialogue: 0,0:16:04.27,0:16:06.60,Default,en,0,0,0,37-03,Mother!
+Dialogue: 0,0:16:13.48,0:16:15.76,Default,en,0,0,0,,It's a dead end-{\i1}gowasu{\i0}.
+Dialogue: 0,0:16:16.35,0:16:20.32,Default,en,0,0,0,,Huh? Musashi's not here! I thought he was following us.
+Dialogue: 0,0:16:20.63,0:16:22.73,Default,en,0,0,0,,That guy has problems with following paths...
+Dialogue: 0,0:16:25.17,0:16:28.89,Default,en,0,0,0,,Anyway, let's get out of here. We'll end up being buried alive at this rate.
+Dialogue: 0,0:16:36.76,0:16:38.03,Default,en,0,0,0,,You appeared again!
+Dialogue: 0,0:16:38.03,0:16:40.41,Default,en,0,0,0,,You're not getting away this time!
+Dialogue: 0,0:16:43.14,0:16:46.44,Default,en,0,0,0,,I'll face him for now. Please take care of Senhime.
+Dialogue: 0,0:16:46.84,0:16:47.31,Default,en,0,0,0,,Understood.
+Dialogue: 0,0:16:47.57,0:16:49.46,Default,en,0,0,0,,Kojirō, be careful!
+Dialogue: 0,0:16:52.36,0:16:54.75,Default,en,0,0,0,,I'll show you the power of Hououmaru!
+Dialogue: 0,0:17:00.51,0:17:03.36,Default,en,0,0,0,,Shiranui Magic, Fireball Throwing Stone!
+Dialogue: 0,0:17:05.29,0:17:07.69,Default,en,0,0,0,,Ganryu Tsubamegaeshi!
+Dialogue: 0,0:17:19.17,0:17:19.78,Default,en,0,0,0,,Who did that!?
+Dialogue: 0,0:17:20.72,0:17:21.44,Default,en,0,0,0,,It's me!
+Dialogue: 0,0:17:24.17,0:17:26.47,Default,en,0,0,0,,Kojirō! Now! Finish off Jinnai!
+Dialogue: 0,0:17:26.84,0:17:32.90,Default,en,0,0,0,,No. A martial artist cannot do a surprise attack to take down an enemy. I will have a fair and square match.
+Dialogue: 0,0:17:32.90,0:17:35.91,Default,en,0,0,0,,That guy is too sincere. Stop, Kerokichi.
+Dialogue: 0,0:17:37.77,0:17:39.18,Default,en,0,0,0,,Damn!
+Dialogue: 0,0:17:39.18,0:17:40.98,Default,en,0,0,0,,Now, face me!
+Dialogue: 0,0:17:41.22,0:17:47.43,Default,en,0,0,0,,Kojirō, you fool! Your sincerity will be the cause of your death! I'll make you into a fireball by my Fireball Throwing Stone!
+Dialogue: 0,0:17:48.32,0:17:52.72,Default,en,0,0,0,,Damn! I'm too wet to make a fireball!
+Dialogue: 0,0:17:53.19,0:17:55.76,Default,en,0,0,0,,Jiraiyan, lend him your sword.
+Dialogue: 0,0:17:56.46,0:17:58.21,Default,en,0,0,0,,E- excuse me...
+Dialogue: 0,0:17:59.13,0:18:02.51,Default,en,0,0,0,,That Kojirō guy is way too softhearted. Here you go.
+Dialogue: 0,0:18:04.56,0:18:07.65,Default,en,0,0,0,,H- how cruel of you guys!
+Dialogue: 0,0:18:08.95,0:18:10.17,Default,en,0,0,0,,H- huh?
+Dialogue: 0,0:18:13.51,0:18:15.67,Default,en,0,0,0,,J- Jiraiyan...
+Dialogue: 0,0:18:25.23,0:18:27.45,Default,en,0,0,0,,I'll have revenge for Ms. Himiko-{\i1}dasu{\i0}!
+Dialogue: 0,0:18:27.88,0:18:28.31,Default,en,0,0,0,,Hmph.
+Dialogue: 0,0:18:32.62,0:18:33.23,Default,en,0,0,0,,What the-!?
+Dialogue: 0,0:18:36.74,0:18:38.33,Default,en,0,0,0,,What are you trying to do-{\i1}dasu{\i0}!?
+Dialogue: 0,0:18:39.24,0:18:42.04,Default,en,0,0,0,,I'm going to take Satsumania with me.
+Dialogue: 0,0:18:49.13,0:18:50.42,Default,en,0,0,0,,Die, Musashi!
+Dialogue: 0,0:18:51.56,0:18:54.75,Default,en,0,0,0,,Musashi! We'll take care of this; you stop that missile!
+Dialogue: 0,0:18:55.29,0:18:56.18,Default,en,0,0,0,,Understood-{\i1}dasu{\i0}!
+Dialogue: 0,0:19:00.06,0:19:01.29,Default,en,0,0,0,,I got it-{\i1}dasu{\i0}!
+Dialogue: 0,0:19:02.31,0:19:03.77,Default,en,0,0,0,,This is strong-{\i1}dasu{\i0}!
+Dialogue: 0,0:19:08.82,0:19:09.98,Default,en,0,0,0,,Is that Musashi-{\i1}gowasu{\i0}?
+Dialogue: 0,0:19:09.98,0:19:13.04,Default,en,0,0,0,,What are you doing over there!?
+Dialogue: 0,0:19:13.04,0:19:16.62,Default,en,0,0,0,,Whatever you say, this missile won't stop-{\i1}dasu{\i0}!
+Dialogue: 0,0:19:19.71,0:19:23.70,Default,en,0,0,0,,Mr. Musashi is trying to stop the missile, risking his life.
+Dialogue: 0,0:19:24.13,0:19:26.06,Default,en,0,0,0,,{\i1}Musashi. You can make it.
+Dialogue: 0,0:19:30.02,0:19:32.58,Default,en,0,0,0,,What should I do-{\i1}dasu{\i0}? What?
+Dialogue: 0,0:19:34.48,0:19:36.29,Default,en,0,0,0,,Mommy, what's that?
+Dialogue: 0,0:19:36.62,0:19:39.76,Default,en,0,0,0,,Huh? I wonder, too!
+Dialogue: 0,0:19:42.74,0:19:48.41,Default,en,0,0,0,,It will strike Satsumania directly at this rate-{\i1}dasu{\i0}! I must change the direction of the missile...
+Dialogue: 0,0:19:49.58,0:19:50.57,Default,en,0,0,0,,That's it-{\i1}dasu{\i0}!
+Dialogue: 0,0:19:53.88,0:19:55.30,Default,en,0,0,0,,I'm bright-{\i1}dasu{\i0}!
+Dialogue: 0,0:19:57.11,0:19:58.27,Default,en,0,0,0,,I did it-{\i1}dasu{\i0}!
+Dialogue: 0,0:20:21.18,0:20:22.89,Default,en,0,0,0,,The missile is coming back.
+Dialogue: 0,0:20:25.17,0:20:28.32,Default,en,0,0,0,,Musashi! Don't come to here! Go there!
+Dialogue: 0,0:20:39.83,0:20:41.76,Default,en,0,0,0,,-It's the missile!\N-Let's get out of here, Kojirō!
+Dialogue: 0,0:20:41.76,0:20:43.24,Default,en,0,0,0,,Hanzō! We'll finish this later!
+Dialogue: 0,0:20:45.43,0:20:46.80,Default,en,0,0,0,,That's impossible!
+Dialogue: 0,0:21:18.60,0:21:22.91,Default,en,0,0,0,,We crushed the conspiracy of Shiranui Clan by this.
+Dialogue: 0,0:21:24.84,0:21:29.65,Default,en,0,0,0,,Mr. Saigo, I have a request for you-{\i1}dasu{\i0}.
+Dialogue: 0,0:21:30.28,0:21:33.38,Default,en,0,0,0,,I already know what you want to say-{\i1}gowasu{\i0}.
+Dialogue: 0,0:21:33.71,0:21:36.40,Default,en,0,0,0,,About the remaining Shiranui Clan...
+Dialogue: 0,0:21:37.75,0:21:40.80,Default,en,0,0,0,,You have nothing to worry about that-{\i1}gowasu{\i0}.
+Dialogue: 0,0:21:41.18,0:21:44.29,Default,en,0,0,0,,They are Kyushu people. We are Kyushu people, too.
+Dialogue: 0,0:21:45.53,0:21:48.06,Default,en,0,0,0,,They can live with us, as friends-{\i1}gowasu{\i0}.
+Dialogue: 0,0:21:48.42,0:21:50.91,Default,en,0,0,0,,Mr. Saigo, thank you-{\i1}dasu{\i0}!
+Dialogue: 0,0:22:01.74,0:22:02.61,Default,en,0,0,0,,Mother...
+Dialogue: 0,0:22:06.68,0:22:09.95,Default,en,0,0,0,,And this is how Shiranui Clan's ambition went away.
+Dialogue: 0,0:22:09.95,0:22:15.67,Default,en,0,0,0,,But with that, Himiko, who gave the feeling of mother to Musashi, went away too.
+Dialogue: 0,0:22:16.38,0:22:22.55,Default,en,0,0,0,,Do not cry, Musashi. A boy grows once again when he throws away the feeling of mother.
+Dialogue: 0,0:22:23.20,0:22:26.45,Default,en,0,0,0,,Get over the sadness and advance, Musashi.
+Dialogue: 0,0:22:41.49,0:22:43.53,SongED1,en,0,0,0,,Sometimes the moon jumps over
+Dialogue: 0,0:22:44.24,0:22:46.78,SongED1,en,0,0,0,,the pocket of empty sky
+Dialogue: 0,0:22:46.99,0:22:49.16,SongED1,en,0,0,0,,Laugh loudly and
+Dialogue: 0,0:22:49.79,0:22:51.79,SongED1,en,0,0,0,,morning will come tomorrow
+Dialogue: 0,0:22:52.54,0:22:57.13,SongED1,en,0,0,0,,Don't worry too much about losing
+Dialogue: 0,0:22:58.13,0:23:00.71,SongED1,en,0,0,0,,Keep going! Go for it!
+Dialogue: 0,0:23:00.71,0:23:03.13,SongED1,en,0,0,0,,A bare hand is strong
+Dialogue: 0,0:23:03.55,0:23:13.22,SongED1,en,0,0,0,,That's how it is! Let's go lightly
+Dialogue: 0,0:23:13.68,0:23:21.27,SongED1,en,0,0,0,,That's how life is! Look, a chance
+Dialogue: 0,0:23:21.73,0:23:25.99,SongED1,en,0,0,0,,follows us wagging its tail!
+Dialogue: 0,0:23:27.41,0:23:36.92,SongED1,en,0,0,0,,That's how it is! Let's go lightly
+Dialogue: 0,0:23:37.42,0:23:45.38,SongED1,en,0,0,0,,That's how the future is, too! Look, tomorrow
+Dialogue: 0,0:23:45.63,0:23:51.22,SongED1,en,0,0,0,,is opening its hands and smiling at us!
+Dialogue: 0,0:24:04.47,0:24:07.30,Default,en,0,0,0,,I became the number of Jipangu by taking down Kojirō!
+Dialogue: 0,0:24:07.30,0:24:09.14,Default,en,0,0,0,,It was a long journey-{\i1}dasu{\i0}.
+Dialogue: 0,0:24:09.37,0:24:11.02,Default,en,0,0,0,,Kojirō is so weak-{\i1}dasu{\i0}!
+Dialogue: 0,0:24:11.30,0:24:13.69,Default,en,0,0,0,,No, no, it must be that I became strong-{\i1}dasu{\i0}!
+Dialogue: 0,0:24:14.20,0:24:18.04,Default,en,0,0,0,,Otsuru rushed to here with everyone in Miyamoto village, and so we're having a party-{\i1}dasu{\i0}!
+Dialogue: 0,0:24:18.34,0:24:21.67,Default,en,0,0,0,,By this, I can finally marry Otsuru-{\i1}dasu{\i0}!
+Dialogue: 0,0:24:22.86,0:24:25.09,Default,en,0,0,0,,Next story! I Defeated Kojirō!
+Dialogue: 0,0:24:25.39,0:24:27.72,Default,en,0,0,0,,It's stormy Otsuru-{\i1}dasu{\i0}!
+Dialogue: 0,0:24:26.26,0:24:30.68,NoteOnAnime,en,60,0,60,,{\an7}Next Episode
+Dialogue: 0,0:24:26.26,0:24:30.68,TitleEP,en,0,0,220,,I Defeated
+Dialogue: 0,0:24:26.26,0:24:30.68,TitleEP,en,0,0,80,,Kojirō!
+Dialogue: 0,0:24:26.26,0:24:30.68,NoteOnAnime,en,0,60,30,,{\an3\fs32}Look forwards for it!

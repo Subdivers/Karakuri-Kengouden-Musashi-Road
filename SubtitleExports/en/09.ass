@@ -1,0 +1,336 @@
+﻿[Script Info]
+Title: A Man Ishimatsu Friendship Falls
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 480
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: NoteOnAnime,Candara,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,10,1
+Style: SongOP,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: TitleOP,DejaVu Serif,42,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: TitleEP,DejaVu Serif,42,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: SongED1,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: Note,Candara,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,10,10,10,1
+Style: Eyecatch,Candara,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,10,10,10,1
+Style: NoteOnAnimeVert,@맑은 고딕,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.30,0:00:06.53,Default,en,0,0,0,,It is the turbulent Sengoku period.
+Dialogue: 0,0:00:06.94,0:00:11.76,Default,en,0,0,0,,Warlords keep on fighting day and night over\NJipangu State, where Karakuri people live.
+Dialogue: 0,0:00:11.76,0:00:16.72,Default,en,0,0,0,,Karakuri martial artists were sharpening their swords, dreaming of victory and honor.
+Dialogue: 0,0:00:16.72,0:00:23.19,Default,en,0,0,0,,And now, a wild hero has arrived, seeking to be the number one Karakuri martial artist!
+Dialogue: 0,0:00:24.33,0:00:26.86,Default,en,0,0,0,,Musashi is here-{\i1}dasu{\i0}!
+Dialogue: 0,0:00:28.00,0:00:33.17,TitleOP,en,0,0,40,,{\an8\fs32\fade(770,0)}Karakuri Kengouden
+Dialogue: 0,0:00:28.00,0:00:33.17,TitleOP,en,0,0,40,,{\fade(770,0)}Musashi Road
+Dialogue: 0,0:00:28.00,0:00:33.17,TitleOP,en,0,0,40,,{\fs24\fade(770,0)}(The Story of {\i1}Karakuri{\i0} Martial Artist: Road of Musashi)
+Dialogue: 0,0:00:33.17,0:00:38.01,SongOP,en,0,0,0,,A man always dreams of the day
+Dialogue: 0,0:00:38.85,0:00:41.77,SongOP,en,0,0,0,,in the center of the world to become
+Dialogue: 0,0:00:41.77,0:00:44.64,SongOP,en,0,0,0,,AH! AH! the strongest
+Dialogue: 0,0:00:44.64,0:00:49.69,SongOP,en,0,0,0,,Raise the sword of your heart high to the wide sky
+Dialogue: 0,0:00:50.32,0:00:54.32,SongOP,en,0,0,0,,Raise the curtain to the road of adventure
+Dialogue: 0,0:00:55.66,0:01:00.91,SongOP,en,0,0,0,,A skilled swordsman roams on Jipangu State
+Dialogue: 0,0:01:01.49,0:01:06.54,SongOP,en,0,0,0,,His name is Musashi, a Karakuri man
+Dialogue: 0,0:01:06.54,0:01:08.04,SongOP,en,0,0,0,,Go! Fight!
+Dialogue: 0,0:01:08.04,0:01:10.96,SongOP,en,0,0,0,,The sound of fierce duels
+Dialogue: 0,0:01:10.96,0:01:13.80,SongOP,en,0,0,0,,makes life dazzling
+Dialogue: 0,0:01:13.80,0:01:19.26,SongOP,en,0,0,0,,Battles of yesterdays make you stronger today
+Dialogue: 0,0:01:19.30,0:01:25.52,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
+Dialogue: 0,0:01:25.52,0:01:28.51,SongOP,en,0,0,0,,Tomorrow will be glorious
+Dialogue: 0,0:01:28.51,0:01:30.98,SongOP,en,0,0,0,,The sound of fierce duels
+Dialogue: 0,0:01:30.98,0:01:33.48,SongOP,en,0,0,0,,makes life dazzling
+Dialogue: 0,0:01:34.19,0:01:39.57,SongOP,en,0,0,0,,Fight the utmost with the stillness
+Dialogue: 0,0:01:39.62,0:01:45.83,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
+Dialogue: 0,0:01:45.83,0:01:51.09,SongOP,en,0,0,0,,His eyes shined! Musashi!
+Dialogue: 0,0:02:01.72,0:02:07.51,Default,en,0,0,0,,On his way to to Edotopia, Musashi was captured by Hanzō, the head of Iga ninjas.
+Dialogue: 0,0:02:07.51,0:02:11.48,Default,en,0,0,0,,But thanks to Kojirō, Musashi escaped by the skin of his teeth.
+Dialogue: 0,0:02:11.48,0:02:16.37,Default,en,0,0,0,,He keeps heading to the east, hoping to participate in Jipangu Martial Arts Competition.
+Dialogue: 0,0:02:18.24,0:02:22.79,TitleEP,en,0,0,190,,A Man Ishimatsu
+Dialogue: 0,0:02:18.24,0:02:22.79,TitleEP,en,0,0,50,,Friendship Falls
+Dialogue: 0,0:02:23.40,0:02:26.81,Default,en,0,0,0,,Shimizu Harbor is famous for the smell of tea and chivalrous men.
+Dialogue: 0,0:02:26.81,0:02:30.21,Default,en,0,0,0,,According to a folk song, that is this Shimizu Harbor.
+Dialogue: 0,0:02:30.31,0:02:33.27,Default,en,0,0,0,,Wait! Wait for me-{\i1}dasu{\i0}!
+Dialogue: 0,0:02:33.27,0:02:37.13,Default,en,0,0,0,,Wait for me-{\i1}dasu{\i0}! We'll settle this as of today-{\i1}dasu{\i0}!
+Dialogue: 0,0:02:37.29,0:02:40.87,Default,en,0,0,0,,Hmph. That noisy guy found me again, I guess.
+Dialogue: 0,0:02:41.26,0:02:44.39,Default,en,0,0,0,,Damn! Don't make fun of me again-{\i1}dasu{\i0}!
+Dialogue: 0,0:02:47.23,0:02:49.21,Default,en,0,0,0,,Now! Have a match-{\i1}dasu{\i0}!
+Dialogue: 0,0:02:51.93,0:02:53.21,Default,en,0,0,0,,There's a fight!
+Dialogue: 0,0:02:54.43,0:02:56.60,Default,en,0,0,0,,Now, Kojirō, pull it out-{\i1}dasu{\i0}!
+Dialogue: 0,0:02:56.93,0:03:01.17,Default,en,0,0,0,,Hmph. According to some people from the past, death is the only cure for idiocy.
+Dialogue: 0,0:03:01.48,0:03:02.66,Default,en,0,0,0,,What's that-{\i1}dasu{\i0}?!
+Dialogue: 0,0:03:02.97,0:03:06.78,Default,en,0,0,0,,This is also for you. Maybe I'll cure you for once.
+Dialogue: 0,0:03:18.28,0:03:21.57,Default,en,0,0,0,,Wait! Waitwait! Wait!
+Dialogue: 0,0:03:21.70,0:03:23.53,Default,en,0,0,0,,That fight! Just a moment!
+Dialogue: 0,0:03:24.76,0:03:26.48,Default,en,0,0,0,,You're not stopping us-{\i1}dasu{\i0}!
+Dialogue: 0,0:03:32.27,0:03:35.58,NoteOnAnime,en,0,0,80,,{\fad(300,0)}Ishimatsu
+Dialogue: 0,0:03:26.72,0:03:35.08,Default,en,0,0,0,,Idiot! I never said you to stop! If you're going to fight, why not have me, Ishimatsu, as your comrade?
+Dialogue: 0,0:03:37.15,0:03:39.01,Default,en,0,0,0,,Now! Tell me who's on the bad side!
+Dialogue: 0,0:03:39.22,0:03:39.91,Default,en,0,0,0,,Is it you?!
+Dialogue: 0,0:03:40.03,0:03:41.11,Default,en,0,0,0,,Or is it you?!
+Dialogue: 0,0:03:41.50,0:03:44.57,Default,en,0,0,0,,This is a real match done, with our lives at stake-{\i1}dasu{\i0}!
+Dialogue: 0,0:03:45.02,0:03:47.83,Default,en,0,0,0,,If you join for fun, it would bother us-{\i1}dasu{\i0}!
+Dialogue: 0,0:03:48.33,0:03:49.45,Default,en,0,0,0,,You brat!
+Dialogue: 0,0:03:50.37,0:03:55.59,Default,en,0,0,0,,What are you blabbering about? Fight and fires are not fun if it's not flashy and loud!
+Dialogue: 0,0:03:55.96,0:03:58.30,Default,en,0,0,0,,Now, get up! Get up!
+Dialogue: 0,0:03:58.63,0:04:02.38,Default,en,0,0,0,,How dare you hit the head of a martial artist-{\i1}dasu{\i0}!
+Dialogue: 0,0:04:05.30,0:04:09.29,Default,en,0,0,0,,You do pretty well, brat! Interesting!
+Dialogue: 0,0:04:09.61,0:04:12.48,Default,en,0,0,0,,No, I can't. I forgot about this.
+Dialogue: 0,0:04:12.60,0:04:17.98,Default,en,0,0,0,,What's the problem-{\i1}dasu{\i0}? I guess you suddenly got scared during talking about what's good in the life-{\i1}dasu{\i0}?
+Dialogue: 0,0:04:18.04,0:04:22.94,Default,en,0,0,0,,Brat! Who'd get frightened by a quack martial artist?!
+Dialogue: 0,0:04:27.83,0:04:32.46,Default,en,0,0,0,,Saw that? This is enough; a sword is overkill!
+Dialogue: 0,0:04:34.38,0:04:36.39,Default,en,0,0,0,,I am completely mad now-{\i1}dasu{\i0}!
+Dialogue: 0,0:04:38.63,0:04:44.05,Default,en,0,0,0,,I don't even have to touch such blunt sword! You may pounce on me from anywhere you want!
+Dialogue: 0,0:04:47.05,0:04:52.98,Default,en,0,0,0,,What's the problem? Are you frightened by my punch?
+Dialogue: 0,0:04:53.26,0:04:57.17,Default,en,0,0,0,,Hmph. I didn't feel a pain in the first place with that punch-{\i1}dasu{\i0}!
+Dialogue: 0,0:04:58.77,0:05:06.37,Default,en,0,0,0,,It's just that... my pride as a martial artist does not forgive attacking an opponent without sword using one-{\i1}dasu{\i0}.
+Dialogue: 0,0:05:06.94,0:05:11.77,Default,en,0,0,0,,Oh, at least your spirit is high, for a quack martial artist!
+Dialogue: 0,0:05:11.90,0:05:13.62,Default,en,0,0,0,,Stop calling me a quack-{\i1}dasu{\i0}!
+Dialogue: 0,0:05:29.45,0:05:33.56,Default,en,0,0,0,,Hmph. Those low-classes. I hope you play together for a while.
+Dialogue: 0,0:05:40.03,0:05:41.44,Default,en,0,0,0,,Fat pressure!
+Dialogue: 0,0:05:41.44,0:05:43.43,Default,en,0,0,0,,This is nothing!
+Dialogue: 0,0:05:44.60,0:05:47.96,Default,en,0,0,0,,Rope! Give me a rope-{\i1}dasu{\i0}! A rope!
+Dialogue: 0,0:05:49.29,0:05:51.91,Default,en,0,0,0,,Huh! You're pretty good for a quack!
+Dialogue: 0,0:05:52.03,0:05:54.25,Default,en,0,0,0,,Conversely, you're pretty interesting-{\i1}dasu{\i0}.
+Dialogue: 0,0:05:54.41,0:06:00.35,Default,en,0,0,0,,Hmph! Not trying to brag, but I, Ishimatsu, do not approve of anyone that's crooked!
+Dialogue: 0,0:06:00.73,0:06:01.82,Default,en,0,0,0,,Here it goes!
+Dialogue: 0,0:06:08.67,0:06:10.84,Default,en,0,0,0,,You got a stone for your head.
+Dialogue: 0,0:06:11.12,0:06:12.52,Default,en,0,0,0,,Same goes for you too.
+Dialogue: 0,0:06:14.33,0:06:16.55,Default,en,0,0,0,,-What was it all about?\N-Idiots.
+Dialogue: 0,0:06:18.67,0:06:20.40,Default,en,0,0,0,,I see, Musashi!
+Dialogue: 0,0:06:20.55,0:06:26.51,Default,en,0,0,0,,Did you say that you're looking to be the number one Martial Artist of Jipangu? You looked pretty strong!
+Dialogue: 0,0:06:26.94,0:06:29.45,Default,en,0,0,0,,You do pretty well too-{\i1}dasu{\i0}, Ishimatsu.
+Dialogue: 0,0:06:29.53,0:06:34.20,Default,en,0,0,0,,Hmph, of course! Not trying to brag, but I, Ishimatsu,
+Dialogue: 0,0:06:34.31,0:06:39.26,Default,en,0,0,0,,is the number one fighter of Jirochou family, which just saying the name will make a babyt shut up!
+Dialogue: 0,0:06:40.00,0:06:43.71,NoteOnAnime,en,0,0,0,,{\an5\fs27\frz8\fry-30\move(265,206,253,204,0,3000)\t(0,3000,\fs36)\c&H000000&\3c&HBBCDCC&}TEA
+Dialogue: 0,0:06:39.71,0:06:40.27,Default,en,0,0,0,,Huh?
+Dialogue: 0,0:06:40.56,0:06:43.21,Default,en,0,0,0,,Hey, Musashi, wanna take a break over there?
+Dialogue: 0,0:06:43.39,0:06:45.74,Default,en,0,0,0,,That is, I don't have money...
+Dialogue: 0,0:06:46.11,0:06:52.20,Default,en,0,0,0,,Idiot! You can stop thinking about those stuff! I, Ishimatsu, know the best!
+Dialogue: 0,0:06:52.67,0:06:56.02,Default,en,0,0,0,,Huh, maybe he's out of any remaining strength.
+Dialogue: 0,0:06:56.79,0:06:58.14,Default,en,0,0,0,,Here is your order!
+Dialogue: 0,0:06:58.29,0:07:01.53,Default,en,0,0,0,,Whoa! I absolutely love dangos-{\i1}dasu{\i0}!
+Dialogue: 0,0:07:02.28,0:07:07.43,Default,en,0,0,0,,Indeed, I see! Musashi, you said you were born at Okayamāna, right?
+Dialogue: 0,0:07:07.91,0:07:10.44,Default,en,0,0,0,,Right. I've came from Miyamoto village-{\i1}dasu{\i0}.
+Dialogue: 0,0:07:10.88,0:07:14.03,Default,en,0,0,0,,Eat, eat! Eat your dangos!
+Dialogue: 0,0:07:14.25,0:07:15.76,Default,en,0,0,0,,Then, without hesitation!
+Dialogue: 0,0:07:17.02,0:07:20.54,Default,en,0,0,0,,Musashi, I like your attitude and whatsoever!
+Dialogue: 0,0:07:20.66,0:07:23.50,Default,en,0,0,0,,I really like you too, Ishimatsu!
+Dialogue: 0,0:07:23.67,0:07:26.38,Default,en,0,0,0,,Oh? That's happy to hear!
+Dialogue: 0,0:07:26.84,0:07:30.47,Default,en,0,0,0,,How's this, Musashi? Would you want to be a brother with me?
+Dialogue: 0,0:07:30.68,0:07:36.77,Default,en,0,0,0,,Huh? Our mothers are different-{\i1}dasu{\i0}!
+Dialogue: 0,0:07:36.97,0:07:40.79,Default,en,0,0,0,,Idiot! I'm not telling you to be a biological brother!
+Dialogue: 0,0:07:40.99,0:07:43.69,Default,en,0,0,0,,I'm telling you to be a friend deep in the hearts!
+Dialogue: 0,0:07:43.99,0:07:44.95,Default,en,0,0,0,,A friend?
+Dialogue: 0,0:07:45.90,0:07:49.08,Default,en,0,0,0,,Why, Musashi? Would you hate becoming friend with me?
+Dialogue: 0,0:07:49.19,0:07:50.83,Default,en,0,0,0,,No, that's not it-{\i1}dasu{\i0}!
+Dialogue: 0,0:07:52.27,0:07:56.81,Default,en,0,0,0,,I was never asked to be friends before-{\i1}dasu{\i0}...
+Dialogue: 0,0:07:57.93,0:08:00.65,Default,en,0,0,0,,Wait! Wait for me-{\i1}dasu{\i0}!
+Dialogue: 0,0:08:02.43,0:08:06.44,Default,en,0,0,0,,That's why I told you not to play with that violent Musashi!
+Dialogue: 0,0:08:06.54,0:08:08.34,Default,en,0,0,0,,I'll never play with him again.
+Dialogue: 0,0:08:08.49,0:08:12.12,Default,en,0,0,0,,Are you going back already-{\i1}dasu{\i0}? Let's play more-{\i1}dasu{\i0}!
+Dialogue: 0,0:08:12.23,0:08:15.11,Default,en,0,0,0,,Now, let's go back right now, as the food should be ready!
+Dialogue: 0,0:08:15.22,0:08:16.30,Default,en,0,0,0,,Yay!
+Dialogue: 0,0:08:16.43,0:08:19.97,Default,en,0,0,0,,Why is that-{\i1}dasu{\i0}? Let's play more-{\i1}dasu{\i0}!
+Dialogue: 0,0:08:20.10,0:08:22.12,Default,en,0,0,0,,You should go back too, Musashi.
+Dialogue: 0,0:08:22.25,0:08:27.35,Default,en,0,0,0,,Let's play again-{\i1}dasu{\i0}! Play with me-{\i1}dasu{\i0}!
+Dialogue: 0,0:08:29.93,0:08:30.52,Default,en,0,0,0,,It happened.
+Dialogue: 0,0:08:30.91,0:08:35.39,Default,en,0,0,0,,Why so blue? Hey, let's exchange the cup of brothers!
+Dialogue: 0,0:08:35.85,0:08:38.67,Default,en,0,0,0,,Hey, sister! Get us liquors!
+Dialogue: 0,0:08:38.87,0:08:40.92,Default,en,0,0,0,,We don't offer liquors!
+Dialogue: 0,0:08:41.30,0:08:43.37,Default,en,0,0,0,,Hmph, what an unprepared place!
+Dialogue: 0,0:08:43.88,0:08:47.45,Default,en,0,0,0,,Well then, let's end this with these dangos!
+Dialogue: 0,0:08:51.19,0:08:53.53,Default,en,0,0,0,,Brother! Looking forwards of us!
+Dialogue: 0,0:08:53.77,0:08:55.37,Default,en,0,0,0,,I also look forwards of us-{\i1}dasu{\i0}!
+Dialogue: 0,0:08:57.99,0:09:01.42,Default,en,0,0,0,,But, Ishimatsu, why didn't you pull out your sword-{\i1}dasu{\i0}?
+Dialogue: 0,0:09:01.85,0:09:03.96,Default,en,0,0,0,,That is because of this.
+Dialogue: 0,0:09:04.38,0:09:05.55,Default,en,0,0,0,,Huh? What's that-{\i1}dasu{\i0}?
+Dialogue: 0,0:09:06.23,0:09:12.36,Default,en,0,0,0,,Actually, I was going to a temple to give a prayer in place of our boss, Jirochō.
+Dialogue: 0,0:09:13.11,0:09:18.51,Default,en,0,0,0,,If I fought using swords during the road to the temple, I'd being rude to the dead.
+Dialogue: 0,0:09:18.81,0:09:21.08,Default,en,0,0,0,,Our boss has sealed this sword.
+Dialogue: 0,0:09:21.52,0:09:24.08,Default,en,0,0,0,,By the way, what were you going to ask for in the temple-{\i1}dasu{\i0}?
+Dialogue: 0,0:09:24.71,0:09:29.83,Default,en,0,0,0,,Ah, we have a big battle tomorrow, so I was going to pray for our victory.
+Dialogue: 0,0:09:30.38,0:09:32.82,Default,en,0,0,0,,Oh, I must hurry up.
+Dialogue: 0,0:09:33.27,0:09:36.60,Default,en,0,0,0,,Bye, brother! See you again if we are destined to!
+Dialogue: 0,0:09:36.88,0:09:38.97,Default,en,0,0,0,,I'll pray for you to be victorious in the fight-{\i1}dasu{\i0}!
+Dialogue: 0,0:09:39.18,0:09:40.25,Default,en,0,0,0,,Thanks!
+Dialogue: 0,0:09:44.55,0:09:47.01,Default,en,0,0,0,,He's awesome-{\i1}dasu{\i0}!
+Dialogue: 0,0:09:47.53,0:09:50.07,Default,en,0,0,0,,Then I'll go too-{\i1}dasu{\i0}!
+Dialogue: 0,0:09:50.35,0:09:51.30,Default,en,0,0,0,,Customer!
+Dialogue: 0,0:09:51.44,0:09:53.23,Default,en,0,0,0,,Please pay up!
+Dialogue: 0,0:09:53.40,0:09:57.36,Default,en,0,0,0,,Huh? Didn't Mr. Ishimatsu paid you-{\i1}dasu{\i0}?
+Dialogue: 0,0:09:57.61,0:10:02.03,Default,en,0,0,0,,Nope, not at all! 50 dangos, total 100 mons!
+Dialogue: 0,0:10:02.14,0:10:06.04,Default,en,0,0,0,,Even if you say so, I can't pay what I don't have-{\i1}dasu{\i0}...
+Dialogue: 0,0:10:06.09,0:10:07.34,Default,en,0,0,0,,Dear customer!
+Dialogue: 0,0:10:08.03,0:10:10.29,Default,en,0,0,0,,Were you thinking to run away without paying?
+Dialogue: 0,0:10:10.50,0:10:12.58,Default,en,0,0,0,,Nononono, that's not it...
+Dialogue: 0,0:10:12.70,0:10:15.57,Default,en,0,0,0,,Bro, it seems that you're troubled.
+Dialogue: 0,0:10:16.01,0:10:17.85,Default,en,0,0,0,,I can pay for you instead.
+Dialogue: 0,0:10:17.95,0:10:19.24,Default,en,0,0,0,,Really-{\i1}dasu{\i0}?!
+Dialogue: 0,0:10:19.61,0:10:25.56,Default,en,0,0,0,,Instead, I'd like you to do a part-time job in my boss' place.
+Dialogue: 0,0:10:26.21,0:10:26.85,Default,en,0,0,0,,Part-time job?
+Dialogue: 0,0:10:27.11,0:10:30.35,Default,en,0,0,0,,Yes. There's no way I'm paying for you for nothing.
+Dialogue: 0,0:10:30.92,0:10:32.31,Default,en,0,0,0,,You can eat and drink as you wish.
+Dialogue: 0,0:10:32.44,0:10:35.15,Default,en,0,0,0,,Moreover, you can even make extra money.
+Dialogue: 0,0:10:35.28,0:10:38.03,Default,en,0,0,0,,Wow! I'll do it-{\i1}dasu{\i0}! Please let me do it whatever it takes-{\i1}dasu{\i0}!
+Dialogue: 0,0:10:38.17,0:10:39.45,Default,en,0,0,0,,Great! Will do so!
+Dialogue: 0,0:10:45.05,0:10:45.98,Default,en,0,0,0,,So good-{\i1}dasu{\i0}.
+Dialogue: 0,0:10:47.93,0:10:49.03,Default,en,0,0,0,,One more dish-{\i1}dasu{\i0}!
+Dialogue: 0,0:10:51.01,0:10:52.11,Default,en,0,0,0,,One more dish-{\i1}dasu{\i0}!
+Dialogue: 0,0:10:53.48,0:10:57.63,Default,en,0,0,0,,You eat pretty well, for one who already ate dangos to death.
+Dialogue: 0,0:10:57.77,0:11:03.97,Default,en,0,0,0,,I'm seeking to be the number one martial artist, not only in swords, but also in eating-{\i1}dasu{\i0}.
+Dialogue: 0,0:11:04.20,0:11:11.51,Default,en,0,0,0,,Oh, by the way, are you also planning to participate in Jipangu Martial Arts Competition in Edotopia?
+Dialogue: 0,0:11:11.82,0:11:12.84,Default,en,0,0,0,,Of course-{\i1}dasu{\i0}.
+Dialogue: 0,0:11:17.07,0:11:18.50,Default,en,0,0,0,,What's so funny-{\i1}dasu{\i0}?!
+Dialogue: 0,0:11:18.76,0:11:22.38,Default,en,0,0,0,,Do you think a brat like you can participate?
+Dialogue: 0,0:11:22.59,0:11:25.20,Default,en,0,0,0,,I guess he's out of his mind after eating all that.
+Dialogue: 0,0:11:25.41,0:11:30.15,Default,en,0,0,0,,What did you say-{\i1}dasu{\i0}? That's rude, especially when you don't know what I can do-{\i1}dasu{\i0}!
+Dialogue: 0,0:11:30.43,0:11:33.63,Default,en,0,0,0,,Hmph! Then I'll show you that you wouldn't!
+Dialogue: 0,0:11:39.18,0:11:39.98,Default,en,0,0,0,,Jirobē!
+Dialogue: 0,0:11:40.52,0:11:43.08,Default,en,0,0,0,,No need to worry-{\i1}dasu{\i0}! It was the back side of sword-{\i1}dasu{\i0}!
+Dialogue: 0,0:11:43.48,0:11:46.36,Default,en,0,0,0,,How dare you defame my younger brother.
+Dialogue: 0,0:11:48.49,0:11:49.61,Default,en,0,0,0,,Please stop!
+Dialogue: 0,0:11:50.35,0:11:57.11,NoteOnAnime,en,0,0,80,,{\fad(0,250)}Kurokoma
+Dialogue: 0,0:11:50.43,0:11:55.93,Default,en,0,0,0,,While I don't know what happened here, since I'd like if you saved my face, Katsuzō Kurokoma's,
+Dialogue: 0,0:11:56.03,0:11:58.57,Default,en,0,0,0,,please put your swords back in.
+Dialogue: 0,0:11:58.65,0:12:05.23,Default,en,0,0,0,,-No, this guy...\N-We all have to prepare for tomorrow's battle.
+Dialogue: 0,0:12:05.77,0:12:07.81,Default,en,0,0,0,,-But still...\N-Please stop!
+Dialogue: 0,0:12:10.55,0:12:12.67,Default,en,0,0,0,,I'll remember this, you brat.
+Dialogue: 0,0:12:14.54,0:12:17.46,Default,en,0,0,0,,I apologize for showing you such bad things.
+Dialogue: 0,0:12:17.59,0:12:22.26,Default,en,0,0,0,,It's alright-{\i1}dasu{\i0}. Anyway, who are you fighting with-{\i1}dasu{\i0}?
+Dialogue: 0,0:12:22.49,0:12:24.46,Default,en,0,0,0,,Against Jirochō family.
+Dialogue: 0,0:12:26.28,0:12:29.25,Default,en,0,0,0,,{\i1}It's bad. A battle against Ishimatsu...
+Dialogue: 0,0:12:29.95,0:12:32.31,Default,en,0,0,0,,Do you have any problem with that?
+Dialogue: 0,0:12:32.38,0:12:35.45,Default,en,0,0,0,,N- no, it's nothing serious-{\i1}dasu{\i0}.
+Dialogue: 0,0:12:38.49,0:12:40.04,Default,en,0,0,0,,This is bad-{\i1}dasu{\i0}...
+Dialogue: 0,0:12:40.36,0:12:46.62,Default,en,0,0,0,,Musashi has to fight against Ishimatsu unwillingly. Wait for the stormy latter half!
+Dialogue: 0,0:12:52.57,0:12:55.13,Default,en,0,0,0,,In the dead of night.
+Dialogue: 0,0:12:57.77,0:13:04.04,Default,en,0,0,0,,Someone opened a sliding door of Katsuzō family house.
+Dialogue: 0,0:13:05.79,0:13:07.80,Default,en,0,0,0,,Thankfully nobody's here-{\i1}dasu{\i0}.
+Dialogue: 0,0:13:08.19,0:13:11.47,Default,en,0,0,0,,I must not fight against Ishimatsu-{\i1}dasu{\i0}...
+Dialogue: 0,0:13:12.51,0:13:13.40,Default,en,0,0,0,,Mr. Musashi!
+Dialogue: 0,0:13:16.09,0:13:19.01,Default,en,0,0,0,,Where are you going in this deep night?
+Dialogue: 0,0:13:19.18,0:13:23.36,Default,en,0,0,0,,Uh, that is, to toilet.
+Dialogue: 0,0:13:23.57,0:13:26.48,Default,en,0,0,0,,Oh dear, the toilet is at there...
+Dialogue: 0,0:13:27.50,0:13:29.88,Default,en,0,0,0,,Are you planning to run away?!
+Dialogue: 0,0:13:30.25,0:13:34.11,Default,en,0,0,0,,Hey, watch your mouth when you're talking to a guest!
+Dialogue: 0,0:13:34.62,0:13:35.74,Default,en,0,0,0,,Sorry, boss.
+Dialogue: 0,0:13:36.35,0:13:42.03,Default,en,0,0,0,,You brat- no, you've had about ten times of a normal person.
+Dialogue: 0,0:13:42.46,0:13:46.67,Default,en,0,0,0,,If you don't work as much as you ate, that'd be bad, wouldn't it?
+Dialogue: 0,0:13:46.84,0:13:53.14,Default,en,0,0,0,,If you try to run away or something, you'll pay for that! I'm being polite.
+Dialogue: 0,0:13:53.51,0:13:58.32,Default,en,0,0,0,,Uh, no, that is... just... I was just practicing with my swords.
+Dialogue: 0,0:14:03.27,0:14:09.31,Default,en,0,0,0,,As a martial artist, I must not skip practicing even for one day-{\i1}dasu{\i0}.
+Dialogue: 0,0:14:09.66,0:14:12.69,Default,en,0,0,0,,Hearing that truly makes me happy!
+Dialogue: 0,0:14:12.84,0:14:15.97,Default,en,0,0,0,,Please do your best in tomorrow's battle.
+Dialogue: 0,0:14:16.41,0:14:19.09,Default,en,0,0,0,,But, why are you fighting against Jirochō family-{\i1}dasu{\i0}?
+Dialogue: 0,0:14:19.31,0:14:24.65,Default,en,0,0,0,,That is because Jirochō family is trying to take over the Shimizu harbor.
+Dialogue: 0,0:14:25.91,0:14:34.64,Default,en,0,0,0,,Jirochō family is a bunch of bad guys who always pull out their swords whenever they find something they don't like,
+Dialogue: 0,0:14:34.77,0:14:40.39,Default,en,0,0,0,,and they make children cry and don't follow the traffic lights - they only do bad things.
+Dialogue: 0,0:14:40.40,0:14:45.51,Default,en,0,0,0,,Were they really that bad-{\i1}dasu{\i0}? They didn't look so-{\i1}dasu{\i0}...
+Dialogue: 0,0:14:45.84,0:14:54.08,Default,en,0,0,0,,That's the trap! They approaches you with a kind face, and when you relieve, they show their fangs and...
+Dialogue: 0,0:14:54.08,0:15:00.31,Default,en,0,0,0,,I stood up to help the people suffering from Jirochō family.
+Dialogue: 0,0:15:00.62,0:15:05.95,Default,en,0,0,0,,Was that so-{\i1}dasu{\i0}? I apologize for trying to run away, not knowing the situation-{\i1}dasu{\i0}.
+Dialogue: 0,0:15:06.75,0:15:08.55,Default,en,0,0,0,,Leave tomorrow to me-{\i1}dasu{\i0}.
+Dialogue: 0,0:15:08.76,0:15:10.59,Default,en,0,0,0,,Please do so.
+Dialogue: 0,0:15:10.86,0:15:11.72,Default,en,0,0,0,,Got it-{\i1}dasu{\i0}!
+Dialogue: 0,0:15:14.68,0:15:21.64,Default,en,0,0,0,,And a new day came. Jirochō family and Katsuzō family have met in a field where Mt. Fuji was visible.
+Dialogue: 0,0:15:32.49,0:15:37.00,Default,en,0,0,0,,{\i1}Ishimatsu, why did you have to become a comrade of bad guys-{\i1}dasu{\i0}?
+Dialogue: 0,0:15:37.61,0:15:42.56,Default,en,0,0,0,,Hey! Jirochō! You shall withdraw from Shimizu harbor as of today!
+Dialogue: 0,0:15:42.67,0:15:49.55,NoteOnAnime,en,0,0,90,,{\fad(200,200)}Jirochō
+Dialogue: 0,0:15:42.68,0:15:49.41,Default,en,0,0,0,,That's what I was going to say to you! It's not too late, so if you value your life, you'd better go back right now!
+Dialogue: 0,0:15:49.55,0:15:52.01,Default,en,0,0,0,,Shut your mouth! Go for it!
+Dialogue: 0,0:16:09.47,0:16:10.88,Default,en,0,0,0,,I've hit!
+Dialogue: 0,0:16:12.07,0:16:13.36,Default,en,0,0,0,,I hit with back side-{\i1}dasu{\i0}!
+Dialogue: 0,0:16:13.50,0:16:15.24,Default,en,0,0,0,,What? Back side?
+Dialogue: 0,0:16:15.32,0:16:17.66,Default,en,0,0,0,,That's good to know. Now, face me!
+Dialogue: 0,0:16:18.27,0:16:19.98,Default,en,0,0,0,,I have won this match-{\i1}dasu{\i0}!
+Dialogue: 0,0:16:20.36,0:16:23.45,Default,en,0,0,0,,This is not a match! This is a real fight!
+Dialogue: 0,0:16:27.29,0:16:28.92,Default,en,0,0,0,,You're persistent-{\i1}dasu{\i0}!
+Dialogue: 0,0:16:35.85,0:16:37.61,Default,en,0,0,0,,I have won this time for sure-{\i1}dasu{\i0}.
+Dialogue: 0,0:16:38.94,0:16:41.66,Default,en,0,0,0,,Hmph, who needs a sword when I have this instead!
+Dialogue: 0,0:16:48.54,0:16:50.27,Default,en,0,0,0,,Hey! What are you doing?!
+Dialogue: 0,0:16:50.53,0:16:53.93,Default,en,0,0,0,,I told you to do your best as much as you ate, but this wasn't what I expected!
+Dialogue: 0,0:17:07.61,0:17:11.60,Default,en,0,0,0,,No... I can't...
+Dialogue: 0,0:17:14.79,0:17:16.47,Default,en,0,0,0,,Wh- what are you doing-{\i1}dasu{\i0}?!
+Dialogue: 0,0:17:16.59,0:17:18.75,Default,en,0,0,0,,Hmph, you must be an idiot!
+Dialogue: 0,0:17:19.04,0:17:22.52,Default,en,0,0,0,,Wh- what is this-{\i1}dasu{\i0}? I'm on your side-{\i1}dasu{\i0}!
+Dialogue: 0,0:17:22.76,0:17:28.10,Default,en,0,0,0,,Hmph, that doesn't matter! You embarrassed me yesterday!
+Dialogue: 0,0:17:28.39,0:17:30.42,Default,en,0,0,0,,I'll finish you right here, right now!
+Dialogue: 0,0:17:31.88,0:17:33.30,Default,en,0,0,0,,Huh?!
+Dialogue: 0,0:17:33.30,0:17:34.70,Default,en,0,0,0,,Die, you brat!
+Dialogue: 0,0:17:35.23,0:17:37.23,Default,en,0,0,0,,I can't-{\i1}dasu{\i0}... My hand won't stop shaking-{\i1}dasu{\i0}!
+Dialogue: 0,0:17:43.02,0:17:44.06,Default,en,0,0,0,,Ishimatsu!
+Dialogue: 0,0:17:44.51,0:17:47.11,Default,en,0,0,0,,It was a close call!
+Dialogue: 0,0:17:47.42,0:17:49.55,Default,en,0,0,0,,Why didn't you pull out your sword?
+Dialogue: 0,0:17:49.90,0:17:52.62,Default,en,0,0,0,,But... but I...
+Dialogue: 0,0:17:53.40,0:17:55.19,Default,en,0,0,0,,I... my hands were shaking...
+Dialogue: 0,0:17:57.01,0:17:59.37,Default,en,0,0,0,,I get it. All right, Musashi.
+Dialogue: 0,0:17:59.77,0:18:01.26,Default,en,0,0,0,,Ishimatsu!
+Dialogue: 0,0:18:03.07,0:18:06.21,Default,en,0,0,0,,I... I was scared-{\i1}dasu{\i0}!
+Dialogue: 0,0:18:06.62,0:18:12.68,Default,en,0,0,0,,You idiot! If you were going to cry, you could have just not come to this battle!
+Dialogue: 0,0:18:14.15,0:18:15.71,Default,en,0,0,0,,That's your fault, Ishimatsu-{\i1}dasu{\i0}!
+Dialogue: 0,0:18:16.25,0:18:19.85,Default,en,0,0,0,,Huh? My fault? What are you talking about?
+Dialogue: 0,0:18:20.91,0:18:30.17,Default,en,0,0,0,,I came to punish you-{\i1}dasu{\i0}. I heard that Jirochō family are the bad guys who're trying to take over Shimizu harbor-{\i1}dasu{\i0}.
+Dialogue: 0,0:18:30.61,0:18:33.02,Default,en,0,0,0,,You idiot! You're talking about Katsuzō family!
+Dialogue: 0,0:18:33.83,0:18:35.95,Default,en,0,0,0,,This is for Jirobē!
+Dialogue: 0,0:18:38.91,0:18:39.82,Default,en,0,0,0,,Ishimatsu!
+Dialogue: 0,0:18:42.04,0:18:43.58,Default,en,0,0,0,,I'll finish you!
+Dialogue: 0,0:18:57.58,0:19:02.09,Default,en,0,0,0,,I... I cut a person for the first time-{\i1}dasu{\i0}...
+Dialogue: 0,0:19:03.74,0:19:06.32,Default,en,0,0,0,,Ishimatsu! Are you all right-{\i1}dasu{\i0}?
+Dialogue: 0,0:19:06.94,0:19:14.91,Default,en,0,0,0,,Musashi... A real fight is a decision of death of your enemy or yourself.
+Dialogue: 0,0:19:15.65,0:19:20.38,Default,en,0,0,0,,To pull out your sword is to prepare for your own death.
+Dialogue: 0,0:19:21.99,0:19:23.15,Default,en,0,0,0,,Ishimatsu!
+Dialogue: 0,0:19:23.58,0:19:27.16,Default,en,0,0,0,,Musashi. I am now done for.
+Dialogue: 0,0:19:27.18,0:19:32.15,Default,en,0,0,0,,What are you talking-{\i1}dasu{\i0}?! What's up with this weak talk?! That's not like you-{\i1}dasu{\i0}!
+Dialogue: 0,0:19:32.28,0:19:40.84,Default,en,0,0,0,,Musashi. Become the number one martial artist of Jipangu. In the afterworld, I shall be waiting for you to become one.
+Dialogue: 0,0:19:41.11,0:19:44.51,Default,en,0,0,0,,I will-{\i1}dasu{\i0}... I will become one-{\i1}dasu{\i0}!
+Dialogue: 0,0:19:44.51,0:19:46.84,Default,en,0,0,0,,So, please, Ishimatsu!
+Dialogue: 0,0:19:49.54,0:19:52.91,Default,en,0,0,0,,Ishimatsu!
+Dialogue: 0,0:19:57.96,0:20:00.92,Default,en,0,0,0,,Ishimatsu!
+Dialogue: 0,0:20:08.76,0:20:12.98,Default,en,0,0,0,,Hey, Jirochou! Isn't it time for you to beg for your life?
+Dialogue: 0,0:20:13.47,0:20:17.77,Default,en,0,0,0,,I do not forgive anyone harassing the hardworking weak people in Shimizu Harbor!
+Dialogue: 0,0:20:17.94,0:20:23.01,Default,en,0,0,0,,Hmph! You're making me laugh! Just begone to hell!
+Dialogue: 0,0:20:23.16,0:20:24.64,Default,en,0,0,0,,Stop right there-{\i1}dasu{\i0}!
+Dialogue: 0,0:20:27.58,0:20:31.50,Default,en,0,0,0,,How dare you deceive me-{\i1}dasu{\i0}! Unforgivable-{\i1}dasu{\i0}!
+Dialogue: 0,0:20:31.66,0:20:36.75,Default,en,0,0,0,,Hmph, you are too late. Go to hell!
+Dialogue: 0,0:20:43.73,0:20:45.63,Default,en,0,0,0,,Give up-{\i1}dasu{\i0}, Katsuzō!
+Dialogue: 0,0:20:50.04,0:20:52.50,Default,en,0,0,0,,Please save my life.
+Dialogue: 0,0:20:58.52,0:21:03.37,Default,en,0,0,0,,I do not cut one without a sword-{\i1}dasu{\i0}.
+Dialogue: 0,0:21:07.97,0:21:09.07,Default,en,0,0,0,,Eat this!
+Dialogue: 0,0:21:09.15,0:21:11.81,Default,en,0,0,0,,But I shall not forgive this one-{\i1}dasu{\i0}!
+Dialogue: 0,0:21:19.58,0:21:23.48,Default,en,0,0,0,,Ishimatsu is dead because of you-{\i1}dasu{\i0}!
+Dialogue: 0,0:21:26.52,0:21:27.59,Default,en,0,0,0,,Jirochō boss!
+Dialogue: 0,0:21:28.30,0:21:29.35,Default,en,0,0,0,,That's enough.
+Dialogue: 0,0:21:30.07,0:21:33.66,Default,en,0,0,0,,No matter how much you hit him, Ishimatsu won't come back.
+Dialogue: 0,0:21:51.92,0:21:56.04,Default,en,0,0,0,,Ishimatsu... I... I...
+Dialogue: 0,0:21:56.67,0:22:01.50,Default,en,0,0,0,,Musashi, become the number one martial artist of Jipangu!
+Dialogue: 0,0:22:04.73,0:22:09.50,Default,en,0,0,0,,Musashi has realized what is to die, from the friendship between Ishimatsu.
+Dialogue: 0,0:22:09.88,0:22:15.26,Default,en,0,0,0,,And that a day might come that he dies by a sword of his opponent.
+Dialogue: 0,0:22:15.93,0:22:22.11,Default,en,0,0,0,,But don't grieve, Musashi! Today might have been bitter, but tomorrow will be bright!
+Dialogue: 0,0:22:22.52,0:22:25.51,Default,en,0,0,0,,Go forth, Musashi! On the road to the glory!
+Dialogue: 0,0:22:42.34,0:22:44.38,SongED1,en,0,0,0,,Sometimes the moon jumps over
+Dialogue: 0,0:22:45.09,0:22:47.63,SongED1,en,0,0,0,,the pocket of empty sky
+Dialogue: 0,0:22:47.84,0:22:50.01,SongED1,en,0,0,0,,Laugh loudly and
+Dialogue: 0,0:22:50.62,0:22:52.62,SongED1,en,0,0,0,,morning will come tomorrow
+Dialogue: 0,0:22:53.38,0:22:57.98,SongED1,en,0,0,0,,Don't worry too much about losing
+Dialogue: 0,0:22:58.98,0:23:01.56,SongED1,en,0,0,0,,Keep going! Go for it!
+Dialogue: 0,0:23:01.56,0:23:03.96,SongED1,en,0,0,0,,A bare hand is strong
+Dialogue: 0,0:23:04.39,0:23:14.06,SongED1,en,0,0,0,,That's how it is! Let's go lightly
+Dialogue: 0,0:23:14.53,0:23:22.13,SongED1,en,0,0,0,,That's how life is! Look, a chance
+Dialogue: 0,0:23:22.58,0:23:26.84,SongED1,en,0,0,0,,follows us wagging its tail!
+Dialogue: 0,0:23:28.25,0:23:37.76,SongED1,en,0,0,0,,That's how it is! Let's go lightly
+Dialogue: 0,0:23:38.25,0:23:46.23,SongED1,en,0,0,0,,That's how the future is, too! Look, tomorrow
+Dialogue: 0,0:23:46.48,0:23:52.07,SongED1,en,0,0,0,,is opening its hands and smiling at us!
+Dialogue: 0,0:24:05.37,0:24:08.90,Default,en,0,0,0,,After a long and fun journey, I finally reached Edotopia,
+Dialogue: 0,0:24:09.23,0:24:13.56,Default,en,0,0,0,,but I helped a villain and I've captured by the boss Zenigatan-{\i1}dasu{\i0}.
+Dialogue: 0,0:24:14.27,0:24:18.91,Default,en,0,0,0,,If I fail to find the real criminal soon, I can't register for the martial arts competition-{\i1}dasu{\i0}!
+Dialogue: 0,0:24:19.23,0:24:21.56,Default,en,0,0,0,,Boss, please do something-{\i1}dasu{\i0}!
+Dialogue: 0,0:24:22.22,0:24:25.26,Default,en,0,0,0,,Next story! Flower and Storm at Edotopia-{\i1}dasu{\i0}.
+Dialogue: 0,0:24:25.26,0:24:27.07,Default,en,0,0,0,,Watch the stormy arresting story-{\i1}dasu{\i0}!
+Dialogue: 0,0:24:27.11,0:24:31.72,NoteOnAnime,en,60,0,60,,{\an7}Next Episode
+Dialogue: 0,0:24:27.11,0:24:31.72,TitleEP,en,0,0,80,,Flower and Storm at Edotopia
+Dialogue: 0,0:24:27.11,0:24:31.72,NoteOnAnime,en,0,60,30,,{\an3\fs32}Look forwards for it!

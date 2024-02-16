@@ -44,30 +44,30 @@ Comment: 0,0:12:08.58,0:12:13.59,Default,chapter,0,0,0,,Eyecatch
 Comment: 0,0:12:13.59,0:22:28.24,Default,chapter,0,0,0,,Part 2
 Comment: 0,0:22:28.24,0:24:00.25,Default,chapter,0,0,0,,Ending Credits
 Comment: 0,0:24:00.25,0:24:31.11,Default,chapter,0,0,0,,Next Episode Preview
-Dialogue: 0,0:00:04.19,0:00:06.42,Default,OP!Intro01,0,0,0,,時は戦国、乱世の時代。
-Dialogue: 0,0:00:06.83,0:00:11.37,Default,OP!Intro02,0,0,0,,からくり人の住むジパング国では群雄割拠して合戦に明け暮れ、
-Dialogue: 0,0:00:11.71,0:00:16.09,Default,OP!Intro03,0,0,0,,からくり武芸者たちも勝利と栄光を目指してしのぎを削っていた。
-Dialogue: 0,0:00:16.61,0:00:23.08,Default,OP!Intro04,0,0,0,,そしていま、からくり武芸者ナンバー１を目指す、とてつもないヒーローが誕生した！
-Dialogue: 0,0:00:24.17,0:00:26.75,Default,OP!Intro05,0,0,0,,ムサシ、見参でござるだス！
-Dialogue: 0,0:00:27.79,0:00:32.97,TitleOP,OP!Title,0,0,40,,からくり剣豪伝ムサシロード
-Dialogue: 0,0:00:32.97,0:00:37.81,SongOP,OP!Lyric01,0,0,0,,男はいつでも　世界の真ん中で
-Dialogue: 0,0:00:38.64,0:00:41.56,SongOP,OP!Lyric02,0,0,0,,いちばん　強くなる日を
-Dialogue: 0,0:00:41.56,0:00:44.44,SongOP,OP!Lyric03,0,0,0,,AH! AH! 夢見て
-Dialogue: 0,0:00:44.44,0:00:49.49,SongOP,OP!Lyric04,0,0,0,,心の刃　大空にふりかざし
-Dialogue: 0,0:00:50.11,0:00:54.12,SongOP,OP!Lyric05,0,0,0,,冒険の旅の　幕を開ける
-Dialogue: 0,0:00:55.45,0:01:00.71,SongOP,OP!Lyric06,0,0,0,,ジパング国を　さすらう剣豪
-Dialogue: 0,0:01:01.29,0:01:06.34,SongOP,OP!Lyric07,0,0,0,,その名　からくりびと　ムサシ
-Dialogue: 0,0:01:06.34,0:01:07.84,SongOP,OP!Lyric08,0,0,0,,GO! FIGHT!
-Dialogue: 0,0:01:07.84,0:01:10.76,SongOP,OP!Lyric09,0,0,0,,鍔迫り合いの音が
-Dialogue: 0,0:01:10.76,0:01:13.59,SongOP,OP!Lyric10,0,0,0,,眩しい人生
-Dialogue: 0,0:01:13.59,0:01:19.06,SongOP,OP!Lyric11,0,0,0,,戦い　昨日よりも　今日　強い
-Dialogue: 0,0:01:19.10,0:01:25.31,SongOP,OP!Lyric12,0,0,0,,BUGEI! 二刀流　ムサシ
-Dialogue: 0,0:01:25.31,0:01:28.30,SongOP,OP!Lyric13,0,0,0,,明日は　輝くぞ
-Dialogue: 0,0:01:28.30,0:01:30.78,SongOP,OP!Lyric14,0,0,0,,鍔迫り合いの音が
-Dialogue: 0,0:01:30.78,0:01:33.28,SongOP,OP!Lyric15,0,0,0,,眩しい人生
-Dialogue: 0,0:01:33.99,0:01:39.37,SongOP,OP!Lyric16,0,0,0,,戦い　思い切りと　静けさと
-Dialogue: 0,0:01:39.41,0:01:45.63,SongOP,OP!Lyric17,0,0,0,,BUGEI! 二刀流　ムサシ
-Dialogue: 0,0:01:45.63,0:01:50.88,SongOP,OP!Lyric18,0,0,0,,みけんが　きらめいた　ムサシ！！
+Dialogue: 0,0:00:04.19,0:00:06.42,Default,ref,0,0,0,OP!Intro01,時は戦国、乱世の時代。
+Dialogue: 0,0:00:06.83,0:00:11.37,Default,ref,0,0,0,OP!Intro02,からくり人の住むジパング国では群雄割拠して合戦に明け暮れ、
+Dialogue: 0,0:00:11.71,0:00:16.09,Default,ref,0,0,0,OP!Intro03,からくり武芸者たちも勝利と栄光を目指してしのぎを削っていた。
+Dialogue: 0,0:00:16.61,0:00:23.08,Default,ref,0,0,0,OP!Intro04,そしていま、からくり武芸者ナンバー１を目指す、とてつもないヒーローが誕生した！
+Dialogue: 0,0:00:24.17,0:00:26.75,Default,ref,0,0,0,OP!Intro05,ムサシ、見参でござるだス！
+Dialogue: 0,0:00:27.79,0:00:32.97,TitleOP,ref,0,0,40,OP!Title,からくり剣豪伝ムサシロード
+Dialogue: 0,0:00:32.97,0:00:37.81,SongOP,ref,0,0,0,OP!Lyric01,男はいつでも　世界の真ん中で
+Dialogue: 0,0:00:38.64,0:00:41.56,SongOP,ref,0,0,0,OP!Lyric02,いちばん　強くなる日を
+Dialogue: 0,0:00:41.56,0:00:44.44,SongOP,ref,0,0,0,OP!Lyric03,AH! AH! 夢見て
+Dialogue: 0,0:00:44.44,0:00:49.49,SongOP,ref,0,0,0,OP!Lyric04,心の刃　大空にふりかざし
+Dialogue: 0,0:00:50.11,0:00:54.12,SongOP,ref,0,0,0,OP!Lyric05,冒険の旅の　幕を開ける
+Dialogue: 0,0:00:55.45,0:01:00.71,SongOP,ref,0,0,0,OP!Lyric06,ジパング国を　さすらう剣豪
+Dialogue: 0,0:01:01.29,0:01:06.34,SongOP,ref,0,0,0,OP!Lyric07,その名　からくりびと　ムサシ
+Dialogue: 0,0:01:06.34,0:01:07.84,SongOP,ref,0,0,0,OP!Lyric08,GO! FIGHT!
+Dialogue: 0,0:01:07.84,0:01:10.76,SongOP,ref,0,0,0,OP!Lyric09,鍔迫り合いの音が
+Dialogue: 0,0:01:10.76,0:01:13.59,SongOP,ref,0,0,0,OP!Lyric10,眩しい人生
+Dialogue: 0,0:01:13.59,0:01:19.06,SongOP,ref,0,0,0,OP!Lyric11,戦い　昨日よりも　今日　強い
+Dialogue: 0,0:01:19.10,0:01:25.31,SongOP,ref,0,0,0,OP!Lyric12,BUGEI! 二刀流　ムサシ
+Dialogue: 0,0:01:25.31,0:01:28.30,SongOP,ref,0,0,0,OP!Lyric13,明日は　輝くぞ
+Dialogue: 0,0:01:28.30,0:01:30.78,SongOP,ref,0,0,0,OP!Lyric14,鍔迫り合いの音が
+Dialogue: 0,0:01:30.78,0:01:33.28,SongOP,ref,0,0,0,OP!Lyric15,眩しい人生
+Dialogue: 0,0:01:33.99,0:01:39.37,SongOP,ref,0,0,0,OP!Lyric16,戦い　思い切りと　静けさと
+Dialogue: 0,0:01:39.41,0:01:45.63,SongOP,ref,0,0,0,OP!Lyric17,BUGEI! 二刀流　ムサシ
+Dialogue: 0,0:01:45.63,0:01:50.88,SongOP,ref,0,0,0,OP!Lyric18,みけんが　きらめいた　ムサシ！！
 Comment: 0,0:02:00.96,0:02:06.08,Default,ja,0,0,0,,逃亡中のムサシはジュウベエとの番外試合が認められることになったが、
 Dialogue: 0,0:02:00.96,0:02:06.08,Default,ko,0,0,0,,도망치던 무사시는 주베와의 번외 시합을 벌이게 되었지만
 Dialogue: 0,0:02:00.96,0:02:06.08,Default,en,0,0,0,,Once running away, Musashi managed to have an extra match against Jūbee.
@@ -851,19 +851,19 @@ Dialogue: 0,0:22:08.22,0:22:10.41,Default,en,0,0,0,,It's going to be an fun jour
 Comment: 0,0:22:12.74,0:22:23.10,Default,ja,0,0,0,,あわただしく旅立つことになってしまったムサシ。はてさて、何が待っているのやら、波乱万丈の旅をお楽しみに。
 Dialogue: 0,0:22:12.74,0:22:23.10,Default,ko,0,0,0,,어수선하게 여행을 떠나게 되어버린 무사시. 그것 참, 무엇이 기다리고 있는지 파란만장한 여행을 기대하시라.
 Dialogue: 0,0:22:12.74,0:22:23.10,Default,en,0,0,0,,Confused, Musashi will have to go on a journey. Really, what can be waiting for them? Look forward for the stormy journey!
-Dialogue: 0,0:22:41.51,0:22:43.55,SongED1,ED1!Lyric01,0,0,0,,カラのポケットに　ツキが
-Dialogue: 0,0:22:44.26,0:22:46.80,SongED1,ED1!Lyric02,0,0,0,,飛び込むことも　あるさ
-Dialogue: 0,0:22:47.01,0:22:49.18,SongED1,ED1!Lyric03,0,0,0,,おっきな声で　笑えば
-Dialogue: 0,0:22:49.81,0:22:51.81,SongED1,ED1!Lyric04,0,0,0,,あしたには　朝が来る
-Dialogue: 0,0:22:52.56,0:22:57.15,SongED1,ED1!Lyric05,0,0,0,,無くすものなんか　何もないさ
-Dialogue: 0,0:22:58.15,0:23:00.73,SongED1,ED1!Lyric06,0,0,0,,やっちゃえ！イケイケ！
-Dialogue: 0,0:23:00.73,0:23:03.15,SongED1,ED1!Lyric07,0,0,0,,手ぶらは　強いぜ
-Dialogue: 0,0:23:03.57,0:23:13.25,SongED1,ED1!Lyric08,0,0,0,,てなもんだ　のーてんきに行こう
-Dialogue: 0,0:23:13.71,0:23:21.30,SongED1,ED1!Lyric09,0,0,0,,人生　てなもんさ　チャンスが　ほら
-Dialogue: 0,0:23:21.75,0:23:26.01,SongED1,ED1!Lyric10,0,0,0,,しっぽを振って　追ってくるぜ
-Dialogue: 0,0:23:27.43,0:23:36.94,SongED1,ED1!Lyric11,0,0,0,,てなもんだ　のーてんきに行こう
-Dialogue: 0,0:23:37.44,0:23:45.40,SongED1,ED1!Lyric12,0,0,0,,未来も　てなもんさ　あしたが　ほら
-Dialogue: 0,0:23:45.65,0:23:51.24,SongED1,ED1!Lyric13,0,0,0,,両手ひろげて　笑ってるぜ
+Dialogue: 0,0:22:41.51,0:22:43.55,SongED1,ref,0,0,0,ED1!Lyric01,カラのポケットに　ツキが
+Dialogue: 0,0:22:44.26,0:22:46.80,SongED1,ref,0,0,0,ED1!Lyric02,飛び込むことも　あるさ
+Dialogue: 0,0:22:47.01,0:22:49.18,SongED1,ref,0,0,0,ED1!Lyric03,おっきな声で　笑えば
+Dialogue: 0,0:22:49.81,0:22:51.81,SongED1,ref,0,0,0,ED1!Lyric04,あしたには　朝が来る
+Dialogue: 0,0:22:52.56,0:22:57.15,SongED1,ref,0,0,0,ED1!Lyric05,無くすものなんか　何もないさ
+Dialogue: 0,0:22:58.15,0:23:00.73,SongED1,ref,0,0,0,ED1!Lyric06,やっちゃえ！イケイケ！
+Dialogue: 0,0:23:00.73,0:23:03.15,SongED1,ref,0,0,0,ED1!Lyric07,手ぶらは　強いぜ
+Dialogue: 0,0:23:03.57,0:23:13.25,SongED1,ref,0,0,0,ED1!Lyric08,てなもんだ　のーてんきに行こう
+Dialogue: 0,0:23:13.71,0:23:21.30,SongED1,ref,0,0,0,ED1!Lyric09,人生　てなもんさ　チャンスが　ほら
+Dialogue: 0,0:23:21.75,0:23:26.01,SongED1,ref,0,0,0,ED1!Lyric10,しっぽを振って　追ってくるぜ
+Dialogue: 0,0:23:27.43,0:23:36.94,SongED1,ref,0,0,0,ED1!Lyric11,てなもんだ　のーてんきに行こう
+Dialogue: 0,0:23:37.44,0:23:45.40,SongED1,ref,0,0,0,ED1!Lyric12,未来も　てなもんさ　あしたが　ほら
+Dialogue: 0,0:23:45.65,0:23:51.24,SongED1,ref,0,0,0,ED1!Lyric13,両手ひろげて　笑ってるぜ
 Comment: 0,0:24:04.76,0:24:06.74,Default,ja,0,0,0,,ジュウベエさん、おいら、悔しいだス。
 Dialogue: 0,0:24:04.76,0:24:06.74,Default,ko,0,0,0,,주베 씨, 나, 분하오...
 Dialogue: 0,0:24:04.76,0:24:06.74,Default,en,0,0,0,,Jūbee, I'm so frustrated-{\i1}dasu{\i0}...
@@ -878,7 +878,7 @@ Dialogue: 0,0:24:16.92,0:24:18.78,Default,ko,0,0,0,,이도류? 그것이 무엇�
 Dialogue: 0,0:24:16.92,0:24:18.78,Default,en,0,0,0,,Dual Blade? What is that?
 Comment: 0,0:24:19.45,0:24:22.66,Default,ja,0,0,0,,次回！ムサシ、夢の百番勝負だス！
 Dialogue: 0,0:24:19.45,0:24:22.66,Default,ko,0,0,0,,다음 이야기! 무사시, 꿈의 백번승부이오
-Dialogue: 0,0:24:19.45,0:24:22.66,Default,en,0,0,0,,Next story! Hundred Matches in Musashi's Dream
+Dialogue: 0,0:24:19.45,0:24:22.66,Default,en,0,0,0,,Next story! Hundred Matches in Musashi's Dreams
 Comment: 0,0:24:23.02,0:24:25.88,Default,ja,0,0,0,,疾風怒濤の名勝負を見るだス！
 Dialogue: 0,0:24:23.02,0:24:25.88,Default,ko,0,0,0,,질풍노도의 명승부를 보시오!
 Dialogue: 0,0:24:23.02,0:24:25.88,Default,en,0,0,0,,Watch the stormy yet excellent matches-{\i1}dasu{\i0}!
@@ -888,5 +888,5 @@ Dialogue: 0,0:24:26.28,0:24:30.28,TitleEP,ko,0,0,70,,무사시, 꿈의 백번승
 Dialogue: 0,0:24:26.28,0:24:30.28,NoteOnAnime,ko,0,60,30,,{\an3\fs32}기대하세요!
 Dialogue: 0,0:24:26.28,0:24:30.28,NoteOnAnime,en,60,0,60,,{\an7}Next Episode
 Dialogue: 0,0:24:26.28,0:24:30.28,TitleEP,en,0,0,235,,Hundred Matches
-Dialogue: 0,0:24:26.28,0:24:30.28,TitleEP,en,0,0,90,,in Musashi’s Dream
+Dialogue: 0,0:24:26.28,0:24:30.28,TitleEP,en,0,0,90,,in Musashi’s Dreams
 Dialogue: 0,0:24:26.28,0:24:30.28,NoteOnAnime,en,0,60,30,,{\an3\fs32}Look forwards for it!

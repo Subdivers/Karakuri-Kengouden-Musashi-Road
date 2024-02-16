@@ -40,30 +40,30 @@ Comment: 0,0:11:54.29,0:11:59.30,Default,chapter,0,0,0,,Eyecatch
 Comment: 0,0:11:59.30,0:22:29.05,Default,chapter,0,0,0,,Part 2
 Comment: 0,0:22:29.05,0:24:01.10,Default,chapter,0,0,0,,Ending Credits
 Comment: 0,0:24:01.10,0:24:31.09,Default,chapter,0,0,0,,Next Episode Preview
-Dialogue: 0,0:00:04.48,0:00:06.71,Default,OP!Intro01,0,0,0,,時は戦国、乱世の時代。
-Dialogue: 0,0:00:07.12,0:00:11.62,Default,OP!Intro02,0,0,0,,からくり人の住むジパング国では群雄割拠して合戦に明け暮れ、
-Dialogue: 0,0:00:12.01,0:00:16.63,Default,OP!Intro03,0,0,0,,からくり武芸者たちも勝利と栄光を目指してしのぎを削っていた。
-Dialogue: 0,0:00:16.99,0:00:23.32,Default,OP!Intro04,0,0,0,,そしていま、からくり武芸者ナンバー１を目指す、とてつもないヒーローが誕生した！
-Dialogue: 0,0:00:24.57,0:00:27.04,Default,OP!Intro05,0,0,0,,ムサシ、見参でござるだス！
-Dialogue: 0,0:00:28.06,0:00:33.24,TitleOP,OP!Title,0,0,40,,からくり剣豪伝ムサシロード
-Dialogue: 0,0:00:33.24,0:00:38.08,SongOP,OP!Lyric01,0,0,0,,男はいつでも　世界の真ん中で
-Dialogue: 0,0:00:38.91,0:00:41.83,SongOP,OP!Lyric02,0,0,0,,いちばん　強くなる日を
-Dialogue: 0,0:00:41.83,0:00:44.71,SongOP,OP!Lyric03,0,0,0,,AH! AH! 夢見て
-Dialogue: 0,0:00:44.71,0:00:49.76,SongOP,OP!Lyric04,0,0,0,,心の刃　大空にふりかざし
-Dialogue: 0,0:00:50.38,0:00:54.39,SongOP,OP!Lyric05,0,0,0,,冒険の旅の　幕を開ける
-Dialogue: 0,0:00:55.72,0:01:00.98,SongOP,OP!Lyric06,0,0,0,,ジパング国を　さすらう剣豪
-Dialogue: 0,0:01:01.56,0:01:06.61,SongOP,OP!Lyric07,0,0,0,,その名　からくりびと　ムサシ
-Dialogue: 0,0:01:06.61,0:01:08.11,SongOP,OP!Lyric08,0,0,0,,GO! FIGHT!
-Dialogue: 0,0:01:08.11,0:01:11.03,SongOP,OP!Lyric09,0,0,0,,鍔迫り合いの音が
-Dialogue: 0,0:01:11.03,0:01:13.86,SongOP,OP!Lyric10,0,0,0,,眩しい人生
-Dialogue: 0,0:01:13.86,0:01:19.33,SongOP,OP!Lyric11,0,0,0,,戦い　昨日よりも　今日　強い
-Dialogue: 0,0:01:19.37,0:01:25.58,SongOP,OP!Lyric12,0,0,0,,BUGEI! 二刀流　ムサシ
-Dialogue: 0,0:01:25.58,0:01:28.59,SongOP,OP!Lyric13,0,0,0,,明日は　輝くぞ
-Dialogue: 0,0:01:28.59,0:01:31.05,SongOP,OP!Lyric14,0,0,0,,鍔迫り合いの音が
-Dialogue: 0,0:01:31.05,0:01:33.55,SongOP,OP!Lyric15,0,0,0,,眩しい人生
-Dialogue: 0,0:01:34.26,0:01:39.64,SongOP,OP!Lyric16,0,0,0,,戦い　思い切りと　静けさと
-Dialogue: 0,0:01:39.68,0:01:45.90,SongOP,OP!Lyric17,0,0,0,,BUGEI! 二刀流　ムサシ
-Dialogue: 0,0:01:45.90,0:01:51.11,SongOP,OP!Lyric18,0,0,0,,みけんが　きらめいた　ムサシ！！
+Dialogue: 0,0:00:04.48,0:00:06.71,Default,ref,0,0,0,OP!Intro01,時は戦国、乱世の時代。
+Dialogue: 0,0:00:07.12,0:00:11.62,Default,ref,0,0,0,OP!Intro02,からくり人の住むジパング国では群雄割拠して合戦に明け暮れ、
+Dialogue: 0,0:00:12.01,0:00:16.63,Default,ref,0,0,0,OP!Intro03,からくり武芸者たちも勝利と栄光を目指してしのぎを削っていた。
+Dialogue: 0,0:00:16.99,0:00:23.32,Default,ref,0,0,0,OP!Intro04,そしていま、からくり武芸者ナンバー１を目指す、とてつもないヒーローが誕生した！
+Dialogue: 0,0:00:24.57,0:00:27.04,Default,ref,0,0,0,OP!Intro05,ムサシ、見参でござるだス！
+Dialogue: 0,0:00:28.06,0:00:33.24,TitleOP,ref,0,0,40,OP!Title,からくり剣豪伝ムサシロード
+Dialogue: 0,0:00:33.24,0:00:38.08,SongOP,ref,0,0,0,OP!Lyric01,男はいつでも　世界の真ん中で
+Dialogue: 0,0:00:38.91,0:00:41.83,SongOP,ref,0,0,0,OP!Lyric02,いちばん　強くなる日を
+Dialogue: 0,0:00:41.83,0:00:44.71,SongOP,ref,0,0,0,OP!Lyric03,AH! AH! 夢見て
+Dialogue: 0,0:00:44.71,0:00:49.76,SongOP,ref,0,0,0,OP!Lyric04,心の刃　大空にふりかざし
+Dialogue: 0,0:00:50.38,0:00:54.39,SongOP,ref,0,0,0,OP!Lyric05,冒険の旅の　幕を開ける
+Dialogue: 0,0:00:55.72,0:01:00.98,SongOP,ref,0,0,0,OP!Lyric06,ジパング国を　さすらう剣豪
+Dialogue: 0,0:01:01.56,0:01:06.61,SongOP,ref,0,0,0,OP!Lyric07,その名　からくりびと　ムサシ
+Dialogue: 0,0:01:06.61,0:01:08.11,SongOP,ref,0,0,0,OP!Lyric08,GO! FIGHT!
+Dialogue: 0,0:01:08.11,0:01:11.03,SongOP,ref,0,0,0,OP!Lyric09,鍔迫り合いの音が
+Dialogue: 0,0:01:11.03,0:01:13.86,SongOP,ref,0,0,0,OP!Lyric10,眩しい人生
+Dialogue: 0,0:01:13.86,0:01:19.33,SongOP,ref,0,0,0,OP!Lyric11,戦い　昨日よりも　今日　強い
+Dialogue: 0,0:01:19.37,0:01:25.58,SongOP,ref,0,0,0,OP!Lyric12,BUGEI! 二刀流　ムサシ
+Dialogue: 0,0:01:25.58,0:01:28.59,SongOP,ref,0,0,0,OP!Lyric13,明日は　輝くぞ
+Dialogue: 0,0:01:28.59,0:01:31.05,SongOP,ref,0,0,0,OP!Lyric14,鍔迫り合いの音が
+Dialogue: 0,0:01:31.05,0:01:33.55,SongOP,ref,0,0,0,OP!Lyric15,眩しい人生
+Dialogue: 0,0:01:34.26,0:01:39.64,SongOP,ref,0,0,0,OP!Lyric16,戦い　思い切りと　静けさと
+Dialogue: 0,0:01:39.68,0:01:45.90,SongOP,ref,0,0,0,OP!Lyric17,BUGEI! 二刀流　ムサシ
+Dialogue: 0,0:01:45.90,0:01:51.11,SongOP,ref,0,0,0,OP!Lyric18,みけんが　きらめいた　ムサシ！！
 Comment: 0,0:02:00.29,0:02:07.73,Default,ja,0,0,0,,困っている村の人たちを助けるため、センヒメ一行はシュテンタイガーが操るヤマタノオロチと戦い、それを倒した。
 Dialogue: 0,0:02:00.29,0:02:07.73,Default,ko,0,0,0,,난처한 상황에 처한 마을 사람들을 돕기 위해 센히메 일행은 슈텐타이거가 조종하는 야마타노오로치하고 싸워 쓰러뜨렸다.
 Dialogue: 0,0:02:00.29,0:02:07.73,Default,en,0,0,0,,To help troubled villagers, Senhime's group fought against and took down Yamata no Orochi under Shutentiger's cotrol.
@@ -744,19 +744,19 @@ Dialogue: 0,0:22:11.37,0:22:15.30,Default,en,0,0,0,,He finally developed the tec
 Comment: 0,0:22:15.88,0:22:20.73,Default,ja,0,0,0,,頑張れ、ムサシ！ジパングナンバーワンの武芸者になれ！
 Dialogue: 0,0:22:15.88,0:22:20.73,Default,ko,0,0,0,,힘내라, 무사시! 지팡구 넘버원의 무예가가 되어라!
 Dialogue: 0,0:22:15.88,0:22:20.73,Default,en,0,0,0,,Keep it up, Musashi! Become the number one martial artist of Jipangu!
-Dialogue: 0,0:22:42.32,0:22:44.36,SongED1,ED1!Lyric01,0,0,0,,カラのポケットに　ツキが
-Dialogue: 0,0:22:45.07,0:22:47.61,SongED1,ED1!Lyric02,0,0,0,,飛び込むことも　あるさ
-Dialogue: 0,0:22:47.82,0:22:49.99,SongED1,ED1!Lyric03,0,0,0,,おっきな声で　笑えば
-Dialogue: 0,0:22:50.62,0:22:52.62,SongED1,ED1!Lyric04,0,0,0,,あしたには　朝が来る
-Dialogue: 0,0:22:53.37,0:22:57.96,SongED1,ED1!Lyric05,0,0,0,,無くすものなんか　何もないさ
-Dialogue: 0,0:22:58.96,0:23:01.54,SongED1,ED1!Lyric06,0,0,0,,やっちゃえ！イケイケ！
-Dialogue: 0,0:23:01.54,0:23:03.96,SongED1,ED1!Lyric07,0,0,0,,手ぶらは　強いぜ
-Dialogue: 0,0:23:04.38,0:23:14.06,SongED1,ED1!Lyric08,0,0,0,,てなもんだ　のーてんきに行こう
-Dialogue: 0,0:23:14.52,0:23:22.11,SongED1,ED1!Lyric09,0,0,0,,人生　てなもんさ　チャンスが　ほら
-Dialogue: 0,0:23:22.57,0:23:26.82,SongED1,ED1!Lyric10,0,0,0,,しっぽを振って　追ってくるぜ
-Dialogue: 0,0:23:28.24,0:23:37.75,SongED1,ED1!Lyric11,0,0,0,,てなもんだ　のーてんきに行こう
-Dialogue: 0,0:23:38.25,0:23:46.21,SongED1,ED1!Lyric12,0,0,0,,未来も　てなもんさ　あしたが　ほら
-Dialogue: 0,0:23:46.46,0:23:52.05,SongED1,ED1!Lyric13,0,0,0,,両手ひろげて　笑ってるぜ
+Dialogue: 0,0:22:42.32,0:22:44.36,SongED1,ref,0,0,0,ED1!Lyric01,カラのポケットに　ツキが
+Dialogue: 0,0:22:45.07,0:22:47.61,SongED1,ref,0,0,0,ED1!Lyric02,飛び込むことも　あるさ
+Dialogue: 0,0:22:47.82,0:22:49.99,SongED1,ref,0,0,0,ED1!Lyric03,おっきな声で　笑えば
+Dialogue: 0,0:22:50.62,0:22:52.62,SongED1,ref,0,0,0,ED1!Lyric04,あしたには　朝が来る
+Dialogue: 0,0:22:53.37,0:22:57.96,SongED1,ref,0,0,0,ED1!Lyric05,無くすものなんか　何もないさ
+Dialogue: 0,0:22:58.96,0:23:01.54,SongED1,ref,0,0,0,ED1!Lyric06,やっちゃえ！イケイケ！
+Dialogue: 0,0:23:01.54,0:23:03.96,SongED1,ref,0,0,0,ED1!Lyric07,手ぶらは　強いぜ
+Dialogue: 0,0:23:04.38,0:23:14.06,SongED1,ref,0,0,0,ED1!Lyric08,てなもんだ　のーてんきに行こう
+Dialogue: 0,0:23:14.52,0:23:22.11,SongED1,ref,0,0,0,ED1!Lyric09,人生　てなもんさ　チャンスが　ほら
+Dialogue: 0,0:23:22.57,0:23:26.82,SongED1,ref,0,0,0,ED1!Lyric10,しっぽを振って　追ってくるぜ
+Dialogue: 0,0:23:28.24,0:23:37.75,SongED1,ref,0,0,0,ED1!Lyric11,てなもんだ　のーてんきに行こう
+Dialogue: 0,0:23:38.25,0:23:46.21,SongED1,ref,0,0,0,ED1!Lyric12,未来も　てなもんさ　あしたが　ほら
+Dialogue: 0,0:23:46.46,0:23:52.05,SongED1,ref,0,0,0,ED1!Lyric13,両手ひろげて　笑ってるぜ
 Comment: 0,0:24:04.32,0:24:07.45,Default,ja,0,0,0,,{???}に就職していたバイケンと再会したのもつかの間。
 Dialogue: 0,0:24:04.32,0:24:07.45,Default,ko,0,0,0,,경비로 취직한 바이켄하고의 재회도 순간.
 Dialogue: 0,0:24:04.32,0:24:07.45,Default,en,0,0,0,,We meet Baiken once again, and he got a job of guard.

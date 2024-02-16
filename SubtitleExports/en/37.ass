@@ -1,0 +1,220 @@
+﻿[Script Info]
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 480
+Title: I Defeated Kojirō!
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: NoteOnAnime,Candara,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,10,1
+Style: OP1TR,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: TitleOP,DejaVu Serif,42,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: TitleEP,DejaVu Serif,42,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: ED1TR,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: Note,Candara,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,10,10,10,1
+Style: Eyecatch,Candara,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,10,10,10,1
+Style: NoteOnAnimeVert,@맑은 고딕,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,10,1
+Style: InsOtsuru,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.41,0:00:06.57,Default,en,0,0,0,,It is the turbulent Sengoku period.
+Dialogue: 0,0:00:07.11,0:00:11.52,Default,en,0,0,0,,Warlords keep on fighting day and night over\NJipangu State, where Karakuri people live.
+Dialogue: 0,0:00:11.87,0:00:16.23,Default,en,0,0,0,,Karakuri martial artists were sharpening their swords, dreaming of victory and honor.
+Dialogue: 0,0:00:16.86,0:00:23.18,Default,en,0,0,0,,And now, a wild hero has arrived, seeking to be the number one Karakuri martial artist!
+Dialogue: 0,0:00:24.47,0:00:26.90,Default,en,0,0,0,,Musashi is here-{\i1}dasu{\i0}!
+Dialogue: 0,0:00:27.89,0:00:33.23,TitleOP,en,0,0,40,,{\an8\fs32\fade(770,0)}Karakuri Kengouden
+Dialogue: 0,0:00:27.89,0:00:33.23,TitleOP,en,0,0,40,,{\fade(770,0)}Musashi Road
+Dialogue: 0,0:00:27.89,0:00:33.23,TitleOP,en,0,0,40,,{\fs24\fade(770,0)}(The Story of {\i1}Karakuri{\i0} Martial Artist: Road of Musashi)
+Dialogue: 0,0:00:33.23,0:00:38.07,SongOP,en,0,0,0,,A man always dreams of the day
+Dialogue: 0,0:00:38.90,0:00:41.82,SongOP,en,0,0,0,,in the center of the world to become
+Dialogue: 0,0:00:41.82,0:00:44.70,SongOP,en,0,0,0,,AH! AH! the strongest
+Dialogue: 0,0:00:44.70,0:00:49.75,SongOP,en,0,0,0,,Raise the sword of your heart high to the wide sky
+Dialogue: 0,0:00:50.37,0:00:54.38,SongOP,en,0,0,0,,Raise the curtain to the road of adventure
+Dialogue: 0,0:00:55.71,0:01:00.97,SongOP,en,0,0,0,,A skilled swordsman roams on Jipangu State
+Dialogue: 0,0:01:01.55,0:01:06.60,SongOP,en,0,0,0,,His name is Musashi, a Karakuri man
+Dialogue: 0,0:01:06.60,0:01:08.10,SongOP,en,0,0,0,,Go! Fight!
+Dialogue: 0,0:01:08.10,0:01:11.02,SongOP,en,0,0,0,,The sound of fierce duels
+Dialogue: 0,0:01:11.02,0:01:13.86,SongOP,en,0,0,0,,makes life dazzling
+Dialogue: 0,0:01:13.86,0:01:19.32,SongOP,en,0,0,0,,Battles of yesterdays make you stronger today
+Dialogue: 0,0:01:19.36,0:01:25.58,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
+Dialogue: 0,0:01:25.58,0:01:28.46,SongOP,en,0,0,0,,Tomorrow will be glorious
+Dialogue: 0,0:01:28.46,0:01:31.04,SongOP,en,0,0,0,,The sound of fierce duels
+Dialogue: 0,0:01:31.04,0:01:33.54,SongOP,en,0,0,0,,makes life dazzling
+Dialogue: 0,0:01:34.25,0:01:39.63,SongOP,en,0,0,0,,Fight the utmost with the stillness
+Dialogue: 0,0:01:39.68,0:01:45.89,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
+Dialogue: 0,0:01:45.89,0:01:51.10,SongOP,en,0,0,0,,His eyes shined! Musashi!
+Dialogue: 0,0:02:00.00,0:02:05.49,Default,en,0,0,0,,After getting into Sakurajima, Musashi and others challenge for the last decisive battle against Shiranui Clan,
+Dialogue: 0,0:02:05.49,0:02:08.48,Default,en,0,0,0,,but Hanzō launches a missile to Satsumania.
+Dialogue: 0,0:02:08.99,0:02:12.01,Default,en,0,0,0,,But thanks to Musashi, it was stopped.
+Dialogue: 0,0:02:12.80,0:02:17.82,Default,en,0,0,0,,But Himiko, who gave the feeling of mother, died.
+Dialogue: 0,0:02:18.30,0:02:23.30,TitleEP,en,0,0,200,,I Defeated
+Dialogue: 0,0:02:18.30,0:02:23.30,TitleEP,en,0,0,60,,Kojirō!
+Dialogue: 0,0:02:38.18,0:02:40.65,Default,en,0,0,0,,Musashi? Finish it already!
+Dialogue: 0,0:02:40.97,0:02:43.02,Default,en,0,0,0,,I'm almost done-{\i1}dasu{\i0}!
+Dialogue: 0,0:02:43.32,0:02:47.19,Default,en,0,0,0,,Musashi, that tree looks like it's more than 300 years old.
+Dialogue: 0,0:02:47.85,0:02:50.56,Default,en,0,0,0,,You will be cursed, by peeing to a tree that old.
+Dialogue: 0,0:02:51.01,0:02:54.67,Default,en,0,0,0,,It'll be alright-{\i1}dasu{\i0}! I'm refreshed!
+Dialogue: 0,0:02:55.16,0:02:59.40,Default,en,0,0,0,,What's wrong with you? You're peeing everywhere, like a dog!
+Dialogue: 0,0:02:59.40,0:03:02.18,Default,en,0,0,0,,Senhime! I do not do that.
+Dialogue: 0,0:03:02.18,0:03:06.92,Default,en,0,0,0,,Really, Kojirō, stop bragging off-{\i1}dasu{\i0}! I know that you peed outdoors before today-{\i1}dasu{\i0}.
+Dialogue: 0,0:03:06.92,0:03:11.21,Default,en,0,0,0,,-W- what did you say!?\N-Forget it! Let's stay in here today.
+Dialogue: 0,0:03:22.62,0:03:25.61,Default,en,0,0,0,,I want to pee again-{\i1}dasu{\i0}.
+Dialogue: 0,0:03:29.72,0:03:30.99,Default,en,0,0,0,,I'm refreshed-{\i1}dasu{\i0}!
+Dialogue: 0,0:03:30.99,0:03:31.55,Default,en,0,0,0,,Musashi!
+Dialogue: 0,0:03:34.38,0:03:36.02,Default,en,0,0,0,,Kojirō! Are you here to pee-{\i1}dasu{\i0}?
+Dialogue: 0,0:03:36.33,0:03:40.90,Default,en,0,0,0,,Musashi! How dare you reveal to Senhime that I peed outdoor!?
+Dialogue: 0,0:03:41.17,0:03:43.47,Default,en,0,0,0,,But that's true-{\i1}dasu{\i0}!
+Dialogue: 0,0:03:44.03,0:03:46.24,Default,en,0,0,0,,Unforgivable! Musashi, we'll have a match!
+Dialogue: 0,0:03:47.24,0:03:48.64,Default,en,0,0,0,,Just as I wanted-{\i1}dasu{\i0}!
+Dialogue: 0,0:03:51.45,0:03:53.55,Default,en,0,0,0,,Ganryu Tsubamegaeshi!
+Dialogue: 0,0:03:53.89,0:03:56.06,Default,en,0,0,0,,Niten'ichiryū: Flash Sword!
+Dialogue: 0,0:04:03.01,0:04:05.20,Default,en,0,0,0,,Musashi. Finish me.
+Dialogue: 0,0:04:05.97,0:04:09.09,Default,en,0,0,0,,Sympathy of years. I'll let you live-{\i1}dasu{\i0}.
+Dialogue: 0,0:04:09.09,0:04:12.48,Default,en,0,0,0,,Kojirō! Kojirō! Kojirō!
+Dialogue: 0,0:04:13.36,0:04:17.24,Default,en,0,0,0,,Do not die! If you die, then I'll die too, Kojirō!
+Dialogue: 0,0:04:17.96,0:04:24.06,Default,en,0,0,0,,I loved you from a long time ago. So... please don't die!
+Dialogue: 0,0:04:24.06,0:04:29.45,Default,en,0,0,0,,Senhime, that's same for me. I love you, princess!
+Dialogue: 0,0:04:29.45,0:04:34.28,Default,en,0,0,0,,Kojirō! Let's make make a happy household together, even if it's an ordinary one!
+Dialogue: 0,0:04:34.28,0:04:38.40,Default,en,0,0,0,,Let's do so. We'll have, um, 3 children!
+Dialogue: 0,0:04:38.61,0:04:42.62,Default,en,0,0,0,,If they're girls, then let's name them Naoko, Naoko, and Naoko!
+Dialogue: 0,0:04:43.09,0:04:44.30,Default,en,0,0,0,,It's full of Naokos!
+Dialogue: 0,0:04:47.64,0:04:50.80,Default,en,0,0,0,,I didn't ever know that they loved each other-{\i1}dasu{\i0}!
+Dialogue: 0,0:04:51.66,0:04:55.28,Default,en,0,0,0,,Anyway, I became the number one of Jipangu by this-{\i1}dasu{\i0}!
+Dialogue: 0,0:04:55.98,0:04:57.42,Default,en,0,0,0,,Otsuru and I will...
+Dialogue: 0,0:04:57.42,0:04:58.32,Default,en,0,0,0,,Mr. Musashi!
+Dialogue: 0,0:04:59.88,0:05:04.65,Default,en,0,0,0,,You finally become the number one of Jipangu! Otsuru's happy!
+Dialogue: 0,0:05:04.96,0:05:06.60,Default,en,0,0,0,,Otsuru!
+Dialogue: 0,0:05:06.98,0:05:08.07,Default,en,0,0,0,,Mr. Musashi!
+Dialogue: 0,0:05:08.59,0:05:10.15,Default,en,0,0,0,,It's just like a dream-{\i1}dasu{\i0}!
+Dialogue: 0,0:05:11.23,0:05:14.18,Default,en,0,0,0,,Ouch! What a relief-{\i1}dasu{\i0}! It's not a dream!
+Dialogue: 0,0:05:14.18,0:05:16.00,Default,en,0,0,0,,But, Otsuru, why are you here?
+Dialogue: 0,0:05:16.00,0:05:19.95,Default,en,0,0,0,,I wanted to meet you, Mr. Musashi, so much and I couldn't hold it anymore!
+Dialogue: 0,0:05:19.95,0:05:24.72,Default,en,0,0,0,,Musashi, you did it! I always knew you would make it!
+Dialogue: 0,0:05:25.42,0:05:28.16,Default,en,0,0,0,,You're here too, Takuan-{\i1}dasu{\i0}!
+Dialogue: 0,0:05:28.16,0:05:29.43,Default,en,0,0,0,,I hope you're happy!
+Dialogue: 0,0:05:30.22,0:05:31.20,Default,en,0,0,0,,A little bit.
+Dialogue: 0,0:05:31.20,0:05:33.75,Default,en,0,0,0,,Everyone from Miyamoto village is also here!
+Dialogue: 0,0:05:34.63,0:05:35.97,Default,en,0,0,0,,Really-dasu!?
+Dialogue: 0,0:05:36.16,0:05:41.71,Note,en,0,0,0,,Congratulations! Musashi is the Number One of Jipangu
+Dialogue: 0,0:05:41.73,0:05:47.89,Default,en,0,0,0,,Celebrating that Musashi from Miyamoto village became the number one of Jipangu, cheers!
+Dialogue: 0,0:05:47.89,0:05:49.88,Default,en,0,0,0,,Cheers!
+Dialogue: 0,0:05:52.47,0:05:54.69,Default,en,0,0,0,,Tangerine juice is delicious-{\i1}dasu{\i0}!
+Dialogue: 0,0:05:54.69,0:05:57.23,Default,en,0,0,0,,That's our Musashi!
+Dialogue: 0,0:05:57.23,0:06:00.81,Default,en,0,0,0,,Really! That guy is the pride of Miyamoto village!
+Dialogue: 0,0:06:00.81,0:06:05.99,Default,en,0,0,0,,That guy really is the genius martial artist that rarely comes out once in 100 years!
+Dialogue: 0,0:06:05.99,0:06:07.31,Default,en,0,0,0,,True, true!
+Dialogue: 0,0:06:07.31,0:06:09.88,Default,en,0,0,0,,You became a man while I wasn't seeing you!
+Dialogue: 0,0:06:09.88,0:06:11.73,Default,en,0,0,0,,You're making me shy-{\i1}dasu{\i0}!
+Dialogue: 0,0:06:12.17,0:06:13.89,Default,en,0,0,0,,Anyway, you're the man!
+Dialogue: 0,0:06:13.89,0:06:16.63,Default,en,0,0,0,,He's not bragging about his strength, too!
+Dialogue: 0,0:06:19.25,0:06:23.08,Default,en,0,0,0,,Hey, Musashi bro, tell us about all the stories about your battles!
+Dialogue: 0,0:06:23.08,0:06:25.32,Default,en,0,0,0,,-Yeah, yeah!\N-I want to hear, too!
+Dialogue: 0,0:06:25.32,0:06:26.34,Default,en,0,0,0,,Really-{\i1}dasu{\i0}?
+Dialogue: 0,0:06:28.68,0:06:33.19,Default,en,0,0,0,,Then let me tell my story about when I got Tenkūmaru and Tenchimaru-{\i1}dasu{\i0}!
+Dialogue: 0,0:06:35.46,0:06:40.77,Default,en,0,0,0,,During our journey, we had to fight Tsuchigumo controlled by Onihime-{\i1}dasu{\i0}.
+Dialogue: 0,0:07:21.11,0:07:23.52,Default,en,0,0,0,,Leave this to me. Musashi, you rescue that girl.
+Dialogue: 0,0:07:28.43,0:07:30.13,Default,en,0,0,0,,Otama, get a grip!
+Dialogue: 0,0:07:44.08,0:07:45.48,Default,en,0,0,0,,What are you doing?!
+Dialogue: 0,0:08:55.76,0:08:59.24,Default,en,0,0,0,,We also heard about the monster and are here to exterminate! We'll help!
+Dialogue: 0,0:09:05.23,0:09:06.17,Default,en,0,0,0,,Hot!
+Dialogue: 0,0:09:43.26,0:09:45.33,Default,en,0,0,0,,It's for the grudge of my precious Kotetsu-{\i1}dasu{\i0}!
+Dialogue: 0,0:10:11.04,0:10:17.18,Default,en,0,0,0,,After taking Tsuchigumo down and obtaining Tenchimaru, I had to fight Yamata no Orochi.
+Dialogue: 0,0:11:13.20,0:11:15.07,Default,en,0,0,0,,This definitely is Tenkūmaru!
+Dialogue: 0,0:11:19.11,0:11:23.19,Default,en,0,0,0,,And that's how I got Tenkūmaru and Tenchimaru-{\i1}dasu{\i0}!
+Dialogue: 0,0:11:25.09,0:11:28.77,Default,en,0,0,0,,Now, I'll tell about the battles I did in Hokkaido-{\i1}dasu{\i0}!
+Dialogue: 0,0:11:38.87,0:11:39.89,Default,en,0,0,0,,Mr. Musashi.
+Dialogue: 0,0:11:41.48,0:11:43.70,Default,en,0,0,0,,Please keep talking outside.
+Dialogue: 0,0:11:46.96,0:11:53.83,Default,en,0,0,0,,Now, what is this strange atmosphere? Wait for the stormy latter half!
+Dialogue: 0,0:11:53.83,0:11:58.83,Eyecatch,en,0,0,0,,Karakuri Kengouden: Musashi Road
+Dialogue: 0,0:12:08.91,0:12:11.91,Default,en,0,0,0,,Mr. Musashi, come here more.
+Dialogue: 0,0:12:11.91,0:12:13.02,Default,en,0,0,0,,Yes-{\i1}dasu{\i0}!
+Dialogue: 0,0:12:14.91,0:12:16.98,Default,en,0,0,0,,Otsuru, your hands are warm!
+Dialogue: 0,0:12:17.20,0:12:21.44,Default,en,0,0,0,,Mr. Musashi, the journey of training to become a swordman must've been difficult!
+Dialogue: 0,0:12:21.87,0:12:28.42,Default,en,0,0,0,,No, not that much-{\i1}dasu{\i0}. I have an objective, so even if it was tough...
+Dialogue: 0,0:12:29.94,0:12:33.85,Default,en,0,0,0,,Thinking about that, I showed man's tears for once-{\i1}dasu{\i0}.
+Dialogue: 0,0:12:34.92,0:12:36.65,Default,en,0,0,0,,Tell me, Mr. Musashi.
+Dialogue: 0,0:12:37.02,0:12:41.60,Default,en,0,0,0,,At that time, we were fighting against Shiranui Clan-{\i1}dasu{\i0}.
+Dialogue: 0,0:13:38.11,0:13:40.15,Default,en,0,0,0,,It hurts, it hurts!
+Dialogue: 0,0:13:40.15,0:13:42.88,Default,en,0,0,0,,Mommy! It hurts, it hurts!
+Dialogue: 0,0:13:43.47,0:13:45.30,Default,en,0,0,0,,Mommy! It hurts!
+Dialogue: 0,0:13:45.30,0:13:46.83,Default,en,0,0,0,,What's wrong, Musashi?
+Dialogue: 0,0:14:54.91,0:14:59.79,Default,en,0,0,0,,Ms. Himiko was really kind, and she was as if my mother-{\i1}dasu{\i0}.
+Dialogue: 0,0:15:00.59,0:15:01.08,Default,en,0,0,0,,But...
+Dialogue: 0,0:15:06.79,0:15:11.07,Default,en,0,0,0,,Musashi! That Himiko woman is the queen of Shiranui Clan!
+Dialogue: 0,0:15:13.56,0:15:15.91,Default,en,0,0,0,,I checked it and there's no doubt about it!
+Dialogue: 0,0:15:20.79,0:15:22.82,Default,en,0,0,0,,That woman is our enemy!
+Dialogue: 0,0:15:37.79,0:15:43.76,Default,en,0,0,0,,I couldn't believe that kind Ms. Himiko was a queen of Shiranui-{\i1}dasu{\i0}.
+Dialogue: 0,0:15:44.41,0:15:48.29,Default,en,0,0,0,,That's why I went to Sakurajima, the base of Shiranui...
+Dialogue: 0,0:16:33.86,0:16:36.57,Default,en,0,0,0,,Everyone! The time has come!
+Dialogue: 0,0:16:36.80,0:16:41.56,Default,en,0,0,0,,We will take General Ieyasu down and claim Jipangu State into our hands!
+Dialogue: 0,0:16:42.88,0:16:47.28,Default,en,0,0,0,,{\i1}Just like Jiraiyan said, Ms. Himiko is the queen of Shiranui...
+Dialogue: 0,0:16:49.18,0:16:52.88,Default,en,0,0,0,,Lord Himiko! Lord Himiko!
+Dialogue: 0,0:17:34.63,0:17:39.65,Default,en,0,0,0,,Um, err, that's, I was so excited that I want to urinate-{\i1}dasu{\i0}.
+Dialogue: 0,0:17:53.76,0:17:56.32,Default,en,0,0,0,,Musashi?! Musashi, you!
+Dialogue: 0,0:17:56.78,0:17:58.62,Default,en,0,0,0,,Ms. Himiko! No, Himiko!
+Dialogue: 0,0:18:03.60,0:18:07.53,Default,en,0,0,0,,But as usual, your idiocy wasn't fixed after all!
+Dialogue: 0,0:19:17.19,0:19:19.24,Default,en,0,0,0,,And? What happened?
+Dialogue: 0,0:19:20.06,0:19:24.80,Default,en,0,0,0,,Hanzō betrayed Ms. Himiko and Ms. Himiko died-{\i1}dasu{\i0}.
+Dialogue: 0,0:19:54.62,0:19:56.39,Default,en,0,0,0,,That must've been hurt.
+Dialogue: 0,0:19:56.72,0:19:57.80,Default,en,0,0,0,,Right-{\i1}dasu{\i0}.
+Dialogue: 0,0:20:13.80,0:20:16.91,Default,en,0,0,0,,Er, Otsuru, when did you get a tail-{\i1}dasu{\i0}?
+Dialogue: 0,0:20:17.18,0:20:20.27,Default,en,0,0,0,,Huh? Wha-!? A dumpling is flying!
+Dialogue: 0,0:20:20.27,0:20:22.20,Default,en,0,0,0,,Huh? W- where is it flying-{\i1}dasu{\i0}?
+Dialogue: 0,0:20:22.86,0:20:23.96,Default,en,0,0,0,,I can't see it-{\i1}dasu{\i0}!
+Dialogue: 0,0:20:24.81,0:20:25.27,Default,en,0,0,0,,Huh?
+Dialogue: 0,0:20:26.42,0:20:28.36,Default,en,0,0,0,,Maybe I'm half asleep-{\i1}dasu{\i0}.
+Dialogue: 0,0:20:29.06,0:20:31.52,Default,en,0,0,0,,Here! Your favorite rice balls!
+Dialogue: 0,0:20:31.52,0:20:35.61,Default,en,0,0,0,,Otsuru's rice balls are the best-{\i1}dasu{\i0}!
+Dialogue: 0,0:20:39.98,0:20:41.18,Default,en,0,0,0,,T- they're hard-{\i1}dasu{\i0}.
+Dialogue: 0,0:20:50.12,0:20:53.72,Default,en,0,0,0,,What is that Musashi doing on a worn-out house?
+Dialogue: 0,0:20:54.27,0:20:55.65,Default,en,0,0,0,,I wonder if he's half asleep.
+Dialogue: 0,0:20:56.00,0:20:57.42,Default,en,0,0,0,,L- look at that!
+Dialogue: 0,0:21:01.04,0:21:02.91,Default,en,0,0,0,,Senhime, you're there.
+Dialogue: 0,0:21:03.45,0:21:04.63,Default,en,0,0,0,,You too, Kojirō.
+Dialogue: 0,0:21:04.63,0:21:09.02,Default,en,0,0,0,,Oh my, he's fooled by raccoons again.
+Dialogue: 0,0:21:09.02,0:21:10.80,Default,en,0,0,0,,Oh, you must be the owner of this inn.
+Dialogue: 0,0:21:11.20,0:21:13.80,Default,en,0,0,0,,What do you mean by being fooled by raccoons?
+Dialogue: 0,0:21:14.32,0:21:18.27,Default,en,0,0,0,,Didn't that martial artist peed on that big tree?
+Dialogue: 0,0:21:18.27,0:21:19.83,Default,en,0,0,0,,Yes, he did that yesterday...
+Dialogue: 0,0:21:19.83,0:21:27.13,Note,en,0,0,0,,(tanu{\i1}ki{\i0}: raccoon, {\i1}ki{\i0}: tree)
+Dialogue: 0,0:21:19.83,0:21:27.13,Default,en,0,0,0,,I knew it. That tree is called Raccoon Tree. It's the guardian god of raccoon around this place.
+Dialogue: 0,0:21:27.13,0:21:32.16,Default,en,0,0,0,,But since he peed on there, raccoons got angry!
+Dialogue: 0,0:21:32.16,0:21:34.63,Default,en,0,0,0,,T- they're hard-{\i1}dasu{\i0}!
+Dialogue: 0,0:21:39.11,0:21:43.79,Default,en,0,0,0,,How can he be fooled by raccoons?! How miserable! He's a pathetic excuse for a martial artist!
+Dialogue: 0,0:21:44.09,0:21:45.21,Default,en,0,0,0,,Agreed.
+Dialogue: 0,0:21:45.21,0:21:49.20,Default,en,0,0,0,,First class martial artists should be able to distinguish between raccoons and humans!
+Dialogue: 0,0:21:49.20,0:21:51.75,Default,en,0,0,0,,Oh, right. You have to pay for the stay.
+Dialogue: 0,0:21:52.06,0:21:55.29,Default,en,0,0,0,,Oh, excuse me. It was 300 mons, right?
+Dialogue: 0,0:21:55.29,0:21:57.01,Default,en,0,0,0,,Thank you so much.
+Dialogue: 0,0:21:59.30,0:22:00.73,Default,en,0,0,0,,You fool!
+Dialogue: 0,0:22:02.57,0:22:04.41,Default,en,0,0,0,,R- raccoon!
+Dialogue: 0,0:22:04.41,0:22:08.89,Default,en,0,0,0,,Can't first class martial artists distinguish between raccoons and humans?!
+Dialogue: 0,0:22:10.61,0:22:13.56,Default,en,0,0,0,,Otsuru, this rice ball is hard-{\i1}dasu{\i0}!
+Dialogue: 0,0:22:15.20,0:22:20.37,Default,en,0,0,0,,When he thought he became the number one of Jipangu, he was simply fooled by raccoons. That's totally Musashi.
+Dialogue: 0,0:22:21.09,0:22:26.33,Default,en,0,0,0,,But don't be discouraged, Musashi! A bright tomorrow is waiting for you!
+Dialogue: 0,0:22:41.81,0:22:43.85,SongED1,en,0,0,0,,Sometimes the moon jumps over
+Dialogue: 0,0:22:44.56,0:22:47.10,SongED1,en,0,0,0,,the pocket of empty sky
+Dialogue: 0,0:22:47.31,0:22:49.48,SongED1,en,0,0,0,,Laugh loudly and
+Dialogue: 0,0:22:50.11,0:22:52.11,SongED1,en,0,0,0,,morning will come tomorrow
+Dialogue: 0,0:22:52.86,0:22:57.45,SongED1,en,0,0,0,,Don't worry too much about losing
+Dialogue: 0,0:22:58.45,0:23:01.03,SongED1,en,0,0,0,,Keep going! Go for it!
+Dialogue: 0,0:23:01.03,0:23:03.45,SongED1,en,0,0,0,,A bare hand is strong
+Dialogue: 0,0:23:03.87,0:23:13.54,SongED1,en,0,0,0,,That's how it is! Let's go lightly
+Dialogue: 0,0:23:14.00,0:23:21.59,SongED1,en,0,0,0,,That's how life is! Look, a chance
+Dialogue: 0,0:23:22.05,0:23:26.31,SongED1,en,0,0,0,,follows us wagging its tail!
+Dialogue: 0,0:23:27.73,0:23:37.24,SongED1,en,0,0,0,,That's how it is! Let's go lightly
+Dialogue: 0,0:23:37.74,0:23:45.70,SongED1,en,0,0,0,,That's how the future is, too! Look, tomorrow
+Dialogue: 0,0:23:45.95,0:23:51.54,SongED1,en,0,0,0,,is opening its hands and smiling at us!
+Dialogue: 0,0:24:04.46,0:24:06.85,Default,en,0,0,0,,We're finally back at Edotopia-{\i1}dasu{\i0}!
+Dialogue: 0,0:24:06.85,0:24:10.03,Default,en,0,0,0,,The real Otsuru is there this time-{\i1}dasu{\i0}!
+Dialogue: 0,0:24:10.03,0:24:11.69,Default,en,0,0,0,,I'm happy-{\i1}dasu{\i0}!
+Dialogue: 0,0:24:11.69,0:24:17.31,Default,en,0,0,0,,The marial artist competition that I've been waiting for is about to begin, so I'm going to do my best-{\i1}dasu{\i0}!
+Dialogue: 0,0:24:17.84,0:24:21.36,Default,en,0,0,0,,But meanwhile, Hanzō joins a mysterious group!
+Dialogue: 0,0:24:21.78,0:24:25.33,Default,en,0,0,0,,Next story! He Appeared! Mysterious Rikudomaoh
+Dialogue: 0,0:24:25.57,0:24:28.37,Default,en,0,0,0,,It's the stormy Miyako Palace-{\i1}dasu{\i0}!
+Dialogue: 0,0:24:26.58,0:24:30.59,NoteOnAnime,en,60,0,60,,{\an7}Next Episode
+Dialogue: 0,0:24:26.58,0:24:30.59,TitleEP,en,0,0,220,,He Appeared!
+Dialogue: 0,0:24:26.58,0:24:30.59,TitleEP,en,0,0,80,,Mysterious Rikudomaoh
+Dialogue: 0,0:24:26.58,0:24:30.59,NoteOnAnime,en,0,60,30,,{\an3\fs32}Look forwards for it!

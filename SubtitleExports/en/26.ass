@@ -1,0 +1,312 @@
+﻿[Script Info]
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 480
+Title: The Most Evil! Hanzō Revives
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: NoteOnAnime,Candara,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,10,1
+Style: OP1TR,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: TitleOP,DejaVu Serif,42,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: TitleEP,DejaVu Serif,42,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: ED1TR,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: Note,Candara,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,10,10,10,1
+Style: Eyecatch,Candara,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,10,10,10,1
+Style: NoteOnAnimeVert,@맑은 고딕,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,10,1
+Style: InsOtsuru,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.19,0:00:05.34,Default,en,0,0,0,,It is the turbulent Sengoku period.
+Dialogue: 0,0:00:05.71,0:00:10.53,Default,en,0,0,0,,Warlords keep on fighting day and night over\NJipangu State, where Karakuri people live.
+Dialogue: 0,0:00:10.53,0:00:15.48,Default,en,0,0,0,,Karakuri martial artists were sharpening their swords, dreaming of victory and honor.
+Dialogue: 0,0:00:15.48,0:00:22.21,Default,en,0,0,0,,And now, a wild hero has arrived, seeking to be the number one Karakuri martial artist!
+Dialogue: 0,0:00:23.07,0:00:25.80,Default,en,0,0,0,,Musashi is here-{\i1}dasu{\i0}!
+Dialogue: 0,0:00:26.69,0:00:31.87,TitleOP,en,0,0,40,,{\an8\fs32\fade(770,0)}Karakuri Kengouden
+Dialogue: 0,0:00:26.69,0:00:31.87,TitleOP,en,0,0,40,,{\fade(770,0)}Musashi Road
+Dialogue: 0,0:00:26.69,0:00:31.87,TitleOP,en,0,0,40,,{\fs24\fade(770,0)}(The Story of {\i1}Karakuri{\i0} Martial Artist: Road of Musashi)
+Dialogue: 0,0:00:31.87,0:00:36.70,SongOP,en,0,0,0,,A man always dreams of the day
+Dialogue: 0,0:00:37.54,0:00:40.46,SongOP,en,0,0,0,,in the center of the world to become
+Dialogue: 0,0:00:40.46,0:00:43.33,SongOP,en,0,0,0,,AH! AH! the strongest
+Dialogue: 0,0:00:43.33,0:00:48.37,SongOP,en,0,0,0,,Raise the sword of your heart high to the wide sky
+Dialogue: 0,0:00:49.01,0:00:53.01,SongOP,en,0,0,0,,Raise the curtain to the road of adventure
+Dialogue: 0,0:00:54.34,0:00:59.60,SongOP,en,0,0,0,,A skilled swordsman roams on Jipangu State
+Dialogue: 0,0:01:00.18,0:01:05.21,SongOP,en,0,0,0,,His name is Musashi, a Karakuri man
+Dialogue: 0,0:01:05.21,0:01:06.72,SongOP,en,0,0,0,,Go! Fight!
+Dialogue: 0,0:01:06.72,0:01:09.63,SongOP,en,0,0,0,,The sound of fierce duels
+Dialogue: 0,0:01:09.63,0:01:12.49,SongOP,en,0,0,0,,makes life dazzling
+Dialogue: 0,0:01:12.49,0:01:17.95,SongOP,en,0,0,0,,Battles of yesterdays make you stronger today
+Dialogue: 0,0:01:18.00,0:01:24.19,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
+Dialogue: 0,0:01:24.19,0:01:27.20,SongOP,en,0,0,0,,Tomorrow will be glorious
+Dialogue: 0,0:01:27.20,0:01:29.67,SongOP,en,0,0,0,,The sound of fierce duels
+Dialogue: 0,0:01:29.67,0:01:32.16,SongOP,en,0,0,0,,makes life dazzling
+Dialogue: 0,0:01:32.87,0:01:38.27,SongOP,en,0,0,0,,Fight the utmost with the stillness
+Dialogue: 0,0:01:38.29,0:01:44.52,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
+Dialogue: 0,0:01:44.52,0:01:49.78,SongOP,en,0,0,0,,His eyes shined! Musashi!
+Dialogue: 0,0:01:59.40,0:02:06.15,Default,en,0,0,0,,Came from a place far away, Musashi and Senhime's group has fought against Hanzō with all their force.
+Dialogue: 0,0:02:06.58,0:02:13.52,Default,en,0,0,0,,After a long fight, Onihime died, and Jiraiyan has moved by Musashi's teamwork.
+Dialogue: 0,0:02:13.86,0:02:17.08,Default,en,0,0,0,,And Hanzō has gone with Karakuri Stronghold.
+Dialogue: 0,0:02:17.20,0:02:22.21,TitleEP,en,0,0,225,,The Most Evil!
+Dialogue: 0,0:02:17.20,0:02:22.21,TitleEP,en,0,0,110,,Hanzō Revives
+Dialogue: 0,0:02:37.56,0:02:38.90,Default,en,0,0,0,,This feels good!
+Dialogue: 0,0:02:39.50,0:02:45.51,Default,en,0,0,0,,In Edo Castle, a celebrating party was going on, for Senhime, who was called back by Ieyasu.
+Dialogue: 0,0:02:51.48,0:02:57.03,Default,en,0,0,0,,Senhime, please be prepared soon. Lord Ieyasu is waiting very much.
+Dialogue: 0,0:02:57.46,0:03:00.04,Default,en,0,0,0,,Got it! I'll be there soon!
+Dialogue: 0,0:03:04.36,0:03:05.64,Default,en,0,0,0,,We've waited for you-{\i1}dasu{\i0}!
+Dialogue: 0,0:03:09.74,0:03:10.80,Default,en,0,0,0,,You sure did.
+Dialogue: 0,0:03:12.24,0:03:13.50,Default,en,0,0,0,,Musashi, your mouth.
+Dialogue: 0,0:03:15.90,0:03:18.02,Default,en,0,0,0,,You look quite different, Senhime!
+Dialogue: 0,0:03:19.06,0:03:19.92,Default,en,0,0,0,,Of course.
+Dialogue: 0,0:03:22.72,0:03:24.86,Default,en,0,0,0,,Oh, Mr. Ayamaro!
+Dialogue: 0,0:03:25.14,0:03:27.48,Default,en,0,0,0,,Mr. Ieyasu, please introduce her to me.
+Dialogue: 0,0:03:29.26,0:03:32.34,Default,en,0,0,0,,Oh, Hime, you should greet Mr. Aburakoji!
+Dialogue: 0,0:03:32.50,0:03:35.27,Default,en,0,0,0,,Senhime, nice to meet you!
+Dialogue: 0,0:03:39.08,0:03:42.49,Default,en,0,0,0,,As all of you are here, what a joyous day!
+Dialogue: 0,0:03:43.50,0:03:45.30,Default,en,0,0,0,,Jūbee, you can eat now!
+Dialogue: 0,0:03:46.49,0:03:49.38,Default,en,0,0,0,,Yessir. Then I'll start with boiled fish.
+Dialogue: 0,0:03:49.62,0:03:54.90,Default,en,0,0,0,,Hime, as you wanted, I've had them prepare all the foods you like!
+Dialogue: 0,0:03:55.16,0:03:57.42,Default,en,0,0,0,,Mr. Aburakoji, east as much as you want!
+Dialogue: 0,0:03:59.12,0:04:01.28,Default,en,0,0,0,,Then putting aside ranks!
+Dialogue: 0,0:04:04.26,0:04:07.15,Default,en,0,0,0,,Who is that ugly man-{\i1}dasu{\i0}?
+Dialogue: 0,0:04:07.15,0:04:07.52,Default,en,0,0,0,,Huh?
+Dialogue: 0,0:04:07.76,0:04:12.88,Default,en,0,0,0,,Aburakoji Ayamaro is the 13th boy of the historic imperial court of Miyako Palace.
+Dialogue: 0,0:04:15.08,0:04:18.61,Default,en,0,0,0,,It seems that the feudal lord has invited him for the sightseeing of Edotopia.
+Dialogue: 0,0:04:22.42,0:04:26.15,Default,en,0,0,0,,By thew way, he somehow looks like he's without any grace...
+Dialogue: 0,0:04:26.15,0:04:29.45,Default,en,0,0,0,,He is just like you, if you move around eyes and a nose.
+Dialogue: 0,0:04:32.84,0:04:36.80,Note,en,0,0,0,,(Specialty of Hokkaido)
+Dialogue: 0,0:04:33.24,0:04:36.80,Default,en,0,0,0,,These are hairy crabs, from the present of the princess!
+Dialogue: 0,0:04:37.10,0:04:40.42,Default,en,0,0,0,,-What an excellent product!\N-Isn't that right?!
+Dialogue: 0,0:04:40.68,0:04:43.38,Default,en,0,0,0,,Crabs are my favorite food, too!
+Dialogue: 0,0:04:43.50,0:04:47.94,Default,en,0,0,0,,Oh, good for you! Well, eat as much as you want!
+Dialogue: 0,0:04:47.94,0:04:48.98,Default,en,0,0,0,,Hey, my crab!
+Dialogue: 0,0:04:57.32,0:05:01.16,Default,en,0,0,0,,Isn't it great, Hime? Mr. Ayamaro is happy about this, too!
+Dialogue: 0,0:05:01.16,0:05:04.01,Default,en,0,0,0,,Look, it's potherb roll that you like, Hime!
+Dialogue: 0,0:05:04.01,0:05:04.87,Default,en,0,0,0,,Here, here!
+Dialogue: 0,0:05:06.52,0:05:08.12,Default,en,0,0,0,,It truly is a delicacy!
+Dialogue: 0,0:05:10.34,0:05:15.42,Default,en,0,0,0,,Lord Ieyasu has called us back urgently. Could this be a marriage interview?
+Dialogue: 0,0:05:15.96,0:05:17.86,Default,en,0,0,0,,Marriage interview?!
+Dialogue: 0,0:05:18.06,0:05:20.18,Default,en,0,0,0,,{\frz321.7\move(255,149,317,192,14,2100)\fad(300,700)}Shh!
+Dialogue: 0,0:05:18.06,0:05:20.18,Default,en,0,0,0,,{\fad(300,700)\frz339.6\move(501,260,438,238,14,2100)}Shh!
+Dialogue: 0,0:05:26.72,0:05:30.52,Default,en,0,0,0,,It's over, it's over, and the meal was great! Now I'm free-{\i1}dasu{\i0}!
+Dialogue: 0,0:05:30.82,0:05:33.40,Default,en,0,0,0,,That's truly much appreciated.
+Dialogue: 0,0:05:33.64,0:05:37.89,Default,en,0,0,0,,I am the one who've gone through a deep inner struggle. Musashi was torturing my heart.
+Dialogue: 0,0:05:38.32,0:05:41.16,Default,en,0,0,0,,You are doing that because you couldn't eat crabs. How sickening-{\i1}dasu{\i0}.
+Dialogue: 0,0:05:41.34,0:05:42.27,Default,en,0,0,0,,What?!
+Dialogue: 0,0:05:43.27,0:05:45.44,Default,en,0,0,0,,Well, that's enough! You two should get a rest.
+Dialogue: 0,0:05:46.02,0:05:47.92,Default,en,0,0,0,,I'm entrusting them to you, Mr. Zenigatan.
+Dialogue: 0,0:05:48.26,0:05:50.04,Default,en,0,0,0,,Alright! Understood.
+Dialogue: 0,0:05:50.62,0:05:55.67,Default,en,0,0,0,,Now, follow me, you two! It's not a clean place, but still you can take a good rest there.
+Dialogue: 0,0:05:55.67,0:05:57.90,Default,en,0,0,0,,That's right-{\i1}dasu{\i0}! We'll take a rest-{\i1}dasu{\i0}!
+Dialogue: 0,0:06:04.22,0:06:06.01,Default,en,0,0,0,,Mr. Zenigatan, I will leave here.
+Dialogue: 0,0:06:06.62,0:06:10.98,Default,en,0,0,0,,Huh? Aren't you coming to my home? There's no need to decline.
+Dialogue: 0,0:06:11.60,0:06:16.90,Default,en,0,0,0,,I appreciate your suggestion, but I would like to think again about what I have learned during the trip alone in silence.
+Dialogue: 0,0:06:17.94,0:06:21.78,Default,en,0,0,0,,I see. You really are different!
+Dialogue: 0,0:06:21.94,0:06:23.40,Default,en,0,0,0,,Then, excuse me.
+Dialogue: 0,0:06:24.80,0:06:25.90,Default,en,0,0,0,,See ya, Kojirō-!
+Dialogue: 0,0:06:26.44,0:06:28.29,Default,en,0,0,0,,What?! Me?!
+Dialogue: 0,0:06:28.50,0:06:31.34,Default,en,0,0,0,,Right. Guide him Edo Castle.
+Dialogue: 0,0:06:31.54,0:06:37.45,Default,en,0,0,0,,No way! Why do I have to please that Mr. Aburakoji, grandpa?!
+Dialogue: 0,0:06:37.45,0:06:42.28,Default,en,0,0,0,,T- that person is important to you, too. Please do that, will you?
+Dialogue: 0,0:06:44.38,0:06:47.34,Default,en,0,0,0,,Oh, Ms. Senhime, you were here!
+Dialogue: 0,0:06:48.52,0:06:50.48,Default,en,0,0,0,,Then please guide me!
+Dialogue: 0,0:06:58.36,0:07:01.52,Default,en,0,0,0,,M- Ms. Senhime, wait for me! Please walk slower!
+Dialogue: 0,0:07:03.35,0:07:04.22,Default,en,0,0,0,,Wait-
+Dialogue: 0,0:07:08.38,0:07:10.96,Default,en,0,0,0,,W- why?!
+Dialogue: 0,0:07:27.56,0:07:29.72,Default,en,0,0,0,,Tag game is over!
+Dialogue: 0,0:07:30.62,0:07:31.97,Default,en,0,0,0,,Really!
+Dialogue: 0,0:07:38.16,0:07:40.00,Default,en,0,0,0,,Mr. Aburakoji!
+Dialogue: 0,0:07:40.40,0:07:43.06,Default,en,0,0,0,,I don't want to play with you!
+Dialogue: 0,0:07:45.42,0:07:46.52,Default,en,0,0,0,,More...
+Dialogue: 0,0:07:51.70,0:07:53.45,Default,en,0,0,0,,Hey, we're back!
+Dialogue: 0,0:07:53.98,0:07:55.57,Default,en,0,0,0,,Welcome back, dear.
+Dialogue: 0,0:07:57.72,0:07:59.50,Default,en,0,0,0,,It's been a while, Mr. Musashi!
+Dialogue: 0,0:08:00.62,0:08:02.40,Default,en,0,0,0,,Huh? You must be...
+Dialogue: 0,0:08:10.62,0:08:14.16,Default,en,0,0,0,,Are you Ms. Akane? W- why are you here-{\i1}dasu{\i0}?
+Dialogue: 0,0:08:14.30,0:08:18.51,Default,en,0,0,0,,Why, eh? She's my wife!
+Dialogue: 0,0:08:18.94,0:08:20.04,Default,en,0,0,0,,Wife?!
+Dialogue: 0,0:08:21.02,0:08:24.39,Default,en,0,0,0,,So, are you the boss' wife, Ms. Akane?!
+Dialogue: 0,0:08:25.24,0:08:29.06,Default,en,0,0,0,,Thanks to what you did back then. I still appreciate what you did.
+Dialogue: 0,0:08:29.06,0:08:31.26,Default,en,0,0,0,,That's what happened, you know.
+Dialogue: 0,0:08:42.62,0:08:46.62,Note,en,0,0,0,,(in a Kabuki show, one would shout name when one's favorite actor shows up - {\fnMeiryo UI}掛け声{\r}, {\i1}kakegoe{\i0})
+Dialogue: 0,0:08:42.62,0:08:45.08,Default,en,0,0,0,,-Yo! Best in Japan! {\i1}Karakuriya{\i0}!
+Dialogue: 0,0:08:46.62,0:08:50.60,Note,en,0,0,0,,(Usually, hailing the actors is a mean of applauding them; it doesn't cause a nuisance to audiences)
+Dialogue: 0,0:08:48.34,0:08:49.46,Default,en,0,0,0,,Beautiful.
+Dialogue: 0,0:08:54.72,0:08:55.59,Default,en,0,0,0,,Excellent.
+Dialogue: 0,0:08:56.78,0:09:01.40,Note,en,0,0,0,,({\fnMeiryo UI}決まった{\r}, {\i1}kimatta{\i0} is an usual reaction to a peak acting in a Kabuki play, but not his physical action)
+Dialogue: 0,0:08:56.78,0:08:57.72,Default,en,0,0,0,,Definitive!
+Dialogue: 0,0:08:57.90,0:08:59.76,Default,en,0,0,0,,You idiot! You're blocking my sight!
+Dialogue: 0,0:09:00.02,0:09:01.14,Default,en,0,0,0,,Sit down, you dimwit!
+Dialogue: 0,0:09:01.14,0:09:03.60,Default,en,0,0,0,,What is this upward ponytail?!
+Dialogue: 0,0:09:03.60,0:09:05.20,Default,en,0,0,0,,It must be a martial swallow!
+Dialogue: 0,0:09:14.56,0:09:16.19,Default,en,0,0,0,,Something smells tasty-{\i1}dasu{\i0}.
+Dialogue: 0,0:09:16.80,0:09:20.36,Default,en,0,0,0,,Oh, I'm sorry. Were you that hungry?
+Dialogue: 0,0:09:20.88,0:09:23.22,Default,en,0,0,0,,Uh, no, not really...
+Dialogue: 0,0:09:24.06,0:09:24.56,Default,en,0,0,0,,Huh?
+Dialogue: 0,0:09:25.34,0:09:28.67,Default,en,0,0,0,,It's almost done, so keep calm and wait like a good kid.
+Dialogue: 0,0:09:31.24,0:09:33.66,Default,en,0,0,0,,Good kid... is it-{\i1}dasu{\i0}?
+Dialogue: 0,0:09:49.06,0:09:53.19,Default,en,0,0,0,,{\i1}Behave! I have to put my mouth on that later!
+Dialogue: 0,0:09:54.76,0:09:56.69,Default,en,0,0,0,,It was a perfect tea.
+Dialogue: 0,0:09:58.48,0:09:59.96,Default,en,0,0,0,,{\i1}Ugh, that's filthy!
+Dialogue: 0,0:10:02.62,0:10:04.34,Default,en,0,0,0,,{\i1}What should I do?
+Dialogue: 0,0:10:08.76,0:10:09.96,Default,en,0,0,0,,{\i1}This leaves me no choice.
+Dialogue: 0,0:10:11.82,0:10:13.22,Default,en,0,0,0,,A cockroach!
+Dialogue: 0,0:10:14.24,0:10:17.51,Default,en,0,0,0,,Where, where?! I despise cockroaches!
+Dialogue: 0,0:10:24.76,0:10:26.32,Default,en,0,0,0,,Hot, hot!
+Dialogue: 0,0:10:31.16,0:10:34.55,Default,en,0,0,0,,Don't hold back and eat as much as you want, Mr. Musashi!
+Dialogue: 0,0:10:34.55,0:10:37.29,Default,en,0,0,0,,Yeah. Try this too! It's good.
+Dialogue: 0,0:10:37.29,0:10:38.65,Default,en,0,0,0,,Oh, is that so-{\i1}dasu{\i0}...
+Dialogue: 0,0:10:41.24,0:10:43.40,Default,en,0,0,0,,Since you're young, you gotta eat well!
+Dialogue: 0,0:10:43.64,0:10:44.99,Default,en,0,0,0,,Here! Eat some of these too!
+Dialogue: 0,0:10:46.96,0:10:48.80,Default,en,0,0,0,,Thank you-{\i1}dasu{\i0}!
+Dialogue: 0,0:10:49.96,0:10:54.88,Note,en,0,0,0,,(天神, {\i1}tenjin{\i0}: the sky deity in Japanese folk religion Shinto, considered the same with the thunder god)
+Dialogue: 0,0:10:49.96,0:10:54.88,Default,en,0,0,0,,Dear, let's go for the memorial ceremony for the sky deity!
+Dialogue: 0,0:10:54.88,0:10:56.25,Default,en,0,0,0,,Hey, that's a good idea!
+Dialogue: 0,0:10:56.63,0:10:59.14,Default,en,0,0,0,,T- the memorial ceremony?
+Dialogue: 0,0:11:01.26,0:11:05.89,Default,en,0,0,0,,Right. We must pray so that Musashi will become a splendid martial artist!
+Dialogue: 0,0:11:06.14,0:11:09.34,Default,en,0,0,0,,Yeah, that's right! You sure know what to do, Akane!
+Dialogue: 0,0:11:09.60,0:11:12.07,Default,en,0,0,0,,Mr. Musashi, do you like ceremonies?
+Dialogue: 0,0:11:12.76,0:11:14.03,Default,en,0,0,0,,I love them-{\i1}dasu{\i0}!
+Dialogue: 0,0:11:14.32,0:11:17.08,Default,en,0,0,0,,If you say so, I gotta finish this up as soon as possible!
+Dialogue: 0,0:11:18.14,0:11:22.00,Default,en,0,0,0,,It's not good for your body if you hurry like that.
+Dialogue: 0,0:11:22.70,0:11:24.12,Default,en,0,0,0,,It's not good-{\i1}dasu{\i0}!
+Dialogue: 0,0:11:28.80,0:11:32.66,Default,en,0,0,0,,Yes. It's beautiful. Too beautiful that it scares me.
+Dialogue: 0,0:11:50.42,0:11:51.90,Default,en,0,0,0,,You must not let your guards down.
+Dialogue: 0,0:11:51.90,0:11:53.61,NoteOnAnime,en,0,0,50,,Dontaku
+Dialogue: 0,0:11:52.22,0:11:53.14,Default,en,0,0,0,,Understood.
+Dialogue: 0,0:11:57.08,0:11:59.74,Default,en,0,0,0,,What?! Hanzō was alive!
+Dialogue: 0,0:12:00.84,0:12:03.40,Default,en,0,0,0,,Wait for the stormy latter half!
+Dialogue: 0,0:12:03.70,0:12:08.50,Eyecatch,en,0,0,0,,Karakuri Kengouden: Musashi Road
+Dialogue: 0,0:12:21.26,0:12:24.17,Default,en,0,0,0,,What do you think about this, miss? Fried dangos are good, too!
+Dialogue: 0,0:12:25.46,0:12:30.38,Default,en,0,0,0,,All the people around here likes events and ceremonies. By the way, do you want to eat some dangos?
+Dialogue: 0,0:12:30.90,0:12:33.40,Default,en,0,0,0,,Hey, sweet red bean soup is better!
+Dialogue: 0,0:12:33.98,0:12:36.35,Default,en,0,0,0,,I'm already full now-{\i1}dasu{\i0}!
+Dialogue: 0,0:12:36.35,0:12:39.45,Default,en,0,0,0,,No way! Don't want want 2 or 3 lines of dangos in your mouth?
+Dialogue: 0,0:12:39.45,0:12:43.73,Default,en,0,0,0,,Yeah, it's you, Mr. Musashi! That sweet red bean soup tastes good!
+Dialogue: 0,0:12:44.90,0:12:47.81,Default,en,0,0,0,,I want to try both-{\i1}dasu{\i0}!
+Dialogue: 0,0:12:47.81,0:12:50.26,Default,en,0,0,0,,Well, yeah, then! Let's begin with dangos! Follow me!
+Dialogue: 0,0:12:51.32,0:12:54.30,Default,en,0,0,0,,Hey, isn't it you who want that?
+Dialogue: 0,0:12:54.30,0:12:56.92,Default,en,0,0,0,,H- hey! That's same for you!
+Dialogue: 0,0:12:57.44,0:12:58.42,Default,en,0,0,0,,You knew it!
+Dialogue: 0,0:13:07.72,0:13:09.60,Default,en,0,0,0,,No, I'd like that more!
+Dialogue: 0,0:13:12.50,0:13:14.72,Default,en,0,0,0,,Huh? Hey, what's wrong?
+Dialogue: 0,0:13:15.83,0:13:17.72,Default,en,0,0,0,,Does your stomach hurt?
+Dialogue: 0,0:13:18.64,0:13:21.52,Default,en,0,0,0,,You sure about that? Aren't you sick?
+Dialogue: 0,0:13:23.04,0:13:27.30,Default,en,0,0,0,,Mr. Musashi, you don't have to overdo it. If you do feel sick, then tell us.
+Dialogue: 0,0:13:43.39,0:13:46.51,Default,en,0,0,0,,Boss, Ms. Akana, thank you-{\i1}dasu{\i0}!
+Dialogue: 0,0:13:47.16,0:13:49.46,Default,en,0,0,0,,That was so sudden, Mr. Musashi!
+Dialogue: 0,0:13:50.14,0:13:53.97,Default,en,0,0,0,,I do not know how does my mother look ever since I was born-{\i1}dasu{\i0}.
+Dialogue: 0,0:13:56.50,0:14:04.14,Default,en,0,0,0,,I was alone all the time, and only Otsuru became a friend with me-{\i1}dasu{\i0}.
+Dialogue: 0,0:14:05.79,0:14:09.08,Default,en,0,0,0,,I am so grateful for doing all this to me!
+Dialogue: 0,0:14:11.80,0:14:14.14,Default,en,0,0,0,,What is this guy doing in the middle of street?
+Dialogue: 0,0:14:14.34,0:14:16.34,Default,en,0,0,0,,Huh? Are you crying, bro?
+Dialogue: 0,0:14:16.34,0:14:18.62,Default,en,0,0,0,,Isn't this guy just a bumpkin who got lost?
+Dialogue: 0,0:14:18.62,0:14:20.87,Default,en,0,0,0,,Like, {\i1}weh{\i0}, where am I?
+Dialogue: 0,0:14:21.88,0:14:22.87,Default,en,0,0,0,,No doubt about it!
+Dialogue: 0,0:14:29.83,0:14:31.15,Default,en,0,0,0,,What was that for?!
+Dialogue: 0,0:14:31.91,0:14:33.96,Default,en,0,0,0,,Was it that weird, huh?
+Dialogue: 0,0:14:34.86,0:14:39.55,Default,en,0,0,0,,Is someone crying that strange? You sure have a big mouth, you know.
+Dialogue: 0,0:14:39.76,0:14:42.93,Default,en,0,0,0,,Your erected uvula is giving trouble to people!
+Dialogue: 0,0:14:43.18,0:14:45.89,Default,en,0,0,0,,If you can't handle your big mouth, should I fasten your lips?
+Dialogue: 0,0:14:46.11,0:14:48.60,Default,en,0,0,0,,Zenigatan sir! I didn't recognize you...
+Dialogue: 0,0:14:49.16,0:14:52.07,Default,en,0,0,0,,I won't forgive you again if you ever say something like that again, you bastard!
+Dialogue: 0,0:14:52.24,0:14:54.20,Default,en,0,0,0,,I apologize! Sorry!
+Dialogue: 0,0:14:54.20,0:14:55.24,Default,en,0,0,0,,Wait for me!
+Dialogue: 0,0:14:57.86,0:15:01.06,Default,en,0,0,0,,I'm sorry for that.
+Dialogue: 0,0:15:02.52,0:15:07.86,Default,en,0,0,0,,Mr. Musashi, if you could, you can stay in our home as long as you want. Right, dear?
+Dialogue: 0,0:15:08.30,0:15:14.47,Default,en,0,0,0,,Of course, why not? If you'd like, you can call me dad, you know!
+Dialogue: 0,0:15:15.38,0:15:16.93,Default,en,0,0,0,,I'm mom, then.
+Dialogue: 0,0:15:17.40,0:15:18.39,Default,en,0,0,0,,Boss...
+Dialogue: 0,0:15:24.58,0:15:26.70,Default,en,0,0,0,,I'm happy-{\i1}dasu{\i0}!
+Dialogue: 0,0:16:19.04,0:16:21.63,Default,en,0,0,0,,This will do. Forgive me, grandpa!
+Dialogue: 0,0:16:22.16,0:16:22.87,Default,en,0,0,0,,Bye-bye!
+Dialogue: 0,0:16:41.26,0:16:43.18,Default,en,0,0,0,,Finally we got rid of Senhime!
+Dialogue: 0,0:16:55.82,0:16:56.71,Default,en,0,0,0,,Senhime!
+Dialogue: 0,0:17:00.60,0:17:01.24,Default,en,0,0,0,,Who's there?!
+Dialogue: 0,0:17:03.68,0:17:06.22,Default,en,0,0,0,,Invaders! Everyone gather!
+Dialogue: 0,0:17:15.00,0:17:16.93,Default,en,0,0,0,,Hanzō! Were you alive?!
+Dialogue: 0,0:17:17.66,0:17:19.71,Default,en,0,0,0,,I told you I am invincible.
+Dialogue: 0,0:17:24.71,0:17:27.76,Default,en,0,0,0,,Do not let him leave the castle! Get him!
+Dialogue: 0,0:17:32.10,0:17:34.57,Default,en,0,0,0,,Musashi! Musashi!
+Dialogue: 0,0:17:40.11,0:17:41.99,Default,en,0,0,0,,Who's there, in this deep night?
+Dialogue: 0,0:17:43.07,0:17:45.80,Default,en,0,0,0,,Y- you escaped from the castle?!
+Dialogue: 0,0:17:46.95,0:17:48.74,Default,en,0,0,0,,That's a mess-{\i1}dasu{\i0}!
+Dialogue: 0,0:17:49.28,0:17:53.58,Default,en,0,0,0,,Whatever! It's too late now! Let's go on a trip again together!
+Dialogue: 0,0:17:53.75,0:17:59.39,Default,en,0,0,0,,-Uh, you know, Hime...\N-I've made a decision. Castle life is boring and stifling!
+Dialogue: 0,0:17:59.83,0:18:01.58,Default,en,0,0,0,,And marriage with that guy?!
+Dialogue: 0,0:18:05.10,0:18:07.56,Default,en,0,0,0,,Even thinking about him is gross.
+Dialogue: 0,0:18:07.79,0:18:10.63,Default,en,0,0,0,,He didn't look like a bad guy-{\i1}dasu{\i0}...
+Dialogue: 0,0:18:10.79,0:18:13.18,Default,en,0,0,0,,Then you go marry him!
+Dialogue: 0,0:18:14.34,0:18:18.08,Default,en,0,0,0,,-Boss! This is bad! S- Senhime is...\N-not there!
+Dialogue: 0,0:18:18.34,0:18:19.39,Default,en,0,0,0,,You're here?
+Dialogue: 0,0:18:30.15,0:18:31.25,Default,en,0,0,0,,Hey, Kojirō!
+Dialogue: 0,0:18:33.46,0:18:35.00,Default,en,0,0,0,,Oh, Senhime!
+Dialogue: 0,0:18:45.40,0:18:47.03,Default,en,0,0,0,,Hey, it's hard to walk here-{\i1}dasu{\i0}!
+Dialogue: 0,0:18:47.03,0:18:49.64,Default,en,0,0,0,,I am more than enough for the guard of Senhime!
+Dialogue: 0,0:18:52.64,0:18:54.35,Default,en,0,0,0,,Grandpa!
+Dialogue: 0,0:18:54.88,0:18:56.38,Default,en,0,0,0,,Oh, Hime!
+Dialogue: 0,0:18:59.08,0:19:05.56,Default,en,0,0,0,,-It's good to know that you're safe!\N-I was worried about you since your coverlet was empty!
+Dialogue: 0,0:19:05.68,0:19:07.95,Default,en,0,0,0,,I'm sorry, but you know...
+Dialogue: 0,0:19:08.30,0:19:16.22,Default,en,0,0,0,,What a relief! I worried so much! Everyone, protect my princess properly!
+Dialogue: 0,0:19:17.28,0:19:19.07,Default,en,0,0,0,,Who's your princess?!
+Dialogue: 0,0:19:19.07,0:19:21.67,Default,en,0,0,0,,That will nonetheless eventually happen.
+Dialogue: 0,0:19:22.36,0:19:24.50,Default,en,0,0,0,,And you know that.
+Dialogue: 0,0:19:25.07,0:19:27.30,Default,en,0,0,0,,Feudal lord! Senhime is safe.
+Dialogue: 0,0:19:27.72,0:19:30.15,Default,en,0,0,0,,Great. Did you find Hanzō yet?
+Dialogue: 0,0:19:30.59,0:19:34.43,Default,en,0,0,0,,Not yet, but I will find him no matter what.
+Dialogue: 0,0:19:34.80,0:19:40.54,Default,en,0,0,0,,Really, trying to take over the country instead of me is unforgivable!
+Dialogue: 0,0:19:41.40,0:19:46.32,Default,en,0,0,0,,Yessir! I, Jūbee, will protect your life risking my own body!
+Dialogue: 0,0:19:51.82,0:19:58.25,Default,en,0,0,0,,It's surprising that Hanzō's still alive-{\i1}dasu{\i0}, but with this level of guard in place, he's really gonna be done for this time-{\i1}dasu{\i0}.
+Dialogue: 0,0:19:58.25,0:20:01.13,Default,en,0,0,0,,You must not look down of Hanzō.
+Dialogue: 0,0:20:13.52,0:20:14.63,Default,en,0,0,0,,There's nobody here.
+Dialogue: 0,0:20:20.94,0:20:21.81,Default,en,0,0,0,,You bastard!
+Dialogue: 0,0:20:29.20,0:20:30.16,Default,en,0,0,0,,Grandpa!
+Dialogue: 0,0:20:30.87,0:20:32.82,Default,en,0,0,0,,I'm scared!
+Dialogue: 0,0:20:33.10,0:20:34.68,Default,en,0,0,0,,That's Jūbee I know.
+Dialogue: 0,0:20:36.99,0:20:37.80,Default,en,0,0,0,,Hanzō!
+Dialogue: 0,0:20:38.62,0:20:41.08,Default,en,0,0,0,,Ieyasu, I will take your life!
+Dialogue: 0,0:20:57.55,0:20:58.73,Default,en,0,0,0,,Take one more!
+Dialogue: 0,0:21:07.47,0:21:08.32,Default,en,0,0,0,,Damn!
+Dialogue: 0,0:21:10.10,0:21:11.75,Default,en,0,0,0,,Hanzō! You aren't getting away-{\i1}dasu{\i0}!
+Dialogue: 0,0:21:12.46,0:21:15.24,Default,en,0,0,0,,Tch! That's all for today!
+Dialogue: 0,0:21:16.47,0:21:18.12,Default,en,0,0,0,,Get him! He ran to outside!
+Dialogue: 0,0:21:19.86,0:21:22.38,Default,en,0,0,0,,You bastard! You aren't getting away!
+Dialogue: 0,0:21:25.28,0:21:30.24,Default,en,0,0,0,,Anyway, the one in Hanzō's breast width has a suspicious plan written on it.
+Dialogue: 0,0:21:30.82,0:21:37.02,Note,en,0,0,0,,(Saikai-do: lit. West Sea Circuit. \NThese administrative districts were used before Muromachi Era.\NShiranui: Atmospheric ghost light told in Kyūshū)
+Dialogue: 0,0:21:30.82,0:21:33.91,Default,en,0,0,0,,Shiranui clan in the kingdom of Saikai?
+Dialogue: 0,0:21:34.58,0:21:37.02,Default,en,0,0,0,,Well then! Am I good to go, grandpa?
+Dialogue: 0,0:21:37.02,0:21:40.62,Default,en,0,0,0,,Uh, but... no matter what, Kyushu is far away.
+Dialogue: 0,0:21:40.62,0:21:42.38,Default,en,0,0,0,,If you say no, then I'll leave home!
+Dialogue: 0,0:21:42.79,0:21:44.07,Default,en,0,0,0,,What?! Leave home?!
+Dialogue: 0,0:21:44.54,0:21:46.76,Default,en,0,0,0,,That's bad...
+Dialogue: 0,0:21:47.52,0:21:54.03,Default,en,0,0,0,,Feudal lord, Senhime has become familiar with long trips, and as long as Mr. Kojirō and Mr. Musashi as her guards...
+Dialogue: 0,0:21:55.84,0:22:00.83,Default,en,0,0,0,,Well, that's right. Senhime never listen to me no matter what I say.
+Dialogue: 0,0:22:01.03,0:22:02.12,Default,en,0,0,0,,Yes!
+Dialogue: 0,0:22:04.70,0:22:08.60,Default,en,0,0,0,,And that's how their journey full of incident has begun once again.
+Dialogue: 0,0:22:09.50,0:22:14.47,Default,en,0,0,0,,What kind of wonderful man would be in the kingdom of Saikai?
+Dialogue: 0,0:22:14.95,0:22:19.51,Default,en,0,0,0,,The hunter of love Senhime is growing restless in her trip to Kyushu.
+Dialogue: 0,0:22:40.74,0:22:42.78,SongED1,en,0,0,0,,Sometimes the moon jumps over
+Dialogue: 0,0:22:43.47,0:22:46.03,SongED1,en,0,0,0,,the pocket of empty sky
+Dialogue: 0,0:22:46.24,0:22:48.41,SongED1,en,0,0,0,,Laugh loudly and
+Dialogue: 0,0:22:49.04,0:22:51.03,SongED1,en,0,0,0,,morning will come tomorrow
+Dialogue: 0,0:22:51.78,0:22:56.37,SongED1,en,0,0,0,,Don't worry too much about losing
+Dialogue: 0,0:22:57.37,0:22:59.96,SongED1,en,0,0,0,,Keep going! Go for it!
+Dialogue: 0,0:22:59.96,0:23:02.38,SongED1,en,0,0,0,,A bare hand is strong
+Dialogue: 0,0:23:02.79,0:23:12.47,SongED1,en,0,0,0,,That's how it is! Let's go lightly
+Dialogue: 0,0:23:12.93,0:23:20.52,SongED1,en,0,0,0,,That's how life is! Look, a chance
+Dialogue: 0,0:23:20.98,0:23:25.23,SongED1,en,0,0,0,,follows us wagging its tail!
+Dialogue: 0,0:23:26.65,0:23:36.16,SongED1,en,0,0,0,,That's how it is! Let's go lightly
+Dialogue: 0,0:23:36.66,0:23:44.63,SongED1,en,0,0,0,,That's how the future is, too! Look, tomorrow
+Dialogue: 0,0:23:44.87,0:23:50.47,SongED1,en,0,0,0,,is opening its hands and smiling at us!
+Dialogue: 0,0:24:04.06,0:24:07.96,Default,en,0,0,0,,Just because I entered dango quick eating contest I fought with Kojirō,
+Dialogue: 0,0:24:07.96,0:24:11.39,Default,en,0,0,0,,Osenchan was taken by Shiranui clan, and it's a mess!
+Dialogue: 0,0:24:11.68,0:24:15.10,Default,en,0,0,0,,At that moment, I met Mr. Saigo and Mr. Ryoma who I didn't see for a long time-{\i1}dasu{\i0}!
+Dialogue: 0,0:24:15.46,0:24:19.02,Default,en,0,0,0,,Osenchan, wait for me! I'm going to rescue you-{\i1}dasu{\i0}!
+Dialogue: 0,0:24:19.51,0:24:22.12,Default,en,0,0,0,,Next story! Mr. Saigo is a Mysterious Person
+Dialogue: 0,0:24:22.28,0:24:25.42,Note,en,0,0,0,,(翔ぶが如く, {\i1}Tobu ga Gotoku{\i0}: lit. {\i1}as if in flight{\i0}. Historical fiction written by Shiba Ryōtaro, where one of main character is Saigō Takamori)
+Dialogue: 0,0:24:22.28,0:24:25.42,Default,en,0,0,0,,It's a stormy {\i1}Tobu ga Gotoku{\i0}-{\i1}dasu{\i0}!
+Dialogue: 0,0:24:25.42,0:24:30.17,NoteOnAnime,en,60,0,60,,{\an7}Next Episode
+Dialogue: 0,0:24:25.42,0:24:30.17,TitleEP,en,0,0,225,,Mr. Saigo is
+Dialogue: 0,0:24:25.42,0:24:30.17,TitleEP,en,0,0,110,,a Mysterious Person
+Dialogue: 0,0:24:25.42,0:24:30.17,NoteOnAnime,en,0,60,30,,{\an3\fs32}Look forwards for it!

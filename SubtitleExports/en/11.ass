@@ -1,0 +1,363 @@
+﻿[Script Info]
+Title: Raid into the Martial Arts Competition
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 480
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: NoteOnAnime,Candara,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,10,1
+Style: SongOP,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: TitleOP,DejaVu Serif,42,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: TitleEP,DejaVu Serif,42,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: SongED1,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: Note,Candara,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,10,10,10,1
+Style: Eyecatch,Candara,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,10,10,10,1
+Style: NoteOnAnimeVert,@맑은 고딕,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.28,0:00:06.51,Default,en,0,0,0,,It is the turbulent Sengoku period.
+Dialogue: 0,0:00:06.92,0:00:11.74,Default,en,0,0,0,,Warlords keep on fighting day and night over\NJipangu State, where Karakuri people live.
+Dialogue: 0,0:00:11.74,0:00:16.70,Default,en,0,0,0,,Karakuri martial artists were sharpening their swords, dreaming of victory and honor.
+Dialogue: 0,0:00:16.70,0:00:23.17,Default,en,0,0,0,,And now, a wild hero has arrived, seeking to be the number one Karakuri martial artist!
+Dialogue: 0,0:00:24.31,0:00:26.84,Default,en,0,0,0,,Musashi is here-{\i1}dasu{\i0}!
+Dialogue: 0,0:00:27.98,0:00:33.16,TitleOP,en,0,0,40,,{\an8\fs32\fade(770,0)}Karakuri Kengouden
+Dialogue: 0,0:00:27.98,0:00:33.16,TitleOP,en,0,0,40,,{\fade(770,0)}Musashi Road
+Dialogue: 0,0:00:27.98,0:00:33.16,TitleOP,en,0,0,40,,{\fs24\fade(770,0)}(The Story of {\i1}Karakuri{\i0} Martial Artist: Road of Musashi)
+Dialogue: 0,0:00:33.16,0:00:38.00,SongOP,en,0,0,0,,A man always dreams of the day
+Dialogue: 0,0:00:38.83,0:00:41.75,SongOP,en,0,0,0,,in the center of the world to become
+Dialogue: 0,0:00:41.75,0:00:44.63,SongOP,en,0,0,0,,AH! AH! the strongest
+Dialogue: 0,0:00:44.63,0:00:49.67,SongOP,en,0,0,0,,Raise the sword of your heart high to the wide sky
+Dialogue: 0,0:00:50.30,0:00:54.30,SongOP,en,0,0,0,,Raise the curtain to the road of adventure
+Dialogue: 0,0:00:55.64,0:01:00.89,SongOP,en,0,0,0,,A skilled swordsman roams on Jipangu State
+Dialogue: 0,0:01:01.48,0:01:06.52,SongOP,en,0,0,0,,His name is Musashi, a Karakuri man
+Dialogue: 0,0:01:06.52,0:01:08.03,SongOP,en,0,0,0,,Go! Fight!
+Dialogue: 0,0:01:08.03,0:01:10.95,SongOP,en,0,0,0,,The sound of fierce duels
+Dialogue: 0,0:01:10.95,0:01:13.78,SongOP,en,0,0,0,,makes life dazzling
+Dialogue: 0,0:01:13.78,0:01:19.25,SongOP,en,0,0,0,,Battles of yesterdays make you stronger today
+Dialogue: 0,0:01:19.29,0:01:25.50,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
+Dialogue: 0,0:01:25.50,0:01:28.50,SongOP,en,0,0,0,,Tomorrow will be glorious
+Dialogue: 0,0:01:28.50,0:01:30.97,SongOP,en,0,0,0,,The sound of fierce duels
+Dialogue: 0,0:01:30.97,0:01:33.47,SongOP,en,0,0,0,,makes life dazzling
+Dialogue: 0,0:01:34.18,0:01:39.56,SongOP,en,0,0,0,,Fight the utmost with the stillness
+Dialogue: 0,0:01:39.60,0:01:45.81,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
+Dialogue: 0,0:01:45.81,0:01:51.07,SongOP,en,0,0,0,,His eyes shined! Musashi!
+Dialogue: 0,0:02:00.01,0:02:04.57,Default,en,0,0,0,,Musashi finally made it to Edotopia, but he was caught and jailed by Zenigatan.
+Dialogue: 0,0:02:04.80,0:02:09.17,Default,en,0,0,0,,His innocence was proven at last and he ran to Edo Castle,
+Dialogue: 0,0:02:09.46,0:02:13.13,Default,en,0,0,0,,but he was too late and Edo Castle's doors were already closed.
+Dialogue: 0,0:02:13.27,0:02:18.24,Default,en,0,0,0,,Will Musashi be able to participate in the martial arts competition?
+Dialogue: 0,0:02:18.39,0:02:23.39,TitleEP,en,0,0,220,,Raid into
+Dialogue: 0,0:02:18.39,0:02:23.39,TitleEP,en,0,0,90,,the Martial Arts Competition
+Dialogue: 0,0:02:23.39,0:02:29.36,NoteOnAnime,en,0,0,0,,{\fs32\an5\fay-0.13\move(768,60,81,70)\bord5\c&H000000&\3c&HF1F7F8&}Jipangu Martial Arts Competition
+Dialogue: 0,0:02:29.36,0:02:33.36,NoteOnAnime,en,0,0,0,,Ieyasu
+Dialogue: 0,0:02:35.82,0:02:39.47,Default,en,0,0,0,,Finally! I am Musashi, from Miyamoto village!
+Dialogue: 0,0:02:39.85,0:02:40.79,Default,en,0,0,0,,A match!
+Dialogue: 0,0:02:41.43,0:02:43.37,Default,en,0,0,0,,Benkei appears!
+Dialogue: 0,0:02:53.63,0:02:55.60,Default,en,0,0,0,,It's the Miyamoto watermelon cutting technique-{\i1}dasu{\i0}!
+Dialogue: 0,0:02:56.53,0:02:57.47,Default,en,0,0,0,,I lost!
+Dialogue: 0,0:02:58.55,0:03:00.25,Default,en,0,0,0,,Baiken! Here I go!
+Dialogue: 0,0:03:06.13,0:03:08.52,Default,en,0,0,0,,It's the Miyamoto daikon cutting technique-{\i1}dasu{\i0}!
+Dialogue: 0,0:03:09.19,0:03:10.93,Default,en,0,0,0,,Musashi, you're awesome!
+Dialogue: 0,0:03:11.93,0:03:13.65,Default,en,0,0,0,,Leave it to me-{\i1}dasu{\i0}!
+Dialogue: 0,0:03:14.29,0:03:16.41,Default,en,0,0,0,,How unsightly is your ogling!
+Dialogue: 0,0:03:16.82,0:03:20.74,Default,en,0,0,0,,Oh, my rival Kojirō! I'll finish you as of today-{\i1}dasu{\i0}!
+Dialogue: 0,0:03:20.91,0:03:22.76,Default,en,0,0,0,,You're 10 years early to say that!
+Dialogue: 0,0:03:22.96,0:03:24.81,Default,en,0,0,0,,Look! Secret Sword Tsubamegaeshi!
+Dialogue: 0,0:03:25.03,0:03:26.65,Default,en,0,0,0,,Huh?! It's a UFO-{\i1}dasu{\i0}.
+Dialogue: 0,0:03:27.00,0:03:27.45,Default,en,0,0,0,,Huh?
+Dialogue: 0,0:03:28.73,0:03:30.60,Default,en,0,0,0,,It's the Miyamoto burdock cutting technique-{\i1}dasu{\i0}!
+Dialogue: 0,0:03:30.93,0:03:32.05,Default,en,0,0,0,,Idi...ot...
+Dialogue: 0,0:03:32.34,0:03:35.56,Default,en,0,0,0,,The match is over! Musashi from Miyamoto village wins the championship!
+Dialogue: 0,0:03:39.05,0:03:43.77,Default,en,0,0,0,,As of now, I'm the number one of Jipangu-{\i1}dasu{\i0}! Otsuru, be happy-{\i1}dasu{\i0}!
+Dialogue: 0,0:03:44.14,0:03:45.64,Default,en,0,0,0,,I'm happy!
+Dialogue: 0,0:03:48.56,0:03:51.40,Default,en,0,0,0,,Musashi, wake up! Musashi!
+Dialogue: 0,0:03:52.12,0:03:53.88,Default,en,0,0,0,,It's not the time to be sleeping.
+Dialogue: 0,0:03:54.35,0:03:55.91,Default,en,0,0,0,,Aren't you joining to the competition?
+Dialogue: 0,0:03:57.25,0:03:58.85,Default,en,0,0,0,,Otsuru!
+Dialogue: 0,0:03:59.86,0:04:00.87,Default,en,0,0,0,,Ah, right!
+Dialogue: 0,0:04:04.39,0:04:07.00,Default,en,0,0,0,,Boss Zenigatan, I am indebted-{\i1}dasu{\i0}.
+Dialogue: 0,0:04:07.81,0:04:09.12,Default,en,0,0,0,,See you later-{\i1}dasu{\i0}.
+Dialogue: 0,0:04:09.27,0:04:10.82,Default,en,0,0,0,,Wait for a moment!
+Dialogue: 0,0:04:11.16,0:04:14.36,Default,en,0,0,0,,No use stopping me-{\i1}dasu{\i0}. To become the number one swordsman of Jipangu...
+Dialogue: 0,0:04:14.82,0:04:15.30,Default,en,0,0,0,,Huh?
+Dialogue: 0,0:04:15.53,0:04:17.13,Default,en,0,0,0,,Your swords are here.
+Dialogue: 0,0:04:17.64,0:04:20.47,Default,en,0,0,0,,Heh, I lost-{\i1}dasu{\i0}!
+Dialogue: 0,0:04:20.51,0:04:22.52,Default,en,0,0,0,,Before the competition, you gotta be full first.
+Dialogue: 0,0:04:26.76,0:04:28.98,Default,en,0,0,0,,This is an awesome meal-{\i1}dasu{\i0}!
+Dialogue: 0,0:04:29.65,0:04:33.14,Default,en,0,0,0,,Take this as an apology, for throwing you into a prison.
+Dialogue: 0,0:04:33.40,0:04:35.60,Default,en,0,0,0,,Heh, an apology!
+Dialogue: 0,0:04:36.52,0:04:37.52,Default,en,0,0,0,,I'm embarrassed-{\i1}dasu{\i0}!
+Dialogue: 0,0:04:37.76,0:04:43.03,Default,en,0,0,0,,I am truly sorry for holding you stubbornly and making you fail to register for the competition.
+Dialogue: 0,0:04:43.40,0:04:47.54,Default,en,0,0,0,,It's alright-{\i1}dasu{\i0}. Something will happen-{\i1}dasu{\i0}. I'll ask them-{\i1}dasu{\i0}!
+Dialogue: 0,0:04:47.64,0:04:51.13,Default,en,0,0,0,,Anyway, do your best for the championship in the martial arts competition!
+Dialogue: 0,0:04:51.94,0:04:53.30,Default,en,0,0,0,,Thank you for the meal!
+Dialogue: 0,0:04:56.34,0:04:57.83,Default,en,0,0,0,,Here! Have this!
+Dialogue: 0,0:05:01.30,0:05:02.67,Default,en,0,0,0,,What's this?
+Dialogue: 0,0:05:02.77,0:05:05.93,Default,en,0,0,0,,It's a viper drink that has the power of 100 people.
+Dialogue: 0,0:05:06.05,0:05:07.65,Default,en,0,0,0,,Vi- vi- viper drink?!
+Dialogue: 0,0:05:08.50,0:05:10.89,Default,en,0,0,0,,Feeling it! I'm feeling it! I'm feeling it right now-{\i1}dasu{\i0}!
+Dialogue: 0,0:05:14.47,0:05:16.72,Default,en,0,0,0,,I look forward for your victory!
+Dialogue: 0,0:05:16.86,0:05:20.78,Default,en,0,0,0,,It burns-{\i1}dasu{\i0}! It boils-{\i1}dasu{\i0}! It explodes-{\i1}dasu{\i0}!
+Dialogue: 0,0:05:27.50,0:05:28.40,Default,en,0,0,0,,Stop!
+Dialogue: 0,0:05:28.68,0:05:31.15,Default,en,0,0,0,,I'm in a hurry-{\i1}dasu{\i0}. Move away-{\i1}dasu{\i0}!
+Dialogue: 0,0:05:31.48,0:05:35.90,Default,en,0,0,0,,This is the office of General Ieyasu. It's not a place for a kid to come!
+Dialogue: 0,0:05:36.34,0:05:40.58,Default,en,0,0,0,,No, that's not it! I am Musashi, a Martial Artist from Miyamoto village-{\i1}dasu{\i0}!
+Dialogue: 0,0:05:41.29,0:05:46.04,Default,en,0,0,0,,I am going to participate in Jipangu Martial Arts Competition of General Ieyasu-{\i1}dasu{\i0}! Where do I register-{\i1}dasu{\i0}?
+Dialogue: 0,0:05:48.77,0:05:50.04,Default,en,0,0,0,,What's so funny-{\i1}dasu{\i0}?!
+Dialogue: 0,0:05:50.98,0:05:56.10,Default,en,0,0,0,,Hey, registration for the martial arts competition was yesterday. The first preliminary contest is already over.
+Dialogue: 0,0:05:56.23,0:06:00.47,Default,en,0,0,0,,I know-{\i1}dasu{\i0}. But I couldn't register yesterday because I was slightly late-{\i1}dasu{\i0}!
+Dialogue: 0,0:06:00.69,0:06:03.00,Default,en,0,0,0,,Then come again, in next year.
+Dialogue: 0,0:06:03.18,0:06:05.32,Default,en,0,0,0,,I can't wait until next year-{\i1}dasu{\i0}!
+Dialogue: 0,0:06:06.33,0:06:08.11,Default,en,0,0,0,,Please! I'll give you 10 mons-{\i1}dasu{\i0}.
+Dialogue: 0,0:06:08.92,0:06:13.21,Default,en,0,0,0,,What? Are you trying to bribe us working under the shōgun?
+Dialogue: 0,0:06:13.51,0:06:16.39,Default,en,0,0,0,,Go back! If you don't go back, we'll call the police!
+Dialogue: 0,0:06:17.05,0:06:21.07,Default,en,0,0,0,,Bro! I'll make hundreds of funny faces, so cheer up-{\i1}dasu{\i0}!
+Dialogue: 0,0:06:23.37,0:06:27.49,Default,en,0,0,0,,Whatever you do, they are futile! Leave right now!
+Dialogue: 0,0:06:27.64,0:06:29.72,Default,en,0,0,0,,Don't say that... Look! Mimicry!
+Dialogue: 0,0:06:29.89,0:06:31.39,Default,en,0,0,0,,Handstanding! Look!
+Dialogue: 0,0:06:32.22,0:06:33.60,Default,en,0,0,0,,We told you to go back, and we mean it!
+Dialogue: 0,0:06:34.27,0:06:38.06,Default,en,0,0,0,,I get it-{\i1}dasu{\i0}! I'm going to enter the competition by force-{\i1}dasu{\i0}!
+Dialogue: 0,0:06:38.17,0:06:41.64,Default,en,0,0,0,,What? Defiance against the shōgun is a ground for decapitation. Go back!
+Dialogue: 0,0:06:41.85,0:06:45.38,Default,en,0,0,0,,Decapitated?! My dream that I risked my life for...
+Dialogue: 0,0:06:51.02,0:06:56.05,Default,en,0,0,0,,I endured the hunger and practiced through all the hardships for this day and...
+Dialogue: 0,0:06:56.19,0:06:57.73,Default,en,0,0,0,,You're cruel-{\i1}dasu{\i0}!
+Dialogue: 0,0:07:13.14,0:07:16.23,Default,en,0,0,0,,How noisy! Do something with that!
+Dialogue: 0,0:07:17.94,0:07:19.80,Default,en,0,0,0,,What are you doing-{\i1}dasu{\i0}?!
+Dialogue: 0,0:07:23.72,0:07:26.78,Default,en,0,0,0,,Damn! Remember this...
+Dialogue: 0,0:07:26.78,0:07:31.74,NoteOnAnime,en,0,0,0,,{\move(326,134,326,-480,980,3980)\q2\frz-90\an4\fs70\pos(326,134)\c&H000000&\3c&HCED5C8&\bord12}Fifth Preliminary Contest Place
+Dialogue: 0,0:07:31.74,0:07:33.76,NoteOnAnime,en,0,0,0,,{\move(326,-480, 760, -480)\q2\frz-90\an4\fs70\pos(326,134)\c&H000000&\3c&HCED5C8&\bord12}Fifth Preliminary Contest Place
+Dialogue: 0,0:07:27.56,0:07:31.14,Default,en,0,0,0,,Preliminary contest places were placed in 7 different areas of Edotopia,
+Dialogue: 0,0:07:31.32,0:07:34.99,Default,en,0,0,0,,and martial artists from different places were doing their best.
+Dialogue: 0,0:07:41.70,0:07:43.54,Default,en,0,0,0,,I- I lost!
+Dialogue: 0,0:07:43.96,0:07:46.63,Default,en,0,0,0,,Match set! Jūbee wins!
+Dialogue: 0,0:07:51.33,0:07:55.06,Default,en,0,0,0,,-Master...\N-I guess he's not here too.
+Dialogue: 0,0:07:55.24,0:07:58.21,Default,en,0,0,0,,Could it be that something happened to Musashi after all...?
+Dialogue: 0,0:07:58.48,0:08:04.28,Default,en,0,0,0,,Unlikely. There are 7 places in total. We have two more to check out, so don't worry.
+Dialogue: 0,0:08:04.85,0:08:09.74,Default,en,0,0,0,,-Then, to the next place!\N-Sure. We'll find him in the next place.
+Dialogue: 0,0:08:10.39,0:08:11.32,Default,en,0,0,0,,Musashi...
+Dialogue: 0,0:08:12.74,0:08:18.52,Default,en,0,0,0,,Extra! Extra! At the third preliminary place, Kojirō took down three opponents with his Tsubamegaeshi!
+Dialogue: 0,0:08:18.89,0:08:22.75,Default,en,0,0,0,,-He's so handsome!\N-So cool! He's totally my type!
+Dialogue: 0,0:08:23.03,0:08:24.84,Default,en,0,0,0,,Mr. Kojirō!
+Dialogue: 0,0:08:26.07,0:08:26.92,Default,en,0,0,0,,Kojirō?
+Dialogue: 0,0:08:27.83,0:08:29.83,Default,en,0,0,0,,It's a water monster!
+Dialogue: 0,0:08:31.57,0:08:33.36,Default,en,0,0,0,,I'm not a water monster-{\i1}dasu{\i0}.
+Dialogue: 0,0:08:36.79,0:08:41.46,Default,en,0,0,0,,Appeared with his secret sword Tsubamegaeshi like a comet in the first martial arts competition,
+Dialogue: 0,0:08:41.46,0:08:43.35,Default,en,0,0,0,,Kojirō is a genius martial artist...
+Dialogue: 0,0:08:44.66,0:08:46.58,Default,en,0,0,0,,Secret sword! Tsubamegaeshi!
+Dialogue: 0,0:08:47.28,0:08:50.24,Default,en,0,0,0,,So cool! Kojirō!
+Dialogue: 0,0:08:51.09,0:08:56.36,Default,en,0,0,0,,As one of the promising champion candidates, he is popular among the women in Edotopia.
+Dialogue: 0,0:08:57.93,0:09:01.59,Default,en,0,0,0,,Something must be wrong, to call that unsightly bastard a champion candidate-{\i1}dasu{\i0}!
+Dialogue: 0,0:09:04.97,0:09:09.33,Default,en,0,0,0,,-Look, look! How silly!\N-His face and look are all uncool!
+Dialogue: 0,0:09:10.13,0:09:11.38,Default,en,0,0,0,,Shut up-{\i1}dasu{\i0}!
+Dialogue: 0,0:09:11.48,0:09:14.10,Default,en,0,0,0,,{\i1}dasu{\i0}? Uncool!
+Dialogue: 0,0:09:15.37,0:09:19.38,Default,en,0,0,0,,I won't forgive any more insult-{\i1}dasu{\i0}! I'll spank you-{\i1}dasu{\i0}!
+Dialogue: 0,0:09:21.30,0:09:24.25,Default,en,0,0,0,,He's an idiot after all!
+Dialogue: 0,0:09:24.66,0:09:27.67,Default,en,0,0,0,,This is enough-{\i1}dasu{\i0}...
+Dialogue: 0,0:09:27.86,0:09:27.94,NoteOnAnime,en,0,0,0,,{\pos(0,0)\an7\p1\c&HB7C8C7&\bord1\clip(m 512.27 151.64 l 565 124.91 555 84 500 80)}m 520 310 l 548 310 548 90 520 90
+Dialogue: 0,0:09:27.86,0:09:27.94,NoteOnAnime,en,0,0,0,,{\fs18\frz-90\an4\pos(534,100)\clip(m 513 156 l 565 130 526 57)\bord0\bord0\c1&H000000&}Sixth Preliminary Contest Place
+Dialogue: 0,0:09:27.94,0:09:32.82,NoteOnAnime,en,0,0,0,,{\pos(0,0)\an7\p1\clip(489,76,573,247)\t(100,100,\clip(0,0,640,480))\c&HB7C8C7&\bord1}m 520 310 l 548 310 548 90 520 90
+Dialogue: 0,0:09:27.94,0:09:32.82,NoteOnAnime,en,0,0,0,,{\fs18\frz-90\an4\pos(534,100)\clip(489,76,572.74,246.91)\t(100,100,\clip(0,0,640,480))\bord0\c1&H000000&}Sixth Preliminary Contest Place
+Dialogue: 0,0:09:32.82,0:09:36.04,Default,en,0,0,0,,Huh, there's a small castle in this place too-{\i1}dasu{\i0}.
+Dialogue: 0,0:09:36.25,0:09:38.49,Default,en,0,0,0,,This is what Edotopia is like-{\i1}dasu{\i0}...
+Dialogue: 0,0:09:39.17,0:09:42.06,Default,en,0,0,0,,Uh, who lives in this castle-{\i1}dasu{\i0}?
+Dialogue: 0,0:09:42.82,0:09:47.40,Default,en,0,0,0,,What are you talking about? This is one of the preliminary place of Jipangu Martial Arts Competition!
+Dialogue: 0,0:09:47.65,0:09:49.49,Default,en,0,0,0,,Oh, that's good to know-{\i1}dasu{\i0}!
+Dialogue: 0,0:09:49.63,0:09:51.34,Default,en,0,0,0,,Hey, now, where are you going to?
+Dialogue: 0,0:09:51.49,0:09:54.90,Default,en,0,0,0,,It's obvious-{\i1}dasu{\i0}! I'm competing in the martial arts competition-{\i1}dasu{\i0}.
+Dialogue: 0,0:09:55.47,0:09:57.18,Default,en,0,0,0,,Then show me the voucher.
+Dialogue: 0,0:09:57.97,0:10:00.39,Default,en,0,0,0,,Voucher? What's that-{\i1}dasu{\i0}?
+Dialogue: 0,0:10:01.00,0:10:04.27,Default,en,0,0,0,,You should have received one from the registration!
+Dialogue: 0,0:10:04.58,0:10:07.15,Default,en,0,0,0,,In the registration... Ah, right-{\i1}dasu{\i0}!
+Dialogue: 0,0:10:07.61,0:10:11.75,Default,en,0,0,0,,Huh? Something's not right-{\i1}dasu{\i0}. I must've left it back at the inn-{\i1}dasu{\i0}.
+Dialogue: 0,0:10:11.85,0:10:13.45,Default,en,0,0,0,,Then go take it.
+Dialogue: 0,0:10:13.72,0:10:17.33,Default,en,0,0,0,,Hey, I'd like you to let me go inside no matter what-{\i1}dasu{\i0}. There is no time-{\i1}dasu{\i0}.
+Dialogue: 0,0:10:17.61,0:10:20.01,Default,en,0,0,0,,Well, the competition already began...
+Dialogue: 0,0:10:20.58,0:10:22.83,Default,en,0,0,0,,I'd like you to let me go insisde-{\i1}dasu{\i0}.
+Dialogue: 0,0:10:23.24,0:10:26.14,Default,en,0,0,0,,Alright. Let me check the roster. What's your name?
+Dialogue: 0,0:10:26.22,0:10:29.81,Default,en,0,0,0,,Musashi from Miyamoto village... no, um...
+Dialogue: 0,0:10:30.02,0:10:31.75,Default,en,0,0,0,,Ah, I am Kojirō-{\i1}dasu{\i0}!
+Dialogue: 0,0:10:32.37,0:10:35.14,Default,en,0,0,0,,Kojirō will go to the third contest place.
+Dialogue: 0,0:10:35.30,0:10:36.26,Default,en,0,0,0,,Not here.
+Dialogue: 0,0:10:36.68,0:10:38.95,Default,en,0,0,0,,Ah, I'm sorry-{\i1}dasu{\i0}. It's Baiken-{\i1}dasu{\i0}.
+Dialogue: 0,0:10:39.22,0:10:43.65,Default,en,0,0,0,,Mr. Baiken? He is already having a match inside here!
+Dialogue: 0,0:10:44.34,0:10:45.11,Default,en,0,0,0,,This is bad-{\i1}dasu{\i0}.
+Dialogue: 0,0:10:45.65,0:10:48.45,Default,en,0,0,0,,A suspicious guy that impersonate another person's name!
+Dialogue: 0,0:10:48.81,0:10:50.60,Default,en,0,0,0,,N- no, I, I...
+Dialogue: 0,0:10:51.34,0:10:53.39,Default,en,0,0,0,,A malcontent interrupting the competition!
+Dialogue: 0,0:10:53.60,0:10:54.61,Default,en,0,0,0,,Get him!
+Dialogue: 0,0:10:54.61,0:10:59.32,Default,en,0,0,0,,N- no, stop it-{\i1}dasu{\i0}! I didn't do anything wrong-{\i1}dasu{\i0}!
+Dialogue: 0,0:10:59.98,0:11:02.84,Default,en,0,0,0,,No questions accepted! Resist and be cut!
+Dialogue: 0,0:11:03.21,0:11:03.79,Default,en,0,0,0,,Right!
+Dialogue: 0,0:11:04.79,0:11:06.23,Default,en,0,0,0,,You're making me do this-{\i1}dasu{\i0}!
+Dialogue: 0,0:11:08.54,0:11:10.17,Default,en,0,0,0,,Stop right there!
+Dialogue: 0,0:11:11.45,0:11:12.82,Default,en,0,0,0,,Boss Zenigatan!
+Dialogue: 0,0:11:13.63,0:11:16.96,Default,en,0,0,0,,You idiot! I told you not to fight with random people!
+Dialogue: 0,0:11:17.74,0:11:19.06,Default,en,0,0,0,,What are you doing-{\i1}dasu{\i0}?!
+Dialogue: 0,0:11:19.83,0:11:24.39,Default,en,0,0,0,,This guy is the one I recently hired, and definitely isn't someone suspicious.
+Dialogue: 0,0:11:24.92,0:11:26.90,Default,en,0,0,0,,Are you saying that he's under your order?
+Dialogue: 0,0:11:27.01,0:11:32.68,Default,en,0,0,0,,Right. Please excuse him with your generous mind. He just came from the heart of the mountains after all!
+Dialogue: 0,0:11:33.08,0:11:35.34,Default,en,0,0,0,,Alright. But be careful.
+Dialogue: 0,0:11:35.48,0:11:38.89,Default,en,0,0,0,,Now, go! Quick! Help tidying up the place!
+Dialogue: 0,0:11:39.86,0:11:41.78,Default,en,0,0,0,,I'll introduce him later.
+Dialogue: 0,0:11:47.30,0:11:52.17,Default,en,0,0,0,,Musashi from Miyamoto village... Hanzō's subordinates must be informed.
+Dialogue: 0,0:11:52.43,0:11:58.88,Default,en,0,0,0,,Will Musashi be able to compete in the martial arts competition? Wait for the stormy latter half!
+Dialogue: 0,0:12:08.89,0:12:10.33,Default,en,0,0,0,,I guess we made it in.
+Dialogue: 0,0:12:11.43,0:12:14.62,Default,en,0,0,0,,Please understand that I had to hit you moments ago.
+Dialogue: 0,0:12:14.79,0:12:16.88,Default,en,0,0,0,,It's alright. You did surprise me though-{\i1}dasu{\i0}!
+Dialogue: 0,0:12:17.33,0:12:22.79,Default,en,0,0,0,,If something goes wrong and you are pointed out as a traitor, you might get shot by Hanzō's underlings...
+Dialogue: 0,0:12:23.54,0:12:24.49,Default,en,0,0,0,,Hanzō?
+Dialogue: 0,0:12:25.38,0:12:29.85,Default,en,0,0,0,,He is a monster-like chief of Iga Ninja Force that guards Edo Castle.
+Dialogue: 0,0:12:32.39,0:12:33.88,Default,en,0,0,0,,In this place too. Look!
+Dialogue: 0,0:12:37.59,0:12:38.87,Default,en,0,0,0,,There too.
+Dialogue: 0,0:12:39.78,0:12:41.46,Default,en,0,0,0,,Are they Hanzō's underlings-{\i1}dasu{\i0}?
+Dialogue: 0,0:12:41.91,0:12:46.39,Default,en,0,0,0,,When they find anyone suspicious, they would get rid of them without second thoughts.
+Dialogue: 0,0:12:46.79,0:12:48.31,Default,en,0,0,0,,So be careful.
+Dialogue: 0,0:12:48.52,0:12:49.48,Default,en,0,0,0,,Got it-{\i1}dasu{\i0}.
+Dialogue: 0,0:12:50.34,0:12:53.56,Default,en,0,0,0,,I'll wish you to be able to participate in the competition!
+Dialogue: 0,0:12:54.42,0:12:55.57,Default,en,0,0,0,,Please stay here.
+Dialogue: 0,0:12:57.38,0:12:58.93,Default,en,0,0,0,,{\i1}Hanzō must be...
+Dialogue: 0,0:13:09.05,0:13:11.23,Default,en,0,0,0,,{\i1}that bad guy trying to take down the shōgunate.
+Dialogue: 0,0:13:11.67,0:13:14.22,Default,en,0,0,0,,{\i1}I did thought I should tell this to Jūbee.
+Dialogue: 0,0:13:16.23,0:13:19.19,Default,en,0,0,0,,No-{\i1}dasu{\i0}! I came to the martial arts competition!
+Dialogue: 0,0:13:23.17,0:13:28.41,Default,en,0,0,0,,Lunch time begins now. Semi-semi-finals will begin in afternoon.
+Dialogue: 0,0:13:31.64,0:13:35.43,Default,en,0,0,0,,{\i1}So it's best eight-{\i1}dasu{\i0}... From now on anything goes.
+Dialogue: 0,0:13:36.63,0:13:38.60,Default,en,0,0,0,,{\i1}I got a secret plan-{\i1}dasu{\i0}!
+Dialogue: 0,0:13:41.57,0:13:45.61,Default,en,0,0,0,,He's not here too. I wonder what happened to Musashi...
+Dialogue: 0,0:13:45.99,0:13:51.79,Default,en,0,0,0,,I guess it wasn't here either. We still have the last place left. Don't be disheartened.
+Dialogue: 0,0:13:52.02,0:13:52.97,Default,en,0,0,0,,Yes.
+Dialogue: 0,0:13:57.57,0:14:01.08,Default,en,0,0,0,,This is the waiting room for the competition participants.
+Dialogue: 0,0:14:05.59,0:14:08.22,Default,en,0,0,0,,Non-personnel are not allowed to enter!
+Dialogue: 0,0:14:09.74,0:14:11.94,Default,en,0,0,0,,I am here to deliver lunch box-{\i1}dasu{\i0}.
+Dialogue: 0,0:14:12.18,0:14:15.19,Default,en,0,0,0,,Lunch box? Nobody told me about this.
+Dialogue: 0,0:14:15.48,0:14:17.02,Default,en,0,0,0,,But this is true-{\i1}dasu{\i0}.
+Dialogue: 0,0:14:17.25,0:14:18.47,Default,en,0,0,0,,Who asked for it?
+Dialogue: 0,0:14:19.69,0:14:21.14,Default,en,0,0,0,,E- excuse me!
+Dialogue: 0,0:14:21.65,0:14:24.17,Default,en,0,0,0,,Ah, ah, there he is-{\i1}dasu{\i0}! Hey, you!
+Dialogue: 0,0:14:24.17,0:14:26.31,Default,en,0,0,0,,Hey, just a moment!
+Dialogue: 0,0:14:27.75,0:14:30.38,Default,en,0,0,0,,-Can I leave it inside-{\i1}dasu{\i0}?\N-Right. Come back as soon as possible.
+Dialogue: 0,0:14:30.52,0:14:32.41,Default,en,0,0,0,,Alright, thank you all the time-{\i1}dasu{\i0}!
+Dialogue: 0,0:14:43.13,0:14:43.97,Default,en,0,0,0,,Who are you?!
+Dialogue: 0,0:14:44.53,0:14:47.64,Default,en,0,0,0,,I'm not someone suspicious-{\i1}dasu{\i0}. I have a present for you-{\i1}dasu{\i0}!
+Dialogue: 0,0:14:47.85,0:14:49.41,Default,en,0,0,0,,What? A present?
+Dialogue: 0,0:14:49.96,0:14:53.62,Default,en,0,0,0,,Right-{\i1}dasu{\i0}! A present from a pretty girl-{\i1}dasu{\i0}!
+Dialogue: 0,0:14:53.73,0:14:58.20,Default,en,0,0,0,,-Wh- what?!\N-How wonderful are you, you lady-killer!
+Dialogue: 0,0:14:58.61,0:15:00.15,Default,en,0,0,0,,Heh, I see, of course!
+Dialogue: 0,0:15:00.61,0:15:02.79,Default,en,0,0,0,,-Open this right away!\N-Alright-{\i1}dasu{\i0}.
+Dialogue: 0,0:15:04.71,0:15:06.12,Default,en,0,0,0,,What could it be...
+Dialogue: 0,0:15:14.21,0:15:16.29,Default,en,0,0,0,,Did it hurt-{\i1}dasu{\i0}? I'm sorry-{\i1}dasu{\i0}.
+Dialogue: 0,0:15:17.03,0:15:19.75,Default,en,0,0,0,,Please don't move until the competition ends-{\i1}dasu{\i0}.
+Dialogue: 0,0:15:22.89,0:15:25.63,Default,en,0,0,0,,Time for the semi-semi-finals!
+Dialogue: 0,0:15:33.37,0:15:38.66,Default,en,0,0,0,,Semi-semi-final match will be between Narutouzushioryū, Hachisukadonbe,
+Dialogue: 0,0:15:41.61,0:15:44.41,Default,en,0,0,0,,and his competitor, Hanbasasayamaryū, Gozaemon!
+Dialogue: 0,0:15:44.55,0:15:46.17,Default,en,0,0,0,,That's right-{\i1}dasu{\i0}!
+Dialogue: 0,0:15:46.65,0:15:48.90,Default,en,0,0,0,,Mr. Gozaemon, what's with that mask?
+Dialogue: 0,0:15:49.14,0:15:52.12,Default,en,0,0,0,,Oh, I suddenly feel dizzy...
+Dialogue: 0,0:15:53.96,0:15:56.31,Default,en,0,0,0,,Wouldn't it be difficult to have a good match in that case?
+Dialogue: 0,0:15:56.47,0:15:58.55,Default,en,0,0,0,,N- no, it'll be alright-{\i1}dasu{\i0}!
+Dialogue: 0,0:15:59.62,0:16:00.83,Default,en,0,0,0,,As you see-{\i1}dasu{\i0}!
+Dialogue: 0,0:16:01.73,0:16:02.74,Default,en,0,0,0,,Then come out!
+Dialogue: 0,0:16:05.03,0:16:06.45,Default,en,0,0,0,,This shall be an one-game match!
+Dialogue: 0,0:16:07.16,0:16:07.80,Default,en,0,0,0,,Start!
+Dialogue: 0,0:16:09.38,0:16:11.80,Default,en,0,0,0,,{\i1}Baiken, we'll have the final match here-{\i1}dasu{\i0}!
+Dialogue: 0,0:16:12.42,0:16:13.98,Default,en,0,0,0,,{\i1}That's why I must win no matter what-{\i1}dasu{\i0}!
+Dialogue: 0,0:16:16.92,0:16:17.91,Default,en,0,0,0,,Chance!
+Dialogue: 0,0:16:21.78,0:16:26.12,Default,en,0,0,0,,{\i1}That posture... and movement reminds me... but still...
+Dialogue: 0,0:16:26.90,0:16:30.41,Default,en,0,0,0,,{\i1}That's best 8... He's not going down so easily-{\i0}dasu{\i1}!
+Dialogue: 0,0:16:31.23,0:16:34.19,Default,en,0,0,0,,Secret Sword Whirling Tides of Maelstrom!
+Dialogue: 0,0:16:37.00,0:16:37.59,Default,en,0,0,0,,What-{\i1}dasu{\i0}?
+Dialogue: 0,0:16:45.78,0:16:48.50,Default,en,0,0,0,,{\i1}In this rate, I'm going to be dizzy and lose-{\i1}dasu{\i0}...
+Dialogue: 0,0:16:56.15,0:16:57.81,Default,en,0,0,0,,Futile attempt!
+Dialogue: 0,0:17:01.67,0:17:03.15,Default,en,0,0,0,,{\i1}What should I do-{\i1}dasu{\i0}...
+Dialogue: 0,0:17:07.03,0:17:09.19,Default,en,0,0,0,,{\i1}I'm getting dizzy-{\i1}dasu{\i0}...
+Dialogue: 0,0:17:13.93,0:17:14.62,Default,en,0,0,0,,{\i1}That's it-{\i1}dasu{\i0}!
+Dialogue: 0,0:17:14.98,0:17:16.34,Default,en,0,0,0,,Thrust!
+Dialogue: 0,0:17:25.46,0:17:26.67,Default,en,0,0,0,,I lost!
+Dialogue: 0,0:17:26.85,0:17:29.51,Default,en,0,0,0,,Match set! Gozaemon wins!
+Dialogue: 0,0:17:29.98,0:17:33.32,Default,en,0,0,0,,I did-{\i1}dasu{\i0}! Yay!
+Dialogue: 0,0:17:35.31,0:17:36.18,Default,en,0,0,0,,Thank you!
+Dialogue: 0,0:17:36.55,0:17:40.32,Default,en,0,0,0,,{\i1}My name is Musashi-{\i1}dasu{\i0}, but... it feels complicated-{\i1}dasu{\i0}.
+Dialogue: 0,0:17:41.13,0:17:45.13,Default,en,0,0,0,,{\i1}That's some fine judgment skills you got, Gozaemon.
+Dialogue: 0,0:17:45.56,0:17:48.98,Default,en,0,0,0,,Semi-semi-finals will feature Kusarigamaryū Baiken,
+Dialogue: 0,0:17:51.24,0:17:54.36,Default,en,0,0,0,,The competitor is Fear Destroy style, Shigenoshin Suzuki!
+Dialogue: 0,0:17:54.79,0:17:57.58,Default,en,0,0,0,,Brother! Do your best!
+Dialogue: 0,0:18:09.40,0:18:12.13,Default,en,0,0,0,,Stop! Baiken wins!
+Dialogue: 0,0:18:12.20,0:18:14.92,Default,en,0,0,0,,That's our brother!
+Dialogue: 0,0:18:26.31,0:18:27.73,Default,en,0,0,0,,G- Gozaemon!
+Dialogue: 0,0:18:34.11,0:18:37.12,NoteOnAnime,en,0,0,0,,{\an4\frz-90\frx20\fry-20\fax0.24\fay-0.05\fs50\move(162,176,162,360)}Baiken
+Dialogue: 0,0:18:34.11,0:18:37.12,NoteOnAnime,en,0,0,0,,{\an4\frz-90\frx20\fry-10\fax0.3\fs56\move(528,36,528,220)}Gozaemon
+Dialogue: 0,0:18:34.74,0:18:37.12,NoteOnAnime,en,0,0,0,,{\an6\frz-90\move(320,-5,320,140)\fax0.2}Victory
+Dialogue: 0,0:18:31.03,0:18:34.98,Default,en,0,0,0,,Finals will begin soon in the sixth preliminary place!
+Dialogue: 0,0:18:35.84,0:18:40.83,Default,en,0,0,0,,Moreover, the winner of this match can join the final match
+Dialogue: 0,0:18:41.07,0:18:45.04,Default,en,0,0,0,,in the presence of General Ieyasu as the top 7 Karakuri martial artists.
+Dialogue: 0,0:18:46.11,0:18:48.71,Default,en,0,0,0,,Whoever wins, it will become one of the good memories.
+Dialogue: 0,0:18:49.24,0:18:49.89,Default,en,0,0,0,,Start!
+Dialogue: 0,0:18:54.79,0:18:56.71,Default,en,0,0,0,,{\i1}Judging on that posture, he is Musashi!
+Dialogue: 0,0:19:13.62,0:19:14.95,Default,en,0,0,0,,Musashi! Why did you do this?
+Dialogue: 0,0:19:15.94,0:19:17.24,Default,en,0,0,0,,Chink in the armor!
+Dialogue: 0,0:19:19.43,0:19:21.37,Default,en,0,0,0,,You are Musashi!
+Dialogue: 0,0:19:23.83,0:19:25.83,Default,en,0,0,0,,That guy is a fake!
+Dialogue: 0,0:19:25.93,0:19:28.52,Default,en,0,0,0,,That guy cowardly sneaked in, used violence to make me pass out,
+Dialogue: 0,0:19:28.67,0:19:31.27,Default,en,0,0,0,,and assumed my identity! A fake Martial Artist!
+Dialogue: 0,0:19:32.47,0:19:34.21,Default,en,0,0,0,,What? Is that true?
+Dialogue: 0,0:19:34.67,0:19:39.46,Default,en,0,0,0,,He's a traitor for hindering the sacred martial arts competition the shōgun approved!
+Dialogue: 0,0:19:39.61,0:19:41.55,Default,en,0,0,0,,Get him and execute him!
+Dialogue: 0,0:19:41.96,0:19:44.26,Default,en,0,0,0,,-Right!\N-Wait!
+Dialogue: 0,0:19:44.26,0:19:47.90,Default,en,0,0,0,,Whoever he is, this is the match that will decide the participation
+Dialogue: 0,0:19:47.90,0:19:51.69,Default,en,0,0,0,,to the final match in the presence of General Ieyasu! I will finish this!
+Dialogue: 0,0:19:51.89,0:19:57.14,Default,en,0,0,0,,Alright, as you wish. To do as Baiken said, step back for now!
+Dialogue: 0,0:19:57.73,0:19:58.38,Default,en,0,0,0,,Baiken...
+Dialogue: 0,0:19:59.08,0:20:00.18,Default,en,0,0,0,,We'll settle this, Musashi!
+Dialogue: 0,0:20:02.49,0:20:03.53,Default,en,0,0,0,,How impertinent!
+Dialogue: 0,0:20:04.69,0:20:07.09,Default,en,0,0,0,,Escape using the emergency exit on the other side.
+Dialogue: 0,0:20:07.33,0:20:09.25,Default,en,0,0,0,,Baiken... that will bother...
+Dialogue: 0,0:20:09.49,0:20:11.29,Default,en,0,0,0,,It's fine! Go!
+Dialogue: 0,0:20:11.56,0:20:15.60,Default,en,0,0,0,,You heinous impostor martial artist! Take this!
+Dialogue: 0,0:20:19.24,0:20:21.55,Default,en,0,0,0,,Match set! Baiken wins!
+Dialogue: 0,0:20:22.22,0:20:23.61,Default,en,0,0,0,,As expected from Baiken!
+Dialogue: 0,0:20:25.31,0:20:26.68,Default,en,0,0,0,,Where did that man go?!
+Dialogue: 0,0:20:27.93,0:20:29.64,Default,en,0,0,0,,He isn't there! Get him!
+Dialogue: 0,0:20:36.57,0:20:37.53,Default,en,0,0,0,,There he is!
+Dialogue: 0,0:20:40.13,0:20:42.18,Default,en,0,0,0,,If he resists, you may cut him!
+Dialogue: 0,0:20:45.23,0:20:49.58,Default,en,0,0,0,,{\i1}Musashi... I don't know what happened, but please be safe!
+Dialogue: 0,0:20:49.81,0:20:51.89,Default,en,0,0,0,,What happened to Musashi?
+Dialogue: 0,0:20:52.04,0:20:54.33,Default,en,0,0,0,,It'll be all right! Don't worry!
+Dialogue: 0,0:21:01.84,0:21:05.56,Default,en,0,0,0,,He is a vicious criminal! Get him no matter what and execute him!
+Dialogue: 0,0:21:05.68,0:21:09.25,Default,en,0,0,0,,That's wrong-{\i1}dasu{\i0}! I didn't do anything wrong-{\i1}dasu{\i0}!
+Dialogue: 0,0:21:12.05,0:21:13.44,Default,en,0,0,0,,Musashi?
+Dialogue: 0,0:21:14.73,0:21:16.10,Default,en,0,0,0,,-Musashi!\N-Move!
+Dialogue: 0,0:21:18.26,0:21:23.16,Default,en,0,0,0,,Yeah, he definitely is Musashi. But I wonder what did he do...
+Dialogue: 0,0:21:24.42,0:21:29.46,Default,en,0,0,0,,But it's a relief... Musashi did make it to Edotopia!
+Dialogue: 0,0:21:49.06,0:21:50.39,Default,en,0,0,0,,This is Musashi.
+Dialogue: 0,0:21:53.16,0:21:56.85,Default,en,0,0,0,,He was destined to fall to the hell by my hands.
+Dialogue: 0,0:22:09.88,0:22:11.46,Default,en,0,0,0,,I'm starved-{\i1}dasu{\i0}...
+Dialogue: 0,0:22:12.61,0:22:15.98,Default,en,0,0,0,,Supposed to be dreaming to be the number one martial artist of Jipangu,
+Dialogue: 0,0:22:16.10,0:22:20.00,Default,en,0,0,0,,but how miserable! Musashi has gained a dishonor of a traitor that defies against Ieyasu,
+Dialogue: 0,0:22:20.12,0:22:23.05,Default,en,0,0,0,,and became a heinous criminal that is wanted.
+Dialogue: 0,0:22:23.29,0:22:26.91,Default,en,0,0,0,,Will Musashi even have a tomorrow?
+Dialogue: 0,0:22:42.07,0:22:44.11,SongED1,en,0,0,0,,Sometimes the moon jumps over
+Dialogue: 0,0:22:44.82,0:22:47.37,SongED1,en,0,0,0,,the pocket of empty sky
+Dialogue: 0,0:22:47.57,0:22:49.74,SongED1,en,0,0,0,,Laugh loudly and
+Dialogue: 0,0:22:50.37,0:22:52.37,SongED1,en,0,0,0,,morning will come tomorrow
+Dialogue: 0,0:22:53.12,0:22:57.71,SongED1,en,0,0,0,,Don't worry too much about losing
+Dialogue: 0,0:22:58.71,0:23:01.30,SongED1,en,0,0,0,,Keep going! Go for it!
+Dialogue: 0,0:23:01.30,0:23:03.72,SongED1,en,0,0,0,,A bare hand is strong
+Dialogue: 0,0:23:04.13,0:23:13.81,SongED1,en,0,0,0,,That's how it is! Let's go lightly
+Dialogue: 0,0:23:14.27,0:23:21.86,SongED1,en,0,0,0,,That's how life is! Look, a chance
+Dialogue: 0,0:23:22.32,0:23:26.57,SongED1,en,0,0,0,,follows us wagging its tail!
+Dialogue: 0,0:23:27.99,0:23:37.50,SongED1,en,0,0,0,,That's how it is! Let's go lightly
+Dialogue: 0,0:23:38.00,0:23:45.97,SongED1,en,0,0,0,,That's how the future is, too! Look, tomorrow
+Dialogue: 0,0:23:46.22,0:23:51.80,SongED1,en,0,0,0,,is opening its hands and smiling at us!
+Dialogue: 0,0:24:05.57,0:24:09.91,Default,en,0,0,0,,As a wanted man, I rescued a cute child surrounded by bad guys-{\i1}dasu{\i0}.
+Dialogue: 0,0:24:10.17,0:24:14.80,Default,en,0,0,0,,That child actually was Senhime, a granddaughter of Ieyasu, but not knowing that,
+Dialogue: 0,0:24:15.00,0:24:19.16,Default,en,0,0,0,,I sneaked into the martial arts competition place and had a match against Jūbee-{\i1}dasu{\i0}.
+Dialogue: 0,0:24:19.77,0:24:22.47,Default,en,0,0,0,,Next story! Rescue Senhime and Have a Match-{\i1}dasu{\i0}.
+Dialogue: 0,0:24:22.94,0:24:26.17,Default,en,0,0,0,,Check out the stormy great activity!
+Dialogue: 0,0:24:26.84,0:24:30.76,NoteOnAnime,en,60,0,60,,{\an7}Next Episode
+Dialogue: 0,0:24:26.84,0:24:30.76,TitleEP,en,0,0,115,,and Have a Match
+Dialogue: 0,0:24:26.84,0:24:30.76,TitleEP,en,0,0,235,,Rescue Senhime
+Dialogue: 0,0:24:26.84,0:24:30.76,NoteOnAnime,en,0,60,30,,{\an3\fs32}Look forwards for it!

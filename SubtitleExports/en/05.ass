@@ -1,0 +1,346 @@
+﻿[Script Info]
+Title: Kotetsu the Excellent Sword Calls for a Storm
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 480
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: NoteOnAnime,Candara,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,10,1
+Style: SongOP,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: TitleOP,DejaVu Serif,42,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: TitleEP,DejaVu Serif,42,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: SongED1,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: Note,Candara,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,10,10,10,1
+Style: Eyecatch,Candara,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,10,10,10,1
+Style: NoteOnAnimeVert,@맑은 고딕,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.54,0:00:06.69,Default,en,0,0,0,,It is the turbulent Sengoku period.
+Dialogue: 0,0:00:07.06,0:00:11.88,Default,en,0,0,0,,Warlords keep on fighting day and night over\NJipangu State, where Karakuri people live.
+Dialogue: 0,0:00:11.88,0:00:16.83,Default,en,0,0,0,,Karakuri martial artists were sharpening their swords, dreaming of victory and honor.
+Dialogue: 0,0:00:16.83,0:00:23.56,Default,en,0,0,0,,And now, a wild hero has arrived, seeking to be the number one Karakuri martial artist!
+Dialogue: 0,0:00:24.42,0:00:27.15,Default,en,0,0,0,,Musashi is here-{\i1}dasu{\i0}!
+Dialogue: 0,0:00:28.03,0:00:33.22,TitleOP,en,0,0,40,,{\an8\fs32\fade(770,0)}Karakuri Kengouden
+Dialogue: 0,0:00:28.03,0:00:33.22,TitleOP,en,0,0,40,,{\fade(770,0)}Musashi Road
+Dialogue: 0,0:00:28.03,0:00:33.22,TitleOP,en,0,0,40,,{\fs24\fade(770,0)}(The Story of {\i1}Karakuri{\i0} Martial Artist: Road of Musashi)
+Dialogue: 0,0:00:33.22,0:00:38.06,SongOP,en,0,0,0,,A man always dreams of the day
+Dialogue: 0,0:00:38.89,0:00:41.81,SongOP,en,0,0,0,,in the center of the world to become
+Dialogue: 0,0:00:41.81,0:00:44.69,SongOP,en,0,0,0,,AH! AH! the strongest
+Dialogue: 0,0:00:44.69,0:00:49.74,SongOP,en,0,0,0,,Raise the sword of your heart high to the wide sky
+Dialogue: 0,0:00:50.36,0:00:54.37,SongOP,en,0,0,0,,Raise the curtain to the road of adventure
+Dialogue: 0,0:00:55.70,0:01:00.96,SongOP,en,0,0,0,,A skilled swordsman roams on Jipangu State
+Dialogue: 0,0:01:01.54,0:01:06.59,SongOP,en,0,0,0,,His name is Musashi, a Karakuri man
+Dialogue: 0,0:01:06.59,0:01:08.09,SongOP,en,0,0,0,,Go! Fight!
+Dialogue: 0,0:01:08.09,0:01:11.01,SongOP,en,0,0,0,,The sound of fierce duels
+Dialogue: 0,0:01:11.01,0:01:13.84,SongOP,en,0,0,0,,makes life dazzling
+Dialogue: 0,0:01:13.84,0:01:19.31,SongOP,en,0,0,0,,Battles of yesterdays make you stronger today
+Dialogue: 0,0:01:19.35,0:01:25.56,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
+Dialogue: 0,0:01:25.56,0:01:28.48,SongOP,en,0,0,0,,Tomorrow will be glorious
+Dialogue: 0,0:01:28.48,0:01:31.03,SongOP,en,0,0,0,,The sound of fierce duels
+Dialogue: 0,0:01:31.03,0:01:33.53,SongOP,en,0,0,0,,makes life dazzling
+Dialogue: 0,0:01:34.24,0:01:39.62,SongOP,en,0,0,0,,Fight the utmost with the stillness
+Dialogue: 0,0:01:39.66,0:01:45.88,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
+Dialogue: 0,0:01:45.88,0:01:51.13,SongOP,en,0,0,0,,His eyes shined! Musashi!
+Dialogue: 0,0:01:59.80,0:02:06.25,Default,en,0,0,0,,Dreaming for the number one martial artist of Jipangu State, Musashi was fighting against numberless Martial Artists,
+Dialogue: 0,0:02:06.83,0:02:14.21,Default,en,0,0,0,,but he met a wrong opponent, the infamous Denshichirō, the boss of Yoshika Dōjō
+Dialogue: 0,0:02:14.59,0:02:17.73,Default,en,0,0,0,,boasting countless members across the land.
+Dialogue: 0,0:02:18.16,0:02:23.16,TitleEP,en,0,0,200,,Kotetsu the Excellent Sword
+Dialogue: 0,0:02:18.16,0:02:23.16,TitleEP,en,0,0,60,,Calls for a Storm
+Dialogue: 0,0:02:31.82,0:02:35.50,Default,en,0,0,0,,That's very absurd, to have a match with that wooden sword!
+Dialogue: 0,0:02:35.91,0:02:40.01,Default,en,0,0,0,,A match between martial artists shall only be done with real swords like this!
+Dialogue: 0,0:02:50.82,0:02:55.96,Default,en,0,0,0,,I lost! I'm going to die-{\i1}dasu{\i0}! Someone help me-{\i1}dasu{\i0}!
+Dialogue: 0,0:02:57.13,0:03:00.11,Default,en,0,0,0,,Kid, you're half asleep.
+Dialogue: 0,0:03:03.75,0:03:05.65,Default,en,0,0,0,,It was a persimmon-{\i1}dasu{\i0}!
+Dialogue: 0,0:03:06.65,0:03:10.08,Default,en,0,0,0,,We were going under a persimmon tree moments ago.
+Dialogue: 0,0:03:10.76,0:03:15.08,Default,en,0,0,0,,I don't know what were you dreaming about, but you were pretty agitated.
+Dialogue: 0,0:03:16.66,0:03:19.98,Default,en,0,0,0,,Damn, I want a sword too-{\i1}dasu{\i0}.
+Dialogue: 0,0:03:20.62,0:03:25.31,Default,en,0,0,0,,I will get a sword and become the number one martial artist of Jipangu-{\i1}dasu{\i0}!
+Dialogue: 0,0:03:26.71,0:03:29.30,Default,en,0,0,0,,We're soon at Sakai village.
+Dialogue: 0,0:03:30.60,0:03:33.72,NoteOnAnime,en,0,0,0,,{\move(300,280,300,-20)\frx20\t(0,3100,\fs48)\fs40}Welcome to Sakai
+Dialogue: 0,0:03:31.14,0:03:35.02,Default,en,0,0,0,,This place is Sakai harbor, a village of merchants.
+Dialogue: 0,0:03:39.61,0:03:43.61,NoteOnAnime,en,0,0,0,,{\an4\fs105\q2\frz-88\frx2\fax-0.1\move(345,134,345,-500)}Yoshioka Dōjō Inc.
+Dialogue: 0,0:03:40.28,0:03:43.61,NoteOnAnime,en,0,0,0,,{\an4\fs80\frz-88\frx2\fax-0.1\move(263,471,263,-63)}Sakai Branch
+Dialogue: 0,0:03:35.35,0:03:41.37,Default,en,0,0,0,,Denshichiro came to Yoshioka Dōjō Sakai branch to get Musashi.
+Dialogue: 0,0:03:43.64,0:03:47.64,NoteOnAnime,en,0,0,0,,{\an4\fs46\frz-82.5\frx2\fax-0.1\t(0,4000,\fs58)\move(520,-1,660,-73)}Yoshioka Dōjō Inc.
+Dialogue: 0,0:03:43.64,0:03:47.64,NoteOnAnime,en,0,0,0,,{\an4\fs36\frz-82.5\frx2\fax-0.1\t(0,4000,\fs40)\move(500,174,650,169)}Sakai Branch
+Dialogue: 0,0:03:43.64,0:03:47.64,NoteOnAnime,en,0,0,0,,{\an5\fs24\t(0,4000,\fs30)\frx20\frz2.5\pos(314,266)}Welcome
+Dialogue: 0,0:03:48.14,0:03:52.63,Default,en,0,0,0,,This is the face of Musashi who wreaked havoc on our Yoshioka Dōjō.
+Dialogue: 0,0:03:53.56,0:03:55.35,Default,en,0,0,0,,What a sly face!
+Dialogue: 0,0:03:56.63,0:04:01.34,NoteOnAnime,en,0,0,0,,{\an5\fs26\move(334,115,340,95)\t(0,4670,\fs30)}Martial Arts is about Form
+Dialogue: 0,0:03:56.74,0:03:59.96,Default,en,0,0,0,,He should be in this Sakai village. Understood?
+Dialogue: 0,0:04:00.23,0:04:05.08,Default,en,0,0,0,,Search for him thoroughly and report to me as soon as you find out where he is!
+Dialogue: 0,0:04:05.53,0:04:08.44,Default,en,0,0,0,,He is not just a weak brat, so be careful!
+Dialogue: 0,0:04:08.96,0:04:09.68,Default,en,0,0,0,,Got it!
+Dialogue: 0,0:04:13.40,0:04:13.95,Default,en,0,0,0,,Master!
+Dialogue: 0,0:04:14.48,0:04:14.96,Default,en,0,0,0,,What is it?
+Dialogue: 0,0:04:15.27,0:04:17.10,Default,en,0,0,0,,The sword craftsman you asked for is here.
+Dialogue: 0,0:04:17.56,0:04:18.98,Default,en,0,0,0,,Good. I'll go right now.
+Dialogue: 0,0:04:24.76,0:04:32.38,Default,en,0,0,0,,This person, Kotetsu Kenmochi, is a historically famous sword craftsman of the long Sengoku period of Jipangu State.
+Dialogue: 0,0:04:32.38,0:04:34.42,NoteOnAnime,en,0,0,0,,{\an8\frz26\fs32\fad(0,300)\pos(337,242)\c&H8989FF&}Made by Kotetsu
+Dialogue: 0,0:04:33.14,0:04:40.38,Default,en,0,0,0,,A sword crafted by him is called Kotetsu, and it is told that only masters of swords can have one.
+Dialogue: 0,0:04:46.74,0:04:51.25,Default,en,0,0,0,,I am Denshichirō Yoshioka, a substitute instructor at Yoshioka Dōjō.
+Dialogue: 0,0:04:51.85,0:04:53.44,Default,en,0,0,0,,Kotetsu Kenmochi.
+Dialogue: 0,0:04:53.58,0:04:57.37,Default,en,0,0,0,,Long story short, I'd like to ask you to make your excellent sword Kotetsu.
+Dialogue: 0,0:04:59.85,0:05:00.98,Default,en,0,0,0,,I reject.
+Dialogue: 0,0:05:01.43,0:05:05.90,Default,en,0,0,0,,What?! You dare to reject the request from the substitute instructor at Yoshioka Dōjō?
+Dialogue: 0,0:05:07.78,0:05:14.18,Default,en,0,0,0,,Don't you know Denshichirō Yoshioka, a name famous all over Jipangu State?
+Dialogue: 0,0:05:14.54,0:05:15.65,Default,en,0,0,0,,I do know.
+Dialogue: 0,0:05:15.93,0:05:22.08,Default,en,0,0,0,,Then why do you reject? Crafting a sword isn't something dishonorable.
+Dialogue: 0,0:05:22.46,0:05:25.88,Default,en,0,0,0,,I regret to say that I already gave up crafting swords.
+Dialogue: 0,0:05:26.50,0:05:27.44,Default,en,0,0,0,,Gave up?
+Dialogue: 0,0:05:29.02,0:05:31.80,Default,en,0,0,0,,How's this? We'll pay as much as you want.
+Dialogue: 0,0:05:32.31,0:05:34.22,Default,en,0,0,0,,I do not want money.
+Dialogue: 0,0:05:34.62,0:05:36.53,Default,en,0,0,0,,Then what do you want?
+Dialogue: 0,0:05:37.38,0:05:38.20,Default,en,0,0,0,,Nothing special.
+Dialogue: 0,0:05:38.44,0:05:41.50,Default,en,0,0,0,,I see that you are without greed. But know this.
+Dialogue: 0,0:05:41.66,0:05:46.47,Default,en,0,0,0,,Whatever reason you have, you will make and give me a sword.
+Dialogue: 0,0:05:47.32,0:05:48.44,Default,en,0,0,0,,Excuse me.
+Dialogue: 0,0:05:48.76,0:05:51.11,Default,en,0,0,0,,Wait! He is not done yet!
+Dialogue: 0,0:05:51.34,0:05:52.63,Default,en,0,0,0,,I will allow you ten days!
+Dialogue: 0,0:05:53.16,0:05:56.69,Default,en,0,0,0,,I will go receive it myself. Understood?
+Dialogue: 0,0:06:01.19,0:06:02.46,Default,en,0,0,0,,Are you alright with this?
+Dialogue: 0,0:06:03.02,0:06:07.74,Default,en,0,0,0,,No matter how wide Jipangu is, nobody dared to deny my request.
+Dialogue: 0,0:06:08.18,0:06:13.14,Default,en,0,0,0,,Moreover, I can't count how many people lost their lives by denying my request.
+Dialogue: 0,0:06:20.97,0:06:24.58,Default,en,0,0,0,,I am starved to death-{\i1}dasu{\i0}...
+Dialogue: 0,0:06:25.86,0:06:28.69,Default,en,0,0,0,,This smell must be dango-{\i1}dasu{\i0}!
+Dialogue: 0,0:06:35.64,0:06:36.18,NoteOnAnime,en,0,0,0,,{\fs24\an4\frz-90\move(177,188,177,188)}Dango 5 mon
+Dialogue: 0,0:06:35.64,0:06:36.18,NoteOnAnime,en,0,0,0,,{\fs24\an4\move(120,189,120,189)\frz-93}Tea 1 mon
+Dialogue: 0,0:06:40.92,0:06:44.84,Default,en,0,0,0,,My belly's going to meet my back-{\i1}dasu{\i0}...
+Dialogue: 0,0:06:44.84,0:06:46.84,NoteOnAnime,en,0,0,0,,{\alpha40\p1\an7\bord0\c&HDAFEFF&}m 102 53 l 499 50 494 460 95 461
+Dialogue: 0,0:06:44.84,0:06:46.84,NoteOnAnime,en,0,0,0,,{\an8\fs48\c&H4C5BDC&\move(307,72,307,72)}Part Time Job{\c&HFFFFFF&} Notice
+Dialogue: 0,0:06:44.84,0:06:46.84,NoteOnAnime,en,0,0,0,,{\an8\move(311,159,311,159)\fs32}3 mons an hour\NTraffic expenses provided\N{\c&H4C5BDC&\fs48}Meal{\c&HFFFFFF&\fs32} provided\NImmediate interview
+Dialogue: 0,0:06:44.84,0:06:46.84,NoteOnAnime,en,0,0,0,,{\an8\move(310,371,310,371)}Sakai Ginja 634-5
+Dialogue: 0,0:06:44.84,0:06:46.84,NoteOnAnime,en,0,0,0,,{\an8\move(310,421,310,421)\fs40}Musical Tea House
+Dialogue: 0,0:06:46.84,0:06:48.21,NoteOnAnime,en,0,0,0,,{\pos(320,240)\alpha40\p1\an5\bord0\c&HDAFEFF&}m 0 0 l 0 480 640 480 640 0
+Dialogue: 0,0:06:46.84,0:06:48.21,NoteOnAnime,en,0,0,0,,{\q2\pos(50,240)\an4\fs270\c&H4C5BDC&\bord16}Meal {\c&HFFFFFF&\fs210}provided
+Dialogue: 0,0:06:48.65,0:06:51.87,Default,en,0,0,0,,Wow! It's a help from the heavens-{\i1}dasu{\i0}!
+Dialogue: 0,0:06:58.10,0:07:00.10,Default,en,0,0,0,,Are you ready?!
+Dialogue: 0,0:07:00.10,0:07:01.95,Default,en,0,0,0,,Yes!
+Dialogue: 0,0:07:04.15,0:07:08.99,Default,en,0,0,0,,Alright, let's get you working right away. Your job is simple.
+Dialogue: 0,0:07:09.05,0:07:11.50,Default,en,0,0,0,,Bring these whenever there is an order.
+Dialogue: 0,0:07:11.50,0:07:13.74,Default,en,0,0,0,,When is the mealtime-{\i1}dasu{\i0}?
+Dialogue: 0,0:07:13.96,0:07:15.94,Default,en,0,0,0,,After you work.
+Dialogue: 0,0:07:15.94,0:07:16.70,Default,en,0,0,0,,Okay.
+Dialogue: 0,0:07:17.70,0:07:19.94,Default,en,0,0,0,,One dango plate on the 3th table!
+Dialogue: 0,0:07:20.04,0:07:21.81,Default,en,0,0,0,,Got it! One dango plate!
+Dialogue: 0,0:07:22.16,0:07:23.75,Default,en,0,0,0,,Hey, hey! Hurry up and bring it!
+Dialogue: 0,0:07:23.83,0:07:25.17,Default,en,0,0,0,,Yes, sir!
+Dialogue: 0,0:07:29.30,0:07:30.58,Default,en,0,0,0,,Here it is-{\i1}dasu{\i0}!
+Dialogue: 0,0:07:31.06,0:07:32.42,Default,en,0,0,0,,Here is your order-{\i1}dasu{\i0}!
+Dialogue: 0,0:07:33.32,0:07:34.73,Default,en,0,0,0,,Huh? Otsuru!
+Dialogue: 0,0:07:34.87,0:07:36.22,Default,en,0,0,0,,What is it?
+Dialogue: 0,0:07:36.36,0:07:39.34,Default,en,0,0,0,,You're Otsuru-{\i1}dasu{\i0}! It's me-{\i1}dasu{\i0}!
+Dialogue: 0,0:07:39.34,0:07:41.31,Default,en,0,0,0,,I don't know who you are.
+Dialogue: 0,0:07:41.69,0:07:46.20,Default,en,0,0,0,,Don't joke on me-{\i1}dasu{\i0}! I am Musashi, from Miyamoto village-{\i1}dasu{\i0}!
+Dialogue: 0,0:07:46.20,0:07:48.30,Default,en,0,0,0,,I don't know anyone named Musashi!
+Dialogue: 0,0:07:48.30,0:07:49.14,Default,en,0,0,0,,Musashi?
+Dialogue: 0,0:07:50.00,0:07:52.78,Default,en,0,0,0,,Otsuru, it's me!
+Dialogue: 0,0:07:52.78,0:07:56.50,Default,en,0,0,0,,What are you talking about?! My name is Otama!
+Dialogue: 0,0:07:56.79,0:08:00.37,Default,en,0,0,0,,Otsuru, you're cute when you're angry-{\i1}dasu{\i0}...
+Dialogue: 0,0:08:03.24,0:08:06.84,Default,en,0,0,0,,What are you doing?! Help me! A pervert!
+Dialogue: 0,0:08:06.84,0:08:09.43,Default,en,0,0,0,,No, that's not it! There's a misunderstanding-{\i1}dasu{\i0}!
+Dialogue: 0,0:08:11.00,0:08:16.27,Default,en,0,0,0,,That was pretty bad. We don't need to trigger PTA any further...
+Dialogue: 0,0:08:16.44,0:08:17.35,Default,en,0,0,0,,I'm sorry-{\i1}dasu{\i0}...
+Dialogue: 0,0:08:17.53,0:08:23.30,Default,en,0,0,0,,It seems that you're not suited for working at the front of house. Maybe you're better off with carving dango sticks.
+Dialogue: 0,0:08:23.90,0:08:25.24,Default,en,0,0,0,,Uh, the meal...
+Dialogue: 0,0:08:25.34,0:08:27.00,Default,en,0,0,0,,-Not yet!\N-Okay...
+Dialogue: 0,0:08:36.52,0:08:38.64,Default,en,0,0,0,,Musashi is working in this tea house.
+Dialogue: 0,0:08:38.73,0:08:42.13,Default,en,0,0,0,,Musashi, you're going down as of today!
+Dialogue: 0,0:08:42.31,0:08:45.03,Default,en,0,0,0,,Understand? Do not let Musashi run away!
+Dialogue: 0,0:08:45.19,0:08:46.08,Default,en,0,0,0,,Roger!
+Dialogue: 0,0:08:48.61,0:08:53.03,Default,en,0,0,0,,Oh , at least you have a specialty.
+Dialogue: 0,0:09:00.97,0:09:02.17,Default,en,0,0,0,,Where is Musashi?!
+Dialogue: 0,0:09:02.87,0:09:03.86,Default,en,0,0,0,,That voice...
+Dialogue: 0,0:09:03.86,0:09:05.14,Default,en,0,0,0,,What are you doing?!
+Dialogue: 0,0:09:05.14,0:09:07.31,Default,en,0,0,0,,Move away! Musashi is here!
+Dialogue: 0,0:09:13.64,0:09:14.99,Default,en,0,0,0,,Musashi! Prepare yourself!
+Dialogue: 0,0:09:28.12,0:09:29.31,Default,en,0,0,0,,There's Musashi!
+Dialogue: 0,0:09:38.39,0:09:39.42,Default,en,0,0,0,,Stop!
+Dialogue: 0,0:09:47.06,0:09:49.05,Default,en,0,0,0,,Musashi is running away on that roof!
+Dialogue: 0,0:09:55.26,0:09:57.38,Default,en,0,0,0,,They're damn persistent-{\i1}dasu{\i0}!
+Dialogue: 0,0:09:59.38,0:09:59.88,Default,en,0,0,0,,Huh?
+Dialogue: 0,0:10:10.43,0:10:12.30,Default,en,0,0,0,,Musashi! Prepare yourself.
+Dialogue: 0,0:10:16.79,0:10:21.88,Default,en,0,0,0,,Dammit! Do as you want-{\i1}dasu{\i0}! One vs many is cowardly-{\i1}dasu{\i0}!
+Dialogue: 0,0:10:22.12,0:10:26.09,Default,en,0,0,0,,Do not call this cowardly. I am more than enough to finish you!
+Dialogue: 0,0:10:29.45,0:10:32.35,Default,en,0,0,0,,{\i1}Otsuru! I'm going to the next world earlier than you-{\i0}dasu{\i1}!
+Dialogue: 0,0:10:38.01,0:10:40.18,Default,en,0,0,0,,Damn that Musashi! Follow him! Find him!
+Dialogue: 0,0:10:42.74,0:10:43.94,Default,en,0,0,0,,What's going on-{\i1}dasu{\i0}?
+Dialogue: 0,0:10:45.32,0:10:47.06,Default,en,0,0,0,,Now! Run away! Come!
+Dialogue: 0,0:10:51.52,0:10:53.02,Default,en,0,0,0,,What a relief-{\i1}dasu{\i0}...
+Dialogue: 0,0:10:53.50,0:10:54.66,Default,en,0,0,0,,I must say thank...
+Dialogue: 0,0:10:55.06,0:10:56.28,Default,en,0,0,0,,Kojirō!
+Dialogue: 0,0:10:56.58,0:11:00.51,Default,en,0,0,0,,You insolent brat. How rude of you to call the name of your lifesaver without respect!
+Dialogue: 0,0:11:01.56,0:11:02.55,Default,en,0,0,0,,Sorry-{\i1}dasu{\i0}!
+Dialogue: 0,0:11:02.97,0:11:04.46,Default,en,0,0,0,,Thank you-{\i1}dasu{\i0}.
+Dialogue: 0,0:11:04.86,0:11:07.38,Default,en,0,0,0,,Bu- but why did you saved me-{\i1}dasu{\i0}?
+Dialogue: 0,0:11:07.93,0:11:14.81,Default,en,0,0,0,,I cannot forgive how the numerous grown-ups at Yoshioka are trying to chase a young kid like you!
+Dialogue: 0,0:11:15.77,0:11:17.51,Default,en,0,0,0,,I am not a kid!
+Dialogue: 0,0:11:18.41,0:11:19.96,Default,en,0,0,0,,Then what are you?
+Dialogue: 0,0:11:19.96,0:11:22.02,Default,en,0,0,0,,I am a martial artist despite how I look-{\i1}dasu{\i0}!
+Dialogue: 0,0:11:22.31,0:11:26.64,Default,en,0,0,0,,Hmph, don't make me laugh! You don't even have your own sword! You should be ashamed!
+Dialogue: 0,0:11:27.75,0:11:29.05,Default,en,0,0,0,,Th- that's too much!
+Dialogue: 0,0:11:29.75,0:11:34.93,Default,en,0,0,0,,A sword is the life of a martial artist! I will not accept whoever without a sword as a martial artist!
+Dialogue: 0,0:11:37.54,0:11:41.67,Default,en,0,0,0,,This excellent sword is Seki no Magoroku, also known as Monohoshizao.
+Dialogue: 0,0:11:42.66,0:11:44.14,Default,en,0,0,0,,Feast your eyes!
+Dialogue: 0,0:11:53.53,0:11:55.58,Default,en,0,0,0,,Hmph. Idiot.
+Dialogue: 0,0:11:56.95,0:11:57.97,Default,en,0,0,0,,What did you say-{\i1}dasu{\i0}?!
+Dialogue: 0,0:11:59.96,0:12:02.73,Default,en,0,0,0,,You're a showoff-{\i1}dasu{\i0}!
+Dialogue: 0,0:12:08.68,0:12:10.49,Default,en,0,0,0,,That was close-{\i1}dasu{\i0}...
+Dialogue: 0,0:12:11.60,0:12:13.02,Default,en,0,0,0,,Damn that Kojirō!
+Dialogue: 0,0:12:13.36,0:12:20.71,Default,en,0,0,0,,Musashi was insulted by Kojirō. Will he ever get a sword? Wait for the stormy latter half!
+Dialogue: 0,0:12:34.95,0:12:36.26,Default,en,0,0,0,,Caught one-{\i1}dasu{\i0}!
+Dialogue: 0,0:12:40.86,0:12:43.07,Default,en,0,0,0,,Hungry-{\i1}dasu{\i0}...
+Dialogue: 0,0:12:49.66,0:12:53.89,Default,en,0,0,0,,Here, Musashi. I made these rice balls for you. Eat as much as you want!
+Dialogue: 0,0:12:54.69,0:12:57.77,Default,en,0,0,0,,Thank you for all of these-{\i1}dasu{\i0}, Otsuru.
+Dialogue: 0,0:13:02.15,0:13:04.54,Default,en,0,0,0,,Otsuru, these are tough-{\i1}dasu{\i0}...
+Dialogue: 0,0:13:07.27,0:13:08.67,Default,en,0,0,0,,Tough...
+Dialogue: 0,0:13:09.34,0:13:10.29,Default,en,0,0,0,,Otsuru...
+Dialogue: 0,0:13:10.60,0:13:12.06,Default,en,0,0,0,,I can't eat-{\i1}dasu{\i0}...
+Dialogue: 0,0:13:12.39,0:13:14.42,Default,en,0,0,0,,Hey there! Brother!
+Dialogue: 0,0:13:17.61,0:13:20.19,Default,en,0,0,0,,Brother, why are you gnawing on stones?
+Dialogue: 0,0:13:20.80,0:13:24.16,Default,en,0,0,0,,I... I am too hungry to move-{\i1}dasu{\i0}.
+Dialogue: 0,0:13:24.70,0:13:26.68,Default,en,0,0,0,,Here, brother! You can have this!
+Dialogue: 0,0:13:37.59,0:13:39.67,Default,en,0,0,0,,That was good! I am full-{\i1}dasu{\i0}.
+Dialogue: 0,0:13:40.70,0:13:44.84,Default,en,0,0,0,,Thanks to you, kid, that really saved me-{\i1}dasu{\i0}!
+Dialogue: 0,0:13:46.28,0:13:50.77,Default,en,0,0,0,,But... weren't you going to take that fishes to your home-{\i1}dasu{\i0}?
+Dialogue: 0,0:13:51.02,0:13:53.45,Default,en,0,0,0,,It's all right! I can catch them again with this!
+Dialogue: 0,0:13:53.90,0:13:56.56,Default,en,0,0,0,,All right! If that's the case, brother will catch for you-{\i1}dasu{\i0}!
+Dialogue: 0,0:14:03.30,0:14:04.69,Default,en,0,0,0,,I did it!
+Dialogue: 0,0:14:05.34,0:14:07.05,Default,en,0,0,0,,You're awesome!
+Dialogue: 0,0:14:09.05,0:14:10.15,Default,en,0,0,0,,Thank you!
+Dialogue: 0,0:14:10.94,0:14:12.63,Default,en,0,0,0,,That was nothing-{\i1}dasu{\i0}.
+Dialogue: 0,0:14:12.97,0:14:17.08,Default,en,0,0,0,,But still, that harpoon pierces pretty nicely... Who made it?
+Dialogue: 0,0:14:17.37,0:14:19.71,Default,en,0,0,0,,My dad made this!
+Dialogue: 0,0:14:19.94,0:14:20.73,Default,en,0,0,0,,Dad?
+Dialogue: 0,0:14:21.27,0:14:24.75,Default,en,0,0,0,,The number one sword craftsman of Jipangu, Kotetsu Kenmochi!
+Dialogue: 0,0:14:25.13,0:14:26.89,Default,en,0,0,0,,I am his son, Kotarō!
+Dialogue: 0,0:14:27.55,0:14:28.70,Default,en,0,0,0,,Lucky-{\i1}dasu{\i0}!
+Dialogue: 0,0:14:30.40,0:14:31.81,Default,en,0,0,0,,Nope, no way.
+Dialogue: 0,0:14:32.47,0:14:35.25,Default,en,0,0,0,,Don't say that, and please help-{\i1}dasu{\i0}!
+Dialogue: 0,0:14:35.65,0:14:38.07,Default,en,0,0,0,,I really want a sword from a master craftsman-{\i1}dasu{\i0}!
+Dialogue: 0,0:14:38.61,0:14:40.80,Default,en,0,0,0,,I gave up being one!
+Dialogue: 0,0:14:41.77,0:14:46.56,Default,en,0,0,0,,Please, just one for me! Help me become the number one martial artist of Jipangu!
+Dialogue: 0,0:14:47.34,0:14:52.32,Default,en,0,0,0,,But it's your effort alone that will make you become the number one in Jipangu. I can't make you become one!
+Dialogue: 0,0:14:53.05,0:14:58.26,Default,en,0,0,0,,I already know-{\i1}dasu{\i0}! From now on, I'll risk my life for that-{\i1}dasu{\i0}.
+Dialogue: 0,0:14:58.76,0:15:00.45,Default,en,0,0,0,,But... still...
+Dialogue: 0,0:15:00.87,0:15:03.77,Default,en,0,0,0,,I... really want a sword from a master craftsman-{\i1}dasu{\i0}...
+Dialogue: 0,0:15:10.84,0:15:15.70,Default,en,0,0,0,,Please-{\i1}dasu{\i0}! I want a sword from an expert-{\i1}dasu{\i0}!
+Dialogue: 0,0:15:16.52,0:15:18.00,Default,en,0,0,0,,I want one-{\i1}dasu{\i0}!
+Dialogue: 0,0:15:18.10,0:15:19.45,Default,en,0,0,0,,What should I do with him?
+Dialogue: 0,0:15:20.51,0:15:23.79,Default,en,0,0,0,,I want a sword-{\i1}dasu{\i0}!
+Dialogue: 0,0:15:23.79,0:15:25.02,Default,en,0,0,0,,Sword...
+Dialogue: 0,0:15:26.30,0:15:30.22,Default,en,0,0,0,,Once decided, Musashi was persistent.
+Dialogue: 0,0:15:31.58,0:15:35.40,Default,en,0,0,0,,Please-{\i1}dasu{\i0}! I want a sword no matter whatever it takes-{\i1}dasu{\i0}!
+Dialogue: 0,0:15:35.78,0:15:39.51,Default,en,0,0,0,,Please-{\i1}dasu{\i0}! I want a sword of an expert-{\i1}dasu{\i0}!
+Dialogue: 0,0:15:39.80,0:15:43.08,Default,en,0,0,0,,-Please help me-{\i1}dasu{\i0}! I'll pay you-{\i1}dasu{\i0}!\N-Dad...
+Dialogue: 0,0:15:43.34,0:15:47.26,Default,en,0,0,0,,Please-{\i1}dasu{\i0}! I need to be the number one martial artist of Jipangu...
+Dialogue: 0,0:16:00.23,0:16:03.77,Default,en,0,0,0,,Master Bokuden... I am so mortified-{\i1}dasu{\i0}...
+Dialogue: 0,0:16:04.56,0:16:05.31,Default,en,0,0,0,,Bokuden?
+Dialogue: 0,0:16:05.31,0:16:08.68,Default,en,0,0,0,,I won't be able to become the number one anymore...
+Dialogue: 0,0:16:08.82,0:16:10.51,Default,en,0,0,0,,Hey! Musashi! Wake up!
+Dialogue: 0,0:16:15.13,0:16:18.39,Default,en,0,0,0,,Ah! Good morning-{\i1}dasu{\i0}.
+Dialogue: 0,0:16:18.82,0:16:22.14,Default,en,0,0,0,,I must ask you; who is the master you learned swordsmanship from?
+Dialogue: 0,0:16:22.46,0:16:24.63,Default,en,0,0,0,,My master is Tsukahara Bokuden-{\i1}dasu{\i0}.
+Dialogue: 0,0:16:25.10,0:16:28.59,Default,en,0,0,0,,Do not lie! Bokuden does not take students!
+Dialogue: 0,0:16:29.17,0:16:32.29,Default,en,0,0,0,,Bu- but I really am his student-{\i1}dasu{\i0}.
+Dialogue: 0,0:16:32.87,0:16:36.52,Default,en,0,0,0,,Then tell me, the ultimate purpose of a sword, according to Master Bokuden!
+Dialogue: 0,0:16:37.27,0:16:38.61,Default,en,0,0,0,,Uh... what was it?
+Dialogue: 0,0:16:38.92,0:16:40.55,Default,en,0,0,0,,-What's the problem?\N-Um...
+Dialogue: 0,0:16:40.55,0:16:41.79,Default,en,0,0,0,,You were lying at all!
+Dialogue: 0,0:16:42.60,0:16:44.40,Default,en,0,0,0,,I do not lie-{\i1}dasu{\i0}!
+Dialogue: 0,0:16:44.57,0:16:46.00,Default,en,0,0,0,,Then tell me right now!
+Dialogue: 0,0:16:53.43,0:16:54.65,Default,en,0,0,0,,This is going nowhere.
+Dialogue: 0,0:16:56.39,0:16:59.90,Default,en,0,0,0,,Wait! Just a moment! I remembered!
+Dialogue: 0,0:17:02.83,0:17:05.23,Default,en,0,0,0,,The true meaning of a sword is to win without fighting.
+Dialogue: 0,0:17:05.36,0:17:10.06,Default,en,0,0,0,,Solidness(武) of martial arts(武道) originally means to stop(止) a spear(戈); in other words, to stop a weapon.
+Dialogue: 0,0:17:10.23,0:17:13.48,Default,en,0,0,0,,To borrow the words of Laozi, the one who easily defeats an enemy does not engage.
+Dialogue: 0,0:17:13.66,0:17:14.71,Default,en,0,0,0,,Good job!
+Dialogue: 0,0:17:15.84,0:17:17.69,Default,en,0,0,0,,Yes! Thank you-{\i1}dasu{\i0}.
+Dialogue: 0,0:17:19.13,0:17:22.63,Default,en,0,0,0,,I have a reason why I stopped being a sword craftsman.
+Dialogue: 0,0:17:23.11,0:17:26.75,Default,en,0,0,0,,First, you must know that a sword has a spirit.
+Dialogue: 0,0:17:27.42,0:17:31.26,Default,en,0,0,0,,A sword inherits the mind of the crafter and the yielder.
+Dialogue: 0,0:17:31.26,0:17:34.69,Default,en,0,0,0,,To one with a wicked mind, the sword would also become so,
+Dialogue: 0,0:17:35.10,0:17:38.81,Default,en,0,0,0,,ending up as nothing more than a tool to take lives away. Do you understand?
+Dialogue: 0,0:17:39.78,0:17:44.24,Default,en,0,0,0,,I don't really understand-{\i1}dasu{\i0}, but I don't use swords to kill people-{\i1}dasu{\i0}.
+Dialogue: 0,0:17:44.57,0:17:48.21,Default,en,0,0,0,,Well said, Musashi. Your eyes are clear.
+Dialogue: 0,0:17:49.38,0:17:50.94,Default,en,0,0,0,,Because I had a good sleep.
+Dialogue: 0,0:17:51.36,0:17:55.68,Default,en,0,0,0,,Musashi, listen well. I will make swords for you for the last time.
+Dialogue: 0,0:17:56.68,0:17:57.76,Default,en,0,0,0,,Re- really?!
+Dialogue: 0,0:17:58.02,0:18:02.10,Default,en,0,0,0,,But you will have to learn the mind of sword craftsman.
+Dialogue: 0,0:18:02.54,0:18:02.98,Default,en,0,0,0,,Right!
+Dialogue: 0,0:18:07.02,0:18:13.32,Default,en,0,0,0,,The material of Japanese swords is iron sand of high purity that slept for a long time under the grond.
+Dialogue: 0,0:18:13.81,0:18:19.63,Default,en,0,0,0,,The iron sand must be forged thousands and millions of times wholeheartedly in order to make one.
+Dialogue: 0,0:18:32.39,0:18:34.22,Default,en,0,0,0,,I wonder if they're still not done yet...
+Dialogue: 0,0:18:37.88,0:18:39.31,Default,en,0,0,0,,-We did it!\N-We did it!
+Dialogue: 0,0:18:39.58,0:18:43.61,Default,en,0,0,0,,-We did it-{\i1}dasu{\i0}! Hooray-{\i1}dasu{\i0}!\N-Good job!
+Dialogue: 0,0:18:44.01,0:18:49.06,Default,en,0,0,0,,Musashi, these will be the last swords that I make in this world. Use them to the fullest.
+Dialogue: 0,0:18:49.71,0:18:51.14,Default,en,0,0,0,,Thank you so much-{\i1}dasu{\i0}.
+Dialogue: 0,0:18:59.35,0:19:03.64,Default,en,0,0,0,,Master Kotetsu! Huh? I suddenly got sleepy...
+Dialogue: 0,0:19:14.47,0:19:15.92,Default,en,0,0,0,,Dear! Big problem!
+Dialogue: 0,0:19:17.53,0:19:19.10,Default,en,0,0,0,,Wha- what's going on?
+Dialogue: 0,0:19:20.36,0:19:22.41,Default,en,0,0,0,,People from Yoshioka Dōjō came and...
+Dialogue: 0,0:19:24.12,0:19:27.51,Default,en,0,0,0,,What? He didn't made the sword I asked?
+Dialogue: 0,0:19:27.86,0:19:31.39,Default,en,0,0,0,,We will not accept any request from anyone!
+Dialogue: 0,0:19:31.54,0:19:34.11,Default,en,0,0,0,,Then I'll make him make one!
+Dialogue: 0,0:19:34.49,0:19:35.30,Default,en,0,0,0,,-You know what to do!\N-Yes!
+Dialogue: 0,0:19:38.30,0:19:39.87,Default,en,0,0,0,,What are you doing?!
+Dialogue: 0,0:19:41.13,0:19:43.99,Default,en,0,0,0,,Help! I'm scared!
+Dialogue: 0,0:19:44.54,0:19:48.45,Default,en,0,0,0,,I will exchange your child for a sword made by Kotetsu. Tell him so!
+Dialogue: 0,0:19:48.79,0:19:50.62,Default,en,0,0,0,,Help me!
+Dialogue: 0,0:19:50.62,0:19:53.26,Default,en,0,0,0,,Kotarō!
+Dialogue: 0,0:20:01.15,0:20:06.27,Default,en,0,0,0,,What a cowardly gang. I will save Kotarō even if I have to exchange my life for him-{\i1}dasu{\i0}!
+Dialogue: 0,0:20:10.10,0:20:12.31,Default,en,0,0,0,,Kotarō! I'm going to save you-{\i1}dasu{\i0}!
+Dialogue: 0,0:20:12.31,0:20:17.61,NoteOnAnime,en,0,0,0,,{\an6\fs64\frz-89.7\frx2\fax0.1\move(558,372,558,372)}Yoshioka Dōjō Inc.
+Dialogue: 0,0:20:12.31,0:20:17.61,NoteOnAnime,en,0,0,0,,{\an4\fs36\frz-89.7\frx2\fax0.1\move(512,168,512,168)}Sakai Branch
+Dialogue: 0,0:20:16.48,0:20:18.55,Default,en,0,0,0,,Musashi has appeared!
+Dialogue: 0,0:20:19.94,0:20:21.40,Default,en,0,0,0,,-Musashi!\N-How dare you!
+Dialogue: 0,0:20:21.77,0:20:23.69,Default,en,0,0,0,,Musashi is here-{\i1}dasu{\i0}!
+Dialogue: 0,0:20:32.57,0:20:34.87,Default,en,0,0,0,,No need to worry-{\i1}dasu{\i0}! It was the back side-{\i1}dasu{\i0}!
+Dialogue: 0,0:20:38.34,0:20:39.80,Default,en,0,0,0,,Prepare yourself, Musashi!
+Dialogue: 0,0:20:50.38,0:20:51.91,Default,en,0,0,0,,What is that posture?
+Dialogue: 0,0:20:56.54,0:20:59.15,Default,en,0,0,0,,Musashi! Don't you see this?!
+Dialogue: 0,0:20:59.70,0:21:00.87,Default,en,0,0,0,,Ko- Kotarō!
+Dialogue: 0,0:21:01.11,0:21:05.08,Default,en,0,0,0,,Give up with your futile resistance! Or this kid dies!
+Dialogue: 0,0:21:06.18,0:21:08.03,Default,en,0,0,0,,Musashi! Put down your sword!
+Dialogue: 0,0:21:13.64,0:21:15.74,Default,en,0,0,0,,D- dad!
+Dialogue: 0,0:21:15.78,0:21:16.45,Default,en,0,0,0,,Kotarō!
+Dialogue: 0,0:21:17.30,0:21:18.94,Default,en,0,0,0,,Unforgivable, Densichirō!
+Dialogue: 0,0:21:27.86,0:21:30.85,Default,en,0,0,0,,Spare me. I'll give you money as much as you want!
+Dialogue: 0,0:21:31.22,0:21:34.06,Default,en,0,0,0,,Unforgivable-{\i1}dasu{\i0}! I will send you to hell-{\i1}dasu{\i0}!
+Dialogue: 0,0:21:40.57,0:21:41.98,Default,en,0,0,0,,Musashi! Stop that right now!
+Dialogue: 0,0:21:42.41,0:21:43.63,Default,en,0,0,0,,Don't stop me-{\i1}dasu{\i0}!
+Dialogue: 0,0:21:44.02,0:21:47.84,Default,en,0,0,0,,Did you forget already, Musashi?! A sword does not exist to injure a person!
+Dialogue: 0,0:21:48.01,0:21:50.15,Default,en,0,0,0,,Master Bokuden would said so too!
+Dialogue: 0,0:21:52.41,0:21:55.35,Default,en,0,0,0,,If you kill this guy, you just end up disgracing your sword!
+Dialogue: 0,0:21:56.68,0:21:58.85,Default,en,0,0,0,,Alright-{\i1}dasu{\i0}.
+Dialogue: 0,0:22:14.10,0:22:17.89,Default,en,0,0,0,,And this is how Musashi has managed to get the excellent swords, Kotetsu.
+Dialogue: 0,0:22:18.01,0:22:23.32,Default,en,0,0,0,,And also, on that day, that famous dual blade has born,
+Dialogue: 0,0:22:24.03,0:22:27.03,Default,en,0,0,0,,but Musashi is yet to realize.
+Dialogue: 0,0:22:42.30,0:22:44.34,SongED1,en,0,0,0,,Sometimes the moon jumps over
+Dialogue: 0,0:22:45.05,0:22:47.59,SongED1,en,0,0,0,,the pocket of empty sky
+Dialogue: 0,0:22:47.80,0:22:49.97,SongED1,en,0,0,0,,Laugh loudly and
+Dialogue: 0,0:22:50.60,0:22:52.60,SongED1,en,0,0,0,,morning will come tomorrow
+Dialogue: 0,0:22:53.35,0:22:57.94,SongED1,en,0,0,0,,Don't worry too much about losing
+Dialogue: 0,0:22:58.94,0:23:01.52,SongED1,en,0,0,0,,Keep going! Go for it!
+Dialogue: 0,0:23:01.52,0:23:03.94,SongED1,en,0,0,0,,A bare hand is strong
+Dialogue: 0,0:23:04.36,0:23:14.04,SongED1,en,0,0,0,,That's how it is! Let's go lightly
+Dialogue: 0,0:23:14.50,0:23:22.09,SongED1,en,0,0,0,,That's how life is! Look, a chance
+Dialogue: 0,0:23:22.55,0:23:26.80,SongED1,en,0,0,0,,follows us wagging its tail!
+Dialogue: 0,0:23:28.22,0:23:37.73,SongED1,en,0,0,0,,That's how it is! Let's go lightly
+Dialogue: 0,0:23:38.23,0:23:46.19,SongED1,en,0,0,0,,That's how the future is, too! Look, tomorrow
+Dialogue: 0,0:23:46.44,0:23:52.03,SongED1,en,0,0,0,,is opening its hands and smiling at us!
+Dialogue: 0,0:24:05.98,0:24:08.25,Default,en,0,0,0,,Master. A word with good echo-{\i1}dasu{\i0}.
+Dialogue: 0,0:24:08.52,0:24:10.87,Default,en,0,0,0,,Finally, I got a student-{\i1}dasu{\i0}!
+Dialogue: 0,0:24:11.10,0:24:17.05,Default,en,0,0,0,,A student is convinient! He lets me eat dangos without worry, and guides my path.
+Dialogue: 0,0:24:17.32,0:24:20.47,Default,en,0,0,0,,But this student is powerful than me, heh...
+Dialogue: 0,0:24:21.39,0:24:24.25,Default,en,0,0,0,,Next story! I am a Master! Excellent!
+Dialogue: 0,0:24:24.60,0:24:27.01,Default,en,0,0,0,,Be sure to check out the next stormy story-{\i1}dasu{\i0}!
+Dialogue: 0,0:24:27.03,0:24:30.99,NoteOnAnime,en,60,0,60,,{\an7}Next Episode
+Dialogue: 0,0:24:27.03,0:24:30.99,TitleEP,en,0,0,80,,I am a Master\NExcellent!
+Dialogue: 0,0:24:27.03,0:24:30.99,NoteOnAnime,en,0,60,30,,{\an3\fs32}Look forwards for it!

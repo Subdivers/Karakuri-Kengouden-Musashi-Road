@@ -1,0 +1,296 @@
+﻿[Script Info]
+Title: Clean and Poor Kusarigama
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 480
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: NoteOnAnime,Candara,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,10,1
+Style: SongOP,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: TitleOP,DejaVu Serif,42,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: TitleEP,DejaVu Serif,42,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: SongED1,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: Note,Candara,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,10,10,10,1
+Style: Eyecatch,Candara,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.33,0:00:06.56,Default,en,0,0,0,,It is the turbulent Sengoku period.
+Dialogue: 0,0:00:06.97,0:00:11.54,Default,en,0,0,0,,Warlords keep on fighting day and night over\NJipangu State, where Karakuri people live.
+Dialogue: 0,0:00:11.79,0:00:16.49,Default,en,0,0,0,,Karakuri martial artists were sharpening their swords, dreaming of victory and honor.
+Dialogue: 0,0:00:16.75,0:00:23.22,Default,en,0,0,0,,And now, a wild hero has arrived, seeking to be the number one Karakuri martial artist!
+Dialogue: 0,0:00:24.36,0:00:26.67,Default,en,0,0,0,,Musashi is here-{\i1}dasu{\i0}!
+Dialogue: 0,0:00:27.81,0:00:32.99,TitleOP,en,0,0,40,,{\an8\fs32\fade(770,0)}Karakuri Kengouden
+Dialogue: 0,0:00:27.81,0:00:32.99,TitleOP,en,0,0,40,,{\fade(770,0)}Musashi Road
+Dialogue: 0,0:00:27.81,0:00:32.99,TitleOP,en,0,0,40,,{\fs24\fade(770,0)}(The Story of {\i1}Karakuri{\i0} Martial Artist: Road of Musashi)
+Dialogue: 0,0:00:32.97,0:00:37.81,SongOP,en,0,0,0,,A man always dreams of the day
+Dialogue: 0,0:00:38.64,0:00:41.56,SongOP,en,0,0,0,,in the center of the world to become
+Dialogue: 0,0:00:41.56,0:00:44.44,SongOP,en,0,0,0,,AH! AH! the strongest
+Dialogue: 0,0:00:44.44,0:00:49.49,SongOP,en,0,0,0,,Raise the sword of your heart high to the wide sky
+Dialogue: 0,0:00:50.11,0:00:54.12,SongOP,en,0,0,0,,Raise the curtain to the road of adventure
+Dialogue: 0,0:00:55.45,0:01:00.71,SongOP,en,0,0,0,,A skilled swordsman roams on Jipangu State
+Dialogue: 0,0:01:01.29,0:01:06.34,SongOP,en,0,0,0,,His name is Musashi, a Karakuri man
+Dialogue: 0,0:01:06.34,0:01:07.84,SongOP,en,0,0,0,,Go! Fight!
+Dialogue: 0,0:01:07.84,0:01:10.76,SongOP,en,0,0,0,,The sound of fierce duels
+Dialogue: 0,0:01:10.76,0:01:13.59,SongOP,en,0,0,0,,makes life dazzling
+Dialogue: 0,0:01:13.59,0:01:19.06,SongOP,en,0,0,0,,Battles of yesterdays make you stronger today
+Dialogue: 0,0:01:19.10,0:01:25.31,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
+Dialogue: 0,0:01:25.31,0:01:28.32,SongOP,en,0,0,0,,Tomorrow will be glorious
+Dialogue: 0,0:01:28.32,0:01:30.78,SongOP,en,0,0,0,,The sound of fierce duels
+Dialogue: 0,0:01:30.78,0:01:33.28,SongOP,en,0,0,0,,makes life dazzling
+Dialogue: 0,0:01:33.99,0:01:39.37,SongOP,en,0,0,0,,Fight the utmost with the stillness
+Dialogue: 0,0:01:39.41,0:01:45.63,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
+Dialogue: 0,0:01:45.63,0:01:50.88,SongOP,en,0,0,0,,His eyes shined! Musashi!
+Dialogue: 0,0:02:00.59,0:02:06.39,Default,en,0,0,0,,Musashi, learned about the year-end Jipangu Martial Arts Competition from Jūbee,
+Dialogue: 0,0:02:07.16,0:02:13.44,Default,en,0,0,0,,headed to Edotopia in Miyako, fighting against spear-wielding Hōzōin on his way.
+Dialogue: 0,0:02:14.22,0:02:18.41,Default,en,0,0,0,,What is waiting in front of Musashi? Is it a flower or a storm?
+Dialogue: 0,0:02:18.74,0:02:23.79,TitleEP,en,0,0,60,,Clean and Poor Kusarigama
+Dialogue: 0,0:03:27.13,0:03:29.52,Default,en,0,0,0,,Musashi!
+Dialogue: 0,0:03:30.86,0:03:31.77,Default,en,0,0,0,,Otsuru!
+Dialogue: 0,0:03:32.32,0:03:33.95,Default,en,0,0,0,,Musashi!
+Dialogue: 0,0:03:34.19,0:03:36.14,Default,en,0,0,0,,Otsuru!
+Dialogue: 0,0:03:36.28,0:03:38.08,Default,en,0,0,0,,Musashi!
+Dialogue: 0,0:03:38.21,0:03:40.06,Default,en,0,0,0,,Otsuru!
+Dialogue: 0,0:03:43.53,0:03:44.69,Default,en,0,0,0,,That was splendid!
+Dialogue: 0,0:03:45.40,0:03:51.96,Default,en,0,0,0,,Yes! I won the first place at the competition-{\i1}dasu{\i0}! I've became the number one martial artist of Jipangu-{\i1}dasu{\i0}!
+Dialogue: 0,0:03:53.12,0:03:54.38,Default,en,0,0,0,,Congratulations.
+Dialogue: 0,0:03:56.04,0:03:56.77,Default,en,0,0,0,,Otsuru...
+Dialogue: 0,0:03:57.55,0:04:00.89,Default,en,0,0,0,,You idiot! You're even dreaming too early!
+Dialogue: 0,0:04:01.52,0:04:03.22,Default,en,0,0,0,,This is a nightmare-{\i1}dasu{\i0}!
+Dialogue: 0,0:04:54.75,0:04:56.98,Default,en,0,0,0,,Those are my Kotetsus!
+Dialogue: 0,0:04:58.72,0:05:00.30,Default,en,0,0,0,,Give those back-{\i1}dasu{\i0}!
+Dialogue: 0,0:05:02.52,0:05:03.95,Default,en,0,0,0,,What's with this-{\i1}dasu{\i0}?
+Dialogue: 0,0:05:04.70,0:05:06.28,Default,en,0,0,0,,Pfft!
+Dialogue: 0,0:05:07.34,0:05:08.12,Default,en,0,0,0,,Hey!
+Dialogue: 0,0:05:12.12,0:05:13.08,Default,en,0,0,0,,You made me mad-{\i1}dasu{\i0}!
+Dialogue: 0,0:05:15.18,0:05:16.52,Default,en,0,0,0,,Stop right there!
+Dialogue: 0,0:05:17.10,0:05:18.41,Default,en,0,0,0,,You aren't going anywhere-{\i1}dasu{\i0}!
+Dialogue: 0,0:05:23.80,0:05:25.31,Default,en,0,0,0,,Stop!
+Dialogue: 0,0:05:30.76,0:05:32.83,Default,en,0,0,0,,I'm not falling over that again-{\i1}dasu{\i0}!
+Dialogue: 0,0:05:33.74,0:05:39.81,Default,en,0,0,0,,I've been doing that for the whole time; you shall not defeat me in a mountain-{\i1}dasu{\i0}!
+Dialogue: 0,0:05:43.29,0:05:45.45,Default,en,0,0,0,,Give it up and give my swords back-{\i1}dasu{\i0}!
+Dialogue: 0,0:05:58.12,0:05:59.68,Default,en,0,0,0,,He's pretty good-{\i1}dasu{\i0}.
+Dialogue: 0,0:06:00.01,0:06:02.27,Default,en,0,0,0,,No, it's not the time to be surprised-{\i1}dasu{\i0}.
+Dialogue: 0,0:06:13.85,0:06:15.29,Default,en,0,0,0,,Where did he go-{\i1}dasu{\i0}?
+Dialogue: 0,0:06:17.24,0:06:19.01,Default,en,0,0,0,,Come out!
+Dialogue: 0,0:06:21.07,0:06:22.78,Default,en,0,0,0,,Hiding is unfair-{\i1}dasu{\i0}!
+Dialogue: 0,0:06:23.20,0:06:25.59,Default,en,0,0,0,,Where are you-{\i1}dasu{\i0}?! Show yourself-{\i1}dasu{\i0}!
+Dialogue: 0,0:06:45.46,0:06:47.10,Default,en,0,0,0,,Right there!
+Dialogue: 0,0:06:56.60,0:06:59.61,Default,en,0,0,0,,What are you doing-{\i1}dasu{\i0}? Stop-{\i1}dasu{\i0}!
+Dialogue: 0,0:07:01.96,0:07:04.90,Default,en,0,0,0,,Attacking all of a sudden is cowardly and unforgivable-{\i1}dasu{\i0}!
+Dialogue: 0,0:07:05.10,0:07:06.74,Default,en,0,0,0,,What? Cowardly?
+Dialogue: 0,0:07:06.94,0:07:10.90,NoteOnAnime,en,100,0,75,,{\fad(400,400)}Baiken
+Dialogue: 0,0:07:06.88,0:07:11.94,Default,en,0,0,0,,You're the one to talk; you dived onto me while I'm cutting grasses!
+Dialogue: 0,0:07:12.52,0:07:16.63,Default,en,0,0,0,,Cutting grasses... Are you saying that that's a sickle-{\i1}dasu{\i0}?
+Dialogue: 0,0:07:16.86,0:07:17.37,Default,en,0,0,0,,Look!
+Dialogue: 0,0:07:20.44,0:07:22.33,Default,en,0,0,0,,Now you see?
+Dialogue: 0,0:07:23.24,0:07:26.30,Default,en,0,0,0,,How convenient! You can cut many at once-{\i1}dasu{\i0}!
+Dialogue: 0,0:07:26.68,0:07:29.23,Default,en,0,0,0,,Ah, sorry for interrupting-{\i1}dasu{\i0}.
+Dialogue: 0,0:07:30.25,0:07:32.31,Default,en,0,0,0,,I am Musashi-{\i1}dasu{\i0}.
+Dialogue: 0,0:07:33.08,0:07:34.64,Default,en,0,0,0,,I am Baiken.
+Dialogue: 0,0:07:35.57,0:07:37.94,Default,en,0,0,0,,Did you see those kids with swords-{\i1}dasu{\i0}?
+Dialogue: 0,0:07:38.27,0:07:39.76,Default,en,0,0,0,,Children with swords?
+Dialogue: 0,0:07:40.24,0:07:41.73,Default,en,0,0,0,,Those swords are mine-{\i1}dasu{\i0}.
+Dialogue: 0,0:07:43.02,0:07:43.93,Default,en,0,0,0,,Are they stolen?
+Dialogue: 0,0:07:44.43,0:07:46.96,Default,en,0,0,0,,During I was taking a nap for a bit...
+Dialogue: 0,0:07:47.40,0:07:48.97,Default,en,0,0,0,,Were there three children?
+Dialogue: 0,0:07:49.12,0:07:49.95,Default,en,0,0,0,,Ri- right-{\i1}dasu{\i0}.
+Dialogue: 0,0:07:53.54,0:07:55.63,Default,en,0,0,0,,Baiken, do you have suspects-{\i1}dasu{\i0}?
+Dialogue: 0,0:07:56.33,0:07:56.84,Default,en,0,0,0,,Baiken!
+Dialogue: 0,0:08:00.62,0:08:02.56,Default,en,0,0,0,,{\i1}He's up to something-{\i0}dasu{\i1}.
+Dialogue: 0,0:08:20.08,0:08:22.92,Default,en,0,0,0,,I told you countless times, and you still didn't get it?
+Dialogue: 0,0:08:23.93,0:08:26.94,Default,en,0,0,0,,But bro, you said you wanted it so much!
+Dialogue: 0,0:08:27.15,0:08:29.13,Default,en,0,0,0,,Ikken! No excuses!
+Dialogue: 0,0:08:33.55,0:08:36.26,Default,en,0,0,0,,Nikken! A man must not cry!
+Dialogue: 0,0:08:41.10,0:08:42.23,Default,en,0,0,0,,Now!
+Dialogue: 0,0:08:45.61,0:08:47.71,Default,en,0,0,0,,I'll cut the hands as promised.
+Dialogue: 0,0:08:49.45,0:08:53.14,Default,en,0,0,0,,Oharu. You'll be forgiven this time since you're only a girl.
+Dialogue: 0,0:08:53.58,0:08:55.60,Default,en,0,0,0,,Ikken, Niken! Show your hands!
+Dialogue: 0,0:09:00.09,0:09:01.71,Default,en,0,0,0,,Oharu! You don't need to!
+Dialogue: 0,0:09:02.24,0:09:07.34,Default,en,0,0,0,,Brother, we made a promise when we departed from the state.
+Dialogue: 0,0:09:08.43,0:09:11.61,Default,en,0,0,0,,"From now on, let's combine our powers." We promised.
+Dialogue: 0,0:09:12.27,0:09:14.89,Default,en,0,0,0,,"We die and live together". We promised.
+Dialogue: 0,0:09:15.47,0:09:18.62,Default,en,0,0,0,,I can't be left out.
+Dialogue: 0,0:09:19.68,0:09:20.52,Default,en,0,0,0,,Oharu.
+Dialogue: 0,0:09:23.96,0:09:27.17,Default,en,0,0,0,,Alright, I get it. We die and live together.
+Dialogue: 0,0:09:27.64,0:09:30.11,Default,en,0,0,0,,Then I'll cut too.
+Dialogue: 0,0:09:30.68,0:09:32.04,Default,en,0,0,0,,You don't have to!
+Dialogue: 0,0:09:32.59,0:09:37.02,Default,en,0,0,0,,I am responsible for your robbery too.
+Dialogue: 0,0:09:37.46,0:09:41.21,Default,en,0,0,0,,We three live and die together.
+Dialogue: 0,0:09:42.33,0:09:42.94,Default,en,0,0,0,,So now we go...
+Dialogue: 0,0:09:44.16,0:09:45.16,Default,en,0,0,0,,Stop!
+Dialogue: 0,0:09:45.44,0:09:47.51,Default,en,0,0,0,,Stop! Stop right there!
+Dialogue: 0,0:09:49.08,0:09:50.32,Default,en,0,0,0,,Musashi, right?
+Dialogue: 0,0:09:50.78,0:09:53.26,Default,en,0,0,0,,This must be the stolen swords.
+Dialogue: 0,0:09:53.96,0:09:55.42,Default,en,0,0,0,,Those are mine, but...
+Dialogue: 0,0:09:57.86,0:09:59.48,Default,en,0,0,0,,Take these back.
+Dialogue: 0,0:10:00.11,0:10:02.67,Default,en,0,0,0,,But they aren't stolen-{\i1}dasu{\i0}.
+Dialogue: 0,0:10:03.24,0:10:03.66,Default,en,0,0,0,,What?
+Dialogue: 0,0:10:04.01,0:10:08.13,Default,en,0,0,0,,Actually, I rested my swords on a pine tree because it wasn't comfortable to bear my swords while sleeping,
+Dialogue: 0,0:10:08.92,0:10:12.42,Default,en,0,0,0,,but I forgot and left without them after waking up-{\i1}dasu{\i0}.
+Dialogue: 0,0:10:16.26,0:10:17.98,Default,en,0,0,0,,Do not lie!
+Dialogue: 0,0:10:18.44,0:10:19.92,Default,en,0,0,0,,It's not a lie-{\i1}dasu{\i0}!
+Dialogue: 0,0:10:20.59,0:10:26.12,Default,en,0,0,0,,A real martial artist will never forget his spirit - his sword!
+Dialogue: 0,0:10:26.35,0:10:28.17,Default,en,0,0,0,,B- but, still...
+Dialogue: 0,0:10:28.73,0:10:31.56,Default,en,0,0,0,,I keep completely forgetting those stuff-{\i1}dasu{\i0}.
+Dialogue: 0,0:10:31.88,0:10:34.06,Default,en,0,0,0,,Are you calling yourself a fake martial artist, Musashi?
+Dialogue: 0,0:10:34.56,0:10:35.20,Default,en,0,0,0,,What was that?
+Dialogue: 0,0:10:36.14,0:10:40.08,Default,en,0,0,0,,A real martial artist does not forget his own sword! Only an impostor does!
+Dialogue: 0,0:10:40.22,0:10:45.05,Default,en,0,0,0,,Shut your mouth up! I am a martial artist who had to live apart to learn under Bokuden as my master-{\i1}dasu{\i0}!
+Dialogue: 0,0:10:45.26,0:10:49.52,Default,en,0,0,0,,What? A student of Bokuden, the master martial artist of {\i1}mutōdori{\i0}?
+Dialogue: 0,0:10:50.73,0:10:54.00,Default,en,0,0,0,,How dare you call me a fake-{\i1}dasu{\i0}?!
+Dialogue: 0,0:10:56.30,0:10:57.53,Default,en,0,0,0,,I've been impolite.
+Dialogue: 0,0:10:57.84,0:11:01.60,Default,en,0,0,0,,If you understand, there's nothing special to apologize.
+Dialogue: 0,0:11:02.03,0:11:04.16,Default,en,0,0,0,,But I have a request.
+Dialogue: 0,0:11:04.46,0:11:07.24,Default,en,0,0,0,,Huh? I'll do whatever I can-{\i1}dasu{\i0}.
+Dialogue: 0,0:11:07.61,0:11:09.39,Default,en,0,0,0,,Give me your best shot.
+Dialogue: 0,0:11:09.76,0:11:11.75,Default,en,0,0,0,,Best shot? Do you want a practice match-{\i1}dasu{\i0}?
+Dialogue: 0,0:11:11.92,0:11:13.68,Default,en,0,0,0,,No. A match with real swords.
+Dialogue: 0,0:11:13.96,0:11:14.75,Default,en,0,0,0,,What did you say-{\i1}dasu{\i0}?
+Dialogue: 0,0:11:15.46,0:11:16.00,Default,en,0,0,0,,Is that a no?
+Dialogue: 0,0:11:16.32,0:11:18.40,Default,en,0,0,0,,No, that's not it, but...
+Dialogue: 0,0:11:18.92,0:11:22.56,Default,en,0,0,0,,You said that you'll do anything you can, but I can see that it was a flat-out lie!
+Dialogue: 0,0:11:22.88,0:11:24.82,Default,en,0,0,0,,No, a man does not take back his words-{\i1}dasu{\i0}!
+Dialogue: 0,0:11:43.24,0:11:44.51,Default,en,0,0,0,,Sorry for making you wait!
+Dialogue: 0,0:11:44.83,0:11:46.80,Default,en,0,0,0,,Baiken, is that your weapon?
+Dialogue: 0,0:11:47.25,0:11:49.18,Default,en,0,0,0,,Right. It's a {\i1}kusarigama{\i0}.
+Dialogue: 0,0:11:49.71,0:11:50.51,Default,en,0,0,0,,Kusarigama?
+Dialogue: 0,0:11:50.88,0:11:52.49,Default,en,0,0,0,,-Let's do this!\N-Right!
+Dialogue: 0,0:11:54.06,0:12:01.04,Default,en,0,0,0,,Will Musashi defeat Baiken's {\i1}kusarigama{\i0}? Wait for the stormy latter half!
+Dialogue: 0,0:12:15.29,0:12:17.17,Default,en,0,0,0,,Brother! Do your best!
+Dialogue: 0,0:12:17.24,0:12:18.12,Default,en,0,0,0,,Brother!
+Dialogue: 0,0:12:18.20,0:12:19.42,Default,en,0,0,0,,Silence!
+Dialogue: 0,0:12:19.88,0:12:21.34,Default,en,0,0,0,,This is a real match!
+Dialogue: 0,0:12:22.36,0:12:24.60,Default,en,0,0,0,,Don't say a thing or I'll be distracted!
+Dialogue: 0,0:12:26.36,0:12:29.06,Default,en,0,0,0,,From now on, keep quiet and stay put! Understood?
+Dialogue: 0,0:12:29.61,0:12:30.16,Default,en,0,0,0,,Got it!
+Dialogue: 0,0:12:30.27,0:12:33.73,Default,en,0,0,0,,We'll die if you die!
+Dialogue: 0,0:12:34.01,0:12:35.69,Default,en,0,0,0,,Oh dear...
+Dialogue: 0,0:12:35.98,0:12:39.18,Default,en,0,0,0,,Musashi! There will be no going easy on you! Let's do this!
+Dialogue: 0,0:12:39.53,0:12:40.27,Default,en,0,0,0,,Of course!
+Dialogue: 0,0:13:36.12,0:13:37.72,Default,en,0,0,0,,{\i1}What a strength!
+Dialogue: 0,0:13:40.04,0:13:44.10,Default,en,0,0,0,,{\i1}This isn't good. What should I do-{\i0}dasu{\i1}, what should I...
+Dialogue: 0,0:13:46.22,0:13:48.80,Default,en,0,0,0,,There are some rapids that you may float once you throw yourself in.\N(Fortune favors the bold.)
+Dialogue: 0,0:13:48.94,0:13:54.89,Default,en,0,0,0,,If you're prepared enough to throw your life for it, you will take your first victory.
+Dialogue: 0,0:13:58.80,0:13:59.44,Default,en,0,0,0,,Brother!
+Dialogue: 0,0:14:00.72,0:14:01.60,Default,en,0,0,0,L1400,No!
+Dialogue: 0,0:14:14.81,0:14:16.59,Default,en,0,0,0,L1414,아야, 뭔 짓이오!
+Dialogue: 0,0:14:14.81,0:14:16.59,Default,en,0,0,0,L1414,Ouch! What are you doing-{\i1}dasu{\i0}?!
+Dialogue: 0,0:14:32.81,0:14:34.09,Default,en,0,0,0,L1432,I lost.
+Dialogue: 0,0:14:34.51,0:14:37.31,Default,en,0,0,0,,No. The match isn't over yet-{\i1}dasu{\i0}.
+Dialogue: 0,0:14:37.63,0:14:41.87,Default,en,0,0,0,,No, that's not it. I've told them not to butt into the match, but...
+Dialogue: 0,0:14:42.56,0:14:46.16,Default,en,0,0,0,,This is also undesirable state brought about by my lack of virtue.
+Dialogue: 0,0:14:46.40,0:14:50.78,Default,en,0,0,0,,No, it's reasonable to help a crisis of a sibling-{\i1}dasu{\i0}!
+Dialogue: 0,0:14:52.73,0:14:55.24,Default,en,0,0,0,,I understand the feelings of those children-{\i1}dasu{\i0}.
+Dialogue: 0,0:14:55.66,0:15:03.10,Default,en,0,0,0,,I am ashamed. But it's a truth that my siblings helped me. That means, I would have been lost without their help.
+Dialogue: 0,0:15:03.45,0:15:05.05,Default,en,0,0,0,,We don't know about that yet-{\i1}dasu{\i0}.
+Dialogue: 0,0:15:05.47,0:15:06.20,Default,en,0,0,0,,But...
+Dialogue: 0,0:15:07.55,0:15:09.63,Default,en,0,0,0,,We won't know if we don't continue-{\i1}dasu{\i0}!
+Dialogue: 0,0:15:10.62,0:15:11.85,Default,en,0,0,0,,You are one tedious guy!
+Dialogue: 0,0:15:12.63,0:15:14.33,Default,en,0,0,0,,Same goes for Baiken!
+Dialogue: 0,0:15:33.34,0:15:38.12,Default,en,0,0,0,,We don't have any side dishes, but you can have this barley porridge as much as you want.
+Dialogue: 0,0:15:38.97,0:15:44.09,Default,en,0,0,0,,Eating around a fireplace with everyone is the best side dish-{\i1}dasu{\i0}! It tastes great-{\i1}dasu{\i0}.
+Dialogue: 0,0:15:45.36,0:15:47.31,Default,en,0,0,0,,Musashi's a weird guy.
+Dialogue: 0,0:15:47.74,0:15:48.43,Default,en,0,0,0,,Why-{\i1}dasu{\i0}?
+Dialogue: 0,0:15:48.88,0:15:54.51,Default,en,0,0,0,,How can be a fire a side dish? I want something roasted.
+Dialogue: 0,0:15:54.80,0:15:57.98,Default,en,0,0,0,,I want a side dish. Even a few pickled plums would be enough.
+Dialogue: 0,0:15:58.60,0:16:01.43,Default,en,0,0,0,,-Oharu!\N-What? It's true!
+Dialogue: 0,0:16:01.77,0:16:09.10,Default,en,0,0,0,,But still, even without pickled plums, only by thinking about those, I can feel the sourness and eat the porridge deliciously!
+Dialogue: 0,0:16:14.51,0:16:18.45,Default,en,0,0,0,,Musashi, I have to apologize. You've covered for my siblings earlier in the day,
+Dialogue: 0,0:16:18.70,0:16:24.86,Default,en,0,0,0,,but after hearing from you that you're a student of Bokuden, I asked you for a match because I wanted to test your ability.
+Dialogue: 0,0:16:26.04,0:16:30.34,Default,en,0,0,0,,Nonsense-{\i1}dasu{\i0}. I could learn by fighting against an opponent with a {\i1}kusarigama{\i0}-{\i1}dasu{\i0}.
+Dialogue: 0,0:16:31.10,0:16:34.06,Default,en,0,0,0,,Anyway, it's an interesting weapon-{\i1}dasu{\i0}.
+Dialogue: 0,0:16:34.48,0:16:35.55,Default,en,0,0,0,,You mean this?
+Dialogue: 0,0:16:36.56,0:16:40.30,Default,en,0,0,0,,Master Bokuden didn't tell me about this weapon-{\i1}dasu{\i0}.
+Dialogue: 0,0:16:40.99,0:16:42.88,Default,en,0,0,0,,My brother invented it!
+Dialogue: 0,0:16:43.30,0:16:44.52,Default,en,0,0,0,,Oh, by himself?
+Dialogue: 0,0:16:44.80,0:16:48.98,Default,en,0,0,0,,We've used to be farmers back at north from this place.
+Dialogue: 0,0:16:51.74,0:16:56.89,Default,en,0,0,0,,During that turbulent age, the crops and farms we worked on by ourselves have been destroyed numerous times,
+Dialogue: 0,0:16:57.77,0:17:05.05,Default,en,0,0,0,,and the fields were stamped, being used as battlefields, and our parents' lives were taken away.
+Dialogue: 0,0:17:14.67,0:17:15.66,Default,en,0,0,0,,Don't move.
+Dialogue: 0,0:17:16.16,0:17:16.78,Default,en,0,0,0,,Stay put.
+Dialogue: 0,0:17:17.29,0:17:19.21,Default,en,0,0,0,,But our dad and mom are...
+Dialogue: 0,0:17:19.29,0:17:25.80,Default,en,0,0,0,,We all die if you go out! If you want to avenge for our parents, keep down!
+Dialogue: 0,0:17:33.08,0:17:39.93,Default,en,0,0,0,,A new daimyō overthrew the previous lord. This new daimyō is an easily flinching, cruel and horrible person
+Dialogue: 0,0:17:40.32,0:17:43.92,Default,en,0,0,0,,who drove us to a wasteland and made us do work in a brutal environment.
+Dialogue: 0,0:17:47.97,0:17:53.04,Default,en,0,0,0,,We alone were not enough to fulfill their demands, leaving us being often whipped.
+Dialogue: 0,0:17:53.88,0:17:58.14,Default,en,0,0,0,,After seeing my hardworking siblings' hands full of wounds,
+Dialogue: 0,0:17:58.52,0:18:04.32,Default,en,0,0,0,,I tried to devise a way to cut more grasses at once with this sickle,
+Dialogue: 0,0:18:04.64,0:18:08.86,Default,en,0,0,0,,and decided to make a big sickle.
+Dialogue: 0,0:18:11.07,0:18:12.77,Default,en,0,0,0,,Hey, you! Stand up!
+Dialogue: 0,0:18:13.28,0:18:14.78,Default,en,0,0,0,,Please forgive us!
+Dialogue: 0,0:18:15.02,0:18:16.36,Default,en,0,0,0,,Do not get in the way!
+Dialogue: 0,0:18:22.86,0:18:27.21,Default,en,0,0,0,,I have never wanted a sword as much as back then.
+Dialogue: 0,0:18:27.90,0:18:33.06,Default,en,0,0,0,,Actually, I've been practicing swordsmanship in secret.
+Dialogue: 0,0:18:33.44,0:18:39.47,Default,en,0,0,0,,Wishing to become a real martial artist, take down the daimyō, and exact revenge for my parents.
+Dialogue: 0,0:18:40.38,0:18:45.72,Default,en,0,0,0,,But without the most important sword, a real fight is impossible.
+Dialogue: 0,0:18:50.14,0:18:51.33,Default,en,0,0,0,,I thought.
+Dialogue: 0,0:18:51.76,0:18:54.68,Default,en,0,0,0,,I thought to use that big sickle as a weapon.
+Dialogue: 0,0:18:55.10,0:19:00.72,Default,en,0,0,0,,And I finally came up with an idea to attach a weight to the sickle using chains.
+Dialogue: 0,0:19:07.24,0:19:12.75,Default,en,0,0,0,,One day, yielding {\i1}kusarigama{\i0} became natural enough.
+Dialogue: 0,0:19:17.95,0:19:23.49,Default,en,0,0,0,,On one stormy night, we abandoned our home.
+Dialogue: 0,0:19:29.15,0:19:30.73,Default,en,0,0,0,,I see...
+Dialogue: 0,0:19:31.10,0:19:38.56,Default,en,0,0,0,,Despite that I became comfortable using {\i1}kusarigama{\i0}, I was always worried about being unable to defeat sword with it.
+Dialogue: 0,0:19:39.04,0:19:44.36,Default,en,0,0,0,,Knowing that, that's why my siblings stole your swords.
+Dialogue: 0,0:19:46.51,0:19:51.71,Default,en,0,0,0,,Nope. A sword definitely a spirit of a Martial Artist-{\i1}dasu{\i0}. It is my fault, for losing it-{\i1}dasu{\i0}.
+Dialogue: 0,0:19:52.17,0:19:58.30,Note,en,0,0,0,,(It is told that Confucius didn't drink from {\i1}Tōsen{\i0}, 盜泉, literally {\i1}thief pond{\i0}, because of its name)
+Dialogue: 0,0:19:52.17,0:19:54.94,Default,en,0,0,0,,You do not drink from {\i1}Tōsen{\i0} even when you're thirsty.\N(Better starve than fatten on ill-gotten wealth.)
+Dialogue: 0,0:19:55.84,0:19:58.30,Default,en,0,0,0,,That is the oath of our siblings.
+Dialogue: 0,0:19:58.89,0:20:00.91,Default,en,0,0,0,,And as we broke our oath...
+Dialogue: 0,0:20:02.62,0:20:06.96,Default,en,0,0,0,,I, Musashi, will forgive that, and all you have to do is keep the oath again-{\i1}dasu{\i0}.
+Dialogue: 0,0:20:07.15,0:20:09.65,Default,en,0,0,0,,I feel ashamed. I will return the favor someday.
+Dialogue: 0,0:20:10.94,0:20:14.11,Default,en,0,0,0,,More importantly, you should join Jipangu Martial Arts Competition...
+Dialogue: 0,0:20:14.40,0:20:17.85,Default,en,0,0,0,,Of course! I've been training for that to this day!
+Dialogue: 0,0:20:18.66,0:20:20.96,Default,en,0,0,0,,I have a new rival-{\i1}dasu{\i0}!
+Dialogue: 0,0:20:21.26,0:20:23.90,Default,en,0,0,0,,I hope to see you in the final match!
+Dialogue: 0,0:20:24.14,0:20:26.16,Default,en,0,0,0,,Agreed-{\i1}dasu{\i0}.
+Dialogue: 0,0:20:30.49,0:20:31.47,Default,en,0,0,0,,Good morning-{\i1}dasu{\i0}!
+Dialogue: 0,0:20:32.00,0:20:32.65,Default,en,0,0,0,,Good morning.
+Dialogue: 0,0:20:33.08,0:20:35.66,Default,en,0,0,0,,Huh? Where are the children?
+Dialogue: 0,0:20:36.40,0:20:38.98,Default,en,0,0,0,,They went gather potatoes from the field.
+Dialogue: 0,0:20:40.19,0:20:45.76,Default,en,0,0,0,,They aren't ripe yet, but they wanted to give you some real side dishes.
+Dialogue: 0,0:20:46.59,0:20:48.37,Default,en,0,0,0,,They're too kind for me...
+Dialogue: 0,0:20:48.60,0:20:50.38,Default,en,0,0,0,,Brother! We have a problem!
+Dialogue: 0,0:20:50.49,0:20:51.07,Default,en,0,0,0,,What is it?!
+Dialogue: 0,0:20:51.26,0:20:54.56,Default,en,0,0,0,,Some samurai is stamping on our field!
+Dialogue: 0,0:20:55.40,0:20:56.17,Default,en,0,0,0,,What?!
+Dialogue: 0,0:20:58.62,0:21:01.11,Default,en,0,0,0,,You bastards! Get lost!
+Dialogue: 0,0:21:01.63,0:21:05.06,Default,en,0,0,0,,You're on our field! Do not trample down!
+Dialogue: 0,0:21:05.36,0:21:08.03,Default,en,0,0,0,,How annoying. Get him!
+Dialogue: 0,0:21:16.64,0:21:19.82,Default,en,0,0,0,,Musashi! Now going to help, like a blaze-{\i1}dasu{\i0}!
+Dialogue: 0,0:21:24.51,0:21:26.89,Default,en,0,0,0,,No matter how much I take down, they just keep coming!
+Dialogue: 0,0:21:28.41,0:21:30.66,Default,en,0,0,0,,Then I'll take down the head of them!
+Dialogue: 0,0:21:31.26,0:21:32.84,Default,en,0,0,0,,Got you, you brat!
+Dialogue: 0,0:21:33.31,0:21:34.16,Default,en,0,0,0,,What?!
+Dialogue: 0,0:21:42.25,0:21:43.69,Default,en,0,0,0,,Run away!
+Dialogue: 0,0:21:44.08,0:21:46.62,Default,en,0,0,0,,Hooray! Hooray!
+Dialogue: 0,0:21:51.76,0:21:58.02,Default,en,0,0,0,,Promising to meet again in Jipangu Martial Arts Competition, Musashi heads first to Edotopia.
+Dialogue: 0,0:21:58.63,0:22:05.05,Default,en,0,0,0,,Still, Baiken is interesting and his kusarigama is again, interesting.
+Dialogue: 0,0:22:05.31,0:22:06.91,Default,en,0,0,0,,Musashi thought.
+Dialogue: 0,0:22:07.48,0:22:16.97,Default,en,0,0,0,,The world is broad. There still are a lot of martial artists with strong personalities and strong heart.
+Dialogue: 0,0:22:17.36,0:22:22.64,Default,en,0,0,0,,He will challenge unknown opponents! The young martial artist's heart was throbbing.
+Dialogue: 0,0:22:43.05,0:22:45.09,SongED1,en,0,0,0,,Sometimes the moon jumps over
+Dialogue: 0,0:22:45.80,0:22:48.35,SongED1,en,0,0,0,,the pocket of empty sky
+Dialogue: 0,0:22:48.55,0:22:50.72,SongED1,en,0,0,0,,Laugh loudly and
+Dialogue: 0,0:22:51.35,0:22:53.35,SongED1,en,0,0,0,,morning will come tomorrow
+Dialogue: 0,0:22:54.10,0:22:58.69,SongED1,en,0,0,0,,Don't worry too much about losing
+Dialogue: 0,0:22:59.69,0:23:02.28,SongED1,en,0,0,0,,Keep going! Go for it!
+Dialogue: 0,0:23:02.28,0:23:04.70,SongED1,en,0,0,0,,A bare hand is strong
+Dialogue: 0,0:23:05.11,0:23:14.79,SongED1,en,0,0,0,,That's how it is! Let's go lightly
+Dialogue: 0,0:23:15.25,0:23:22.84,SongED1,en,0,0,0,,That's how life is! Look, a chance
+Dialogue: 0,0:23:23.30,0:23:27.55,SongED1,en,0,0,0,,follows us wagging its tail!
+Dialogue: 0,0:23:28.97,0:23:38.48,SongED1,en,0,0,0,,That's how it is! Let's go lightly
+Dialogue: 0,0:23:38.98,0:23:46.95,SongED1,en,0,0,0,,That's how the future is, too! Look, tomorrow
+Dialogue: 0,0:23:47.20,0:23:52.79,SongED1,en,0,0,0,,is opening its hands and smiling at us!
+Dialogue: 0,0:24:05.85,0:24:12.75,Default,en,0,0,0,,I've helped a wounded dove on the way to Edotopia, and I ended up being chased by some terrible bunch-{\i1}dasu{\i0}.
+Dialogue: 0,0:24:13.34,0:24:20.42,Default,en,0,0,0,,Their boss is Hanzō, the ruler of night! After a fight against frightening ninja corps, my rival Kojirō is now involved-{\i1}dasu{\i0}.
+Dialogue: 0,0:24:21.36,0:24:23.97,Default,en,0,0,0,,Next story! Evil Hanzō Creeps-{\i1}dasu{\i0}.
+Dialogue: 0,0:24:24.67,0:24:27.82,Default,en,0,0,0,,Be sure to check out the next stormy story-{\i1}dasu{\i0}!
+Dialogue: 0,0:24:27.82,0:24:31.74,NoteOnAnime,en,60,0,60,,{\an7}Next Episode
+Dialogue: 0,0:24:27.82,0:24:31.74,TitleEP,en,0,0,80,,Evil Hanzō Creeps
+Dialogue: 0,0:24:27.82,0:24:31.74,NoteOnAnime,en,0,60,30,,{\an3\fs32}Look forwards for it!

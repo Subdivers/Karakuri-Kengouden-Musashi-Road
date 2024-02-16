@@ -1,0 +1,352 @@
+﻿[Script Info]
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 480
+Title: Mr. Saigo is a Mysterious Person
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: NoteOnAnime,Candara,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,10,1
+Style: OP1TR,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: TitleOP,DejaVu Serif,42,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: TitleEP,DejaVu Serif,42,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: ED1TR,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: Note,Candara,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,10,10,10,1
+Style: Eyecatch,Candara,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,10,10,10,1
+Style: NoteOnAnimeVert,@맑은 고딕,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,10,1
+Style: InsOtsuru,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.04,0:00:06.25,Default,en,0,0,0,,It is the turbulent Sengoku period.
+Dialogue: 0,0:00:06.71,0:00:11.18,Default,en,0,0,0,,Warlords keep on fighting day and night over\NJipangu State, where Karakuri people live.
+Dialogue: 0,0:00:11.51,0:00:16.17,Default,en,0,0,0,,Karakuri martial artists were sharpening their swords, dreaming of victory and honor.
+Dialogue: 0,0:00:16.50,0:00:22.87,Default,en,0,0,0,,And now, a wild hero has arrived, seeking to be the number one Karakuri martial artist!
+Dialogue: 0,0:00:24.10,0:00:26.55,Default,en,0,0,0,,Musashi is here-{\i1}dasu{\i0}!
+Dialogue: 0,0:00:27.71,0:00:33.05,TitleOP,en,0,0,40,,{\an8\fs32\fade(770,0)}Karakuri Kengouden
+Dialogue: 0,0:00:27.71,0:00:33.05,TitleOP,en,0,0,40,,{\fade(770,0)}Musashi Road
+Dialogue: 0,0:00:27.71,0:00:33.05,TitleOP,en,0,0,40,,{\fs24\fade(770,0)}(The Story of {\i1}Karakuri{\i0} Martial Artist: Road of Musashi)
+Dialogue: 0,0:00:33.05,0:00:37.89,SongOP,en,0,0,0,,A man always dreams of the day
+Dialogue: 0,0:00:38.72,0:00:41.64,SongOP,en,0,0,0,,in the center of the world to become
+Dialogue: 0,0:00:41.64,0:00:44.52,SongOP,en,0,0,0,,AH! AH! the strongest
+Dialogue: 0,0:00:44.52,0:00:49.57,SongOP,en,0,0,0,,Raise the sword of your heart high to the wide sky
+Dialogue: 0,0:00:50.19,0:00:54.20,SongOP,en,0,0,0,,Raise the curtain to the road of adventure
+Dialogue: 0,0:00:55.53,0:01:00.79,SongOP,en,0,0,0,,A skilled swordsman roams on Jipangu State
+Dialogue: 0,0:01:01.37,0:01:06.42,SongOP,en,0,0,0,,His name is Musashi, a Karakuri man
+Dialogue: 0,0:01:06.42,0:01:07.92,SongOP,en,0,0,0,,Go! Fight!
+Dialogue: 0,0:01:07.92,0:01:10.84,SongOP,en,0,0,0,,The sound of fierce duels
+Dialogue: 0,0:01:10.84,0:01:13.67,SongOP,en,0,0,0,,makes life dazzling
+Dialogue: 0,0:01:13.67,0:01:19.14,SongOP,en,0,0,0,,Battles of yesterdays make you stronger today
+Dialogue: 0,0:01:19.18,0:01:25.39,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
+Dialogue: 0,0:01:25.39,0:01:28.35,SongOP,en,0,0,0,,Tomorrow will be glorious
+Dialogue: 0,0:01:28.35,0:01:30.86,SongOP,en,0,0,0,,The sound of fierce duels
+Dialogue: 0,0:01:30.86,0:01:33.36,SongOP,en,0,0,0,,makes life dazzling
+Dialogue: 0,0:01:34.07,0:01:39.45,SongOP,en,0,0,0,,Fight the utmost with the stillness
+Dialogue: 0,0:01:39.49,0:01:45.71,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
+Dialogue: 0,0:01:45.71,0:01:50.92,SongOP,en,0,0,0,,His eyes shined! Musashi!
+Dialogue: 0,0:02:00.77,0:02:07.83,Default,en,0,0,0,,Hanzō was thought to be dead, but he joined hands with mysterious Shianui clan and is looking to kill Ieyasu again.
+Dialogue: 0,0:02:08.37,0:02:13.97,Default,en,0,0,0,,Musashi and others has managed to prevent Ieyasu from being assassinated, and according to the map that Hanzō dropped,
+Dialogue: 0,0:02:13.97,0:02:18.36,Default,en,0,0,0,,they go on a journey to Kyushu to take Hanzō down.
+Dialogue: 0,0:02:18.84,0:02:23.85,TitleEP,en,0,0,210,,Mr. Saigo is
+Dialogue: 0,0:02:18.84,0:02:23.85,TitleEP,en,0,0,70,,a Mysterious Person
+Dialogue: 0,0:02:27.63,0:02:34.68,Note,en,0,0,0,,(Shinagawa-shuku: {\i1}shuku{\i0} is a type of historical Japanese station/inn, and Shinagawa-shuku was one of the Four Edo Inns\NSatsuma-kuni: A past province in Saikai Circuit, now Kagoshima)
+Dialogue: 0,0:02:27.63,0:02:34.68,Default,en,0,0,0,,This is Shinagawa-juku. Musashi and others are going to get a boat ride to Satsumania at Kyushu.
+Dialogue: 0,0:02:35.07,0:02:35.72,Default,en,0,0,0,,But!
+Dialogue: 0,0:02:36.15,0:02:42.87,Default,en,0,0,0,,The next boat departs in night-{\i1}dasu{\i0}... I should have eaten my last meal slower if I knew that-{\i1}dasu{\i0}...
+Dialogue: 0,0:02:43.08,0:02:47.06,Default,en,0,0,0,,Hmph, do you know what they say from the past? A martial artist who rushes is unsightly.
+Dialogue: 0,0:02:47.69,0:02:50.86,Default,en,0,0,0,,You always make a big fuss right before you have to go out.
+Dialogue: 0,0:02:51.66,0:02:53.71,Default,en,0,0,0,,You were like that ever since I met you.
+Dialogue: 0,0:02:54.46,0:02:57.56,Default,en,0,0,0,,Hey, Musashi, you're embarassing me! Get up!
+Dialogue: 0,0:02:57.73,0:03:02.22,Default,en,0,0,0,,No matter what you say, I couldn't eat my meal since I was in hurry...
+Dialogue: 0,0:03:05.00,0:03:06.34,Default,en,0,0,0,,Let's treat him as if we don't know him.
+Dialogue: 0,0:03:07.79,0:03:10.09,Default,en,0,0,0,,Osenchan is cold too...
+Dialogue: 0,0:03:10.52,0:03:14.50,Default,en,0,0,0,,People, I'm holding a dango quick eating contest as a shop opening event!
+Dialogue: 0,0:03:14.78,0:03:16.99,Default,en,0,0,0,,What?! Dango quick eating contest?!
+Dialogue: 0,0:03:20.23,0:03:22.64,Default,en,0,0,0,,He's so quick only at times like this.
+Dialogue: 0,0:03:23.53,0:03:26.82,Note,en,0,0,0,,OPEN
+Dialogue: 0,0:03:25.24,0:03:30.13,Default,en,0,0,0,,Welcome to dango quick eating contest! Would anybody want to attempt?
+Dialogue: 0,0:03:30.67,0:03:35.58,Default,en,0,0,0,,If you eat 100 lines of dango before this hourglass runs out, it's free!
+Dialogue: 0,0:03:35.85,0:03:38.99,Default,en,0,0,0,,You're also gonna get 300 mons in addition!
+Dialogue: 0,0:03:39.27,0:03:42.02,Default,en,0,0,0,,Any participants?
+Dialogue: 0,0:03:42.67,0:03:44.81,Default,en,0,0,0,,I'll try that-{\i1}dasu{\i0}!
+Dialogue: 0,0:03:45.71,0:03:47.95,Default,en,0,0,0,,Musashi! Why are you here?!
+Dialogue: 0,0:03:47.95,0:03:50.23,Default,en,0,0,0,,Huh? Do you know me-{\i1}dasu{\i0}?
+Dialogue: 0,0:03:50.35,0:03:54.68,Default,en,0,0,0,,Well, I never saw a handsome boy like you until now!
+Dialogue: 0,0:03:55.02,0:03:56.63,Default,en,0,0,0,,I knew it-{\i1}dasu{\i0}!
+Dialogue: 0,0:03:56.94,0:03:58.58,Default,en,0,0,0,,Yeah, right!
+Dialogue: 0,0:03:59.64,0:04:03.56,Default,en,0,0,0,,Then let me eat-{\i1}dasu{\i0}! Bring it on-{\i1}dasu{\i0}!
+Dialogue: 0,0:04:03.83,0:04:05.42,Default,en,0,0,0,,T- then let's begin.
+Dialogue: 0,0:04:06.02,0:04:07.72,Default,en,0,0,0,,Ready, go!
+Dialogue: 0,0:04:11.91,0:04:12.33,Default,en,0,0,0,,Next!
+Dialogue: 0,0:04:15.13,0:04:15.78,Default,en,0,0,0,,Next!
+Dialogue: 0,0:04:18.09,0:04:18.51,Default,en,0,0,0,,Next!
+Dialogue: 0,0:04:19.03,0:04:19.47,Default,en,0,0,0,,Next!
+Dialogue: 0,0:04:20.01,0:04:20.46,Default,en,0,0,0,,Next!
+Dialogue: 0,0:04:20.86,0:04:21.29,Default,en,0,0,0,,Next!
+Dialogue: 0,0:04:21.57,0:04:21.91,Default,en,0,0,0,,Next!
+Dialogue: 0,0:04:22.23,0:04:22.61,Default,en,0,0,0,,Next!
+Dialogue: 0,0:04:23.49,0:04:26.15,Default,en,0,0,0,,For a martial artist, he's trying his best to be disgraceful.
+Dialogue: 0,0:04:26.67,0:04:32.13,Default,en,0,0,0,,You can do it, Musashi! Let's have a dango party if you win!
+Dialogue: 0,0:04:38.55,0:04:41.08,Default,en,0,0,0,,{\i1}Damn, he's such an extreme eater!
+Dialogue: 0,0:04:42.54,0:04:47.78,Default,en,0,0,0,,{\i1}He'll even eat up my store that I manged to open at last!
+Dialogue: 0,0:04:48.57,0:04:50.90,Default,en,0,0,0,,Hey, you're almost there!
+Dialogue: 0,0:04:55.27,0:04:56.80,Default,en,0,0,0,,{\i1}This leaves me no choice!
+Dialogue: 0,0:04:57.08,0:05:01.54,Note,en,0,0,0,,(Tengu: An imaginary monster that has a long/high nose and a red face, and can fly. A depiction of Western/European people.)
+Dialogue: 0,0:04:57.08,0:04:59.95,Default,en,0,0,0,,Look! A Tengu has hit a tree and it's nosebleeding!
+Dialogue: 0,0:05:00.06,0:05:02.41,Default,en,0,0,0,,Where, where?!
+Dialogue: 0,0:05:04.11,0:05:06.41,Default,en,0,0,0,,And now 300 mons are mine!
+Dialogue: 0,0:05:07.14,0:05:08.05,Default,en,0,0,0,,And that's it!
+Dialogue: 0,0:05:11.24,0:05:13.66,Default,en,0,0,0,,Look, time's up!
+Dialogue: 0,0:05:14.10,0:05:18.83,Default,en,0,0,0,,Huh, I thought it still had a lot to go just before...
+Dialogue: 0,0:05:18.99,0:05:23.21,Default,en,0,0,0,,Well, that's too bad for you! I'll take 300 mons from whoever couldn't eat 'em all!
+Dialogue: 0,0:05:23.21,0:05:28.01,Default,en,0,0,0,,What, 300 mons?! I never heard I had to pay for that...
+Dialogue: 0,0:05:28.44,0:05:33.42,Default,en,0,0,0,,What are you talking about? It's obvious that you have to pay if you couldn't eat them all!
+Dialogue: 0,0:05:33.70,0:05:35.33,Default,en,0,0,0,,Hey, give me your money.
+Dialogue: 0,0:05:35.95,0:05:38.40,Default,en,0,0,0,,I don't have that much money-{\i1}dasu{\i0}...
+Dialogue: 0,0:05:38.78,0:05:39.65,Default,en,0,0,0,,Hey, Kojirō!
+Dialogue: 0,0:05:40.37,0:05:42.34,Default,en,0,0,0,,I'm sorry, but can I borrow your money-{\i1}dasu{\i0}?
+Dialogue: 0,0:05:42.34,0:05:43.05,Default,en,0,0,0,,I refuse.
+Dialogue: 0,0:05:43.53,0:05:44.76,Default,en,0,0,0,,Hey, why is that-{\i1}dasu{\i0}?
+Dialogue: 0,0:05:45.05,0:05:48.37,Default,en,0,0,0,,This is all your fault, for participating in a quick eating competition.
+Dialogue: 0,0:05:48.67,0:05:49.75,Default,en,0,0,0,,You take care of this.
+Dialogue: 0,0:05:50.06,0:05:52.48,Default,en,0,0,0,,Please! Isn't it a good enough-{\i1}dasu{\i0}?
+Dialogue: 0,0:05:52.48,0:05:53.75,Default,en,0,0,0,,Hey, hey, hey, hey?
+Dialogue: 0,0:05:54.02,0:05:54.79,Default,en,0,0,0,,Don't act like a brat.
+Dialogue: 0,0:05:55.17,0:05:55.94,Default,en,0,0,0,,Tch. Cheapskate.
+Dialogue: 0,0:05:57.42,0:05:58.66,Default,en,0,0,0,,Cheapskate?!
+Dialogue: 0,0:05:58.86,0:05:59.63,Default,en,0,0,0,,{\i1}Base{\i0} cheapskate!\N({\i1}do{\i0}-kechi)
+Dialogue: 0,0:05:59.95,0:06:00.97,Default,en,0,0,0,,{\i1}Base{\i0} cheapskate?!
+Dialogue: 0,0:06:01.37,0:06:06.41,Default,en,0,0,0,,I despise being called a cheapskate more than everything else in this world! And then you put {\i1}base{\i0}({\i1}do-{\i0}) there?!
+Dialogue: 0,0:06:06.69,0:06:08.66,Default,en,0,0,0,,I'm telling you're a cheapskate because you are one-{\i1}dasu{\i0}!
+Dialogue: 0,0:06:08.66,0:06:10.51,Default,en,0,0,0,,You said that again, you dum{\i1}bass{\i0}({\i1}do{\i0}ji)!
+Dialogue: 0,0:06:11.19,0:06:13.09,Default,en,0,0,0,,You dared to put {\i1}bass{\i0}({\i1}do{\i0}) there!
+Dialogue: 0,0:06:13.09,0:06:15.25,Default,en,0,0,0,,Hey, just pay, will you?!
+Dialogue: 0,0:06:15.52,0:06:17.20,Default,en,0,0,0,,Uh, you know...
+Dialogue: 0,0:06:17.20,0:06:19.18,Default,en,0,0,0,,No need to pay-{\i1}gowasu{\i0}.
+Dialogue: 0,0:06:24.70,0:06:26.13,Default,en,0,0,0,,Who the heck are you?!
+Dialogue: 0,0:06:26.92,0:06:29.80,Note,en,0,0,0,,{\fad(200,0)\fs64\an2\pos(320,435)}Saigo
+Dialogue: 0,0:06:26.55,0:06:29.37,Default,en,0,0,0,,My name is Saigo-{\i1}gowasu{\i0}.
+Dialogue: 0,0:06:30.05,0:06:33.98,Default,en,0,0,0,,I was looking at you for a while, and I know you're cheating-{\i1}gowasu{\i0}.
+Dialogue: 0,0:06:33.98,0:06:37.96,Default,en,0,0,0,,D- don't fool around! You have no evidence for that!
+Dialogue: 0,0:06:41.55,0:06:43.09,Default,en,0,0,0,,Hey, that hourglass!
+Dialogue: 0,0:06:43.22,0:06:44.91,Default,en,0,0,0,,-Huh, huh?!\N-You fooled me!
+Dialogue: 0,0:06:45.80,0:06:46.70,Default,en,0,0,0,,Hey, don't do that!
+Dialogue: 0,0:06:47.27,0:06:49.02,Default,en,0,0,0,,Hey, you must be Jiraiyan!
+Dialogue: 0,0:06:52.74,0:06:55.52,Default,en,0,0,0,,As you've found out, it can't be helped! That's bye to you, Musashi!
+Dialogue: 0,0:06:56.42,0:06:58.38,Default,en,0,0,0,,Hey, stop, Jiraiyan!
+Dialogue: 0,0:06:58.38,0:07:01.53,Default,en,0,0,0,,Damn! I'll take it out on you next time I see you-{\i1}dasu{\i0}!
+Dialogue: 0,0:07:03.13,0:07:05.82,Default,en,0,0,0,,Thank you so much for helping.
+Dialogue: 0,0:07:05.98,0:07:13.25,Default,en,0,0,0,,No problem-{\i1}gowasu{\i0}. I despise dishonest things, so I couldn't just watch people being deceived-{\i1}gowasu{\i0}.
+Dialogue: 0,0:07:18.79,0:07:20.35,Default,en,0,0,0,,Let's go, too.
+Dialogue: 0,0:07:20.59,0:07:21.23,Default,en,0,0,0,,Base cheapskate.
+Dialogue: 0,0:07:21.23,0:07:23.30,Default,en,0,0,0,,You two, what happened?
+Dialogue: 0,0:07:24.05,0:07:27.47,Default,en,0,0,0,,I do not want to travel with a cruel bastard like him anymore-{\i1}dasu{\i0}.
+Dialogue: 0,0:07:28.46,0:07:32.46,Default,en,0,0,0,,My pride also do not forgive me from being with a fickle guy like this.
+Dialogue: 0,0:07:33.51,0:07:37.25,Default,en,0,0,0,,Fickle?! You are even more cruel and cheap!
+Dialogue: 0,0:07:37.25,0:07:40.33,Default,en,0,0,0,,How dare you say that again?!
+Dialogue: 0,0:07:40.33,0:07:46.44,Default,en,0,0,0,,You guys! It's not a time for you to quarrel! We are about to penetrate into the base of the enemy!
+Dialogue: 0,0:07:47.26,0:07:54.86,Default,en,0,0,0,,That Shiranui Clan has nothing to do with me-{\i1}dasu{\i0}! My only objective is to become the number one martial artist of Jipangu!
+Dialogue: 0,0:07:55.17,0:07:56.37,Default,en,0,0,0,,Same for me too!
+Dialogue: 0,0:07:57.89,0:08:04.55,Default,en,0,0,0,,Oh, is that so? So that was your ulterior motive! I see! You guys do not matter to me anymore!
+Dialogue: 0,0:08:05.00,0:08:09.18,Default,en,0,0,0,,I'll go Satsumania by myself and annihilate Shiranui Clan all by myself!
+Dialogue: 0,0:08:09.18,0:08:09.66,Default,en,0,0,0,,Hmph!
+Dialogue: 0,0:08:09.89,0:08:11.81,Default,en,0,0,0,,Please wait, Senhime!
+Dialogue: 0,0:08:12.56,0:08:13.06,Default,en,0,0,0,,Hime!
+Dialogue: 0,0:08:14.86,0:08:15.37,Default,en,0,0,0,,Hmph.
+Dialogue: 0,0:08:20.57,0:08:22.19,Default,en,0,0,0,,Princess!
+Dialogue: 0,0:08:22.46,0:08:28.19,Default,en,0,0,0,,Princess, princess! Please wait for me! That before was nothing more than tit for tat!
+Dialogue: 0,0:08:28.78,0:08:30.41,Default,en,0,0,0,,I was not serious when I was saying that!
+Dialogue: 0,0:08:30.73,0:08:34.04,Default,en,0,0,0,,Be quiet. Just don't follow me like that!
+Dialogue: 0,0:08:34.04,0:08:35.31,Default,en,0,0,0,,Please wait, Senhime!
+Dialogue: 0,0:08:36.03,0:08:37.16,Default,en,0,0,0,,A pervert!
+Dialogue: 0,0:08:37.16,0:08:38.29,Default,en,0,0,0,,What, a pervert?
+Dialogue: 0,0:08:38.42,0:08:39.58,Default,en,0,0,0,,What? A pervert?
+Dialogue: 0,0:08:39.58,0:08:41.23,Default,en,0,0,0,,So you are a pervert!
+Dialogue: 0,0:08:41.23,0:08:45.05,Default,en,0,0,0,,-Err...\N-Help! This guy is a pervert!
+Dialogue: 0,0:08:45.05,0:08:47.01,Default,en,0,0,0,,Nononono, I'm not a pervert!
+Dialogue: 0,0:08:47.16,0:08:49.84,Default,en,0,0,0,,-I'm not a pervert...\N-You liar! You're gonna get bald if you act like that!
+Dialogue: 0,0:08:50.18,0:08:51.38,Default,en,0,0,0,,Be obedient and follow us!
+Dialogue: 0,0:08:51.38,0:08:54.68,Default,en,0,0,0,,S- stop! I'm not a pervert! Stop, stop!
+Dialogue: 0,0:08:54.98,0:08:56.46,Default,en,0,0,0,,Senhime!
+Dialogue: 0,0:09:04.91,0:09:13.01,Default,en,0,0,0,,What were they thinking?! I'll show that I don't need their protection as I can take Shiranui Clan down by myself!
+Dialogue: 0,0:09:13.01,0:09:14.54,Default,en,0,0,0,,Hey, hurry up! This way!
+Dialogue: 0,0:09:20.50,0:09:22.62,Default,en,0,0,0,,Hurry up, hurry!
+Dialogue: 0,0:09:22.94,0:09:24.81,Default,en,0,0,0,,That must be a ninja of Shiranui.
+Dialogue: 0,0:09:38.50,0:09:40.88,Note,en,0,0,0,,{\fad(0,300)\bord0\shad0\fs36\c&H2424A5&\pos(433,197)\frz280.4\frx0\fry342}SHIRANUI
+Dialogue: 0,0:09:43.02,0:09:45.23,Default,en,0,0,0,,I wonder what they are carrying.
+Dialogue: 0,0:09:50.76,0:09:52.01,Note,en,0,0,0,,{\an5\pos(366,195)\frz10\c&H000000&\bord0}DANGER
+Dialogue: 0,0:09:52.41,0:09:53.62,Default,en,0,0,0,,N- no way...
+Dialogue: 0,0:10:01.08,0:10:06.90,Default,en,0,0,0,,Tch, what are wrong with Osenchan and Kojirō-{\i1}dasu{\i0}?! I hate whoever gets angry so easily-{\i1}dasu{\i0}!
+Dialogue: 0,0:10:10.93,0:10:16.33,Default,en,0,0,0,,But still... I'm worried-{\i1}dasu{\i0}. Shiranui Clan is told to be a strong enemy, too.
+Dialogue: 0,0:10:17.50,0:10:20.74,Default,en,0,0,0,,No, that has nothing to do with me-{\i1}dasu{\i0}.
+Dialogue: 0,0:10:21.14,0:10:24.97,Default,en,0,0,0,,I have an objective to become the number one martial artist of Jipangu!
+Dialogue: 0,0:10:28.42,0:10:29.76,Default,en,0,0,0,,Hey! Mr. Saigo!
+Dialogue: 0,0:10:39.55,0:10:40.03,Default,en,0,0,0,,Wha-?!
+Dialogue: 0,0:10:41.11,0:10:42.57,Default,en,0,0,0,,This is Shiranui's coat-{\i1}dasu{\i0}!
+Dialogue: 0,0:10:46.93,0:10:48.59,Default,en,0,0,0,,{\i1}There's something with this-{\i1}dasu{\i0}.
+Dialogue: 0,0:11:06.53,0:11:08.40,Default,en,0,0,0,,Mister, would you like one?
+Dialogue: 0,0:11:08.52,0:11:09.88,Default,en,0,0,0,,Let me see.
+Dialogue: 0,0:11:11.46,0:11:14.61,Default,en,0,0,0,,This is an exquisite one-{\i1}gowasu{\i0}.
+Dialogue: 0,0:11:15.10,0:11:16.60,Default,en,0,0,0,,You have an eye for these.
+Dialogue: 0,0:11:17.62,0:11:20.64,Default,en,0,0,0,,So, could you get into contact with him-{\i1}gowasu{\i0}?
+Dialogue: 0,0:11:21.01,0:11:23.77,Default,en,0,0,0,,Yessir. He said he's waiting at that place.
+Dialogue: 0,0:11:24.23,0:11:25.17,Default,en,0,0,0,,I see.
+Dialogue: 0,0:11:25.90,0:11:28.25,Default,en,0,0,0,,Would you like to use this dish as your bowl, Shiro?
+Dialogue: 0,0:11:29.79,0:11:33.01,Default,en,0,0,0,,Hahaha, I see. You don't like it-{\i1}gowasu{\i0}.
+Dialogue: 0,0:11:33.13,0:11:36.12,Default,en,0,0,0,,-Maybe next time, then-{\i1}gowasu{\i0}.\N-Understood!
+Dialogue: 0,0:11:36.75,0:11:38.79,Default,en,0,0,0,,It's getting even more suspicious-{\i1}dasu{\i0}.
+Dialogue: 0,0:11:40.90,0:11:42.67,Default,en,0,0,0,,Senhime!
+Dialogue: 0,0:11:43.45,0:11:46.63,Default,en,0,0,0,,Senhime! Senhime!
+Dialogue: 0,0:11:46.63,0:11:49.53,Default,en,0,0,0,,Hey! Who do you think I am?!
+Dialogue: 0,0:11:50.17,0:11:54.51,Default,en,0,0,0,,I am the granddaughter of General Ieyasu, Senhime! Release me this instance!
+Dialogue: 0,0:11:54.93,0:11:58.05,Default,en,0,0,0,,Aren't you a vigorous girl, for being captured.
+Dialogue: 0,0:11:58.66,0:12:00.66,Default,en,0,0,0,,What are you going to do to me?
+Dialogue: 0,0:12:01.57,0:12:04.75,Default,en,0,0,0,,As you've seen the load over there, you will not go back alive.
+Dialogue: 0,0:12:05.30,0:12:08.04,Default,en,0,0,0,,We'll make you into a lump of cement and sink into Edo Bay.
+Dialogue: 0,0:12:08.04,0:12:08.63,Default,en,0,0,0,,What?!
+Dialogue: 0,0:12:09.80,0:12:12.49,Default,en,0,0,0,,Musashi and others has split among friends.
+Dialogue: 0,0:12:12.74,0:12:18.07,Default,en,0,0,0,,Will Senhime Survive? And what about the mysterious man Saigo?
+Dialogue: 0,0:12:19.01,0:12:22.05,Default,en,0,0,0,,Wait for the stormy latter half!
+Dialogue: 0,0:12:24.39,0:12:29.30,Eyecatch,en,0,0,0,,Karakuri Kengouden: Musashi Road
+Dialogue: 0,0:12:36.75,0:12:40.70,Default,en,0,0,0,,He doesn't look like a bad guy at all-{\i1}dasu{\i0}...
+Dialogue: 0,0:12:46.28,0:12:47.47,Default,en,0,0,0,,Really suspicious-{\i1}dasu{\i0}.
+Dialogue: 0,0:12:51.26,0:12:52.35,Default,en,0,0,0,,Who's there-{\i1}gowasu{\i0}?
+Dialogue: 0,0:12:52.35,0:12:54.67,Default,en,0,0,0,,{\i1}meow... meow...
+Dialogue: 0,0:12:54.67,0:12:56.06,Default,en,0,0,0,,A cat, eh?
+Dialogue: 0,0:12:56.75,0:12:58.60,Default,en,0,0,0,,{\i1}meow...
+Dialogue: 0,0:13:00.15,0:13:01.57,Default,en,0,0,0,,Senhime!
+Dialogue: 0,0:13:02.60,0:13:04.62,Default,en,0,0,0,,Where did she disappear to?
+Dialogue: 0,0:13:11.01,0:13:12.01,Note,en,0,0,0,,{\fad(300,0)\frz272.7\frx358\fry356\c&HC96B35&\bord2\3cFFFFFF\fs32\pos(390,119)}SHIRANUI
+Dialogue: 0,0:13:17.25,0:13:19.19,Default,en,0,0,0,,{\i1}That is Shiranui's coat.
+Dialogue: 0,0:13:28.64,0:13:31.35,Default,en,0,0,0,,Where are you transporting all those weapons to?
+Dialogue: 0,0:13:31.69,0:13:35.61,Default,en,0,0,0,,Hmph, that information won't help you since you're going to die.
+Dialogue: 0,0:13:35.61,0:13:38.33,Default,en,0,0,0,,And that's why you can tell me the reason!
+Dialogue: 0,0:13:38.92,0:13:43.40,Default,en,0,0,0,,Well, that makes sense! Listen and be surprised! To Satsumania!
+Dialogue: 0,0:13:44.01,0:13:46.49,Default,en,0,0,0,,And what are you going to do with these at Satsumania?
+Dialogue: 0,0:13:46.66,0:13:53.25,Default,en,0,0,0,,Hmph, isn't that obvious? Taking over Satsumania will be the first step of taking over the whole Jipangu.
+Dialogue: 0,0:13:54.44,0:13:58.29,Default,en,0,0,0,,What?! I, Senhime, cannot forgive that!
+Dialogue: 0,0:13:58.74,0:14:02.25,Default,en,0,0,0,,Why don't you explain what can you do when you can't move?
+Dialogue: 0,0:14:02.53,0:14:07.92,Default,en,0,0,0,,Just you see. Anything can happen to you guys, since my precious comrades are coming to save me!
+Dialogue: 0,0:14:08.39,0:14:11.45,Default,en,0,0,0,,Hmph, you'll become a cement lump before that!
+Dialogue: 0,0:14:15.35,0:14:17.42,Default,en,0,0,0,,Musashi! Kojirō!
+Dialogue: 0,0:14:28.02,0:14:28.65,Default,en,0,0,0,,Who's that?!
+Dialogue: 0,0:14:29.69,0:14:31.64,Default,en,0,0,0,,Senhime. I'm here to save you!
+Dialogue: 0,0:14:32.01,0:14:32.53,Default,en,0,0,0,,Kojirō!
+Dialogue: 0,0:14:32.71,0:14:35.26,Default,en,0,0,0,,How impudent of you, trying to defy us?!
+Dialogue: 0,0:14:35.26,0:14:36.20,Default,en,0,0,0,,Get him!
+Dialogue: 0,0:14:42.43,0:14:44.13,Default,en,0,0,0,,Secret sword! Tsubamegaeshi!
+Dialogue: 0,0:14:49.82,0:14:51.22,Default,en,0,0,0,,That's as far as you go, you brat!
+Dialogue: 0,0:14:51.47,0:14:52.03,Default,en,0,0,0,,What?!
+Dialogue: 0,0:14:52.49,0:14:55.74,Default,en,0,0,0,,Whatever Tsubamegaeshi is, it can't defeat this.
+Dialogue: 0,0:14:57.17,0:14:57.89,Default,en,0,0,0,,That's cowardly!
+Dialogue: 0,0:14:59.19,0:15:02.14,Default,en,0,0,0,,Put your sword down like a good boy.
+Dialogue: 0,0:15:02.14,0:15:02.90,Default,en,0,0,0,,Kojirō!
+Dialogue: 0,0:15:03.34,0:15:04.49,Default,en,0,0,0,,Damn!
+Dialogue: 0,0:15:10.10,0:15:15.10,Default,en,0,0,0,,That person surely walks well-{\i1}dasu{\i0}. I don't feel my legs already-{\i1}dasu{\i0}.
+Dialogue: 0,0:15:25.45,0:15:28.59,Default,en,0,0,0,,Finally you're joining your comrades-{\i1}dasu{\i0}.
+Dialogue: 0,0:15:37.34,0:15:39.89,Default,en,0,0,0,,I wonder where Mr. Saigo is...
+Dialogue: 0,0:15:40.25,0:15:45.46,Default,en,0,0,0,,Just as you're saying, Jipangu will be wasted at this rate-{\i1}gowasu{\i0}.
+Dialogue: 0,0:15:45.80,0:15:46.76,Default,en,0,0,0,,Mr. Saigo!
+Dialogue: 0,0:15:46.76,0:15:50.23,Default,en,0,0,0,,For that too, the system of the world must be changed!
+Dialogue: 0,0:15:50.63,0:15:51.87,Default,en,0,0,0,,What-{\i1}dasu{\i0}?!
+Dialogue: 0,0:15:52.30,0:15:53.36,Default,en,0,0,0,,Then, you...
+Dialogue: 0,0:15:55.14,0:15:57.32,Default,en,0,0,0,,Prepare yourself, Mr. Saigo!
+Dialogue: 0,0:16:00.28,0:16:02.50,Default,en,0,0,0,,Mr. Saigo, who are you?!
+Dialogue: 0,0:16:02.75,0:16:08.96,Default,en,0,0,0,,You are that dango boy I saw during the day-{\i1}gowasu{\i0}. What are you doing, springing out from a weird place-{\i1}gowasu{\i0}?!
+Dialogue: 0,0:16:09.27,0:16:15.30,Default,en,0,0,0,,I thought you were a good guy, but I was surprised when I realized you are Shiranui's comrade-{\i1}dasu{\i0}!
+Dialogue: 0,0:16:15.54,0:16:21.18,Default,en,0,0,0,,J- just a moment, dango guy-{\i1}gowasu{\i0}. I do not get what you're talking about at all-{\i1}gowasu{\i0}.
+Dialogue: 0,0:16:21.96,0:16:28.03,Default,en,0,0,0,,Are you still trying to play innocent at the last moment-{\i1}dasu{\i0}?! Know when to give up-{\i1}dasu{\i0}!
+Dialogue: 0,0:16:28.44,0:16:29.87,Default,en,0,0,0,,Prepare yourself!
+Dialogue: 0,0:16:30.07,0:16:31.73,Default,en,0,0,0,,Musashi, stop!
+Dialogue: 0,0:16:36.60,0:16:38.05,Default,en,0,0,0,,M- Mr. Ryoma!
+Dialogue: 0,0:16:38.83,0:16:40.83,Default,en,0,0,0,,It's been a while, Musashi.
+Dialogue: 0,0:16:43.54,0:16:47.49,Default,en,0,0,0,,What?! So Mr. Saigo was feudal lord of Satsumania!
+Dialogue: 0,0:16:48.10,0:16:51.14,Default,en,0,0,0,,You didn't look like one-{\i1}dasu{\i0}!
+Dialogue: 0,0:16:53.21,0:17:00.18,Default,en,0,0,0,,I am not a lord because I wanted to be-{\i1}gowasu{\i0}. That's why I usually go with a light clothing-{\i1}gowasu{\i0}.
+Dialogue: 0,0:17:00.47,0:17:05.14,Default,en,0,0,0,,But still, I am surprised to know someone that venerable is visiting Mr. Ryoma!
+Dialogue: 0,0:17:07.18,0:17:13.55,Default,en,0,0,0,,I am totally charmed by Mr. Ryoma's idea of making the new Jipangu.
+Dialogue: 0,0:17:13.55,0:17:19.62,Default,en,0,0,0,,But as you know, Musashi, I am a wanted man, and I couldn't meet him that easily.
+Dialogue: 0,0:17:19.94,0:17:26.69,Default,en,0,0,0,,Moreover, I could meet him thanks to secret agents disguised as merchants and farmers-{\i1}gowasu{\i0}.
+Dialogue: 0,0:17:27.37,0:17:31.90,Default,en,0,0,0,,So that was what's it about-{\i1}dasu{\i0}. I apologize for my discourtesy-{\i1}dasu{\i0}.
+Dialogue: 0,0:17:33.75,0:17:37.63,Default,en,0,0,0,,It's alright, it's alright! Anybody can make mistakes-{\i1}gowasu{\i0}.
+Dialogue: 0,0:17:37.87,0:17:44.90,Default,en,0,0,0,,But still, you thought I was a comrade of Shiranui, and what did you exactly mean by that-{\i1}gowasu{\i0}?
+Dialogue: 0,0:17:45.41,0:17:50.27,Default,en,0,0,0,,It's because you dropped a paper with Shiranui's emblem on it back in afternoon, Mr. Saigo.
+Dialogue: 0,0:17:50.75,0:17:54.02,Default,en,0,0,0,,That is a key to finding Shiranui Clan-{\i1}gowasu{\i0}.
+Dialogue: 0,0:17:54.90,0:17:57.97,Default,en,0,0,0,,Were you looking for Shiranui Clan too-{\i1}dasu{\i0}?
+Dialogue: 0,0:17:58.12,0:18:03.83,Default,en,0,0,0,,Yes. To be honest, the treasure house of my castle has been robbed by Shiranui Clan.
+Dialogue: 0,0:18:07.07,0:18:11.58,Default,en,0,0,0,,It seems that the stolen money has been transferred to Edotopia-{\i1}gowasu{\i0}.
+Dialogue: 0,0:18:13.34,0:18:18.88,Default,en,0,0,0,,And I was trying to take the stolen money back, taking this opportunity of meeting Mr. Ryoma-{\i1}gowasu{\i0}.
+Dialogue: 0,0:18:19.31,0:18:24.22,Default,en,0,0,0,,Those are unforgivable ones, especially since we're trying to make Jipangu State without disputes.
+Dialogue: 0,0:18:24.42,0:18:27.60,Default,en,0,0,0,,You're right. But we do not know where they are...
+Dialogue: 0,0:18:27.71,0:18:30.48,Default,en,0,0,0,,Those Shiranui Clan guys are in the warehouse at the port.
+Dialogue: 0,0:18:35.91,0:18:36.61,Default,en,0,0,0,,Jiraiyan!
+Dialogue: 0,0:18:37.17,0:18:39.40,Default,en,0,0,0,,You incorrigibly showed yourself again-{\i1}dasu{\i0}!
+Dialogue: 0,0:18:44.90,0:18:49.71,Default,en,0,0,0,,If you have time to care about me, then go to the warehouse! I don't know what'll happen to Kojirō and Senhime!
+Dialogue: 0,0:18:50.01,0:18:50.85,Default,en,0,0,0,,What-{\i1}dasu{\i0}?!
+Dialogue: 0,0:18:51.15,0:18:53.85,Default,en,0,0,0,,Now that I've paid back that from the daytime, farewell!
+Dialogue: 0,0:18:54.47,0:18:55.84,Default,en,0,0,0,,The warehouse at the port?
+Dialogue: 0,0:19:00.74,0:19:02.94,Default,en,0,0,0,,The ship to Satsumania is here!
+Dialogue: 0,0:19:03.85,0:19:08.85,Default,en,0,0,0,,Great! Ship those cargo, and someone go sink these two!
+Dialogue: 0,0:19:08.99,0:19:09.62,Default,en,0,0,0,,Yessir!
+Dialogue: 0,0:19:10.45,0:19:14.19,Default,en,0,0,0,,No, no! I don't want to sink at a place like this!
+Dialogue: 0,0:19:14.30,0:19:16.65,Default,en,0,0,0,,Let's face our death, as it can't be helped.
+Dialogue: 0,0:19:17.11,0:19:22.19,Default,en,0,0,0,,But my pride cannot forgive me from being sunken into a dirty sea like Edo Bay!
+Dialogue: 0,0:19:22.49,0:19:25.81,Default,en,0,0,0,,Drop me into a beautiful sea like Hawaii, at least!
+Dialogue: 0,0:19:26.03,0:19:30.94,Default,en,0,0,0,,Musashi! If you don't come save us here, then we'll become ghosts and haunt you!
+Dialogue: 0,0:19:31.30,0:19:33.04,Default,en,0,0,0,,Throw them into sea!
+Dialogue: 0,0:19:33.04,0:19:33.75,Default,en,0,0,0,,Yessir!
+Dialogue: 0,0:19:33.91,0:19:35.45,Default,en,0,0,0,,Stop right there-{\i1}dasu{\i0}!
+Dialogue: 0,0:19:37.22,0:19:37.94,Default,en,0,0,0,,W- who's there?!
+Dialogue: 0,0:19:41.46,0:19:45.07,Default,en,0,0,0,,The sky knows and the ground knows about your evil!
+Dialogue: 0,0:19:45.42,0:19:47.97,Default,en,0,0,0,,I, Musashi, will not forgive you-{\i1}dasu{\i0}!
+Dialogue: 0,0:19:48.55,0:19:49.97,Default,en,0,0,0,,Musashi!
+Dialogue: 0,0:19:50.41,0:19:52.84,Default,en,0,0,0,,How impudent of you! Get him!
+Dialogue: 0,0:20:00.82,0:20:02.13,Default,en,0,0,0,,Thank you, Musashi!
+Dialogue: 0,0:20:11.91,0:20:16.42,Default,en,0,0,0,,Don't you know what to do?! Get rid of those two!
+Dialogue: 0,0:20:22.99,0:20:23.86,Default,en,0,0,0,,W- what?!
+Dialogue: 0,0:20:25.73,0:20:26.84,Default,en,0,0,0,,W- who's there?!
+Dialogue: 0,0:20:27.49,0:20:31.05,Default,en,0,0,0,,We are the ones to make Jipangu State free of disputes!
+Dialogue: 0,0:20:31.25,0:20:33.23,Default,en,0,0,0,,Mr. Ryoma! Mr. Saigo!
+Dialogue: 0,0:20:33.47,0:20:36.86,Default,en,0,0,0,,Don't make us laugh! We'll take you down all at once!
+Dialogue: 0,0:20:39.08,0:20:40.82,Default,en,0,0,0,,{\i1}Chest!
+Dialogue: 0,0:20:42.40,0:20:43.73,Default,en,0,0,0,,{\i1}Chest!
+Dialogue: 0,0:20:45.06,0:20:47.57,Default,en,0,0,0,,Watch and feel! Jigen Style Shout Technique!
+Dialogue: 0,0:20:47.88,0:20:53.56,Default,en,0,0,0,,To think that bastards like you are in Kyushu, that makes me sad to the level of infuriating-{\i1}gowasu{\i0}!
+Dialogue: 0,0:20:55.57,0:20:57.69,Default,en,0,0,0,,{\i1}Chest!
+Dialogue: 0,0:21:01.11,0:21:02.15,Default,en,0,0,0,,Tsubamegaeshi!
+Dialogue: 0,0:21:07.72,0:21:12.62,Default,en,0,0,0,,Mr. Ryoma! That warehouse is full of weapons! Do something!
+Dialogue: 0,0:21:13.00,0:21:14.03,Default,en,0,0,0,,Leave it to me!
+Dialogue: 0,0:21:30.17,0:21:31.46,Default,en,0,0,0,,Hooray!
+Dialogue: 0,0:21:32.15,0:21:33.99,Default,en,0,0,0,,Run away, run!
+Dialogue: 0,0:21:37.94,0:21:42.57,Default,en,0,0,0,,It is a big relief that we could rescue you in time-{\i1}dasu{\i0}, Osenchan and Kojirō!
+Dialogue: 0,0:21:42.87,0:21:47.87,Default,en,0,0,0,,Hmph! This also is because you ate dangos quickly at the first place!
+Dialogue: 0,0:21:48.29,0:21:49.29,Default,en,0,0,0,,What-{\i1}dasu{\i0}?!
+Dialogue: 0,0:21:49.29,0:21:51.72,Default,en,0,0,0,,-This is all-\N-That's enough, stop it!
+Dialogue: 0,0:22:00.68,0:22:06.19,Default,en,0,0,0,,The plot of Shiranui Clan to attack Satsumania has been dealt with for now.
+Dialogue: 0,0:22:06.63,0:22:11.20,Default,en,0,0,0,,But an ill feeling is still between Musashi and Kojirō.
+Dialogue: 0,0:22:11.66,0:22:16.37,Default,en,0,0,0,,The ship with stormy ones full of dramas aboard is heading to Kyushu.
+Dialogue: 0,0:22:16.66,0:22:20.28,Default,en,0,0,0,,What will be the destiny of Musashi and others, making an inroad on the enemy?
+Dialogue: 0,0:22:42.81,0:22:44.86,SongED1,en,0,0,0,,Sometimes the moon jumps over
+Dialogue: 0,0:22:45.57,0:22:48.11,SongED1,en,0,0,0,,the pocket of empty sky
+Dialogue: 0,0:22:48.32,0:22:50.49,SongED1,en,0,0,0,,Laugh loudly and
+Dialogue: 0,0:22:51.11,0:22:53.12,SongED1,en,0,0,0,,morning will come tomorrow
+Dialogue: 0,0:22:53.87,0:22:58.45,SongED1,en,0,0,0,,Don't worry too much about losing
+Dialogue: 0,0:22:59.45,0:23:02.04,SongED1,en,0,0,0,,Keep going! Go for it!
+Dialogue: 0,0:23:02.04,0:23:04.46,SongED1,en,0,0,0,,A bare hand is strong
+Dialogue: 0,0:23:04.88,0:23:14.55,SongED1,en,0,0,0,,That's how it is! Let's go lightly
+Dialogue: 0,0:23:15.01,0:23:22.60,SongED1,en,0,0,0,,That's how life is! Look, a chance
+Dialogue: 0,0:23:23.06,0:23:27.32,SongED1,en,0,0,0,,follows us wagging its tail!
+Dialogue: 0,0:23:28.73,0:23:38.24,SongED1,en,0,0,0,,That's how it is! Let's go lightly
+Dialogue: 0,0:23:38.74,0:23:46.71,SongED1,en,0,0,0,,That's how the future is, too! Look, tomorrow
+Dialogue: 0,0:23:46.96,0:23:52.55,SongED1,en,0,0,0,,is opening its hands and smiling at us!
+Dialogue: 0,0:24:06.03,0:24:11.26,Default,en,0,0,0,,After landing to Satsumania at Kyushu, I met with a person named Satsumania, who is pretty and kind-{\i1}dasu{\i0}.
+Dialogue: 0,0:24:11.55,0:24:13.32,Default,en,0,0,0,,She's just like a mother-{\i1}dasu{\i0}!
+Dialogue: 0,0:24:13.67,0:24:16.38,Default,en,0,0,0,,But I fall into the trap of Shinarui Clan,
+Dialogue: 0,0:24:16.38,0:24:20.38,Default,en,0,0,0,,and I had to fight against Benkei in a martial art competition of fighting with real swords!
+Dialogue: 0,0:24:21.01,0:24:23.79,Default,en,0,0,0,,Next story! I Become Delinquent!
+Dialogue: 0,0:24:24.18,0:24:27.50,Default,en,0,0,0,,{\pos(320,470)}It's a stormy mommy! -{\i1}dasu{\i0}!
+Dialogue: 0,0:24:27.50,0:24:31.47,NoteOnAnime,en,60,0,60,,{\an7}Next Episode
+Dialogue: 0,0:24:27.50,0:24:31.47,TitleEP,en,0,0,225,,I
+Dialogue: 0,0:24:27.50,0:24:31.47,TitleEP,en,0,0,110,,Become Delinquent
+Dialogue: 0,0:24:27.50,0:24:31.47,NoteOnAnime,en,0,60,30,,{\an3\fs32}Look forwards for it!

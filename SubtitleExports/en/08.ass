@@ -1,0 +1,292 @@
+﻿[Script Info]
+Title: Evil Hanzō Creeps
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 480
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: NoteOnAnime,Candara,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,10,1
+Style: SongOP,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: TitleOP,DejaVu Serif,42,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: TitleEP,DejaVu Serif,42,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: SongED1,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: Note,Candara,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,10,10,10,1
+Style: Eyecatch,Candara,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,10,10,10,1
+Style: NoteOnAnimeVert,@맑은 고딕,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.50,0:00:06.77,Default,en,0,0,0,,It is the turbulent Sengoku period.
+Dialogue: 0,0:00:07.12,0:00:11.68,Default,en,0,0,0,,Warlords keep on fighting day and night over\NJipangu State, where Karakuri people live.
+Dialogue: 0,0:00:11.95,0:00:16.65,Default,en,0,0,0,,Karakuri martial artists were sharpening their swords, dreaming of victory and honor.
+Dialogue: 0,0:00:16.88,0:00:23.38,Default,en,0,0,0,,And now, a wild hero has arrived, seeking to be the number one Karakuri martial artist!
+Dialogue: 0,0:00:24.52,0:00:26.88,Default,en,0,0,0,,Musashi is here-{\i1}dasu{\i0}!
+Dialogue: 0,0:00:28.02,0:00:33.20,TitleOP,en,0,0,40,,{\an8\fs32\fade(770,0)}Karakuri Kengouden
+Dialogue: 0,0:00:28.02,0:00:33.20,TitleOP,en,0,0,40,,{\fade(770,0)}Musashi Road
+Dialogue: 0,0:00:28.02,0:00:33.20,TitleOP,en,0,0,40,,{\fs24\fade(770,0)}(The Story of {\i1}Karakuri{\i0} Martial Artist: Road of Musashi)
+Dialogue: 0,0:00:33.20,0:00:38.04,SongOP,en,0,0,0,,A man always dreams of the day
+Dialogue: 0,0:00:38.88,0:00:41.80,SongOP,en,0,0,0,,in the center of the world to become
+Dialogue: 0,0:00:41.80,0:00:44.67,SongOP,en,0,0,0,,AH! AH! the strongest
+Dialogue: 0,0:00:44.67,0:00:49.72,SongOP,en,0,0,0,,Raise the sword of your heart high to the wide sky
+Dialogue: 0,0:00:50.35,0:00:54.35,SongOP,en,0,0,0,,Raise the curtain to the road of adventure
+Dialogue: 0,0:00:55.69,0:01:00.94,SongOP,en,0,0,0,,A skilled swordsman roams on Jipangu State
+Dialogue: 0,0:01:01.52,0:01:06.57,SongOP,en,0,0,0,,His name is Musashi, a Karakuri man
+Dialogue: 0,0:01:06.57,0:01:08.07,SongOP,en,0,0,0,,Go! Fight!
+Dialogue: 0,0:01:08.07,0:01:10.99,SongOP,en,0,0,0,,The sound of fierce duels
+Dialogue: 0,0:01:10.99,0:01:13.83,SongOP,en,0,0,0,,makes life dazzling
+Dialogue: 0,0:01:13.83,0:01:19.29,SongOP,en,0,0,0,,Battles of yesterdays make you stronger today
+Dialogue: 0,0:01:19.33,0:01:25.55,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
+Dialogue: 0,0:01:25.55,0:01:28.51,SongOP,en,0,0,0,,Tomorrow will be glorious
+Dialogue: 0,0:01:28.51,0:01:31.01,SongOP,en,0,0,0,,The sound of fierce duels
+Dialogue: 0,0:01:31.01,0:01:33.51,SongOP,en,0,0,0,,makes life dazzling
+Dialogue: 0,0:01:34.22,0:01:39.60,SongOP,en,0,0,0,,Fight the utmost with the stillness
+Dialogue: 0,0:01:39.65,0:01:45.86,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
+Dialogue: 0,0:01:45.86,0:01:51.12,SongOP,en,0,0,0,,His eyes shined! Musashi!
+Dialogue: 0,0:02:01.01,0:02:06.95,Default,en,0,0,0,,Musashi had a match against Baiken, the user of {\i1}kusarigama{\i0}, during the trip to Edotopia.
+Dialogue: 0,0:02:07.33,0:02:13.61,Default,en,0,0,0,,In front of the might of kusarigama that he saw for the first time, Musashi was flustered and had a hard fight.
+Dialogue: 0,0:02:13.65,0:02:22.57,Default,en,0,0,0,,But after all, a new friendship has born. Musashi has promised to meet him again in the martial arts competition, and left.
+Dialogue: 0,0:02:22.65,0:02:27.65,TitleEP,en,0,0,60,,Evil Hanzō Creeps
+Dialogue: 0,0:02:49.61,0:02:51.81,Default,en,0,0,0,,Thank you for waiting, Lord Hanzō.
+Dialogue: 0,0:02:56.07,0:02:59.07,NoteOnAnime,en,0,0,100,,Hanzō
+Dialogue: 0,0:02:53.08,0:02:56.84,Default,en,0,0,0,,Right. I appreciate you for greeting me, Zenzō.
+Dialogue: 0,0:02:57.62,0:02:59.01,Default,en,0,0,0,,Now, where is the thing?
+Dialogue: 0,0:02:59.60,0:03:01.37,Default,en,0,0,0,,Yes, it is inside here.
+Dialogue: 0,0:03:12.76,0:03:14.10,Default,en,0,0,0,,This is it.
+Dialogue: 0,0:03:21.41,0:03:23.64,Default,en,0,0,0,,I see. Those are fine gold.
+Dialogue: 0,0:03:24.11,0:03:27.13,Default,en,0,0,0,,Do not let any information about this place leak.
+Dialogue: 0,0:03:27.29,0:03:27.88,Default,en,0,0,0,,Got it.
+Dialogue: 0,0:03:27.97,0:03:32.20,Default,en,0,0,0,,With this, the world is in my hands.
+Dialogue: 0,0:03:42.42,0:03:49.80,Default,en,0,0,0,,Meanwhile, having Kojirō in mind, Musashi was heading to Edotopia, carrying Kotetsu, his beloved swords, on his waist.
+Dialogue: 0,0:03:53.80,0:03:55.11,Default,en,0,0,0,,That must be Kojirō!
+Dialogue: 0,0:03:55.30,0:03:56.32,Default,en,0,0,0,,Wait-{\i1}dasu{\i0}!
+Dialogue: 0,0:03:59.16,0:04:00.07,Default,en,0,0,0,,Wait-{\i1}dasu{\i0}!
+Dialogue: 0,0:04:04.25,0:04:06.25,Default,en,0,0,0,,Do you have anything to say to me?
+Dialogue: 0,0:04:06.59,0:04:11.48,Default,en,0,0,0,,No, no, uh, that is, I was looking for a different person-{\i1}dasu{\i0}. Excuse me-{\i1}dasu{\i0}.
+Dialogue: 0,0:04:14.63,0:04:15.98,Default,en,0,0,0,,What's up with this guy?
+Dialogue: 0,0:04:48.68,0:04:49.66,Default,en,0,0,0,,Is it Zenzō?
+Dialogue: 0,0:04:50.06,0:04:51.42,Default,en,0,0,0,,-Yes.\N-Speak.
+Dialogue: 0,0:04:53.45,0:04:59.51,Default,en,0,0,0,,A few days ago, it is told that Jūbee, the police chief, stopped by at Hōzōin Dōjō.
+Dialogue: 0,0:04:59.96,0:05:07.27,Default,en,0,0,0,,Jūbee? That bastard... He is not supposed to be a spy investigating across the state.
+Dialogue: 0,0:05:07.62,0:05:11.09,Default,en,0,0,0,,How dare he tries to take over my role?
+Dialogue: 0,0:05:12.12,0:05:17.48,Default,en,0,0,0,,But it is possible that Jūbee appeared in that place because of the gold mine...
+Dialogue: 0,0:05:17.83,0:05:21.25,Default,en,0,0,0,,Don't be flustered. There is no mistake. And for you...
+Dialogue: 0,0:05:22.26,0:05:23.31,Default,en,0,0,0,,Who is there?!
+Dialogue: 0,0:05:29.25,0:05:31.46,Default,en,0,0,0,,Spies! Get them!
+Dialogue: 0,0:05:39.32,0:05:42.54,Default,en,0,0,0,,We're going to be caught like this. Run away by yourself!
+Dialogue: 0,0:05:42.88,0:05:44.65,Default,en,0,0,0,,I shall not! Why would you say that?
+Dialogue: 0,0:05:44.89,0:05:48.27,Default,en,0,0,0,,If we get caught together, who will expose Hanzō's plot?
+Dialogue: 0,0:05:48.92,0:05:51.47,Default,en,0,0,0,,Take this to Jūbee right away!
+Dialogue: 0,0:05:52.83,0:05:53.75,Default,en,0,0,0,,Something's over there!
+Dialogue: 0,0:05:55.11,0:05:57.53,Default,en,0,0,0,,You go look that way! I'll check over that side.
+Dialogue: 0,0:05:58.89,0:06:00.56,Default,en,0,0,0,,Forget about me. Hurry!
+Dialogue: 0,0:06:02.04,0:06:02.79,Default,en,0,0,0,,Found him!
+Dialogue: 0,0:06:04.71,0:06:05.33,Default,en,0,0,0,,Appreciated.
+Dialogue: 0,0:06:09.47,0:06:10.42,Default,en,0,0,0,,Freeze!
+Dialogue: 0,0:06:21.59,0:06:27.52,Default,en,0,0,0,,Meanwhile, Kojirō was heading to Edotopia, and Musashi was nowhere to be found in his thoughts.
+Dialogue: 0,0:06:34.53,0:06:36.90,Default,en,0,0,0,,What happened? Wake up!
+Dialogue: 0,0:06:41.67,0:06:43.37,Default,en,0,0,0,,Bring this to Jūbee...
+Dialogue: 0,0:06:45.33,0:06:47.37,Default,en,0,0,0,,Hey! Are you alright? Hey!
+Dialogue: 0,0:06:49.44,0:06:50.09,Default,en,0,0,0,,Pigeons?
+Dialogue: 0,0:06:50.63,0:06:51.30,Default,en,0,0,0,,To Jūbee?
+Dialogue: 0,0:07:03.17,0:07:05.32,Default,en,0,0,0,,What are you all talking about-{\i1}dasu{\i0}?
+Dialogue: 0,0:07:07.05,0:07:08.47,Default,en,0,0,0,,Is it dead?
+Dialogue: 0,0:07:08.98,0:07:10.35,Default,en,0,0,0,,It's not moving.
+Dialogue: 0,0:07:12.98,0:07:16.57,Default,en,0,0,0,,-A pigeon!\N-Yeah, it was under that tree injured.
+Dialogue: 0,0:07:16.77,0:07:20.90,Default,en,0,0,0,,Injured? We must help that pitiful thing in that case-{\i1}dasu{\i0}.
+Dialogue: 0,0:07:21.09,0:07:22.28,Default,en,0,0,0,,{\i1}dasu{\i0}, you say?
+Dialogue: 0,0:07:22.80,0:07:27.00,Default,en,0,0,0,,Even if you say so, we can't do anything about a karakuri bird.
+Dialogue: 0,0:07:27.14,0:07:29.88,Default,en,0,0,0,,You can leave that to me-{\i1}dasu{\i0}!
+Dialogue: 0,0:07:30.44,0:07:32.07,Default,en,0,0,0,,How much are you going to pay us-{\i1}dasu{\i0}?
+Dialogue: 0,0:07:33.73,0:07:36.71,Default,en,0,0,0,,How much? Didn't you say you picked this up-{\i1}dasu{\i0}?
+Dialogue: 0,0:07:37.21,0:07:40.44,Default,en,0,0,0,,Oh, I get it! Then let's go throw it away at somewhere else!
+Dialogue: 0,0:07:40.72,0:07:41.70,Default,en,0,0,0,,So stingy!
+Dialogue: 0,0:07:41.89,0:07:44.18,Default,en,0,0,0,,-Let's go.\N-Hey, stop-{\i1}dasu{\i0}!
+Dialogue: 0,0:07:44.83,0:07:47.86,Default,en,0,0,0,,Man, kids nowadays are so sneaky-{\i1}dasu{\i0}...
+Dialogue: 0,0:07:48.44,0:07:50.29,Default,en,0,0,0,,Here! Are you satisfied-{\i1}dasu{\i0}?
+Dialogue: 0,0:07:51.27,0:07:54.92,Default,en,0,0,0,,-You bought it-{\i1}dasu{\i0}!\N-{\i1}dasu{\i0}!
+Dialogue: 0,0:07:54.98,0:07:56.12,Default,en,0,0,0,,Man.
+Dialogue: 0,0:07:58.60,0:08:01.06,Default,en,0,0,0,,Anyway, let me take a look-{\i1}dasu{\i0}.
+Dialogue: 0,0:08:02.35,0:08:05.00,Default,en,0,0,0,,That's a big wound-{\i1}dasu{\i0}.
+Dialogue: 0,0:08:05.25,0:08:06.04,Default,en,0,0,0,,Huh?
+Dialogue: 0,0:08:13.70,0:08:14.89,Default,en,0,0,0,,What is this-{\i1}dasu{\i0}?
+Dialogue: 0,0:08:21.27,0:08:22.34,Default,en,0,0,0,,What-{\i1}dasu{\i0}?!
+Dialogue: 0,0:08:41.54,0:08:43.40,Default,en,0,0,0,,How cowardly-{\i1}dasu{\i0}!
+Dialogue: 0,0:08:43.75,0:08:46.16,Default,en,0,0,0,,What do you have against me-{\i1}dasu{\i0}?!
+Dialogue: 0,0:08:48.43,0:08:51.03,Default,en,0,0,0,,I'll come back later to treat you, so stay here-{\i1}dasu{\i0}!
+Dialogue: 0,0:08:57.85,0:09:00.28,Default,en,0,0,0,,Damn, what's going on-{\i1}dasu{\i0}?!
+Dialogue: 0,0:09:07.39,0:09:10.76,Default,en,0,0,0,,Who are you-{\i1}dasu{\i0}?! Why are you after me-{\i1}dasu{\i0}?!
+Dialogue: 0,0:09:24.36,0:09:26.12,Default,en,0,0,0,,{\i1}Why are ninjas chasing Musashi?
+Dialogue: 0,0:09:27.19,0:09:31.48,Default,en,0,0,0,,{\i1}There's no way that Musashi killed that other ninja just before.
+Dialogue: 0,0:09:35.42,0:09:36.76,Default,en,0,0,0,,What swift rat!
+Dialogue: 0,0:09:38.57,0:09:39.67,Default,en,0,0,0,,Do not let him get away! Catch him!
+Dialogue: 0,0:09:48.72,0:09:50.78,Default,en,0,0,0,,What persistent bastards-{\i1}dasu{\i0}...
+Dialogue: 0,0:09:53.60,0:09:56.25,Default,en,0,0,0,,What did I wrong to get in this situation-{\i1}dasu{\i0}...
+Dialogue: 0,0:09:58.03,0:10:00.33,Default,en,0,0,0,,Are they possibly looking for this...?
+Dialogue: 0,0:10:04.35,0:10:07.87,Default,en,0,0,0,,{\i1}It seems that Musashi has managed to get away from pursuers.
+Dialogue: 0,0:10:08.42,0:10:09.70,Default,en,0,0,0,,{\i1}But yet...
+Dialogue: 0,0:10:16.79,0:10:18.79,Default,en,0,0,0,,Right, you're going to be fine-{\i1}dasu{\i0}.
+Dialogue: 0,0:10:19.54,0:10:21.45,Default,en,0,0,0,,You'll be able to fly again-{\i1}dasu{\i0}!
+Dialogue: 0,0:10:23.48,0:10:26.85,Default,en,0,0,0,,Maybe I should better return this-{\i1}dasu{\i0}.
+Dialogue: 0,0:10:26.85,0:10:27.51,Default,en,0,0,0,,Wait!
+Dialogue: 0,0:10:28.90,0:10:29.73,Default,en,0,0,0,,Yo- you are!
+Dialogue: 0,0:10:30.29,0:10:31.08,Default,en,0,0,0,,Kojirō!
+Dialogue: 0,0:10:33.36,0:10:35.51,Default,en,0,0,0,,What are you doing-{\i1}dasu{\i0}?!
+Dialogue: 0,0:10:36.07,0:10:39.68,Default,en,0,0,0,,It seems that the owner of this dove and the dead are somehow related.
+Dialogue: 0,0:10:40.08,0:10:43.23,Default,en,0,0,0,,Anyway, this seems to be has something to do with Jūbee.
+Dialogue: 0,0:10:43.57,0:10:44.65,Default,en,0,0,0,,With Jūbee?
+Dialogue: 0,0:10:48.23,0:10:49.08,Default,en,0,0,0,,This...
+Dialogue: 0,0:10:49.40,0:10:51.16,Default,en,0,0,0,,Possibly, a code of something.
+Dialogue: 0,0:10:51.46,0:10:53.45,Default,en,0,0,0,,Or a secret message using steganography.
+Dialogue: 0,0:10:54.42,0:10:56.25,Default,en,0,0,0,,A secret message-dasu?
+Dialogue: 0,0:10:57.19,0:11:01.06,Default,en,0,0,0,,Right. We should know the reason you were chased by reading this.
+Dialogue: 0,0:11:01.51,0:11:02.71,Default,en,0,0,0,,Look at this!
+Dialogue: 0,0:11:05.62,0:11:07.01,Default,en,0,0,0,,It's a character-{\i1}dasu{\i0}!
+Dialogue: 0,0:11:08.12,0:11:09.86,Default,en,0,0,0,,What's going on here?!
+Dialogue: 0,0:11:18.68,0:11:21.64,Default,en,0,0,0,,So I see how this device works.
+Dialogue: 0,0:11:21.95,0:11:25.27,Default,en,0,0,0,,It's pretty well done. The characters written inside are getting projected.
+Dialogue: 0,0:11:26.71,0:11:28.89,Default,en,0,0,0,,I can't read for some reason-{\i1}dasu{\i0}...
+Dialogue: 0,0:11:33.25,0:11:34.23,Default,en,0,0,0,,I will read.
+Dialogue: 0,0:11:34.61,0:11:38.42,Default,en,0,0,0,,This is an application of the mechanism behind a pinhole camera.
+Dialogue: 0,0:11:39.01,0:11:45.27,Default,en,0,0,0,,It's as if an ancestor of the modern cameras, using a small hole instead of a lens.
+Dialogue: 0,0:11:45.96,0:11:49.98,Default,en,0,0,0,,"Hanzō, a villain with two faces, shall be exposed here."
+Dialogue: 0,0:11:50.65,0:11:52.60,Default,en,0,0,0,,Hanzō? Who is it?
+Dialogue: 0,0:11:53.75,0:12:00.64,Default,en,0,0,0,,Not that I know well, but I heard that he is the head of the Iga ninjas, working as an official spy under General Ieyasu.
+Dialogue: 0,0:12:01.02,0:12:04.39,Default,en,0,0,0,,Then was that spy chasing me-{\i1}dasu{\i0}?
+Dialogue: 0,0:12:04.69,0:12:07.09,Default,en,0,0,0,,No. I don't think so. Take a look for yourself.
+Dialogue: 0,0:12:07.24,0:12:12.46,Default,en,0,0,0,,"This man is a general who maintains public peace and order as an official spy,"
+Dialogue: 0,0:12:12.61,0:12:15.85,Default,en,0,0,0,,"but yet he makes daimyos fight against each other from behind,"
+Dialogue: 0,0:12:16.02,0:12:18.62,Default,en,0,0,0,,"continuing his practice of stirring up trouble."
+Dialogue: 0,0:12:18.90,0:12:25.96,Default,en,0,0,0,,"Moreover, owning many gold mines across the state without reporting can only mean to overthrow the shōgunate."
+Dialogue: 0,0:12:26.28,0:12:30.51,Default,en,0,0,0,,"It is the proof that he is scheming to reign over Jipangu State as the shadow shōgun."
+Dialogue: 0,0:12:31.85,0:12:36.87,Default,en,0,0,0,,"Following is the location of gold mine. Waiting for the decision from Jūbee."
+Dialogue: 0,0:12:38.15,0:12:40.58,Default,en,0,0,0,,That's one unforgivable guy-{\i1}dasu{\i0}...
+Dialogue: 0,0:12:43.81,0:12:49.11,Default,en,0,0,0,,Hanzō's evil hands are approaching. Wait for the stormy latter half!
+Dialogue: 0,0:12:58.05,0:13:00.65,Default,en,0,0,0,,While I got the situation, I do not want to be involved.
+Dialogue: 0,0:13:01.14,0:13:02.75,Default,en,0,0,0,,What are you saying-{\i1}dasu{\i0}?
+Dialogue: 0,0:13:03.22,0:13:04.54,Default,en,0,0,0,,Didn't you get it, Musashi?!
+Dialogue: 0,0:13:12.04,0:13:12.57,Default,en,0,0,0,,Kojirō!
+Dialogue: 0,0:13:12.85,0:13:15.17,Default,en,0,0,0,,Do not spend your life for nothing! See you again!
+Dialogue: 0,0:13:15.71,0:13:17.19,Default,en,0,0,0,,Wait for me, Kojirō!
+Dialogue: 0,0:13:22.09,0:13:27.13,Default,en,0,0,0,,Do not follow me! Divide up to two and escape this situation! Change your path!
+Dialogue: 0,0:13:27.24,0:13:31.35,Default,en,0,0,0,,Whatever you say, I cannot run away by myself-{\i1}dasu{\i0}!
+Dialogue: 0,0:13:31.82,0:13:33.40,Default,en,0,0,0,,Then I'll go that way instead!
+Dialogue: 0,0:13:33.51,0:13:34.86,Default,en,0,0,0,,Wait for me-{\i1}dasu{\i0}!
+Dialogue: 0,0:13:36.43,0:13:37.57,Default,en,0,0,0,,Wh- what the-?!
+Dialogue: 0,0:13:45.32,0:13:48.10,Default,en,0,0,0,,We have nothing to do with that. Move away!
+Dialogue: 0,0:13:59.56,0:14:00.57,Default,en,0,0,0,,What the-?!
+Dialogue: 0,0:14:05.96,0:14:08.18,Default,en,0,0,0,,I won't fall for that-{\i1}dasu{\i0}!
+Dialogue: 0,0:14:15.64,0:14:17.29,Default,en,0,0,0,,Oh no-{\i1}dasu{\i0}!
+Dialogue: 0,0:14:20.81,0:14:26.65,Default,en,0,0,0,,Dammit! Cook, throw into a fire, or do whatever you want-{\i1}dasu{\i0}!
+Dialogue: 0,0:14:28.74,0:14:32.61,Default,en,0,0,0,,He already gave up. What simpleton he is!
+Dialogue: 0,0:14:34.60,0:14:35.64,Default,en,0,0,0,,That's as far as you go!
+Dialogue: 0,0:14:38.63,0:14:41.47,Default,en,0,0,0,,Put down the sword! Or he's as good as dead!
+Dialogue: 0,0:14:42.77,0:14:45.77,Default,en,0,0,0,,Okay, I wouldn't like if they do whatever they want-{\i1}dasu{\i0}!
+Dialogue: 0,0:14:45.89,0:14:48.06,Default,en,0,0,0,,I have nothing to do with this!
+Dialogue: 0,0:14:49.02,0:14:52.56,Default,en,0,0,0,,First, that guy does not have anything. Even if you kill, you won't get a thing!
+Dialogue: 0,0:14:52.93,0:14:54.86,Default,en,0,0,0,,How irresponsible he is!
+Dialogue: 0,0:14:55.01,0:14:58.12,Default,en,0,0,0,,Well, you might understand if you investigate as much as you want.
+Dialogue: 0,0:14:58.92,0:15:00.78,Default,en,0,0,0,,Stop right there! You shall not run away!
+Dialogue: 0,0:15:11.85,0:15:12.56,Default,en,0,0,0,,Wh- what the...
+Dialogue: 0,0:15:12.81,0:15:15.96,Default,en,0,0,0,,Damn... Kojirō ran away-{\i1}dasu{\i0}!
+Dialogue: 0,0:15:16.49,0:15:18.49,Default,en,0,0,0,,It's no use. Retreating for now.
+Dialogue: 0,0:15:19.43,0:15:23.83,Default,en,0,0,0,,At least we'd be able to find something out from this guy. We'll find out in plenty.
+Dialogue: 0,0:15:32.41,0:15:35.00,Default,en,0,0,0,,Hey! Untie me!
+Dialogue: 0,0:15:35.86,0:15:37.62,Default,en,0,0,0,,What a lively boy.
+Dialogue: 0,0:15:37.93,0:15:38.57,Default,en,0,0,0,,You!
+Dialogue: 0,0:15:41.35,0:15:48.60,Default,en,0,0,0,,Head of Iga Ninja Force, Hanzō! But first, would you be okay to act violently, you brat?
+Dialogue: 0,0:15:56.68,0:16:03.57,Default,en,0,0,0,,There are mines under your feet. If you lose balance, you'll fall right away.
+Dialogue: 0,0:16:03.62,0:16:05.14,Default,en,0,0,0,,Now! Tell me where the secret message is!
+Dialogue: 0,0:16:05.54,0:16:07.93,Default,en,0,0,0,,I don't have any secret message-{\i1}dasu{\i0}!
+Dialogue: 0,0:16:08.60,0:16:11.61,Default,en,0,0,0,,But it wasn't in the pigeon. Where did you hide the message at?
+Dialogue: 0,0:16:11.70,0:16:13.39,Default,en,0,0,0,,I don't know what I don't know-{\i1}dasu{\i0}!
+Dialogue: 0,0:16:13.70,0:16:18.03,Default,en,0,0,0,,Alright then. Let's see when your stubbornness goes away.
+Dialogue: 0,0:16:27.14,0:16:30.90,Default,en,0,0,0,,-Even if you do not fall, that device will follow law of nature.\N-You're cowardly-{\i1}dasu{\i0}! I know nothing-{\i1}dasu{\i0}!
+Dialogue: 0,0:16:31.32,0:16:34.83,Default,en,0,0,0,,If you want to live, you shall reveal the location you hid the message.
+Dialogue: 0,0:16:37.37,0:16:42.93,Default,en,0,0,0,,If you keep doing this, you won't be able to find the secret message-{\i1}dasu{\i0}!
+Dialogue: 0,0:16:44.71,0:16:48.52,Default,en,0,0,0,,It doesn't matter. There is another living witness.
+Dialogue: 0,0:16:49.09,0:16:52.13,Default,en,0,0,0,,Now, let us wait with leisure meanwhile.
+Dialogue: 0,0:16:52.21,0:16:54.77,Default,en,0,0,0,,-Keep an eye on him.\N-Help me-{\i1}dasu{\i0}!
+Dialogue: 0,0:16:56.27,0:16:57.68,Default,en,0,0,0,,Help me-{\i1}dasu{\i0}!
+Dialogue: 0,0:16:58.12,0:17:02.73,Default,en,0,0,0,,Why must I be in this situation-{\i1}dasu{\i0}?!
+Dialogue: 0,0:17:03.13,0:17:05.21,Default,en,0,0,0,,That's it! Kojirō!
+Dialogue: 0,0:17:05.67,0:17:09.32,Default,en,0,0,0,,That's it-{\i1}dasu{\i0}! It's all because Kojirō ran away!
+Dialogue: 0,0:17:09.51,0:17:11.59,Default,en,0,0,0,,Kojirō's an idiot!
+Dialogue: 0,0:17:11.70,0:17:14.05,Default,en,0,0,0,,You coward!
+Dialogue: 0,0:17:16.76,0:17:18.58,Default,en,0,0,0,,One more word and I'm not saving you.
+Dialogue: 0,0:17:22.37,0:17:24.01,Default,en,0,0,0,,Kojirō! When did you...
+Dialogue: 0,0:17:24.38,0:17:29.47,Default,en,0,0,0,,I changed my clothes in the smoke. Even if it's you, I would miss you should you cease to be.
+Dialogue: 0,0:17:30.90,0:17:32.20,Default,en,0,0,0,,Now! Let's run away!
+Dialogue: 0,0:17:34.26,0:17:37.85,Default,en,0,0,0,,Escape success! Let's hurry and get out of this mansion-{\i1}dasu{\i0}!
+Dialogue: 0,0:17:38.66,0:17:42.16,Default,en,0,0,0,,Idiot. When there are enemies everywhere, my sword alone isn't enough.
+Dialogue: 0,0:17:42.37,0:17:43.90,Default,en,0,0,0,,We must find your sword too!
+Dialogue: 0,0:17:52.09,0:17:52.98,Default,en,0,0,0,,What is this?
+Dialogue: 0,0:17:53.19,0:17:54.62,Default,en,0,0,0,,A fake sliding screen.
+Dialogue: 0,0:17:58.87,0:17:59.77,Default,en,0,0,0,,My kotetsu!
+Dialogue: 0,0:18:16.09,0:18:18.24,Default,en,0,0,0,,Strange... There are no sign of chasers.
+Dialogue: 0,0:18:19.38,0:18:23.30,Default,en,0,0,0,,Hanzō must have fallen asleep, not realizing that we escaped-{\i1}dasu{\i0}.
+Dialogue: 0,0:18:23.70,0:18:26.65,Default,en,0,0,0,,I hope so, but let's hurry up for now.
+Dialogue: 0,0:18:30.47,0:18:33.64,Default,en,0,0,0,,Idiots. You shall not simply run away.
+Dialogue: 0,0:18:34.57,0:18:38.63,Default,en,0,0,0,,When I get to know where the secret message is, I'll kill you slowly.
+Dialogue: 0,0:18:38.82,0:18:43.04,Default,en,0,0,0,,What? Are you saying that you're going to deliver that secret message to Jūbee in Edotopia?
+Dialogue: 0,0:18:43.20,0:18:46.68,Default,en,0,0,0,,Right. An atrocious villain like Hanzō is unforgivable-{\i1}dasu{\i0}!
+Dialogue: 0,0:18:46.74,0:18:47.84,Default,en,0,0,0,,But still...
+Dialogue: 0,0:18:47.84,0:18:48.55,Default,en,0,0,0,,Hey, stop!
+Dialogue: 0,0:18:56.21,0:18:56.95,Default,en,0,0,0,,Good.
+Dialogue: 0,0:18:58.33,0:19:00.94,Default,en,0,0,0,,With this, Hanzō's gang will meet its end-{\i1}dasu{\i0}!
+Dialogue: 0,0:19:03.32,0:19:04.11,Default,en,0,0,0,,Hey! Stop!
+Dialogue: 0,0:19:11.73,0:19:12.99,Default,en,0,0,0,,You- you must be...!
+Dialogue: 0,0:19:13.37,0:19:16.18,Default,en,0,0,0,,It's ours now. Go!
+Dialogue: 0,0:19:25.49,0:19:28.59,Default,en,0,0,0,,Damn, they are too quick-{\i1}dasu{\i0}!
+Dialogue: 0,0:19:37.00,0:19:39.29,Default,en,0,0,0,,Those guys followed us!
+Dialogue: 0,0:19:39.62,0:19:42.23,Default,en,0,0,0,,They took the message-{\i1}dasu{\i0}!
+Dialogue: 0,0:19:42.56,0:19:46.19,Default,en,0,0,0,,Forget it! I refuse to be involved more than this!
+Dialogue: 0,0:19:50.67,0:19:52.21,Default,en,0,0,0,,Even if you say so...
+Dialogue: 0,0:20:14.15,0:20:15.12,Default,en,0,0,0,,We did it-{\i1}dasu{\i0}.
+Dialogue: 0,0:20:24.87,0:20:26.69,Default,en,0,0,0,,What should we do-{\i1}dasu{\i0}?
+Dialogue: 0,0:20:27.81,0:20:31.74,Default,en,0,0,0,,Like I know! We just run!
+Dialogue: 0,0:20:40.33,0:20:41.12,Default,en,0,0,0,,This is it-{\i1}dasu{\i0}.
+Dialogue: 0,0:20:41.29,0:20:42.58,Default,en,0,0,0,,I'll finish you!
+Dialogue: 0,0:20:45.04,0:20:45.75,Default,en,0,0,0,,Musashi!
+Dialogue: 0,0:21:00.93,0:21:04.06,Default,en,0,0,0,,Take it back-{\i1}dasu{\i0}!
+Dialogue: 0,0:21:13.96,0:21:16.81,Default,en,0,0,0,,You damned brats...
+Dialogue: 0,0:21:19.32,0:21:22.66,Default,en,0,0,0,,I will have revenge on you!
+Dialogue: 0,0:21:28.02,0:21:32.17,Default,en,0,0,0,,Thinking to use your enemy's weapon in a nick of time is praiseworthy even for you.
+Dialogue: 0,0:21:34.55,0:21:37.03,Default,en,0,0,0,,Then let's separate from now on.
+Dialogue: 0,0:21:38.23,0:21:40.51,Default,en,0,0,0,,You still have a match against me-{\i1}dasu{\i0}.
+Dialogue: 0,0:21:41.19,0:21:43.70,Default,en,0,0,0,,You know, with you, nothing goes alright.
+Dialogue: 0,0:21:44.20,0:21:48.61,Default,en,0,0,0,,And also, I also have some convenient stuff.
+Dialogue: 0,0:21:49.02,0:21:49.69,Default,en,0,0,0,,Farewell!
+Dialogue: 0,0:21:50.28,0:21:51.32,Default,en,0,0,0,,Idiot.
+Dialogue: 0,0:21:54.87,0:21:57.61,Default,en,0,0,0,,That was cowardly-{\i1}dasu{\i0}!
+Dialogue: 0,0:21:58.80,0:22:01.46,Default,en,0,0,0,,Damn you, Kojirō!
+Dialogue: 0,0:22:01.72,0:22:05.77,Default,en,0,0,0,,Huh, I'm too hungry to stand up straight-{\i1}dasu{\i0}...
+Dialogue: 0,0:22:07.14,0:22:13.72,Default,en,0,0,0,,In this way, he managed to evade the evil hands of Hanzō, but he lost the secret message revealing his fearsome plot.
+Dialogue: 0,0:22:14.26,0:22:23.25,Default,en,0,0,0,,He was too tired and hungry. A starved swordsman still has high spirits, but Musashi wasn't quite there yet.
+Dialogue: 0,0:22:42.95,0:22:44.99,SongED1,en,0,0,0,,Sometimes the moon jumps over
+Dialogue: 0,0:22:45.70,0:22:48.25,SongED1,en,0,0,0,,the pocket of empty sky
+Dialogue: 0,0:22:48.46,0:22:50.62,SongED1,en,0,0,0,,Laugh loudly and
+Dialogue: 0,0:22:51.25,0:22:53.25,SongED1,en,0,0,0,,morning will come tomorrow
+Dialogue: 0,0:22:54.00,0:22:58.59,SongED1,en,0,0,0,,Don't worry too much about losing
+Dialogue: 0,0:22:59.59,0:23:02.18,SongED1,en,0,0,0,,Keep going! Go for it!
+Dialogue: 0,0:23:02.18,0:23:04.60,SongED1,en,0,0,0,,A bare hand is strong
+Dialogue: 0,0:23:05.01,0:23:14.69,SongED1,en,0,0,0,,That's how it is! Let's go lightly
+Dialogue: 0,0:23:15.15,0:23:22.74,SongED1,en,0,0,0,,That's how life is! Look, a chance
+Dialogue: 0,0:23:23.20,0:23:27.45,SongED1,en,0,0,0,,follows us wagging its tail!
+Dialogue: 0,0:23:28.87,0:23:38.38,SongED1,en,0,0,0,,That's how it is! Let's go lightly
+Dialogue: 0,0:23:38.88,0:23:46.85,SongED1,en,0,0,0,,That's how the future is, too! Look, tomorrow
+Dialogue: 0,0:23:47.10,0:23:52.69,SongED1,en,0,0,0,,is opening its hands and smiling at us!
+Dialogue: 0,0:24:05.11,0:24:08.77,Default,en,0,0,0,,I've ate and drink as much as I wanted-{\i1}dasu{\i0}. Moreover, because I could earn money,
+Dialogue: 0,0:24:08.81,0:24:11.47,Default,en,0,0,0,,I decided to help Katsuzō family-{\i1}dasu{\i0},
+Dialogue: 0,0:24:11.75,0:24:15.01,Default,en,0,0,0,,but as everyone says, there's no such thing as a free lunch-{\i1}dasu{\i0}.
+Dialogue: 0,0:24:15.23,0:24:20.73,Default,en,0,0,0,,A twist of fate? I have to fight against Jirochiō family where Ishimatsu, who promised with me to be brothers, is in-{\i1}dasu{\i0}.
+Dialogue: 0,0:24:21.27,0:24:24.47,Default,en,0,0,0,,Next story! A Man Ishimatsu, Friendship Falls-{\i1}dasu{\i0}.
+Dialogue: 0,0:24:24.81,0:24:27.73,Default,en,0,0,0,,Cry by the stormy friendship-{\i1}dasu{\i0}!
+Dialogue: 0,0:24:27.72,0:24:31.68,NoteOnAnime,en,60,0,60,,{\an7}Next Episode
+Dialogue: 0,0:24:27.72,0:24:31.68,TitleEP,en,0,0,200,,A Man Ishimatsu
+Dialogue: 0,0:24:27.72,0:24:31.68,TitleEP,en,0,0,70,,Friendship Falls
+Dialogue: 0,0:24:27.72,0:24:31.68,NoteOnAnime,en,0,60,30,,{\an3\fs32}Look forwards for it!

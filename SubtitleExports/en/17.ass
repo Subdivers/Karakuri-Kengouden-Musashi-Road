@@ -1,0 +1,300 @@
+﻿[Script Info]
+Title: Yamata no Orochi, a Big Showdown
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 480
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: NoteOnAnime,Candara,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,10,1
+Style: OP1TR,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: TitleOP,DejaVu Serif,42,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: TitleEP,DejaVu Serif,42,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: ED1TR,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: Note,Candara,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,10,10,10,1
+Style: Eyecatch,Candara,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,10,10,10,1
+Style: NoteOnAnimeVert,@맑은 고딕,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,10,1
+Style: InsOtsuru,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.44,0:00:06.60,Default,en,0,0,0,,It is the turbulent Sengoku period.
+Dialogue: 0,0:00:07.03,0:00:11.55,Default,en,0,0,0,,Warlords keep on fighting day and night over\NJipangu State, where Karakuri people live.
+Dialogue: 0,0:00:11.93,0:00:16.28,Default,en,0,0,0,,Karakuri martial artists were sharpening their swords, dreaming of victory and honor.
+Dialogue: 0,0:00:16.84,0:00:23.24,Default,en,0,0,0,,And now, a wild hero has arrived, seeking to be the number one Karakuri martial artist!
+Dialogue: 0,0:00:24.42,0:00:26.90,Default,en,0,0,0,,Musashi is here-{\i1}dasu{\i0}!
+Dialogue: 0,0:00:28.00,0:00:33.22,TitleOP,en,0,0,40,,{\an8\fs32\fade(770,0)}Karakuri Kengouden
+Dialogue: 0,0:00:28.00,0:00:33.22,TitleOP,en,0,0,40,,{\fade(770,0)}Musashi Road
+Dialogue: 0,0:00:28.00,0:00:33.22,TitleOP,en,0,0,40,,{\fs24\fade(770,0)}(The Story of {\i1}Karakuri{\i0} Martial Artist: Road of Musashi)
+Dialogue: 0,0:00:33.22,0:00:38.05,SongOP,en,0,0,0,,A man always dreams of the day
+Dialogue: 0,0:00:38.89,0:00:41.81,SongOP,en,0,0,0,,in the center of the world to become
+Dialogue: 0,0:00:41.81,0:00:44.69,SongOP,en,0,0,0,,AH! AH! the strongest
+Dialogue: 0,0:00:44.69,0:00:49.73,SongOP,en,0,0,0,,Raise the sword of your heart high to the wide sky
+Dialogue: 0,0:00:50.36,0:00:54.36,SongOP,en,0,0,0,,Raise the curtain to the road of adventure
+Dialogue: 0,0:00:55.70,0:01:00.95,SongOP,en,0,0,0,,A skilled swordsman roams on Jipangu State
+Dialogue: 0,0:01:01.54,0:01:06.58,SongOP,en,0,0,0,,His name is Musashi, a Karakuri man
+Dialogue: 0,0:01:06.58,0:01:08.08,SongOP,en,0,0,0,,Go! Fight!
+Dialogue: 0,0:01:08.08,0:01:11.00,SongOP,en,0,0,0,,The sound of fierce duels
+Dialogue: 0,0:01:11.00,0:01:13.84,SongOP,en,0,0,0,,makes life dazzling
+Dialogue: 0,0:01:13.84,0:01:19.30,SongOP,en,0,0,0,,Battles of yesterdays make you stronger today
+Dialogue: 0,0:01:19.35,0:01:25.56,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
+Dialogue: 0,0:01:25.56,0:01:28.56,SongOP,en,0,0,0,,Tomorrow will be glorious
+Dialogue: 0,0:01:28.56,0:01:31.02,SongOP,en,0,0,0,,The sound of fierce duels
+Dialogue: 0,0:01:31.02,0:01:33.53,SongOP,en,0,0,0,,makes life dazzling
+Dialogue: 0,0:01:34.23,0:01:39.62,SongOP,en,0,0,0,,Fight the utmost with the stillness
+Dialogue: 0,0:01:39.66,0:01:45.87,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
+Dialogue: 0,0:01:45.87,0:01:51.13,SongOP,en,0,0,0,,His eyes shined! Musashi!
+Dialogue: 0,0:02:01.17,0:02:07.33,Default,en,0,0,0,,Musashi's group did their best to take down Tsuchigumo, the monster that tormented the villagers,
+Dialogue: 0,0:02:07.57,0:02:12.30,Default,en,0,0,0,,but under the sorcery of Onihime, they almost ended up as preys of Tsuchigumo.
+Dialogue: 0,0:02:12.79,0:02:18.45,Default,en,0,0,0,,But thanks to the heaven, or the god or whatever, Ushiwaka and Benkei came to help and
+Dialogue: 0,0:02:18.87,0:02:22.64,Default,en,0,0,0,,Musashi finally got Tenchimaru, the small sword of legends.
+Dialogue: 0,0:02:23.28,0:02:28.28,TitleEP,en,0,0,0,,Yamata no Orochi, a Big Showdown
+Dialogue: 0,0:02:29.40,0:02:30.04,Default,en,0,0,0,,What?
+Dialogue: 0,0:02:31.12,0:02:36.11,Default,en,0,0,0,,Senhime's group has crossed Watarase river from Kōzuke province and is now heading to Ashikaga?
+Dialogue: 0,0:02:36.23,0:02:37.90,Default,en,0,0,0,,Yessir. It is a new information.
+Dialogue: 0,0:02:38.34,0:02:43.43,Default,en,0,0,0,,You bastards... Gone through two of the Four Rulers, Musashi and Kojirō?
+Dialogue: 0,0:02:43.57,0:02:46.11,Default,en,0,0,0,,You will go down this time.
+Dialogue: 0,0:02:46.59,0:02:52.25,Default,en,0,0,0,,Karakuri Owl, go to Shutentiger, one of our Four Rulers under Hanzō!
+Dialogue: 0,0:02:57.43,0:03:03.47,Default,en,0,0,0,,{\i1}Shutentiger, do not fail. Bring Musashi and Kojirō to their demise, and capture Senhime no matter what.
+Dialogue: 0,0:03:07.36,0:03:10.75,Default,en,0,0,0,,After all this journey, I can't find a good guy.
+Dialogue: 0,0:03:16.38,0:03:18.95,Default,en,0,0,0,,Hey, that guy looks pretty nice.
+Dialogue: 0,0:03:22.28,0:03:23.11,Default,en,0,0,0,,Hey...
+Dialogue: 0,0:03:25.48,0:03:27.18,Default,en,0,0,0,,What's up-{\i1}dasu{\i0}?
+Dialogue: 0,0:03:30.98,0:03:34.14,Default,en,0,0,0,,Lovely gentleman, wouldn't you share your name with me?
+Dialogue: 0,0:03:34.39,0:03:35.94,Default,en,0,0,0,,I am Mister Kojirō.
+Dialogue: 0,0:03:36.26,0:03:40.54,Default,en,0,0,0,,I am Sayonsuke. Got a time for tea with me?
+Dialogue: 0,0:03:40.75,0:03:42.25,Default,en,0,0,0,,I don't have a hobby like that!
+Dialogue: 0,0:03:45.69,0:03:48.16,Default,en,0,0,0,,What a cold guy... How cruel.
+Dialogue: 0,0:03:49.29,0:03:51.96,Default,en,0,0,0,,Ahahahhahah, hey, you lady-killer!
+Dialogue: 0,0:03:51.96,0:03:52.34,Default,en,0,0,0,,Hmph!
+Dialogue: 0,0:03:57.14,0:03:58.59,Default,en,0,0,0,,The sun is setting.
+Dialogue: 0,0:04:02.43,0:04:04.30,Default,en,0,0,0,,Musashi, get over it already!
+Dialogue: 0,0:04:05.60,0:04:06.75,Default,en,0,0,0,,I'm sorry-{\i1}dasu{\i0}.
+Dialogue: 0,0:04:07.21,0:04:10.28,Default,en,0,0,0,,Go to the village ahead and ask them if they got a room for the night.
+Dialogue: 0,0:04:10.98,0:04:13.73,Default,en,0,0,0,,Proud of yourself again, eh? I'm going-{\i1}dasu{\i0}!
+Dialogue: 0,0:04:14.09,0:04:15.66,Default,en,0,0,0,,I'll pay all this back someday-{\i1}dasu{\i0}!
+Dialogue: 0,0:04:16.56,0:04:18.07,Default,en,0,0,0,,He sure complaints a lot.
+Dialogue: 0,0:04:18.62,0:04:19.30,Default,en,0,0,0,,Oh!
+Dialogue: 0,0:04:22.11,0:04:22.95,Default,en,0,0,0,,What's up, Musashi?
+Dialogue: 0,0:04:23.51,0:04:24.37,Default,en,0,0,0,,What's up?
+Dialogue: 0,0:04:25.92,0:04:27.19,Default,en,0,0,0,,What the heck is this?
+Dialogue: 0,0:04:27.56,0:04:29.38,Default,en,0,0,0,,"Young girls welcome"
+Dialogue: 0,0:04:29.69,0:04:31.86,Default,en,0,0,0,,"Free one night stay with free meal!"
+Dialogue: 0,0:04:32.38,0:04:34.47,Default,en,0,0,0,,Isn't it awesome? It's all free!
+Dialogue: 0,0:04:34.68,0:04:36.40,Default,en,0,0,0,,It's already settled-{\i1}dasu{\i0}!
+Dialogue: 0,0:04:37.02,0:04:40.03,Default,en,0,0,0,,Senhime, this definitely isn't right.
+Dialogue: 0,0:04:40.50,0:04:43.97,Default,en,0,0,0,,Does it matter? I'm getting starved!
+Dialogue: 0,0:04:44.14,0:04:44.88,Default,en,0,0,0,,Let's go!
+Dialogue: 0,0:04:45.06,0:04:46.27,Default,en,0,0,0,,Wait for me, Osenchan!
+Dialogue: 0,0:04:58.04,0:04:59.32,Default,en,0,0,0,,It's so good!
+Dialogue: 0,0:05:02.33,0:05:05.54,Default,en,0,0,0,,It's the best! They got so much of foods that I love-{\i1}dasu{\i0}!
+Dialogue: 0,0:05:09.85,0:05:12.84,Default,en,0,0,0,,Musashi, can't you eat quietly!?
+Dialogue: 0,0:05:14.91,0:05:16.62,Default,en,0,0,0,,This is how you eat noodles-{\i1}dasu{\i0}!
+Dialogue: 0,0:05:18.19,0:05:20.23,Default,en,0,0,0,,Hey, you're splattering it all over!
+Dialogue: 0,0:05:20.51,0:05:24.22,Default,en,0,0,0,,Isn't it alright? Kojirō, you're just being noisy.
+Dialogue: 0,0:05:26.41,0:05:29.02,Default,en,0,0,0,,That is too vulgar for a princess!
+Dialogue: 0,0:05:29.72,0:05:30.89,Default,en,0,0,0,,Leave me alone.
+Dialogue: 0,0:05:32.95,0:05:34.71,Default,en,0,0,0,,That was a great meal-{\i1}dasu{\i0}!
+Dialogue: 0,0:05:38.65,0:05:40.11,Default,en,0,0,0,,What's that-{\i1}dasu{\i0}?
+Dialogue: 0,0:05:40.62,0:05:43.22,Default,en,0,0,0,,It's a unique tradition of the village - Karaoke Dance!
+Dialogue: 0,0:05:43.63,0:05:44.44,Default,en,0,0,0,,Karaoke?
+Dialogue: 0,0:05:45.02,0:05:47.86,Default,en,0,0,0,,You'll fill an empty({\i1}kara{\i0}) bucket({\i1}oke{\i0}), and sing and dance with it.
+Dialogue: 0,0:05:48.36,0:05:50.87,Default,en,0,0,0,,That does sound interesting-{\i1}dasu{\i0}!
+Dialogue: 0,0:05:56.89,0:05:58.87,Default,en,0,0,0,,It's great, great!
+Dialogue: 0,0:05:59.84,0:06:02.18,Default,en,0,0,0,,Hey, I wonder why are there only grannies.
+Dialogue: 0,0:06:02.36,0:06:06.89,Default,en,0,0,0,,Right? I haven't seen any girls around here.
+Dialogue: 0,0:06:07.79,0:06:12.14,Default,en,0,0,0,,Everyone, welcome to our village tonight.
+Dialogue: 0,0:06:13.24,0:06:16.18,Default,en,0,0,0,,Even thought nothing is here, we hope you can rest here.
+Dialogue: 0,0:06:20.51,0:06:24.49,Default,en,0,0,0,,This is a miracle drug of eternal youth from long time ago.
+Dialogue: 0,0:06:24.86,0:06:28.31,Default,en,0,0,0,,It is told that you can live young even past 100 years old with this.
+Dialogue: 0,0:06:28.81,0:06:31.34,Default,en,0,0,0,,Past 100 years old-{\i1}dasu{\i0}?
+Dialogue: 0,0:06:44.73,0:06:47.30,Default,en,0,0,0,,This is one good sleeping drug.
+Dialogue: 0,0:06:47.43,0:06:48.94,Default,en,0,0,0,,Now, hurry, everyone!
+Dialogue: 0,0:06:54.24,0:06:55.87,Default,en,0,0,0,,Why are you doing this!?
+Dialogue: 0,0:06:56.62,0:06:59.20,Default,en,0,0,0,,-We're sorry!\N-Please forgive us!
+Dialogue: 0,0:07:05.61,0:07:09.14,Default,en,0,0,0,,What? You're offering girls to Yamata no Orochi?
+Dialogue: 0,0:07:09.54,0:07:17.32,Default,en,0,0,0,,Yes. If we don't offer a girl every month, the monster will attack fields, children and villagers.
+Dialogue: 0,0:07:17.87,0:07:24.62,Default,en,0,0,0,,Nonetheless it's unforgivable that you were trying to use us instead of your usual victim.
+Dialogue: 0,0:07:24.94,0:07:29.36,Default,en,0,0,0,,We understand that you are mad, but there is no girl remaining in this village.
+Dialogue: 0,0:07:29.86,0:07:32.38,Default,en,0,0,0,,We knew it was a bad thing to do, but...
+Dialogue: 0,0:07:32.65,0:07:34.12,Default,en,0,0,0,,Nonsense!
+Dialogue: 0,0:07:34.26,0:07:37.03,Default,en,0,0,0,,That was a good sleep-{\i1}dasu{\i0}.
+Dialogue: 0,0:07:37.67,0:07:39.13,Default,en,0,0,0,,What's up, everyone-{\i1}dasu{\i0}?
+Dialogue: 0,0:07:39.62,0:07:46.06,Default,en,0,0,0,,We apologize, but if we offer an old woman instead, Yamata no Orochi would get angry...
+Dialogue: 0,0:07:46.68,0:07:48.07,Default,en,0,0,0,,Yamata no Orochi?
+Dialogue: 0,0:07:48.56,0:07:53.07,Default,en,0,0,0,,Can't you do anything? Why not work together to exterminate it?
+Dialogue: 0,0:07:53.16,0:07:57.56,Default,en,0,0,0,,That is, it isn't like that we can defeat it by ourselves.
+Dialogue: 0,0:07:57.93,0:08:00.06,Default,en,0,0,0,,Got it. Leave it to us-{\i1}dasu{\i0}!
+Dialogue: 0,0:08:02.07,0:08:05.50,Default,en,0,0,0,,Musashi, don't forget about our objective!
+Dialogue: 0,0:08:05.75,0:08:10.84,Default,en,0,0,0,,No, Yamata no Orochi or daikon oroshi, I'm taking it down-{\i1}dasu{\i0}!
+Dialogue: 0,0:08:11.32,0:08:12.67,Default,en,0,0,0,,A- are you serious?
+Dialogue: 0,0:08:13.70,0:08:18.04,Default,en,0,0,0,,I am looking to become the number one martial artist of Jipangu-{\u1}dasu{\u0}. I do not take back my words-{\i1}dasu{\i0}!
+Dialogue: 0,0:08:18.49,0:08:20.60,Default,en,0,0,0,,Musashi, I will stay out of this!
+Dialogue: 0,0:08:21.07,0:08:25.42,Default,en,0,0,0,,Sure then-{\i1}dasu{\i0}! I'll do this no matter what-{\i1}dasu{\i0}!
+Dialogue: 0,0:08:28.44,0:08:29.84,Default,en,0,0,0,,Yamata no Orochi?
+Dialogue: 0,0:08:30.44,0:08:31.35,Default,en,0,0,0,,Tsuchigumo?
+Dialogue: 0,0:08:32.28,0:08:39.35,Default,en,0,0,0,,They are monsters that are told to be protecting the sacred swords named Tenkūmaru and Tenchimaru.
+Dialogue: 0,0:08:40.97,0:08:44.71,Default,en,0,0,0,,So by getting rid of those monsters, I will claim those excellent swords-{\i1}dasu{\i0}!
+Dialogue: 0,0:08:45.18,0:08:49.25,Default,en,0,0,0,,When that time comes, Musashi, you'll become the best of the best swordsmen around the world.
+Dialogue: 0,0:08:51.39,0:08:53.29,Default,en,0,0,0,,I'll do that with all my might!
+Dialogue: 0,0:08:53.56,0:08:56.87,Default,en,0,0,0,,If you're being serious, we would be very grateful!
+Dialogue: 0,0:08:57.40,0:08:59.43,Default,en,0,0,0,,As you see, please do so!
+Dialogue: 0,0:08:59.82,0:09:02.39,Default,en,0,0,0,,Looks fun! I'll help, too.
+Dialogue: 0,0:09:02.50,0:09:04.85,Default,en,0,0,0,,P- Princess! That is too reckless!
+Dialogue: 0,0:09:04.94,0:09:07.87,Default,en,0,0,0,,It's alright! Don't worry! Musashi, let's go.
+Dialogue: 0,0:09:08.35,0:09:09.43,Default,en,0,0,0,,Please wait!
+Dialogue: 0,0:09:10.32,0:09:12.75,Default,en,0,0,0,,Damn that luck-pusher!
+Dialogue: 0,0:09:13.74,0:09:17.32,Default,en,0,0,0,,Can't be helped. It's my duty to protect Senhime.
+Dialogue: 0,0:09:30.90,0:09:34.79,Default,en,0,0,0,,Yamata no Orochi loved alcoholic drinks.
+Dialogue: 0,0:09:42.55,0:09:45.99,Default,en,0,0,0,,I repeat. No matter what, do not leave this place!
+Dialogue: 0,0:09:47.61,0:09:49.98,Default,en,0,0,0,,I want to find out what's going to come out!
+Dialogue: 0,0:10:04.58,0:10:06.46,Default,en,0,0,0,,What's that?!
+Dialogue: 0,0:10:07.29,0:10:08.08,Default,en,0,0,0,,Musashi!
+Dialogue: 0,0:10:16.30,0:10:17.24,Default,en,0,0,0,,Musashi, wake up!
+Dialogue: 0,0:10:22.01,0:10:23.26,Default,en,0,0,0,,Wake up, Musashi!
+Dialogue: 0,0:10:25.36,0:10:26.24,Default,en,0,0,0,,Musashi!
+Dialogue: 0,0:10:35.59,0:10:36.56,Default,en,0,0,0,,You bastard!
+Dialogue: 0,0:10:40.26,0:10:42.15,Default,en,0,0,0,,What a tough guy-{\i1}dasu{\i0}!
+Dialogue: 0,0:10:47.95,0:10:48.79,Default,en,0,0,0,,Senhime!
+Dialogue: 0,0:10:49.13,0:10:52.64,Default,en,0,0,0,,Kojirō and Musashi! I'll take Senhime!
+Dialogue: 0,0:10:52.98,0:10:54.65,Default,en,0,0,0,,Will not happen!
+Dialogue: 0,0:10:58.47,0:11:00.84,Default,en,0,0,0,,Who are you?! Identify yourself!
+Dialogue: 0,0:11:00.84,0:11:05.60,NoteOnAnime,en,0,0,50,,Shutentiger
+Dialogue: 0,0:11:01.05,0:11:03.99,Default,en,0,0,0,,One of the Four Rulers of Iga, Shutentiger!
+Dialogue: 0,0:11:07.20,0:11:08.31,Default,en,0,0,0,,Osenchan!
+Dialogue: 0,0:11:19.74,0:11:22.41,Default,en,0,0,0,,I won't be defeated by a snake with many heads-{\i1}dasu{\i0}!
+Dialogue: 0,0:11:30.31,0:11:33.86,Default,en,0,0,0,,-Dammit!\N-Musashi! Rescuing Senhime comes first!
+Dialogue: 0,0:11:34.60,0:11:37.64,Default,en,0,0,0,,But if we don't take this down, we have no hope-{\i1}dasu{\i0}!
+Dialogue: 0,0:11:41.07,0:11:42.01,Default,en,0,0,0,,Now what-{\i1}dasu{\i0}?
+Dialogue: 0,0:11:42.38,0:11:44.44,Default,en,0,0,0,,To seal that neck that's like a ranged weapon...
+Dialogue: 0,0:11:45.34,0:11:46.97,Default,en,0,0,0,,Forest! Jump into the forest!
+Dialogue: 0,0:11:53.68,0:11:55.78,Default,en,0,0,0,,Musashi! Let's finish this here!
+Dialogue: 0,0:11:55.78,0:11:56.60,Default,en,0,0,0,,Understood-{\i1}dasu{\i0}!
+Dialogue: 0,0:12:13.45,0:12:14.17,Default,en,0,0,0,,Musashi!
+Dialogue: 0,0:12:19.36,0:12:22.60,Default,en,0,0,0,,You bastard! Give me back my Kotetsu-{\i1}dasu{\i0}!
+Dialogue: 0,0:12:22.99,0:12:25.13,Default,en,0,0,0,,Either you stop, or I'll get angry-{\i1}dasu{\i0}!
+Dialogue: 0,0:12:28.40,0:12:32.66,Default,en,0,0,0,,Musashi, watch out! Wait for the stormy latter half!
+Dialogue: 0,0:12:39.06,0:12:40.19,Default,en,0,0,0,,On your back, Musashi!
+Dialogue: 0,0:12:43.45,0:12:44.06,Default,en,0,0,0,,Are you alright?
+Dialogue: 0,0:12:44.81,0:12:46.09,Default,en,0,0,0,,M- my Kotetsu!
+Dialogue: 0,0:12:49.87,0:12:51.66,Default,en,0,0,0,,My Kotetsu...
+Dialogue: 0,0:12:52.39,0:12:53.54,Default,en,0,0,0,,Damn you!
+Dialogue: 0,0:12:55.77,0:12:58.35,Default,en,0,0,0,,-What was that for-{\i1}dasu{\i0}?!\N-Never mind; just listen!
+Dialogue: 0,0:13:31.66,0:13:32.83,Default,en,0,0,0,,We did it!
+Dialogue: 0,0:13:43.20,0:13:43.84,Default,en,0,0,0,,Musashi!
+Dialogue: 0,0:13:46.49,0:13:47.33,Default,en,0,0,0,,What's up?
+Dialogue: 0,0:13:47.64,0:13:48.20,Default,en,0,0,0,,Look at this.
+Dialogue: 0,0:13:48.97,0:13:50.51,Default,en,0,0,0,,Osenchan's flute!
+Dialogue: 0,0:14:01.11,0:14:01.78,Default,en,0,0,0,,Here it is!
+Dialogue: 0,0:14:03.53,0:14:07.91,Default,en,0,0,0,,This definitely is Senhime's. Find her around this place!
+Dialogue: 0,0:14:08.96,0:14:12.01,Default,en,0,0,0,,Osenchan, I'll rescue you no matter what!
+Dialogue: 0,0:14:12.72,0:14:17.82,Default,en,0,0,0,,Musashi! Pay attention! Must I remind you that it's all your fault!?
+Dialogue: 0,0:14:18.49,0:14:21.75,Default,en,0,0,0,,I couldn't leave those poor villagers like that-{\i1}dasu{\i0}!
+Dialogue: 0,0:14:22.04,0:14:24.42,Default,en,0,0,0,,What you did is nothing more than being a meddler!
+Dialogue: 0,0:14:24.63,0:14:25.43,Default,en,0,0,0,,What-{\i1}dasu{\i0}?!
+Dialogue: 0,0:14:26.38,0:14:28.13,Default,en,0,0,0,,That isn't true-{\i1}dasu{\i0}!
+Dialogue: 0,0:14:29.46,0:14:30.83,Default,en,0,0,0,,You bastard!
+Dialogue: 0,0:14:31.76,0:14:32.47,Default,en,0,0,0,,Stop, Musashi!
+Dialogue: 0,0:14:32.91,0:14:33.91,Default,en,0,0,0,,Surrendering-{\i1}dasu{\i0}?
+Dialogue: 0,0:14:34.50,0:14:36.35,Default,en,0,0,0,,Musashi! Come over here! It's a cave!
+Dialogue: 0,0:14:41.64,0:14:44.59,Default,en,0,0,0,,There's a cave here-{\i1}dasu{\i0}? What's going on-{\i1}dasu{\i0}?
+Dialogue: 0,0:14:45.19,0:14:48.94,Default,en,0,0,0,,What a blunt guy. Doesn't this place look like a hiding place to you?
+Dialogue: 0,0:14:49.29,0:14:51.05,Default,en,0,0,0,,Of course I don't know...
+Dialogue: 0,0:14:54.53,0:14:56.77,Default,en,0,0,0,,This means that it's here.
+Dialogue: 0,0:15:05.00,0:15:07.10,Default,en,0,0,0,,What is this huge place-{\i1}dasu{\i0}?
+Dialogue: 0,0:15:07.59,0:15:08.64,Default,en,0,0,0,,It's a limestone cave.
+Dialogue: 0,0:15:12.25,0:15:13.99,Default,en,0,0,0,,-Cold!\N-Silence!
+Dialogue: 0,0:15:19.99,0:15:21.40,Default,en,0,0,0,,It's Yamata no Orochi-{\i1}dasu{\i0}.
+Dialogue: 0,0:15:21.50,0:15:23.10,Default,en,0,0,0,,It escaped already?
+Dialogue: 0,0:15:24.02,0:15:27.27,Default,en,0,0,0,,Where are Shutentiger and Senhime?
+Dialogue: 0,0:15:28.35,0:15:29.97,Default,en,0,0,0,,Anyway leave this to me!
+Dialogue: 0,0:15:30.71,0:15:31.33,Default,en,0,0,0,,No,
+Dialogue: 0,0:15:32.78,0:15:34.27,Default,en,0,0,0,,Leave it to me-{\i1}dasu{\i0}!
+Dialogue: 0,0:15:34.45,0:15:36.73,Default,en,0,0,0,,W- what's up with that look, Musashi?!
+Dialogue: 0,0:15:37.27,0:15:39.28,Default,en,0,0,0,,A bottle of drink for the Orochi-{\i1}dasu{\i0}.
+Dialogue: 0,0:15:39.65,0:15:41.82,Default,en,0,0,0,,This is also for Osenchan-{\i1}dasu{\i0}.
+Dialogue: 0,0:15:44.47,0:15:49.19,Default,en,0,0,0,,Quit making scary faces; I know you want to drink!
+Dialogue: 0,0:15:49.68,0:15:51.59,Default,en,0,0,0,,I brought some alcohol-{\i1}dasu{\i0}. Have some.
+Dialogue: 0,0:15:53.92,0:15:58.47,Default,en,0,0,0,,How good-looking are you, Orochi-chan! Have as much as you want.
+Dialogue: 0,0:16:01.31,0:16:03.52,Default,en,0,0,0,,As much as you want.
+Dialogue: 0,0:16:04.77,0:16:07.79,Default,en,0,0,0,,He's extraordinarily good at that for a martial artist.
+Dialogue: 0,0:16:09.67,0:16:10.34,Default,en,0,0,0,,Huh?
+Dialogue: 0,0:16:17.02,0:16:17.83,Default,en,0,0,0,,Princess!
+Dialogue: 0,0:16:18.36,0:16:19.16,Default,en,0,0,0,,Kojirō!
+Dialogue: 0,0:16:19.74,0:16:21.01,Default,en,0,0,0,,I'm going to rescue you right now.
+Dialogue: 0,0:16:22.87,0:16:25.40,Default,en,0,0,0,,You fool! You aren't getting away with this!
+Dialogue: 0,0:16:25.97,0:16:27.79,Default,en,0,0,0,,It is cowardly to attack from behind!
+Dialogue: 0,0:16:28.23,0:16:29.15,Default,en,0,0,0,,Don't make me laugh!
+Dialogue: 0,0:16:29.29,0:16:31.76,Default,en,0,0,0,,Hey, aren't you Mr. Tiger?
+Dialogue: 0,0:16:32.28,0:16:34.89,Default,en,0,0,0,,I'm your wife! Living well enough?
+Dialogue: 0,0:16:35.51,0:16:40.09,Default,en,0,0,0,,Wife, eh? That was one bad disguise! You must be Musashi!
+Dialogue: 0,0:16:40.28,0:16:43.67,Default,en,0,0,0,,You are nothing more than a bug in summer flying into fires.
+Dialogue: 0,0:16:44.56,0:16:48.27,Default,en,0,0,0,,Don't treat me like an idiot-{\i1}dasu{\i0}! Let Osenchan go-{\i1}dasu{\i0}!
+Dialogue: 0,0:16:48.67,0:16:51.08,Default,en,0,0,0,,Orochi! Eat up Musashi!
+Dialogue: 0,0:16:54.03,0:16:55.75,Default,en,0,0,0,,I'll take you down this time-{\i1}dasu{\i0}!
+Dialogue: 0,0:16:58.70,0:17:01.49,Default,en,0,0,0,,Kojirō! Throw me my sword-{\i1}dasu{\i0}!
+Dialogue: 0,0:17:01.80,0:17:05.06,Default,en,0,0,0,,Run away, run away! You'll end up as a feed for Orochi!
+Dialogue: 0,0:17:10.51,0:17:11.71,Default,en,0,0,0,,Catch this, Musashi!
+Dialogue: 0,0:17:13.47,0:17:14.27,Default,en,0,0,0,,Got it!
+Dialogue: 0,0:17:28.09,0:17:30.40,Default,en,0,0,0,,Hey, Orochi, I'll cut your neck down-{\i1}dasu{\i0}!
+Dialogue: 0,0:17:30.68,0:17:31.39,Default,en,0,0,0,,Oh?
+Dialogue: 0,0:17:31.45,0:17:32.38,Default,en,0,0,0,,Wah!
+Dialogue: 0,0:17:33.02,0:17:36.19,Default,en,0,0,0,,Kojirō! Give me my Tenchimaru-{\i1}dasu{\i0}!
+Dialogue: 0,0:17:37.24,0:17:40.88,Default,en,0,0,0,,My hands are full now! Do something by yourself!
+Dialogue: 0,0:17:57.61,0:17:59.17,Default,en,0,0,0,,It's now done.
+Dialogue: 0,0:18:36.92,0:18:42.12,Default,en,0,0,0,,Dammit! If with Tenchimaru, I'd already have taken down Orochi easily!
+Dialogue: 0,0:18:54.52,0:18:55.45,Default,en,0,0,0,,Musashi!
+Dialogue: 0,0:18:55.92,0:18:56.67,Default,en,0,0,0,,Osenchan!
+Dialogue: 0,0:18:57.08,0:18:59.00,Default,en,0,0,0,,Here it goes! Catch!
+Dialogue: 0,0:19:00.43,0:19:04.04,Default,en,0,0,0,,With this, Orochi will be nothing... Come and fight, Orochi!
+Dialogue: 0,0:19:42.82,0:19:44.32,Default,en,0,0,0,,O- Orochi!
+Dialogue: 0,0:19:44.61,0:19:46.79,Default,en,0,0,0,,Secret sword! Tsubamegaeshi!
+Dialogue: 0,0:19:58.19,0:19:59.75,Default,en,0,0,0,,So pretty-{\i1}dasu{\i0}!
+Dialogue: 0,0:20:28.03,0:20:29.88,Default,en,0,0,0,,This must be Tenkūmaru!
+Dialogue: 0,0:20:35.77,0:20:36.89,Default,en,0,0,0,,W- what's going on-{\i1}dasu{\i0}?
+Dialogue: 0,0:20:41.51,0:20:42.16,Default,en,0,0,0,,Damn!
+Dialogue: 0,0:20:43.52,0:20:44.34,Default,en,0,0,0,,Stop!
+Dialogue: 0,0:20:44.84,0:20:46.74,Default,en,0,0,0,,Forget it, Musashi! Do not follow him!
+Dialogue: 0,0:20:47.77,0:20:48.86,Default,en,0,0,0,,Everyone is now safe.
+Dialogue: 0,0:20:52.62,0:20:56.55,Default,en,0,0,0,,Musashi and Kojirō! I will not forget this!
+Dialogue: 0,0:20:57.12,0:20:59.05,Default,en,0,0,0,,Musashi! Hurry up and go outside!
+Dialogue: 0,0:20:59.44,0:21:00.16,Default,en,0,0,0,,Musashi!
+Dialogue: 0,0:21:12.86,0:21:22.00,Default,en,0,0,0,,Shutentiger failed too... Musashi and Kojirō. I'll send you to the underworld next time.
+Dialogue: 0,0:21:30.03,0:21:31.85,Default,en,0,0,0,,Thank you!
+Dialogue: 0,0:21:32.14,0:21:33.96,Default,en,0,0,0,,-Take care!\N-Thank you!
+Dialogue: 0,0:21:34.06,0:21:35.47,Default,en,0,0,0,,Take care!
+Dialogue: 0,0:21:38.47,0:21:44.03,Default,en,0,0,0,,But still, I wonder why did Shutentiger collect that much girl from the village-{\i1}dasu{\i0}.
+Dialogue: 0,0:21:44.17,0:21:47.86,Default,en,0,0,0,,I guess he's happy when he's surrounded by girls.
+Dialogue: 0,0:21:48.36,0:21:52.20,Default,en,0,0,0,,Hmph, I guess he was just lustful. Just like Musashi.
+Dialogue: 0,0:21:52.55,0:21:55.30,Default,en,0,0,0,,What-{\i1}dasu{\i0}?! I'll get you!
+Dialogue: 0,0:21:57.24,0:21:58.34,Default,en,0,0,0,,Idiot.
+Dialogue: 0,0:22:00.02,0:22:03.87,Default,en,0,0,0,,Oh dear, aren't you tired of this yet, Musashi and Kojirō?
+Dialogue: 0,0:22:04.11,0:22:09.63,Default,en,0,0,0,,Anyway, Musashi is deeply encouraged, after taking Yamata no Orochi down and taking Tenkūmaru into his hands.
+Dialogue: 0,0:22:10.17,0:22:15.14,Default,en,0,0,0,,He protected Senhime and his great endeavors are blossoming like a tornado!
+Dialogue: 0,0:22:16.00,0:22:22.94,Default,en,0,0,0,,But nobody knows what's waiting for him - a heaven, or a hell? Or could it be the dance of swords?
+Dialogue: 0,0:22:42.54,0:22:44.59,SongED1,en,0,0,0,,Sometimes the moon jumps over
+Dialogue: 0,0:22:45.30,0:22:47.84,SongED1,en,0,0,0,,the pocket of empty sky
+Dialogue: 0,0:22:48.05,0:22:50.22,SongED1,en,0,0,0,,Laugh loudly and
+Dialogue: 0,0:22:50.84,0:22:52.85,SongED1,en,0,0,0,,morning will come tomorrow
+Dialogue: 0,0:22:53.60,0:22:58.18,SongED1,en,0,0,0,,Don't worry too much about losing
+Dialogue: 0,0:22:59.19,0:23:01.77,SongED1,en,0,0,0,,Keep going! Go for it!
+Dialogue: 0,0:23:01.77,0:23:04.19,SongED1,en,0,0,0,,A bare hand is strong
+Dialogue: 0,0:23:04.61,0:23:14.28,SongED1,en,0,0,0,,That's how it is! Let's go lightly
+Dialogue: 0,0:23:14.70,0:23:22.33,SongED1,en,0,0,0,,That's how life is! Look, a chance
+Dialogue: 0,0:23:22.79,0:23:27.05,SongED1,en,0,0,0,,follows us wagging its tail!
+Dialogue: 0,0:23:28.46,0:23:37.97,SongED1,en,0,0,0,,That's how it is! Let's go lightly
+Dialogue: 0,0:23:38.47,0:23:46.44,SongED1,en,0,0,0,,That's how the future is, too! Look, tomorrow
+Dialogue: 0,0:23:46.69,0:23:52.28,SongED1,en,0,0,0,,is opening its hands and smiling at us!
+Dialogue: 0,0:24:04.51,0:24:07.83,Default,en,0,0,0,,Goemondo, a Karakuri sorcerer, is the ultimate thief in the whole world!
+Dialogue: 0,0:24:08.21,0:24:13.20,Default,en,0,0,0,,He sent a notification that he's going to steal the gold decoration at the roof of the castle-{\i1}dasu{\i0}.
+Dialogue: 0,0:24:13.83,0:24:18.81,Default,en,0,0,0,,When we decided to stay up all night to guard, a giant centipede came to attack us-{\i1}dasu{\i0}!
+Dialogue: 0,0:24:19.58,0:24:22.50,Default,en,0,0,0,,Next story! The Ultimate Thief of Shining Gold, Goemondo
+Dialogue: 0,0:24:22.92,0:24:25.65,Default,en,0,0,0,,It's a stormy dual blade-{\i1}dasu{\i0}!
+Dialogue: 0,0:24:27.31,0:24:31.28,NoteOnAnime,en,60,0,60,,{\an7}Next Episode
+Dialogue: 0,0:24:27.31,0:24:31.28,TitleEP,en,0,0,225,,The Ultimate Thief of
+Dialogue: 0,0:24:27.31,0:24:31.28,TitleEP,en,0,0,90,,Shining Gold, Goemondo
+Dialogue: 0,0:24:27.31,0:24:31.28,NoteOnAnime,en,0,60,30,,{\an3\fs32}Look forwards for it!

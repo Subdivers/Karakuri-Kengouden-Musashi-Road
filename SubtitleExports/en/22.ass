@@ -1,0 +1,314 @@
+﻿[Script Info]
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 480
+Title: The Sea is Scary It's Onigoroshi
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,5,5,10,1
+Style: NoteOnAnime,Candara,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,5,5,10,1
+Style: OP1TR,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,5,5,10,1
+Style: TitleOP,DejaVu Serif,42,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,5,5,10,1
+Style: TitleEP,DejaVu Serif,42,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,5,5,10,1
+Style: ED1TR,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,5,5,10,1
+Style: Note,Candara,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,5,5,10,1
+Style: Eyecatch,Candara,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,5,5,10,1
+Style: NoteOnAnimeVert,@맑은 고딕,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,5,5,10,1
+Style: InsOtsuru,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,5,5,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.31,0:00:06.46,Default,en,0,0,0,,It is the turbulent Sengoku period.
+Dialogue: 0,0:00:06.83,0:00:11.65,Default,en,0,0,0,,Warlords keep on fighting day and night over\NJipangu State, where Karakuri people live.
+Dialogue: 0,0:00:11.65,0:00:16.60,Default,en,0,0,0,,Karakuri martial artists were sharpening their swords, dreaming of victory and honor.
+Dialogue: 0,0:00:16.60,0:00:23.33,Default,en,0,0,0,,And now, a wild hero has arrived, seeking to be the number one Karakuri martial artist!
+Dialogue: 0,0:00:24.19,0:00:26.92,Default,en,0,0,0,,Musashi is here-{\i1}dasu{\i0}!
+Dialogue: 0,0:00:27.81,0:00:32.99,TitleOP,en,0,0,40,,{\an8\fs32\fade(770,0)}Karakuri Kengouden
+Dialogue: 0,0:00:27.81,0:00:32.99,TitleOP,en,0,0,40,,{\fade(770,0)}Musashi Road
+Dialogue: 0,0:00:27.81,0:00:32.99,TitleOP,en,0,0,40,,{\fs24\fade(770,0)}(The Story of {\i1}Karakuri{\i0} Martial Artist: Road of Musashi)
+Dialogue: 0,0:00:32.99,0:00:37.82,SongOP,en,0,0,0,,A man always dreams of the day
+Dialogue: 0,0:00:38.66,0:00:41.58,SongOP,en,0,0,0,,in the center of the world to become
+Dialogue: 0,0:00:41.58,0:00:44.45,SongOP,en,0,0,0,,AH! AH! the strongest
+Dialogue: 0,0:00:44.45,0:00:49.49,SongOP,en,0,0,0,,Raise the sword of your heart high to the wide sky
+Dialogue: 0,0:00:50.13,0:00:54.13,SongOP,en,0,0,0,,Raise the curtain to the road of adventure
+Dialogue: 0,0:00:55.46,0:01:00.72,SongOP,en,0,0,0,,A skilled swordsman roams on Jipangu State
+Dialogue: 0,0:01:01.30,0:01:06.33,SongOP,en,0,0,0,,His name is Musashi, a Karakuri man
+Dialogue: 0,0:01:06.33,0:01:07.84,SongOP,en,0,0,0,,Go! Fight!
+Dialogue: 0,0:01:07.84,0:01:10.75,SongOP,en,0,0,0,,The sound of fierce duels
+Dialogue: 0,0:01:10.75,0:01:13.61,SongOP,en,0,0,0,,makes life dazzling
+Dialogue: 0,0:01:13.61,0:01:19.07,SongOP,en,0,0,0,,Battles of yesterdays make you stronger today
+Dialogue: 0,0:01:19.12,0:01:25.31,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
+Dialogue: 0,0:01:25.31,0:01:28.32,SongOP,en,0,0,0,,Tomorrow will be glorious
+Dialogue: 0,0:01:28.32,0:01:30.79,SongOP,en,0,0,0,,The sound of fierce duels
+Dialogue: 0,0:01:30.79,0:01:33.28,SongOP,en,0,0,0,,makes life dazzling
+Dialogue: 0,0:01:33.99,0:01:39.39,SongOP,en,0,0,0,,Fight the utmost with the stillness
+Dialogue: 0,0:01:39.41,0:01:45.64,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
+Dialogue: 0,0:01:45.64,0:01:50.90,SongOP,en,0,0,0,,His eyes shined! Musashi!
+Dialogue: 0,0:02:00.84,0:02:08.69,Default,en,0,0,0,,During his trip, Musashi met Ishimatsu's ghost in Osorezan and were asked to die together.
+Dialogue: 0,0:02:09.34,0:02:12.10,Default,en,0,0,0,,But that was a trap of Onihime.
+Dialogue: 0,0:02:13.01,0:02:17.58,Default,en,0,0,0,,But in front of Musashi's Tornado, that ambition has been collapsed.
+Dialogue: 0,0:02:18.07,0:02:23.08,TitleEP,en,0,0,230,,The Sea is Scary
+Dialogue: 0,0:02:18.07,0:02:23.08,TitleEP,en,0,0,100,,It's Onigoroshi
+Dialogue: 0,0:02:24.18,0:02:26.34,Default,en,0,0,0,,A clean blue sky without a single cloud.
+Dialogue: 0,0:02:26.61,0:02:32.69,Default,en,0,0,0,,Musashi and others were heading to Hokkaido lightfootedly and lightheartedly.
+Dialogue: 0,0:02:37.28,0:02:42.26,Default,en,0,0,0,,No matter which way I look at, I can only see the sea! It's wide, it's blue, and I like the salty see breeze!
+Dialogue: 0,0:02:42.69,0:02:46.96,Default,en,0,0,0,,It's as if some waves are on a big blue canvas. Senhime, please watch out for seasickness.
+Dialogue: 0,0:02:47.34,0:02:50.26,Default,en,0,0,0,,It's alright, don't worry! I have no problems riding things.
+Dialogue: 0,0:02:50.85,0:02:55.17,Default,en,0,0,0,,That's true, but you can see someone who can't over there...
+Dialogue: 0,0:03:04.28,0:03:08.85,Default,en,0,0,0,,What? Senhime and her subordinates are heading to Hokkaido?
+Dialogue: 0,0:03:09.01,0:03:10.92,Default,en,0,0,0,,Yessir. It is a fresh information.
+Dialogue: 0,0:03:11.17,0:03:16.93,Default,en,0,0,0,,That cursed Senhime... Trying to interrupt my great plan in Hokkaido?
+Dialogue: 0,0:03:17.50,0:03:19.98,Default,en,0,0,0,,Karakuri Owl, let Onigoroshi know about this.
+Dialogue: 0,0:03:34.28,0:03:36.45,Default,en,0,0,0,,Is that Hokkaido over there?
+Dialogue: 0,0:03:36.72,0:03:38.82,Default,en,0,0,0,,Finally. We're almost there.
+Dialogue: 0,0:03:38.85,0:03:45.45,Default,en,0,0,0,,That's a relief-{\i1}dasu{\i0}... My head was getting limp ever since I got onto this ship-{\i1}dasu{\i0}...
+Dialogue: 0,0:03:51.46,0:03:52.51,Default,en,0,0,0,,I wonder what that is.
+Dialogue: 0,0:03:52.96,0:03:55.09,Default,en,0,0,0,,It surely does not look like a fish...
+Dialogue: 0,0:03:55.65,0:03:57.11,Default,en,0,0,0,,What's wrong-{\i1}dasu{\i0}?
+Dialogue: 0,0:04:18.69,0:04:20.74,Default,en,0,0,0,,Karakuri Shark is coming to attack!
+Dialogue: 0,0:04:21.05,0:04:22.12,Default,en,0,0,0,,Karakuri Shark?
+Dialogue: 0,0:04:28.93,0:04:30.53,Default,en,0,0,0,,We're going down at this rate!
+Dialogue: 0,0:04:31.04,0:04:32.30,Default,en,0,0,0,,What should we do?!
+Dialogue: 0,0:04:32.69,0:04:34.33,Default,en,0,0,0,,I don't know how to swim-{\i1}dasu{\i0}...
+Dialogue: 0,0:04:34.61,0:04:36.67,Default,en,0,0,0,,If there's a lifeboat somewhere...
+Dialogue: 0,0:04:36.90,0:04:37.24,Default,en,0,0,0,,Huh?
+Dialogue: 0,0:04:46.68,0:04:50.64,Note,en,0,0,48,,{\fs54\an2}Onigoroshi
+Dialogue: 0,0:04:46.68,0:04:50.64,Note,en,0,0,0,,({\i1}Oni[g/k]oroshi{\i0}: lit. {\i1}Demon Slayer{\i0} in Shōgi, an eastern chess)
+Dialogue: 0,0:04:54.84,0:04:57.09,Default,en,0,0,0,,I- it's Onigoroshi!
+Dialogue: 0,0:04:57.74,0:04:58.92,Default,en,0,0,0,,Onigoroshi?
+Dialogue: 0,0:04:59.37,0:05:02.54,Default,en,0,0,0,,Everyone! Go take all the money and treasures!
+Dialogue: 0,0:05:02.73,0:05:03.98,Default,en,0,0,0,,Yessir!
+Dialogue: 0,0:05:03.98,0:05:04.49,Default,en,0,0,0,,Musashi!
+Dialogue: 0,0:05:04.97,0:05:05.93,Default,en,0,0,0,,Got it-{\i1}dasu{\i0}!
+Dialogue: 0,0:05:12.56,0:05:15.74,Default,en,0,0,0,,Everyone! Take whatever that will make money!
+Dialogue: 0,0:05:17.81,0:05:18.69,Default,en,0,0,0,,Run away!
+Dialogue: 0,0:05:30.13,0:05:30.94,Default,en,0,0,0,,Who are you?!
+Dialogue: 0,0:05:31.36,0:05:35.17,Default,en,0,0,0,,A pirate like you asking me my name is impertinent!
+Dialogue: 0,0:05:35.32,0:05:38.48,Default,en,0,0,0,,You are one cocky kiddo! I'll make you sink to the very grounds of the sea!
+Dialogue: 0,0:05:45.37,0:05:46.04,Default,en,0,0,0,,Kojirō!
+Dialogue: 0,0:05:46.50,0:05:47.26,Default,en,0,0,0,,Damn!
+Dialogue: 0,0:05:49.84,0:05:52.61,Default,en,0,0,0,,Take everything before the ship sinks!
+Dialogue: 0,0:05:55.89,0:05:59.57,Default,en,0,0,0,,What will happen to us if we sink like this?
+Dialogue: 0,0:05:59.58,0:06:03.16,Default,en,0,0,0,,Just leave it to me-{\i1}dasu{\i0}. I will protect Osenchan-{\i1}dasu{\i0}!
+Dialogue: 0,0:06:03.73,0:06:05.17,Default,en,0,0,0,,That was one useless help...
+Dialogue: 0,0:06:06.70,0:06:08.45,Default,en,0,0,0,,I wonder if Kojirō's okay...
+Dialogue: 0,0:06:22.89,0:06:24.96,Default,en,0,0,0,,Osenchan, hurry up and move-{\i1}dasu{\i0}!
+Dialogue: 0,0:06:25.28,0:06:26.09,Default,en,0,0,0,,Musashi!
+Dialogue: 0,0:06:26.74,0:06:27.95,Default,en,0,0,0,,Hurry up-{\i1}dasu{\i0}!
+Dialogue: 0,0:06:28.34,0:06:29.17,Default,en,0,0,0,,I'm sorry!
+Dialogue: 0,0:06:35.25,0:06:37.14,Default,en,0,0,0,,We're moving out!
+Dialogue: 0,0:07:01.28,0:07:02.93,Default,en,0,0,0,,Musashi!
+Dialogue: 0,0:07:03.72,0:07:05.78,Default,en,0,0,0,,Kojirō! Where are you?!
+Dialogue: 0,0:07:07.16,0:07:10.24,Default,en,0,0,0,,W- who's touching my hip?
+Dialogue: 0,0:07:14.46,0:07:15.26,Default,en,0,0,0,,Musashi!
+Dialogue: 0,0:07:19.37,0:07:20.46,Default,en,0,0,0,,Musashi...
+Dialogue: 0,0:07:24.21,0:07:24.70,Default,en,0,0,0,,Huh?
+Dialogue: 0,0:07:26.05,0:07:27.42,Default,en,0,0,0,,What should I do with him...
+Dialogue: 0,0:07:29.53,0:07:33.29,Default,en,0,0,0,,I was born in mountains, and because of that, I never swam in sea...
+Dialogue: 0,0:07:33.92,0:07:36.48,Default,en,0,0,0,,I can swim in river for a little-{\i1}dasu{\i0}, though...
+Dialogue: 0,0:07:36.93,0:07:40.96,Default,en,0,0,0,,How undisciplined are you! A martial artist may not be skillful in swordsmanship, but...
+Dialogue: 0,0:07:41.52,0:07:42.12,Default,en,0,0,0,,Karate!
+Dialogue: 0,0:07:43.44,0:07:44.18,Default,en,0,0,0,,Judo!
+Dialogue: 0,0:07:45.14,0:07:45.96,Default,en,0,0,0,,Baseball!
+Dialogue: 0,0:07:47.52,0:07:48.20,Default,en,0,0,0,,Skating!
+Dialogue: 0,0:07:49.44,0:07:50.24,Default,en,0,0,0,,Abacus!
+Dialogue: 0,0:07:51.10,0:07:53.57,Default,en,0,0,0,,are the least one has to do.
+Dialogue: 0,0:07:54.16,0:07:56.69,Default,en,0,0,0,,Moreover, I have swimming skills of rank 3.
+Dialogue: 0,0:07:56.88,0:07:59.53,Default,en,0,0,0,,Hmph! I can at least use abacus-{\i1}dasu{\i0}!
+Dialogue: 0,0:07:59.61,0:08:04.77,Default,en,0,0,0,,Yeah, sure! Try calculating this in your head: someone has 159 yen, 257 yen...
+Dialogue: 0,0:08:04.78,0:08:07.50,Default,en,0,0,0,,Shutupshutupshutupshutupshutup!
+Dialogue: 0,0:08:08.01,0:08:10.90,Default,en,0,0,0,,Did you really think now is the perfect time do mental figuring?!
+Dialogue: 0,0:08:11.20,0:08:16.21,Default,en,0,0,0,,Senhime, somebody named Kojirō just did an unsightly act...
+Dialogue: 0,0:08:16.52,0:08:18.56,Default,en,0,0,0,,Disembowel yourself-{\i1}dasu{\i0}! Go commit suicide!
+Dialogue: 0,0:08:18.61,0:08:19.33,Default,en,0,0,0,,What the hell?
+Dialogue: 0,0:08:19.33,0:08:20.76,Default,en,0,0,0,,Hey, over there!
+Dialogue: 0,0:08:21.50,0:08:23.62,Default,en,0,0,0,,Look! Look over there!
+Dialogue: 0,0:08:23.64,0:08:25.49,Default,en,0,0,0,,It's a ship-{\i1}dasu{\i0}!
+Dialogue: 0,0:08:40.72,0:08:43.05,Default,en,0,0,0,,Everyone! Get on my ship!
+Dialogue: 0,0:08:43.24,0:08:43.88,Default,en,0,0,0,,Yes!
+Dialogue: 0,0:08:58.18,0:09:02.26,Default,en,0,0,0,,Is it you, Karakuri Shark? Good job. I applaudyou for that.
+Dialogue: 0,0:09:09.66,0:09:13.82,Default,en,0,0,0,,You must be... Finally, an order from Lord Hanzō.
+Dialogue: 0,0:09:14.32,0:09:19.77,Default,en,0,0,0,,Senhime and others just escaped from the evil hands, but another disaster was again waiting for them.
+Dialogue: 0,0:09:24.97,0:09:29.56,Default,en,0,0,0,,What do you think about her shying face-{\i1}dasu{\i0}? Does it mean {\i1}that{\i0}-{\i1}dasu{\i0}?
+Dialogue: 0,0:09:29.78,0:09:34.76,Default,en,0,0,0,,Her hot eyesight is never seen before. Her spirit is burning down in front of that guy.
+Dialogue: 0,0:09:37.96,0:09:39.21,Default,en,0,0,0,,As I thought-{\i1}dasu{\i0}...
+Dialogue: 0,0:09:39.81,0:09:41.97,Default,en,0,0,0,,Let's see how it goes for now.
+Dialogue: 0,0:09:42.54,0:09:43.28,Default,en,0,0,0,,Um...
+Dialogue: 0,0:09:43.97,0:09:44.56,Default,en,0,0,0,,What is it?
+Dialogue: 0,0:09:45.01,0:09:46.84,Default,en,0,0,0,,Can I ask your name?
+Dialogue: 0,0:09:47.16,0:09:48.58,Default,en,0,0,0,,I am Daisuke.
+Dialogue: 0,0:09:49.00,0:09:50.78,Default,en,0,0,0,,I am Sen. Looking forwards together...
+Dialogue: 0,0:09:50.78,0:09:51.87,Default,en,0,0,0,,There was a shark, right?
+Dialogue: 0,0:09:52.04,0:09:52.41,Default,en,0,0,0,,Huh?
+Dialogue: 0,0:09:53.27,0:09:54.52,Default,en,0,0,0,,Karakuri Shark, you know.
+Dialogue: 0,0:09:54.78,0:09:56.28,Default,en,0,0,0,,Uh, yeah, there was.
+Dialogue: 0,0:09:56.64,0:09:58.66,Default,en,0,0,0,,Do you know Karakuri Shark?
+Dialogue: 0,0:09:58.98,0:10:01.42,Default,en,0,0,0,,I am chasing that Karakuri Shark.
+Dialogue: 0,0:10:02.20,0:10:03.68,Default,en,0,0,0,,Karakuri Shark, you say-{\i1}dasu{\i0}?
+Dialogue: 0,0:10:04.06,0:10:04.74,Default,en,0,0,0,,Right.
+Dialogue: 0,0:10:04.98,0:10:05.83,Default,en,0,0,0,,Why is that?
+Dialogue: 0,0:10:06.25,0:10:09.30,Default,en,0,0,0,,It is a detestable guy that the pirate Onigoroshi uses.
+Dialogue: 0,0:10:09.57,0:10:11.00,Default,en,0,0,0,,It killed my dad.
+Dialogue: 0,0:10:11.61,0:10:13.36,Default,en,0,0,0,,Your dad?
+Dialogue: 0,0:10:14.65,0:10:20.97,Default,en,0,0,0,,My dad was a skillful fisher. But when he tried to help the ship being attacked by that...
+Dialogue: 0,0:10:34.68,0:10:36.60,Default,en,0,0,0,,Dad!
+Dialogue: 0,0:10:46.69,0:10:50.16,Default,en,0,0,0,,I see. That was a terrible thing to happen to your dad...
+Dialogue: 0,0:10:51.00,0:10:53.83,Default,en,0,0,0,,I will have revenge for my dad, by taking that down.
+Dialogue: 0,0:10:54.22,0:10:59.85,Default,en,0,0,0,,I understand your will to have revenge for your father well. But your opponent is a huge and fierce Karakuri.
+Dialogue: 0,0:11:00.60,0:11:03.96,Default,en,0,0,0,,If you get hurt, your dad will be sad.
+Dialogue: 0,0:11:04.61,0:11:06.68,Default,en,0,0,0,,Stop. Don't talk like that.
+Dialogue: 0,0:11:06.98,0:11:10.04,Default,en,0,0,0,,Mr. Daisuke will not lose. He will never die. Right?
+Dialogue: 0,0:11:10.64,0:11:14.41,Default,en,0,0,0,,Of course. I will not die. At least until I take that Karakuri Shark down.
+Dialogue: 0,0:11:14.89,0:11:17.54,Default,en,0,0,0,,{\i1}So cool... I'm getting mesmerized!
+Dialogue: 0,0:11:18.01,0:11:20.86,Default,en,0,0,0,,Musashi! Kojirō! We will help too!
+Dialogue: 0,0:11:21.13,0:11:22.89,Default,en,0,0,0,,H- help...?
+Dialogue: 0,0:11:23.57,0:11:25.66,Default,en,0,0,0,,If I get drowned again...
+Dialogue: 0,0:11:25.85,0:11:27.63,Default,en,0,0,0,,Then learn how to swim!
+Dialogue: 0,0:11:28.10,0:11:33.33,Default,en,0,0,0,,Please wait. Even if it's an order, I, Kojirō, got my job from General Ieyasu,
+Dialogue: 0,0:11:33.70,0:11:37.04,Default,en,0,0,0,,and I cannot let you be dragged into a dangerous job like shark extermination!
+Dialogue: 0,0:11:37.72,0:11:42.81,Default,en,0,0,0,,Oh, what did you say, Kojirō? Are you saying that you're fine with me not being able to marry for the rest of my life?
+Dialogue: 0,0:11:43.84,0:11:45.24,Default,en,0,0,0,,That's not what I meant.
+Dialogue: 0,0:11:45.58,0:11:48.73,Default,en,0,0,0,,Then will you do as I said?
+Dialogue: 0,0:11:48.74,0:11:49.93,Default,en,0,0,0,,Okay...
+Dialogue: 0,0:11:51.89,0:11:58.42,Default,en,0,0,0,,Does this mean Musashi, who can't swim, will have to drown again? Wait for the stormy latter half!
+Dialogue: 0,0:11:58.65,0:12:03.61,Eyecatch,en,0,0,0,,Karakuri Kengouden: Musashi Road
+Dialogue: 0,0:12:04.01,0:12:10.36,Default,en,0,0,0,,Senhime has decided to help with Daisuke's revenge, and she asked for a help to the feudal lord of Matsumai [?] castle.
+Dialogue: 0,0:12:10.41,0:12:14.53,Default,en,0,0,0,,And while then, Kojirō was giving Musashi a training.
+Dialogue: 0,0:12:11.85,0:12:14.58,Default,en,0,0,0,,{\an8}Musashi! Do it properly! Learn!
+Dialogue: 0,0:12:14.58,0:12:21.12,Default,en,0,0,0,,One! Two! One! Two! One! Two! One! Two! One! Two!
+Dialogue: 0,0:12:21.82,0:12:23.92,Default,en,0,0,0,,Kojirō, I'm already tired-{\i1}dasu{\i0}...
+Dialogue: 0,0:12:23.92,0:12:27.44,Default,en,0,0,0,,Don't be a crybaby! Efforts! Guts! Spartan!
+Dialogue: 0,0:12:28.00,0:12:29.60,Default,en,0,0,0,,The heck...
+Dialogue: 0,0:12:40.50,0:12:41.54,Default,en,0,0,0,,That was painful-{\i1}dasu{\i0}...
+Dialogue: 0,0:12:42.49,0:12:46.60,Default,en,0,0,0,,By the way, Musashi, why can't you swim in seas, when you can in rivers?
+Dialogue: 0,0:12:46.61,0:12:49.71,Default,en,0,0,0,,T- that is-{\i1}dasu{\i0}... a bit embarrassing-{\i1}dasu{\i0}...
+Dialogue: 0,0:12:50.08,0:12:52.13,Default,en,0,0,0,,Seawater is saltwater-{\i1}dasu{\i0}, right?
+Dialogue: 0,0:12:52.53,0:12:53.12,Default,en,0,0,0,,Yeah.
+Dialogue: 0,0:12:53.85,0:12:59.35,Default,en,0,0,0,,That is, I like sweet dangos and dumplings, but not the salty ones-{\i1}dasu{\i0}.
+Dialogue: 0,0:12:59.35,0:13:00.16,Default,en,0,0,0,,What?
+Dialogue: 0,0:13:01.12,0:13:01.93,Default,en,0,0,0,,Moron.
+Dialogue: 0,0:13:06.07,0:13:07.66,Default,en,0,0,0,,Mr. Daisuke!
+Dialogue: 0,0:13:09.61,0:13:10.71,Default,en,0,0,0,,I wasn't late, after all!
+Dialogue: 0,0:13:11.10,0:13:13.17,Default,en,0,0,0,,I was about to go exterminate the shark.
+Dialogue: 0,0:13:13.40,0:13:15.40,Default,en,0,0,0,,I have something to give to you.
+Dialogue: 0,0:13:15.61,0:13:17.58,Default,en,0,0,0,,What? Something for me?
+Dialogue: 0,0:13:18.34,0:13:19.57,Default,en,0,0,0,,It'll be here soon.
+Dialogue: 0,0:13:20.08,0:13:20.74,Default,en,0,0,0,,Look!
+Dialogue: 0,0:13:25.37,0:13:26.01,Default,en,0,0,0,,It's here!
+Dialogue: 0,0:13:26.26,0:13:27.96,Default,en,0,0,0,,You mean, that ship?
+Dialogue: 0,0:13:28.36,0:13:31.92,Default,en,0,0,0,,Osenchan!
+Dialogue: 0,0:13:33.16,0:13:35.08,Default,en,0,0,0,,T- that ship, for me...
+Dialogue: 0,0:13:35.37,0:13:38.80,Default,en,0,0,0,,Yeah. Have revenge for your father with that!
+Dialogue: 0,0:13:39.02,0:13:40.81,Default,en,0,0,0,,With that scrap ship?!
+Dialogue: 0,0:13:41.96,0:13:45.40,Default,en,0,0,0,,It does look so, but it is full of secret weapons!
+Dialogue: 0,0:13:45.45,0:13:48.22,Default,en,0,0,0,,I see! Thank you so much, Osenchan!
+Dialogue: 0,0:14:06.54,0:14:08.27,Default,en,0,0,0,,I wonder if we can meet that Shark well...
+Dialogue: 0,0:14:08.46,0:14:12.77,Default,en,0,0,0,,No need to worry! We're having this much load. It is bound to appear.
+Dialogue: 0,0:14:31.49,0:14:32.46,Default,en,0,0,0,,Karakuri Shark!
+Dialogue: 0,0:14:36.06,0:14:41.03,Default,en,0,0,0,,You've finally appeared, Karakuri Shark! I will have the revenge for my dad today!
+Dialogue: 0,0:14:45.73,0:14:46.52,Default,en,0,0,0,,It's gonna get us!
+Dialogue: 0,0:14:55.08,0:14:56.30,Default,en,0,0,0,,N- no way!
+Dialogue: 0,0:15:05.25,0:15:09.54,Default,en,0,0,0,,-A- awesome!\N-Yeah, it is! I specially asked for this!
+Dialogue: 0,0:15:10.48,0:15:13.75,Default,en,0,0,0,,On this ship, we'll be alright even if that Karakuri Shark decides to do a ramming attack.
+Dialogue: 0,0:15:14.32,0:15:15.68,Default,en,0,0,0,,That's right-{\i1}dasu{\i0}!
+Dialogue: 0,0:15:21.33,0:15:23.32,Default,en,0,0,0,,That must be Senhime.
+Dialogue: 0,0:15:25.44,0:15:29.28,Default,en,0,0,0,,Lord Hanzō will award me a lot of goods.
+Dialogue: 0,0:15:29.74,0:15:30.84,Default,en,0,0,0,,Onigoroshi!
+Dialogue: 0,0:15:35.18,0:15:40.90,Default,en,0,0,0,,Musashi and I will face Onigoroshi. You will exterminate that Karakuri Shark and have revenge for your father.
+Dialogue: 0,0:15:41.62,0:15:42.21,Default,en,0,0,0,,Got it.
+Dialogue: 0,0:15:53.09,0:15:55.15,Default,en,0,0,0,,Mr. Daisuke... You can do this...
+Dialogue: 0,0:16:14.09,0:16:15.02,Default,en,0,0,0,,Mr. Daisuke...
+Dialogue: 0,0:16:15.60,0:16:18.00,Default,en,0,0,0,,Alright! Musashi, let's scare those pirates!
+Dialogue: 0,0:16:18.40,0:16:19.05,Default,en,0,0,0,,Right-{\i1}dasu{\i0}!
+Dialogue: 0,0:16:26.72,0:16:31.56,Default,en,0,0,0,,Those brats! Unforgivable! I will show my horror!
+Dialogue: 0,0:16:38.86,0:16:39.93,Default,en,0,0,0,,Mr. Daisuke!
+Dialogue: 0,0:16:51.66,0:16:52.98,Default,en,0,0,0,,Mr. Daisuke!
+Dialogue: 0,0:17:36.12,0:17:38.08,Default,en,0,0,0,,Bet you were scared, you brat!
+Dialogue: 0,0:17:38.34,0:17:40.72,Default,en,0,0,0,,I was scared-{\i1}dasu{\i0}...
+Dialogue: 0,0:17:41.84,0:17:46.71,Default,en,0,0,0,,But I will not lose-{\i1}dasu{\i0}! You may come attack-{\i1}dasu{\i0}, Onigiri-korori(Rolling rice ball)!
+Dialogue: 0,0:17:46.73,0:17:49.77,Default,en,0,0,0,,W- what?! It's not Onigirikorori! It's Onigoroshi!
+Dialogue: 0,0:17:49.82,0:17:51.30,Default,en,0,0,0,,What? Onikorori(Rolling monster)?
+Dialogue: 0,0:17:51.53,0:17:53.02,Default,en,0,0,0,,It's Onigoroshi!
+Dialogue: 0,0:17:53.24,0:17:56.08,Default,en,0,0,0,,I can't hear you-{\i1}dasu{\i0}! Is it Onigoro(Monster hooligan)?
+Dialogue: 0,0:17:56.09,0:17:57.72,Default,en,0,0,0,,You think you're clever, eh?!
+Dialogue: 0,0:18:01.00,0:18:02.73,Default,en,0,0,0,,Wait right there, you brat!
+Dialogue: 0,0:18:06.17,0:18:09.37,Default,en,0,0,0,,Now, a hell is waiting in front of you brat!
+Dialogue: 0,0:18:09.81,0:18:14.83,Default,en,0,0,0,,That's hmph for you! You're the one to go to the hell-{\i1}dasu{\i0}! I'm going to dango store-{\i1}dasu{\i0}!
+Dialogue: 0,0:18:14.88,0:18:17.14,Default,en,0,0,0,,Then go to the dango store in hell!
+Dialogue: 0,0:18:27.77,0:18:30.72,Default,en,0,0,0,,{\i1}This isn't working. I must do something...
+Dialogue: 0,0:18:34.29,0:18:35.31,Default,en,0,0,0,,Mr. Daisuke!
+Dialogue: 0,0:18:36.13,0:18:38.05,Default,en,0,0,0,,Please! Throw a spear to here!
+Dialogue: 0,0:18:38.21,0:18:39.02,Default,en,0,0,0,,Got it!
+Dialogue: 0,0:18:40.86,0:18:42.49,Default,en,0,0,0,,I'm throwing this, Mr. Daisuke!
+Dialogue: 0,0:18:43.16,0:18:43.85,Default,en,0,0,0,,Right!
+Dialogue: 0,0:18:44.29,0:18:45.90,Default,en,0,0,0,,Here!
+Dialogue: 0,0:18:48.86,0:18:51.00,Default,en,0,0,0,,Watch out! You almost got me!
+Dialogue: 0,0:18:51.24,0:18:52.69,Default,en,0,0,0,,I- I'm sorry!
+Dialogue: 0,0:18:53.64,0:18:56.48,Default,en,0,0,0,,But you didn't have to talk harshly...
+Dialogue: 0,0:19:02.13,0:19:04.04,Default,en,0,0,0,,{\i1}Aim for its eyes.
+Dialogue: 0,0:19:20.32,0:19:22.58,Default,en,0,0,0,,Musashi! I'm done down here!
+Dialogue: 0,0:19:22.76,0:19:26.85,Default,en,0,0,0,,Just a moment-{\i1}dasu{\i0}! I'm about to get Onikorori soon-{\i1}dasu{\i0}!
+Dialogue: 0,0:19:27.02,0:19:29.90,Default,en,0,0,0,,What a big mouth you have, you Musakurushii(filthy)!
+Dialogue: 0,0:19:30.29,0:19:34.22,Default,en,0,0,0,,It's not Musakurushii, you Onisangorochi!
+Dialogue: 0,0:19:34.28,0:19:35.58,Default,en,0,0,0,,It's Onigoroshi!
+Dialogue: 0,0:19:36.05,0:19:37.70,Default,en,0,0,0,,What's wrong with them?
+Dialogue: 0,0:19:38.06,0:19:39.52,Default,en,0,0,0,,Just prepare yourself!
+Dialogue: 0,0:19:39.56,0:19:41.50,Default,en,0,0,0,,I don't prepare-{\i1}dasu{\i0}!
+Dialogue: 0,0:19:56.54,0:20:00.76,Default,en,0,0,0,,Do not be surprised, Musashi. One, two, one, two. You know the rhythm.
+Dialogue: 0,0:20:02.33,0:20:07.32,Default,en,0,0,0,,{\i1}That's right-{\i1}dasu{\i0}. One, two, one, two-{\i1}dasu{\i0}. Even in saltwater I can do this-{\i1}dasu{\i0}.
+Dialogue: 0,0:20:07.81,0:20:11.89,Default,en,0,0,0,,{\i1}One, two, one, two, one, two, one, two...
+Dialogue: 0,0:20:12.88,0:20:19.69,Default,en,0,0,0,,{\i1}I'm swimming smoothly-{\i1}dasu{\i0}! Swimming in ri-ver isn't re-ally different here-{\i1}dasu{\i0}. Also, I'm good at jokes-{\i1}dasu{\i0}.
+Dialogue: 0,0:20:27.94,0:20:29.02,Default,en,0,0,0,,Mr. Daisuke!
+Dialogue: 0,0:20:33.20,0:20:35.30,Default,en,0,0,0,,Mr. Daisuke, are you alright-{\i1}dasu{\i0}?
+Dialogue: 0,0:20:35.30,0:20:39.34,Default,en,0,0,0,,I'm alright! I can't die until I have revenge for my dad!
+Dialogue: 0,0:20:41.05,0:20:42.25,Default,en,0,0,0,,W- watch out!
+Dialogue: 0,0:20:43.34,0:20:45.57,Default,en,0,0,0,,Mr. Daisuke, it's dangerous here-{\i1}dasu{\i0}! Let's escape-{\i1}dasu{\i0}!
+Dialogue: 0,0:20:45.57,0:20:48.48,Default,en,0,0,0,,No, I won't run away! You can escape by yourself!
+Dialogue: 0,0:20:48.78,0:20:49.97,Default,en,0,0,0,,That's nonsense!
+Dialogue: 0,0:20:52.02,0:20:52.93,Default,en,0,0,0,,We're running away-{\i1}dasu{\i0}!
+Dialogue: 0,0:21:17.54,0:21:20.91,Default,en,0,0,0,,Thank you. I could have revenge for my dad thanks to you.
+Dialogue: 0,0:21:21.17,0:21:22.36,Default,en,0,0,0,,I don't know how to repay this...
+Dialogue: 0,0:21:22.57,0:21:27.21,Default,en,0,0,0,,No, you don't need to do anything. I'm happy if you're happy.
+Dialogue: 0,0:21:27.57,0:21:29.58,Default,en,0,0,0,,I will become a fisher again.
+Dialogue: 0,0:21:30.02,0:21:33.21,Default,en,0,0,0,,I like eating fishes really much! I can eat them every day.
+Dialogue: 0,0:21:33.52,0:21:35.17,Default,en,0,0,0,,Osenchan is saying that-{\i1}dasu{\i0}...
+Dialogue: 0,0:21:35.40,0:21:36.21,Default,en,0,0,0,,Shh!
+Dialogue: 0,0:21:36.26,0:21:38.32,Default,en,0,0,0,,Mr. Daisuke!
+Dialogue: 0,0:21:40.05,0:21:41.36,Default,en,0,0,0,,Hey, Osaki!
+Dialogue: 0,0:21:41.92,0:21:44.07,Default,en,0,0,0,,Then I'll be going!
+Dialogue: 0,0:21:44.22,0:21:45.32,Default,en,0,0,0,,Yeah...
+Dialogue: 0,0:21:45.94,0:21:48.29,Default,en,0,0,0,,I knew this was coming-{\i1}dasu{\i0}.
+Dialogue: 0,0:21:48.49,0:21:49.36,Default,en,0,0,0,,Agreed...
+Dialogue: 0,0:21:53.02,0:21:55.49,Default,en,0,0,0,,Osenchan! I can swim now-{\i1}dasu{\i0}!
+Dialogue: 0,0:21:55.49,0:21:57.43,Default,en,0,0,0,,Wow, Musashi did a great job!
+Dialogue: 0,0:21:58.12,0:22:04.94,Default,en,0,0,0,,Yeah. There will be at least one or two people I like that actually will become my lover, right?
+Dialogue: 0,0:22:05.16,0:22:08.90,Default,en,0,0,0,,That's right-{\i1}dasu{\i0}! Don't feel bad, and let's go eat some Sapporo ramen-{\i1}dasu{\i0}!
+Dialogue: 0,0:22:09.42,0:22:11.41,Default,en,0,0,0,,Right! With a lot of bean sprouts!
+Dialogue: 0,0:22:11.44,0:22:12.32,Default,en,0,0,0,,Bean sprouts-{\i1}dasu{\i0}!
+Dialogue: 0,0:22:12.32,0:22:13.32,Default,en,0,0,0,,Wait for us!
+Dialogue: 0,0:22:13.77,0:22:16.81,Default,en,0,0,0,,Bloomed at a northern sea, and evanescently fell is a flower of love.
+Dialogue: 0,0:22:16.81,0:22:23.26,Default,en,0,0,0,,But just like the inside Senhime's heart, she kept traveling strongly and brightly. Who will understand her at last?
+Dialogue: 0,0:22:41.76,0:22:43.80,SongED1,en,0,0,0,,Sometimes the moon jumps over
+Dialogue: 0,0:22:44.49,0:22:47.05,SongED1,en,0,0,0,,the pocket of empty sky
+Dialogue: 0,0:22:47.26,0:22:49.43,SongED1,en,0,0,0,,Laugh loudly and
+Dialogue: 0,0:22:50.06,0:22:52.05,SongED1,en,0,0,0,,morning will come tomorrow
+Dialogue: 0,0:22:52.80,0:22:57.39,SongED1,en,0,0,0,,Don't worry too much about losing
+Dialogue: 0,0:22:58.39,0:23:00.98,SongED1,en,0,0,0,,Keep going! Go for it!
+Dialogue: 0,0:23:00.98,0:23:03.40,SongED1,en,0,0,0,,A bare hand is strong
+Dialogue: 0,0:23:03.81,0:23:13.49,SongED1,en,0,0,0,,That's how it is! Let's go lightly
+Dialogue: 0,0:23:13.95,0:23:21.54,SongED1,en,0,0,0,,That's how life is! Look, a chance
+Dialogue: 0,0:23:22.00,0:23:26.25,SongED1,en,0,0,0,,follows us wagging its tail!
+Dialogue: 0,0:23:27.67,0:23:37.18,SongED1,en,0,0,0,,That's how it is! Let's go lightly
+Dialogue: 0,0:23:37.68,0:23:45.65,SongED1,en,0,0,0,,That's how the future is, too! Look, tomorrow
+Dialogue: 0,0:23:45.89,0:23:51.49,SongED1,en,0,0,0,,is opening its hands and smiling at us!
+Dialogue: 0,0:24:04.85,0:24:09.29,Default,en,0,0,0,,We met Baiken brothers during our way to Hokkaido again-{\i1}dasu{\i0}.
+Dialogue: 0,0:24:09.42,0:24:12.68,Default,en,0,0,0,,We ate great ramens, bask ourselves and it was all warm, but soon,
+Dialogue: 0,0:24:12.68,0:24:15.66,Default,en,0,0,0,,to help the temporary dwelling being attacked by suspicious ninja force,
+Dialogue: 0,0:24:15.68,0:24:20.25,Default,en,0,0,0,,we run over a vast plain of limitless white on a covered wagon!
+Dialogue: 0,0:24:20.68,0:24:23.37,Default,en,0,0,0,,Next story! Desperate Struggle in Hokkai-Western
+Dialogue: 0,0:24:23.54,0:24:26.48,Default,en,0,0,0,,It's a stormy Musashi Priority Mail Express-{\i1}dasu{\i0}!
+Dialogue: 0,0:24:26.52,0:24:30.49,NoteOnAnime,en,55,0,60,,{\an7}Next Episode
+Dialogue: 0,0:24:26.52,0:24:30.49,TitleEP,en,0,0,210,,Desperate Struggle
+Dialogue: 0,0:24:26.52,0:24:30.49,TitleEP,en,0,0,80,,in Hokkai-Western
+Dialogue: 0,0:24:26.52,0:24:30.49,NoteOnAnime,en,0,55,30,,{\an3\fs32}Look forwards for it!

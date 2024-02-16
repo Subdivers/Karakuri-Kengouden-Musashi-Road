@@ -1,0 +1,321 @@
+﻿[Script Info]
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 480
+Title: That's Bad! Depressed Kojirō
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: NoteOnAnime,Candara,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,10,1
+Style: OP1TR,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: TitleOP,DejaVu Serif,42,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: TitleEP,DejaVu Serif,42,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: ED1TR,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: Note,Candara,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,10,10,10,1
+Style: Eyecatch,Candara,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,10,10,10,1
+Style: NoteOnAnimeVert,@맑은 고딕,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,10,1
+Style: InsOtsuru,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.21,0:00:06.42,Default,en,0,0,0,,It is the turbulent Sengoku period.
+Dialogue: 0,0:00:06.88,0:00:11.35,Default,en,0,0,0,,Warlords keep on fighting day and night over\NJipangu State, where Karakuri people live.
+Dialogue: 0,0:00:11.68,0:00:16.34,Default,en,0,0,0,,Karakuri martial artists were sharpening their swords, dreaming of victory and honor.
+Dialogue: 0,0:00:16.67,0:00:23.04,Default,en,0,0,0,,And now, a wild hero has arrived, seeking to be the number one Karakuri martial artist!
+Dialogue: 0,0:00:24.27,0:00:26.72,Default,en,0,0,0,,Musashi is here-{\i1}dasu{\i0}!
+Dialogue: 0,0:00:27.88,0:00:33.22,TitleOP,en,0,0,40,,{\an8\fs32\fade(770,0)}Karakuri Kengouden
+Dialogue: 0,0:00:27.88,0:00:33.22,TitleOP,en,0,0,40,,{\fade(770,0)}Musashi Road
+Dialogue: 0,0:00:27.88,0:00:33.22,TitleOP,en,0,0,40,,{\fs24\fade(770,0)}(The Story of {\i1}Karakuri{\i0} Martial Artist: Road of Musashi)
+Dialogue: 0,0:00:33.22,0:00:38.06,SongOP,en,0,0,0,,A man always dreams of the day
+Dialogue: 0,0:00:38.89,0:00:41.81,SongOP,en,0,0,0,,in the center of the world to become
+Dialogue: 0,0:00:41.81,0:00:44.69,SongOP,en,0,0,0,,AH! AH! the strongest
+Dialogue: 0,0:00:44.69,0:00:49.74,SongOP,en,0,0,0,,Raise the sword of your heart high to the wide sky
+Dialogue: 0,0:00:50.36,0:00:54.37,SongOP,en,0,0,0,,Raise the curtain to the road of adventure
+Dialogue: 0,0:00:55.70,0:01:00.96,SongOP,en,0,0,0,,A skilled swordsman roams on Jipangu State
+Dialogue: 0,0:01:01.54,0:01:06.59,SongOP,en,0,0,0,,His name is Musashi, a Karakuri man
+Dialogue: 0,0:01:06.59,0:01:08.09,SongOP,en,0,0,0,,Go! Fight!
+Dialogue: 0,0:01:08.09,0:01:11.01,SongOP,en,0,0,0,,The sound of fierce duels
+Dialogue: 0,0:01:11.01,0:01:13.84,SongOP,en,0,0,0,,makes life dazzling
+Dialogue: 0,0:01:13.84,0:01:19.31,SongOP,en,0,0,0,,Battles of yesterdays make you stronger today
+Dialogue: 0,0:01:19.35,0:01:25.56,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
+Dialogue: 0,0:01:25.56,0:01:28.52,SongOP,en,0,0,0,,Tomorrow will be glorious
+Dialogue: 0,0:01:28.52,0:01:31.03,SongOP,en,0,0,0,,The sound of fierce duels
+Dialogue: 0,0:01:31.03,0:01:33.53,SongOP,en,0,0,0,,makes life dazzling
+Dialogue: 0,0:01:34.24,0:01:39.62,SongOP,en,0,0,0,,Fight the utmost with the stillness
+Dialogue: 0,0:01:39.66,0:01:45.88,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
+Dialogue: 0,0:01:45.88,0:01:51.09,SongOP,en,0,0,0,,His eyes shined! Musashi!
+Dialogue: 0,0:02:00.45,0:02:05.59,Default,en,0,0,0,,Musashi met a rare beauty named Himiko, and participated in a martial arts contest.
+Dialogue: 0,0:02:05.91,0:02:11.84,Default,en,0,0,0,,But the purpose of the contest was to gather capable subordinates for Shiranui Clan.
+Dialogue: 0,0:02:12.23,0:02:17.64,Default,en,0,0,0,,After hearing about the truth from Ushiwaka, Musashi made a mess of the contest.
+Dialogue: 0,0:02:18.17,0:02:23.17,TitleEP,en,0,0,233,,That's Bad!
+Dialogue: 0,0:02:18.17,0:02:23.17,TitleEP,en,0,0,110,,Depressed Kojirō
+Dialogue: 0,0:02:26.40,0:02:30.06,Default,en,0,0,0,,Ms. Himiko, how is the plan going?
+Dialogue: 0,0:02:31.98,0:02:36.51,Default,en,0,0,0,,Do not worry, Mr. Hanzō. Everything is going well.
+Dialogue: 0,0:02:36.51,0:02:40.80,Default,en,0,0,0,,That is good to know. But do not let your guards down.
+Dialogue: 0,0:02:41.58,0:02:43.60,Default,en,0,0,0,,You mean Senhime and others?
+Dialogue: 0,0:02:45.08,0:02:49.28,Default,en,0,0,0,,No need to worry. I already sent an assassin.
+Dialogue: 0,0:02:49.28,0:02:53.12,Default,en,0,0,0,,That's Ms. Himiko I know. How careful of you.
+Dialogue: 0,0:03:26.51,0:03:28.69,Default,en,0,0,0,,Musashi! We're leaving!
+Dialogue: 0,0:03:29.20,0:03:31.11,Default,en,0,0,0,,Come here soon!
+Dialogue: 0,0:03:32.40,0:03:37.30,Default,en,0,0,0,,Just a moment-{\i1}dasu{\i0}! I'm now training for a new technique-{\i1}dasu{\i0}!
+Dialogue: 0,0:03:37.72,0:03:42.71,Default,en,0,0,0,,Hmph! If your enemy is the sea, then no matter how many lives you have, they won't be enough!
+Dialogue: 0,0:03:42.71,0:03:43.46,Default,en,0,0,0,,What?!
+Dialogue: 0,0:03:44.63,0:03:47.84,Default,en,0,0,0,,Musashi, your sword lacks distance!
+Dialogue: 0,0:03:52.17,0:03:53.59,Default,en,0,0,0,,What about distance-{\i1}dasu{\i0}?
+Dialogue: 0,0:03:53.82,0:03:58.30,Default,en,0,0,0,,You idiot! Don't you know that?! You have to measure distance between you and your enemy!
+Dialogue: 0,0:03:58.30,0:03:59.46,Default,en,0,0,0,,What was that idiot for-{\i1}dasu{\i0}?!
+Dialogue: 0,0:04:00.23,0:04:01.02,Default,en,0,0,0,,Look and learn!
+Dialogue: 0,0:04:15.14,0:04:16.83,Default,en,0,0,0,,Hmph. This is how distance should be.
+Dialogue: 0,0:04:17.29,0:04:23.51,Default,en,0,0,0,,Hmph! With a sword that long, no matter how far the enemy is, targeting is easi-{\i1}dasu{\i0}! That's not at all great-{\i1}dasu{\i0}!
+Dialogue: 0,0:04:24.22,0:04:27.43,Default,en,0,0,0,,What?! Are you looking down of my sword?!
+Dialogue: 0,0:04:28.41,0:04:29.71,Default,en,0,0,0,,Then what-{\i1}dasu{\i0}?
+Dialogue: 0,0:04:30.09,0:04:30.93,Default,en,0,0,0,,Unforgivable!
+Dialogue: 0,0:04:37.35,0:04:43.27,Default,en,0,0,0,,Stop! Stop it, you two. If you're going to do it, then do it after you have dealt with Shiranui Clan!
+Dialogue: 0,0:04:44.91,0:04:48.79,Default,en,0,0,0,,You are right. We were in the middle of an important job.
+Dialogue: 0,0:04:49.84,0:04:53.80,Default,en,0,0,0,,It is no use to explain the awesomeness of my sword to a guy like that.
+Dialogue: 0,0:04:54.55,0:04:56.58,Default,en,0,0,0,,I am embarrassed of myself for getting worked up.
+Dialogue: 0,0:04:57.62,0:05:00.19,Default,en,0,0,0,,Stop right there-{\i1}dasu{\i0}! Running away is cowardly-{\i1}dasu{\i0}!
+Dialogue: 0,0:05:01.48,0:05:05.16,Default,en,0,0,0,,KNOW WHEN TO STOP!
+Dialogue: 0,0:05:05.16,0:05:05.57,Default,en,0,0,0,,Yessir...
+Dialogue: 0,0:05:06.72,0:05:09.64,Default,en,0,0,0,,Musashi, Kojirō and Senhime, right?
+Dialogue: 0,0:05:11.24,0:05:14.31,Default,en,0,0,0,,I am a messenger of Mr. Saigo.
+Dialogue: 0,0:05:14.99,0:05:17.70,Default,en,0,0,0,,What does Mr. Saigo have with us?
+Dialogue: 0,0:05:17.70,0:05:26.79,Default,en,0,0,0,,Mr. Saigo has prepared a meal to thank all your efforts to deal with Shiranui Clan.
+Dialogue: 0,0:05:27.32,0:05:31.11,Default,en,0,0,0,,What?! Meal?! Yes, we're going-{\i1}dasu{\i0}, we're going-{\i1}dasu{\i0}, we're going right now-{\i1}dasu{\i0}!
+Dialogue: 0,0:05:31.11,0:05:37.57,Default,en,0,0,0,,Musashi, how unsightly of you! Whenever you hear about food, your eye changes, and you can't do anything right!
+Dialogue: 0,0:05:37.57,0:05:38.40,Default,en,0,0,0,,Yeah, yeah!
+Dialogue: 0,0:05:38.40,0:05:43.77,Default,en,0,0,0,,But still, he went through all the trouble to prepare a meal for us, and we can't refuse that-{\i1}dasu{\i0}!
+Dialogue: 0,0:05:43.77,0:05:45.15,Default,en,0,0,0,,That's right.
+Dialogue: 0,0:05:45.15,0:05:49.43,Default,en,0,0,0,,Please do so. If you don't, then I'll be scolded.
+Dialogue: 0,0:05:49.89,0:05:52.31,Default,en,0,0,0,,Then let's go, as he told!
+Dialogue: 0,0:05:52.31,0:05:53.66,Default,en,0,0,0,,Yay-{\i1}dasu{\i0}!
+Dialogue: 0,0:05:58.26,0:06:02.10,Note,en,0,0,0,,Saigo
+Dialogue: 0,0:06:01.43,0:06:02.31,Default,en,0,0,0,,This way.
+Dialogue: 0,0:06:02.31,0:06:08.05,Default,en,0,0,0,,An owner of a country sure lives in a great place-{\i1}dasu{\i0}!
+Dialogue: 0,0:06:15.94,0:06:19.58,Default,en,0,0,0,,Welcome, Musashi, Kojirō, and Senhime.
+Dialogue: 0,0:06:19.61,0:06:23.06,Default,en,0,0,0,,Mr. Saigo! We're here to eat a lot today-{\i1}dasu{\i0}!
+Dialogue: 0,0:06:24.39,0:06:26.82,Default,en,0,0,0,,Thank you for inviting us to a meal.
+Dialogue: 0,0:06:27.15,0:06:34.68,Default,en,0,0,0,,No, no, to think about all your hard work of fighting against Shiranui Clan, this is nothing.
+Dialogue: 0,0:06:35.04,0:06:37.01,Default,en,0,0,0,,Please come in, come in!
+Dialogue: 0,0:06:37.24,0:06:38.63,Default,en,0,0,0,,Yes-{\i1}dasu{\i0}!
+Dialogue: 0,0:06:44.44,0:06:46.30,Default,en,0,0,0,,It's awesome-{\i1}dasu{\i0}!
+Dialogue: 0,0:06:46.73,0:06:52.69,Default,en,0,0,0,,Satsumaage steak, Satsumaage sashimi,\NSatsumaage salad, and Satsumaage pudding.
+Dialogue: 0,0:06:52.69,0:06:57.68,Default,en,0,0,0,,Everything here is made of Satsumaage, the local specialty of Kyushu.
+Dialogue: 0,0:06:57.90,0:06:59.83,Default,en,0,0,0,,Please eat as much as you want.
+Dialogue: 0,0:06:59.83,0:07:01.58,Default,en,0,0,0,,Thank you for the meal!
+Dialogue: 0,0:07:03.59,0:07:04.05,Default,en,0,0,0,,It's tasty!
+Dialogue: 0,0:07:06.37,0:07:10.05,Default,en,0,0,0,,Don't eat so greedily! That is so unsightly!
+Dialogue: 0,0:07:09.75,0:07:10.30,Note,en,0,0,0,,{\fad(0,480)\bord2\fs36\an5\4c&H3D36B3&\c&H6AB9EB&\frz15.41\pos(598,227)}BURP
+Dialogue: 0,0:07:10.60,0:07:14.66,Default,en,0,0,0,,No matter what you say, everything's so tasty and I can't help myself-{\i1}dasu{\i0}!
+Dialogue: 0,0:07:15.70,0:07:18.72,Default,en,0,0,0,,He's embarassing me to the extent that I lost my appetite...
+Dialogue: 0,0:07:18.72,0:07:22.48,Default,en,0,0,0,,Don't be like that, and please eat, you two.
+Dialogue: 0,0:07:23.05,0:07:25.22,Default,en,0,0,0,,By the way, where is Shiro?
+Dialogue: 0,0:07:25.82,0:07:26.41,Default,en,0,0,0,,Shiro?
+Dialogue: 0,0:07:26.94,0:07:31.28,Default,en,0,0,0,,The dog you always take along. I can't see him.
+Dialogue: 0,0:07:31.98,0:07:38.15,Default,en,0,0,0,,Oh, you mean that Shiro! Er, Shiro isn't feeling so good, so he's sleeping in his dog house.
+Dialogue: 0,0:07:38.45,0:07:42.45,Default,en,0,0,0,,That's too bad. Let me go and take a look myself.
+Dialogue: 0,0:07:43.01,0:07:48.08,Default,en,0,0,0,,No, no, please don't do that. Please eat for now.
+Dialogue: 0,0:07:48.68,0:07:53.58,Default,en,0,0,0,,Why are you so hurrying with the meal? I am just trying to take a look.
+Dialogue: 0,0:07:53.58,0:07:55.22,Default,en,0,0,0,,T- that's...
+Dialogue: 0,0:07:56.06,0:07:59.51,Default,en,0,0,0,,Kojirō, asking persistently like that is rude.
+Dialogue: 0,0:07:59.92,0:08:01.59,Default,en,0,0,0,,Let's eat, too.
+Dialogue: 0,0:08:08.70,0:08:12.68,Default,en,0,0,0,,It got stuck to your throat because you were so hurrying!
+Dialogue: 0,0:08:13.03,0:08:16.31,Default,en,0,0,0,,No, that isn't it-{\i1}dasu{\i0}. My body is getting numb...
+Dialogue: 0,0:08:17.27,0:08:18.09,Default,en,0,0,0,,Musashi!
+Dialogue: 0,0:08:19.27,0:08:20.28,Default,en,0,0,0,,This symptom...
+Dialogue: 0,0:08:24.75,0:08:28.67,Default,en,0,0,0,,This is poisonous. Mr. Saigo, what's the meaning of this?!
+Dialogue: 0,0:08:28.69,0:08:32.29,Default,en,0,0,0,,Damn, you three should already have been dead by now!
+Dialogue: 0,0:08:32.65,0:08:36.26,Default,en,0,0,0,,That glutton got everything discovered!
+Dialogue: 0,0:08:36.92,0:08:37.64,Default,en,0,0,0,,Who are you bastard?!
+Dialogue: 0,0:08:40.42,0:08:47.10,NoteOnAnime,en,0,0,50,,Kumason
+Dialogue: 0,0:08:40.66,0:08:45.64,Note,en,0,0,0,,(Kuma: bear)
+Dialogue: 0,0:08:40.66,0:08:45.64,Default,en,0,0,0,,I am an assassin of Shiranui Clan, Kumason for bear-killing!
+Dialogue: 0,0:08:48.76,0:08:53.02,Default,en,0,0,0,,Heh, falling into a trap like this would probably mean you are nothing great.
+Dialogue: 0,0:08:53.29,0:08:59.58,Default,en,0,0,0,,Hmph! I knew this was a trap! I just played along with you because I wanted clues about you bastards!
+Dialogue: 0,0:09:00.07,0:09:03.01,Default,en,0,0,0,,Why didn't you tell me-{\i1}dasu{\i0}?
+Dialogue: 0,0:09:03.01,0:09:06.19,Default,en,0,0,0,,You already ate it all before I tell you!
+Dialogue: 0,0:09:13.73,0:09:17.07,Default,en,0,0,0,,Kumason! I will have to know where your hideout is!
+Dialogue: 0,0:09:17.30,0:09:21.21,Default,en,0,0,0,,I see you're pretty confident. You guys can stay back.
+Dialogue: 0,0:09:21.83,0:09:24.04,Default,en,0,0,0,,I'll cook this guy up.
+Dialogue: 0,0:09:24.67,0:09:29.38,Default,en,0,0,0,,Hmph. Fighting me with such short swords? How foolish.
+Dialogue: 0,0:09:48.66,0:09:49.34,Default,en,0,0,0,,You're pretty good!
+Dialogue: 0,0:09:49.68,0:09:56.74,Default,en,0,0,0,,Heh, my punch is enough to take a bear down with only one punch! You won't get away this time, so be prepared!
+Dialogue: 0,0:09:57.61,0:10:04.94,Default,en,0,0,0,,That's my line! I checked out all your techniques! As soon as you appear in front of me, you're going down!
+Dialogue: 0,0:10:07.28,0:10:08.17,Default,en,0,0,0,,I got you!
+Dialogue: 0,0:10:11.35,0:10:11.90,Default,en,0,0,0,,What?!
+Dialogue: 0,0:10:12.79,0:10:20.05,Default,en,0,0,0,,Let me tell you something. I am known for bear-killing Kumason, but I am known for an another name.
+Dialogue: 0,0:10:21.16,0:10:24.03,Default,en,0,0,0,,I am called sword-breaking Kumason!
+Dialogue: 0,0:10:26.78,0:10:28.48,Default,en,0,0,0,,My Monohoshizao!
+Dialogue: 0,0:10:31.75,0:10:35.94,Default,en,0,0,0,,
+Dialogue: 0,0:10:36.49,0:10:41.54,Default,en,0,0,0,,This is not the time for that! Kojirō's gonna be killed at this rate!
+Dialogue: 0,0:10:41.54,0:10:44.75,Default,en,0,0,0,,
+Dialogue: 0,0:10:46.81,0:10:50.15,Default,en,0,0,0,,Really, you aren't being helpful whenever we need!
+Dialogue: 0,0:10:50.37,0:10:55.45,Default,en,0,0,0,,Swallow these antidotes and become healthy! You'll become good soon by overdosing!
+Dialogue: 0,0:10:55.45,0:10:56.88,Default,en,0,0,0,,Swallow it! Just swallow it!
+Dialogue: 0,0:10:57.99,0:11:00.35,Default,en,0,0,0,,This is not right-{\i1}dasu{\i0}. My body is...
+Dialogue: 0,0:11:00.35,0:11:02.17,Default,en,0,0,0,,Just go already!
+Dialogue: 0,0:11:02.17,0:11:03.07,Default,en,0,0,0,,Yessir!
+Dialogue: 0,0:11:07.85,0:11:09.53,Default,en,0,0,0,,You're an eyesore!
+Dialogue: 0,0:11:09.75,0:11:11.15,Default,en,0,0,0,,
+Dialogue: 0,0:11:13.63,0:11:15.55,Default,en,0,0,0,,Help me-{\i1}dasu{\i0}!
+Dialogue: 0,0:11:17.17,0:11:18.24,Default,en,0,0,0,,Help!
+Dialogue: 0,0:11:24.57,0:11:26.04,Default,en,0,0,0,,Heh, that fool.
+Dialogue: 0,0:11:36.44,0:11:39.05,Default,en,0,0,0,,Musashi! Kojirō! Let's run away using this chance!
+Dialogue: 0,0:11:44.10,0:11:44.95,Default,en,0,0,0,,Kojirō!
+Dialogue: 0,0:11:47.16,0:11:50.14,Default,en,0,0,0,,My sword... My Monohoshizao...
+Dialogue: 0,0:11:51.06,0:11:54.17,Default,en,0,0,0,,What are you doing, Kojirō?! Come already!
+Dialogue: 0,0:11:55.92,0:11:57.27,Default,en,0,0,0,,Stop right there, you bastards!
+Dialogue: 0,0:12:12.51,0:12:16.65,Default,en,0,0,0,,Damn! Get them! Do not let even one get away!
+Dialogue: 0,0:12:16.85,0:12:20.75,Default,en,0,0,0,,Is it possible for Musashi and others to defeat Kumason, a powerful enemy?
+Dialogue: 0,0:12:20.96,0:12:23.42,Default,en,0,0,0,,Wait for the stormy latter half!
+Dialogue: 0,0:12:23.44,0:12:28.40,Eyecatch,en,0,0,0,,Karakuri Kengouden: Musashi Road
+Dialogue: 0,0:12:28.61,0:12:30.74,Note,en,0,0,0,,Become Jipangu's Star
+Dialogue: 0,0:12:34.57,0:12:36.35,Default,en,0,0,0,,How fruitless it was.
+Dialogue: 0,0:12:37.58,0:12:40.92,Default,en,0,0,0,,What were the painful and tormenting days of training for?
+Dialogue: 0,0:12:42.74,0:12:46.66,Default,en,0,0,0,,203, come in!
+Dialogue: 0,0:12:46.88,0:12:49.16,Default,en,0,0,0,,Hey, let me join!
+Dialogue: 0,0:12:49.89,0:12:53.36,Default,en,0,0,0,,You can't! You're gonna trip since you always drag your feet!
+Dialogue: 0,0:12:53.36,0:12:54.56,Default,en,0,0,0,,Let's go, let's go!
+Dialogue: 0,0:12:54.56,0:12:55.98,Default,en,0,0,0,,Hey, wait!
+Dialogue: 0,0:13:00.68,0:13:05.23,Default,en,0,0,0,,Kojirō. You have to become the bright Venus of Jipangu.
+Dialogue: 0,0:13:05.63,0:13:08.29,Default,en,0,0,0,,Don't cry! Don't lose heart! Train!
+Dialogue: 0,0:13:08.75,0:13:09.14,Default,en,0,0,0,,Yessir!
+Dialogue: 0,0:13:14.66,0:13:18.43,Default,en,0,0,0,,Kojirō, become a splendid martial artist like your father.
+Dialogue: 0,0:13:30.93,0:13:35.76,Default,en,0,0,0,,Sorry! Please forgive me! Please! I'm sorry!
+Dialogue: 0,0:13:37.98,0:13:41.33,Default,en,0,0,0,,Day after day, it was an endless pain.
+Dialogue: 0,0:13:43.39,0:13:44.09,Default,en,0,0,0,,And...
+Dialogue: 0,0:13:51.66,0:13:52.40,Default,en,0,0,0,,I did it!
+Dialogue: 0,0:13:53.53,0:13:57.57,Default,en,0,0,0,,Swallows' tails are split ever since then.
+Dialogue: 0,0:13:57.87,0:13:59.45,Default,en,0,0,0,,Well, that's the folklore.
+Dialogue: 0,0:14:01.79,0:14:07.51,Default,en,0,0,0,,How did my Monohoshizao end up being broken, after being together for all the long and painful time?
+Dialogue: 0,0:14:13.19,0:14:16.04,Default,en,0,0,0,,Kojirō's feeling so down...
+Dialogue: 0,0:14:16.64,0:14:18.11,Default,en,0,0,0,,That was terrible-{\i1}dasu{\i0}...
+Dialogue: 0,0:14:18.59,0:14:21.54,Default,en,0,0,0,,That Kumason bastard made me suffer so much-{\i1}dasu{\i0}...
+Dialogue: 0,0:14:21.54,0:14:27.21,Default,en,0,0,0,,Hey, Musashi! It's all your fault, at the first place! Do something!
+Dialogue: 0,0:14:27.63,0:14:30.17,Default,en,0,0,0,,Huh? Why is this my fault?
+Dialogue: 0,0:14:30.91,0:14:35.68,Default,en,0,0,0,,Being paralyzed by eating poisonous food is wrong, for a martial artist!
+Dialogue: 0,0:14:35.68,0:14:36.63,Default,en,0,0,0,,No way!
+Dialogue: 0,0:14:36.63,0:14:38.01,Default,en,0,0,0,,Any complaints?!
+Dialogue: 0,0:14:38.75,0:14:42.10,Default,en,0,0,0,,You will restore Kojirō, or else!
+Dialogue: 0,0:14:42.10,0:14:46.25,Default,en,0,0,0,,But I don't know how to restore him at all-{\i1}dasu{\i0}!
+Dialogue: 0,0:14:47.11,0:14:49.44,Default,en,0,0,0,,Huh? Kojirō isn't there-{\i1}dasu{\i0}.
+Dialogue: 0,0:14:50.36,0:14:51.68,Default,en,0,0,0,,Where did he go-{\i1}dasu{\i0}?
+Dialogue: 0,0:14:56.60,0:14:58.81,Default,en,0,0,0,,Hey! He's going to take suicide!
+Dialogue: 0,0:14:58.81,0:14:59.67,Default,en,0,0,0,,He can't-{\i1}dasu{\i0}!
+Dialogue: 0,0:14:59.94,0:15:02.01,Default,en,0,0,0,,-Kojirō!\N-Kojirō!
+Dialogue: 0,0:15:03.45,0:15:05.37,Default,en,0,0,0,,D- don't be a fool-{\i1}dasu{\i0}!
+Dialogue: 0,0:15:05.37,0:15:10.52,Default,en,0,0,0,,Let me go. I do not worth living anymore since I lost my beloved sword!
+Dialogue: 0,0:15:10.84,0:15:15.28,Default,en,0,0,0,,What are you saying-{\i1}dasu{\i0}?! You can get an another sword-{\i1}dasu{\i0}!
+Dialogue: 0,0:15:15.28,0:15:22.16,Default,en,0,0,0,,You don't know a thing! I know the best that it is difficult to obtain a sword that long!
+Dialogue: 0,0:15:26.06,0:15:27.77,Default,en,0,0,0,,You must not give up-{\i1}dasu{\i0}!
+Dialogue: 0,0:15:28.31,0:15:32.22,Default,en,0,0,0,,You can't enjoy flowers if you die-{\i1}dasu{\i0}! If we try to find one, then we'll find one-{\i1}dasu{\i0}!
+Dialogue: 0,0:15:33.89,0:15:36.46,Default,en,0,0,0,,Musashi... You are a good guy...
+Dialogue: 0,0:15:38.68,0:15:40.75,Default,en,0,0,0,,{\i1}I think that I did a good job-{\i1}dasu{\i0}!
+Dialogue: 0,0:15:49.04,0:15:50.40,Default,en,0,0,0,,Report! Did you find them?!
+Dialogue: 0,0:15:50.98,0:15:54.07,Default,en,0,0,0,,We're searching everywhere possible, but not yet.
+Dialogue: 0,0:15:54.07,0:16:00.09,Default,en,0,0,0,,Dammit! Go find them already! My hand is bursting into rage and flaaaaaaaaaring up, wanting to take them down!
+Dialogue: 0,0:16:10.96,0:16:13.92,Default,en,0,0,0,,We don't have any sword that long.
+Dialogue: 0,0:16:14.50,0:16:16.55,Default,en,0,0,0,,I never saw one...
+Dialogue: 0,0:16:17.00,0:16:19.75,Default,en,0,0,0,,Finding one that long is almost impossible.
+Dialogue: 0,0:16:19.99,0:16:21.68,Default,en,0,0,0,,There's no way those would even exist.
+Dialogue: 0,0:16:23.05,0:16:24.18,Default,en,0,0,0,,We have one.
+Dialogue: 0,0:16:25.30,0:16:26.18,Default,en,0,0,0,,Really?!
+Dialogue: 0,0:16:26.43,0:16:29.84,Note,en,0,0,0,,(Southern {\i1}barbarian{\i0}: SE. Asia, sometimes including Spain and Portugal, for having colonies there)
+Dialogue: 0,0:16:26.43,0:16:29.84,Default,en,0,0,0,,It's a sword introduced by Southern barbarians. Would this suit your needs?
+Dialogue: 0,0:16:30.45,0:16:32.58,Default,en,0,0,0,,Er, it doesn't look so dependable...
+Dialogue: 0,0:16:32.58,0:16:33.88,Default,en,0,0,0,,No way!
+Dialogue: 0,0:16:45.22,0:16:49.48,Default,en,0,0,0,,What should we do? Kojirō will be keep feeling down at this rate.
+Dialogue: 0,0:16:50.69,0:16:54.31,Default,en,0,0,0,,That's it! I'll make a sword for him-{\i1}dasu{\i0}!
+Dialogue: 0,0:16:54.31,0:16:56.75,Default,en,0,0,0,,Really? Can you make one, Musashi?
+Dialogue: 0,0:16:57.60,0:16:58.84,Default,en,0,0,0,,Leave it to me-{\i1}dasu{\i0}!
+Dialogue: 0,0:16:59.45,0:17:00.86,Default,en,0,0,0,,Here! It's done-{\i1}dasu{\i0}!
+Dialogue: 0,0:17:06.05,0:17:07.26,Default,en,0,0,0,,Sword, eh?
+Dialogue: 0,0:17:07.51,0:17:09.58,Default,en,0,0,0,,Try using it-{\i1}dasu{\i0}!
+Dialogue: 0,0:17:16.05,0:17:17.73,Default,en,0,0,0,,How do you feel-{\i1}dasu{\i0}?
+Dialogue: 0,0:17:17.73,0:17:19.29,Default,en,0,0,0,,Erm, good enough, I guess.
+Dialogue: 0,0:17:21.11,0:17:22.73,Default,en,0,0,0,,Musashi! Blades are missing!
+Dialogue: 0,0:17:22.73,0:17:24.38,Default,en,0,0,0,,Huh? Where did they go?
+Dialogue: 0,0:17:24.75,0:17:26.90,Default,en,0,0,0,,You can find the blades here!
+Dialogue: 0,0:17:31.24,0:17:32.88,Default,en,0,0,0,,Osenchan, are you alright-{\i1}dasu{\i0}?!
+Dialogue: 0,0:17:33.26,0:17:39.41,Default,en,0,0,0,,What kind of contraption did you make?! Be thankful that I have a good reaction, and I'm cute!
+Dialogue: 0,0:17:39.41,0:17:41.74,Default,en,0,0,0,,An usual person would have already died!
+Dialogue: 0,0:17:41.74,0:17:44.96,Default,en,0,0,0,,H- how does being cute have something to do with it-{\i1}dasu{\i0}?
+Dialogue: 0,0:17:46.34,0:17:48.01,Default,en,0,0,0,,Please stop, Senhime.
+Dialogue: 0,0:17:48.92,0:17:51.56,Default,en,0,0,0,,Musashi did that for me.
+Dialogue: 0,0:17:52.69,0:17:56.94,Default,en,0,0,0,,I finally realized after you two were doing all that for me.
+Dialogue: 0,0:17:57.18,0:17:57.88,Default,en,0,0,0,,Really?
+Dialogue: 0,0:17:59.59,0:18:02.97,Default,en,0,0,0,,Yes. I won't be particular about the length of sword from now on.
+Dialogue: 0,0:18:13.31,0:18:14.93,Default,en,0,0,0,,{\i1}eat shit!
+Dialogue: 0,0:18:18.65,0:18:20.74,Default,en,0,0,0,,It's no good. It can't make to the distance...
+Dialogue: 0,0:18:21.75,0:18:25.31,Default,en,0,0,0,,That Kojirō became down again-{\i1}dasu{\i0}...
+Dialogue: 0,0:18:25.77,0:18:31.04,Default,en,0,0,0,,This is bad. I wonder if there's a long sword that compares to Monohoshizao...
+Dialogue: 0,0:18:32.03,0:18:32.95,Default,en,0,0,0,,There exists one.
+Dialogue: 0,0:18:34.62,0:18:37.47,Default,en,0,0,0,,Huh?! Mr. Saigo! No, Kumason!
+Dialogue: 0,0:18:38.55,0:18:43.57,Default,en,0,0,0,,You came here disguised as Mr. Saigo again! We won't be fooled again!
+Dialogue: 0,0:18:43.57,0:18:53.65,Default,en,0,0,0,,Hm? What are you talking about-{\i1}gowasu{\i0}? I was just offering you a meal, for fighting hard against Shiranui Clan-{\i1}gowasu{\i0}.
+Dialogue: 0,0:18:54.98,0:18:58.83,Default,en,0,0,0,,And since that, I bought a handful of Satsumaage-{\i1}gowasu{\i0}.
+Dialogue: 0,0:18:59.33,0:19:06.85,Default,en,0,0,0,,What?! Even for me, I won't be fooled to Satsumaages again-{\i1}dasu{\i0}! Mr. Saigo, prepare yourself-{\i1}dasu{\i0}!
+Dialogue: 0,0:19:06.85,0:19:08.54,Default,en,0,0,0,,{\i1}Chest!
+Dialogue: 0,0:19:08.59,0:19:09.09,Note,en,0,0,0,,{\3c&H538FAB&\c&H1B2189&\fs300\bord12\an5\frz-16\move(-220,280,820,280)}CHE
+Dialogue: 0,0:19:09.09,0:19:09.55,Note,en,0,0,0,,{\3c&H538FAB&\c&H1B2189&\fs480\bord12\an5\frz-16\move(-160,240,880,240)}S
+Dialogue: 0,0:19:09.63,0:19:10.34,Note,en,0,0,0,,{\3c&H538FAB&\c&H1B2189&\fs480\bord12\an5\frz-16\move(-280,240,800,240)}T
+Dialogue: 0,0:19:14.06,0:19:17.65,Default,en,0,0,0,,Judging by that big voice of yours, you are real one-{\i1}dasu{\i0}...
+Dialogue: 0,0:19:28.94,0:19:30.62,Default,en,0,0,0,,I see-{\i1}gowasu{\i0}.
+Dialogue: 0,0:19:31.38,0:19:35.91,Default,en,0,0,0,,So that's why you confused me with that Kumason guy-{\i1}gowasu{\i0}!
+Dialogue: 0,0:19:35.91,0:19:37.44,Default,en,0,0,0,,I'm sorry-{\i1}dasu{\i0}!
+Dialogue: 0,0:19:37.44,0:19:41.31,Default,en,0,0,0,,So, Mr. Saigo, where is that long sword you told us about?
+Dialogue: 0,0:19:42.27,0:19:44.30,Default,en,0,0,0,,It's at Amakusa Island.
+Dialogue: 0,0:19:45.00,0:19:46.13,Default,en,0,0,0,,Amakusa Island?
+Dialogue: 0,0:19:47.43,0:19:54.39,Default,en,0,0,0,,It seems that there is a legendary secret sword that is even longer than Mr. Kojirō's sword.
+Dialogue: 0,0:19:59.94,0:20:02.12,Default,en,0,0,0,,Then we'll go take that-{\i1}dasu{\i0}!\N
+Dialogue: 0,0:20:02.12,0:20:04.47,Default,en,0,0,0,,I will not let you go to Amakusa Island.
+Dialogue: 0,0:20:07.18,0:20:08.07,Default,en,0,0,0,,Kumason!
+Dialogue: 0,0:20:08.66,0:20:13.14,Default,en,0,0,0,,Things will get complicated if you go to Amakusa Island. You'd better die here!
+Dialogue: 0,0:20:14.28,0:20:16.35,Default,en,0,0,0,,I won't lose this time-{\i1}dasu{\i0}!
+Dialogue: 0,0:20:16.56,0:20:17.74,Default,en,0,0,0,,Die!
+Dialogue: 0,0:20:19.84,0:20:20.49,Default,en,0,0,0,,Die!
+Dialogue: 0,0:20:20.49,0:20:21.97,Default,en,0,0,0,,That's cunning-{\i1}dasu{\i0}!
+Dialogue: 0,0:20:22.80,0:20:23.37,Default,en,0,0,0,,Die!
+Dialogue: 0,0:20:28.36,0:20:29.98,Default,en,0,0,0,,Kojirō, get a grip!
+Dialogue: 0,0:20:32.12,0:20:35.40,Default,en,0,0,0,,Now we don't know who is whose bodyguard!
+Dialogue: 0,0:20:38.06,0:20:39.55,Default,en,0,0,0,,{\i1}Chest!
+Dialogue: 0,0:20:41.83,0:20:45.30,Default,en,0,0,0,,I hope all of you saw Jigen Style Shout Technique!
+Dialogue: 0,0:20:46.85,0:20:48.83,Default,en,0,0,0,,Huh? Senhime!
+Dialogue: 0,0:20:51.97,0:20:55.64,Default,en,0,0,0,,P- please do it with a smaller voice next time...
+Dialogue: 0,0:21:03.87,0:21:05.48,Default,en,0,0,0,,You won't run away this time!
+Dialogue: 0,0:21:06.00,0:21:07.69,Default,en,0,0,0,,I don't just run away-{\i1}dasu{\i0}!
+Dialogue: 0,0:21:12.96,0:21:15.72,Default,en,0,0,0,,How guileless of you. Let me break your sword too!
+Dialogue: 0,0:21:17.08,0:21:19.33,Default,en,0,0,0,,I have more than one sword!
+Dialogue: 0,0:21:20.75,0:21:21.39,Default,en,0,0,0,,What?!
+Dialogue: 0,0:21:26.49,0:21:30.82,Default,en,0,0,0,,Even if you're not up for a close combat, there's no difference! Take this instead!
+Dialogue: 0,0:21:37.06,0:21:38.37,Default,en,0,0,0,,Take it once again!
+Dialogue: 0,0:21:42.73,0:21:45.15,Default,en,0,0,0,,Niten'ichiryū: Flash Sword!
+Dialogue: 0,0:22:02.75,0:22:03.32,Default,en,0,0,0,,Kojirō.
+Dialogue: 0,0:22:04.78,0:22:09.02,Default,en,0,0,0,,They managed to take down Kumason, a frightful assassin from Shiranui Clan.
+Dialogue: 0,0:22:09.59,0:22:13.66,Default,en,0,0,0,,But having his beloved sword broken, Kojirō was deeply disheartened.
+Dialogue: 0,0:22:14.15,0:22:22.15,Default,en,0,0,0,,Will Musashi managed to recover Kojirō, his eternal rival? And what is that secret hidden in Amakusa Island?
+Dialogue: 0,0:22:22.55,0:22:25.48,Default,en,0,0,0,,Wait for the stormy next episode!
+Dialogue: 0,0:22:41.28,0:22:43.32,SongED1,en,0,0,0,,Sometimes the moon jumps over
+Dialogue: 0,0:22:44.04,0:22:46.58,SongED1,en,0,0,0,,the pocket of empty sky
+Dialogue: 0,0:22:46.79,0:22:48.96,SongED1,en,0,0,0,,Laugh loudly and
+Dialogue: 0,0:22:49.58,0:22:51.59,SongED1,en,0,0,0,,morning will come tomorrow
+Dialogue: 0,0:22:52.34,0:22:56.92,SongED1,en,0,0,0,,Don't worry too much about losing
+Dialogue: 0,0:22:57.92,0:23:00.51,SongED1,en,0,0,0,,Keep going! Go for it!
+Dialogue: 0,0:23:00.51,0:23:02.93,SongED1,en,0,0,0,,A bare hand is strong
+Dialogue: 0,0:23:03.35,0:23:13.02,SongED1,en,0,0,0,,That's how it is! Let's go lightly
+Dialogue: 0,0:23:13.48,0:23:21.07,SongED1,en,0,0,0,,That's how life is! Look, a chance
+Dialogue: 0,0:23:21.53,0:23:25.79,SongED1,en,0,0,0,,follows us wagging its tail!
+Dialogue: 0,0:23:27.20,0:23:36.71,SongED1,en,0,0,0,,That's how it is! Let's go lightly
+Dialogue: 0,0:23:37.21,0:23:45.18,SongED1,en,0,0,0,,That's how the future is, too! Look, tomorrow
+Dialogue: 0,0:23:45.43,0:23:51.02,SongED1,en,0,0,0,,is opening its hands and smiling at us!
+Dialogue: 0,0:24:04.41,0:24:06.99,Default,en,0,0,0,,For having his Monohoshizao broken, Kojirō is really feeling down.
+Dialogue: 0,0:24:07.41,0:24:11.85,Default,en,0,0,0,,I had no choice but to go to Amakusa Island that Mr. Saigo told me about, to find the legendary secret sword!
+Dialogue: 0,0:24:12.32,0:24:16.29,Default,en,0,0,0,,But, they say that only the ones who are qualified can pull out the sword-{\i1}dasu{\i0}.
+Dialogue: 0,0:24:16.75,0:24:20.05,Default,en,0,0,0,,Will Kojirō's Tsubamegaeshi be revived?!
+Dialogue: 0,0:24:20.46,0:24:23.35,Default,en,0,0,0,,Next story! The Reviving Legendary Sword!
+Dialogue: 0,0:24:23.58,0:24:26.69,Default,en,0,0,0,,It's the stormy Amakusa Island!
+Dialogue: 0,0:24:25.93,0:24:29.90,NoteOnAnime,en,60,0,60,,{\an7}Next Episode
+Dialogue: 0,0:24:25.93,0:24:29.90,TitleEP,en,0,0,225,,The Reviving
+Dialogue: 0,0:24:25.93,0:24:29.90,TitleEP,en,0,0,110,,Legendary Sword
+Dialogue: 0,0:24:25.93,0:24:29.90,NoteOnAnime,en,0,60,30,,{\an3\fs32}Look forwards for it!

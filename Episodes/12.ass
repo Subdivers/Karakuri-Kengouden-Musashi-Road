@@ -43,30 +43,30 @@ Comment: 0,0:13:21.11,0:13:26.11,Default,chapter,0,0,0,,Eyecatch
 Comment: 0,0:13:26.11,0:22:29.36,Default,chapter,0,0,0,,Part 2
 Comment: 0,0:22:29.36,0:24:01.37,Default,chapter,0,0,0,,Ending Credits
 Comment: 0,0:24:01.37,0:24:31.36,Default,chapter,0,0,0,,Next Episode Preview
-Dialogue: 0,0:00:04.53,0:00:06.70,Default,OP!Intro01,0,0,0,,時は戦国、乱世の時代。
-Dialogue: 0,0:00:07.08,0:00:11.50,Default,OP!Intro02,0,0,0,,からくり人の住むジパング国では群雄割拠して合戦に明け暮れ、
-Dialogue: 0,0:00:12.00,0:00:16.35,Default,OP!Intro03,0,0,0,,からくり武芸者たちも勝利と栄光を目指してしのぎを削っていた。
-Dialogue: 0,0:00:16.98,0:00:23.31,Default,OP!Intro04,0,0,0,,そしていま、からくり武芸者ナンバー１を目指す、とてつもないヒーローが誕生した！
-Dialogue: 0,0:00:24.57,0:00:26.96,Default,OP!Intro05,0,0,0,,ムサシ、見参でござるだス！
-Dialogue: 0,0:00:28.04,0:00:33.22,TitleOP,OP!Title,0,0,40,,からくり剣豪伝ムサシロード
-Dialogue: 0,0:00:33.22,0:00:38.05,SongOP,OP!Lyric01,0,0,0,,男はいつでも　世界の真ん中で
-Dialogue: 0,0:00:38.89,0:00:41.81,SongOP,OP!Lyric02,0,0,0,,いちばん　強くなる日を
-Dialogue: 0,0:00:41.81,0:00:44.69,SongOP,OP!Lyric03,0,0,0,,AH! AH! 夢見て
-Dialogue: 0,0:00:44.69,0:00:49.73,SongOP,OP!Lyric04,0,0,0,,心の刃　大空にふりかざし
-Dialogue: 0,0:00:50.36,0:00:54.36,SongOP,OP!Lyric05,0,0,0,,冒険の旅の　幕を開ける
-Dialogue: 0,0:00:55.70,0:01:00.95,SongOP,OP!Lyric06,0,0,0,,ジパング国を　さすらう剣豪
-Dialogue: 0,0:01:01.54,0:01:06.58,SongOP,OP!Lyric07,0,0,0,,その名　からくりびと　ムサシ
-Dialogue: 0,0:01:06.58,0:01:08.08,SongOP,OP!Lyric08,0,0,0,,GO! FIGHT!
-Dialogue: 0,0:01:08.08,0:01:11.00,SongOP,OP!Lyric09,0,0,0,,鍔迫り合いの音が
-Dialogue: 0,0:01:11.00,0:01:13.84,SongOP,OP!Lyric10,0,0,0,,眩しい人生
-Dialogue: 0,0:01:13.84,0:01:19.30,SongOP,OP!Lyric11,0,0,0,,戦い　昨日よりも　今日　強い
-Dialogue: 0,0:01:19.35,0:01:25.56,SongOP,OP!Lyric12,0,0,0,,BUGEI! 二刀流　ムサシ
-Dialogue: 0,0:01:25.56,0:01:28.56,SongOP,OP!Lyric13,0,0,0,,明日は　輝くぞ
-Dialogue: 0,0:01:28.56,0:01:31.02,SongOP,OP!Lyric14,0,0,0,,鍔迫り合いの音が
-Dialogue: 0,0:01:31.02,0:01:33.53,SongOP,OP!Lyric15,0,0,0,,眩しい人生
-Dialogue: 0,0:01:34.24,0:01:39.62,SongOP,OP!Lyric16,0,0,0,,戦い　思い切りと　静けさと
-Dialogue: 0,0:01:39.66,0:01:45.87,SongOP,OP!Lyric17,0,0,0,,BUGEI! 二刀流　ムサシ
-Dialogue: 0,0:01:45.87,0:01:51.13,SongOP,OP!Lyric18,0,0,0,,みけんが　きらめいた　ムサシ！！
+Dialogue: 0,0:00:04.53,0:00:06.70,Default,ref,0,0,0,OP!Intro01,時は戦国、乱世の時代。
+Dialogue: 0,0:00:07.08,0:00:11.50,Default,ref,0,0,0,OP!Intro02,からくり人の住むジパング国では群雄割拠して合戦に明け暮れ、
+Dialogue: 0,0:00:12.00,0:00:16.35,Default,ref,0,0,0,OP!Intro03,からくり武芸者たちも勝利と栄光を目指してしのぎを削っていた。
+Dialogue: 0,0:00:16.98,0:00:23.31,Default,ref,0,0,0,OP!Intro04,そしていま、からくり武芸者ナンバー１を目指す、とてつもないヒーローが誕生した！
+Dialogue: 0,0:00:24.57,0:00:26.96,Default,ref,0,0,0,OP!Intro05,ムサシ、見参でござるだス！
+Dialogue: 0,0:00:28.04,0:00:33.22,TitleOP,ref,0,0,40,OP!Title,からくり剣豪伝ムサシロード
+Dialogue: 0,0:00:33.22,0:00:38.05,SongOP,ref,0,0,0,OP!Lyric01,男はいつでも　世界の真ん中で
+Dialogue: 0,0:00:38.89,0:00:41.81,SongOP,ref,0,0,0,OP!Lyric02,いちばん　強くなる日を
+Dialogue: 0,0:00:41.81,0:00:44.69,SongOP,ref,0,0,0,OP!Lyric03,AH! AH! 夢見て
+Dialogue: 0,0:00:44.69,0:00:49.73,SongOP,ref,0,0,0,OP!Lyric04,心の刃　大空にふりかざし
+Dialogue: 0,0:00:50.36,0:00:54.36,SongOP,ref,0,0,0,OP!Lyric05,冒険の旅の　幕を開ける
+Dialogue: 0,0:00:55.70,0:01:00.95,SongOP,ref,0,0,0,OP!Lyric06,ジパング国を　さすらう剣豪
+Dialogue: 0,0:01:01.54,0:01:06.58,SongOP,ref,0,0,0,OP!Lyric07,その名　からくりびと　ムサシ
+Dialogue: 0,0:01:06.58,0:01:08.08,SongOP,ref,0,0,0,OP!Lyric08,GO! FIGHT!
+Dialogue: 0,0:01:08.08,0:01:11.00,SongOP,ref,0,0,0,OP!Lyric09,鍔迫り合いの音が
+Dialogue: 0,0:01:11.00,0:01:13.84,SongOP,ref,0,0,0,OP!Lyric10,眩しい人生
+Dialogue: 0,0:01:13.84,0:01:19.30,SongOP,ref,0,0,0,OP!Lyric11,戦い　昨日よりも　今日　強い
+Dialogue: 0,0:01:19.35,0:01:25.56,SongOP,ref,0,0,0,OP!Lyric12,BUGEI! 二刀流　ムサシ
+Dialogue: 0,0:01:25.56,0:01:28.56,SongOP,ref,0,0,0,OP!Lyric13,明日は　輝くぞ
+Dialogue: 0,0:01:28.56,0:01:31.02,SongOP,ref,0,0,0,OP!Lyric14,鍔迫り合いの音が
+Dialogue: 0,0:01:31.02,0:01:33.53,SongOP,ref,0,0,0,OP!Lyric15,眩しい人生
+Dialogue: 0,0:01:34.24,0:01:39.62,SongOP,ref,0,0,0,OP!Lyric16,戦い　思い切りと　静けさと
+Dialogue: 0,0:01:39.66,0:01:45.87,SongOP,ref,0,0,0,OP!Lyric17,BUGEI! 二刀流　ムサシ
+Dialogue: 0,0:01:45.87,0:01:51.13,SongOP,ref,0,0,0,OP!Lyric18,みけんが　きらめいた　ムサシ！！
 Comment: 0,0:02:01.24,0:02:05.68,Default,ja,0,0,0,,申し込みに遅れたため、ジパング武芸大会から締め出されたムサシ。
 Dialogue: 0,0:02:01.24,0:02:05.68,Default,ko,0,0,0,,참가 등록에 늦어 지팡구 무예 대회에서 쫓겨난 무사시.
 Dialogue: 0,0:02:01.24,0:02:05.68,Default,en,0,0,0,,Because he was late for the registration, Musashi was expelled from the competition.
@@ -663,9 +663,9 @@ Dialogue: 0,0:17:12.44,0:17:14.08,Default,en,0,0,0,,An extra match will begin no
 Comment: 0,0:17:14.11,0:17:17.33,Default,ja,0,0,0,,ジュウベエ殿対ムサシ殿。一本勝負！
 Dialogue: 0,0:17:14.11,0:17:17.33,Default,ko,0,0,0,,주베 님 대 무사시 님, 단판 승부!
 Dialogue: 0,0:17:14.11,0:17:17.33,Default,en,0,0,0,,Jūbee vs Musashi. One-game match!
-Comment: 0,0:17:20.26,0:17:21.31,Default,ja;L1720,0,0,0,,初め！
-Dialogue: 0,0:17:20.26,0:17:21.31,Default,ko;L1720,0,0,0,,시작!
-Dialogue: 0,0:17:20.26,0:17:21.31,Default,en;L1720,0,0,0,,Start!
+Comment: 0,0:17:20.26,0:17:21.31,Default,ja,0,0,0,L1720,初め！
+Dialogue: 0,0:17:20.26,0:17:21.31,Default,ko,0,0,0,L1720,시작!
+Dialogue: 0,0:17:20.26,0:17:21.31,Default,en,0,0,0,L1720,Start!
 Comment: 0,0:17:34.07,0:17:35.52,Default,ja,0,0,0,,さすがわ、ジュウベエ。
 Dialogue: 0,0:17:34.07,0:17:35.52,Default,ko,0,0,0,,대단하군, 주베.
 Dialogue: 0,0:17:34.07,0:17:35.52,Default,en,0,0,0,,Excellent job, Jūbee.
@@ -708,12 +708,12 @@ Dialogue: 0,0:18:52.69,0:18:53.67,Default,en,0,0,0,,Awesome!
 Comment: 0,0:18:56.55,0:18:57.44,Default,ja,0,0,0,,ムサシ！
 Dialogue: 0,0:18:56.55,0:18:57.44,Default,ko,0,0,0,,무사시!
 Dialogue: 0,0:18:56.55,0:18:57.44,Default,en,0,0,0,,Musashi!
-Comment: 0,0:18:58.18,0:19:01.71,Default,ja;L1858,0,0,0,,行かん！このままではやられるだス、このままでは！
-Dialogue: 0,0:18:58.18,0:19:01.71,Default,ko;L1858,0,0,0,,{\i1}안 돼! 이대로는 당하오! 이대로는!
-Dialogue: 0,0:18:58.18,0:19:01.71,Default,en;L1858,0,0,0,,{\i1}No! I'll be done for at this rate-{\i1}dasu{\i0}! I need something!
-Comment: 0,0:19:03.46,0:19:05.49,Default,ja;L1903,0,0,0,,なんとか切り抜ける手はないだスか！
-Dialogue: 0,0:19:03.46,0:19:05.49,Default,ko;L1903,0,0,0,,{\i1}어떻게 타개할 방법은 없소?
-Dialogue: 0,0:19:03.46,0:19:05.49,Default,en;L1903,0,0,0,,{\i1}Is there a way to get over-{\i1}dasu{\i0}?
+Comment: 0,0:18:58.18,0:19:01.71,Default,ja,0,0,0,L1858,行かん！このままではやられるだス、このままでは！
+Dialogue: 0,0:18:58.18,0:19:01.71,Default,ko,0,0,0,L1858,{\i1}안 돼! 이대로는 당하오! 이대로는!
+Dialogue: 0,0:18:58.18,0:19:01.71,Default,en,0,0,0,L1858,{\i1}No! I'll be done for at this rate-{\i1}dasu{\i0}! I need something!
+Comment: 0,0:19:03.46,0:19:05.49,Default,ja,0,0,0,L1903,なんとか切り抜ける手はないだスか！
+Dialogue: 0,0:19:03.46,0:19:05.49,Default,ko,0,0,0,L1903,{\i1}어떻게 타개할 방법은 없소?
+Dialogue: 0,0:19:03.46,0:19:05.49,Default,en,0,0,0,L1903,{\i1}Is there a way to get over-{\i1}dasu{\i0}?
 Comment: 0,0:19:50.91,0:19:52.43,Default,ja,0,0,0,,秘剣！一の太刀！
 Dialogue: 0,0:19:50.91,0:19:52.43,Default,ko,0,0,0,,비검! 제일의 검!
 Dialogue: 0,0:19:50.91,0:19:52.43,Default,en,0,0,0,,Secret Sword! Ichi no Tachi!
@@ -804,19 +804,19 @@ Dialogue: 0,0:22:16.25,0:22:20.12,Default,en,0,0,0,,about to be executed without
 Comment: 0,0:22:20.65,0:22:24.73,Default,ja,0,0,0,,このムサシを救うもの、果たしてありやなしや。
 Dialogue: 0,0:22:20.65,0:22:24.73,Default,ko,0,0,0,,이 무사시를 구할 자, 과연 있을까, 없을까?
 Dialogue: 0,0:22:20.65,0:22:24.73,Default,en,0,0,0,,Will there be anyone who'll save this Musashi, or not?
-Dialogue: 0,0:22:42.63,0:22:44.67,SongED1,ED1!Lyric01,0,0,0,,カラのポケットに　ツキが
-Dialogue: 0,0:22:45.38,0:22:47.92,SongED1,ED1!Lyric02,0,0,0,,飛び込むことも　あるさ
-Dialogue: 0,0:22:48.13,0:22:50.30,SongED1,ED1!Lyric03,0,0,0,,おっきな声で　笑えば
-Dialogue: 0,0:22:50.93,0:22:52.93,SongED1,ED1!Lyric04,0,0,0,,あしたには　朝が来る
-Dialogue: 0,0:22:53.68,0:22:58.27,SongED1,ED1!Lyric05,0,0,0,,無くすものなんか　何もないさ
-Dialogue: 0,0:22:59.27,0:23:01.86,SongED1,ED1!Lyric06,0,0,0,,やっちゃえ！イケイケ！
-Dialogue: 0,0:23:01.86,0:23:04.27,SongED1,ED1!Lyric07,0,0,0,,手ぶらは　強いぜ
-Dialogue: 0,0:23:04.69,0:23:14.37,SongED1,ED1!Lyric08,0,0,0,,てなもんだ　のーてんきに行こう
-Dialogue: 0,0:23:14.83,0:23:22.42,SongED1,ED1!Lyric09,0,0,0,,人生　てなもんさ　チャンスが　ほら
-Dialogue: 0,0:23:22.88,0:23:27.13,SongED1,ED1!Lyric10,0,0,0,,しっぽを振って　追ってくるぜ
-Dialogue: 0,0:23:28.55,0:23:38.06,SongED1,ED1!Lyric11,0,0,0,,てなもんだ　のーてんきに行こう
-Dialogue: 0,0:23:38.56,0:23:46.53,SongED1,ED1!Lyric12,0,0,0,,未来も　てなもんさ　あしたが　ほら
-Dialogue: 0,0:23:46.78,0:23:52.36,SongED1,ED1!Lyric13,0,0,0,,両手ひろげて　笑ってるぜ
+Dialogue: 0,0:22:42.63,0:22:44.67,SongED1,ref,0,0,0,ED1!Lyric01,カラのポケットに　ツキが
+Dialogue: 0,0:22:45.38,0:22:47.92,SongED1,ref,0,0,0,ED1!Lyric02,飛び込むことも　あるさ
+Dialogue: 0,0:22:48.13,0:22:50.30,SongED1,ref,0,0,0,ED1!Lyric03,おっきな声で　笑えば
+Dialogue: 0,0:22:50.93,0:22:52.93,SongED1,ref,0,0,0,ED1!Lyric04,あしたには　朝が来る
+Dialogue: 0,0:22:53.68,0:22:58.27,SongED1,ref,0,0,0,ED1!Lyric05,無くすものなんか　何もないさ
+Dialogue: 0,0:22:59.27,0:23:01.86,SongED1,ref,0,0,0,ED1!Lyric06,やっちゃえ！イケイケ！
+Dialogue: 0,0:23:01.86,0:23:04.27,SongED1,ref,0,0,0,ED1!Lyric07,手ぶらは　強いぜ
+Dialogue: 0,0:23:04.69,0:23:14.37,SongED1,ref,0,0,0,ED1!Lyric08,てなもんだ　のーてんきに行こう
+Dialogue: 0,0:23:14.83,0:23:22.42,SongED1,ref,0,0,0,ED1!Lyric09,人生　てなもんさ　チャンスが　ほら
+Dialogue: 0,0:23:22.88,0:23:27.13,SongED1,ref,0,0,0,ED1!Lyric10,しっぽを振って　追ってくるぜ
+Dialogue: 0,0:23:28.55,0:23:38.06,SongED1,ref,0,0,0,ED1!Lyric11,てなもんだ　のーてんきに行こう
+Dialogue: 0,0:23:38.56,0:23:46.53,SongED1,ref,0,0,0,ED1!Lyric12,未来も　てなもんさ　あしたが　ほら
+Dialogue: 0,0:23:46.78,0:23:52.36,SongED1,ref,0,0,0,ED1!Lyric13,両手ひろげて　笑ってるぜ
 Comment: 0,0:24:04.48,0:24:06.11,Default,ja,0,0,0,,武芸大会もいよいよ{???}おずべ。
 Dialogue: 0,0:24:04.48,0:24:06.11,Default,ko,0,0,0,,무예 대회도 슬슬 끝나 가오.
 Dialogue: 0,0:24:04.48,0:24:06.11,Default,en,0,0,0,,The martial arts competition is about to end.

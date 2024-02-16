@@ -1,0 +1,343 @@
+﻿[Script Info]
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 480
+Title: The Wooden Horse was a Trap
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: NoteOnAnime,Candara,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,10,1
+Style: SongOP,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: TitleOP,DejaVu Serif,42,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: TitleEP,DejaVu Serif,42,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: SongED1,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: Note,Candara,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,10,10,10,1
+Style: Eyecatch,Candara,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,10,10,10,1
+Style: NoteOnAnimeVert,@맑은 고딕,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,10,1
+Style: InsOtsuru,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.38,0:00:06.54,Default,en,0,0,0,,It is the turbulent Sengoku period.
+Dialogue: 0,0:00:07.08,0:00:11.49,Default,en,0,0,0,,Warlords keep on fighting day and night over\NJipangu State, where Karakuri people live.
+Dialogue: 0,0:00:11.84,0:00:16.20,Default,en,0,0,0,,Karakuri martial artists were sharpening their swords, dreaming of victory and honor.
+Dialogue: 0,0:00:16.83,0:00:23.15,Default,en,0,0,0,,And now, a wild hero has arrived, seeking to be the number one Karakuri martial artist!
+Dialogue: 0,0:00:24.44,0:00:26.87,Default,en,0,0,0,,Musashi is here-{\i1}dasu{\i0}!
+Dialogue: 0,0:00:27.86,0:00:33.20,TitleOP,en,0,0,40,,{\an8\fs32\fade(770,0)}Karakuri Kengouden
+Dialogue: 0,0:00:27.86,0:00:33.20,TitleOP,en,0,0,40,,{\fade(770,0)}Musashi Road
+Dialogue: 0,0:00:27.86,0:00:33.20,TitleOP,en,0,0,40,,{\fs24\fade(770,0)}(The Story of {\i1}Karakuri{\i0} Martial Artist: Road of Musashi)
+Dialogue: 0,0:00:33.20,0:00:38.04,SongOP,en,0,0,0,,A man always dreams of the day
+Dialogue: 0,0:00:38.87,0:00:41.79,SongOP,en,0,0,0,,in the center of the world to become
+Dialogue: 0,0:00:41.79,0:00:44.67,SongOP,en,0,0,0,,AH! AH! the strongest
+Dialogue: 0,0:00:44.67,0:00:49.72,SongOP,en,0,0,0,,Raise the sword of your heart high to the wide sky
+Dialogue: 0,0:00:50.34,0:00:54.35,SongOP,en,0,0,0,,Raise the curtain to the road of adventure
+Dialogue: 0,0:00:55.68,0:01:00.94,SongOP,en,0,0,0,,A skilled swordsman roams on Jipangu State
+Dialogue: 0,0:01:01.52,0:01:06.57,SongOP,en,0,0,0,,His name is Musashi, a Karakuri man
+Dialogue: 0,0:01:06.57,0:01:08.07,SongOP,en,0,0,0,,Go! Fight!
+Dialogue: 0,0:01:08.07,0:01:10.99,SongOP,en,0,0,0,,The sound of fierce duels
+Dialogue: 0,0:01:10.99,0:01:13.83,SongOP,en,0,0,0,,makes life dazzling
+Dialogue: 0,0:01:13.83,0:01:19.29,SongOP,en,0,0,0,,Battles of yesterdays make you stronger today
+Dialogue: 0,0:01:19.33,0:01:25.55,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
+Dialogue: 0,0:01:25.55,0:01:28.43,SongOP,en,0,0,0,,Tomorrow will be glorious
+Dialogue: 0,0:01:28.43,0:01:31.01,SongOP,en,0,0,0,,The sound of fierce duels
+Dialogue: 0,0:01:31.01,0:01:33.51,SongOP,en,0,0,0,,makes life dazzling
+Dialogue: 0,0:01:34.22,0:01:39.60,SongOP,en,0,0,0,,Fight the utmost with the stillness
+Dialogue: 0,0:01:39.65,0:01:45.86,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
+Dialogue: 0,0:01:45.86,0:01:51.07,SongOP,en,0,0,0,,His eyes shined! Musashi!
+Dialogue: 0,0:01:59.61,0:02:06.03,Default,en,0,0,0,,For the king and the sacred sword to escape to a safe place, Musashi and others disguised themselves and headed to Nikko.
+Dialogue: 0,0:02:06.44,0:02:10.59,Default,en,0,0,0,,But Musashi and others were attacked by Shingen's Track Driving Corps.
+Dialogue: 0,0:02:11.09,0:02:17.68,Default,en,0,0,0,,But by the friendship power of Karakuri martial artists, even Shingen had to retreat.
+Dialogue: 0,0:02:18.18,0:02:23.18,TitleEP,en,0,0,200,,The Wooden Horse
+Dialogue: 0,0:02:18.18,0:02:23.18,TitleEP,en,0,0,60,,was a Trap
+Dialogue: 0,0:02:30.59,0:02:32.73,Default,en,0,0,0,,Did Shingen fail too?
+Dialogue: 0,0:02:33.35,0:02:36.46,Default,en,0,0,0,,Return to Babel 13 right now.
+Dialogue: 0,0:02:36.46,0:02:37.92,Default,en,0,0,0,,What is the reason behind that?
+Dialogue: 0,0:02:38.53,0:02:43.16,Default,en,0,0,0,,Don't try to deceive me. Megaton Castle is already destroyed to the extent that moving is all it can.
+Dialogue: 0,0:02:44.08,0:02:48.83,Default,en,0,0,0,,We're planning to attack as soon as the repair gets complete.
+Dialogue: 0,0:02:49.44,0:02:53.19,Default,en,0,0,0,,You fool! Do you want Megaton Castle destroyed?
+Dialogue: 0,0:02:53.78,0:02:55.75,Default,en,0,0,0,,I won't say this again. REturn.
+Dialogue: 0,0:02:56.65,0:02:58.94,Default,en,0,0,0,,I cannot entrust this to you anymore.
+Dialogue: 0,0:03:00.13,0:03:01.65,Default,en,0,0,0,,Yessir!
+Dialogue: 0,0:03:08.70,0:03:10.95,Default,en,0,0,0,,Everything is almost packed.
+Dialogue: 0,0:03:11.28,0:03:15.50,Default,en,0,0,0,,Great. The sea is calm, and we'll have a good sea voyage.
+Dialogue: 0,0:03:15.79,0:03:17.19,Default,en,0,0,0,,Huh? What's that?
+Dialogue: 0,0:03:18.82,0:03:21.87,Default,en,0,0,0,,That must be the monster raged at Edotopia.
+Dialogue: 0,0:03:23.30,0:03:24.93,Default,en,0,0,0,,I can't let that pass by.
+Dialogue: 0,0:03:25.81,0:03:27.41,Default,en,0,0,0,,Let Mr. Musashi know about this!
+Dialogue: 0,0:03:27.41,0:03:27.86,Default,en,0,0,0,,Yessir!
+Dialogue: 0,0:03:32.18,0:03:34.00,Default,en,0,0,0,,I'm bored...
+Dialogue: 0,0:03:35.95,0:03:38.30,Default,en,0,0,0,,I'm hungry again-dasu.
+Dialogue: 0,0:03:39.10,0:03:40.71,Default,en,0,0,0,,Hey! Stop slacking!
+Dialogue: 0,0:03:40.71,0:03:41.84,Default,en,0,0,0,,Y- yessir!
+Dialogue: 0,0:03:43.53,0:03:47.18,Default,en,0,0,0,,Oh, it's you, Kojirō-dasu. Please don't surprise us like that-dasu!
+Dialogue: 0,0:03:47.18,0:03:48.25,Default,en,0,0,0,,Musashi, follow me.
+Dialogue: 0,0:03:49.02,0:03:50.38,Default,en,0,0,0,,What is it-dasu?
+Dialogue: 0,0:03:50.38,0:03:51.77,Default,en,0,0,0,,I wonder what're they talking about.
+Dialogue: 0,0:03:52.96,0:03:56.52,Default,en,0,0,0,,What? We're chasing Megaton Castle from now on-dasu?
+Dialogue: 0,0:03:56.66,0:04:02.41,Default,en,0,0,0,,Yes. I want to recover the shield and the jewel for the Highness as soon as possible.
+Dialogue: 0,0:04:02.63,0:04:06.95,Default,en,0,0,0,,I can't-dasu. I promised to meet Otsuru in 6 o'clock-dasu. Let's do that tomorrow-dasu.
+Dialogue: 0,0:04:06.95,0:04:08.46,Default,en,0,0,0,,We're going right now!
+Dialogue: 0,0:04:09.16,0:04:12.96,Default,en,0,0,0,,I made an oath to myself to protect the throne of the Highness!
+Dialogue: 0,0:04:13.36,0:04:15.71,Default,en,0,0,0,,Can't you hear me, Musashi?!
+Dialogue: 0,0:04:15.71,0:04:18.14,Default,en,0,0,0,,No, but still...
+Dialogue: 0,0:04:18.14,0:04:24.37,Default,en,0,0,0,,But, Senhime, this is too dangerous. Lord Ieyasu will not forgive us.
+Dialogue: 0,0:04:24.77,0:04:30.52,Default,en,0,0,0,,Hey, it's still dangerous to be here. They'll come attack anyway!
+Dialogue: 0,0:04:30.52,0:04:31.55,Default,en,0,0,0,,But...
+Dialogue: 0,0:04:31.55,0:04:32.04,Default,en,0,0,0,,Huh?
+Dialogue: 0,0:04:33.30,0:04:33.93,Default,en,0,0,0,,What's wrong?
+Dialogue: 0,0:04:34.29,0:04:34.97,Default,en,0,0,0,,What's that?
+Dialogue: 0,0:04:34.97,0:04:35.48,Default,en,0,0,0,,Huh?
+Dialogue: 0,0:04:37.71,0:04:40.29,Default,en,0,0,0,,That's light communication from Mr. Ryoma!
+Dialogue: 0,0:04:40.77,0:04:42.40,Default,en,0,0,0,,Mr. Ryoma?
+Dialogue: 0,0:04:42.70,0:04:43.68,Default,en,0,0,0,,What's he saying-dasu?
+Dialogue: 0,0:04:45.45,0:04:49.42,Default,en,0,0,0,,I witnessed Megaton Castle at the harbor.
+Dialogue: 0,0:04:49.97,0:04:54.14,Default,en,0,0,0,,Megaton Castle! What a good timing! We must hurry!
+Dialogue: 0,0:04:54.14,0:04:58.26,Default,en,0,0,0,,No! Unless Lord Ieyasu allows us to, I can't follow you!
+Dialogue: 0,0:04:58.52,0:04:59.63,Default,en,0,0,0,,I have Otsuru too...
+Dialogue: 0,0:04:59.84,0:05:03.33,Default,en,0,0,0,,Megaton Castle is disappearing again while you're saying that!
+Dialogue: 0,0:05:04.00,0:05:06.39,Default,en,0,0,0,,I'll tell Lord Ieyasu about this.
+Dialogue: 0,0:05:07.24,0:05:09.40,Default,en,0,0,0,,Jiraiyan! Thank you! Please do so!
+Dialogue: 0,0:05:09.40,0:05:10.25,Default,en,0,0,0,,But...
+Dialogue: 0,0:05:10.65,0:05:16.17,Default,en,0,0,0,,Oh, alright, Kojirō, you don't have follow me. You're fine with me being endangered, right?
+Dialogue: 0,0:05:16.17,0:05:18.25,Default,en,0,0,0,,That's why I'm stopping you!
+Dialogue: 0,0:05:18.25,0:05:19.55,Default,en,0,0,0,,Let's go, Musashi!
+Dialogue: 0,0:05:20.32,0:05:23.70,Default,en,0,0,0,,Jiraiyan, tell Otsuru that I can't make it by six today-dasu!
+Dialogue: 0,0:05:24.00,0:05:24.61,Default,en,0,0,0,,Got it!
+Dialogue: 0,0:05:26.62,0:05:27.94,Default,en,0,0,0,,Well.
+Dialogue: 0,0:05:28.68,0:05:29.45,Default,en,0,0,0,,Princess!
+Dialogue: 0,0:05:32.23,0:05:34.19,Default,en,0,0,0,,Mr. Musashi! This way!
+Dialogue: 0,0:05:35.77,0:05:38.04,Default,en,0,0,0,,Mr. Ryoma! Thank you for letting us know-dasu!
+Dialogue: 0,0:05:38.31,0:05:40.25,Default,en,0,0,0,,Good to know that I helped you.
+Dialogue: 0,0:05:40.48,0:05:42.26,Default,en,0,0,0,,So, where did the monster head to?
+Dialogue: 0,0:05:42.67,0:05:44.64,Default,en,0,0,0,,It headed to west.
+Dialogue: 0,0:05:45.48,0:05:48.06,Default,en,0,0,0,,Then it must be heading to Seto Inland Sea.
+Dialogue: 0,0:05:49.10,0:05:50.85,Default,en,0,0,0,,Anyway, thank you for letting us ride, Mr. Ryoma.
+Dialogue: 0,0:05:51.40,0:05:55.07,Default,en,0,0,0,,Irohamaru is heading to Seto Inland Sea, too. Leave it to me.
+Dialogue: 0,0:05:55.50,0:05:57.45,Default,en,0,0,0,,Depart! Unfurl the sail!
+Dialogue: 0,0:06:02.86,0:06:06.15,Default,en,0,0,0,,Otsuru! See you later-dasu!
+Dialogue: 0,0:06:07.07,0:06:11.59,Default,en,0,0,0,,{\i1}Your Highness, I will take the shield and the jewel back for you.
+Dialogue: 0,0:06:19.59,0:06:21.56,Default,en,0,0,0,,What is it, Hanzō?
+Dialogue: 0,0:06:22.68,0:06:25.77,Default,en,0,0,0,,Dokuganryu. Wouldn't you want to stop Megaton Castle?
+Dialogue: 0,0:06:26.17,0:06:27.64,Default,en,0,0,0,,What? Why?
+Dialogue: 0,0:06:28.23,0:06:33.41,Default,en,0,0,0,,It's obvious. We'll go back and take the life of the king and the sacred sword.
+Dialogue: 0,0:06:33.41,0:06:39.24,Default,en,0,0,0,,But you should be knowing what will happen if you act against the order of Lord Rikudomaoh.
+Dialogue: 0,0:06:39.77,0:06:44.20,Default,en,0,0,0,,Hmph. They won't come to attack Megaton Castle anyway.
+Dialogue: 0,0:06:46.28,0:06:51.82,Default,en,0,0,0,,Captain Dokuganryu! Please come back to the control room immediately! A suspicious ship is following us!
+Dialogue: 0,0:07:00.92,0:07:04.12,Default,en,0,0,0,,That must be Irohamaru of some guy called Ryoma.
+Dialogue: 0,0:07:04.95,0:07:07.26,Default,en,0,0,0,,I knew it. Those brats.
+Dialogue: 0,0:07:09.81,0:07:11.30,Default,en,0,0,0,,Prepare to attack!
+Dialogue: 0,0:07:13.43,0:07:14.18,Default,en,0,0,0,,What's that-dasu?
+Dialogue: 0,0:07:14.44,0:07:15.35,Default,en,0,0,0,,What's wrong, Musashi?
+Dialogue: 0,0:07:15.81,0:07:18.31,Default,en,0,0,0,,Something weird is heading towards the ship quickly-dasu.
+Dialogue: 0,0:07:19.13,0:07:20.23,Default,en,0,0,0,,Something weird?
+Dialogue: 0,0:07:22.32,0:07:23.15,Default,en,0,0,0,,Torpedos!
+Dialogue: 0,0:07:23.15,0:07:25.11,Default,en,0,0,0,,What should we do, what should we do?!
+Dialogue: 0,0:07:26.40,0:07:28.11,Default,en,0,0,0,,Turn big to right!
+Dialogue: 0,0:07:37.27,0:07:38.41,Default,en,0,0,0,,Is it over?
+Dialogue: 0,0:07:38.41,0:07:40.01,Default,en,0,0,0,,No, not yet.
+Dialogue: 0,0:07:41.17,0:07:43.02,Default,en,0,0,0,,He's right! It's coming again-dasu!
+Dialogue: 0,0:07:43.78,0:07:46.16,Default,en,0,0,0,,Turn big to left! Evade!
+Dialogue: 0,0:07:58.90,0:07:59.70,Default,en,0,0,0,,Damn!
+Dialogue: 0,0:08:03.67,0:08:05.45,Default,en,0,0,0,,We'll be hit-dasu!
+Dialogue: 0,0:08:09.29,0:08:10.97,Default,en,0,0,0,,Mr. Musashi!
+Dialogue: 0,0:08:11.82,0:08:13.86,Default,en,0,0,0,,Mr. Musashi!
+Dialogue: 0,0:08:14.20,0:08:16.12,Default,en,0,0,0,,Jiraiyan! Ms. Otsuru, too!
+Dialogue: 0,0:08:16.34,0:08:18.04,Default,en,0,0,0,,Otsuru!
+Dialogue: 0,0:08:18.63,0:08:19.66,Default,en,0,0,0,,Kerokichi! Do it!
+Dialogue: 0,0:08:32.79,0:08:36.73,Default,en,0,0,0,,Captain! The torpedoes have changed their routes and are returning fast!
+Dialogue: 0,0:08:37.25,0:08:38.25,Default,en,0,0,0,,Intercept!
+Dialogue: 0,0:08:38.25,0:08:39.90,Default,en,0,0,0,,It's impossible! There's not enough time!
+Dialogue: 0,0:08:48.15,0:08:53.51,Default,en,0,0,0,,Thrust 20% decreased! The 4th floor bulkhead is wrecked! 500L of water is coming in every second!
+Dialogue: 0,0:08:54.70,0:08:59.14,Default,en,0,0,0,,It can't be helped! Cease firing and take emergency measures to respective places!
+Dialogue: 0,0:08:59.91,0:09:00.36,Default,en,0,0,0,,Hmph.
+Dialogue: 0,0:09:07.09,0:09:08.71,Default,en,0,0,0,,Otsuru! What's up-dasu?
+Dialogue: 0,0:09:09.08,0:09:10.99,Default,en,0,0,0,,I was worried, you know.
+Dialogue: 0,0:09:11.29,0:09:12.37,Default,en,0,0,0,,Here's your dangos!
+Dialogue: 0,0:09:12.90,0:09:16.26,Default,en,0,0,0,,I'm so happy that you brought dangos for me-dasu!
+Dialogue: 0,0:09:17.71,0:09:21.85,Default,en,0,0,0,,Mr. Musashi, I'd like to go with you.
+Dialogue: 0,0:09:22.36,0:09:25.41,Default,en,0,0,0,,You can't fight when you're hungry!
+Dialogue: 0,0:09:26.13,0:09:27.05,Default,en,0,0,0,,Otsuru!
+Dialogue: 0,0:09:27.48,0:09:31.49,Default,en,0,0,0,,Moreover, Kerokichi brought dango stand, too!
+Dialogue: 0,0:09:31.49,0:09:36.34,Default,en,0,0,0,,Therefore you can have dangos as much as you want every day! Everyone can eat, too!
+Dialogue: 0,0:09:36.34,0:09:38.62,Default,en,0,0,0,,That's good to know!
+Dialogue: 0,0:09:40.51,0:09:41.73,Default,en,0,0,0,,I disagree.
+Dialogue: 0,0:09:42.37,0:09:47.39,Default,en,0,0,0,,We have an important mission. What if something happens to that girl if she goes with us?
+Dialogue: 0,0:09:47.99,0:09:52.62,Default,en,0,0,0,,I'll protect her when that happens-dasu. It won't bother you-dasu!
+Dialogue: 0,0:09:53.26,0:09:56.55,Default,en,0,0,0,,You can't destroy Megaton Castle with that kind of way of thinking.
+Dialogue: 0,0:09:56.86,0:09:57.77,Default,en,0,0,0,,But...
+Dialogue: 0,0:09:57.77,0:09:58.79,Default,en,0,0,0,,Anyway, no!
+Dialogue: 0,0:09:59.46,0:10:00.75,Default,en,0,0,0,,Are you okay, Mr. Musashi?
+Dialogue: 0,0:10:01.11,0:10:03.78,Default,en,0,0,0,,Now, let's continue tracking Megaton Castle!
+Dialogue: 0,0:10:04.17,0:10:05.49,Default,en,0,0,0,,Y- yes...
+Dialogue: 0,0:10:05.89,0:10:11.66,Default,en,0,0,0,,Otsuru, don't feel down-dasu. I'll ask Osenchan later on again-dasu.
+Dialogue: 0,0:10:12.71,0:10:14.46,Default,en,0,0,0,,Musashi! What are you doing?!
+Dialogue: 0,0:10:14.69,0:10:16.95,Default,en,0,0,0,,Got it-dasu! Later.
+Dialogue: 0,0:10:23.84,0:10:30.12,Default,en,0,0,0,,This is weird-dasu. Even for Megaton Castle, it should have received fair amount of damage by the torpedoes...
+Dialogue: 0,0:10:30.12,0:10:32.01,Default,en,0,0,0,,I can't see its shadow or its form-dasu.
+Dialogue: 0,0:10:33.00,0:10:35.28,Default,en,0,0,0,,It must be deep in the sea.
+Dialogue: 0,0:10:35.95,0:10:42.82,Default,en,0,0,0,,Considering that it appears around Seto Inland Sea, their hideout must be around here somewhere.
+Dialogue: 0,0:10:44.39,0:10:51.44,Default,en,0,0,0,,Mr. Ryoma, can you lend us a small ship and a sub? I'd like to investigate the seabed with Musashi.
+Dialogue: 0,0:10:51.44,0:10:56.11,Default,en,0,0,0,,But there's a rumor that the monster swallows fisher boats. It's too dangerous.
+Dialogue: 0,0:10:56.38,0:10:59.00,Default,en,0,0,0,,I am well aware of the dangers. Musashi.
+Dialogue: 0,0:10:59.68,0:11:00.84,Default,en,0,0,0,,Understood-dasu.
+Dialogue: 0,0:11:01.33,0:11:04.35,Default,en,0,0,0,,All right. If you're prepared for anything, then I'll happily lend those to you.
+Dialogue: 0,0:11:15.65,0:11:19.44,Default,en,0,0,0,,How incompetent of you, to bring an unnecessary present.
+Dialogue: 0,0:11:19.44,0:11:25.88,Default,en,0,0,0,,I apologize for that, but they're nothing more than jumping into their own disaster. We'll finish them at once.
+Dialogue: 0,0:11:26.13,0:11:29.36,Default,en,0,0,0,,You're saying big, but are you absolutely sure about that?
+Dialogue: 0,0:11:30.62,0:11:35.80,Default,en,0,0,0,,We brought them for an ingenious scheme. Please listen to us for now.
+Dialogue: 0,0:11:36.07,0:11:41.95,Default,en,0,0,0,,Musashi and others have entered Seto Inland sea. But a fearful trap is waiting in front of them.
+Dialogue: 0,0:11:42.16,0:11:47.49,Default,en,0,0,0,,What will happen to them? Wait for the stormy latter half!
+Dialogue: 0,0:11:47.49,0:11:52.46,Eyecatch,en,0,0,0,,Karakuri Kengouden: Musashi Road
+Dialogue: 0,0:12:20.63,0:12:27.19,Default,en,0,0,0,,Great. Musashi and Kojirō are looking for stupid places. Use this chance to capture Senhime per our plan.
+Dialogue: 0,0:12:27.94,0:12:31.35,Default,en,0,0,0,,Yessir. But what if Senhime doesn't get off the ship?
+Dialogue: 0,0:12:31.93,0:12:37.60,Default,en,0,0,0,,That restive horse cannot possibly stay on the ship.
+Dialogue: 0,0:12:46.13,0:12:50.70,Default,en,0,0,0,,I'm bored. Maybe I should have gone with Musashi.
+Dialogue: 0,0:12:50.70,0:12:52.24,Default,en,0,0,0,,How thoughtful of you.
+Dialogue: 0,0:12:53.99,0:13:02.02,Default,en,0,0,0,,I want to make a food for everyone that will cheer them up. Please let me cook dinner this time.
+Dialogue: 0,0:13:02.36,0:13:03.66,Default,en,0,0,0,,Then, please do so!
+Dialogue: 0,0:13:04.16,0:13:06.79,Default,en,0,0,0,,Great! I'll go get water!
+Dialogue: 0,0:13:09.96,0:13:11.74,Default,en,0,0,0,,Otsuru!
+Dialogue: 0,0:13:14.46,0:13:16.12,Default,en,0,0,0,,Can I help you with gathering water?
+Dialogue: 0,0:13:16.12,0:13:18.84,Default,en,0,0,0,,-Huh?\N-Two is always better, right?
+Dialogue: 0,0:13:18.84,0:13:20.42,Default,en,0,0,0,,Let's make food for them today!
+Dialogue: 0,0:13:21.03,0:13:22.97,Default,en,0,0,0,,I'm fine without you. I'll do it alone.
+Dialogue: 0,0:13:26.91,0:13:29.55,Default,en,0,0,0,,I knew that she would refuse...
+Dialogue: 0,0:13:29.55,0:13:36.20,Default,en,0,0,0,,Senhime must be hating me. She's trying to celebrate my leave.
+Dialogue: 0,0:13:37.11,0:13:40.48,Default,en,0,0,0,,But could it not be it? Maybe I'm misunderstanding...
+Dialogue: 0,0:13:41.24,0:13:48.96,Default,en,0,0,0,,No, that's obvious. Or she wouldn't be playing with Musashi all the time whenever I'm in front of them.
+Dialogue: 0,0:13:49.40,0:13:51.59,Default,en,0,0,0,,I won't lose no matter what.
+Dialogue: 0,0:13:57.91,0:13:59.28,Default,en,0,0,0,,What a pure spring!
+Dialogue: 0,0:14:02.44,0:14:03.39,Default,en,0,0,0,,It's cold!
+Dialogue: 0,0:14:15.79,0:14:16.78,Default,en,0,0,0,,How awesome.
+Dialogue: 0,0:14:18.98,0:14:21.55,Default,en,0,0,0,,You don't have to follow me, really!
+Dialogue: 0,0:14:22.02,0:14:24.28,Default,en,0,0,0,,Mr. Ryoma's going to scold us if we don't!
+Dialogue: 0,0:14:24.48,0:14:28.72,Default,en,0,0,0,,{\i1}At this rate, I won't be able to talk with Otsuru at ease!
+Dialogue: 0,0:14:30.40,0:14:32.16,Default,en,0,0,0,,Help me!
+Dialogue: 0,0:14:32.16,0:14:33.04,Default,en,0,0,0,,Otsuru!
+Dialogue: 0,0:14:33.04,0:14:34.29,Default,en,0,0,0,,Senhime!
+Dialogue: 0,0:14:34.55,0:14:35.47,Default,en,0,0,0,,What's this?
+Dialogue: 0,0:14:44.86,0:14:47.20,Default,en,0,0,0,,Mr. Musashi!
+Dialogue: 0,0:14:50.51,0:14:51.97,Default,en,0,0,0,,Stop!
+Dialogue: 0,0:14:52.29,0:14:53.22,Default,en,0,0,0,,Otsuru!
+Dialogue: 0,0:14:53.70,0:14:55.17,Default,en,0,0,0,,Senhime!
+Dialogue: 0,0:14:55.17,0:14:57.27,Default,en,0,0,0,,Senhime! Leave this to us!
+Dialogue: 0,0:15:03.32,0:15:04.91,Default,en,0,0,0,,Senhime! Run away!
+Dialogue: 0,0:15:07.40,0:15:08.98,Default,en,0,0,0,,Put Otsuru down!
+Dialogue: 0,0:15:17.25,0:15:18.32,Default,en,0,0,0,,Senhime!
+Dialogue: 0,0:15:24.88,0:15:27.12,Default,en,0,0,0,,Senhime! You can stop it now!
+Dialogue: 0,0:15:32.86,0:15:37.81,Default,en,0,0,0,,Hey, wait a moment. I think we got a wrong girl in the trap. Isn't that Senhime instead?
+Dialogue: 0,0:15:38.43,0:15:40.11,Default,en,0,0,0,,You mean that girl covered in mud?
+Dialogue: 0,0:15:41.20,0:15:44.33,Default,en,0,0,0,,I can't really distinguish from this description, but you might be true.
+Dialogue: 0,0:15:45.70,0:15:48.97,Default,en,0,0,0,,We might have ended up being scolded by Lord Hanzō!
+Dialogue: 0,0:15:54.06,0:15:57.77,Default,en,0,0,0,,What are you doing?! Let me go!
+Dialogue: 0,0:16:01.86,0:16:03.18,Default,en,0,0,0,,Senhime!
+Dialogue: 0,0:16:06.05,0:16:06.95,Default,en,0,0,0,,Stop!
+Dialogue: 0,0:16:10.28,0:16:11.64,Default,en,0,0,0,,Otsuru!
+Dialogue: 0,0:16:12.95,0:16:13.92,Default,en,0,0,0,,Mr. Musashi!
+Dialogue: 0,0:16:14.70,0:16:16.76,Default,en,0,0,0,,Otsuru, are you injured-dasu?
+Dialogue: 0,0:16:17.82,0:16:21.81,Default,en,0,0,0,,Mr. Musashi! Senhime... Senhime was...
+Dialogue: 0,0:16:21.81,0:16:24.04,Default,en,0,0,0,,Otsuru, It's not your fault-dasu!
+Dialogue: 0,0:16:24.04,0:16:26.15,Default,en,0,0,0,,I- I was wrong.
+Dialogue: 0,0:16:28.91,0:16:30.80,Default,en,0,0,0,,So, what did they say?
+Dialogue: 0,0:16:31.42,0:16:33.74,Default,en,0,0,0,,They left this letter.
+Dialogue: 0,0:16:34.68,0:16:43.24,Note,en,0,0,0,,(hour of rooster: 5:00~7:00 PM)
+Dialogue: 0,0:16:34.68,0:16:43.24,Default,en,0,0,0,,To Musashi and Kojirō. To rescue Senhime, come to Senjo Valley at the hour of rooster, only by you two. Hanzō.
+Dialogue: 0,0:16:43.78,0:16:46.33,Default,en,0,0,0,,He always uses dirty tricks-dasu!
+Dialogue: 0,0:16:47.82,0:16:49.89,Default,en,0,0,0,,Senhime!
+Dialogue: 0,0:16:49.89,0:16:54.20,Default,en,0,0,0,,Otsuru, it'll be all right-dasu! I'll rescue Osenchan no matter what!
+Dialogue: 0,0:16:54.47,0:16:55.33,Default,en,0,0,0,,Mr. Musashi...
+Dialogue: 0,0:16:55.72,0:16:57.76,Default,en,0,0,0,,That Hanzō is unforgivable-dasu!
+Dialogue: 0,0:17:00.83,0:17:02.87,Default,en,0,0,0,,Under that cliff is Senjo Valley.
+Dialogue: 0,0:17:05.85,0:17:07.26,Default,en,0,0,0,,So deep-dasu...
+Dialogue: 0,0:17:07.60,0:17:08.99,Default,en,0,0,0,,It's almost time.
+Dialogue: 0,0:17:13.15,0:17:13.75,Default,en,0,0,0,,What's that-dasu?
+Dialogue: 0,0:17:17.02,0:17:17.75,Default,en,0,0,0,,Osenchan!
+Dialogue: 0,0:17:17.75,0:17:18.67,Default,en,0,0,0,,Senhime!
+Dialogue: 0,0:17:19.89,0:17:20.81,Default,en,0,0,0,,Stop-dasu!
+Dialogue: 0,0:17:20.81,0:17:22.03,Default,en,0,0,0,,Be careful, Musashi!
+Dialogue: 0,0:17:22.03,0:17:23.97,Default,en,0,0,0,,Of course-dasu!
+Dialogue: 0,0:17:29.93,0:17:31.53,Default,en,0,0,0,,Stop-dasu!
+Dialogue: 0,0:17:51.77,0:17:52.69,Default,en,0,0,0,,Damn!
+Dialogue: 0,0:17:53.15,0:17:54.10,Default,en,0,0,0,,Musashi!
+Dialogue: 0,0:17:55.86,0:17:57.65,Default,en,0,0,0,,You've fallen into my trap.
+Dialogue: 0,0:17:58.40,0:18:00.46,Default,en,0,0,0,,You always act like fools!
+Dialogue: 0,0:18:00.88,0:18:03.68,Default,en,0,0,0,,We already knew that this was a trap! Now, let Senhime go!
+Dialogue: 0,0:18:04.00,0:18:07.89,Default,en,0,0,0,,You can rescue her from the wooden horse by yourselves. If you survive, that is.
+Dialogue: 0,0:18:14.48,0:18:16.38,Default,en,0,0,0,,-Let's go, Musashi!\N-Right!
+Dialogue: 0,0:19:06.56,0:19:07.28,Default,en,0,0,0,,What's that-dasu?
+Dialogue: 0,0:19:09.06,0:19:14.06,Default,en,0,0,0,,I forgot to tell you that mines are all over that village. Be careful!
+Dialogue: 0,0:19:17.50,0:19:18.87,Default,en,0,0,0,,Damn!
+Dialogue: 0,0:19:22.29,0:19:23.15,Default,en,0,0,0,,Mr. Musashi...
+Dialogue: 0,0:19:23.80,0:19:27.89,Default,en,0,0,0,,Judging from your story, the wooden horse should be being controlled by someone nearby.
+Dialogue: 0,0:19:28.34,0:19:29.60,Default,en,0,0,0,,Around this place...
+Dialogue: 0,0:19:30.80,0:19:31.37,Default,en,0,0,0,,Over there!
+Dialogue: 0,0:19:31.60,0:19:31.97,Default,en,0,0,0,,Huh?
+Dialogue: 0,0:19:39.18,0:19:41.17,Default,en,0,0,0,,It seems that our job is over.
+Dialogue: 0,0:19:44.73,0:19:46.82,Default,en,0,0,0,,Alright! Move the wooden horse to here!
+Dialogue: 0,0:19:46.82,0:19:47.83,Default,en,0,0,0,,Yessir! Huh?
+Dialogue: 0,0:19:49.46,0:19:50.39,Default,en,0,0,0,,Damn!
+Dialogue: 0,0:19:51.48,0:19:52.71,Default,en,0,0,0,,Senhime!
+Dialogue: 0,0:19:56.20,0:19:58.04,Default,en,0,0,0,,Otsuru! Where is Musashi and Kojirō?
+Dialogue: 0,0:19:58.04,0:19:59.90,Default,en,0,0,0,,They fell into a trap...
+Dialogue: 0,0:20:02.37,0:20:03.79,Default,en,0,0,0,,Get on, Otsuru.
+Dialogue: 0,0:20:04.27,0:20:04.68,Default,en,0,0,0,,Yes!
+Dialogue: 0,0:20:05.41,0:20:07.29,Default,en,0,0,0,,Hey, you two! It's dangerous!
+Dialogue: 0,0:20:07.29,0:20:08.82,Default,en,0,0,0,,Alright, let's go!
+Dialogue: 0,0:20:09.31,0:20:10.24,Default,en,0,0,0,,Hey, stop!
+Dialogue: 0,0:20:11.53,0:20:13.33,Default,en,0,0,0,,Of course, they won't listen.
+Dialogue: 0,0:20:16.02,0:20:16.86,Default,en,0,0,0,,Kojirō!
+Dialogue: 0,0:20:17.99,0:20:18.78,Default,en,0,0,0,,I'm fine.
+Dialogue: 0,0:20:23.78,0:20:28.64,Default,en,0,0,0,,It's time for you to be punished. You'd better fall onto the mine surface and smashed to small fragments.
+Dialogue: 0,0:20:28.64,0:20:29.99,Default,en,0,0,0,,Damn!
+Dialogue: 0,0:20:29.99,0:20:31.74,Default,en,0,0,0,,Musashi!
+Dialogue: 0,0:20:36.88,0:20:38.90,Default,en,0,0,0,,Damn! They approached?
+Dialogue: 0,0:20:41.66,0:20:43.32,Default,en,0,0,0,,Don't come! It's dangerous here-dasu!
+Dialogue: 0,0:20:43.56,0:20:44.53,Default,en,0,0,0,,Senhime!
+Dialogue: 0,0:20:52.76,0:20:54.16,Default,en,0,0,0,,Mr. Musashi!
+Dialogue: 0,0:21:09.13,0:21:10.05,Default,en,0,0,0,,Mr. Musashi!
+Dialogue: 0,0:21:10.58,0:21:11.59,Default,en,0,0,0,,Musashi!
+Dialogue: 0,0:21:14.64,0:21:15.47,Default,en,0,0,0,,Get on!
+Dialogue: 0,0:21:24.01,0:21:28.38,Default,en,0,0,0,,Hothothothot! Damn, this again! Remember this!
+Dialogue: 0,0:21:37.93,0:21:39.61,Default,en,0,0,0,,Thank you, Otsuru.
+Dialogue: 0,0:21:39.82,0:21:43.63,Default,en,0,0,0,,Senhime, I'm sorry. I thought wrongly of you...
+Dialogue: 0,0:21:44.91,0:21:48.97,Default,en,0,0,0,,It's alright. You rescued me, you know.
+Dialogue: 0,0:21:49.61,0:21:51.46,Default,en,0,0,0,,Please keep helping like this.
+Dialogue: 0,0:21:51.46,0:21:54.28,Default,en,0,0,0,,Yes! Does that mean I can stay together?
+Dialogue: 0,0:21:54.58,0:21:59.46,Default,en,0,0,0,,Of course. With our power combined, we might not need Musashi at all!
+Dialogue: 0,0:22:00.08,0:22:05.29,Default,en,0,0,0,,Wait! You shouldn't looking down of them-dasu! You're safe because I'm here!
+Dialogue: 0,0:22:05.29,0:22:09.10,Default,en,0,0,0,,I know that, you silly! Let's combine all our powers and do our best!
+Dialogue: 0,0:22:11.08,0:22:13.54,Default,en,0,0,0,,A crisis is gone, thanks to the victory of teamwork.
+Dialogue: 0,0:22:13.54,0:22:18.71,Default,en,0,0,0,,But they still have to chase Megaton Castle and recover the shield and the jewel.
+Dialogue: 0,0:22:19.00,0:22:25.74,Default,en,0,0,0,,Thanks to the smile of reconciliation between Senhime and Otsuru, Musashi was burning with a new determination.
+Dialogue: 0,0:22:44.03,0:22:47.24,SongED1,en,0,0,0,,I fought and I got beaten
+Dialogue: 0,0:22:47.24,0:22:49.99,SongED1,en,0,0,0,,Nosebleed drips rendezvous
+Dialogue: 0,0:22:50.24,0:22:52.66,SongED1,en,0,0,0,,I can't lose, so take my blow!
+Dialogue: 0,0:22:52.66,0:22:55.25,SongED1,en,0,0,0,,Pinch! Punch! I won by reversal
+Dialogue: 0,0:22:56.04,0:22:59.17,SongED1,en,0,0,0,,Next is delightful lunchtime
+Dialogue: 0,0:22:59.17,0:23:02.30,SongED1,en,0,0,0,,But it's not delightful today
+Dialogue: 0,0:23:02.30,0:23:04.59,SongED1,en,0,0,0,,The thunder of my teacher
+Dialogue: 0,0:23:04.59,0:23:07.14,SongED1,en,0,0,0,,only hit me and nobody else
+Dialogue: 0,0:23:08.60,0:23:11.39,SongED1,en,0,0,0,,I tried to explain
+Dialogue: 0,0:23:11.39,0:23:14.10,SongED1,en,0,0,0,,But he won't listen
+Dialogue: 0,0:23:14.68,0:23:17.19,SongED1,en,0,0,0,,Now whatever I do
+Dialogue: 0,0:23:17.19,0:23:19.61,SongED1,en,0,0,0,,I end up crying
+Dialogue: 0,0:23:19.61,0:23:23.48,SongED1,en,0,0,0,,Don't cry when you eat, or
+Dialogue: 0,0:23:23.48,0:23:25.61,SongED1,en,0,0,0,,it tastes totally bad
+Dialogue: 0,0:23:25.61,0:23:29.57,SongED1,en,0,0,0,,Don't cry when you eat, or
+Dialogue: 0,0:23:29.57,0:23:31.62,SongED1,en,0,0,0,,it tastes totally bad
+Dialogue: 0,0:23:31.62,0:23:35.62,SongED1,en,0,0,0,,Don't cry when you eat, or
+Dialogue: 0,0:23:35.62,0:23:37.62,SongED1,en,0,0,0,,it tastes totally bad
+Dialogue: 0,0:23:37.62,0:23:41.63,SongED1,en,0,0,0,,Don't cry when you eat, or
+Dialogue: 0,0:23:41.63,0:23:44.26,SongED1,en,0,0,0,,you'll feel downhearted
+Dialogue: 0,0:24:04.50,0:24:08.32,Default,en,0,0,0,,We're doing everything we can to discover the base of Rikudomaoh-dasu!
+Dialogue: 0,0:24:08.32,0:24:10.94,Default,en,0,0,0,,At there, a spy of Mr. Jūbee took us an information-dasu.
+Dialogue: 0,0:24:11.34,0:24:16.33,Default,en,0,0,0,,The true identity of Rikudomaoh is Nobunaga-dasu! But then Shingen appeared again!
+Dialogue: 0,0:24:16.33,0:24:19.54,Default,en,0,0,0,,In addition, Kenshin appeared and they combined-dasu!
+Dialogue: 0,0:24:19.86,0:24:21.67,Default,en,0,0,0,,We're in big crisis-dasu!
+Dialogue: 0,0:24:22.05,0:24:24.62,Default,en,0,0,0,,Next story! Shingenshin of Sky and Ground
+Dialogue: 0,0:24:24.62,0:24:27.34,Default,en,0,0,0,,It's the stormy Seto Inland Sea-dasu!
+Dialogue: 0,0:24:26.21,0:24:30.30,NoteOnAnime,en,60,0,60,,{\an7}Next Episode
+Dialogue: 0,0:24:26.21,0:24:30.30,TitleEP,en,0,0,220,,Shingenshin
+Dialogue: 0,0:24:26.21,0:24:30.30,TitleEP,en,0,0,80,,of Sky and Ground
+Dialogue: 0,0:24:26.21,0:24:30.30,NoteOnAnime,en,0,60,30,,{\an3\fs32}Look forwards for it!

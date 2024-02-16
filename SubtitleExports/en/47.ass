@@ -1,0 +1,346 @@
+﻿[Script Info]
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 480
+Title: Destroy Babel 13
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: NoteOnAnime,Candara,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,10,1
+Style: SongOP,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: TitleOP,DejaVu Serif,42,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: TitleEP,DejaVu Serif,42,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: SongED1,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: Note,Candara,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,10,10,10,1
+Style: Eyecatch,Candara,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,10,10,10,1
+Style: NoteOnAnimeVert,@맑은 고딕,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,10,1
+Style: InsOtsuru,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.39,0:00:06.55,Default,en,0,0,0,,It is the turbulent Sengoku period.
+Dialogue: 0,0:00:07.09,0:00:11.50,Default,en,0,0,0,,Warlords keep on fighting day and night over\NJipangu State, where Karakuri people live.
+Dialogue: 0,0:00:11.85,0:00:16.21,Default,en,0,0,0,,Karakuri martial artists were sharpening their swords, dreaming of victory and honor.
+Dialogue: 0,0:00:16.84,0:00:23.16,Default,en,0,0,0,,And now, a wild hero has arrived, seeking to be the number one Karakuri martial artist!
+Dialogue: 0,0:00:24.45,0:00:26.88,Default,en,0,0,0,,Musashi is here-{\i1}dasu{\i0}!
+Dialogue: 0,0:00:27.87,0:00:33.21,TitleOP,en,0,0,40,,{\an8\fs32\fade(770,0)}Karakuri Kengouden
+Dialogue: 0,0:00:27.87,0:00:33.21,TitleOP,en,0,0,40,,{\fade(770,0)}Musashi Road
+Dialogue: 0,0:00:27.87,0:00:33.21,TitleOP,en,0,0,40,,{\fs24\fade(770,0)}(The Story of {\i1}Karakuri{\i0} Martial Artist: Road of Musashi)
+Dialogue: 0,0:00:33.21,0:00:38.05,SongOP,en,0,0,0,,A man always dreams of the day
+Dialogue: 0,0:00:38.88,0:00:41.80,SongOP,en,0,0,0,,in the center of the world to become
+Dialogue: 0,0:00:41.80,0:00:44.68,SongOP,en,0,0,0,,AH! AH! the strongest
+Dialogue: 0,0:00:44.68,0:00:49.73,SongOP,en,0,0,0,,Raise the sword of your heart high to the wide sky
+Dialogue: 0,0:00:50.35,0:00:54.36,SongOP,en,0,0,0,,Raise the curtain to the road of adventure
+Dialogue: 0,0:00:55.69,0:01:00.95,SongOP,en,0,0,0,,A skilled swordsman roams on Jipangu State
+Dialogue: 0,0:01:01.53,0:01:06.58,SongOP,en,0,0,0,,His name is Musashi, a Karakuri man
+Dialogue: 0,0:01:06.58,0:01:08.08,SongOP,en,0,0,0,,Go! Fight!
+Dialogue: 0,0:01:08.08,0:01:11.00,SongOP,en,0,0,0,,The sound of fierce duels
+Dialogue: 0,0:01:11.00,0:01:13.84,SongOP,en,0,0,0,,makes life dazzling
+Dialogue: 0,0:01:13.84,0:01:19.30,SongOP,en,0,0,0,,Battles of yesterdays make you stronger today
+Dialogue: 0,0:01:19.34,0:01:25.56,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
+Dialogue: 0,0:01:25.56,0:01:28.44,SongOP,en,0,0,0,,Tomorrow will be glorious
+Dialogue: 0,0:01:28.44,0:01:31.02,SongOP,en,0,0,0,,The sound of fierce duels
+Dialogue: 0,0:01:31.02,0:01:33.52,SongOP,en,0,0,0,,makes life dazzling
+Dialogue: 0,0:01:34.23,0:01:39.61,SongOP,en,0,0,0,,Fight the utmost with the stillness
+Dialogue: 0,0:01:39.66,0:01:45.87,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
+Dialogue: 0,0:01:45.87,0:01:51.08,SongOP,en,0,0,0,,His eyes shined! Musashi!
+Dialogue: 0,0:01:59.83,0:02:07.13,Default,en,0,0,0,,After discovering the base of Nobunaga, after all the possible ways, Musashi and others managed to invade into Babel 13.
+Dialogue: 0,0:02:07.62,0:02:14.73,Default,en,0,0,0,,Right before taking Nobunaga down, they fell into Hanzō's trap, and their lives are at stake.
+Dialogue: 0,0:02:15.06,0:02:17.86,Default,en,0,0,0,,What will happen to them?
+Dialogue: 0,0:02:18.27,0:02:23.28,TitleEP,en,0,0,220,,Destroy
+Dialogue: 0,0:02:18.27,0:02:23.28,TitleEP,en,0,0,90,,Babel 13
+Dialogue: 0,0:02:26.41,0:02:27.60,Default,en,0,0,0,,Are you okay, Musashi?
+Dialogue: 0,0:02:27.60,0:02:30.85,Default,en,0,0,0,,I almost ended up drowning-{\i1}dasu{\i0}!
+Dialogue: 0,0:02:33.81,0:02:37.47,Default,en,0,0,0,,What a sight. That's what you get for trying to get in my way!
+Dialogue: 0,0:02:37.74,0:02:40.68,Default,en,0,0,0,,You bastard! Whatever you want won't happen!
+Dialogue: 0,0:02:45.56,0:02:46.60,Default,en,0,0,0,,No use, no use!
+Dialogue: 0,0:02:46.60,0:02:49.15,Default,en,0,0,0,,Damn! I don't want to die here!
+Dialogue: 0,0:02:49.62,0:02:54.02,Default,en,0,0,0,,I can't die until I eat more of Otsuru's dangos-{\i1}dasu{\i0}!
+Dialogue: 0,0:02:54.85,0:02:56.46,Default,en,0,0,0,,You can release them.
+Dialogue: 0,0:03:01.69,0:03:06.30,Default,en,0,0,0,,Are you saving us-{\i1}dasu{\i0}? Mr. Nobunaga, you're a good guy-{\i1}dasu{\i0}!
+Dialogue: 0,0:03:06.30,0:03:10.28,Default,en,0,0,0,,In exchange for that, tell me where Senhime is.
+Dialogue: 0,0:03:10.69,0:03:11.73,Default,en,0,0,0,,What-{\i1}dasu{\i0}!?
+Dialogue: 0,0:03:12.70,0:03:14.58,Default,en,0,0,0,,What are you going to do with Senhime!?
+Dialogue: 0,0:03:14.81,0:03:20.78,Default,en,0,0,0,,It's obvious. I'll take her as a hostage and make him pass over the seat of General.
+Dialogue: 0,0:03:22.07,0:03:23.38,Default,en,0,0,0,,You're cruel-{\i1}dasu{\i0}!
+Dialogue: 0,0:03:23.67,0:03:28.45,Default,en,0,0,0,,Hmph. No matter what you think, I do not like to see unnecessary blood.
+Dialogue: 0,0:03:29.81,0:03:31.30,Default,en,0,0,0,,Y- you're right!
+Dialogue: 0,0:03:31.53,0:03:32.62,Default,en,0,0,0,,That's right.
+Dialogue: 0,0:03:33.82,0:03:38.23,Default,en,0,0,0,,What do you think about that what'll happen if we do an all-out attack to Edotopia?
+Dialogue: 0,0:03:39.88,0:03:45.63,Default,en,0,0,0,,Edotopia will become a sea of fire, and numerous lives of people without any wrongdoing will be lost.
+Dialogue: 0,0:03:48.86,0:03:54.49,Default,en,0,0,0,,By taking Senhime as a hostage, nobody will suffer, and the world will fall under my hands.
+Dialogue: 0,0:03:54.80,0:03:57.10,Default,en,0,0,0,,I see, that makes sense-{\i1}dasu{\i0}.
+Dialogue: 0,0:03:57.10,0:03:59.84,Default,en,0,0,0,,You idiot! Who in the world gets struck with admiration for enemy's strategy!?
+Dialogue: 0,0:04:00.22,0:04:02.46,Default,en,0,0,0,,We will refuse your favor, no matter what it is, even if I have to die!
+Dialogue: 0,0:04:03.03,0:04:04.01,Default,en,0,0,0,,Me too!
+Dialogue: 0,0:04:04.35,0:04:05.25,Default,en,0,0,0,,Me too!
+Dialogue: 0,0:04:05.70,0:04:08.12,Default,en,0,0,0,,If you say so... Dokuganryu!
+Dialogue: 0,0:04:08.67,0:04:09.11,Default,en,0,0,0,,Yessir.
+Dialogue: 0,0:04:09.73,0:04:15.23,Default,en,0,0,0,,Take some soldiers, search the neighboring islands, and capture Senhime.
+Dialogue: 0,0:04:15.73,0:04:16.82,Default,en,0,0,0,,Understood.
+Dialogue: 0,0:04:19.67,0:04:23.07,Default,en,0,0,0,,Wait. If they resists, you may kill them.
+Dialogue: 0,0:04:24.79,0:04:27.48,Default,en,0,0,0,,B- but, what's the point of taking hostage then?
+Dialogue: 0,0:04:27.80,0:04:36.77,Default,en,0,0,0,,Know that whether Senhime is alive does not matter. With Senhime's body, blackmailing Ieyasu is easily done.
+Dialogue: 0,0:04:37.38,0:04:42.61,Default,en,0,0,0,,You bastards! If you even touch Senhime, then I won't forgive you-{\i1}dasu{\i0}!
+Dialogue: 0,0:04:44.10,0:04:46.39,Default,en,0,0,0,,They are being late...
+Dialogue: 0,0:04:46.76,0:04:49.89,Default,en,0,0,0,,Maybe I should went with them, since it's so boring here.
+Dialogue: 0,0:04:49.89,0:04:55.23,Default,en,0,0,0,,You can't say that! Mr. Musashi and everyone are fighting to their best!
+Dialogue: 0,0:04:55.57,0:04:56.45,Default,en,0,0,0,,Lord!
+Dialogue: 0,0:04:56.67,0:04:57.85,Default,en,0,0,0,,Otsuru...
+Dialogue: 0,0:04:58.16,0:05:02.88,Default,en,0,0,0,,Well, you know who they are. They won't get caught so easily.
+Dialogue: 0,0:05:02.88,0:05:05.19,Default,en,0,0,0,,More importantly, here are your roasted sweet potatoes!
+Dialogue: 0,0:05:06.63,0:05:09.52,Default,en,0,0,0,,Mr. Gennai is the best! Super genius!
+Dialogue: 0,0:05:10.08,0:05:13.07,Default,en,0,0,0,,What's wrong, Otsuru? Aren't you eating one?
+Dialogue: 0,0:05:14.07,0:05:16.87,Default,en,0,0,0,,-Even you feel uneasy, it's not like we can help.\N-Yeah, right!
+Dialogue: 0,0:05:17.35,0:05:24.48,Default,en,0,0,0,,Dear God, please forgive me for falling over to the temptation of sweet potatoes while Mr. Musashi is fighting.
+Dialogue: 0,0:05:25.04,0:05:28.31,Default,en,0,0,0,,Please let Mr. Musashi and everyone come back safely.
+Dialogue: 0,0:05:28.52,0:05:31.68,Default,en,0,0,0,,Pray all you want, but Musashi and others won't come back anymore!
+Dialogue: 0,0:05:36.93,0:05:42.30,Default,en,0,0,0,,W- what are you guys? Entering a girl's room without knocking is rude!
+Dialogue: 0,0:05:42.30,0:05:45.82,Default,en,0,0,0,,What do you mean by that Mr. Musashi and others won't be able to come back!?
+Dialogue: 0,0:05:46.37,0:05:49.87,Default,en,0,0,0,,Hmph. They should've died by now by water torture.
+Dialogue: 0,0:05:51.32,0:05:52.57,Default,en,0,0,0,,O- Otsuru!
+Dialogue: 0,0:05:52.57,0:05:56.56,Default,en,0,0,0,,Now, Senhime, you should follow us without resisting.
+Dialogue: 0,0:05:57.22,0:05:57.78,Default,en,0,0,0,,No way!
+Dialogue: 0,0:05:58.22,0:05:59.37,Default,en,0,0,0,,Well then.
+Dialogue: 0,0:06:01.63,0:06:03.39,Default,en,0,0,0,,We only have to take you, even if we have to kill you.
+Dialogue: 0,0:06:04.02,0:06:07.76,Default,en,0,0,0,,What is this!? Ganging up on girls is the worst!
+Dialogue: 0,0:06:08.82,0:06:10.21,Default,en,0,0,0,,Come into here!
+Dialogue: 0,0:06:10.64,0:06:12.72,Default,en,0,0,0,,Hmph! You have nowhere to go.
+Dialogue: 0,0:06:12.72,0:06:13.86,Default,en,0,0,0,,I wonder.
+Dialogue: 0,0:06:25.11,0:06:27.87,Default,en,0,0,0,,You did it! You're awesome, Mr. Gennai!
+Dialogue: 0,0:06:27.87,0:06:29.75,Default,en,0,0,0,,Nothing is impossible to a genius!
+Dialogue: 0,0:06:32.41,0:06:33.61,Default,en,0,0,0,,Get them!
+Dialogue: 0,0:06:35.31,0:06:37.53,Default,en,0,0,0,,Mr. Gennai! This won't hold for long!
+Dialogue: 0,0:06:37.53,0:06:42.87,Note,en,0,0,0,,(a little bit numb, numb, totally numb, extremely numb, burn)
+Dialogue: 0,0:06:37.77,0:06:41.07,Default,en,0,0,0,,It'll be alright. I'll teach them a lesson.
+Dialogue: 0,0:06:48.85,0:06:52.35,Default,en,0,0,0,,Push! Push! Push! Push!
+Dialogue: 0,0:06:52.35,0:06:53.28,Default,en,0,0,0,,Did it work?
+Dialogue: 0,0:06:55.00,0:06:55.69,Default,en,0,0,0,,What's wrong!?
+Dialogue: 0,0:06:56.51,0:06:57.13,Default,en,0,0,0,,What's going on!?
+Dialogue: 0,0:07:03.59,0:07:04.60,Default,en,0,0,0,,What's this!?
+Dialogue: 0,0:07:07.73,0:07:13.87,Default,en,0,0,0,,Did you see? This is the masterpiece of masterpiece among the inventions of me, Mr. Gennai! It's electricity!
+Dialogue: 0,0:07:15.60,0:07:18.38,Default,en,0,0,0,,A geezer with a weird thing, eh?
+Dialogue: 0,0:07:18.69,0:07:20.20,Default,en,0,0,0,,What are you doing? Get him!
+Dialogue: 0,0:07:22.92,0:07:23.56,Default,en,0,0,0,,No!
+Dialogue: 0,0:07:27.48,0:07:31.35,Default,en,0,0,0,,-Mr. Gennai is awesome!\N-He's worth being that old!
+Dialogue: 0,0:07:31.35,0:07:33.65,Default,en,0,0,0,,Leave it to me!
+Dialogue: 0,0:07:34.05,0:07:38.14,Default,en,0,0,0,,Karakuri martial artists like you are weak to electricity.
+Dialogue: 0,0:07:38.14,0:07:38.94,Default,en,0,0,0,,Damn!
+Dialogue: 0,0:07:41.48,0:07:44.99,Default,en,0,0,0,,Well, well, if you aren't going to come, then let me make a move first.
+Dialogue: 0,0:07:44.99,0:07:46.82,Default,en,0,0,0,,Take this! Take this!
+Dialogue: 0,0:07:47.03,0:07:49.60,Default,en,0,0,0,,Go, go, go, go, Mr. Gennai!
+Dialogue: 0,0:07:53.53,0:07:56.26,Default,en,0,0,0,,H- huh? Don't you become numb?
+Dialogue: 0,0:07:58.69,0:08:00.48,Default,en,0,0,0,,Mr. Gennai! This! This!
+Dialogue: 0,0:08:02.84,0:08:03.81,Default,en,0,0,0,,What!?
+Dialogue: 0,0:08:04.27,0:08:07.26,Default,en,0,0,0,,Oh, today must be my last day.
+Dialogue: 0,0:08:07.26,0:08:08.87,Default,en,0,0,0,,Don't fool around, geezer!
+Dialogue: 0,0:08:09.11,0:08:11.60,Default,en,0,0,0,,We were so close!
+Dialogue: 0,0:08:11.60,0:08:12.76,Default,en,0,0,0,,Run!
+Dialogue: 0,0:08:12.76,0:08:13.65,Default,en,0,0,0,,Yes!
+Dialogue: 0,0:08:15.09,0:08:15.99,Default,en,0,0,0,,Damn!
+Dialogue: 0,0:08:16.20,0:08:17.27,Default,en,0,0,0,,Get them!
+Dialogue: 0,0:08:18.21,0:08:19.11,Default,en,0,0,0,,W- what's this!?
+Dialogue: 0,0:08:27.46,0:08:28.56,Default,en,0,0,0,,Get on!
+Dialogue: 0,0:08:28.56,0:08:29.16,Default,en,0,0,0,,Yeah!
+Dialogue: 0,0:08:29.62,0:08:31.22,Default,en,0,0,0,,Stop right there!
+Dialogue: 0,0:08:32.43,0:08:34.15,Default,en,0,0,0,,Great! Take off!
+Dialogue: 0,0:08:58.63,0:09:00.91,Default,en,0,0,0,,You won't be going anywhere now. Finish them!
+Dialogue: 0,0:09:04.18,0:09:05.04,Default,en,0,0,0,,W- who was that!?
+Dialogue: 0,0:09:06.74,0:09:10.00,Default,en,0,0,0,,The protector of whole 808 villages of Edo, Zenigatan, will face you!
+Dialogue: 0,0:09:10.21,0:09:11.01,Default,en,0,0,0,,Boss!
+Dialogue: 0,0:09:13.08,0:09:14.73,Default,en,0,0,0,,Benkei's here!
+Dialogue: 0,0:09:18.25,0:09:27.74,Default,en,0,0,0,,Your sword may forgive fighting feeble girls or powerless old men, but I won't forgive that action of a Karakuri martial artist!
+Dialogue: 0,0:09:27.74,0:09:29.40,Default,en,0,0,0,,Ushiwaka! You look cool!
+Dialogue: 0,0:09:29.40,0:09:31.25,Default,en,0,0,0,,Mr. Gennai, are you okay?
+Dialogue: 0,0:09:31.25,0:09:33.34,Default,en,0,0,0,,My back hurts...
+Dialogue: 0,0:09:53.93,0:09:54.70,Default,en,0,0,0,,Take this!
+Dialogue: 0,0:10:07.83,0:10:08.70,Default,en,0,0,0,,Damn!
+Dialogue: 0,0:10:10.58,0:10:11.24,Default,en,0,0,0,,Retreat!
+Dialogue: 0,0:10:15.05,0:10:16.48,Default,en,0,0,0,,You guys saved us, Ushiwaka!
+Dialogue: 0,0:10:16.80,0:10:19.21,Default,en,0,0,0,,It's a relief that you're safe, Senhime.
+Dialogue: 0,0:10:19.50,0:10:21.62,Default,en,0,0,0,,But, how did you make it here?
+Dialogue: 0,0:10:22.78,0:10:28.97,Default,en,0,0,0,,We were notified that the hideout of the enemies are nearby by Mr. Jūbee, and so we hurried our way to here.
+Dialogue: 0,0:10:31.29,0:10:34.52,Default,en,0,0,0,,Yeah! Let's ride on that and go save Musashi and others!
+Dialogue: 0,0:10:34.84,0:10:37.39,Default,en,0,0,0,,Great! Even one second is important now!
+Dialogue: 0,0:10:37.39,0:10:38.13,Default,en,0,0,0,,Right!
+Dialogue: 0,0:10:39.47,0:10:41.50,Default,en,0,0,0,,{\i1}Mr. Musashi, be alive!
+Dialogue: 0,0:10:47.31,0:10:52.36,Default,en,0,0,0,,Wah! I don't want to die, before doing anything big at all-{\i1}dasu{\i0}!
+Dialogue: 0,0:10:52.62,0:10:55.77,Default,en,0,0,0,,Musashi! Don't be loud and use up all the air by ylurself!
+Dialogue: 0,0:10:56.05,0:10:58.75,Default,en,0,0,0,,We're going to die earlier than them because of you!
+Dialogue: 0,0:10:59.04,0:11:01.03,Default,en,0,0,0,,-Why-{\i1}dasu{\i0}!?\N-Take a look at that!
+Dialogue: 0,0:11:03.66,0:11:07.80,Default,en,0,0,0,,What a sight. That miserable way of dying really suits you guys.
+Dialogue: 0,0:11:07.80,0:11:12.12,Default,en,0,0,0,,Damn! Scoundrel! Brute! I'll curse you-{\i1}dasu{\i0}!
+Dialogue: 0,0:11:13.97,0:11:15.26,Default,en,0,0,0,,How pleasant!
+Dialogue: 0,0:11:17.49,0:11:18.43,Default,en,0,0,0,,What's going on!?
+Dialogue: 0,0:11:18.43,0:11:21.94,Default,en,0,0,0,,Something is coming to attack this Babel 13!
+Dialogue: 0,0:11:22.16,0:11:22.64,Default,en,0,0,0,,What!?
+Dialogue: 0,0:11:30.93,0:11:33.07,Default,en,0,0,0,,Isn't that Megaton Castle?
+Dialogue: 0,0:11:38.73,0:11:39.96,Default,en,0,0,0,,What's going on!?
+Dialogue: 0,0:11:39.96,0:11:41.84,Default,en,0,0,0,,I don't know, but it's coming to crash!
+Dialogue: 0,0:11:44.90,0:11:47.62,Default,en,0,0,0,,I- it isn't! That isn't Megaton Castle!
+Dialogue: 0,0:11:48.09,0:11:52.80,Default,en,0,0,0,,Will Musashi and others be rescued? Wait for the stormy latter half!
+Dialogue: 0,0:11:52.80,0:11:58.64,Eyecatch,en,0,0,0,,Karakuri Kengouden: Musashi Road
+Dialogue: 0,0:12:01.58,0:12:02.35,Default,en,0,0,0,,N- no way!
+Dialogue: 0,0:12:09.20,0:12:10.90,Default,en,0,0,0,,Damn, who is it!?
+Dialogue: 0,0:12:12.93,0:12:14.24,Default,en,0,0,0,,Mr. Musashi, you were safe.
+Dialogue: 0,0:12:14.24,0:12:16.70,Default,en,0,0,0,,Get me out of here-{\i1}dasu{\i0}.
+Dialogue: 0,0:12:17.16,0:12:18.65,Default,en,0,0,0,,I'll rescue you right away.
+Dialogue: 0,0:12:24.31,0:12:25.45,Default,en,0,0,0,,Mr. Musashi!
+Dialogue: 0,0:12:25.45,0:12:28.95,Default,en,0,0,0,,Otsuru, you're here-{\i1}dasu{\i0}! Everyone too!
+Dialogue: 0,0:12:28.95,0:12:30.85,Default,en,0,0,0,,Thank you so much. You saved us.
+Dialogue: 0,0:12:31.20,0:12:35.33,Default,en,0,0,0,,It's nothing. It is obvious to rescue a friend in danger.
+Dialogue: 0,0:12:35.83,0:12:37.92,Default,en,0,0,0,,Don't act as if we're distant!
+Dialogue: 0,0:12:37.92,0:12:38.96,Default,en,0,0,0,,Yeah!
+Dialogue: 0,0:12:42.39,0:12:46.70,Default,en,0,0,0,,So everyone's here. I'll finish all of you up today!
+Dialogue: 0,0:12:47.32,0:12:50.94,Default,en,0,0,0,,Our teamwork makes as invincible-{\i1}dasu{\i0}! Let's go, everyone-{\i1}dasu{\i0}!
+Dialogue: 0,0:13:14.95,0:13:17.55,Default,en,0,0,0,,Niten'ichiryū: Flash Sword!
+Dialogue: 0,0:13:34.61,0:13:36.86,Default,en,0,0,0,,You dared to drown me!
+Dialogue: 0,0:13:40.93,0:13:42.12,Default,en,0,0,0,,Stop!
+Dialogue: 0,0:13:44.92,0:13:46.84,Default,en,0,0,0,,The grudge of a frog is fearful!
+Dialogue: 0,0:14:01.54,0:14:04.30,Default,en,0,0,0,,Hanzō! Your ambition falls here!
+Dialogue: 0,0:14:04.60,0:14:07.44,Default,en,0,0,0,,Don't be stupid. You won't take me down!
+Dialogue: 0,0:14:10.62,0:14:12.72,Default,en,0,0,0,,Sousou Armor!
+Dialogue: 0,0:14:18.84,0:14:19.78,Default,en,0,0,0,,Karakuri Shift!
+Dialogue: 0,0:14:22.20,0:14:24.82,Default,en,0,0,0,,Chohi Armor!
+Dialogue: 0,0:14:29.39,0:14:30.12,Default,en,0,0,0,,Raimeimaru!
+Dialogue: 0,0:14:34.65,0:14:39.79,Default,en,0,0,0,,I did not expect their comrades to come. I deeply apologize, Lord Nobunaga.
+Dialogue: 0,0:14:40.17,0:14:45.05,Default,en,0,0,0,,Well, good enough. Even without a hostage, Jipangu State is as good as mine!
+Dialogue: 0,0:14:47.25,0:14:48.02,Default,en,0,0,0,,What's going on!?
+Dialogue: 0,0:14:48.95,0:14:52.97,Default,en,0,0,0,,Report! Musashi and others came out from the water tanks and they're raging!
+Dialogue: 0,0:14:53.26,0:14:53.94,Default,en,0,0,0,,What!?
+Dialogue: 0,0:14:54.94,0:14:58.29,Default,en,0,0,0,,They must be so excited. Let me chop them down!
+Dialogue: 0,0:14:58.29,0:14:59.71,Default,en,0,0,0,,Please wait, Lord Nobunaga.
+Dialogue: 0,0:15:02.02,0:15:03.45,Default,en,0,0,0,,Do not butt in!
+Dialogue: 0,0:15:03.74,0:15:08.68,Default,en,0,0,0,,We are saying that you do not need to use your sword by your own.
+Dialogue: 0,0:15:08.68,0:15:13.09,Default,en,0,0,0,,That's right! Those bunch are enough only by Kenshin and me!
+Dialogue: 0,0:15:13.84,0:15:17.77,Default,en,0,0,0,,Then, I'm leaving this to you. Do not come back until you finish them!
+Dialogue: 0,0:15:17.77,0:15:18.26,Default,en,0,0,0,,Yessir!
+Dialogue: 0,0:15:21.82,0:15:26.24,Default,en,0,0,0,,Mr. Nobunaga. Leave this to us, and please go take down Nobunaga!
+Dialogue: 0,0:15:26.24,0:15:27.21,Default,en,0,0,0,,Got it-{\i1}dasu{\i0}!
+Dialogue: 0,0:15:30.23,0:15:31.63,Default,en,0,0,0,,-Kojirō!\N-Right!
+Dialogue: 0,0:15:33.06,0:15:34.35,Default,en,0,0,0,,Where do you think you're going?
+Dialogue: 0,0:15:35.46,0:15:37.89,Default,en,0,0,0,,You will not see Lord Nobunaga!
+Dialogue: 0,0:15:39.45,0:15:41.11,Default,en,0,0,0,,You're getting in my way-{\i1}dasu{\i0}!
+Dialogue: 0,0:15:46.68,0:15:47.30,Default,en,0,0,0,,Musashi!
+Dialogue: 0,0:15:52.57,0:15:53.33,Default,en,0,0,0,,Take this!
+Dialogue: 0,0:15:54.28,0:15:55.92,Default,en,0,0,0,,I'll be done for at this rate-{\i1}dasu{\i0}!
+Dialogue: 0,0:16:01.46,0:16:02.50,Default,en,0,0,0,,Karakuri Shift!
+Dialogue: 0,0:16:03.64,0:16:06.32,Default,en,0,0,0,,Gentoku Armor!
+Dialogue: 0,0:16:11.65,0:16:12.62,Default,en,0,0,0,,Damn!
+Dialogue: 0,0:16:16.49,0:16:17.73,Default,en,0,0,0,,Karakuri Shift!
+Dialogue: 0,0:16:18.83,0:16:21.39,Default,en,0,0,0,,Kanu Armor!
+Dialogue: 0,0:16:27.65,0:16:28.55,Default,en,0,0,0,,Are you alright?
+Dialogue: 0,0:16:29.33,0:16:32.50,Default,en,0,0,0,,It seems that I do need your powers.
+Dialogue: 0,0:16:32.88,0:16:35.24,Default,en,0,0,0,,Come closer! Same for me too!
+Dialogue: 0,0:16:35.73,0:16:37.02,Default,en,0,0,0,,-Let's do this!\N-Right!
+Dialogue: 0,0:16:38.43,0:16:42.08,Default,en,0,0,0,,Sky Ground Fusion! Shingenshin!
+Dialogue: 0,0:16:51.43,0:16:53.58,Default,en,0,0,0,,Playtime ends now!
+Dialogue: 0,0:17:01.74,0:17:03.66,Default,en,0,0,0,,Musashi! Take care of this for a moment!
+Dialogue: 0,0:17:04.66,0:17:06.53,Default,en,0,0,0,,Huh, Kojirō? Going to pee-{\i1}dasu{\i0}!?
+Dialogue: 0,0:17:09.29,0:17:11.05,Default,en,0,0,0,,Come back as soon as possible-{\i1}dasu{\i0}!
+Dialogue: 0,0:17:18.08,0:17:20.92,Default,en,0,0,0,,Hououmaru! Dance of Phoenix!
+Dialogue: 0,0:17:26.78,0:17:27.68,Default,en,0,0,0,,We did it-{\i1}dasu{\i0}!
+Dialogue: 0,0:17:31.96,0:17:33.81,Default,en,0,0,0,,How dare you do that, brats!?
+Dialogue: 0,0:17:34.92,0:17:37.84,Default,en,0,0,0,,I was thinking about sending you to the other world in peace, but...
+Dialogue: 0,0:17:38.81,0:17:41.39,Default,en,0,0,0,,Do a favor and die!
+Dialogue: 0,0:17:43.97,0:17:44.65,Default,en,0,0,0,,Mr. Musashi!
+Dialogue: 0,0:17:44.65,0:17:45.92,Default,en,0,0,0,,Mr. Musashi!
+Dialogue: 0,0:17:52.03,0:17:52.84,Default,en,0,0,0,,Otsuru!
+Dialogue: 0,0:17:53.45,0:17:56.53,Default,en,0,0,0,,How dare you do that to Otsuru!? I'm mad-{\i1}dasu{\i0}!
+Dialogue: 0,0:17:58.69,0:18:02.22,Default,en,0,0,0,,Niten'ichiryū: Double Dragon Sword!
+Dialogue: 0,0:18:17.62,0:18:18.61,Default,en,0,0,0,,Mr. Musashi!
+Dialogue: 0,0:18:19.94,0:18:20.74,Default,en,0,0,0,,Are you okay?
+Dialogue: 0,0:18:21.08,0:18:22.41,Default,en,0,0,0,,What's wrong, Musashi?
+Dialogue: 0,0:18:22.82,0:18:27.90,Default,en,0,0,0,,I just used up all my power by that-{\i1}dasu{\i0}. I'm hungry-{\i1}dasu{\i0}...
+Dialogue: 0,0:18:28.72,0:18:30.54,Default,en,0,0,0,,Here, Mr. Musashi! Your dangos!
+Dialogue: 0,0:18:30.54,0:18:33.06,Default,en,0,0,0,,Otsuru, thank you-{\i1}dasu{\i0}!
+Dialogue: 0,0:18:34.26,0:18:35.19,Default,en,0,0,0,,Shingenshin!
+Dialogue: 0,0:18:37.98,0:18:38.83,Default,en,0,0,0,,Damn!
+Dialogue: 0,0:18:39.26,0:18:40.04,Default,en,0,0,0,,Stop!
+Dialogue: 0,0:18:40.53,0:18:41.53,Default,en,0,0,0,,Mr. Jūbee!
+Dialogue: 0,0:18:41.79,0:18:42.65,Default,en,0,0,0,,Let's chase them!
+Dialogue: 0,0:18:42.86,0:18:43.65,Default,en,0,0,0,,Right!
+Dialogue: 0,0:18:45.17,0:18:46.57,Default,en,0,0,0,,Mr. Nobunaga!
+Dialogue: 0,0:18:48.86,0:18:50.96,Default,en,0,0,0,,What's wrong!? Did you get them?
+Dialogue: 0,0:18:51.34,0:18:53.93,Default,en,0,0,0,,No, Shingenshin is down!
+Dialogue: 0,0:18:54.36,0:18:56.28,Default,en,0,0,0,,What!? Shingenshin!?
+Dialogue: 0,0:18:57.40,0:18:59.05,Default,en,0,0,0,,It's your turn now-{\i1}dasu{\i0}!
+Dialogue: 0,0:19:01.02,0:19:02.46,Default,en,0,0,0,,Now, prepare yourselves!
+Dialogue: 0,0:19:03.00,0:19:06.11,Default,en,0,0,0,,Give us back the Three Sacred Treasures that you stole from the Highness!
+Dialogue: 0,0:19:06.52,0:19:09.11,Default,en,0,0,0,,What!? You impudent girl!
+Dialogue: 0,0:19:09.11,0:19:09.69,Default,en,0,0,0,,Stop!
+Dialogue: 0,0:19:11.30,0:19:19.04,Default,en,0,0,0,,The Three Sacred Treasures, eh? Hmph. I praise your powers, for being able to take down Shingenshin. I lost.
+Dialogue: 0,0:19:19.86,0:19:20.86,Default,en,0,0,0,,What-{\i1}dasu{\i0}?
+Dialogue: 0,0:19:21.11,0:19:22.39,Default,en,0,0,0,,Take a look at the corner of this room!
+Dialogue: 0,0:19:29.72,0:19:32.42,Default,en,0,0,0,,I'm so happy! I finally got it back!
+Dialogue: 0,0:19:33.01,0:19:35.35,Default,en,0,0,0,,Will the Highness praise me?
+Dialogue: 0,0:19:35.93,0:19:38.84,Default,en,0,0,0,,Senhime, thank you. Let's marry.
+Dialogue: 0,0:19:39.08,0:19:40.36,Default,en,0,0,0,,Yes, of course!
+Dialogue: 0,0:19:41.12,0:19:41.92,Default,en,0,0,0,,Senhime!
+Dialogue: 0,0:19:44.38,0:19:45.44,Default,en,0,0,0,,Senhime!
+Dialogue: 0,0:19:46.60,0:19:50.13,Default,en,0,0,0,,No, Kojirō! I have the Highness!
+Dialogue: 0,0:19:52.09,0:19:53.16,Default,en,0,0,0,,You fooled us!
+Dialogue: 0,0:19:54.29,0:19:55.22,Default,en,0,0,0,,Farewell!
+Dialogue: 0,0:19:55.76,0:19:57.60,Default,en,0,0,0,,Well. They ran away.
+Dialogue: 0,0:19:59.52,0:20:00.59,Default,en,0,0,0,,What's wrong, Benkei!?
+Dialogue: 0,0:20:00.90,0:20:03.04,Default,en,0,0,0,,It seems that the exit is blocked.
+Dialogue: 0,0:20:03.27,0:20:06.00,Default,en,0,0,0,,Damn! We're trapped again!
+Dialogue: 0,0:20:09.15,0:20:12.29,Default,en,0,0,0,48-01,Dokuganryu, press the self-destruction switch of Babel 13!
+Dialogue: 0,0:20:13.28,0:20:15.72,Default,en,0,0,0,48-02,Are you going to abandon Babel 13?
+Dialogue: 0,0:20:16.14,0:20:18.55,Default,en,0,0,0,48-03,I do not need such thing anymore.
+Dialogue: 0,0:20:20.03,0:20:22.10,Default,en,0,0,0,48-04,From now on, Edo Castle is my castle!
+Dialogue: 0,0:20:22.65,0:20:24.67,Default,en,0,0,0,48-05,Do a full-out attack to Edotopia!
+Dialogue: 0,0:20:25.12,0:20:25.65,Default,en,0,0,0,48-06,Yessir!
+Dialogue: 0,0:20:26.30,0:20:28.36,Default,en,0,0,0,48-07,Self-destruction switch, now turning on.
+Dialogue: 0,0:20:30.15,0:20:35.53,Default,en,0,0,0,,3 minutes until the explosion of Babel 13. Please evacuate immediately.
+Dialogue: 0,0:20:36.33,0:20:38.80,Default,en,0,0,0,,I don't want to die before being able to marry!
+Dialogue: 0,0:20:39.04,0:20:42.13,Default,en,0,0,0,,I wanted to marry Otsuru-{\i1}dasu{\i0}!
+Dialogue: 0,0:20:42.13,0:20:45.04,Default,en,0,0,0,,Mr. Musashi, don't say that in front of everyone!
+Dialogue: 0,0:20:45.04,0:20:46.00,Default,en,0,0,0,,Otsuru...
+Dialogue: 0,0:20:52.64,0:20:54.19,Default,en,0,0,0,,1 minute until explosion.
+Dialogue: 0,0:20:55.14,0:20:56.64,Default,en,0,0,0,,You bastard!
+Dialogue: 0,0:21:02.27,0:21:04.64,Default,en,0,0,0,,30 seconds until explosion.
+Dialogue: 0,0:21:11.91,0:21:13.40,Default,en,0,0,0,,Beginning countdown.
+Dialogue: 0,0:21:14.85,0:21:16.87,Default,en,0,0,0,,10 seconds until explosion.
+Dialogue: 0,0:21:36.78,0:21:39.08,Default,en,0,0,0,,Only Ieyasu stands in my way now.
+Dialogue: 0,0:21:41.66,0:21:46.91,Default,en,0,0,0,,That is Megaton Castle. Damn, it's heading to Edotopia!
+Dialogue: 0,0:21:47.23,0:21:49.08,Default,en,0,0,0,,That means, those guys...
+Dialogue: 0,0:21:50.24,0:21:52.35,Default,en,0,0,0,,Are they gone!?
+Dialogue: 0,0:21:52.81,0:22:00.15,Default,en,0,0,0,,No! I will be remaining sad if I won't be able to see Senhime and Otsuru's looks in swimsuits!
+Dialogue: 0,0:22:00.15,0:22:01.54,Default,en,0,0,0,,Mr. Gennai!
+Dialogue: 0,0:22:02.05,0:22:03.83,Default,en,0,0,0,,Swimsuits what?
+Dialogue: 0,0:22:03.83,0:22:07.37,Default,en,0,0,0,,Uh, I mean, you're all safe! What a relief!
+Dialogue: 0,0:22:07.78,0:22:09.03,Default,en,0,0,0,,You're right-{\i1}dasu{\i0}!
+Dialogue: 0,0:22:09.98,0:22:13.20,Default,en,0,0,0,,Musashi and others were in dire crisis,
+Dialogue: 0,0:22:13.20,0:22:18.02,Default,en,0,0,0,,but they managed to escape the danger, thanks to the burning friendship of Ushiwaka and Benkei.
+Dialogue: 0,0:22:18.70,0:22:27.06,Default,en,0,0,0,,Do not lose, Musashi! Fight, Musashi! Use all your burning friendship powers to take down Nobunaga's ambitions!
+Dialogue: 0,0:22:45.16,0:22:48.37,SongED1,en,0,0,0,,I fought and I got beaten
+Dialogue: 0,0:22:48.37,0:22:51.12,SongED1,en,0,0,0,,Nosebleed drips rendezvous
+Dialogue: 0,0:22:51.37,0:22:53.79,SongED1,en,0,0,0,,I can't lose, so take my blow!
+Dialogue: 0,0:22:53.79,0:22:56.38,SongED1,en,0,0,0,,Pinch! Punch! I won by reversal
+Dialogue: 0,0:22:57.17,0:23:00.30,SongED1,en,0,0,0,,Next is delightful lunchtime
+Dialogue: 0,0:23:00.30,0:23:03.43,SongED1,en,0,0,0,,But it's not delightful today
+Dialogue: 0,0:23:03.43,0:23:05.72,SongED1,en,0,0,0,,The thunder of my teacher
+Dialogue: 0,0:23:05.72,0:23:08.27,SongED1,en,0,0,0,,only hit me and nobody else
+Dialogue: 0,0:23:09.73,0:23:12.52,SongED1,en,0,0,0,,I tried to explain
+Dialogue: 0,0:23:12.52,0:23:15.23,SongED1,en,0,0,0,,But he won't listen
+Dialogue: 0,0:23:15.82,0:23:18.32,SongED1,en,0,0,0,,Now whatever I do
+Dialogue: 0,0:23:18.32,0:23:20.74,SongED1,en,0,0,0,,I end up crying
+Dialogue: 0,0:23:20.74,0:23:24.62,SongED1,en,0,0,0,,Don't cry when you eat, or
+Dialogue: 0,0:23:24.62,0:23:26.74,SongED1,en,0,0,0,,it tastes totally bad
+Dialogue: 0,0:23:26.74,0:23:30.71,SongED1,en,0,0,0,,Don't cry when you eat, or
+Dialogue: 0,0:23:30.71,0:23:32.75,SongED1,en,0,0,0,,it tastes totally bad
+Dialogue: 0,0:23:32.75,0:23:36.75,SongED1,en,0,0,0,,Don't cry when you eat, or
+Dialogue: 0,0:23:36.75,0:23:38.75,SongED1,en,0,0,0,,it tastes totally bad
+Dialogue: 0,0:23:38.75,0:23:42.76,SongED1,en,0,0,0,,Don't cry when you eat, or
+Dialogue: 0,0:23:42.76,0:23:45.39,SongED1,en,0,0,0,,you'll feel downhearted
+Dialogue: 0,0:24:03.80,0:24:08.33,Default,en,0,0,0,,Nobunaga the Rikudomaoh is trying to make Edotopia into a burnt field-{\i1}dasu{\i0}.
+Dialogue: 0,0:24:08.72,0:24:14.49,Default,en,0,0,0,,Meanwhile, the Highness, who was hiding in Nikko, rides a flying machine named Chokuden to fly over to Edotopia.
+Dialogue: 0,0:24:14.92,0:24:21.88,Default,en,0,0,0,,We get onto Megaton Castle with a desperate resolution, and do our best to stop Nobunaga's ambitions-{\i1}dasu{\i0}!
+Dialogue: 0,0:24:22.12,0:24:24.80,Default,en,0,0,0,,Next story! Edotopia in Big Crisis
+Dialogue: 0,0:24:24.80,0:24:27.78,Default,en,0,0,0,,It's the stormy Chokuden-{\i1}dasu{\i0}!
+Dialogue: 0,0:24:27.35,0:24:31.31,NoteOnAnime,en,60,0,60,,{\an7}Next Episode
+Dialogue: 0,0:24:27.35,0:24:31.31,TitleEP,en,0,0,220,,Edotopia
+Dialogue: 0,0:24:27.35,0:24:31.31,TitleEP,en,0,0,80,,in Big Crisis
+Dialogue: 0,0:24:27.35,0:24:31.31,NoteOnAnime,en,0,60,30,,{\an3\fs32}Look forwards for it!

@@ -32,30 +32,30 @@ Style: InsOtsuru,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,SETTINGS,,0,0,0,,complete:false;song:song.*;lang:en,ko
-Dialogue: 0,0:00:04.41,0:00:06.57,Default,OP!Intro01,0,0,0,,時は戦国、乱世の時代。
-Dialogue: 0,0:00:07.11,0:00:11.52,Default,OP!Intro02,0,0,0,,からくり人の住むジパング国では群雄割拠して合戦に明け暮れ、
-Dialogue: 0,0:00:11.87,0:00:16.23,Default,OP!Intro03,0,0,0,,からくり武芸者たちも勝利と栄光を目指してしのぎを削っていた。
-Dialogue: 0,0:00:16.86,0:00:23.18,Default,OP!Intro04,0,0,0,,そしていま、からくり武芸者ナンバー１を目指す、とてつもないヒーローが誕生した！
-Dialogue: 0,0:00:24.47,0:00:26.90,Default,OP!Intro05,0,0,0,,ムサシ、見参でござるだス！
-Dialogue: 0,0:00:27.89,0:00:33.23,TitleOP,OP!Title,0,0,40,,からくり剣豪伝ムサシロード
-Dialogue: 0,0:00:33.23,0:00:38.07,SongOP,OP!Lyric01,0,0,0,,男はいつでも　世界の真ん中で
-Dialogue: 0,0:00:38.90,0:00:41.82,SongOP,OP!Lyric02,0,0,0,,いちばん　強くなる日を
-Dialogue: 0,0:00:41.82,0:00:44.70,SongOP,OP!Lyric03,0,0,0,,AH! AH! 夢見て
-Dialogue: 0,0:00:44.70,0:00:49.75,SongOP,OP!Lyric04,0,0,0,,心の刃　大空にふりかざし
-Dialogue: 0,0:00:50.37,0:00:54.38,SongOP,OP!Lyric05,0,0,0,,冒険の旅の　幕を開ける
-Dialogue: 0,0:00:55.71,0:01:00.97,SongOP,OP!Lyric06,0,0,0,,ジパング国を　さすらう剣豪
-Dialogue: 0,0:01:01.55,0:01:06.60,SongOP,OP!Lyric07,0,0,0,,その名　からくりびと　ムサシ
-Dialogue: 0,0:01:06.60,0:01:08.10,SongOP,OP!Lyric08,0,0,0,,GO! FIGHT!
-Dialogue: 0,0:01:08.10,0:01:11.02,SongOP,OP!Lyric09,0,0,0,,鍔迫り合いの音が
-Dialogue: 0,0:01:11.02,0:01:13.86,SongOP,OP!Lyric10,0,0,0,,眩しい人生
-Dialogue: 0,0:01:13.86,0:01:19.32,SongOP,OP!Lyric11,0,0,0,,戦い　昨日よりも　今日　強い
-Dialogue: 0,0:01:19.36,0:01:25.58,SongOP,OP!Lyric12,0,0,0,,BUGEI! 二刀流　ムサシ
-Dialogue: 0,0:01:25.58,0:01:28.46,SongOP,OP!Lyric13,0,0,0,,明日は　輝くぞ
-Dialogue: 0,0:01:28.46,0:01:31.04,SongOP,OP!Lyric14,0,0,0,,鍔迫り合いの音が
-Dialogue: 0,0:01:31.04,0:01:33.54,SongOP,OP!Lyric15,0,0,0,,眩しい人生
-Dialogue: 0,0:01:34.25,0:01:39.63,SongOP,OP!Lyric16,0,0,0,,戦い　思い切りと　静けさと
-Dialogue: 0,0:01:39.68,0:01:45.89,SongOP,OP!Lyric17,0,0,0,,BUGEI! 二刀流　ムサシ
-Dialogue: 0,0:01:45.89,0:01:51.10,SongOP,OP!Lyric18,0,0,0,,みけんが　きらめいた　ムサシ！！
+Dialogue: 0,0:00:04.41,0:00:06.57,Default,ref,0,0,0,OP!Intro01,時は戦国、乱世の時代。
+Dialogue: 0,0:00:07.11,0:00:11.52,Default,ref,0,0,0,OP!Intro02,からくり人の住むジパング国では群雄割拠して合戦に明け暮れ、
+Dialogue: 0,0:00:11.87,0:00:16.23,Default,ref,0,0,0,OP!Intro03,からくり武芸者たちも勝利と栄光を目指してしのぎを削っていた。
+Dialogue: 0,0:00:16.86,0:00:23.18,Default,ref,0,0,0,OP!Intro04,そしていま、からくり武芸者ナンバー１を目指す、とてつもないヒーローが誕生した！
+Dialogue: 0,0:00:24.47,0:00:26.90,Default,ref,0,0,0,OP!Intro05,ムサシ、見参でござるだス！
+Dialogue: 0,0:00:27.89,0:00:33.23,TitleOP,ref,0,0,40,OP!Title,からくり剣豪伝ムサシロード
+Dialogue: 0,0:00:33.23,0:00:38.07,SongOP,ref,0,0,0,OP!Lyric01,男はいつでも　世界の真ん中で
+Dialogue: 0,0:00:38.90,0:00:41.82,SongOP,ref,0,0,0,OP!Lyric02,いちばん　強くなる日を
+Dialogue: 0,0:00:41.82,0:00:44.70,SongOP,ref,0,0,0,OP!Lyric03,AH! AH! 夢見て
+Dialogue: 0,0:00:44.70,0:00:49.75,SongOP,ref,0,0,0,OP!Lyric04,心の刃　大空にふりかざし
+Dialogue: 0,0:00:50.37,0:00:54.38,SongOP,ref,0,0,0,OP!Lyric05,冒険の旅の　幕を開ける
+Dialogue: 0,0:00:55.71,0:01:00.97,SongOP,ref,0,0,0,OP!Lyric06,ジパング国を　さすらう剣豪
+Dialogue: 0,0:01:01.55,0:01:06.60,SongOP,ref,0,0,0,OP!Lyric07,その名　からくりびと　ムサシ
+Dialogue: 0,0:01:06.60,0:01:08.10,SongOP,ref,0,0,0,OP!Lyric08,GO! FIGHT!
+Dialogue: 0,0:01:08.10,0:01:11.02,SongOP,ref,0,0,0,OP!Lyric09,鍔迫り合いの音が
+Dialogue: 0,0:01:11.02,0:01:13.86,SongOP,ref,0,0,0,OP!Lyric10,眩しい人生
+Dialogue: 0,0:01:13.86,0:01:19.32,SongOP,ref,0,0,0,OP!Lyric11,戦い　昨日よりも　今日　強い
+Dialogue: 0,0:01:19.36,0:01:25.58,SongOP,ref,0,0,0,OP!Lyric12,BUGEI! 二刀流　ムサシ
+Dialogue: 0,0:01:25.58,0:01:28.46,SongOP,ref,0,0,0,OP!Lyric13,明日は　輝くぞ
+Dialogue: 0,0:01:28.46,0:01:31.04,SongOP,ref,0,0,0,OP!Lyric14,鍔迫り合いの音が
+Dialogue: 0,0:01:31.04,0:01:33.54,SongOP,ref,0,0,0,OP!Lyric15,眩しい人生
+Dialogue: 0,0:01:34.25,0:01:39.63,SongOP,ref,0,0,0,OP!Lyric16,戦い　思い切りと　静けさと
+Dialogue: 0,0:01:39.68,0:01:45.89,SongOP,ref,0,0,0,OP!Lyric17,BUGEI! 二刀流　ムサシ
+Dialogue: 0,0:01:45.89,0:01:51.10,SongOP,ref,0,0,0,OP!Lyric18,みけんが　きらめいた　ムサシ！！
 Comment: 0,0:02:00.00,0:02:08.48,Default,ja,0,0,0,,桜島へ乗り込んだムサシ達は、不知火一族に最後の決戦を挑むが、ハンゾウはサツマニアへ向けてミサイルを発射する。
 Dialogue: 0,0:02:00.00,0:02:08.48,Default,ko,0,0,0,,사쿠라지마에 들어간 무사시 일행은 시라누이 일족에게 최후의 결전을 도전하지만, 한조는 사츠마니아를 향해 미사일을 발사한다.
 Dialogue: 0,0:02:00.00,0:02:05.49,Default,en,0,0,0,,After getting into Sakurajima, Musashi and others challenge for the last decisive battle against Shiranui Clan,
@@ -262,53 +262,53 @@ Dialogue: 0,0:06:28.68,0:06:33.19,Default,en,0,0,0,,Then let me tell my story ab
 Comment: 0,0:06:35.46,0:06:40.77,Default,ja,0,0,0,,旅をしていたおいらたちは、オニヒメが操る土蜘蛛と戦うことになっただす。
 Dialogue: 0,0:06:35.46,0:06:40.77,Default,ko,0,0,0,,여행하고 있던 우리는 오니히메가 조종하는 츠치구모하고 싸우게 되었소.
 Dialogue: 0,0:06:35.46,0:06:40.77,Default,en,0,0,0,,During our journey, we had to fight Tsuchigumo controlled by Onihime-{\i1}dasu{\i0}.
-Dialogue: 0,0:06:52.59,0:06:53.20,Default,recap,0,0,0,16#37-01,あれは！
-Dialogue: 0,0:06:54.31,0:06:55.67,Default,recap,0,0,0,16#37-02,あれはまさしく天地丸！
-Dialogue: 0,0:06:57.46,0:06:58.72,Default,recap,0,0,0,16#37-03,だすけて。
-Dialogue: 0,0:07:01.37,0:07:02.23,Default,recap,0,0,0,16#37-04,おたまちゃん！
-Dialogue: 0,0:07:03.06,0:07:04.14,Default,recap,0,0,0,16#37-05,今行くだス！
-Dialogue: 0,0:07:05.02,0:07:06.42,Default,recap,0,0,0,16#37-06,なんだす！うわ！
-Dialogue: 0,0:07:07.58,0:07:08.41,Default,recap,0,0,0,16#37-07,土蜘蛛！
-Dialogue: 0,0:07:10.46,0:07:12.29,Default,recap,0,0,0,16#37-08,いきなり出るなんて秘境だす！
-Dialogue: 0,0:07:19.22,0:07:19.89,Default,recap,0,0,0,16#37-09,コジロー！
+Dialogue: 0,0:06:52.59,0:06:53.20,Default,ref,0,0,0,16#37-01,あれは！
+Dialogue: 0,0:06:54.31,0:06:55.67,Default,ref,0,0,0,16#37-02,あれはまさしく天地丸！
+Dialogue: 0,0:06:57.46,0:06:58.72,Default,ref,0,0,0,16#37-03,だすけて。
+Dialogue: 0,0:07:01.37,0:07:02.23,Default,ref,0,0,0,16#37-04,おたまちゃん！
+Dialogue: 0,0:07:03.06,0:07:04.14,Default,ref,0,0,0,16#37-05,今行くだス！
+Dialogue: 0,0:07:05.02,0:07:06.42,Default,ref,0,0,0,16#37-06,なんだす！うわ！
+Dialogue: 0,0:07:07.58,0:07:08.41,Default,ref,0,0,0,16#37-07,土蜘蛛！
+Dialogue: 0,0:07:10.46,0:07:12.29,Default,ref,0,0,0,16#37-08,いきなり出るなんて秘境だす！
+Dialogue: 0,0:07:19.22,0:07:19.89,Default,ref,0,0,0,16#37-09,コジロー！
 Comment: 0,0:07:21.11,0:07:23.52,Default,ja,0,0,0,,こいつは任せとけ。ムサシはあの子を！
 Dialogue: 0,0:07:21.11,0:07:23.52,Default,ko,0,0,0,,이 놈은 내게 맡겨라. 무사시는 저 아이를.
 Dialogue: 0,0:07:21.11,0:07:23.52,Default,en,0,0,0,,Leave this to me. Musashi, you rescue that girl.
-Dialogue: 0,0:07:24.38,0:07:25.94,Default,recap,0,0,0,16#37-10,さあ、来い、化け物！
+Dialogue: 0,0:07:24.38,0:07:25.94,Default,ref,0,0,0,16#37-10,さあ、来い、化け物！
 Comment: 0,0:07:28.43,0:07:30.13,Default,ja,0,0,0,,おたまちゃん、しっかりしろ！
 Dialogue: 0,0:07:28.43,0:07:30.13,Default,ko,0,0,0,,오타마, 정신 차리시오!
 Dialogue: 0,0:07:28.43,0:07:30.13,Default,en,0,0,0,,Otama, get a grip!
-Dialogue: 0,0:07:33.90,0:07:36.54,Default,recap,0,0,0,16#37-11,さあ、おたまちゃん、おいらの背中に乗るだす。
-Dialogue: 0,0:07:37.46,0:07:38.55,Default,recap,0,0,0,16#37-12,ありがとう。
-Dialogue: 0,0:07:40.62,0:07:42.45,Default,recap,0,0,0,16#37-13,ムサシ！それはお玉ちゃんじゃない！
-Dialogue: 0,0:07:42.97,0:07:44.08,Default,recap,0,0,0,16#37-14,死ね、ムサシ！
+Dialogue: 0,0:07:33.90,0:07:36.54,Default,ref,0,0,0,16#37-11,さあ、おたまちゃん、おいらの背中に乗るだす。
+Dialogue: 0,0:07:37.46,0:07:38.55,Default,ref,0,0,0,16#37-12,ありがとう。
+Dialogue: 0,0:07:40.62,0:07:42.45,Default,ref,0,0,0,16#37-13,ムサシ！それはお玉ちゃんじゃない！
+Dialogue: 0,0:07:42.97,0:07:44.08,Default,ref,0,0,0,16#37-14,死ね、ムサシ！
 Comment: 0,0:07:44.08,0:07:45.48,Default,ja,0,0,0,,ああ、何をする！
 Dialogue: 0,0:07:44.08,0:07:45.48,Default,ko,0,0,0,,아니, 뭔 짓이오!
 Dialogue: 0,0:07:44.08,0:07:45.48,Default,en,0,0,0,,What are you doing?!
-Dialogue: 0,0:07:46.83,0:07:47.90,Default,recap,0,0,0,,死ね、ムサシ！
-Dialogue: 0,0:07:51.49,0:07:52.52,Default,recap,0,0,0,16#37-15,～するだス！
-Dialogue: 0,0:07:53.34,0:07:56.79,Default,recap,0,0,0,16#37-16,こんな年寄りをいじめる気か？
-Dialogue: 0,0:07:57.26,0:07:58.26,Default,recap,0,0,0,16#37-17,ばあちゃん。
-Dialogue: 0,0:08:03.83,0:08:04.55,Default,recap,0,0,0,16#37-18,ムサシ！
-Dialogue: 0,0:08:10.55,0:08:11.84,Default,recap,0,0,0,16#37-19,行け！土蜘蛛！
-Dialogue: 0,0:08:27.89,0:08:28.62,Default,recap,0,0,0,16#37-20,突きあり！
-Dialogue: 0,0:08:35.52,0:08:36.25,Default,recap,0,0,0,16#37-21,おせんちゃん！
-Dialogue: 0,0:08:39.18,0:08:40.55,Default,recap,0,0,0,16#37-22,助けて！
-Dialogue: 0,0:08:49.75,0:08:50.66,Default,recap,0,0,0,16#37-23,ベンケイ！
-Dialogue: 0,0:08:50.66,0:08:52.35,Default,recap,0,0,0,16#37-24,もう安心してくだされ！
-Dialogue: 0,0:08:52.35,0:08:53.38,Default,recap,0,0,0,16#37-25,ベンケイ！
+Dialogue: 0,0:07:46.83,0:07:47.90,Default,ref,0,0,0,,死ね、ムサシ！
+Dialogue: 0,0:07:51.49,0:07:52.52,Default,ref,0,0,0,16#37-15,～するだス！
+Dialogue: 0,0:07:53.34,0:07:56.79,Default,ref,0,0,0,16#37-16,こんな年寄りをいじめる気か？
+Dialogue: 0,0:07:57.26,0:07:58.26,Default,ref,0,0,0,16#37-17,ばあちゃん。
+Dialogue: 0,0:08:03.83,0:08:04.55,Default,ref,0,0,0,16#37-18,ムサシ！
+Dialogue: 0,0:08:10.55,0:08:11.84,Default,ref,0,0,0,16#37-19,行け！土蜘蛛！
+Dialogue: 0,0:08:27.89,0:08:28.62,Default,ref,0,0,0,16#37-20,突きあり！
+Dialogue: 0,0:08:35.52,0:08:36.25,Default,ref,0,0,0,16#37-21,おせんちゃん！
+Dialogue: 0,0:08:39.18,0:08:40.55,Default,ref,0,0,0,16#37-22,助けて！
+Dialogue: 0,0:08:49.75,0:08:50.66,Default,ref,0,0,0,16#37-23,ベンケイ！
+Dialogue: 0,0:08:50.66,0:08:52.35,Default,ref,0,0,0,16#37-24,もう安心してくだされ！
+Dialogue: 0,0:08:52.35,0:08:53.38,Default,ref,0,0,0,16#37-25,ベンケイ！
 Comment: 0,0:08:55.76,0:08:59.24,Default,ja,0,0,0,,麿たちも怪物の噂をきいて退治に参りました。ちからしもうす！
 Dialogue: 0,0:08:55.76,0:08:59.24,Default,ko,0,0,0,,저희도 괴물의 소문을 듣고 퇴치하러 왔습니다. 도와드리겠습니다!
 Dialogue: 0,0:08:55.76,0:08:59.24,Default,en,0,0,0,,We also heard about the monster and are here to exterminate! We'll help!
-Dialogue: 0,0:08:59.24,0:09:00.34,Default,recap,0,0,0,16#37-26,ウシワカ！
-Dialogue: 0,0:09:00.34,0:09:03.46,Default,recap,0,0,0,16#37-27,ほざくな！皆殺しにしてくれるわ！
+Dialogue: 0,0:08:59.24,0:09:00.34,Default,ref,0,0,0,16#37-26,ウシワカ！
+Dialogue: 0,0:09:00.34,0:09:03.46,Default,ref,0,0,0,16#37-27,ほざくな！皆殺しにしてくれるわ！
 Comment: 0,0:09:05.23,0:09:06.17,Default,ja,0,0,0,,熱い！
 Dialogue: 0,0:09:05.23,0:09:06.17,Default,ko,0,0,0,,뜨거!
 Dialogue: 0,0:09:05.23,0:09:06.17,Default,en,0,0,0,,Hot!
-Dialogue: 0,0:09:11.79,0:09:13.09,Default,recap,0,0,0,16#37-28,行け！土蜘蛛！
-Dialogue: 0,0:09:29.92,0:09:31.54,Default,recap,0,0,0,16#37-29,これは任せるだス！
-Dialogue: 0,0:09:34.22,0:09:35.52,Default,recap,0,0,0,16#37-30,ムサシ！気をつけろ！
-Dialogue: 0,0:09:39.89,0:09:40.74,Default,recap,0,0,0,16#37-31,あ？こたつが！
+Dialogue: 0,0:09:11.79,0:09:13.09,Default,ref,0,0,0,16#37-28,行け！土蜘蛛！
+Dialogue: 0,0:09:29.92,0:09:31.54,Default,ref,0,0,0,16#37-29,これは任せるだス！
+Dialogue: 0,0:09:34.22,0:09:35.52,Default,ref,0,0,0,16#37-30,ムサシ！気をつけろ！
+Dialogue: 0,0:09:39.89,0:09:40.74,Default,ref,0,0,0,16#37-31,あ？こたつが！
 Comment: 0,0:09:43.26,0:09:45.33,Default,ja,0,0,0,,大切なこてつの敵だす！
 Dialogue: 0,0:09:43.26,0:09:45.33,Default,ko,0,0,0,,소중한 코테츠의 원한이오!
 Dialogue: 0,0:09:43.26,0:09:45.33,Default,en,0,0,0,,It's for the grudge of my precious Kotetsu-{\i1}dasu{\i0}!
@@ -360,9 +360,9 @@ Dialogue: 0,0:12:34.92,0:12:36.65,Default,en,0,0,0,,Tell me, Mr. Musashi.
 Comment: 0,0:12:37.02,0:12:41.60,Default,ja,0,0,0,,それと、おいらたち、九州で不知火一族と戦っていただス。
 Dialogue: 0,0:12:37.02,0:12:41.60,Default,ko,0,0,0,,그 쯤, 우리는 규슈에서 시라누이 일족하고 싸우고 있었소.
 Dialogue: 0,0:12:37.02,0:12:41.60,Default,en,0,0,0,,At that time, we were fighting against Shiranui Clan-{\i1}dasu{\i0}.
-Dialogue: 0,0:12:46.72,0:12:49.97,Default,recap,0,0,0,31#37-01,このよに～かぎり、退治するのがおいらの役目い！
-Dialogue: 0,0:12:50.51,0:12:53.71,Default,recap,0,0,0,31#37-02,二天一流の剣の差異を見せてやるだす！
-Dialogue: 0,0:13:13.83,0:13:16.18,Default,recap,0,0,0,31#37-03,～かぶとわり！
+Dialogue: 0,0:12:46.72,0:12:49.97,Default,ref,0,0,0,31#37-01,このよに～かぎり、退治するのがおいらの役目い！
+Dialogue: 0,0:12:50.51,0:12:53.71,Default,ref,0,0,0,31#37-02,二天一流の剣の差異を見せてやるだす！
+Dialogue: 0,0:13:13.83,0:13:16.18,Default,ref,0,0,0,31#37-03,～かぶとわり！
 Comment: 0,0:13:38.11,0:13:40.15,Default,ja,0,0,0,,いたいいたい
 Dialogue: 0,0:13:38.11,0:13:40.15,Default,ko,0,0,0,,아파아파!
 Dialogue: 0,0:13:38.11,0:13:40.15,Default,en,0,0,0,,It hurts, it hurts!
@@ -375,23 +375,23 @@ Dialogue: 0,0:13:43.47,0:13:45.30,Default,en,0,0,0,,Mommy! It hurts!
 Comment: 0,0:13:45.30,0:13:46.83,Default,ja,0,0,0,,どうしたの、ムサシ。
 Dialogue: 0,0:13:45.30,0:13:46.83,Default,ko,0,0,0,,왜 그러니, 무사시?
 Dialogue: 0,0:13:45.30,0:13:46.83,Default,en,0,0,0,,What's wrong, Musashi?
-Dialogue: 0,0:13:46.83,0:13:48.65,Default,recap,0,0,0,31#35-01,おいら、転んじゃったもん。
-Dialogue: 0,0:13:49.04,0:13:53.20,Default,recap,0,0,0,31#35-02,あら、痛かったわね。痛いの痛いの飛んで行け！
-Dialogue: 0,0:13:53.20,0:13:55.05,Default,recap,0,0,0,31#35-03,ほら！もう大丈夫でしょう？
-Dialogue: 0,0:13:55.05,0:13:56.71,Default,recap,0,0,0,31#35-04,もう痛くない。
-Dialogue: 0,0:14:00.31,0:14:01.28,Default,recap,0,0,0,31#35-05,母ちゃん。
-Dialogue: 0,0:14:04.19,0:14:06.40,Default,recap,0,0,0,31#37-04,母ちゃん！
-Dialogue: 0,0:14:08.06,0:14:08.92,Default,recap,0,0,0,31#37-05,夢か。。。
-Dialogue: 0,0:14:13.39,0:14:15.35,Default,recap,0,0,0,31#37-06,ムサシさん、気が付きましたね。
-Dialogue: 0,0:14:16.21,0:14:17.06,Default,recap,0,0,0,31#37-07,母ちゃん。。。
-Dialogue: 0,0:14:19.46,0:14:21.14,Default,recap,0,0,0,31#37-08,嫌ですわ、ムサシさん。
-Dialogue: 0,0:14:23.24,0:14:28.14,Default,recap,0,0,0,31#37-09,本当にこうしてると、おいら、母ちゃんといるみたいだス。
-Dialogue: 0,0:14:28.59,0:14:32.03,Default,recap,0,0,0,31#37-10,私はそんなにムサシさんのお母様に似ているかしら。
-Dialogue: 0,0:14:32.69,0:14:36.13,Default,recap,0,0,0,31#37-11,いや、おいら、母ちゃんにあったことないだスけど、
-Dialogue: 0,0:14:37.70,0:14:40.79,Default,recap,0,0,0,31#37-12,気が付いたら独りぼっちだっただスから。
-Dialogue: 0,0:14:41.56,0:14:42.59,Default,recap,0,0,0,31#37-13,そうなの。
-Dialogue: 0,0:14:43.48,0:14:46.79,Default,recap,0,0,0,31#37-14,もしいたら、きっとヒミコさんのようじゃないかって。
-Dialogue: 0,0:14:48.50,0:14:53.22,Default,recap,0,0,0,31#37-15,いい気分だすな、ウンゼンまできた～あったってもんだす！
+Dialogue: 0,0:13:46.83,0:13:48.65,Default,ref,0,0,0,31#35-01,おいら、転んじゃったもん。
+Dialogue: 0,0:13:49.04,0:13:53.20,Default,ref,0,0,0,31#35-02,あら、痛かったわね。痛いの痛いの飛んで行け！
+Dialogue: 0,0:13:53.20,0:13:55.05,Default,ref,0,0,0,31#35-03,ほら！もう大丈夫でしょう？
+Dialogue: 0,0:13:55.05,0:13:56.71,Default,ref,0,0,0,31#35-04,もう痛くない。
+Dialogue: 0,0:14:00.31,0:14:01.28,Default,ref,0,0,0,31#35-05,母ちゃん。
+Dialogue: 0,0:14:04.19,0:14:06.40,Default,ref,0,0,0,31#37-04,母ちゃん！
+Dialogue: 0,0:14:08.06,0:14:08.92,Default,ref,0,0,0,31#37-05,夢か。。。
+Dialogue: 0,0:14:13.39,0:14:15.35,Default,ref,0,0,0,31#37-06,ムサシさん、気が付きましたね。
+Dialogue: 0,0:14:16.21,0:14:17.06,Default,ref,0,0,0,31#37-07,母ちゃん。。。
+Dialogue: 0,0:14:19.46,0:14:21.14,Default,ref,0,0,0,31#37-08,嫌ですわ、ムサシさん。
+Dialogue: 0,0:14:23.24,0:14:28.14,Default,ref,0,0,0,31#37-09,本当にこうしてると、おいら、母ちゃんといるみたいだス。
+Dialogue: 0,0:14:28.59,0:14:32.03,Default,ref,0,0,0,31#37-10,私はそんなにムサシさんのお母様に似ているかしら。
+Dialogue: 0,0:14:32.69,0:14:36.13,Default,ref,0,0,0,31#37-11,いや、おいら、母ちゃんにあったことないだスけど、
+Dialogue: 0,0:14:37.70,0:14:40.79,Default,ref,0,0,0,31#37-12,気が付いたら独りぼっちだっただスから。
+Dialogue: 0,0:14:41.56,0:14:42.59,Default,ref,0,0,0,31#37-13,そうなの。
+Dialogue: 0,0:14:43.48,0:14:46.79,Default,ref,0,0,0,31#37-14,もしいたら、きっとヒミコさんのようじゃないかって。
+Dialogue: 0,0:14:48.50,0:14:53.22,Default,ref,0,0,0,31#37-15,いい気分だすな、ウンゼンまできた～あったってもんだす！
 Comment: 0,0:14:54.91,0:14:59.79,Default,ja,0,0,0,,ヒミコさんは、とっても優しくて、本当の母ちゃん用だったんだす。
 Dialogue: 0,0:14:54.91,0:14:59.79,Default,ko,0,0,0,,히미코 씨는 정말 상냥하고 정말 엄마 같았소.
 Dialogue: 0,0:14:54.91,0:14:59.79,Default,en,0,0,0,,Ms. Himiko was really kind, and she was as if my mother-{\i1}dasu{\i0}.
@@ -401,17 +401,17 @@ Dialogue: 0,0:15:00.59,0:15:01.08,Default,en,0,0,0,,But...
 Comment: 0,0:15:06.79,0:15:11.07,Default,ja,0,0,0,,ムサシ！あのヒミコという女は、不知火一族の女王なんだぞ！
 Dialogue: 0,0:15:06.79,0:15:11.07,Default,ko,0,0,0,,무사시! 저 히미코라는 여자는 시라누이 일족의 여왕이야!
 Dialogue: 0,0:15:06.79,0:15:11.07,Default,en,0,0,0,,Musashi! That Himiko woman is the queen of Shiranui Clan!
-Dialogue: 0,0:15:11.51,0:15:13.18,Default,recap,0,0,0,33#37-01,そんなことあるわけないんだす！
+Dialogue: 0,0:15:11.51,0:15:13.18,Default,ref,0,0,0,33#37-01,そんなことあるわけないんだす！
 Comment: 0,0:15:13.56,0:15:15.91,Default,ja,0,0,0,,俺が確かめたんだ！間違いない！
 Dialogue: 0,0:15:13.56,0:15:15.91,Default,ko,0,0,0,,내가 확인했어! 틀림없어!
 Dialogue: 0,0:15:13.56,0:15:15.91,Default,en,0,0,0,,I checked it and there's no doubt about it!
-Dialogue: 0,0:15:16.05,0:15:20.39,Default,recap,0,0,0,33#37-02,ヒミコさんは、おいらに優しくしてくれたんだす！その人は！
+Dialogue: 0,0:15:16.05,0:15:20.39,Default,ref,0,0,0,33#37-02,ヒミコさんは、おいらに優しくしてくれたんだす！その人は！
 Comment: 0,0:15:20.79,0:15:22.82,Default,ja,0,0,0,,あの女は俺たちの敵なんだぞ！
 Dialogue: 0,0:15:20.79,0:15:22.82,Default,ko,0,0,0,,저 여자는 우리 적이야!
 Dialogue: 0,0:15:20.79,0:15:22.82,Default,en,0,0,0,,That woman is our enemy!
-Dialogue: 0,0:15:23.56,0:15:25.26,Default,recap,0,0,0,33#37-03,いうな！聞きたく無いだス！
-Dialogue: 0,0:15:25.65,0:15:27.37,Default,recap,0,0,0,33#37-04,聞きたくないだす。
-Dialogue: 0,0:15:28.82,0:15:29.88,Default,recap,0,0,0,33#37-05,わかったよ、ムサシ。
+Dialogue: 0,0:15:23.56,0:15:25.26,Default,ref,0,0,0,33#37-03,いうな！聞きたく無いだス！
+Dialogue: 0,0:15:25.65,0:15:27.37,Default,ref,0,0,0,33#37-04,聞きたくないだす。
+Dialogue: 0,0:15:28.82,0:15:29.88,Default,ref,0,0,0,33#37-05,わかったよ、ムサシ。
 Comment: 0,0:15:37.79,0:15:48.29,Default,ja,0,0,0,,おいら、あの優しいヒミコさんが不知火の女王なんて信じられなかっただす。だから、シラヌイの本拠地、桜島へ乗り込んで。。。
 Dialogue: 0,0:15:37.79,0:15:48.29,Default,ko,0,0,0,,나, 그 상냥한 히미코 씨가 시라누이의 여왕이라니 믿을 수 없었소. 그래서 시라누이의 본거지, 사쿠라지마에 들어가서...
 Dialogue: 0,0:15:37.79,0:15:43.76,Default,en,0,0,0,,I couldn't believe that kind Ms. Himiko was a queen of Shiranui-{\i1}dasu{\i0}.
@@ -428,51 +428,51 @@ Dialogue: 0,0:16:42.88,0:16:47.28,Default,en,0,0,0,,{\i1}Just like Jiraiyan said
 Comment: 0,0:16:49.18,0:16:52.88,Default,ja,0,0,0,,ヒミコ様！ヒミコ様！
 Dialogue: 0,0:16:49.18,0:16:52.88,Default,ko,0,0,0,,히미코 님! 히미코 님!
 Dialogue: 0,0:16:49.18,0:16:52.88,Default,en,0,0,0,,Lord Himiko! Lord Himiko!
-Dialogue: 0,0:16:53.31,0:17:00.60,Default,recap,0,0,0,35#37-01,皆のもの。聞いてくれ。我らの～ため、あらたな仲間が力を貸してくれることになった。
-Dialogue: 0,0:17:00.99,0:17:02.25,Default,recap,0,0,0,35#37-02,さ、ハンゾウ殿。
-Dialogue: 0,0:17:04.74,0:17:14.16,Default,recap,0,0,0,35#37-03,諸君！我々の目的達成のためには、まず不知火一族が～、ジパング国を転覆させることにある。
-Dialogue: 0,0:17:14.78,0:17:18.56,Default,recap,0,0,0,35#37-04,皆のもの！我らとハンゾウに勝利の誓いを！
-Dialogue: 0,0:17:18.83,0:17:24.97,Default,recap,0,0,0,35#37-05,おう！ヒミコ女王様！おう！ハンゾウ殿！
-Dialogue: 0,0:17:32.70,0:17:34.12,Default,recap,0,0,0,35#37-06,そこのもの、どこへ行く！
+Dialogue: 0,0:16:53.31,0:17:00.60,Default,ref,0,0,0,35#37-01,皆のもの。聞いてくれ。我らの～ため、あらたな仲間が力を貸してくれることになった。
+Dialogue: 0,0:17:00.99,0:17:02.25,Default,ref,0,0,0,35#37-02,さ、ハンゾウ殿。
+Dialogue: 0,0:17:04.74,0:17:14.16,Default,ref,0,0,0,35#37-03,諸君！我々の目的達成のためには、まず不知火一族が～、ジパング国を転覆させることにある。
+Dialogue: 0,0:17:14.78,0:17:18.56,Default,ref,0,0,0,35#37-04,皆のもの！我らとハンゾウに勝利の誓いを！
+Dialogue: 0,0:17:18.83,0:17:24.97,Default,ref,0,0,0,35#37-05,おう！ヒミコ女王様！おう！ハンゾウ殿！
+Dialogue: 0,0:17:32.70,0:17:34.12,Default,ref,0,0,0,35#37-06,そこのもの、どこへ行く！
 Comment: 0,0:17:34.63,0:17:39.65,Default,ja,0,0,0,,え、その、えっと、なんかこうふんして、～したくなっただす。
 Dialogue: 0,0:17:34.63,0:17:39.65,Default,ko,0,0,0,,어, 그게, 저, 왠지 흥분해서 소변을 보고 싶어졌소.
 Dialogue: 0,0:17:34.63,0:17:39.65,Default,en,0,0,0,,Um, err, that's, I was so excited that I want to urinate-{\i1}dasu{\i0}.
-Dialogue: 0,0:17:40.41,0:17:41.03,Default,recap,0,0,0,35#37-07,だす。
-Dialogue: 0,0:17:41.65,0:17:43.55,Default,recap,0,0,0,35#37-08,いやいや、行くでゴワス。
-Dialogue: 0,0:17:44.04,0:17:45.47,Default,recap,0,0,0,35#37-09,顔を見せてみろ。
-Dialogue: 0,0:17:45.78,0:17:48.84,Default,recap,0,0,0,35#37-10,い、いや、お見せするほどの顔じゃないだす。
-Dialogue: 0,0:17:48.84,0:17:50.29,Default,recap,0,0,0,35#37-11,じゃなくて、ゴワス。
-Dialogue: 0,0:17:50.52,0:17:52.39,Default,recap,0,0,0,35#37-12,ああ、やめるでゴワス！
+Dialogue: 0,0:17:40.41,0:17:41.03,Default,ref,0,0,0,35#37-07,だす。
+Dialogue: 0,0:17:41.65,0:17:43.55,Default,ref,0,0,0,35#37-08,いやいや、行くでゴワス。
+Dialogue: 0,0:17:44.04,0:17:45.47,Default,ref,0,0,0,35#37-09,顔を見せてみろ。
+Dialogue: 0,0:17:45.78,0:17:48.84,Default,ref,0,0,0,35#37-10,い、いや、お見せするほどの顔じゃないだす。
+Dialogue: 0,0:17:48.84,0:17:50.29,Default,ref,0,0,0,35#37-11,じゃなくて、ゴワス。
+Dialogue: 0,0:17:50.52,0:17:52.39,Default,ref,0,0,0,35#37-12,ああ、やめるでゴワス！
 Comment: 0,0:17:53.76,0:17:56.32,Default,ja,0,0,0,,ムサシ？ムサシ！お前！
 Dialogue: 0,0:17:53.76,0:17:56.32,Default,ko,0,0,0,,무사시? 무사시, 너!
 Dialogue: 0,0:17:53.76,0:17:56.32,Default,en,0,0,0,,Musashi?! Musashi, you!
 Comment: 0,0:17:56.78,0:17:58.62,Default,ja,0,0,0,,ヒミコさん！いや、ヒミコ！
 Dialogue: 0,0:17:56.78,0:17:58.62,Default,ko,0,0,0,,히미코 씨! 아니, 히미코!
 Dialogue: 0,0:17:56.78,0:17:58.62,Default,en,0,0,0,,Ms. Himiko! No, Himiko!
-Dialogue: 0,0:17:58.94,0:18:01.18,Default,recap,0,0,0,35#37-13,よくも俺を騙してくれたんだすな！
-Dialogue: 0,0:18:01.18,0:18:03.08,Default,recap,0,0,0,35#37-14,騙されるほうがバカなのさ。
+Dialogue: 0,0:17:58.94,0:18:01.18,Default,ref,0,0,0,35#37-13,よくも俺を騙してくれたんだすな！
+Dialogue: 0,0:18:01.18,0:18:03.08,Default,ref,0,0,0,35#37-14,騙されるほうがバカなのさ。
 Comment: 0,0:18:03.60,0:18:07.53,Default,ja,0,0,0,,しかし、相変わらずその馬鹿さ加減は治らなかったようだな。
 Dialogue: 0,0:18:03.60,0:18:07.53,Default,ko,0,0,0,,그래도 여전히 그 멍청함은 안 고쳐졌나 보구나.
 Dialogue: 0,0:18:03.60,0:18:07.53,Default,en,0,0,0,,But as usual, your idiocy wasn't fixed after all!
-Dialogue: 0,0:18:08.07,0:18:11.83,Default,recap,0,0,0,35#37-15,のこのこと不知火の本拠地に乗り込んでくるとはな。
-Dialogue: 0,0:18:12.37,0:18:15.38,Default,recap,0,0,0,35#37-16,その～おいらのいいところだす！
-Dialogue: 0,0:18:15.97,0:18:16.91,Default,recap,0,0,0,35#37-17,ほざくな、小僧！
-Dialogue: 0,0:18:22.63,0:18:23.35,Default,recap,0,0,0,35#37-18,くそ！
-Dialogue: 0,0:18:24.72,0:18:27.23,Default,recap,0,0,0,35#37-19,こんどこそあの世に送り返してやる！
-Dialogue: 0,0:18:28.48,0:18:29.31,Default,recap,0,0,0,35#37-20,なに？！
-Dialogue: 0,0:18:41.08,0:18:41.80,Default,recap,0,0,0,35#37-21,ジライヤン！
-Dialogue: 0,0:18:41.80,0:18:42.31,Default,recap,0,0,0,35#37-22,ムサシ！
-Dialogue: 0,0:18:46.01,0:18:51.27,Default,recap,0,0,0,35#37-23,ジライヤン、すまんだす。やっぱりヒミコは不知火一族の女王だっただス。
-Dialogue: 0,0:18:51.51,0:18:53.85,Default,recap,0,0,0,35#37-24,もういいから、とにかく逃げるんだ！
+Dialogue: 0,0:18:08.07,0:18:11.83,Default,ref,0,0,0,35#37-15,のこのこと不知火の本拠地に乗り込んでくるとはな。
+Dialogue: 0,0:18:12.37,0:18:15.38,Default,ref,0,0,0,35#37-16,その～おいらのいいところだす！
+Dialogue: 0,0:18:15.97,0:18:16.91,Default,ref,0,0,0,35#37-17,ほざくな、小僧！
+Dialogue: 0,0:18:22.63,0:18:23.35,Default,ref,0,0,0,35#37-18,くそ！
+Dialogue: 0,0:18:24.72,0:18:27.23,Default,ref,0,0,0,35#37-19,こんどこそあの世に送り返してやる！
+Dialogue: 0,0:18:28.48,0:18:29.31,Default,ref,0,0,0,35#37-20,なに？！
+Dialogue: 0,0:18:41.08,0:18:41.80,Default,ref,0,0,0,35#37-21,ジライヤン！
+Dialogue: 0,0:18:41.80,0:18:42.31,Default,ref,0,0,0,35#37-22,ムサシ！
+Dialogue: 0,0:18:46.01,0:18:51.27,Default,ref,0,0,0,35#37-23,ジライヤン、すまんだす。やっぱりヒミコは不知火一族の女王だっただス。
+Dialogue: 0,0:18:51.51,0:18:53.85,Default,ref,0,0,0,35#37-24,もういいから、とにかく逃げるんだ！
 Comment: 0,0:19:17.19,0:19:19.24,Default,ja,0,0,0,,それから？どうしたの？
 Dialogue: 0,0:19:17.19,0:19:19.24,Default,ko,0,0,0,,그래서? 어쨌어?
 Dialogue: 0,0:19:17.19,0:19:19.24,Default,en,0,0,0,,And? What happened?
 Comment: 0,0:19:20.06,0:19:24.80,Default,ja,0,0,0,,ハンゾウが、ヒミコさんを裏切って、ヒミコさんが死んじゃっただス。
 Dialogue: 0,0:19:20.06,0:19:24.80,Default,ko,0,0,0,,한조가 히미코 씨를 배신해서 히미코 씨가 죽었소.
 Dialogue: 0,0:19:20.06,0:19:24.80,Default,en,0,0,0,,Hanzō betrayed Ms. Himiko and Ms. Himiko died-{\i1}dasu{\i0}.
-Dialogue: 0,0:19:26.93,0:19:31.44,Default,recap,0,0,0,36#37-01,ムサシ。私を許してくれますか？
-Dialogue: 0,0:19:40.13,0:19:43.88,Default,recap,0,0,0,36#37-02,む、ムサシ。最後にお母さんと呼んでくれ。
-Dialogue: 0,0:19:45.69,0:19:48.02,Default,recap,0,0,0,36#37-03,母ちゃん！
+Dialogue: 0,0:19:26.93,0:19:31.44,Default,ref,0,0,0,36#37-01,ムサシ。私を許してくれますか？
+Dialogue: 0,0:19:40.13,0:19:43.88,Default,ref,0,0,0,36#37-02,む、ムサシ。最後にお母さんと呼んでくれ。
+Dialogue: 0,0:19:45.69,0:19:48.02,Default,ref,0,0,0,36#37-03,母ちゃん！
 Comment: 0,0:19:54.62,0:19:56.39,Default,ja,0,0,0,,とってもつらかったよね。
 Dialogue: 0,0:19:54.62,0:19:56.39,Default,ko,0,0,0,,정말 쓰라렸겠구나.
 Dialogue: 0,0:19:54.62,0:19:56.39,Default,en,0,0,0,,That must've been hurt.
@@ -581,19 +581,19 @@ Dialogue: 0,0:22:15.20,0:22:20.37,Default,en,0,0,0,,When he thought he became th
 Comment: 0,0:22:21.09,0:22:26.33,Default,ja,0,0,0,,しかし、くじけるな、ムサシ！明るい明日が待っている！
 Dialogue: 0,0:22:21.09,0:22:26.33,Default,ko,0,0,0,,그러나 기죽지 마라, 무사시! 밝은 내일이 기다린다!
 Dialogue: 0,0:22:21.09,0:22:26.33,Default,en,0,0,0,,But don't be discouraged, Musashi! A bright tomorrow is waiting for you!
-Dialogue: 0,0:22:41.81,0:22:43.85,SongED1,ED1!Lyric01,0,0,0,,カラのポケットに　ツキが
-Dialogue: 0,0:22:44.56,0:22:47.10,SongED1,ED1!Lyric02,0,0,0,,飛び込むことも　あるさ
-Dialogue: 0,0:22:47.31,0:22:49.48,SongED1,ED1!Lyric03,0,0,0,,おっきな声で　笑えば
-Dialogue: 0,0:22:50.11,0:22:52.11,SongED1,ED1!Lyric04,0,0,0,,あしたには　朝が来る
-Dialogue: 0,0:22:52.86,0:22:57.45,SongED1,ED1!Lyric05,0,0,0,,無くすものなんか　何もないさ
-Dialogue: 0,0:22:58.45,0:23:01.03,SongED1,ED1!Lyric06,0,0,0,,やっちゃえ！イケイケ！
-Dialogue: 0,0:23:01.03,0:23:03.45,SongED1,ED1!Lyric07,0,0,0,,手ぶらは　強いぜ
-Dialogue: 0,0:23:03.87,0:23:13.54,SongED1,ED1!Lyric08,0,0,0,,てなもんだ　のーてんきに行こう
-Dialogue: 0,0:23:14.00,0:23:21.59,SongED1,ED1!Lyric09,0,0,0,,人生　てなもんさ　チャンスが　ほら
-Dialogue: 0,0:23:22.05,0:23:26.31,SongED1,ED1!Lyric10,0,0,0,,しっぽを振って　追ってくるぜ
-Dialogue: 0,0:23:27.73,0:23:37.24,SongED1,ED1!Lyric11,0,0,0,,てなもんだ　のーてんきに行こう
-Dialogue: 0,0:23:37.74,0:23:45.70,SongED1,ED1!Lyric12,0,0,0,,未来も　てなもんさ　あしたが　ほら
-Dialogue: 0,0:23:45.95,0:23:51.54,SongED1,ED1!Lyric13,0,0,0,,両手ひろげて　笑ってるぜ
+Dialogue: 0,0:22:41.81,0:22:43.85,SongED1,ref,0,0,0,ED1!Lyric01,カラのポケットに　ツキが
+Dialogue: 0,0:22:44.56,0:22:47.10,SongED1,ref,0,0,0,ED1!Lyric02,飛び込むことも　あるさ
+Dialogue: 0,0:22:47.31,0:22:49.48,SongED1,ref,0,0,0,ED1!Lyric03,おっきな声で　笑えば
+Dialogue: 0,0:22:50.11,0:22:52.11,SongED1,ref,0,0,0,ED1!Lyric04,あしたには　朝が来る
+Dialogue: 0,0:22:52.86,0:22:57.45,SongED1,ref,0,0,0,ED1!Lyric05,無くすものなんか　何もないさ
+Dialogue: 0,0:22:58.45,0:23:01.03,SongED1,ref,0,0,0,ED1!Lyric06,やっちゃえ！イケイケ！
+Dialogue: 0,0:23:01.03,0:23:03.45,SongED1,ref,0,0,0,ED1!Lyric07,手ぶらは　強いぜ
+Dialogue: 0,0:23:03.87,0:23:13.54,SongED1,ref,0,0,0,ED1!Lyric08,てなもんだ　のーてんきに行こう
+Dialogue: 0,0:23:14.00,0:23:21.59,SongED1,ref,0,0,0,ED1!Lyric09,人生　てなもんさ　チャンスが　ほら
+Dialogue: 0,0:23:22.05,0:23:26.31,SongED1,ref,0,0,0,ED1!Lyric10,しっぽを振って　追ってくるぜ
+Dialogue: 0,0:23:27.73,0:23:37.24,SongED1,ref,0,0,0,ED1!Lyric11,てなもんだ　のーてんきに行こう
+Dialogue: 0,0:23:37.74,0:23:45.70,SongED1,ref,0,0,0,ED1!Lyric12,未来も　てなもんさ　あしたが　ほら
+Dialogue: 0,0:23:45.95,0:23:51.54,SongED1,ref,0,0,0,ED1!Lyric13,両手ひろげて　笑ってるぜ
 Comment: 0,0:24:04.46,0:24:06.85,Default,ja,0,0,0,,さあ、帰ってきただす、エドトピア！
 Dialogue: 0,0:24:04.46,0:24:06.85,Default,ko,0,0,0,,자, 돌아왔소, 에도토피아!
 Dialogue: 0,0:24:04.46,0:24:06.85,Default,en,0,0,0,,We're finally back at Edotopia-{\i1}dasu{\i0}!

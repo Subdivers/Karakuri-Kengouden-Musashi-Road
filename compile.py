@@ -325,21 +325,22 @@ def resolve_xref(subtitles: dict[str, Ass]):
         i = 0
         while i < len(ass.events):
             event = ass.events[i]
-            sep = event.name.find("!")
-            if sep != -1:
-                ref_file = event.name[:sep]
-                ref_ass = ass if ref_file == '' else subtitles[ref_file]
-                ref_key = ";" + event.name[sep + 1:]
-                ref_lines = []
-                for x in ref_ass.events:
-                    if not x.name.endswith(ref_key):
-                        continue
-                    rl = event.clone()
-                    rl.event_type = x.event_type
-                    rl.name = x.name[:-len(ref_key)]
-                    rl.text = x.text
-                    ref_lines.append(rl)
-                ass.events[i:i + 1] = ref_lines
+            if event.name != 'ref':
+                i += 1
+                continue
+            ref_file, ref_key = event.effect.split('!', 1)
+            ref_ass = ass if ref_file == '' else subtitles[ref_file]
+            ref_lines = []
+            for x in ref_ass.events:
+                if x.effect != ref_key:
+                    continue
+                rl = event.clone()
+                rl.event_type = x.event_type
+                rl.name = x.name
+                rl.effect = ''
+                rl.text = x.text
+                ref_lines.append(rl)
+            ass.events[i:i + 1] = ref_lines
             i += 1
 
 
@@ -407,7 +408,8 @@ def extract_language(ass: Ass, language_code: str):
     new_ass.styles.extend(x.clone() for x in ass.styles)
     new_ass.events.extend(
         x.clone() for x in ass.events if
-        x.event_type == 'Dialogue' and x.name == language_code or x.name.startswith(f";{language_code}"))
+        (x.event_type == 'Dialogue' or (x.event_type == 'Comment' and language_code == 'ja'))
+        and x.name == language_code)
 
     return new_ass
 
@@ -415,6 +417,7 @@ def extract_language(ass: Ass, language_code: str):
 def __main__():
     dir_videos = pathlib.Path("./Videos")
     dir_subtitles = pathlib.Path("./Episodes")
+    dir_subtitle_exports = pathlib.Path("./SubtitleExports")
     subtitles: dict[str, Ass] = {}
 
     for f in dir_subtitles.iterdir():
@@ -422,9 +425,22 @@ def __main__():
             continue
         subtitles[f.name[:-4]] = Ass(f)
 
+    subtitles = {k: v for k, v in subtitles.items() if k in ('OP', 'ED1') or int(k, 10) <= 18}
     resolve_xref(subtitles)
-    print(generate_chapters(subtitles["14"]))
-    print(extract_language(subtitles["14"], "en").export())
+
+    # print(generate_chapters(subtitles["14"]))
+    # print(extract_language(subtitles["14"], "en").export())
+
+    for k, v in subtitles.items():
+        (dir_subtitle_exports / "en" / f"{k}.ass").write_text(
+            extract_language(v, "en").export(),
+            encoding="utf-8-sig")
+        (dir_subtitle_exports / "ko" / f"{k}.ass").write_text(
+            extract_language(v, "ko").export(),
+            encoding="utf-8-sig")
+        (dir_subtitle_exports / "ja" / f"{k}.ass").write_text(
+            extract_language(v, "ja").export(),
+            encoding="utf-8-sig")
     return 0
 
 

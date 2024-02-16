@@ -1,0 +1,299 @@
+﻿[Script Info]
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 480
+Title: The Ultimate Thief of Shining Gold, Goemondo
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: NoteOnAnime,Candara,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,10,1
+Style: OP1TR,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: TitleOP,DejaVu Serif,42,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: TitleEP,DejaVu Serif,42,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: ED1TR,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: Note,Candara,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,10,10,10,1
+Style: Eyecatch,Candara,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,10,10,10,1
+Style: NoteOnAnimeVert,@맑은 고딕,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,10,1
+Style: InsOtsuru,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.48,0:00:06.71,Default,en,0,0,0,,It is the turbulent Sengoku period.
+Dialogue: 0,0:00:07.12,0:00:11.62,Default,en,0,0,0,,Warlords keep on fighting day and night over\NJipangu State, where Karakuri people live.
+Dialogue: 0,0:00:12.01,0:00:16.63,Default,en,0,0,0,,Karakuri martial artists were sharpening their swords, dreaming of victory and honor.
+Dialogue: 0,0:00:16.99,0:00:23.32,Default,en,0,0,0,,And now, a wild hero has arrived, seeking to be the number one Karakuri martial artist!
+Dialogue: 0,0:00:24.57,0:00:27.04,Default,en,0,0,0,,Musashi is here-{\i1}dasu{\i0}!
+Dialogue: 0,0:00:28.06,0:00:33.24,TitleOP,en,0,0,40,,{\an8\fs32\fade(770,0)}Karakuri Kengouden
+Dialogue: 0,0:00:28.06,0:00:33.24,TitleOP,en,0,0,40,,{\fade(770,0)}Musashi Road
+Dialogue: 0,0:00:28.06,0:00:33.24,TitleOP,en,0,0,40,,{\fs24\fade(770,0)}(The Story of {\i1}Karakuri{\i0} Martial Artist: Road of Musashi)
+Dialogue: 0,0:00:33.24,0:00:38.08,SongOP,en,0,0,0,,A man always dreams of the day
+Dialogue: 0,0:00:38.91,0:00:41.83,SongOP,en,0,0,0,,in the center of the world to become
+Dialogue: 0,0:00:41.83,0:00:44.71,SongOP,en,0,0,0,,AH! AH! the strongest
+Dialogue: 0,0:00:44.71,0:00:49.76,SongOP,en,0,0,0,,Raise the sword of your heart high to the wide sky
+Dialogue: 0,0:00:50.38,0:00:54.39,SongOP,en,0,0,0,,Raise the curtain to the road of adventure
+Dialogue: 0,0:00:55.72,0:01:00.98,SongOP,en,0,0,0,,A skilled swordsman roams on Jipangu State
+Dialogue: 0,0:01:01.56,0:01:06.61,SongOP,en,0,0,0,,His name is Musashi, a Karakuri man
+Dialogue: 0,0:01:06.61,0:01:08.11,SongOP,en,0,0,0,,Go! Fight!
+Dialogue: 0,0:01:08.11,0:01:11.03,SongOP,en,0,0,0,,The sound of fierce duels
+Dialogue: 0,0:01:11.03,0:01:13.86,SongOP,en,0,0,0,,makes life dazzling
+Dialogue: 0,0:01:13.86,0:01:19.33,SongOP,en,0,0,0,,Battles of yesterdays make you stronger today
+Dialogue: 0,0:01:19.37,0:01:25.58,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
+Dialogue: 0,0:01:25.58,0:01:28.59,SongOP,en,0,0,0,,Tomorrow will be glorious
+Dialogue: 0,0:01:28.59,0:01:31.05,SongOP,en,0,0,0,,The sound of fierce duels
+Dialogue: 0,0:01:31.05,0:01:33.55,SongOP,en,0,0,0,,makes life dazzling
+Dialogue: 0,0:01:34.26,0:01:39.64,SongOP,en,0,0,0,,Fight the utmost with the stillness
+Dialogue: 0,0:01:39.68,0:01:45.90,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
+Dialogue: 0,0:01:45.90,0:01:51.11,SongOP,en,0,0,0,,His eyes shined! Musashi!
+Dialogue: 0,0:02:00.29,0:02:07.73,Default,en,0,0,0,,To help troubled villagers, Senhime's group fought against and took down Yamata no Orochi under Shutentiger's cotrol.
+Dialogue: 0,0:02:08.03,0:02:14.14,Default,en,0,0,0,,And Musashi managed to obtain Tenkūmaru, hidden inside Yamata no Orochi.
+Dialogue: 0,0:02:14.43,0:02:18.50,Default,en,0,0,0,,By this, he is one step closer to the mastery of the technique of dual blades.
+Dialogue: 0,0:02:18.72,0:02:23.72,TitleEP,en,0,0,225,,The Ultimate Thief of
+Dialogue: 0,0:02:18.72,0:02:23.72,TitleEP,en,0,0,90,,Shining Gold, Goemondo
+Dialogue: 0,0:02:24.71,0:02:28.05,Default,en,0,0,0,,Damned Musashi and Kojirō...
+Dialogue: 0,0:02:28.92,0:02:32.20,Default,en,0,0,0,,Is Goemondo not in touch yet?
+Dialogue: 0,0:02:32.51,0:02:37.89,Default,en,0,0,0,,T- that's... we did everything we could, but he still is out of reach.
+Dialogue: 0,0:02:38.26,0:02:39.24,Default,en,0,0,0,,That lazy...
+Dialogue: 0,0:02:39.80,0:02:43.88,Default,en,0,0,0,,Countless times have I told him to give it his all on the job...
+Dialogue: 0,0:02:49.01,0:02:51.48,Default,en,0,0,0,,Contact Goemondo no matter the cost!
+Dialogue: 0,0:02:51.87,0:02:52.55,Default,en,0,0,0,,Yessir!
+Dialogue: 0,0:02:53.04,0:02:56.91,Default,en,0,0,0,,Meanwhile, Musashi's group was in mountain around Yamagata.
+Dialogue: 0,0:03:16.86,0:03:18.11,Default,en,0,0,0,,Who is it-{\i1}dasu{\i0}?
+Dialogue: 0,0:03:19.23,0:03:20.04,Default,en,0,0,0,,It's me!
+Dialogue: 0,0:03:20.64,0:03:23.11,Default,en,0,0,0,,Osenchan! Don't interrupt me like that-{\i1}dasu{\i0}!
+Dialogue: 0,0:03:23.29,0:03:24.79,Default,en,0,0,0,,But I'm bored.
+Dialogue: 0,0:03:25.12,0:03:28.29,Default,en,0,0,0,,Hey! I am not playing-{\i1}dasu{\i0}!
+Dialogue: 0,0:03:29.07,0:03:32.83,Default,en,0,0,0,,I was training to develop the technique of dual blades-{\i1}dasu{\i0}!
+Dialogue: 0,0:03:33.49,0:03:36.80,Default,en,0,0,0,,If you want someone to play with that much, then go play with Kojirō-{\i1}dasu{\i0}!
+Dialogue: 0,0:03:37.10,0:03:41.08,Default,en,0,0,0,,No way! Kojirō's always too serious and he's no fun.
+Dialogue: 0,0:03:46.18,0:03:49.19,Default,en,0,0,0,,Alright. This rotation is just right.
+Dialogue: 0,0:03:49.69,0:03:55.05,Default,en,0,0,0,,Hey, if you're not going to play, then let's get out of the mountain as soon as possible.
+Dialogue: 0,0:03:55.41,0:03:57.36,Default,en,0,0,0,,But I have to train my technique of dual blades...
+Dialogue: 0,0:03:58.09,0:04:04.20,Default,en,0,0,0,,Can't you hear me? Then I'll ask my grandpa to decapitate you!
+Dialogue: 0,0:04:04.30,0:04:07.19,Default,en,0,0,0,,T- that's... All right-{\i1}dasu{\i0}.
+Dialogue: 0,0:04:07.54,0:04:08.84,Default,en,0,0,0,,Hey, you people over there.
+Dialogue: 0,0:04:10.33,0:04:12.48,Default,en,0,0,0,,What are you doing here?
+Dialogue: 0,0:04:13.21,0:04:14.97,Default,en,0,0,0,,To train my sword skills-{\i1}dasu{\i0}.
+Dialogue: 0,0:04:15.50,0:04:19.05,Default,en,0,0,0,,Train your sword skills? That sounds suspicious. Get them!
+Dialogue: 0,0:04:21.36,0:04:22.89,Default,en,0,0,0,,What a handsome man!
+Dialogue: 0,0:04:24.38,0:04:25.80,Default,en,0,0,0,,Osenchan, get back-{\i1}dasu{\i0}!
+Dialogue: 0,0:04:29.50,0:04:35.61,Default,en,0,0,0,,It's cowardly to rush at me all of sudden-{\i1}dasu{\i0}! That leaves me no choice but to get rid of all those sparks jumping to me-{\i1}dasu{\i0}.
+Dialogue: 0,0:04:50.20,0:04:54.58,Default,en,0,0,0,,Yielding such a suspicious thing also must be telling that you're working for Goemondo.
+Dialogue: 0,0:04:55.70,0:04:57.03,Default,en,0,0,0,,Who is Goemondo-{\i1}dasu{\i0}?
+Dialogue: 0,0:05:03.55,0:05:04.47,Default,en,0,0,0,,Easy thing-{\i1}dasu{\i0}!
+Dialogue: 0,0:05:17.70,0:05:18.45,Default,en,0,0,0,,Kojirō!
+Dialogue: 0,0:05:20.17,0:05:21.85,Default,en,0,0,0,,More comrades?
+Dialogue: 0,0:05:24.98,0:05:26.40,Default,en,0,0,0,,You saved me-{\i1}dasu{\i0}!
+Dialogue: 0,0:05:26.84,0:05:32.45,Default,en,0,0,0,,Musashi, you are not desperate enough! You are never opening your eyes to dual blades at that rate!
+Dialogue: 0,0:05:33.10,0:05:34.08,Default,en,0,0,0,,What did you say-{\i1}dasu{\i0}?!
+Dialogue: 0,0:05:34.30,0:05:35.21,Default,en,0,0,0,,Chink in the armor!
+Dialogue: 0,0:05:40.93,0:05:45.93,Default,en,0,0,0,,Please wait. While I am not sure about what was going on, but we swear that we do nothing suspicious.
+Dialogue: 0,0:05:47.32,0:05:49.93,Default,en,0,0,0,,I do not intend to be fooled over such lie!
+Dialogue: 0,0:05:50.58,0:05:51.90,Default,en,0,0,0,,Let me settle this!
+Dialogue: 0,0:05:52.98,0:05:55.38,Default,en,0,0,0,,Stop! Freeze!
+Dialogue: 0,0:05:57.69,0:06:07.74,Default,en,0,0,0,,I am Senhime, the granddaughter of General Ieyasu, the ruler of Kantō, the number one of Jipangu!
+Dialogue: 0,0:06:10.37,0:06:13.50,Default,en,0,0,0,,You are being impudent! Lower your heads!
+Dialogue: 0,0:06:14.58,0:06:16.27,Default,en,0,0,0,,Yessir!
+Dialogue: 0,0:06:18.12,0:06:21.85,Default,en,0,0,0,,I am not going to make excuses on our grave discourtesy.
+Dialogue: 0,0:06:23.58,0:06:26.22,Default,en,0,0,0,,Alright, alright! You can straighten yourself.
+Dialogue: 0,0:06:28.19,0:06:31.33,Default,en,0,0,0,,But still, why did you attack us?
+Dialogue: 0,0:06:31.73,0:06:35.06,Default,en,0,0,0,,We confused with Goemondo's clan.
+Dialogue: 0,0:06:35.70,0:06:38.56,Default,en,0,0,0,,Who is Goemondo-{\i1}dasu{\i0}?
+Dialogue: 0,0:06:39.08,0:06:42.57,Default,en,0,0,0,,He is a grand thief who tries to plunder this Yamagata castle and bring chaos.
+Dialogue: 0,0:06:43.13,0:06:47.53,Default,en,0,0,0,,He is elusive and his swordsmanship is excellent to the extent of not making any sense.
+Dialogue: 0,0:06:48.32,0:06:52.02,Default,en,0,0,0,,Moreover, it is impossible to catch him because of the giant centipede he controls.
+Dialogue: 0,0:06:57.50,0:07:00.43,Default,en,0,0,0,,Not only Goemondo flatters himself all the time, but also he's shameless!
+Dialogue: 0,0:07:01.13,0:07:07.69,Note,en,0,0,0,,({\fnMeiryo}鯱{\r}: Shachihoko, an ornament with a form of mythical carp with the head of a lion and the body of a fish)
+Dialogue: 0,0:07:01.13,0:07:07.69,Default,en,0,0,0,,This time, he sent an advance notice that he'll steal the gold ornament at the top of our Yamagata castle.
+Dialogue: 0,0:07:08.13,0:07:12.50,Default,en,0,0,0,,Today is the day of that notice, but it's not like we can handle that.
+Dialogue: 0,0:07:12.83,0:07:16.66,Default,en,0,0,0,,I was trying to catch Goemondo as the leader, but...
+Dialogue: 0,0:07:17.57,0:07:21.38,Default,en,0,0,0,,So that's why you confused us as Goemondo's comrades-{\i1}dasu{\i0}.
+Dialogue: 0,0:07:22.37,0:07:24.20,Default,en,0,0,0,,It's inexcusable.
+Dialogue: 0,0:07:25.04,0:07:32.79,Default,en,0,0,0,,That ornament is the symbol of our Yamagata family. We wouldn't worth to live anymore if it gets stolen.
+Dialogue: 0,0:07:35.24,0:07:37.68,Default,en,0,0,0,,I can't let a pretty man cry.
+Dialogue: 0,0:07:38.15,0:07:42.94,Default,en,0,0,0,,-Musashi! Kojirō! Help them get Goemondo!\N-Alright.
+Dialogue: 0,0:07:57.69,0:08:02.56,Default,en,0,0,0,,So many people are standing guard! Not even a grand thief will manage to steal these-{\i1}dasu{\i0}.
+Dialogue: 0,0:08:02.72,0:08:05.42,Default,en,0,0,0,,But that does not mean that you can let your guards down.
+Dialogue: 0,0:08:07.15,0:08:07.83,Default,en,0,0,0,,Kojirō!
+Dialogue: 0,0:08:08.83,0:08:09.35,Default,en,0,0,0,,Huh?
+Dialogue: 0,0:08:10.14,0:08:11.36,Default,en,0,0,0,,Probably toilet-{\i1}dasu{\i0}...
+Dialogue: 0,0:08:15.98,0:08:19.18,Default,en,0,0,0,,Finally we're alone together, Shunnosuke.
+Dialogue: 0,0:08:19.87,0:08:22.29,Default,en,0,0,0,,B- but I must keep doing my guard duties...
+Dialogue: 0,0:08:23.02,0:08:26.20,Default,en,0,0,0,,You can leave them to Musashi and Kojirō.
+Dialogue: 0,0:08:26.29,0:08:27.80,Default,en,0,0,0,,But, Senhime...
+Dialogue: 0,0:08:28.77,0:08:32.78,Default,en,0,0,0,,Don't be so formal; call me Osenchan!
+Dialogue: 0,0:08:32.95,0:08:34.74,Default,en,0,0,0,,S- Osenchan?
+Dialogue: 0,0:08:35.05,0:08:36.61,Default,en,0,0,0,,More gently.
+Dialogue: 0,0:08:37.59,0:08:38.54,Default,en,0,0,0,,Osenchan!
+Dialogue: 0,0:08:38.82,0:08:40.27,Default,en,0,0,0,,Perfect.
+Dialogue: 0,0:08:42.27,0:08:44.40,Default,en,0,0,0,,You are destroying the mood of a while!
+Dialogue: 0,0:08:50.60,0:08:51.50,Default,en,0,0,0,,Hey, Kojirō!
+Dialogue: 0,0:08:52.33,0:08:54.70,Default,en,0,0,0,,What are you playing with over there?
+Dialogue: 0,0:08:55.14,0:09:00.12,Default,en,0,0,0,,No, I am not playing. We were making those.
+Dialogue: 0,0:09:06.25,0:09:09.10,Default,en,0,0,0,,I see. You were making substitutes.
+Dialogue: 0,0:09:09.52,0:09:12.13,Default,en,0,0,0,,Mr. Shunnosuke, you have a good insight.
+Dialogue: 0,0:09:13.64,0:09:16.64,Default,en,0,0,0,,You're one pretty man with a good brain!
+Dialogue: 0,0:09:20.61,0:09:22.87,Default,en,0,0,0,,{\i1}I wonder what is Otsuru doing-{\i1}dasu{\i0}...
+Dialogue: 0,0:09:23.88,0:09:26.35,Default,en,0,0,0,,{\i1}She should be sleeping well by now-{\i1}dasu{\i0}.
+Dialogue: 0,0:09:27.23,0:09:31.16,Default,en,0,0,0,,{\i1}I want to have Otsuru's rice balls-{\i0}dasu{\i1}!
+Dialogue: 0,0:09:33.84,0:09:39.97,Default,en,0,0,0,,It got cold suddenly... and I need to go to toilet-{\i1}dasu{\i0}. I can't hold-{\i1}dasu{\i0}!
+Dialogue: 0,0:09:43.86,0:09:46.12,Default,en,0,0,0,,Let's hurry up and replace with the real one.
+Dialogue: 0,0:09:46.51,0:09:49.46,Default,en,0,0,0,,This is a privy. In other word, a toilet.
+Dialogue: 0,0:09:50.65,0:09:52.73,Default,en,0,0,0,,I'm relieved-{\i1}dasu{\i0}.
+Dialogue: 0,0:09:58.50,0:10:02.02,Default,en,0,0,0,,Huh? Why are there the ornaments from the roof-{\i1}dasu{\i0}?
+Dialogue: 0,0:10:03.15,0:10:05.44,Default,en,0,0,0,,That's it! I know what to do-{\i1}dasu{\i0}!
+Dialogue: 0,0:10:09.48,0:10:10.98,Default,en,0,0,0,,It's time.
+Dialogue: 0,0:10:11.49,0:10:13.77,Default,en,0,0,0,,Kojirō, did the replacing go well?
+Dialogue: 0,0:10:13.98,0:10:15.37,Default,en,0,0,0,,Yes. It's perfectly done.
+Dialogue: 0,0:10:25.38,0:10:29.32,Default,en,0,0,0,,Lord, Goemondo might gave up stealing from all these guards we posted!
+Dialogue: 0,0:10:29.62,0:10:31.38,Default,en,0,0,0,,I do hope so.
+Dialogue: 0,0:10:41.67,0:10:43.77,Default,en,0,0,0,,Hey! Do not run away! Fight!
+Dialogue: 0,0:10:43.89,0:10:45.41,Default,en,0,0,0,,No, this is a bait!
+Dialogue: 0,0:10:45.95,0:10:47.50,Default,en,0,0,0,,Musashi! Do not let your guards down!
+Dialogue: 0,0:10:48.14,0:10:50.34,Default,en,0,0,0,,Goemondo, where are you coming from-{\i1}dasu{\i0}?!
+Dialogue: 0,0:10:51.01,0:10:52.35,Default,en,0,0,0,,I'll take you down at once-{\i1}dasu{\i0}!
+Dialogue: 0,0:11:01.53,0:11:07.04,NoteOnAnime,en,0,0,80,,Goemondo
+Dialogue: 0,0:11:01.62,0:11:07.04,Default,en,0,0,0,,What a sightly sight! I am Goemondo, the number one grand thief of Jipangu!
+Dialogue: 0,0:11:07.32,0:11:11.01,Default,en,0,0,0,,As I gave notice, I am here to take that gold ornament!
+Dialogue: 0,0:11:14.30,0:11:16.34,Default,en,0,0,0,,Coming from the sky is cowardly-{\i1}dasu{\i0}!
+Dialogue: 0,0:11:16.72,0:11:22.43,Default,en,0,0,0,,How absurd, to call a thief cowardly! I'll take the ornament nonetheless!
+Dialogue: 0,0:11:22.66,0:11:25.18,Default,en,0,0,0,,That will not happen no matter what-{\i1}dasu{\i0}!
+Dialogue: 0,0:11:29.15,0:11:32.12,Default,en,0,0,0,,Using smokescreen is the sign of ultimate cowardliness-{\i1}dasu{\i0}!
+Dialogue: 0,0:11:34.94,0:11:39.29,Default,en,0,0,0,,As I promised, I'm taking the gold ornament!
+Dialogue: 0,0:11:40.96,0:11:42.28,Default,en,0,0,0,,Stop right there-{\i1}dasu{\i0}!
+Dialogue: 0,0:11:46.32,0:11:47.75,Default,en,0,0,0,,This worked well-{\i1}dasu{\i0}.
+Dialogue: 0,0:11:49.24,0:11:54.08,Default,en,0,0,0,,Are you sure about that, Musashi?! Wait for the stormy latter half!
+Dialogue: 0,0:11:59.92,0:12:02.73,Default,en,0,0,0,,What?! You replaced the ornaments?!
+Dialogue: 0,0:12:03.12,0:12:07.98,Default,en,0,0,0,,That's right-{\i1}dasu{\i0}! I replaced the ones next to the toilet with the real one-{\i1}dasu{\i0}!
+Dialogue: 0,0:12:08.42,0:12:10.60,Default,en,0,0,0,,You idiot! Those were the real ones!
+Dialogue: 0,0:12:13.84,0:12:18.22,Default,en,0,0,0,,The ornaments in that room were the real ones that I've replaced!
+Dialogue: 0,0:12:19.01,0:12:23.12,Default,en,0,0,0,,Um, Kojirō replaced the real ones and fake ones...
+Dialogue: 0,0:12:23.87,0:12:27.10,Default,en,0,0,0,,and I replaced the fake ones to the real ones...
+Dialogue: 0,0:12:27.53,0:12:31.04,Default,en,0,0,0,,That means the stolen one is the one I've replaced...
+Dialogue: 0,0:12:32.68,0:12:34.38,Default,en,0,0,0,,The real ones and fake ones are...
+Dialogue: 0,0:12:34.85,0:12:37.38,Default,en,0,0,0,,You blockhead! Just look, Musashi!
+Dialogue: 0,0:12:44.54,0:12:46.28,Default,en,0,0,0,,It's all over.
+Dialogue: 0,0:12:46.82,0:12:47.78,Default,en,0,0,0,,Leaves no choice...
+Dialogue: 0,0:12:48.09,0:12:50.27,Default,en,0,0,0,,Lord! Don't even think about it!
+Dialogue: 0,0:12:50.77,0:12:54.62,Default,en,0,0,0,,I, Shunnosuke, will take the ornaments back no matter what!
+Dialogue: 0,0:12:55.11,0:12:58.28,Default,en,0,0,0,,If you're willing to get those back, then we're going too.
+Dialogue: 0,0:12:58.61,0:13:02.40,Default,en,0,0,0,,N- no way! I cannot let something bad happen to Senhime!
+Dialogue: 0,0:13:02.78,0:13:07.16,Default,en,0,0,0,,No, it's alright. It's partially our responsibility too.
+Dialogue: 0,0:13:07.37,0:13:08.29,Default,en,0,0,0,,Right, Musashi?!
+Dialogue: 0,0:13:08.82,0:13:10.20,Default,en,0,0,0,,Y- yessir-{\i1}dasu{\i0}.
+Dialogue: 0,0:13:10.44,0:13:11.26,Default,en,0,0,0,,But...
+Dialogue: 0,0:13:11.86,0:13:16.18,Default,en,0,0,0,,Please. Take me with you. Let me be with you.
+Dialogue: 0,0:13:16.37,0:13:19.30,Default,en,0,0,0,,My small chest is gonna be crushed.
+Dialogue: 0,0:13:22.66,0:13:25.24,Default,en,0,0,0,,Help me-{\i1}dasu{\i0}!
+Dialogue: 0,0:13:25.37,0:13:26.72,Default,en,0,0,0,,I'm scared-{\i1}dasu{\i0}!
+Dialogue: 0,0:13:28.66,0:13:32.58,Default,en,0,0,0,,I have a fear of heights-{\i1}dasu{\i0}!
+Dialogue: 0,0:13:33.05,0:13:38.82,Default,en,0,0,0,,Hey! Quit being a scaredy cat and use your eyes to look for Goemondo's hideout!
+Dialogue: 0,0:13:39.04,0:13:42.24,Default,en,0,0,0,,It's all your fault that it got stolen!
+Dialogue: 0,0:13:42.67,0:13:46.12,Default,en,0,0,0,,Whatever you say, what's scary is scary-{\i1}dasu{\i0}!
+Dialogue: 0,0:13:46.34,0:13:47.81,Default,en,0,0,0,,I can't see-{\i1}dasu{\i0}!
+Dialogue: 0,0:13:54.66,0:13:57.04,Default,en,0,0,0,,Hey, I found it-{\i1}dasu{\i0}!
+Dialogue: 0,0:14:11.94,0:14:16.84,Default,en,0,0,0,,Keep in mind that we don't know what kind of contraption is installed here, so please be careful.
+Dialogue: 0,0:14:17.45,0:14:19.37,Default,en,0,0,0,,Oh, what is this rope for-{\i1}dasu{\i0}?
+Dialogue: 0,0:14:21.89,0:14:24.39,Default,en,0,0,0,,I just said to be careful!
+Dialogue: 0,0:14:31.77,0:14:35.83,Default,en,0,0,0,,Sneaking into a house of thief was outrageous!
+Dialogue: 0,0:14:36.25,0:14:38.83,Default,en,0,0,0,,Now, what should I do to you?
+Dialogue: 0,0:14:38.96,0:14:43.46,Default,en,0,0,0,,Hey! Goemondo! Give the stolen ornament back-{\i1}dasu{\i0}!
+Dialogue: 0,0:14:43.67,0:14:50.64,Default,en,0,0,0,,You idiot! There is an end to sands by a seashore, but there is no end to seeds of thieves!
+Dialogue: 0,0:14:50.76,0:14:53.93,Default,en,0,0,0,,Everything in this world belongs to Goemondo!
+Dialogue: 0,0:14:54.28,0:14:56.75,Default,en,0,0,0,,What are you planning to do with that stolen ornament?!
+Dialogue: 0,0:14:57.09,0:14:59.74,Default,en,0,0,0,,If you want to know, then let me tell you!
+Dialogue: 0,0:14:59.84,0:15:01.65,Default,en,0,0,0,,-I don't want to know-{\i1}dasu{\i0}!\N-Err
+Dialogue: 0,0:15:02.46,0:15:04.54,Default,en,0,0,0,,But I'll listen just because you're pitiful-{\i1}dasu{\i0}.
+Dialogue: 0,0:15:05.30,0:15:07.74,Default,en,0,0,0,,Thank you very much.
+Dialogue: 0,0:15:13.65,0:15:14.87,Default,en,0,0,0,,I can't see-{\i1}dasu{\i0}!
+Dialogue: 0,0:15:20.51,0:15:29.92,Default,en,0,0,0,,What a sightly sight! This pure gold statue fits perfectly for Goemondo, the number one grand thief of Jipangu!
+Dialogue: 0,0:15:30.78,0:15:38.27,Default,en,0,0,0,,The work had to be delayed because there wasn't enough materials, but with this much gold, it's as if already completed!
+Dialogue: 0,0:15:38.96,0:15:41.40,Default,en,0,0,0,,What?! Are you planning to melt the ornament?!
+Dialogue: 0,0:15:42.25,0:15:44.40,Default,en,0,0,0,,That's right!
+Dialogue: 0,0:15:44.50,0:15:47.40,Default,en,0,0,0,,You bastard! I won't let that ever happen!
+Dialogue: 0,0:15:47.64,0:15:52.97,Default,en,0,0,0,,Oh, if those are so valuable, then let me include you into the molten gold from the ornament!
+Dialogue: 0,0:15:53.32,0:15:59.37,Default,en,0,0,0,,I don't want that! I am Senhime, the granddaughter of General Ieyasu! I'm ordering you!
+Dialogue: 0,0:15:59.87,0:16:01.82,Default,en,0,0,0,,Untie this rope right now!
+Dialogue: 0,0:16:01.96,0:16:06.67,Default,en,0,0,0,,Hmph, it doesn't matter if you're a granddaughter of General Ieyasu or grandfailure!
+Dialogue: 0,0:16:07.15,0:16:11.66,Default,en,0,0,0,,Since you found out about this place, you're not going back alive!
+Dialogue: 0,0:16:13.40,0:16:17.40,Default,en,0,0,0,,Huh? Oh, aren't you Karakuri Owl?
+Dialogue: 0,0:16:19.10,0:16:23.38,Default,en,0,0,0,,Let's see. Kidnap Senhime right away?
+Dialogue: 0,0:16:24.18,0:16:31.37,Default,en,0,0,0,,What a coincidence! Good things do follow bad things!
+Dialogue: 0,0:16:47.75,0:16:50.26,Default,en,0,0,0,,Spare my life! I don't want to die-{\i1}dasu{\i0}!
+Dialogue: 0,0:16:53.53,0:16:58.03,Default,en,0,0,0,,A great martial artist knows when to go! Be quiet! It's not like you can live!
+Dialogue: 0,0:16:58.24,0:17:02.12,Default,en,0,0,0,,But still, my pride cannot forgive becoming a statue when I'm bound!
+Dialogue: 0,0:17:03.02,0:17:05.35,Default,en,0,0,0,,Make a great-looking statue out of me!
+Dialogue: 0,0:17:05.86,0:17:11.24,Default,en,0,0,0,,Hmph! You should be thankful with becoming gold statues when you're nothing more than little brats!
+Dialogue: 0,0:17:13.82,0:17:15.52,Default,en,0,0,0,,Damn it. How mortifying.
+Dialogue: 0,0:17:27.12,0:17:29.76,Default,en,0,0,0,,{\i1}Soon, everyone, I'm going to save all of you.
+Dialogue: 0,0:17:43.93,0:17:45.85,Default,en,0,0,0,,This is the last resort.
+Dialogue: 0,0:18:03.85,0:18:05.24,Default,en,0,0,0,,We're saved-{\i1}dasu{\i0}...
+Dialogue: 0,0:18:06.40,0:18:09.40,Default,en,0,0,0,,Princess! Do not interfere!
+Dialogue: 0,0:18:18.28,0:18:23.33,Default,en,0,0,0,,What a naughty princess! I must give you a punishment.
+Dialogue: 0,0:18:23.50,0:18:26.14,Default,en,0,0,0,,You're the one who's going to receive punishment!
+Dialogue: 0,0:18:27.93,0:18:32.28,Default,en,0,0,0,,How dare you try to make us into statues-{\i1}dasu{\i0}?! Unforgivable-{\i1}dasu{\i0}!
+Dialogue: 0,0:18:32.44,0:18:36.64,Default,en,0,0,0,,I must pay this back too, for making a fool out of me!
+Dialogue: 0,0:18:36.91,0:18:40.72,Default,en,0,0,0,,Hmph! You're 100 years and 3 days too early to take me down!
+Dialogue: 0,0:18:40.92,0:18:44.52,Default,en,0,0,0,,Goegoemondo Almond...
+Dialogue: 0,0:18:50.64,0:18:53.97,Default,en,0,0,0,,Go! Crush those tiny brats flat!
+Dialogue: 0,0:19:05.62,0:19:06.87,Default,en,0,0,0,,Good job, Kojirō!
+Dialogue: 0,0:19:07.14,0:19:08.40,Default,en,0,0,0,,You are excellent!
+Dialogue: 0,0:19:10.96,0:19:14.97,Default,en,0,0,0,,Hmph, right when I was about to take care of him with my dual blades...
+Dialogue: 0,0:19:15.49,0:19:15.88,Default,en,0,0,0,,Huh?
+Dialogue: 0,0:19:17.93,0:19:19.78,Default,en,0,0,0,,What is going on-{\i1}dasu{\i0}?
+Dialogue: 0,0:19:22.05,0:19:24.87,Default,en,0,0,0,,That is no way taking my giant centipede down!
+Dialogue: 0,0:19:24.94,0:19:26.93,Default,en,0,0,0,,Get rid of them!
+Dialogue: 0,0:19:38.02,0:19:41.98,Default,en,0,0,0,,If you get stung with that poisoned needle, {\i1}ah!{\i0} and you'll be dead!
+Dialogue: 0,0:19:47.40,0:19:49.80,Default,en,0,0,0,,{\i1}At this rate, I'll be done for-{\i1}dasu{\i0}!
+Dialogue: 0,0:20:03.60,0:20:06.18,Default,en,0,0,0,,{\i1}I use dual blades-{\i1}dasu{\i0}!
+Dialogue: 0,0:20:15.24,0:20:17.54,Default,en,0,0,0,,I finally opened my eyes towards dual blades.
+Dialogue: 0,0:20:17.80,0:20:21.35,Default,en,0,0,0,,What?! Curse you!
+Dialogue: 0,0:20:21.88,0:20:22.68,Default,en,0,0,0,,Chink in the armor!
+Dialogue: 0,0:20:39.24,0:20:40.44,Default,en,0,0,0,,That's Kojirō I know!
+Dialogue: 0,0:20:40.74,0:20:43.91,Default,en,0,0,0,,Musashi, you are the one to be praised, for opening your eyes towards dual blades.
+Dialogue: 0,0:20:44.72,0:20:45.73,Default,en,0,0,0,,I'm embarrassed-{\i1}dasu{\i0}!
+Dialogue: 0,0:20:47.50,0:20:49.93,Default,en,0,0,0,,-Everything worked out well, Shunnosuke.\N-Right.
+Dialogue: 0,0:20:51.02,0:20:56.74,Default,en,0,0,0,,Thank you, Senhime. We now have a great ornament thanks to you, princess.
+Dialogue: 0,0:20:57.32,0:21:01.42,Default,en,0,0,0,,It's nothing! I wouldn't say that I helped you for a reward.
+Dialogue: 0,0:21:01.64,0:21:08.93,Default,en,0,0,0,,Oh, right. To show our gratitude, we'd like to give you anything you want.
+Dialogue: 0,0:21:09.45,0:21:13.50,Default,en,0,0,0,,Is anything alright? Then I'd like to have Shunnosuke as...
+Dialogue: 0,0:21:17.10,0:21:18.06,Default,en,0,0,0,,Hey.
+Dialogue: 0,0:21:18.90,0:21:20.44,Default,en,0,0,0,,A father?
+Dialogue: 0,0:21:20.85,0:21:22.94,Default,en,0,0,0,,Congratulations, dear.
+Dialogue: 0,0:21:23.02,0:21:24.77,Default,en,0,0,0,,Thank you, Kazue.
+Dialogue: 0,0:21:25.05,0:21:26.27,Default,en,0,0,0,,No way...
+Dialogue: 0,0:21:27.56,0:21:31.34,Default,en,0,0,0,,So, Senhime, how would you want Shunnosuke?
+Dialogue: 0,0:21:31.53,0:21:34.89,Default,en,0,0,0,,Oh, that... I mean that to have Shunnosuke's wife as...
+Dialogue: 0,0:21:35.96,0:21:40.48,Default,en,0,0,0,,Oh, right! Have Shunnosuke and his wife to receive rewards!
+Dialogue: 0,0:21:40.61,0:21:41.53,Default,en,0,0,0,,Never mind.
+Dialogue: 0,0:21:44.85,0:21:48.81,Default,en,0,0,0,,Don't cry like that-{\i1}dasu{\i0}. Something good will happen soon after all that-{\i1}dasu{\i0}.
+Dialogue: 0,0:21:48.96,0:21:54.27,Default,en,0,0,0,,That's right! They say that leftovers will be more fortunate than others.
+Dialogue: 0,0:21:54.74,0:21:58.71,Default,en,0,0,0,,Leftover? Kojirō, are you saying that I'm a leftover?!
+Dialogue: 0,0:21:58.76,0:22:00.77,Default,en,0,0,0,,N- no, I didn't mean that...
+Dialogue: 0,0:22:01.05,0:22:03.54,Default,en,0,0,0,,Yeah, I am a leftover after all!
+Dialogue: 0,0:22:05.53,0:22:07.28,Default,en,0,0,0,,Stop!
+Dialogue: 0,0:22:11.37,0:22:15.30,Default,en,0,0,0,,He finally developed the technique of dual blades boasting a fearsome potency.
+Dialogue: 0,0:22:15.88,0:22:20.73,Default,en,0,0,0,,Keep it up, Musashi! Become the number one martial artist of Jipangu!
+Dialogue: 0,0:22:42.32,0:22:44.36,SongED1,en,0,0,0,,Sometimes the moon jumps over
+Dialogue: 0,0:22:45.07,0:22:47.61,SongED1,en,0,0,0,,the pocket of empty sky
+Dialogue: 0,0:22:47.82,0:22:49.99,SongED1,en,0,0,0,,Laugh loudly and
+Dialogue: 0,0:22:50.62,0:22:52.62,SongED1,en,0,0,0,,morning will come tomorrow
+Dialogue: 0,0:22:53.37,0:22:57.96,SongED1,en,0,0,0,,Don't worry too much about losing
+Dialogue: 0,0:22:58.96,0:23:01.54,SongED1,en,0,0,0,,Keep going! Go for it!
+Dialogue: 0,0:23:01.54,0:23:03.96,SongED1,en,0,0,0,,A bare hand is strong
+Dialogue: 0,0:23:04.38,0:23:14.06,SongED1,en,0,0,0,,That's how it is! Let's go lightly
+Dialogue: 0,0:23:14.52,0:23:22.11,SongED1,en,0,0,0,,That's how life is! Look, a chance
+Dialogue: 0,0:23:22.57,0:23:26.82,SongED1,en,0,0,0,,follows us wagging its tail!
+Dialogue: 0,0:23:28.24,0:23:37.75,SongED1,en,0,0,0,,That's how it is! Let's go lightly
+Dialogue: 0,0:23:38.25,0:23:46.21,SongED1,en,0,0,0,,That's how the future is, too! Look, tomorrow
+Dialogue: 0,0:23:46.46,0:23:52.05,SongED1,en,0,0,0,,is opening its hands and smiling at us!
+Dialogue: 0,0:24:04.32,0:24:07.45,Default,en,0,0,0,,We meet Baiken once again, and he got a job of guard.
+Dialogue: 0,0:24:07.56,0:24:10.01,Default,en,0,0,0,,The feudal lord seems to be having trouble with a monster Nue.
+Dialogue: 0,0:24:10.49,0:24:14.48,Default,en,0,0,0,,For our friendship, I must act to help, or it would bringing shame upon myself-{\i1}dasu{\i0}!
+Dialogue: 0,0:24:14.73,0:24:18.94,Default,en,0,0,0,,We join to get rid of that Nue-{\i1}dasu{\i0}, and Onihime is behind!
+Dialogue: 0,0:24:19.52,0:24:22.62,Default,en,0,0,0,,Next story! The Night that Nue Cries is Scary-{\i1}dasu{\i0}.
+Dialogue: 0,0:24:22.76,0:24:26.30,Default,en,0,0,0,,It's the stormy power of friendship-{\i1}dasu{\i0}!
+Dialogue: 0,0:24:27.09,0:24:31.09,NoteOnAnime,en,60,0,60,,{\an7}Next Episode
+Dialogue: 0,0:24:27.09,0:24:31.09,TitleEP,en,0,0,225,,The Night that
+Dialogue: 0,0:24:27.09,0:24:31.09,TitleEP,en,0,0,90,,Nue Cries is Scary
+Dialogue: 0,0:24:27.09,0:24:31.09,NoteOnAnime,en,0,60,30,,{\an3\fs32}Look forwards for it!

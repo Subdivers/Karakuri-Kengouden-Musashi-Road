@@ -1,0 +1,327 @@
+﻿[Script Info]
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 480
+Title: Surfing Gennai is the Invention King
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: NoteOnAnime,Candara,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,10,1
+Style: SongOP,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: TitleOP,DejaVu Serif,42,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: TitleEP,DejaVu Serif,42,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: SongED1,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: Note,Candara,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,10,10,10,1
+Style: Eyecatch,Candara,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,10,10,10,1
+Style: NoteOnAnimeVert,@맑은 고딕,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,10,1
+Style: InsOtsuru,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.06,0:00:06.22,Default,en,0,0,0,,It is the turbulent Sengoku period.
+Dialogue: 0,0:00:06.76,0:00:11.17,Default,en,0,0,0,,Warlords keep on fighting day and night over\NJipangu State, where Karakuri people live.
+Dialogue: 0,0:00:11.52,0:00:15.88,Default,en,0,0,0,,Karakuri martial artists were sharpening their swords, dreaming of victory and honor.
+Dialogue: 0,0:00:16.51,0:00:22.83,Default,en,0,0,0,,And now, a wild hero has arrived, seeking to be the number one Karakuri martial artist!
+Dialogue: 0,0:00:24.12,0:00:26.55,Default,en,0,0,0,,Musashi is here-{\i1}dasu{\i0}!
+Dialogue: 0,0:00:27.54,0:00:32.88,TitleOP,en,0,0,40,,{\an8\fs32\fade(770,0)}Karakuri Kengouden
+Dialogue: 0,0:00:27.54,0:00:32.88,TitleOP,en,0,0,40,,{\fade(770,0)}Musashi Road
+Dialogue: 0,0:00:27.54,0:00:32.88,TitleOP,en,0,0,40,,{\fs24\fade(770,0)}(The Story of {\i1}Karakuri{\i0} Martial Artist: Road of Musashi)
+Dialogue: 0,0:00:32.88,0:00:37.72,SongOP,en,0,0,0,,A man always dreams of the day
+Dialogue: 0,0:00:38.55,0:00:41.47,SongOP,en,0,0,0,,in the center of the world to become
+Dialogue: 0,0:00:41.47,0:00:44.35,SongOP,en,0,0,0,,AH! AH! the strongest
+Dialogue: 0,0:00:44.35,0:00:49.40,SongOP,en,0,0,0,,Raise the sword of your heart high to the wide sky
+Dialogue: 0,0:00:50.02,0:00:54.03,SongOP,en,0,0,0,,Raise the curtain to the road of adventure
+Dialogue: 0,0:00:55.36,0:01:00.62,SongOP,en,0,0,0,,A skilled swordsman roams on Jipangu State
+Dialogue: 0,0:01:01.20,0:01:06.25,SongOP,en,0,0,0,,His name is Musashi, a Karakuri man
+Dialogue: 0,0:01:06.25,0:01:07.75,SongOP,en,0,0,0,,Go! Fight!
+Dialogue: 0,0:01:07.75,0:01:10.67,SongOP,en,0,0,0,,The sound of fierce duels
+Dialogue: 0,0:01:10.67,0:01:13.51,SongOP,en,0,0,0,,makes life dazzling
+Dialogue: 0,0:01:13.51,0:01:18.97,SongOP,en,0,0,0,,Battles of yesterdays make you stronger today
+Dialogue: 0,0:01:19.01,0:01:25.23,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
+Dialogue: 0,0:01:25.23,0:01:28.11,SongOP,en,0,0,0,,Tomorrow will be glorious
+Dialogue: 0,0:01:28.11,0:01:30.69,SongOP,en,0,0,0,,The sound of fierce duels
+Dialogue: 0,0:01:30.69,0:01:33.19,SongOP,en,0,0,0,,makes life dazzling
+Dialogue: 0,0:01:33.90,0:01:39.28,SongOP,en,0,0,0,,Fight the utmost with the stillness
+Dialogue: 0,0:01:39.33,0:01:45.54,SongOP,en,0,0,0,,Martial Arts! Dual Blade Musashi
+Dialogue: 0,0:01:45.54,0:01:50.75,SongOP,en,0,0,0,,His eyes shined! Musashi!
+Dialogue: 0,0:01:59.72,0:02:05.06,Default,en,0,0,0,,Musashi and others entered Seto Inland Sea to find the base of Nobunaga the Rikudomaoh,
+Dialogue: 0,0:02:05.06,0:02:08.39,Default,en,0,0,0,,and then they entered into the Mouth of Orc to get the armor of aliens
+Dialogue: 0,0:02:08.39,0:02:12.11,Default,en,0,0,0,,handed down in Onogoro Island, and they got a mysterious ring.
+Dialogue: 0,0:02:12.44,0:02:21.07,Default,en,0,0,0,,Thus, with the armor of Gentoku, Kanu, and Chohi, they powered up and their new battles are about to begin.
+Dialogue: 0,0:02:21.87,0:02:26.87,TitleEP,en,0,0,220,,Surfing Gennai
+Dialogue: 0,0:02:21.87,0:02:26.87,TitleEP,en,0,0,85,,is the Invention King
+Dialogue: 0,0:02:36.65,0:02:38.16,Default,en,0,0,0,,Feels good!
+Dialogue: 0,0:03:48.59,0:03:53.73,Default,en,0,0,0,,I finally found you, Musashi! You'll be paid back for everything you did to me!
+Dialogue: 0,0:03:54.19,0:03:55.59,Default,en,0,0,0,,Launch Flame Bullets!
+Dialogue: 0,0:04:00.59,0:04:03.05,Default,en,0,0,0,,This is bad! A monster! A monster is terrorizing the village!
+Dialogue: 0,0:04:03.33,0:04:04.43,Default,en,0,0,0,,What!?
+Dialogue: 0,0:04:06.30,0:04:08.36,Default,en,0,0,0,,Fire! Fire!
+Dialogue: 0,0:04:12.21,0:04:13.11,Default,en,0,0,0,,Megaton Castle!
+Dialogue: 0,0:04:13.59,0:04:15.61,Default,en,0,0,0,,Damn! What kind of cruel thing to do is that!?
+Dialogue: 0,0:04:15.61,0:04:17.43,Default,en,0,0,0,,Mr. Musashi! This is bad!
+Dialogue: 0,0:04:17.43,0:04:18.07,Default,en,0,0,0,,Otsuru!
+Dialogue: 0,0:04:18.71,0:04:22.39,Default,en,0,0,0,,Senhime isn't there. I couldn't find her when I did!
+Dialogue: 0,0:04:22.66,0:04:25.27,Default,en,0,0,0,,-What?\N-Could she be captured by Megaton Castle?
+Dialogue: 0,0:04:25.27,0:04:28.30,Default,en,0,0,0,,Get out of my way! Musashi, you're standing in my way! Move!
+Dialogue: 0,0:04:28.30,0:04:30.30,Default,en,0,0,0,,Osenchan, you're safe!
+Dialogue: 0,0:04:32.81,0:04:35.91,Default,en,0,0,0,,Osenchan, are you alright? Osenchan?
+Dialogue: 0,0:04:38.99,0:04:42.42,Default,en,0,0,0,,Don't be tardy and put off the fire!
+Dialogue: 0,0:04:43.31,0:04:44.41,Default,en,0,0,0,,Understood-{\i1}dasu{\i0}!
+Dialogue: 0,0:04:47.75,0:04:48.89,Default,en,0,0,0,,Where's Jiraiyan!?
+Dialogue: 0,0:04:48.89,0:04:50.73,Default,en,0,0,0,,I can't find him-{\i1}dasu{\i0}!
+Dialogue: 0,0:04:50.73,0:04:52.83,Default,en,0,0,0,,This way! Don't rush and calm down!
+Dialogue: 0,0:04:52.83,0:04:54.54,Default,en,0,0,0,,Everyone, don't get lost!
+Dialogue: 0,0:05:19.62,0:05:21.44,Default,en,0,0,0,,Our village...
+Dialogue: 0,0:05:23.41,0:05:24.97,Default,en,0,0,0,,How cruel of them!
+Dialogue: 0,0:05:25.21,0:05:27.76,Default,en,0,0,0,,The villagers didn't do anything wrong...
+Dialogue: 0,0:05:28.65,0:05:37.31,Default,en,0,0,0,,How dare they harass the people without crimes!? Nobunaga or Kobunaga(small fish), I, Musashi, cannot forgive-{\i1}dasu{\i0}!
+Dialogue: 0,0:05:37.69,0:05:38.63,Default,en,0,0,0,,Hey, Musashi!
+Dialogue: 0,0:05:38.63,0:05:40.79,Default,en,0,0,0,,-Mr. Musashi, where are you going!?\N-Musashi!
+Dialogue: 0,0:05:42.45,0:05:46.79,Default,en,0,0,0,,Stop right there-{\i1}dasu{\i0}, Megaton Castle! Fight fair and square-{\i1}dasu{\i0}!
+Dialogue: 0,0:05:52.46,0:05:55.18,Default,en,0,0,0,,Megaton Castle, where did you go-{\i1}dasu{\i0}?
+Dialogue: 0,0:06:06.06,0:06:07.79,Default,en,0,0,0,,Hey, wake up!
+Dialogue: 0,0:06:08.05,0:06:13.95,Default,en,0,0,0,,Idiot! Fool! Dimwit! There is no way that you can possibly chase that Megaton Castle, sunk under the sea!
+Dialogue: 0,0:06:14.22,0:06:17.14,Default,en,0,0,0,,It means that Mr. Musashi's anger is so deep!
+Dialogue: 0,0:06:17.35,0:06:21.74,Default,en,0,0,0,,Anyway, still, we need a vehicle that can go inside water...
+Dialogue: 0,0:06:22.80,0:06:24.16,Default,en,0,0,0,,But, how?
+Dialogue: 0,0:06:24.16,0:06:25.48,Default,en,0,0,0,,That's simple!
+Dialogue: 0,0:06:26.35,0:06:29.57,Default,en,0,0,0,,If you ask Mr. Gennai, an inventor, then he might make you one!
+Dialogue: 0,0:06:30.60,0:06:31.85,Default,en,0,0,0,,Mr. Gennai?
+Dialogue: 0,0:06:37.65,0:06:41.04,Default,en,0,0,0,,Can he really make a vehicle that can go inside the sea-{\i1}dasu{\i0}?
+Dialogue: 0,0:06:41.80,0:06:45.99,Default,en,0,0,0,,Yes. He's an inventor who always make some weird things, so he should make you one!
+Dialogue: 0,0:06:47.80,0:06:51.16,Default,en,0,0,0,,Huh? I- is this seriously Mr. Gennai's house?
+Dialogue: 0,0:06:53.11,0:06:55.69,Default,en,0,0,0,,This house looks interesting-{\i1}dasu{\i0}!
+Dialogue: 0,0:06:55.69,0:07:00.09,Default,en,0,0,0,,Mr. Gennai! Mr. Gennai! Mr. Gennai?
+Dialogue: 0,0:07:00.09,0:07:02.56,Default,en,0,0,0,,-Mr. Gennai!\N-Mr. Gennai!
+Dialogue: 0,0:07:03.41,0:07:04.91,Default,en,0,0,0,,It seems that he's not home-{\i1}dasu{\i0}.
+Dialogue: 0,0:07:13.62,0:07:14.74,Default,en,0,0,0,,Hey, he's there!
+Dialogue: 0,0:07:15.34,0:07:17.33,Default,en,0,0,0,,Hey, Mr. Gennai!
+Dialogue: 0,0:07:18.25,0:07:20.32,Default,en,0,0,0,,Huh? Is him Mr. Gennai?
+Dialogue: 0,0:07:20.84,0:07:24.16,Default,en,0,0,0,,Mr. Gennai! Mr. Gennai!
+Dialogue: 0,0:07:25.51,0:07:27.02,Default,en,0,0,0,,Hey!
+Dialogue: 0,0:07:29.35,0:07:30.21,Default,en,0,0,0,,Mr. Gennai!
+Dialogue: 0,0:07:30.70,0:07:33.24,Default,en,0,0,0,,What is it, Kenta? Do you need me?
+Dialogue: 0,0:07:33.70,0:07:35.76,Default,en,0,0,0,,They had something to ask you, Mr. Gennai.
+Dialogue: 0,0:07:35.76,0:07:38.03,Default,en,0,0,0,,What? You have something to ask me?
+Dialogue: 0,0:07:38.03,0:07:42.21,Default,en,0,0,0,,Well, that is, we heard about you, Mr. Gennai...
+Dialogue: 0,0:07:42.43,0:07:43.81,Default,en,0,0,0,,You heard about me?
+Dialogue: 0,0:07:44.24,0:07:48.68,Default,en,0,0,0,,Yeahyeahyeahyeah! You're one old weirdo geezer with an extremely bad personality-
+Dialogue: 0,0:07:50.26,0:07:54.49,Default,en,0,0,0,,N- no, we heard that you're a great genius inventor!
+Dialogue: 0,0:07:54.73,0:07:56.74,Default,en,0,0,0,,Genius, eh?
+Dialogue: 0,0:07:56.74,0:08:01.19,Default,en,0,0,0,,Yes. Your inventions are famous in Edotopia, too.
+Dialogue: 0,0:08:01.19,0:08:04.88,Default,en,0,0,0,,From children to old people, everybody knows you!
+Dialogue: 0,0:08:05.18,0:08:10.06,Default,en,0,0,0,,Kojirō, you're skillful-{\i1}dasu{\i0}! You said that you never heard of him-{\i1}dasu{\i0}!
+Dialogue: 0,0:08:10.06,0:08:11.38,Default,en,0,0,0,,Shut up!
+Dialogue: 0,0:08:11.38,0:08:14.82,Default,en,0,0,0,,I see. I am famous in many places, eh?
+Dialogue: 0,0:08:15.22,0:08:16.02,Default,en,0,0,0,,Yes!
+Dialogue: 0,0:08:16.29,0:08:18.50,Default,en,0,0,0,,You're making Gen-chan embarrassed!
+Dialogue: 0,0:08:19.95,0:08:24.25,Default,en,0,0,0,,After Kenta went back to the village, Musashi and others stayed at Gennai's house.
+Dialogue: 0,0:08:24.56,0:08:30.36,Default,en,0,0,0,,I see. You want me to make a vehicle that can go underwater, which is a submarine, right?
+Dialogue: 0,0:08:30.36,0:08:36.28,Default,en,0,0,0,,Yes. Only you, Mr. Gennai, can make such thing, in the whole Jipangu State.
+Dialogue: 0,0:08:36.28,0:08:40.11,Default,en,0,0,0,,I'm happy to hear that.
+Dialogue: 0,0:08:40.11,0:08:41.95,Default,en,0,0,0,,-Please!\N-We ask you!
+Dialogue: 0,0:08:43.68,0:08:46.00,Default,en,0,0,0,,If you really want that much...
+Dialogue: 0,0:08:46.25,0:08:47.38,Default,en,0,0,0,,Will you do it?
+Dialogue: 0,0:08:47.73,0:08:48.68,Default,en,0,0,0,,No.
+Dialogue: 0,0:08:49.87,0:08:53.87,Default,en,0,0,0,,I'm sorry, but saying no when being asked is my hobby.
+Dialogue: 0,0:08:53.87,0:08:55.51,Default,en,0,0,0,,Hey! Don't touch that!
+Dialogue: 0,0:08:59.63,0:09:03.14,Default,en,0,0,0,,That's why I told you not to touch electricity.
+Dialogue: 0,0:09:05.23,0:09:07.13,Default,en,0,0,0,,Please! Mr. Gennai!
+Dialogue: 0,0:09:07.48,0:09:08.69,Default,en,0,0,0,,-Please!\N-Please-{\i1}dasu{\i0}!
+Dialogue: 0,0:09:08.91,0:09:14.31,Default,en,0,0,0,,I'm too whimsy to accept whoever's request so easily.
+Dialogue: 0,0:09:14.31,0:09:15.54,Default,en,0,0,0,,One more cup.
+Dialogue: 0,0:09:15.54,0:09:16.77,Default,en,0,0,0,,Oh, got it!
+Dialogue: 0,0:09:17.08,0:09:19.13,Default,en,0,0,0,,I want some fruits.
+Dialogue: 0,0:09:19.48,0:09:20.40,Default,en,0,0,0,,Oh, right!
+Dialogue: 0,0:09:20.94,0:09:21.83,Default,en,0,0,0,,I want to read a book.
+Dialogue: 0,0:09:21.83,0:09:22.35,Default,en,0,0,0,,Yes!
+Dialogue: 0,0:09:22.96,0:09:23.86,Default,en,0,0,0,,I want a pillow.
+Dialogue: 0,0:09:23.86,0:09:24.71,Default,en,0,0,0,,Yes!
+Dialogue: 0,0:09:25.18,0:09:26.42,Default,en,0,0,0,,I want to eat an eel.
+Dialogue: 0,0:09:26.42,0:09:26.98,Default,en,0,0,0,,Yes!
+Dialogue: 0,0:09:27.66,0:09:28.61,Default,en,0,0,0,,My back is itchy.
+Dialogue: 0,0:09:28.61,0:09:29.68,Default,en,0,0,0,,Yes! To where?
+Dialogue: 0,0:09:30.01,0:09:30.98,Default,en,0,0,0,,I want to watch television.
+Dialogue: 0,0:09:30.98,0:09:31.64,Default,en,0,0,0,,Yes!
+Dialogue: 0,0:09:31.64,0:09:33.50,Default,en,0,0,0,,This feels good.
+Dialogue: 0,0:09:33.50,0:09:35.84,Default,en,0,0,0,,Both Otsuru and Osenchan can quit-{\i1}dasu{\i0}!
+Dialogue: 0,0:09:37.03,0:09:41.26,Default,en,0,0,0,,He's just fooling around because he can't make one-{\i1}dasu{\i0}!
+Dialogue: 0,0:09:41.49,0:09:45.31,Default,en,0,0,0,,This guy cannot possibly a great inventor, but instead, he's just an old geezer who happens to surf-{\i1}dasu{\i0}!
+Dialogue: 0,0:09:45.49,0:09:47.88,Default,en,0,0,0,,W- what the heck are you saying, Musashi!?
+Dialogue: 0,0:09:52.98,0:09:57.57,Default,en,0,0,0,,Kiddo, you're the first one to call me a surfing geezer.
+Dialogue: 0,0:09:57.57,0:10:04.30,Default,en,0,0,0,,Well then, if even one of you can surf on that waves, then I'll think about it.
+Dialogue: 0,0:10:04.30,0:10:08.62,Default,en,0,0,0,,Well, I was born in mountain-{\i1}dasu{\i0}...
+Dialogue: 0,0:10:08.93,0:10:10.25,Default,en,0,0,0,,What about you, Mr. Jūbee?
+Dialogue: 0,0:10:11.16,0:10:13.90,Default,en,0,0,0,,I became fat recently.
+Dialogue: 0,0:10:14.32,0:10:14.88,Default,en,0,0,0,,Kojirō!
+Dialogue: 0,0:10:15.12,0:10:17.96,Default,en,0,0,0,,I- I'm suffering from anemia recently...
+Dialogue: 0,0:10:17.96,0:10:19.22,Default,en,0,0,0,,I'll do it.
+Dialogue: 0,0:10:22.87,0:10:23.72,Default,en,0,0,0,,Osenchan!
+Dialogue: 0,0:10:31.26,0:10:34.19,Default,en,0,0,0,,Osenchan! Please do it-{\i1}dasu{\i0}!
+Dialogue: 0,0:10:34.43,0:10:38.86,Default,en,0,0,0,,Heh, surfing is beautiful when done by a girl in swimsuit.
+Dialogue: 0,0:10:38.86,0:10:41.63,Default,en,0,0,0,,Moreover, high-legs! This is the best!
+Dialogue: 0,0:10:41.88,0:10:44.41,Default,en,0,0,0,,But only one doesn't look complete...
+Dialogue: 0,0:10:45.94,0:10:53.20,Default,en,0,0,0,,Even for a high-leg, one isn't enough... Maybe I'll feel more like doing it if there are two...
+Dialogue: 0,0:10:53.20,0:10:55.20,Default,en,0,0,0,,For that, I can do it...
+Dialogue: 0,0:10:55.20,0:10:56.54,Default,en,0,0,0,,Oh, I see, I see!
+Dialogue: 0,0:10:56.54,0:10:58.44,Default,en,0,0,0,,N- no way-{\i1}dasu{\i0}, Otsuru!
+Dialogue: 0,0:10:58.85,0:11:02.72,Default,en,0,0,0,,I'll do it, Mr. Musashi! I can't lose to Senhime!
+Dialogue: 0,0:11:02.72,0:11:04.81,Default,en,0,0,0,,Huh? B- but, Otsuru...
+Dialogue: 0,0:11:05.19,0:11:07.59,Default,en,0,0,0,,I want to be helpful, Mr. Musashi.
+Dialogue: 0,0:11:07.59,0:11:08.85,Default,en,0,0,0,,Otsuru...
+Dialogue: 0,0:11:15.59,0:11:17.97,Default,en,0,0,0,,This is all I can do...
+Dialogue: 0,0:11:19.19,0:11:26.43,Default,en,0,0,0,,{\i1}Nostalgic{\i0}! It'll be a perfect appearance when she gets wet in water! I can't believe this!
+Dialogue: 0,0:11:27.71,0:11:30.94,Default,en,0,0,0,,The clothes will stick to the body and the lines will show up...
+Dialogue: 0,0:11:32.77,0:11:34.15,Default,en,0,0,0,,Did I say something?
+Dialogue: 0,0:11:34.98,0:11:40.65,Default,en,0,0,0,,I like your brave attitude. I am a man too. I'll make a submarine for you.
+Dialogue: 0,0:11:42.00,0:11:45.44,Default,en,0,0,0,,Don't put on airs-{\i1}dasu{\i0}, you perverted old geezer! How unsightly!
+Dialogue: 0,0:11:52.27,0:11:53.15,Default,en,0,0,0,,Huh?
+Dialogue: 0,0:11:54.08,0:11:59.27,Default,en,0,0,0,,Will the submarine even be made? Wait for the stormy latter half!
+Dialogue: 0,0:12:00.32,0:12:06.24,Eyecatch,en,0,0,0,,Karakuri Kengouden: Musashi Road
+Dialogue: 0,0:12:13.43,0:12:16.55,Default,en,0,0,0,,Making a submarine is easier than cooking!
+Dialogue: 0,0:12:16.88,0:12:18.42,Default,en,0,0,0,,Mr. Gennai!
+Dialogue: 0,0:12:18.72,0:12:21.53,Default,en,0,0,0,,Otsuru's here! Let's take a break!
+Dialogue: 0,0:12:21.74,0:12:22.94,Default,en,0,0,0,,Yeah!
+Dialogue: 0,0:12:24.27,0:12:25.80,Default,en,0,0,0,,Ouch!
+Dialogue: 0,0:12:27.04,0:12:29.00,Default,en,0,0,0,,Ow, my finger! My finger!
+Dialogue: 0,0:12:29.00,0:12:31.52,Default,en,0,0,0,,What an energetic old man-{\i1}dasu{\i0}.
+Dialogue: 0,0:12:31.84,0:12:36.09,Default,en,0,0,0,,But, can we really trust on Mr. Gennai-{\i1}dasu{\i0}?
+Dialogue: 0,0:12:36.86,0:12:39.34,Default,en,0,0,0,,It's not like there is someone that we can ask.
+Dialogue: 0,0:12:44.66,0:12:47.57,Default,en,0,0,0,,My sword is not a saw or an ax.
+Dialogue: 0,0:12:47.91,0:12:50.78,Default,en,0,0,0,,Hey, there aren't enough lumbers!
+Dialogue: 0,0:12:50.78,0:12:53.16,Default,en,0,0,0,,R- right! I'll be there soon!
+Dialogue: 0,0:12:57.85,0:13:04.72,Default,en,0,0,0,,This is what my inventions look like. Look at its design and its form. It's completely brilliant.
+Dialogue: 0,0:13:05.37,0:13:07.36,Default,en,0,0,0,,It looks like a pop-eyed goldfish.
+Dialogue: 0,0:13:07.36,0:13:08.50,Default,en,0,0,0,,Oh, what did you say?
+Dialogue: 0,0:13:08.50,0:13:10.72,Default,en,0,0,0,,N- no, no, it's truly excellent, yes!
+Dialogue: 0,0:13:10.72,0:13:13.33,Default,en,0,0,0,,Let's chase Megaton Castle right away-{\i1}dasu{\i0}!
+Dialogue: 0,0:13:14.79,0:13:16.22,Default,en,0,0,0,,Then, see you later-{\i1}dasu{\i0}!
+Dialogue: 0,0:13:16.55,0:13:18.99,Default,en,0,0,0,,Don't overdo it, Mr. Musashi.
+Dialogue: 0,0:13:19.20,0:13:21.42,Default,en,0,0,0,,I want to go with them.
+Dialogue: 0,0:13:21.77,0:13:24.02,Default,en,0,0,0,,Have a nice trip! Bring some present-
+Dialogue: 0,0:13:24.02,0:13:25.94,Default,en,0,0,0,,What are you saying? You're going with them!
+Dialogue: 0,0:13:25.94,0:13:27.19,Default,en,0,0,0,,What, me too?
+Dialogue: 0,0:13:27.41,0:13:32.40,Default,en,0,0,0,,It's obvious-{\i1}dasu{\i0}! Who'll pilot this, else than Mr. Gennai-{\i1}dasu{\i0}?
+Dialogue: 0,0:13:32.40,0:13:33.17,Default,en,0,0,0,,Come on.
+Dialogue: 0,0:13:33.17,0:13:35.97,Default,en,0,0,0,,You're suspicious. You're hiding something, aren't you?
+Dialogue: 0,0:13:35.97,0:13:40.19,Default,en,0,0,0,,Er, no, I don't have courage to ride in a ship that I made.
+Dialogue: 0,0:13:42.25,0:13:46.16,Default,en,0,0,0,,Well, there's a manual inside, so that you can learn how to operate!
+Dialogue: 0,0:13:46.37,0:13:49.09,Default,en,0,0,0,,You're really irresponsible-{\i1}dasu{\i0}...
+Dialogue: 0,0:13:53.81,0:13:56.35,Default,en,0,0,0,,Do your best, everyone!
+Dialogue: 0,0:13:56.67,0:13:59.52,Default,en,0,0,0,,Mr. Musashi! Be careful!
+Dialogue: 0,0:13:59.52,0:14:01.80,Default,en,0,0,0,,T- this is so narrow-{\i1}dasu{\i0}...
+Dialogue: 0,0:14:02.03,0:14:06.83,Default,en,0,0,0,,It was low-cost, so deal with it. Now, this will do this, and this...
+Dialogue: 0,0:14:14.15,0:14:18.53,Default,en,0,0,0,,It's sinking, it's sinking! It's success! Hooray!
+Dialogue: 0,0:14:18.74,0:14:24.29,Default,en,0,0,0,,Wait. If it just sinks, then it's just a sinking ship. It's a submarine when it floats back up.
+Dialogue: 0,0:14:24.51,0:14:28.60,Default,en,0,0,0,,You know what will happen to you if they don't make it back, right?
+Dialogue: 0,0:14:28.60,0:14:30.13,Default,en,0,0,0,,R- right, of course...
+Dialogue: 0,0:14:33.58,0:14:35.87,Default,en,0,0,0,,Wow! How beautiful-{\i1}dasu{\i0}!
+Dialogue: 0,0:14:36.85,0:14:39.09,Default,en,0,0,0,,We became a fish-{\i1}dasu{\i0}.
+Dialogue: 0,0:14:39.32,0:14:40.90,Default,en,0,0,0,,It's not the time to be festive!
+Dialogue: 0,0:14:41.79,0:14:47.36,Default,en,0,0,0,,Since we're finding Megaton Castle in this wide sea, it will take a while.
+Dialogue: 0,0:14:48.79,0:14:50.58,Default,en,0,0,0,,There's a reaction on the radar!
+Dialogue: 0,0:14:51.01,0:14:52.31,Default,en,0,0,0,,Is it Megaton Castle-{\i1}dasu{\i0}?
+Dialogue: 0,0:14:52.31,0:14:54.42,Default,en,0,0,0,,I don't know. But it's pretty big.
+Dialogue: 0,0:14:58.68,0:14:59.39,Default,en,0,0,0,,That's it-{\i1}dasu{\i0}.
+Dialogue: 0,0:15:01.30,0:15:02.44,Default,en,0,0,0,,Huh? That must be...
+Dialogue: 0,0:15:03.24,0:15:04.22,Default,en,0,0,0,,Jiraiyan!
+Dialogue: 0,0:15:04.53,0:15:05.72,Default,en,0,0,0,,Mr. Jiraiyan?
+Dialogue: 0,0:15:05.97,0:15:10.45,Default,en,0,0,0,,We couldn't find him because he was scuba diving at a place like this...
+Dialogue: 0,0:15:10.73,0:15:17.67,Default,en,0,0,0,,Let me explain why is Jiraiyan perfectly fine in waters. It's because he's using the roll as an air tank.
+Dialogue: 0,0:15:23.63,0:15:24.33,Default,en,0,0,0,,Musashi!
+Dialogue: 0,0:15:25.37,0:15:31.95,Default,en,0,0,0,,What, what? We are following, -{\i1}dasu{\i0}, eh?
+Dialogue: 0,0:15:35.38,0:15:36.91,Default,en,0,0,0,,He's telling us to follow him-{\i1}dasu{\i0}.
+Dialogue: 0,0:15:36.91,0:15:37.88,Default,en,0,0,0,,Great!
+Dialogue: 0,0:15:53.71,0:15:54.50,Default,en,0,0,0,,Now!
+Dialogue: 0,0:16:00.14,0:16:01.05,Default,en,0,0,0,,What's going on!?
+Dialogue: 0,0:16:01.45,0:16:03.98,Default,en,0,0,0,,It seems that we're attacked with torpedoes from below!
+Dialogue: 0,0:16:03.98,0:16:05.06,Default,en,0,0,0,,What!?
+Dialogue: 0,0:16:05.06,0:16:08.64,Default,en,0,0,0,,Punish them thoroughly and make them into scraps of seaweed!
+Dialogue: 0,0:16:16.89,0:16:17.91,Default,en,0,0,0,,What's this?
+Dialogue: 0,0:16:18.20,0:16:19.46,Default,en,0,0,0,,Hey, don't do that, Kerokichi!
+Dialogue: 0,0:16:23.50,0:16:27.05,Default,en,0,0,0,,Wah! We'll end up becoming seaweeds({\i1}mozuku{\i0})-{\i1}dasu{\i0}!
+Dialogue: 0,0:16:27.05,0:16:28.62,Default,en,0,0,0,,It's scraps of seaweed({\i1}mokuzu{\i0}), you dimwit!
+Dialogue: 0,0:16:41.08,0:16:43.61,Default,en,0,0,0,,You're great, Kojirō! What artisanship!
+Dialogue: 0,0:16:43.61,0:16:46.42,Default,en,0,0,0,,But it's only a matter of time before we get hit.
+Dialogue: 0,0:16:47.26,0:16:50.59,Default,en,0,0,0,,Right. There's supposedly a secret weapon here, for the times of need.
+Dialogue: 0,0:16:51.22,0:16:51.84,Default,en,0,0,0,,This is it!
+Dialogue: 0,0:16:56.69,0:16:57.44,Default,en,0,0,0,,This...?
+Dialogue: 0,0:16:57.72,0:16:59.79,Default,en,0,0,0,,Secret weapon.
+Dialogue: 0,0:16:59.79,0:17:02.30,Default,en,0,0,0,,Damn! Anything goes now!
+Dialogue: 0,0:17:02.30,0:17:03.78,Default,en,0,0,0,,W- what's that!?
+Dialogue: 0,0:17:03.78,0:17:05.61,Default,en,0,0,0,,It's heading toward here directly!
+Dialogue: 0,0:17:05.61,0:17:07.54,Default,en,0,0,0,,Evade! Evade at full speed!
+Dialogue: 0,0:17:07.54,0:17:08.65,Default,en,0,0,0,,There's not enough time!
+Dialogue: 0,0:17:12.17,0:17:14.88,Default,en,0,0,0,,You bastard! You bastard! You bastard! You bastard!
+Dialogue: 0,0:17:24.68,0:17:27.90,Default,en,0,0,0,,What!? Musashi bastards came into this Megaton castle!?
+Dialogue: 0,0:17:27.90,0:17:30.17,Default,en,0,0,0,,Yessir! They are heading to the 3rd pathway!
+Dialogue: 0,0:17:30.73,0:17:34.89,Default,en,0,0,0,,You brat! I'll get rid of you myself!
+Dialogue: 0,0:18:23.08,0:18:25.56,Default,en,0,0,0,,Niten'ichiryū: Flash Sword!
+Dialogue: 0,0:18:33.12,0:18:38.72,Default,en,0,0,0,,Hmph. How grateful of my prey, to save the trouble of finding one.
+Dialogue: 0,0:18:38.91,0:18:42.97,Default,en,0,0,0,,You are unforgivable-{\i1}dasu{\i0}! How dare you trouble the villagers who didn't do anything wrong!?
+Dialogue: 0,0:18:43.28,0:18:46.29,Default,en,0,0,0,,Yeah, say all what you want! This place will be your grave!
+Dialogue: 0,0:19:08.24,0:19:13.80,Default,en,0,0,0,,Hmph. All bark and no bite? It seems that you're 10 years too early to face me.
+Dialogue: 0,0:19:14.30,0:19:16.89,Default,en,0,0,0,,Go back and drink your mother's milk.
+Dialogue: 0,0:19:17.15,0:19:21.83,Default,en,0,0,0,,Even for adults, treating children like a fool is unforgivable-{\i1}dasu{\i0}!
+Dialogue: 0,0:19:30.53,0:19:31.81,Default,en,0,0,0,,Karakuri Shift!
+Dialogue: 0,0:19:33.11,0:19:35.70,Default,en,0,0,0,,Gentoku Armor!
+Dialogue: 0,0:19:40.66,0:19:43.53,Default,en,0,0,0,,How dare you brat have an armor like that!?
+Dialogue: 0,0:19:43.64,0:19:46.06,Default,en,0,0,0,,Niten'ichiryū: Flash Sword!
+Dialogue: 0,0:19:56.09,0:19:59.35,Default,en,0,0,0,,We'll sink at this rate! Increase output and rise!
+Dialogue: 0,0:20:05.45,0:20:07.89,Default,en,0,0,0,,Power Room! Full power!
+Dialogue: 0,0:20:17.40,0:20:19.96,Default,en,0,0,0,,Dokuganryu, prepare yourself-{\i1}dasu{\i0}!
+Dialogue: 0,0:20:20.38,0:20:21.91,Default,en,0,0,0,,Double-Headed Dragon!
+Dialogue: 0,0:20:30.32,0:20:31.00,Default,en,0,0,0,,Musashi!
+Dialogue: 0,0:20:31.32,0:20:32.05,Default,en,0,0,0,,Mr. Musashi!
+Dialogue: 0,0:20:32.73,0:20:34.81,Default,en,0,0,0,,We'll finish this later!
+Dialogue: 0,0:20:36.81,0:20:37.90,Default,en,0,0,0,,Stop-{\i1}dasu{\i0}!
+Dialogue: 0,0:20:46.28,0:20:47.79,Default,en,0,0,0,,W- what's going on!?
+Dialogue: 0,0:20:57.08,0:20:58.20,Default,en,0,0,0,,Wait-{\i1}dasu{\i0}!
+Dialogue: 0,0:20:59.31,0:21:02.07,Default,en,0,0,0,,Stop-{\i1}dasu{\i0}, Megaton Castle!
+Dialogue: 0,0:21:11.40,0:21:13.78,Default,en,0,0,0,,Alright, Kerokichi! Go!
+Dialogue: 0,0:21:17.72,0:21:18.79,Default,en,0,0,0,,We live...
+Dialogue: 0,0:21:18.79,0:21:20.20,Default,en,0,0,0,,Thank you, Kerokichi!
+Dialogue: 0,0:21:21.90,0:21:26.23,Default,en,0,0,0,,Still, it was so close. We went into Megaton Castle...
+Dialogue: 0,0:21:26.54,0:21:28.92,Default,en,0,0,0,,Well, we gave a lot of damage.
+Dialogue: 0,0:21:29.39,0:21:33.27,Default,en,0,0,0,,But, we lost the submarine that we just got-{\i1}dasu{\i0}...
+Dialogue: 0,0:21:40.86,0:21:45.86,Default,en,0,0,0,,What a relief-{\i1}dasu{\i0}. Otsuru might had to show her swimsuit look again-{\i1}dasu{\i0}.
+Dialogue: 0,0:21:46.40,0:21:48.57,Default,en,0,0,0,,But then again, that's kind of unfortunate-{\i1}dasu{\i0}...
+Dialogue: 0,0:21:50.85,0:21:53.09,Default,en,0,0,0,,Mr. Musashi!
+Dialogue: 0,0:21:53.94,0:21:55.73,Default,en,0,0,0,,Otsuru!
+Dialogue: 0,0:21:58.62,0:22:02.90,Default,en,0,0,0,,Look. They came back safely, just as I told you!
+Dialogue: 0,0:22:02.90,0:22:06.18,Default,en,0,0,0,,But it seems that the submarine is broken.
+Dialogue: 0,0:22:06.18,0:22:10.86,Default,en,0,0,0,,Hey, isn't that good enough for now?
+Dialogue: 0,0:22:11.88,0:22:17.81,Default,en,0,0,0,,Even while being abused by Gennai, a weird old geezer, Musashi and others challenged their way to Megaton Castle.
+Dialogue: 0,0:22:17.81,0:22:20.51,Default,en,0,0,0,,Where is Nobunaga, the boss of their enemy?
+Dialogue: 0,0:22:20.51,0:22:25.75,Default,en,0,0,0,,Where is the base of Megaton Castle? Wait for the next story when they'll discover the core of the secret!
+Dialogue: 0,0:22:44.73,0:22:47.94,SongED1,en,0,0,0,,I fought and I got beaten
+Dialogue: 0,0:22:47.94,0:22:50.69,SongED1,en,0,0,0,,Nosebleed drips rendezvous
+Dialogue: 0,0:22:50.94,0:22:53.36,SongED1,en,0,0,0,,I can't lose, so take my blow!
+Dialogue: 0,0:22:53.36,0:22:55.95,SongED1,en,0,0,0,,Pinch! Punch! I won by reversal
+Dialogue: 0,0:22:56.74,0:22:59.87,SongED1,en,0,0,0,,Next is delightful lunchtime
+Dialogue: 0,0:22:59.87,0:23:03.00,SongED1,en,0,0,0,,But it's not delightful today
+Dialogue: 0,0:23:03.00,0:23:05.29,SongED1,en,0,0,0,,The thunder of my teacher
+Dialogue: 0,0:23:05.29,0:23:07.84,SongED1,en,0,0,0,,only hit me and nobody else
+Dialogue: 0,0:23:09.30,0:23:12.09,SongED1,en,0,0,0,,I tried to explain
+Dialogue: 0,0:23:12.09,0:23:14.80,SongED1,en,0,0,0,,But he won't listen
+Dialogue: 0,0:23:15.39,0:23:17.89,SongED1,en,0,0,0,,Now whatever I do
+Dialogue: 0,0:23:17.89,0:23:20.31,SongED1,en,0,0,0,,I end up crying
+Dialogue: 0,0:23:20.31,0:23:24.19,SongED1,en,0,0,0,,Don't cry when you eat, or
+Dialogue: 0,0:23:24.19,0:23:26.31,SongED1,en,0,0,0,,it tastes totally bad
+Dialogue: 0,0:23:26.31,0:23:30.28,SongED1,en,0,0,0,,Don't cry when you eat, or
+Dialogue: 0,0:23:30.28,0:23:32.32,SongED1,en,0,0,0,,it tastes totally bad
+Dialogue: 0,0:23:32.32,0:23:36.32,SongED1,en,0,0,0,,Don't cry when you eat, or
+Dialogue: 0,0:23:36.32,0:23:38.32,SongED1,en,0,0,0,,it tastes totally bad
+Dialogue: 0,0:23:38.32,0:23:42.33,SongED1,en,0,0,0,,Don't cry when you eat, or
+Dialogue: 0,0:23:42.33,0:23:44.96,SongED1,en,0,0,0,,you'll feel downhearted
+Dialogue: 0,0:24:04.93,0:24:09.94,Default,en,0,0,0,,Using Mr. Gennai's submarine, we found the base of the enemy in the deep sea-{\i1}dasu{\i0}.
+Dialogue: 0,0:24:10.30,0:24:14.32,Default,en,0,0,0,,But because their defenses are strict, it's difficult to approach-{\i1}dasu{\i0}.
+Dialogue: 0,0:24:14.54,0:24:18.27,Default,en,0,0,0,,And there, Kojirō suggested a plan to disguise using stuffed toy!
+Dialogue: 0,0:24:18.62,0:24:21.37,Default,en,0,0,0,,But, I'm not sure about this-{\i1}dasu{\i0}...
+Dialogue: 0,0:24:21.72,0:24:24.41,Default,en,0,0,0,,Next story! Big Laughter Octopus Dance Strategy
+Dialogue: 0,0:24:24.41,0:24:27.22,Default,en,0,0,0,,It's a stormy raw octopus-{\i1}dasu{\i0}!
+Dialogue: 0,0:24:26.86,0:24:30.86,NoteOnAnime,en,60,0,60,,{\an7}Next Episode
+Dialogue: 0,0:24:26.86,0:24:30.86,TitleEP,en,0,0,220,,Big Laughter
+Dialogue: 0,0:24:26.86,0:24:30.86,TitleEP,en,0,0,80,,Octopus Dance Strategy
+Dialogue: 0,0:24:26.86,0:24:30.86,NoteOnAnime,en,0,60,30,,{\an3\fs32}Look forwards for it!
