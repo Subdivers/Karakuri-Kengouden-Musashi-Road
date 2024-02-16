@@ -96,7 +96,7 @@ Dialogue: 0,0:02:49.62,0:02:54.02,Default,en,0,0,0,,I can't die until I eat more
 Comment: 0,0:02:54.85,0:02:56.46,Default,ja,0,0,0,,助けてやってもいいぞ。
 Dialogue: 0,0:02:54.85,0:02:56.46,Default,ko,0,0,0,,살려줘도 좋다.
 Dialogue: 0,0:02:54.85,0:02:56.46,Default,en,0,0,0,,You can release them.
-Comment: 0,0:03:01.69,0:03:06.30,Default,ja,0,0,0,,助けてくれるだすか？いや、ノブナガさんっていい人だすな。
+Comment: 0,0:03:01.69,0:03:06.30,Default,ja,0,0,0,,助けてくれるだスか？いや、ノブナガさんっていい人だスな。
 Dialogue: 0,0:03:01.69,0:03:06.30,Default,ko,0,0,0,,살려 주는 것이오? 이야, 노부나가 씨 좋은 사람이오!
 Dialogue: 0,0:03:01.69,0:03:06.30,Default,en,0,0,0,,Are you saving us-{\i1}dasu{\i0}? Mr. Nobunaga, you're a good guy-{\i1}dasu{\i0}!
 Comment: 0,0:03:06.30,0:03:10.28,Default,ja,0,0,0,,その代わり、千姫の居場所を教えてはくれんか。
@@ -132,7 +132,7 @@ Dialogue: 0,0:03:39.88,0:03:45.63,Default,en,0,0,0,,Edotopia will become a sea o
 Comment: 0,0:03:48.86,0:03:54.49,Default,ja,0,0,0,,センヒメさえ人質にとれば、誰も苦しまずに、わしの転嫁が決まるのだ。
 Dialogue: 0,0:03:48.86,0:03:54.49,Default,ko,0,0,0,,센히메만 인질로 잡으면, 누구도 고통스럽지 않게 내게 천하가 넘어올 것이다.
 Dialogue: 0,0:03:48.86,0:03:54.49,Default,en,0,0,0,,By taking Senhime as a hostage, nobody will suffer, and the world will fall under my hands.
-Comment: 0,0:03:54.80,0:03:57.10,Default,ja,0,0,0,,なるほど、確かにその通りだすな。
+Comment: 0,0:03:54.80,0:03:57.10,Default,ja,0,0,0,,なるほど、確かにその通りだスな。
 Dialogue: 0,0:03:54.80,0:03:57.10,Default,ko,0,0,0,,이해했소. 분명 그렇소.
 Dialogue: 0,0:03:54.80,0:03:57.10,Default,en,0,0,0,,I see, that makes sense-{\i1}dasu{\i0}.
 Comment: 0,0:03:57.10,0:03:59.84,Default,ja,0,0,0,,バカ！敵の作戦に関心しているやつがいるか！
@@ -483,7 +483,7 @@ Dialogue: 0,0:12:17.16,0:12:18.65,Default,en,0,0,0,,I'll rescue you right away.
 Comment: 0,0:12:24.31,0:12:25.45,Default,ja,0,0,0,,ムサシさん！
 Dialogue: 0,0:12:24.31,0:12:25.45,Default,ko,0,0,0,,무사시 씨!
 Dialogue: 0,0:12:24.31,0:12:25.45,Default,en,0,0,0,,Mr. Musashi!
-Comment: 0,0:12:25.45,0:12:28.95,Default,ja,0,0,0,,オツルちゃん、来てくれただすか。みんなも！
+Comment: 0,0:12:25.45,0:12:28.95,Default,ja,0,0,0,,オツルちゃん、来てくれただスか。みんなも！
 Dialogue: 0,0:12:25.45,0:12:28.95,Default,ko,0,0,0,,오츠루, 와 주었소! 모두!
 Dialogue: 0,0:12:25.45,0:12:28.95,Default,en,0,0,0,,Otsuru, you're here-{\i1}dasu{\i0}! Everyone too!
 Comment: 0,0:12:28.95,0:12:30.85,Default,ja,0,0,0,,かたじけない。助かりました。
@@ -631,10 +631,10 @@ Dialogue: 0,0:16:51.43,0:16:53.58,Default,en,0,0,0,,Playtime ends now!
 Comment: 0,0:17:01.74,0:17:03.66,Default,ja,0,0,0,,ムサシ！しばらくこっちのも頼むぞ！
 Dialogue: 0,0:17:01.74,0:17:03.66,Default,ko,0,0,0,,무사시! 잠깐 여기도 부탁한다!
 Dialogue: 0,0:17:01.74,0:17:03.66,Default,en,0,0,0,,Musashi! Take care of this for a moment!
-Comment: 0,0:17:04.66,0:17:06.53,Default,ja,0,0,0,,あ、コジロー！おしっこだすか！
+Comment: 0,0:17:04.66,0:17:06.53,Default,ja,0,0,0,,あ、コジロー！おしっこだスか！
 Dialogue: 0,0:17:04.66,0:17:06.53,Default,ko,0,0,0,,어, 코지로! 오줌이오?
 Dialogue: 0,0:17:04.66,0:17:06.53,Default,en,0,0,0,,Huh, Kojirō? Going to pee-{\i1}dasu{\i0}!?
-Comment: 0,0:17:09.29,0:17:11.05,Default,ja,0,0,0,,早くしてくれだす！
+Comment: 0,0:17:09.29,0:17:11.05,Default,ja,0,0,0,,早くしてくれだス！
 Dialogue: 0,0:17:09.29,0:17:11.05,Default,ko,0,0,0,,어서 갔다오시오!
 Dialogue: 0,0:17:09.29,0:17:11.05,Default,en,0,0,0,,Come back as soon as possible-{\i1}dasu{\i0}!
 Comment: 0,0:17:18.08,0:17:20.92,Default,ja,0,0,0,,鳳凰丸！不死鳥の舞！

@@ -217,7 +217,7 @@ Dialogue: 0,0:05:48.26,0:05:50.04,Default,en,0,0,0,,Alright! Understood.
 Comment: 0,0:05:50.62,0:05:55.67,Default,ja,0,0,0,,ささ、どうぞ、お二人とも！汚いところですが、あっしのうちで一先ずご休みくだされ。
 Dialogue: 0,0:05:50.62,0:05:55.67,Default,ko,0,0,0,,자자, 오세요, 둘 다! 더러운 곳이지만 제 집에서 일단 쉬시라.
 Dialogue: 0,0:05:50.62,0:05:55.67,Default,en,0,0,0,,Now, follow me, you two! It's not a clean place, but still you can take a good rest there.
-Comment: 0,0:05:55.67,0:05:57.90,Default,ja,0,0,0,,そうだすな。しっかりだす！
+Comment: 0,0:05:55.67,0:05:57.90,Default,ja,0,0,0,,そうだスな。しっかりだス！
 Dialogue: 0,0:05:55.67,0:05:57.90,Default,ko,0,0,0,,그렇소! 푹 쉬오!
 Dialogue: 0,0:05:55.67,0:05:57.90,Default,en,0,0,0,,That's right-{\i1}dasu{\i0}! We'll take a rest-{\i1}dasu{\i0}!
 Comment: 0,0:06:04.22,0:06:06.01,Default,ja,0,0,0,,ゼニガタン殿、私はここで。
@@ -385,7 +385,7 @@ Dialogue: 0,0:10:31.16,0:10:34.55,Default,en,0,0,0,,Don't hold back and eat as m
 Comment: 0,0:10:34.55,0:10:37.29,Default,ja,0,0,0,,本当。あ、これもおいしくてよ。
 Dialogue: 0,0:10:34.55,0:10:37.29,Default,ko,0,0,0,,그래. 아, 이것도 맛있어.
 Dialogue: 0,0:10:34.55,0:10:37.29,Default,en,0,0,0,,Yeah. Try this too! It's good.
-Comment: 0,0:10:37.29,0:10:38.65,Default,ja,0,0,0,,え、あ、はいだす。
+Comment: 0,0:10:37.29,0:10:38.65,Default,ja,0,0,0,,え、あ、はいだス。
 Dialogue: 0,0:10:37.29,0:10:38.65,Default,ko,0,0,0,,어, 그렇소...
 Dialogue: 0,0:10:37.29,0:10:38.65,Default,en,0,0,0,,Oh, is that so-{\i1}dasu{\i0}...
 Comment: 0,0:10:41.24,0:10:43.40,Default,ja,0,0,0,,わけぇ（若い）んだからだから。どんどん食わなくちゃな！
@@ -394,7 +394,7 @@ Dialogue: 0,0:10:41.24,0:10:43.40,Default,en,0,0,0,,Since you're young, you gott
 Comment: 0,0:10:43.64,0:10:44.99,Default,ja,0,0,0,,これ！こいつもやろう。
 Dialogue: 0,0:10:43.64,0:10:44.99,Default,ko,0,0,0,,여기! 이것도 먹어라!
 Dialogue: 0,0:10:43.64,0:10:44.99,Default,en,0,0,0,,Here! Eat some of these too!
-Comment: 0,0:10:46.96,0:10:48.80,Default,ja,0,0,0,,ありがとうだす！
+Comment: 0,0:10:46.96,0:10:48.80,Default,ja,0,0,0,,ありがとうだス！
 Dialogue: 0,0:10:46.96,0:10:48.80,Default,ko,0,0,0,,고맙소!
 Dialogue: 0,0:10:46.96,0:10:48.80,Default,en,0,0,0,,Thank you-{\i1}dasu{\i0}!
 Comment: 0,0:10:49.96,0:10:54.88,Default,ja,0,0,0,,ねぇ、あんた。ご飯が済んだら三人で天神様（雷神）の縁日にいこうよ。
@@ -687,7 +687,7 @@ Dialogue: 0,0:19:34.80,0:19:40.54,Default,en,0,0,0,,Really, trying to take over 
 Comment: 0,0:19:41.40,0:19:46.32,Default,ja,0,0,0,,は！殿のお命、このジュウベエ、我が身に代えてもお守りいたします。
 Dialogue: 0,0:19:41.40,0:19:46.32,Default,ko,0,0,0,,예! 영주님의 생명, 이 주베가 제 몸을 걸고 지켜 드리겠습니다.
 Dialogue: 0,0:19:41.40,0:19:46.32,Default,en,0,0,0,,Yessir! I, Jūbee, will protect your life risking my own body!
-Comment: 0,0:19:51.82,0:19:58.25,Default,ja,0,0,0,,ハンゾウが生きていたとは驚きだスが。この厳しい警護を、今度こそ最後でござるだす！
+Comment: 0,0:19:51.82,0:19:58.25,Default,ja,0,0,0,,ハンゾウが生きていたとは驚きだスが。この厳しい警護を、今度こそ最後でござるだス！
 Dialogue: 0,0:19:51.82,0:19:58.25,Default,ko,0,0,0,,한조가 살아 있었다니 놀랐소이만, 이 엄한 경호 앞에선 이번에야말로 끝이오.
 Dialogue: 0,0:19:51.82,0:19:58.25,Default,en,0,0,0,,It's surprising that Hanzō's still alive-{\i1}dasu{\i0}, but with this level of guard in place, he's really gonna be done for this time-{\i1}dasu{\i0}.
 Comment: 0,0:19:58.25,0:20:01.13,Default,ja,0,0,0,,あのハンゾウという男、侮ることは禁物。
@@ -798,7 +798,7 @@ Dialogue: 0,0:24:15.46,0:24:19.02,Default,en,0,0,0,,Osenchan, wait for me! I'm g
 Comment: 0,0:24:19.51,0:24:22.12,Default,ja,0,0,0,,次回、サイゴーさんは謎の人だス
 Dialogue: 0,0:24:19.51,0:24:22.12,Default,ko,0,0,0,,다음 이야기! 사이고 씨는 수수께끼의 인물이오
 Dialogue: 0,0:24:19.51,0:24:22.12,Default,en,0,0,0,,Next story! Mr. Saigo is a Mysterious Person
-Comment: 0,0:24:22.28,0:24:25.42,Default,ja,0,0,0,,疾風怒濤の翔ぶが如くだす！
+Comment: 0,0:24:22.28,0:24:25.42,Default,ja,0,0,0,,疾風怒濤の翔ぶが如くだス！
 Dialogue: 0,0:24:22.28,0:24:25.42,Default,ko,0,0,0,,질풍노도의 "나는 듯이"이오!
 Dialogue: 0,0:24:22.28,0:24:25.42,Note,en,0,0,0,,(翔ぶが如く, {\i1}Tobu ga Gotoku{\i0}: lit. {\i1}as if in flight{\i0}. Historical fiction written by Shiba Ryōtaro, where one of main character is Saigō Takamori)
 Dialogue: 0,0:24:22.28,0:24:25.42,Default,en,0,0,0,,It's a stormy {\i1}Tobu ga Gotoku{\i0}-{\i1}dasu{\i0}!

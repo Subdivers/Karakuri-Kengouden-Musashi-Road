@@ -137,7 +137,7 @@ Dialogue: 0,0:03:06.02,0:03:10.14,Default,en,0,0,0,,Musashi and others are now i
 Comment: 0,0:03:15.09,0:03:18.10,Default,ja,0,0,0,,ムサシ、もう少し行儀よく食べられないのか。
 Dialogue: 0,0:03:15.09,0:03:18.10,Default,ko,0,0,0,,무사시, 좀만 더 예의바르게 못 먹겠냐!
 Dialogue: 0,0:03:15.09,0:03:18.10,Default,en,0,0,0,,Musashi! Can't you eat with manners?
-Comment: 0,0:03:18.81,0:03:21.97,Default,ja,0,0,0,,ギョーザだすか？お？どこだす？どこ？どこどこどこ？
+Comment: 0,0:03:18.81,0:03:21.97,Default,ja,0,0,0,,ギョーザだスか？お？どこだす？どこ？どこどこどこ？
 Dialogue: 0,0:03:18.81,0:03:21.97,Default,ko,0,0,0,,교자이오? 어? 어디이오? 어디? 어디어디어디?
 Dialogue: 0,0:03:18.81,0:03:21.97,Default,en,0,0,0,,Gyoza-{\1}dasu{\i0}? Where, where? Where? Where, where, where?
 Comment: 0,0:03:21.97,0:03:24.48,Default,ja,0,0,0,,千姫様、幸せそうね。
@@ -236,7 +236,7 @@ Dialogue: 0,0:04:49.22,0:04:50.44,Default,en,0,0,0,,Kojirō!
 Comment: 0,0:04:50.74,0:04:51.96,Default,ja,0,0,0,,コジローさん！
 Dialogue: 0,0:04:50.74,0:04:51.96,Default,ko,0,0,0,,코지로 씨!
 Dialogue: 0,0:04:50.74,0:04:51.96,Default,en,0,0,0,,Mr. Kojirō!
-Comment: 0,0:04:52.67,0:04:59.59,Default,ja,0,0,0,,コジロー！いくら美容病と健康に気を使ってるっていたって、ちょっと寝るのが早いんじゃないだすか。
+Comment: 0,0:04:52.67,0:04:59.59,Default,ja,0,0,0,,コジロー！いくら美容病と健康に気を使ってるっていたって、ちょっと寝るのが早いんじゃないだスか。
 Dialogue: 0,0:04:52.67,0:04:59.59,Default,ko,0,0,0,,코지로! 아무리 미용하고 건강에 조심한다고 해도, 아직 자기에는 너무 빠르오!
 Dialogue: 0,0:04:52.67,0:04:59.59,Default,en,0,0,0,,Kojirō! It's too early to sleep, even if you care about beauty and health-{\1}dasu{\i0}!
 Comment: 0,0:04:59.59,0:05:01.11,Default,ja,0,0,0,,まだ夕方よ。
@@ -380,7 +380,7 @@ Dialogue: 0,0:07:12.66,0:07:15.42,Default,en,0,0,0,,What are you blabbering abou
 Comment: 0,0:07:15.73,0:07:20.94,Default,ja,0,0,0,,ジパングナンバーワンを目指そうとしているコジローが失礼ぐらいで寝込むなんて、恥ずかしいだス！
 Dialogue: 0,0:07:15.73,0:07:20.94,Default,ko,0,0,0,,지팡구 제일을 노리는 코지로가 실례 정도로 앓아눕다니, 부끄럽소!
 Dialogue: 0,0:07:15.73,0:07:20.94,Default,en,0,0,0,,It's deplorable to stay in bed because you made a discourtesy, Kojirō, when you're looking to be the number one of Jipang!
-Comment: 0,0:07:21.52,0:07:25.79,Default,ja,0,0,0,,おいらとの勝負もついていないんだすからな。死んだら承知しないだス！
+Comment: 0,0:07:21.52,0:07:25.79,Default,ja,0,0,0,,おいらとの勝負もついていないんだスからな。死んだら承知しないだス！
 Dialogue: 0,0:07:21.52,0:07:25.79,Default,ko,0,0,0,,나하고의 승부도 안 났으니 죽으면 가만 안 있겠소!
 Dialogue: 0,0:07:21.52,0:07:25.79,Default,en,0,0,0,,Since we haven't settled this yet, I won't be able to stand this-dasu!
 Comment: 0,0:07:25.79,0:07:31.53,Default,ja,0,0,0,,よし、わかった、ムサシ。決闘だ。どちらが強いか、お前にわからせてやるぞ。
@@ -623,10 +623,10 @@ Dialogue: 0,0:12:44.31,0:12:48.06,Default,en,0,0,0,,He's late! What the hell is 
 Comment: 0,0:12:57.83,0:13:01.37,Default,ja,0,0,0,,誰かとなんか約束してたような気分が。
 Dialogue: 0,0:12:57.83,0:13:01.37,Default,ko,0,0,0,,누군가하고 뭔가 약속했던 것 같은 기분이...
 Dialogue: 0,0:12:57.83,0:13:01.37,Default,en,0,0,0,,I think I promised something with somebody...
-Comment: 0,0:13:02.15,0:13:05.04,Default,ja,0,0,0,,そうだス！コジローと決闘するんだす！
+Comment: 0,0:13:02.15,0:13:05.04,Default,ja,0,0,0,,そうだス！コジローと決闘するんだス！
 Dialogue: 0,0:13:02.15,0:13:05.04,Default,ko,0,0,0,,그렇소! 코지로하고 결투가 있소!
 Dialogue: 0,0:13:02.15,0:13:05.04,Default,en,0,0,0,,Right-{\1}dasu{\i0}! I have a duel with Kojirō-{\1}dasu{\i0}!
-Comment: 0,0:13:05.04,0:13:06.94,Default,ja,0,0,0,,うわ！遅刻だす！
+Comment: 0,0:13:05.04,0:13:06.94,Default,ja,0,0,0,,うわ！遅刻だス！
 Dialogue: 0,0:13:05.04,0:13:06.94,Default,ko,0,0,0,,으악! 지각이오!
 Dialogue: 0,0:13:05.04,0:13:06.94,Default,en,0,0,0,,Wah! I'm late-{\1}dasu{\i0}!
 Comment: 0,0:13:12.29,0:13:20.00,Default,ja,0,0,0,,ムサシ目、臆病風に吹かれて逃げたな。ふん！所詮それだけの男だったからだ。みなおしたぞ！
@@ -690,7 +690,7 @@ Dialogue: 0,0:14:36.02,0:14:37.21,Default,en,0,0,0,,It was a lie-{\1}dasu{\i0}!
 Comment: 0,0:14:37.62,0:14:40.76,Default,ja,0,0,0,,ムサシ！お前はどうしてそう意地が悪いんだ？
 Dialogue: 0,0:14:37.62,0:14:40.76,Default,ko,0,0,0,,무사시! 넌 왜 그렇게 심술궂냐?
 Dialogue: 0,0:14:37.62,0:14:40.76,Default,en,0,0,0,,Musashi! Why are you so deliberately malicious?
-Comment: 0,0:14:40.76,0:14:42.28,Default,ja,0,0,0,,嘘も小便だす。
+Comment: 0,0:14:40.76,0:14:42.28,Default,ja,0,0,0,,嘘も小便だス。
 Dialogue: 0,0:14:40.76,0:14:42.28,Default,ko,0,0,0,,거짓말도 소변이오.
 Dialogue: 0,0:14:40.76,0:14:42.28,Default,en,0,0,0,,A lie is also a pee-{\1}dasu{\i0}!
 Comment: 0,0:14:42.59,0:14:44.80,Default,ja,0,0,0,,それを言うなら、嘘も方便だ！
@@ -730,7 +730,7 @@ Dialogue: 0,0:15:01.67,0:15:04.83,Default,en,0,0,0,,Do you ever think about some
 Comment: 0,0:15:05.08,0:15:07.25,Default,ja,0,0,0,,オツルちゃんのことも考えるだスよ。
 Dialogue: 0,0:15:05.08,0:15:07.25,Default,ko,0,0,0,,오츠루도 생각하오.
 Dialogue: 0,0:15:05.08,0:15:07.25,Default,en,0,0,0,,I think about Otsuru too-{\1}dasu{\i0}!
-Comment: 0,0:15:07.50,0:15:10.28,Default,ja,0,0,0,,オツルちゃん、今頃どうしてるんだすかな。
+Comment: 0,0:15:07.50,0:15:10.28,Default,ja,0,0,0,,オツルちゃん、今頃どうしてるんだスかな。
 Dialogue: 0,0:15:07.50,0:15:10.28,Default,ko,0,0,0,,오츠루, 지금쯤 뭘 하고 있을까...
 Dialogue: 0,0:15:07.50,0:15:10.28,Default,en,0,0,0,,I wonder what's Otsuru doing by now-{\1}dasu{\i0}...
 Comment: 0,0:15:10.28,0:15:11.71,Default,ja,0,0,0,,ムサシさん！
@@ -751,7 +751,7 @@ Dialogue: 0,0:15:22.73,0:15:23.65,Default,en,0,0,0,,Otsuru!
 Comment: 0,0:15:24.93,0:15:27.42,Default,ja,0,0,0,,ムサシさん、昨日はごめんなさい。
 Dialogue: 0,0:15:24.93,0:15:27.42,Default,ko,0,0,0,,무사시 씨, 어제는 미안했어.
 Dialogue: 0,0:15:24.93,0:15:27.42,Default,en,0,0,0,,Mr. Musashi, I apologize about what happened yesterday.
-Comment: 0,0:15:27.97,0:15:32.75,Default,ja,0,0,0,,いいんだすよ。もうオツルちゃんが悪いんじゃないんだすから。悪いのはコジローだス。
+Comment: 0,0:15:27.97,0:15:32.75,Default,ja,0,0,0,,いいんだすよ。もうオツルちゃんが悪いんじゃないんだスから。悪いのはコジローだス。
 Dialogue: 0,0:15:27.97,0:15:32.75,Default,ko,0,0,0,,괜찮소. 이건 오츠루가 잘못한 게 아니오. 코지로가 나빴소.
 Dialogue: 0,0:15:27.97,0:15:32.75,Default,en,0,0,0,,It's alright-{\1}dasu{\i0}. It's not Otsuru's fault-{\1}dasu{\i0}. Blame Kojirō-{\1}dasu{\i0}.
 Comment: 0,0:15:34.25,0:15:39.69,Default,ja,0,0,0,,あたし、ムサシさんの邪魔にならないようにするから、思う存分戦って。
@@ -772,7 +772,7 @@ Dialogue: 0,0:16:36.92,0:16:37.81,Default,en,0,0,0,,Just a moment.
 Comment: 0,0:16:38.18,0:16:38.84,Default,ja,0,0,0,,降参か。
 Dialogue: 0,0:16:38.18,0:16:38.84,Default,ko,0,0,0,,항복이냐?
 Dialogue: 0,0:16:38.18,0:16:38.84,Default,en,0,0,0,,Giving up?
-Comment: 0,0:16:39.29,0:16:40.54,Default,ja,0,0,0,,おしっこタイムだす。
+Comment: 0,0:16:39.29,0:16:40.54,Default,ja,0,0,0,,おしっこタイムだス。
 Dialogue: 0,0:16:39.29,0:16:40.54,Default,ko,0,0,0,,오줌 타임이오.
 Dialogue: 0,0:16:39.29,0:16:40.54,Default,en,0,0,0,,Pee time-{\1}dasu{\i0}.
 Comment: 0,0:16:41.23,0:16:43.20,Default,ja,0,0,0,,オツルちゃん、ちょっと向こう向いてて。
@@ -877,7 +877,7 @@ Dialogue: 0,0:18:31.43,0:18:32.27,Default,en,0,0,0,,Love!?
 Comment: 0,0:18:32.61,0:18:39.10,Default,ja,0,0,0,,おいらにはジパングナンバーワンになって、オツルちゃんと結婚するという愛の目標があるだス！
 Dialogue: 0,0:18:32.61,0:18:39.10,Default,ko,0,0,0,,내게는 지팡구 제일이 되어서 오츠루하고 결혼하겠다는 사랑의 목표가 있소!
 Dialogue: 0,0:18:32.61,0:18:39.10,Default,en,0,0,0,,I have the objective of love, of marrying Otsuru after becoming the number one of Jipang-{\1}dasu{\i0}!
-Comment: 0,0:18:39.58,0:18:41.78,Default,ja,0,0,0,,コジロー！お前には目標あるだすか？
+Comment: 0,0:18:39.58,0:18:41.78,Default,ja,0,0,0,,コジロー！お前には目標あるだスか？
 Dialogue: 0,0:18:39.58,0:18:41.78,Default,ko,0,0,0,,코지로! 네게는 목표 있소?
 Dialogue: 0,0:18:39.58,0:18:41.78,Default,en,0,0,0,,Kojirō! Do you have an objective-{\1}dasu{\i0}?
 Comment: 0,0:18:42.31,0:18:45.21,Default,ja,0,0,0,,やだ、ムサシさんったら、恥ずかしい。

@@ -69,10 +69,10 @@ Comment: 0,0:02:18.23,0:02:23.23,TitleEP,ja,0,0,90,,
 Dialogue: 0,0:02:18.23,0:02:23.23,TitleEP,ko,0,0,90,,카라쿠리 성채이오
 Dialogue: 0,0:02:18.23,0:02:23.23,TitleEP,en,0,0,240,,Kaboom!
 Dialogue: 0,0:02:18.23,0:02:23.23,TitleEP,en,0,0,90,,Karakuri Stronghold
-Comment: 0,0:02:32.68,0:02:35.51,Default,ja,0,0,0,,ああ、冷たいだス。ひょっこいだす！
+Comment: 0,0:02:32.68,0:02:35.51,Default,ja,0,0,0,,ああ、冷たいだス。ひょっこいだス！
 Dialogue: 0,0:02:32.68,0:02:35.51,Default,ko,0,0,0,,아, 춥소. 막 춥소!
 Dialogue: 0,0:02:32.68,0:02:35.51,Default,en,0,0,0,,It's cold-{\i1}dasu{\i0}! So cold-{\i1}dasu{\i0}!
-Comment: 0,0:02:35.69,0:02:37.43,Default,ja,0,0,0,,ああ、凍るだす！
+Comment: 0,0:02:35.69,0:02:37.43,Default,ja,0,0,0,,ああ、凍るだス！
 Dialogue: 0,0:02:35.69,0:02:37.43,Default,ko,0,0,0,,아, 얼겠소!
 Dialogue: 0,0:02:35.69,0:02:37.43,Default,en,0,0,0,,I'm gonna freeze-{\i1}dasu{\i0}!
 Comment: 0,0:02:37.43,0:02:43.10,Default,ja,0,0,0,,うるさいぞ、ムサシ。苟も武芸者たるものは寒さぐらいで文句言うものではない！
@@ -249,7 +249,7 @@ Dialogue: 0,0:07:38.69,0:07:40.45,Default,en,0,0,0,,I wonder if Hanzō is nearby
 Comment: 0,0:07:41.12,0:07:41.83,Default,ja,0,0,0,,おそらく。
 Dialogue: 0,0:07:41.12,0:07:41.83,Default,ko,0,0,0,,분명.
 Dialogue: 0,0:07:41.12,0:07:41.83,Default,en,0,0,0,,Probably.
-Comment: 0,0:07:42.17,0:07:45.86,Default,ja,0,0,0,,よし。隠れ家を見せつけ、叩き潰してやるだす！
+Comment: 0,0:07:42.17,0:07:45.86,Default,ja,0,0,0,,よし。隠れ家を見せつけ、叩き潰してやるだス！
 Dialogue: 0,0:07:42.17,0:07:45.86,Default,ko,0,0,0,,좋소. 숨은 곳을 알아내서 때려부수어 주겠소!
 Dialogue: 0,0:07:42.17,0:07:45.86,Default,en,0,0,0,,Well then. We'll find out his hideout and smash it completely-{\i1}dasu{\i0}!
 Comment: 0,0:07:58.86,0:08:00.81,Default,ja,0,0,0,,センヒメ様、大丈夫ですか。
@@ -333,7 +333,7 @@ Dialogue: 0,0:09:53.38,0:09:53.98,Default,en,0,0,0,,Sorry.
 Comment: 0,0:09:54.40,0:09:55.37,Default,ja,0,0,0,,もう！
 Dialogue: 0,0:09:54.40,0:09:55.37,Default,ko,0,0,0,,정말!
 Dialogue: 0,0:09:54.40,0:09:55.37,Default,en,0,0,0,,Really!
-Comment: 0,0:09:58.38,0:10:00.52,Default,ja,0,0,0,,危なく落ちちゃうところだっただす。
+Comment: 0,0:09:58.38,0:10:00.52,Default,ja,0,0,0,,危なく落ちちゃうところだっただス。
 Dialogue: 0,0:09:58.38,0:10:00.52,Default,ko,0,0,0,,까딱하면 떨어질 뻔했소!
 Dialogue: 0,0:09:58.38,0:10:00.52,Default,en,0,0,0,,I was gonna fall-{\i1}dasu{\i0}!
 Comment: 0,0:10:00.66,0:10:03.28,Default,ja,0,0,0,,ふん。それはお前がドジだからだ。
@@ -420,7 +420,7 @@ Dialogue: 0,0:12:13.82,0:12:18.45,Eyecatch,en,0,0,0,,Karakuri Kengouden: Musashi
 Comment: 0,0:12:32.21,0:12:36.80,Default,ja,0,0,0,,おおさむ。危なく氷付けになる所だっただス。
 Dialogue: 0,0:12:32.21,0:12:36.80,Default,ko,0,0,0,,엄청 춥소. 까딱하단 얼음덩어리가 되어버릴 뻔했소.
 Dialogue: 0,0:12:32.21,0:12:36.80,Default,en,0,0,0,,So cold-{\i1}dasu{\i0}. I might have ended up as an ice-{\i1}dasu{\i0}.
-Comment: 0,0:12:38.26,0:12:41.29,Default,ja,0,0,0,,おせんちゃん！コジロー！どこだすか！
+Comment: 0,0:12:38.26,0:12:41.29,Default,ja,0,0,0,,おせんちゃん！コジロー！どこだスか！
 Dialogue: 0,0:12:38.26,0:12:41.29,Default,ko,0,0,0,,오센짱! 코지로! 어디이오!
 Dialogue: 0,0:12:38.26,0:12:41.29,Default,en,0,0,0,,Osenchan! Kojirō! Where are you-{\i1}dasu{\i0}?!
 Comment: 0,0:12:44.05,0:12:47.81,Default,ja,0,0,0,,おせおちゃんはさらわれてしまって、コジローは行方不明。。。
@@ -429,7 +429,7 @@ Dialogue: 0,0:12:44.05,0:12:47.81,Default,en,0,0,0,,Osenchan has been taken away
 Comment: 0,0:12:48.72,0:12:50.72,Default,ja,0,0,0,,どうすりゃいいんだす？
 Dialogue: 0,0:12:48.72,0:12:50.72,Default,ko,0,0,0,,이걸 어쩌오?
 Dialogue: 0,0:12:48.72,0:12:50.72,Default,en,0,0,0,,What should I do now-{\i1}dasu{\i0}?
-Comment: 0,0:12:54.40,0:12:57.02,Default,ja,0,0,0,,己、忍者目！覚悟するだす！
+Comment: 0,0:12:54.40,0:12:57.02,Default,ja,0,0,0,,己、忍者目！覚悟するだス！
 Dialogue: 0,0:12:54.40,0:12:57.02,Default,ko,0,0,0,,이 자식, 닌자 놈! 각오하시오!
 Dialogue: 0,0:12:54.40,0:12:57.02,Default,en,0,0,0,,You ninja bastard! Prepare yourself-{\i1}dasu{\i0}!
 Comment: 0,0:13:01.12,0:13:02.40,Default,ja,0,0,0,,血迷うな、ムサシ！
@@ -459,7 +459,7 @@ Dialogue: 0,0:13:24.65,0:13:28.77,Default,en,0,0,0,,Your moronic excavator-like 
 Comment: 0,0:13:28.77,0:13:30.02,Default,ja,0,0,0,,なんだと？！
 Dialogue: 0,0:13:28.77,0:13:30.02,Default,ko,0,0,0,,뭐야?!
 Dialogue: 0,0:13:28.77,0:13:30.02,Default,en,0,0,0,,What did you say?!
-Comment: 0,0:13:30.18,0:13:31.20,Default,ja,0,0,0,,やるだすか！
+Comment: 0,0:13:30.18,0:13:31.20,Default,ja,0,0,0,,やるだスか！
 Dialogue: 0,0:13:30.18,0:13:31.20,Default,ko,0,0,0,,해 볼 셈이오?
 Dialogue: 0,0:13:30.18,0:13:31.20,Default,en,0,0,0,,Wanna fight-{\i1}dasu{\i0}?!
 Comment: 0,0:13:34.06,0:13:34.46,Default,ja,0,0,0,,ひひ。
@@ -477,7 +477,7 @@ Dialogue: 0,0:13:41.45,0:13:42.88,Default,en,0,0,0,,You really did it!
 Comment: 0,0:13:43.04,0:13:43.87,Default,ja,0,0,0,,このやろう！
 Dialogue: 0,0:13:43.04,0:13:43.87,Default,ko,0,0,0,,이 자식!
 Dialogue: 0,0:13:43.04,0:13:43.87,Default,en,0,0,0,,You bastard!
-Comment: 0,0:13:46.02,0:13:47.00,Default,ja,0,0,0,,このだすな！
+Comment: 0,0:13:46.02,0:13:47.00,Default,ja,0,0,0,,このだスな！
 Dialogue: 0,0:13:46.02,0:13:47.00,Default,ko,0,0,0,,이 정도야!
 Dialogue: 0,0:13:46.02,0:13:47.00,Default,en,0,0,0,,This is nothing!
 Comment: 0,0:13:47.56,0:13:48.34,Default,ja,0,0,0,,くらえ！
@@ -501,7 +501,7 @@ Dialogue: 0,0:14:02.62,0:14:05.45,Default,en,0,0,0,,Onihime went to the other si
 Comment: 0,0:14:06.05,0:14:06.41,Default,ja,0,0,0,,おう！
 Dialogue: 0,0:14:06.05,0:14:06.41,Default,ko,0,0,0,,좋소!
 Dialogue: 0,0:14:06.05,0:14:06.41,Default,en,0,0,0,,Got it!
-Comment: 0,0:14:17.88,0:14:19.65,Default,ja,0,0,0,,これはクマの足跡だす。
+Comment: 0,0:14:17.88,0:14:19.65,Default,ja,0,0,0,,これはクマの足跡だス。
 Dialogue: 0,0:14:17.88,0:14:19.65,Default,ko,0,0,0,,이건 곰의 발자국이오.
 Dialogue: 0,0:14:17.88,0:14:19.65,Default,en,0,0,0,,These are footsteps of a bear-{\i1}dasu{\i0}.
 Comment: 0,0:14:20.56,0:14:21.48,Default,ja,0,0,0,,うん。。。
@@ -594,19 +594,19 @@ Dialogue: 0,0:16:52.80,0:16:55.16,Default,en,0,0,0,,Jiraiyan. What a terrifying 
 Comment: 0,0:16:55.68,0:16:57.70,Default,ja,0,0,0,,ムサシ。馬鹿なやつ。
 Dialogue: 0,0:16:55.68,0:16:57.70,Default,ko,0,0,0,,무사시. 멍청한 놈.
 Dialogue: 0,0:16:55.68,0:16:57.70,Default,en,0,0,0,,Musashi. What a stupid brat.
-Comment: 0,0:17:00.52,0:17:02.65,Default,ja,0,0,0,,いたいだす！何するだスか！
+Comment: 0,0:17:00.52,0:17:02.65,Default,ja,0,0,0,,いたいだス！何するだスか！
 Dialogue: 0,0:17:00.52,0:17:02.65,Default,ko,0,0,0,,아프오! 뭔 짓이오!
 Dialogue: 0,0:17:00.52,0:17:02.65,Default,en,0,0,0,,It hurts-{\i1}dasu{\i0}! What was that for-{\i1}dasu{\i0}?!
 Comment: 0,0:17:02.94,0:17:05.80,Default,ja,0,0,0,,ムサシ！無駄口をたたえてる暇はない！急げ！
 Dialogue: 0,0:17:02.94,0:17:05.80,Default,ko,0,0,0,,무사시! 쓸데없는 소리 하고 있을 때가 아니다! 서둘러라!
 Dialogue: 0,0:17:02.94,0:17:05.80,Default,en,0,0,0,,Musashi! This is not a time for a chatter! Hurry!
-Comment: 0,0:17:06.53,0:17:07.26,Default,ja,0,0,0,,はいだす！
+Comment: 0,0:17:06.53,0:17:07.26,Default,ja,0,0,0,,はいだス！
 Dialogue: 0,0:17:06.53,0:17:07.26,Default,ko,0,0,0,,알겠소!
 Dialogue: 0,0:17:06.53,0:17:07.26,Default,en,0,0,0,,Got it-{\i1}dasu{\i0}!
 Comment: 0,0:17:16.77,0:17:18.73,Default,ja,0,0,0,,見失うな！・分かってるだス！
 Dialogue: 0,0:17:16.77,0:17:18.73,Default,ko,0,0,0,,-놓치지 마라!\N-알고 있소!
 Dialogue: 0,0:17:16.77,0:17:18.73,Default,en,0,0,0,,-Don't let him get away!\N-I know that-{\i1}dasu{\i0}!
-Comment: 0,0:17:26.61,0:17:28.09,Default,ja,0,0,0,,おお？見失ってしまっただす！
+Comment: 0,0:17:26.61,0:17:28.09,Default,ja,0,0,0,,おお？見失ってしまっただス！
 Dialogue: 0,0:17:26.61,0:17:28.09,Default,ko,0,0,0,,놓쳐버렸소!
 Dialogue: 0,0:17:26.61,0:17:28.09,Default,en,0,0,0,,We lost him-{\i1}dasu{\i0}!
 Comment: 0,0:17:28.73,0:17:30.56,Default,ja,0,0,0,,いや、このあたりに間違いない。
@@ -723,7 +723,7 @@ Dialogue: 0,0:20:34.41,0:20:36.59,Default,en,0,0,0,,That's as far as you go, Mus
 Comment: 0,0:20:37.37,0:20:39.99,Default,ja,0,0,0,,まず、二人とも刀を捨ててもらおうか。
 Dialogue: 0,0:20:37.37,0:20:39.99,Default,ko,0,0,0,,먼저 둘 다 칼을 떨어뜨려라.
 Dialogue: 0,0:20:37.37,0:20:39.99,Default,en,0,0,0,,First, put your swords down.
-Comment: 0,0:20:40.28,0:20:45.08,Default,ja,0,0,0,,冗談ぷりだす！ここへきて正々堂々と勝負をつけるだス！
+Comment: 0,0:20:40.28,0:20:45.08,Default,ja,0,0,0,,冗談ぷりだス！ここへきて正々堂々と勝負をつけるだス！
 Dialogue: 0,0:20:40.28,0:20:45.08,Default,ko,0,0,0,,개소리 마시오! 여기에 와서 정정당당하게 승부를 보시오!
 Dialogue: 0,0:20:40.28,0:20:45.08,Default,en,0,0,0,,Don't be absurd-{\i1}dasu{\i0}! Get down to here and have a match fair and square-{\i1}dasu{\i0}!
 Comment: 0,0:20:45.42,0:20:47.61,Default,ja,0,0,0,,その必要はない。これを見ろ！

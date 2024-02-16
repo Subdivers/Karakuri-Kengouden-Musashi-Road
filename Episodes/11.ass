@@ -79,7 +79,7 @@ Dialogue: 0,0:02:23.39,0:02:29.36,NoteOnAnime,ko,0,0,0,,{\fs32\an5\fay-0.13\move
 Dialogue: 0,0:02:23.39,0:02:29.36,NoteOnAnime,en,0,0,0,,{\fs32\an5\fay-0.13\move(768,60,81,70)\bord5\c&H000000&\3c&HF1F7F8&}Jipangu Martial Arts Competition
 Dialogue: 0,0:02:29.36,0:02:33.36,NoteOnAnime,ko,0,0,0,,이에야스
 Dialogue: 0,0:02:29.36,0:02:33.36,NoteOnAnime,en,0,0,0,,Ieyasu
-Comment: 0,0:02:35.82,0:02:39.47,Default,ja,0,0,0,,いよいよ、おいらこそは宮本村のムサシでござるだす！
+Comment: 0,0:02:35.82,0:02:39.47,Default,ja,0,0,0,,いよいよ、おいらこそは宮本村のムサシでござるだス！
 Dialogue: 0,0:02:35.82,0:02:39.47,Default,ko,0,0,0,,드디어! 나야말로 미야모토 마을의 무사시이오!
 Dialogue: 0,0:02:35.82,0:02:39.47,Default,en,0,0,0,,Finally! I am Musashi, from Miyamoto village!
 Comment: 0,0:02:39.85,0:02:40.79,Default,ja,0,0,0,,さあ、勝負！
@@ -118,7 +118,7 @@ Dialogue: 0,0:03:20.91,0:03:22.76,Default,en,0,0,0,,You're 10 years early to say
 Comment: 0,0:03:22.96,0:03:24.81,Default,ja,0,0,0,,見よ！秘剣！燕返し！
 Dialogue: 0,0:03:22.96,0:03:24.81,Default,ko,0,0,0,,봐라! 비검 츠바메가에시!
 Dialogue: 0,0:03:22.96,0:03:24.81,Default,en,0,0,0,,Look! Secret Sword Tsubamegaeshi!
-Comment: 0,0:03:25.03,0:03:26.65,Default,ja,0,0,0,,あ！UFOだす！
+Comment: 0,0:03:25.03,0:03:26.65,Default,ja,0,0,0,,あ！UFOだス！
 Dialogue: 0,0:03:25.03,0:03:26.65,Default,ko,0,0,0,,어라! UFO이오.
 Dialogue: 0,0:03:25.03,0:03:26.65,Default,en,0,0,0,,Huh?! It's a UFO-{\i1}dasu{\i0}.
 Comment: 0,0:03:27.00,0:03:27.45,Default,ja,0,0,0,,あ？
@@ -226,7 +226,7 @@ Dialogue: 0,0:05:16.86,0:05:20.78,Default,en,0,0,0,,It burns-{\i1}dasu{\i0}! It 
 Comment: 0,0:05:27.50,0:05:28.40,Default,ja,0,0,0,,止まれ！
 Dialogue: 0,0:05:27.50,0:05:28.40,Default,ko,0,0,0,,멈춰라!
 Dialogue: 0,0:05:27.50,0:05:28.40,Default,en,0,0,0,,Stop!
-Comment: 0,0:05:28.68,0:05:31.15,Default,ja,0,0,0,,お、おいら、急ぐだス。そこ、どくだす！
+Comment: 0,0:05:28.68,0:05:31.15,Default,ja,0,0,0,,お、おいら、急ぐだス。そこ、どくだス！
 Dialogue: 0,0:05:28.68,0:05:31.15,Default,ko,0,0,0,,나, 서둘러야 하오. 비키시오!
 Dialogue: 0,0:05:28.68,0:05:31.15,Default,en,0,0,0,,I'm in a hurry-{\i1}dasu{\i0}. Move away-{\i1}dasu{\i0}!
 Comment: 0,0:05:31.48,0:05:35.90,Default,ja,0,0,0,,ここはゼネラルイエヤスどのの庁だぞ！子供の来るところではない！
@@ -235,7 +235,7 @@ Dialogue: 0,0:05:31.48,0:05:35.90,Default,en,0,0,0,,This is the office of Genera
 Comment: 0,0:05:36.34,0:05:40.58,Default,ja,0,0,0,,いやいや、おいらこそが宮本村の武芸者ムサシでござるだス！
 Dialogue: 0,0:05:36.34,0:05:40.58,Default,ko,0,0,0,,아니, 아니오! 나야말로 미야모토 마을의 무예가 무사시오!
 Dialogue: 0,0:05:36.34,0:05:40.58,Default,en,0,0,0,,No, that's not it! I am Musashi, a Martial Artist from Miyamoto village-{\i1}dasu{\i0}!
-Comment: 0,0:05:41.29,0:05:46.04,Default,ja,0,0,0,,ゼネラルイエヤスどののジパング武芸大会出場するだす！受付はどこだスか？
+Comment: 0,0:05:41.29,0:05:46.04,Default,ja,0,0,0,,ゼネラルイエヤスどののジパング武芸大会出場するだス！受付はどこだスか？
 Dialogue: 0,0:05:41.29,0:05:46.04,Default,ko,0,0,0,,제너럴 이에야스 님의 지팡구 무예대회에 출전하오! 접수는 어디이오?
 Dialogue: 0,0:05:41.29,0:05:46.04,Default,en,0,0,0,,I am going to participate in Jipangu Martial Arts Competition of General Ieyasu-{\i1}dasu{\i0}! Where do I register-{\i1}dasu{\i0}?
 Comment: 0,0:05:48.77,0:05:50.04,Default,ja,0,0,0,,何がおかしいだスか？
@@ -253,7 +253,7 @@ Dialogue: 0,0:06:00.69,0:06:03.00,Default,en,0,0,0,,Then come again, in next yea
 Comment: 0,0:06:03.18,0:06:05.32,Default,ja,0,0,0,,来年まで待ってらんないだス！
 Dialogue: 0,0:06:03.18,0:06:05.32,Default,ko,0,0,0,,내년까지 기다릴 수 없소!
 Dialogue: 0,0:06:03.18,0:06:05.32,Default,en,0,0,0,,I can't wait until next year-{\i1}dasu{\i0}!
-Comment: 0,0:06:06.33,0:06:08.11,Default,ja,0,0,0,,お願い！十問あげるだすから！
+Comment: 0,0:06:06.33,0:06:08.11,Default,ja,0,0,0,,お願い！十問あげるだスから！
 Dialogue: 0,0:06:06.33,0:06:08.11,Default,ko,0,0,0,,부탁드리오. 10문 드릴 테니.
 Dialogue: 0,0:06:06.33,0:06:08.11,Default,en,0,0,0,,Please! I'll give you 10 mons-{\i1}dasu{\i0}.
 Comment: 0,0:06:08.92,0:06:13.21,Default,ja,0,0,0,,何？いやしくも将軍家に使えるわれらを買収しようというのか！
@@ -262,7 +262,7 @@ Dialogue: 0,0:06:08.92,0:06:13.21,Default,en,0,0,0,,What? Are you trying to brib
 Comment: 0,0:06:13.51,0:06:16.39,Default,ja,0,0,0,,帰れ！さもないと、ポリスを呼ぶぞ！
 Dialogue: 0,0:06:13.51,0:06:16.39,Default,ko,0,0,0,,돌아가! 안 돌아가면 경찰을 부르겠다!
 Dialogue: 0,0:06:13.51,0:06:16.39,Default,en,0,0,0,,Go back! If you don't go back, we'll call the police!
-Comment: 0,0:06:17.05,0:06:21.07,Default,ja,0,0,0,,兄ちゃん！ほら、百面相するだすから、機嫌直してほしいんだス。
+Comment: 0,0:06:17.05,0:06:21.07,Default,ja,0,0,0,,兄ちゃん！ほら、百面相するだスから、機嫌直してほしいんだス。
 Dialogue: 0,0:06:17.05,0:06:21.07,Default,ko,0,0,0,,형! 온갖 재밌는 얼굴 보여줄 테니 기분 풀어주시오.
 Dialogue: 0,0:06:17.05,0:06:21.07,Default,en,0,0,0,,Bro! I'll make hundreds of funny faces, so cheer up-{\i1}dasu{\i0}!
 Comment: 0,0:06:23.37,0:06:27.49,Default,ja,0,0,0,,何をしても無駄だ！邪魔だからとっととここをたっしてあがれ！
@@ -340,7 +340,7 @@ Dialogue: 0,0:08:18.89,0:08:22.75,Default,ko,0,0,0,,-잘생겼어!\N-멋지다! 
 Dialogue: 0,0:08:18.89,0:08:22.75,Default,en,0,0,0,,-He's so handsome!\N-So cool! He's totally my type!
 Comment: 0,0:08:23.03,0:08:24.84,Default,ja,0,0,0,,コジロー様！
 Dialogue: 0,0:08:23.03,0:08:24.84,Default,ko,0,0,0,,코지로 님!
-Dialogue: 0,0:08:23.03,0:08:24.84,Default,en,0,0,0,,Mr. Kojirō!
+Dialogue: 0,0:08:23.03,0:08:24.84,Default,en,0,0,0,,Kojirō!
 Comment: 0,0:08:26.07,0:08:26.92,Default,ja,0,0,0,,コジロー？
 Dialogue: 0,0:08:26.07,0:08:26.92,Default,ko,0,0,0,,코지로...?
 Dialogue: 0,0:08:26.07,0:08:26.92,Default,en,0,0,0,,Kojirō?
@@ -459,7 +459,7 @@ Dialogue: 0,0:10:36.68,0:10:38.95,Default,ko,0,0,0,,아, 미안하오. 바이켄
 Dialogue: 0,0:10:36.68,0:10:38.95,Default,en,0,0,0,,Ah, I'm sorry-{\i1}dasu{\i0}. It's Baiken-{\i1}dasu{\i0}.
 Comment: 0,0:10:39.22,0:10:43.65,Default,ja,0,0,0,,バイケンどの？それなら確かに当会場でただいま試合中だ！
 Dialogue: 0,0:10:39.22,0:10:43.65,Default,ko,0,0,0,,바이켄 님? 그럼 분명 당 회장에서 지금 시합 중이다!
-Dialogue: 0,0:10:39.22,0:10:43.65,Default,en,0,0,0,,Mr. Baiken? He is already having a match inside here!
+Dialogue: 0,0:10:39.22,0:10:43.65,Default,en,0,0,0,,Baiken? He is already having a match inside here!
 Comment: 0,0:10:44.34,0:10:45.11,Default,ja,0,0,0,,まずいだス。
 Dialogue: 0,0:10:44.34,0:10:45.11,Default,ko,0,0,0,,틀렸소.
 Dialogue: 0,0:10:44.34,0:10:45.11,Default,en,0,0,0,,This is bad-{\i1}dasu{\i0}.
@@ -475,7 +475,7 @@ Dialogue: 0,0:10:51.34,0:10:53.39,Default,en,0,0,0,,A malcontent interrupting th
 Comment: 0,0:10:53.60,0:10:54.61,Default,ja,0,0,0,,ひっとらえろ！
 Dialogue: 0,0:10:53.60,0:10:54.61,Default,ko,0,0,0,,잡아라!
 Dialogue: 0,0:10:53.60,0:10:54.61,Default,en,0,0,0,,Get him!
-Comment: 0,0:10:54.61,0:10:59.32,Default,ja,0,0,0,,い、いや、いや、やめるだす！おいら、何も悪いことしていないでござるだス！
+Comment: 0,0:10:54.61,0:10:59.32,Default,ja,0,0,0,,い、いや、いや、やめるだス！おいら、何も悪いことしていないでござるだス！
 Dialogue: 0,0:10:54.61,0:10:59.32,Default,ko,0,0,0,,아니, 아니, 그만두소! 난 아무 나쁜 짓도 하지 않았소!
 Dialogue: 0,0:10:54.61,0:10:59.32,Default,en,0,0,0,,N- no, stop it-{\i1}dasu{\i0}! I didn't do anything wrong-{\i1}dasu{\i0}!
 Comment: 0,0:10:59.98,0:11:02.84,Default,ja,0,0,0,,問答無用！抵抗すれば切ってすて！
@@ -672,7 +672,7 @@ Dialogue: 0,0:15:44.55,0:15:46.17,Default,ko,0,0,0,,그렇소!
 Dialogue: 0,0:15:44.55,0:15:46.17,Default,en,0,0,0,,That's right-{\i1}dasu{\i0}!
 Comment: 0,0:15:46.65,0:15:48.90,Default,ja,0,0,0,,ゴザエモン殿、そのマスクは何とした？
 Dialogue: 0,0:15:46.65,0:15:48.90,Default,ko,0,0,0,,고자에몬 님, 그 마스크는 뭡니까?
-Dialogue: 0,0:15:46.65,0:15:48.90,Default,en,0,0,0,,Mr. Gozaemon, what's with that mask?
+Dialogue: 0,0:15:46.65,0:15:48.90,Default,en,0,0,0,,Gozaemon, what's with that mask?
 Comment: 0,0:15:49.14,0:15:52.12,Default,ja,0,0,0,,{???}あ、あ、あの、急に鬱が出てうしまう
 Dialogue: 0,0:15:49.14,0:15:52.12,Default,ko,0,0,0,,아, 급히 어지러워서...
 Dialogue: 0,0:15:49.14,0:15:52.12,Default,en,0,0,0,,Oh, I suddenly feel dizzy...
@@ -694,7 +694,7 @@ Dialogue: 0,0:16:05.03,0:16:06.45,Default,en,0,0,0,,This shall be an one-game ma
 Comment: 0,0:16:07.16,0:16:07.80,Default,ja,0,0,0,,初め！
 Dialogue: 0,0:16:07.16,0:16:07.80,Default,ko,0,0,0,,시작!
 Dialogue: 0,0:16:07.16,0:16:07.80,Default,en,0,0,0,,Start!
-Comment: 0,0:16:09.38,0:16:11.80,Default,ja,0,0,0,,{\i1}バイケンどの、ここで決勝戦をやるだす！
+Comment: 0,0:16:09.38,0:16:11.80,Default,ja,0,0,0,,{\i1}バイケンどの、ここで決勝戦をやるだス！
 Dialogue: 0,0:16:09.38,0:16:11.80,Default,ko,0,0,0,,{\i1}바이켄 님, 여기서 결승전을 하겠소!
 Dialogue: 0,0:16:09.38,0:16:11.80,Default,en,0,0,0,,{\i1}Baiken, we'll have the final match here-{\i1}dasu{\i0}!
 Comment: 0,0:16:12.42,0:16:13.98,Default,ja,0,0,0,,{\i1}だから、なんとしてもかつだスよ！
@@ -739,7 +739,7 @@ Dialogue: 0,0:17:25.46,0:17:26.67,Default,en,0,0,0,,I lost!
 Comment: 0,0:17:26.85,0:17:29.51,Default,ja,0,0,0,,勝負、それまで！ゴザエモンどのの勝ち！
 Dialogue: 0,0:17:26.85,0:17:29.51,Default,ko,0,0,0,,승부, 거기까지! 고자에몬 님의 승리!
 Dialogue: 0,0:17:26.85,0:17:29.51,Default,en,0,0,0,,Match set! Gozaemon wins!
-Comment: 0,0:17:29.98,0:17:33.32,Default,ja,0,0,0,,やっただす！いや！
+Comment: 0,0:17:29.98,0:17:33.32,Default,ja,0,0,0,,やっただス！いや！
 Dialogue: 0,0:17:29.98,0:17:33.32,Default,ko,0,0,0,,해냈소! 이야!
 Dialogue: 0,0:17:29.98,0:17:33.32,Default,en,0,0,0,,I did-{\i1}dasu{\i0}! Yay!
 Comment: 0,0:17:35.31,0:17:36.18,Default,ja,0,0,0,,どうも！
@@ -756,7 +756,7 @@ Dialogue: 0,0:17:45.56,0:17:48.98,Default,ko,0,0,0,,준준결승전 시합은 �
 Dialogue: 0,0:17:45.56,0:17:48.98,Default,en,0,0,0,,Semi-semi-finals will feature Kusarigamaryū Baiken,
 Comment: 0,0:17:51.24,0:17:54.36,Default,ja,0,0,0,,対するは、発布を敗れ流、鈴木滋之進！
 Dialogue: 0,0:17:51.24,0:17:54.36,Default,ko,0,0,0,,상대하는 자는 공포파괴류 스즈키 시게노신!
-Dialogue: 0,0:17:51.24,0:17:54.36,Default,en,0,0,0,,The competitor is Fear Destroy style, Shigenoshin Suzuki!
+Dialogue: 0,0:17:51.24,0:17:54.36,Default,en,0,0,0,,The competitor is Fear Destroy-ryū, Suzuki Shigenoshin!
 Comment: 0,0:17:54.79,0:17:57.58,Default,ja,0,0,0,,あんちゃん！頑張って！
 Dialogue: 0,0:17:54.79,0:17:57.58,Default,ko,0,0,0,,형! 힘내!
 Dialogue: 0,0:17:54.79,0:17:57.58,Default,en,0,0,0,,Brother! Do your best!

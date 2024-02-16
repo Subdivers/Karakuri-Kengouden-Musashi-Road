@@ -155,7 +155,7 @@ Dialogue: 0,0:04:05.25,0:04:12.14,Default,en,0,0,0,,Ju- just a moment-{\i1}dasu{
 Comment: 0,0:04:12.61,0:04:18.23,Default,ja,0,0,0,,何を、小癪な小僧め！わしを、新選組局長コンドウと知っていてぬのか！
 Dialogue: 0,0:04:12.61,0:04:18.23,Default,ko,0,0,0,,뭐라고, 건방진 꼬맹이놈! 이 신선조의 콘도 국장을 모른다는 소리냐!
 Dialogue: 0,0:04:12.61,0:04:18.23,Default,en,0,0,0,,What did you say, you impudent kid?! Don't you know Kondō, the chief of Shinsen Family?
-Comment: 0,0:04:18.43,0:04:21.78,Default,ja,0,0,0,,そうだすか。おいらはムサシと申すものでござるだス。
+Comment: 0,0:04:18.43,0:04:21.78,Default,ja,0,0,0,,そうだスか。おいらはムサシと申すものでござるだス。
 Dialogue: 0,0:04:18.43,0:04:21.78,Default,ko,0,0,0,,그런 것이었소. 나는 무사시라고 불리는 자이오.
 Dialogue: 0,0:04:18.43,0:04:21.78,Default,en,0,0,0,,Is that it-{\i1}dasu{\i0}? I am Musashi-{\i1}dasu{\i0}.
 Comment: 0,0:04:22.08,0:04:25.64,Default,ja,0,0,0,,ま、まあ、そうやって素直に言えばいいんだよ。
@@ -246,7 +246,7 @@ Dialogue: 0,0:06:21.87,0:06:26.63,Default,ko,0,0,0,,연습하고 나서 피곤�
 Dialogue: 0,0:06:21.87,0:06:26.63,Default,en,0,0,0,,These fishes are good for your body after all that training!
 Comment: 0,0:06:26.91,0:06:30.59,Default,ja,0,0,0,,ねぇ、魚屋さん。その稽古のあとのってのちょうだい。
 Dialogue: 0,0:06:26.91,0:06:30.59,Default,ko,0,0,0,,저기, 물고기 아저씨. 통 하나 분량만큼 주세요.
-Dialogue: 0,0:06:26.91,0:06:30.59,Default,en,0,0,0,,Hey, Mr. Fisher, I'd like to buy the amount of one basket.
+Dialogue: 0,0:06:26.91,0:06:30.59,Default,en,0,0,0,,Hey, Fisher, I'd like to buy the amount of one basket.
 Comment: 0,0:06:31.34,0:06:33.43,Default,ja,0,0,0,,へい、毎度でござるだス。
 Dialogue: 0,0:06:31.34,0:06:33.43,Default,ko,0,0,0,,예, 감사드리오!
 Dialogue: 0,0:06:31.34,0:06:33.43,Default,en,0,0,0,,Thank you-{\i1}dasu{\i0}.
@@ -255,7 +255,7 @@ Dialogue: 0,0:06:33.84,0:06:35.45,Default,ko,0,0,0,,{\i1}잘 됐소!
 Dialogue: 0,0:06:33.84,0:06:35.45,Default,en,0,0,0,,{\i1}This went well-{\i1}dasu{\i0}!
 Comment: 0,0:06:39.07,0:06:40.60,Default,ja,0,0,0,,魚屋さん、こっちよ！
 Dialogue: 0,0:06:39.07,0:06:40.60,Default,ko,0,0,0,,물고기 아저씨, 이 쪽이에요!
-Dialogue: 0,0:06:39.07,0:06:40.60,Default,en,0,0,0,,This way, Mr. Fisher!
+Dialogue: 0,0:06:39.07,0:06:40.60,Default,en,0,0,0,,This way, Fisher!
 Comment: 0,0:06:41.41,0:06:43.74,Default,ja,0,0,0,,あら、どこへ行ったのかしら。
 Dialogue: 0,0:06:41.41,0:06:43.74,Default,ko,0,0,0,,어라? 어디 갔지?
 Dialogue: 0,0:06:41.41,0:06:43.74,Default,en,0,0,0,,Huh? Where did he go?
@@ -786,7 +786,7 @@ Dialogue: 0,0:19:21.01,0:19:23.03,Default,ko,0,0,0,,그 일만이라도 맡기�
 Dialogue: 0,0:19:21.01,0:19:23.03,Default,en,0,0,0,,I entrust you on this.
 Comment: 0,0:19:23.26,0:19:25.48,Default,ja,0,0,0,,リョーマさん楽しそうだスな。
 Dialogue: 0,0:19:23.26,0:19:25.48,Default,ko,0,0,0,,료마 씨 즐거워 보이오.
-Dialogue: 0,0:19:23.26,0:19:25.48,Default,en,0,0,0,,Mr. Ryoma, you look like you're enjoying.
+Dialogue: 0,0:19:23.26,0:19:25.48,Default,en,0,0,0,,Ryoma, you look like you're enjoying.
 Comment: 0,0:19:26.32,0:19:29.12,Default,ja,0,0,0,,わしの仲間になる気になったかな、ムサシ君。
 Dialogue: 0,0:19:26.32,0:19:29.12,Default,ko,0,0,0,,내 동료가 될 생각이 들었으려나, 무사시 군.
 Dialogue: 0,0:19:26.32,0:19:29.12,Default,en,0,0,0,,I wonder if you want to be my comrade, Musashi.

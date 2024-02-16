@@ -156,7 +156,7 @@ Dialogue: 0,0:03:44.59,0:03:47.11,Default,ko,0,0,0,,나는 제니가탄이라고
 Dialogue: 0,0:03:44.59,0:03:47.11,Default,en,0,0,0,,I am Zenigatan.
 Comment: 0,0:03:48.24,0:03:52.36,Default,ja,0,0,0,,なるほど。ムサシさんが自慢するだけあって、オツルさんはきれいだね。
 Dialogue: 0,0:03:48.24,0:03:52.36,Default,ko,0,0,0,,그렇군요. 무사시 씨가 계속 자랑하던 오츠루 씨는 예쁘군.
-Dialogue: 0,0:03:48.24,0:03:52.36,Default,en,0,0,0,,I see. As Mr. Musashi always praised, you sure are pretty, Ms. Otsuru.
+Dialogue: 0,0:03:48.24,0:03:52.36,Default,en,0,0,0,,I see. As Musashi always praised, you sure are pretty, Otsuru.
 Comment: 0,0:03:53.20,0:03:55.89,Default,ja,0,0,0,,和尚も聞いていた通りの頑固ものそうで。
 Dialogue: 0,0:03:53.20,0:03:55.89,Default,ko,0,0,0,,스님도 들은 대로 꽤나 완고해 보이는군요.
 Dialogue: 0,0:03:53.20,0:03:55.89,Default,en,0,0,0,,Also, as I heard, you do look stubborn, monk.
@@ -262,7 +262,7 @@ Dialogue: 0,0:07:54.28,0:07:55.83,Default,en,0,0,0,,That would make some money!
 Comment: 0,0:07:59.23,0:07:59.91,Default,ja,0,0,0,,誰だ！
 Dialogue: 0,0:07:59.23,0:07:59.91,Default,ko,0,0,0,,누구냐!
 Dialogue: 0,0:07:59.23,0:07:59.91,Default,en,0,0,0,,Who's that?!
-Comment: 0,0:08:02.57,0:08:04.02,Default,ja,0,0,0,,通りすがりのものだす。
+Comment: 0,0:08:02.57,0:08:04.02,Default,ja,0,0,0,,通りすがりのものだス。
 Dialogue: 0,0:08:02.57,0:08:04.02,Default,ko,0,0,0,,지나가던 자이오.
 Dialogue: 0,0:08:02.57,0:08:04.02,Default,en,0,0,0,,I'm a passerby-{\i1}dasu{\i0}.
 Comment: 0,0:08:04.23,0:08:06.32,Default,ja,0,0,0,,なんで手を踏んづけるんだよ！
@@ -319,7 +319,7 @@ Dialogue: 0,0:09:17.19,0:09:19.49,Default,en,0,0,0,,If you need more, I'll order
 Comment: 0,0:09:19.93,0:09:25.04,Default,ja,0,0,0,,でも、おなかがすきすぎて倒れちゃうなんて、あたし、生まれて初めて見たわ！
 Dialogue: 0,0:09:19.93,0:09:25.04,Default,ko,0,0,0,,그래도 배가 너무 고파서 쓰러지는 건 난 태어나서 처음 봐!
 Dialogue: 0,0:09:19.93,0:09:25.04,Default,en,0,0,0,,But still, I never saw someone collapsing because of extreme hunger!
-Comment: 0,0:09:26.14,0:09:28.81,Default,ja,0,0,0,,みっともないとこ、見せしまっただす。
+Comment: 0,0:09:26.14,0:09:28.81,Default,ja,0,0,0,,みっともないとこ、見せしまっただス。
 Dialogue: 0,0:09:26.14,0:09:28.81,Default,ko,0,0,0,,꼴불견인 모습을 보이고 말았소.
 Dialogue: 0,0:09:26.14,0:09:28.81,Default,en,0,0,0,,How unsightly shape I showed to you-{\i1}dasu{\i0}!
 Comment: 0,0:09:30.34,0:09:34.32,Default,ja,0,0,0,,けど、おいらを役人に知らせないげ、何でごちそうくれるんだスか？
@@ -501,7 +501,7 @@ Dialogue: 0,0:13:57.18,0:14:02.44,Default,en,0,0,0,,I know-{\i1}dasu{\i0}. Wow, 
 Comment: 0,0:14:04.13,0:14:04.98,Default,ja,0,0,0,,ムサシ！
 Dialogue: 0,0:14:04.13,0:14:04.98,Default,ko,0,0,0,,무사시!
 Dialogue: 0,0:14:04.13,0:14:04.98,Default,en,0,0,0,,Musashi!
-Comment: 0,0:14:11.99,0:14:14.30,Default,ja,0,0,0,,あたたたた、でござるだす。
+Comment: 0,0:14:11.99,0:14:14.30,Default,ja,0,0,0,,あたたたた、でござるだス。
 Dialogue: 0,0:14:11.99,0:14:14.30,Default,ko,0,0,0,,아야야야야, 이오.
 Dialogue: 0,0:14:11.99,0:14:14.30,Default,en,0,0,0,,Ouch... -{\i1}dasu{\i0}.
 Comment: 0,0:14:15.32,0:14:16.71,Default,ja,0,0,0,,なんだ、こりゃ？
@@ -719,7 +719,7 @@ Dialogue: 0,0:19:50.91,0:19:52.43,Default,ko,0,0,0,,비검! 제일의 검!
 Dialogue: 0,0:19:50.91,0:19:52.43,Default,en,0,0,0,,Secret Sword! Ichi no Tachi!
 Comment: 0,0:20:00.76,0:20:03.95,Default,ja,0,0,0,,勝負終わり！ジュウベエ殿の勝ち！
 Dialogue: 0,0:20:00.76,0:20:03.95,Default,ko,0,0,0,,승부 났습니다! 주베 님의 승리!
-Dialogue: 0,0:20:00.76,0:20:03.95,Default,en,0,0,0,,Match set! Mr. Jūbee wins!
+Dialogue: 0,0:20:00.76,0:20:03.95,Default,en,0,0,0,,Match set! Jūbee wins!
 Comment: 0,0:20:07.38,0:20:08.57,Default,ja,0,0,0,,見事だ。
 Dialogue: 0,0:20:07.38,0:20:08.57,Default,ko,0,0,0,,훌륭했다.
 Dialogue: 0,0:20:07.38,0:20:08.57,Default,en,0,0,0,,That was excellent.
@@ -826,7 +826,7 @@ Dialogue: 0,0:24:06.40,0:24:08.42,Default,en,0,0,0,,No way! The final match is K
 Comment: 0,0:24:08.84,0:24:11.31,Default,ja,0,0,0,,なんでおいらじゃないんだ！悔しい！
 Dialogue: 0,0:24:08.84,0:24:11.31,Default,ko,0,0,0,,왜 내가 아닌 것이오! 분하오!
 Dialogue: 0,0:24:08.84,0:24:11.31,Default,en,0,0,0,,Why isn't it me? How frustrating!
-Comment: 0,0:24:11.61,0:24:15.05,Default,ja,0,0,0,,悔しがってるばいじゃないだす。おいら、ハンゾウに処刑されちまだす。
+Comment: 0,0:24:11.61,0:24:15.05,Default,ja,0,0,0,,悔しがってるばいじゃないだス。おいら、ハンゾウに処刑されちまだス。
 Dialogue: 0,0:24:11.61,0:24:15.05,Default,ko,0,0,0,,분하고 있을 때가 아니오! 나, 한조에게 사형당하려는 틈이오.
 Dialogue: 0,0:24:11.61,0:24:15.05,Default,en,0,0,0,,This is no time to be frustrated-{\i1}dasu{\i0}! I'm about to be executed by Hanzō-{\i1}dasu{\i0}.
 Comment: 0,0:24:15.76,0:24:18.66,Default,ja,0,0,0,,ジパングナンバーワン武芸者になるところじゃないだス！

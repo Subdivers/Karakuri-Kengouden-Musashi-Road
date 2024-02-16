@@ -87,7 +87,7 @@ Dialogue: 0,0:02:51.16,0:02:52.35,Default,en,0,0,0,,Yeah, right!
 Comment: 0,0:02:52.35,0:02:59.51,Default,ja,0,0,0,,やあやあ、ムサシ！よくもこんなものにわしを乗せたな。このまま浮かび上がらなかったら、どうするんだ。
 Dialogue: 0,0:02:52.35,0:02:59.51,Default,ko,0,0,0,,싫어, 무사시! 잘도 이런 것에 날 태우다니. 이대로 부상하지 않으면 어쩔 거냐.
 Dialogue: 0,0:02:52.35,0:02:59.51,Default,en,0,0,0,,No, Musashi! How dare you get me ride onto this thing!? I don't know what will happen if we don't go up now!
-Comment: 0,0:03:00.05,0:03:03.99,Default,ja,0,0,0,,自分の作ったもんじゃないだすか。もっと自信持ったらどうだス。
+Comment: 0,0:03:00.05,0:03:03.99,Default,ja,0,0,0,,自分の作ったもんじゃないだスか。もっと自信持ったらどうだス。
 Dialogue: 0,0:03:00.05,0:03:03.99,Default,ko,0,0,0,,자기가 만든 것 아니오! 더 자신을 가지는 건 어떻소?
 Dialogue: 0,0:03:00.05,0:03:03.99,Default,en,0,0,0,,You made this-{\i1}dasu{\i0}! You should be more confident with what you made-{\i1}dasu{\i0}!
 Comment: 0,0:03:04.20,0:03:07.42,Default,ja,0,0,0,,自分の作ったものだから信用できないんだ。
@@ -210,7 +210,7 @@ Dialogue: 0,0:06:30.93,0:06:33.27,Default,en,0,0,0,,If I ever go there again, I 
 Comment: 0,0:06:35.78,0:06:38.31,Default,ja,0,0,0,,だが、潜水艦はもう使えぬぞ。
 Dialogue: 0,0:06:35.78,0:06:38.31,Default,ko,0,0,0,,그래도 잠수함은 이제 못 써.
 Dialogue: 0,0:06:35.78,0:06:38.31,Default,en,0,0,0,,But you can't use the submarine anymore.
-Comment: 0,0:06:38.31,0:06:41.54,Default,ja,0,0,0,,え、もうあそこにはいくことが出来ないんだすか。
+Comment: 0,0:06:38.31,0:06:41.54,Default,ja,0,0,0,,え、もうあそこにはいくことが出来ないんだスか。
 Dialogue: 0,0:06:38.31,0:06:41.54,Default,ko,0,0,0,,에, 그럼 더는 거기에 갈 수 없게 되오?
 Dialogue: 0,0:06:38.31,0:06:41.54,Default,en,0,0,0,,Does that mean we can't go there anymore-{\i1}dasu{\i0}?
 Comment: 0,0:06:42.54,0:06:46.07,Default,ja,0,0,0,,もう一回ぐらい修理すれば何とかなるじゃないだスか。
@@ -264,7 +264,7 @@ Dialogue: 0,0:08:02.56,0:08:09.22,Default,en,0,0,0,,This island is hot-{\i1}dasu
 Comment: 0,0:08:09.86,0:08:11.84,Default,ja,0,0,0,,なんだ、ムサシ。疲れたのか？
 Dialogue: 0,0:08:09.86,0:08:11.84,Default,ko,0,0,0,,뭐냐, 코지로. 힘드냐?
 Dialogue: 0,0:08:09.86,0:08:11.84,Default,en,0,0,0,,What is it, Musashi? Are you tired already?
-Comment: 0,0:08:11.84,0:08:16.82,Default,ja,0,0,0,,いや、そういうわけじゃないだスが、おいら、喉が渇き、干からびてしまいそうだす。
+Comment: 0,0:08:11.84,0:08:16.82,Default,ja,0,0,0,,いや、そういうわけじゃないだスが、おいら、喉が渇き、干からびてしまいそうだス。
 Dialogue: 0,0:08:11.84,0:08:16.82,Default,ko,0,0,0,,아니, 그런 게 아니오. 나, 목이 말라서 바짝 말라버릴 것 같소.
 Dialogue: 0,0:08:11.84,0:08:16.82,Default,en,0,0,0,,No, that's not it-{\i1}dasu{\i0}. I'm so thirsty that I might become stale-{\i1}dasu{\i0}.
 Comment: 0,0:08:19.99,0:08:23.25,Default,ja,0,0,0,,うわ！バナナだス！わあい！
@@ -438,7 +438,7 @@ Dialogue: 0,0:13:17.47,0:13:18.12,Default,en,0,0,0,,That's it!
 Comment: 0,0:13:19.77,0:13:21.30,Default,ja,0,0,0,,我々もイルカになるのだ。
 Dialogue: 0,0:13:19.77,0:13:21.30,Default,ko,0,0,0,,우리도 돌고래가 되자.
 Dialogue: 0,0:13:19.77,0:13:21.30,Default,en,0,0,0,,We'll become dolphins, too.
-Comment: 0,0:13:26.34,0:13:29.31,Default,ja,0,0,0,,そんなことで本当にうまくいくと思ってるんだすか？
+Comment: 0,0:13:26.34,0:13:29.31,Default,ja,0,0,0,,そんなことで本当にうまくいくと思ってるんだスか？
 Dialogue: 0,0:13:26.34,0:13:29.31,Default,ko,0,0,0,,이런 걸로 정말 잘 될 것 같소?
 Dialogue: 0,0:13:26.34,0:13:29.31,Default,en,0,0,0,,Are you serious that this will work-{\i1}dasu{\i0}?
 Comment: 0,0:13:29.60,0:13:32.41,Default,ja,0,0,0,,じゃ、お前にほかのアイディアがあんのか？見てみろ！
@@ -456,7 +456,7 @@ Dialogue: 0,0:13:37.72,0:13:39.90,Default,en,0,0,0,,Dolphin tolls fins...
 Comment: 0,0:13:42.98,0:13:46.02,Default,ja,0,0,0,,完璧だ。これでやつらの目をごまかせられる。
 Dialogue: 0,0:13:42.98,0:13:46.02,Default,ko,0,0,0,,완벽하다. 이걸로 놈들을 속일 수 있겠어.
 Dialogue: 0,0:13:42.98,0:13:46.02,Default,en,0,0,0,,Perfect. This will be enough to fool them.
-Comment: 0,0:13:46.30,0:13:50.24,Default,ja,0,0,0,,どこが？こんな不細工なぬいぐるみ、すぐにばれてしまうんだす。
+Comment: 0,0:13:46.30,0:13:50.24,Default,ja,0,0,0,,どこが？こんな不細工なぬいぐるみ、すぐにばれてしまうんだス。
 Dialogue: 0,0:13:46.30,0:13:50.24,Default,ko,0,0,0,,어딜 봐서? 이런 서투른 봉제 인형, 곧장 발각되오!
 Dialogue: 0,0:13:46.30,0:13:50.24,Default,en,0,0,0,,Perfect? A clumsy stuffed toy like this will be revealed soon-{\i1}dasu{\i0}!
 Comment: 0,0:13:51.21,0:13:56.54,Default,ja,0,0,0,,ふん、不細工で悪かったよね。これでもあたしたちが丹精込めて塗ったのよ！
@@ -525,7 +525,7 @@ Dialogue: 0,0:15:09.91,0:15:13.83,Default,en,0,0,0,,I'm worried about Mr. Musash
 Comment: 0,0:15:39.07,0:15:40.48,Default,ja,0,0,0,,さあ、ムサシ、やれ。
 Dialogue: 0,0:15:39.07,0:15:40.48,Default,ko,0,0,0,,자. 무사시. 해.
 Dialogue: 0,0:15:39.07,0:15:40.48,Default,en,0,0,0,,Now, Musashi, do it.
-Comment: 0,0:15:40.75,0:15:45.51,Default,ja,0,0,0,,本当にやらなくちゃいけないんだすか？おいら、恥ずかしいだスよ。
+Comment: 0,0:15:40.75,0:15:45.51,Default,ja,0,0,0,,本当にやらなくちゃいけないんだスか？おいら、恥ずかしいだスよ。
 Dialogue: 0,0:15:40.75,0:15:45.51,Default,ko,0,0,0,,정말 해야만 하오? 나 부끄럽소.
 Dialogue: 0,0:15:40.75,0:15:45.51,Default,en,0,0,0,,Do I really have to do this-{\i1}dasu{\i0}? I'm embarrassed-{\i1}dasu{\i0}.
 Comment: 0,0:15:52.28,0:15:54.38,Default,ja,0,0,0,,もっと美味しそうに踊れないのか！
@@ -621,7 +621,7 @@ Dialogue: 0,0:17:49.83,0:17:52.31,Default,en,0,0,0,,I guess we'll have to go.
 Comment: 0,0:17:56.64,0:18:01.14,Default,ja,0,0,0,,よくぞこのバベル１３へ忍び込んだ。ほめてつかわずぞ。
 Dialogue: 0,0:17:56.64,0:18:01.14,Default,ko,0,0,0,,잘도 이 바벨 13에 잠입했구나. 칭찬해 주지.
 Dialogue: 0,0:17:56.64,0:18:01.14,Default,en,0,0,0,,I'll praise you, for managing to get into this Babel 13.
-Comment: 0,0:18:01.82,0:18:05.72,Default,ja,0,0,0,,褒めてくれなくてもいいんだス！いったいどういう魂胆だすか！
+Comment: 0,0:18:01.82,0:18:05.72,Default,ja,0,0,0,,褒めてくれなくてもいいんだス！いったいどういう魂胆だスか！
 Dialogue: 0,0:18:01.82,0:18:05.72,Default,ko,0,0,0,,칭찬 안 해줘도 좋소! 대체 어쩔 생각이오!
 Dialogue: 0,0:18:01.82,0:18:05.72,Default,en,0,0,0,,We don't need appraisal-{\i1}dasu{\i0}! What are you going to do-{\i1}dasu{\i0}!?
 Comment: 0,0:18:06.21,0:18:13.42,Default,ja,0,0,0,,ふん。わしはお前たちのそのしぶとさが気に入ったのだ。どうだ、わしの部下にならぬか。
@@ -668,7 +668,7 @@ Dialogue: 0,0:19:17.57,0:19:21.83,Default,en,0,0,0,,Yes! I will help Mr. Nobunag
 Comment: 0,0:19:21.83,0:19:24.59,Default,ja,0,0,0,,ばか！ノブナガのいうことを信じるんじゃない！
 Dialogue: 0,0:19:21.83,0:19:24.59,Default,ko,0,0,0,,바보야! 노부나가가 말하는 걸 믿으면 안 돼!
 Dialogue: 0,0:19:21.83,0:19:24.59,Default,en,0,0,0,,You idiot! Don't believe what Nobunaga is saying!
-Comment: 0,0:19:25.00,0:19:29.25,Default,ja,0,0,0,,どうしてだス！ノブナガさんのいうことは正しいじゃないだすか！
+Comment: 0,0:19:25.00,0:19:29.25,Default,ja,0,0,0,,どうしてだス！ノブナガさんのいうことは正しいじゃないだスか！
 Dialogue: 0,0:19:25.00,0:19:29.25,Default,ko,0,0,0,,왜이오! 노부나가 씨가 말하는 것은 올바르지 않은 것이오?
 Dialogue: 0,0:19:25.00,0:19:29.25,Default,en,0,0,0,,Why-{\i1}dasu{\i0}? Isn't what Mr. Nobunaga saying correct-{\i1}dasu{\i0}?
 Comment: 0,0:19:29.70,0:19:34.05,Default,ja,0,0,0,,正しいというならば、なぜ三種の神器を奪おうとしたりするのです。
@@ -731,7 +731,7 @@ Dialogue: 0,0:20:55.93,0:20:57.12,Default,en,0,0,0,,Hanzō! Prepare yourself!
 Comment: 0,0:21:01.47,0:21:05.64,Default,ja,0,0,0,,からくり変化！カンウアーマー！
 Dialogue: 0,0:21:01.47,0:21:05.64,Default,ko,0,0,0,,카라쿠리 변화! 칸우 아머!
 Dialogue: 0,0:21:01.47,0:21:05.64,Default,en,0,0,0,,Karakuri Shift! Kanu Armor!
-Comment: 0,0:21:17.74,0:21:20.23,Default,ja,0,0,0,,ハンゾウ！今回は逃がさないだすからな。
+Comment: 0,0:21:17.74,0:21:20.23,Default,ja,0,0,0,,ハンゾウ！今回は逃がさないだスからな。
 Dialogue: 0,0:21:17.74,0:21:20.23,Default,ko,0,0,0,,한조! 이번엔 못 달아날 것이오!
 Dialogue: 0,0:21:17.74,0:21:20.23,Default,en,0,0,0,,Hanzō! You're not getting away this time-{\i1}dasu{\i0}!
 Comment: 0,0:21:20.74,0:21:23.23,Default,ja,0,0,0,,バカ目。ここをどこだと思っているのだ！
@@ -834,7 +834,7 @@ Dialogue: 0,0:24:05.89,0:24:13.09,Default,en,0,0,0,,We got caught. Meanwhile, th
 Comment: 0,0:24:13.41,0:24:17.22,Default,ja,0,0,0,,大変だス！オツルちゃんも殺されてしまうかもしれないだス。
 Dialogue: 0,0:24:13.41,0:24:17.22,Default,ko,0,0,0,,큰일이오! 오츠루도 살해당할지도 모르오!
 Dialogue: 0,0:24:13.41,0:24:17.22,Default,en,0,0,0,,This is bad-{\i1}dasu{\i0}! Otsuru might be killed, too-{\i1}dasu{\i0}!
-Comment: 0,0:24:17.22,0:24:20.04,Default,ja,0,0,0,,ところが、そこへみんなが駆けつけてくれただす。
+Comment: 0,0:24:17.22,0:24:20.04,Default,ja,0,0,0,,ところが、そこへみんなが駆けつけてくれただス。
 Dialogue: 0,0:24:17.22,0:24:20.04,Default,ko,0,0,0,,그런데 거기에 모두가 급히 달려왔소!
 Dialogue: 0,0:24:17.22,0:24:20.04,Default,en,0,0,0,,But at there, everyone came to help-{\i1}dasu{\i0}!
 Comment: 0,0:24:20.04,0:24:22.43,Default,ja,0,0,0,,ウシワカ、ベンケイ、ゼニガタンの親分だス。

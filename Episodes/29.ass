@@ -97,7 +97,7 @@ Dialogue: 0,0:03:26.51,0:03:28.69,Default,en,0,0,0,,Musashi! We're leaving!
 Comment: 0,0:03:29.20,0:03:31.11,Default,ja,0,0,0,,早く上がってきなさい！
 Dialogue: 0,0:03:29.20,0:03:31.11,Default,ko,0,0,0,,빨리 올라와!
 Dialogue: 0,0:03:29.20,0:03:31.11,Default,en,0,0,0,,Come here soon!
-Comment: 0,0:03:32.40,0:03:37.30,Default,ja,0,0,0,,ちょっと待ってほしいだス！おいら、今新しい技を特訓してるんだす！
+Comment: 0,0:03:32.40,0:03:37.30,Default,ja,0,0,0,,ちょっと待ってほしいだス！おいら、今新しい技を特訓してるんだス！
 Dialogue: 0,0:03:32.40,0:03:37.30,Default,ko,0,0,0,,잠깐 기다리시오! 나 지금 새 기술을 훈련하고 있소!
 Dialogue: 0,0:03:32.40,0:03:37.30,Default,en,0,0,0,,Just a moment-{\i1}dasu{\i0}! I'm now training for a new technique-{\i1}dasu{\i0}!
 Comment: 0,0:03:37.72,0:03:42.71,Default,ja,0,0,0,,ふん、海が敵だとしたら、お前の命などいくらあっても足りないな。
@@ -109,13 +109,13 @@ Dialogue: 0,0:03:42.71,0:03:43.46,Default,en,0,0,0,,What?!
 Comment: 0,0:03:44.63,0:03:47.84,Default,ja,0,0,0,,武蔵、お前の剣は間合いが甘いのだ。
 Dialogue: 0,0:03:44.63,0:03:47.84,Default,ko,0,0,0,,무사시, 네 칼은 짬이 부족하다!
 Dialogue: 0,0:03:44.63,0:03:47.84,Default,en,0,0,0,,Musashi, your sword lacks distance!
-Comment: 0,0:03:52.17,0:03:53.59,Default,ja,0,0,0,,間合いってなんだすか？
+Comment: 0,0:03:52.17,0:03:53.59,Default,ja,0,0,0,,間合いってなんだスか？
 Dialogue: 0,0:03:52.17,0:03:53.59,Default,ko,0,0,0,,짬이 뭣이오?
 Dialogue: 0,0:03:52.17,0:03:53.59,Default,en,0,0,0,,What about distance-{\i1}dasu{\i0}?
 Comment: 0,0:03:53.82,0:03:58.30,Default,ja,0,0,0,,バカ目。そんなことも知らないのか。敵との距離を測ることだ。
 Dialogue: 0,0:03:53.82,0:03:58.30,Default,ko,0,0,0,,바보 놈. 그런 것도 모르냐! 적과의 거리를 재는 것 말이다!
 Dialogue: 0,0:03:53.82,0:03:58.30,Default,en,0,0,0,,You idiot! Don't you know that?! You have to measure distance between you and your enemy!
-Comment: 0,0:03:58.30,0:03:59.46,Default,ja,0,0,0,,バカとはなんだす！
+Comment: 0,0:03:58.30,0:03:59.46,Default,ja,0,0,0,,バカとはなんだス！
 Dialogue: 0,0:03:58.30,0:03:59.46,Default,ko,0,0,0,,바보는 뭣이오!
 Dialogue: 0,0:03:58.30,0:03:59.46,Default,en,0,0,0,,What was that idiot for-{\i1}dasu{\i0}?!
 Comment: 0,0:04:00.23,0:04:01.02,Default,ja,0,0,0,,いいか、見ていろ！
@@ -130,7 +130,7 @@ Dialogue: 0,0:04:17.29,0:04:23.51,Default,en,0,0,0,,Hmph! With a sword that long
 Comment: 0,0:04:24.22,0:04:27.43,Default,ja,0,0,0,,何を？！私の剣を馬鹿にするのか！
 Dialogue: 0,0:04:24.22,0:04:27.43,Default,ko,0,0,0,,뭣이?! 내 칼을 무시하는 거냐?!
 Dialogue: 0,0:04:24.22,0:04:27.43,Default,en,0,0,0,,What?! Are you looking down of my sword?!
-Comment: 0,0:04:28.41,0:04:29.71,Default,ja,0,0,0,,だったらどうだす。
+Comment: 0,0:04:28.41,0:04:29.71,Default,ja,0,0,0,,だったらどうだス。
 Dialogue: 0,0:04:28.41,0:04:29.71,Default,ko,0,0,0,,그럼 어떠오.
 Dialogue: 0,0:04:28.41,0:04:29.71,Default,en,0,0,0,, Then what-{\i1}dasu{\i0}?
 Comment: 0,0:04:30.09,0:04:30.93,Default,ja,0,0,0,,許さん！
@@ -148,7 +148,7 @@ Dialogue: 0,0:04:49.84,0:04:53.80,Default,en,0,0,0,,It is no use to explain the 
 Comment: 0,0:04:54.55,0:04:56.58,Default,ja,0,0,0,,向きになった自分が恥ずかしい。
 Dialogue: 0,0:04:54.55,0:04:56.58,Default,ko,0,0,0,,화낸 제가 부끄럽습니다.
 Dialogue: 0,0:04:54.55,0:04:56.58,Default,en,0,0,0,,I am embarrassed of myself for getting worked up.
-Comment: 0,0:04:57.62,0:05:00.19,Default,ja,0,0,0,,あ、待つだす！逃げるのは秘境だす！
+Comment: 0,0:04:57.62,0:05:00.19,Default,ja,0,0,0,,あ、待つだス！逃げるのは秘境だス！
 Dialogue: 0,0:04:57.62,0:05:00.19,Default,ko,0,0,0,,기다리시오! 달아나는 건 비겁하오!
 Dialogue: 0,0:04:57.62,0:05:00.19,Default,en,0,0,0,,Stop right there-{\i1}dasu{\i0}! Running away is cowardly-{\i1}dasu{\i0}!
 Comment: 0,0:05:01.48,0:05:05.16,Default,ja,0,0,0,,いい加減にしなさい！
@@ -169,7 +169,7 @@ Dialogue: 0,0:05:14.99,0:05:17.70,Default,en,0,0,0,,What does Mr. Saigo have wit
 Comment: 0,0:05:17.70,0:05:26.79,Default,ja,0,0,0,,はい、サイゴー様は日夜不知火一族と戦っていらっしゃるお三方の労をねぎらうために、お食事を用意してお待ちでございます。
 Dialogue: 0,0:05:17.70,0:05:26.79,Default,ko,0,0,0,,예, 사이고 님은 주야장천 시라누이 일족과 싸우고 계시는 세 분의 수고를 덜어드리기 위해 식사를 준비해 기다리고 있습니다.
 Dialogue: 0,0:05:17.70,0:05:26.79,Default,en,0,0,0,,Mr. Saigo has prepared a meal to thank all your efforts to deal with Shiranui Clan.
-Comment: 0,0:05:27.32,0:05:31.11,Default,ja,0,0,0,,え？オ食事⁉うわ、いくだす、いくだす！すぐいくだす！
+Comment: 0,0:05:27.32,0:05:31.11,Default,ja,0,0,0,,え？オ食事⁉うわ、いくだす、いくだス！すぐいくだス！
 Dialogue: 0,0:05:27.32,0:05:31.11,Default,ko,0,0,0,,어? 식사?! 우와, 가오, 가오, 바로 가오!
 Dialogue: 0,0:05:27.32,0:05:31.11,Default,en,0,0,0,,What?! Meal?! Yes, we're going-{\i1}dasu{\i0}, we're going-{\i1}dasu{\i0}, we're going right now-{\i1}dasu{\i0}! 
 Comment: 0,0:05:31.11,0:05:37.57,Default,ja,0,0,0,,こりゃ、武蔵！見苦しいぞ！いったい、お前が食べ物のことで目の色を変えるときは、ろくなことがないのだ。
@@ -178,7 +178,7 @@ Dialogue: 0,0:05:31.11,0:05:37.57,Default,en,0,0,0,,Musashi, how unsightly of yo
 Comment: 0,0:05:37.57,0:05:38.40,Default,ja,0,0,0,,うん、うん！
 Dialogue: 0,0:05:37.57,0:05:38.40,Default,ko,0,0,0,,응, 응!
 Dialogue: 0,0:05:37.57,0:05:38.40,Default,en,0,0,0,,Yeah, yeah!
-Comment: 0,0:05:38.40,0:05:43.77,Default,ja,0,0,0,,そんなこと言っても、せっかく用意して待ってくれってるって言ってのに、断ったら悪いじゃないだすか！
+Comment: 0,0:05:38.40,0:05:43.77,Default,ja,0,0,0,,そんなこと言っても、せっかく用意して待ってくれってるって言ってのに、断ったら悪いじゃないだスか！
 Dialogue: 0,0:05:38.40,0:05:43.77,Default,ko,0,0,0,,그런 소릴 해도, 기껏 준비해서 기다리시고 계시는데, 거절하면 안 되오!
 Dialogue: 0,0:05:38.40,0:05:43.77,Default,en,0,0,0,,But still, he went through all the trouble to prepare a meal for us, and we can't refuse that-{\i1}dasu{\i0}!
 Comment: 0,0:05:43.77,0:05:45.15,Default,ja,0,0,0,,そうね。
@@ -190,7 +190,7 @@ Dialogue: 0,0:05:45.15,0:05:49.43,Default,en,0,0,0,,Please do so. If you don't, 
 Comment: 0,0:05:49.89,0:05:52.31,Default,ja,0,0,0,,さあ、お言葉に甘えていきましょうか。
 Dialogue: 0,0:05:49.89,0:05:52.31,Default,ko,0,0,0,,그럼 말하신 대로 가 볼까!
 Dialogue: 0,0:05:49.89,0:05:52.31,Default,en,0,0,0,,Then let's go, as he told!
-Comment: 0,0:05:52.31,0:05:53.66,Default,ja,0,0,0,,やっただす！
+Comment: 0,0:05:52.31,0:05:53.66,Default,ja,0,0,0,,やっただス！
 Dialogue: 0,0:05:52.31,0:05:53.66,Default,ko,0,0,0,,잘 됐소!
 Dialogue: 0,0:05:52.31,0:05:53.66,Default,en,0,0,0,,Yay-{\i1}dasu{\i0}!
 Comment: 0,0:05:58.26,0:06:02.10,Note,ja,0,0,0,,サイゴー
@@ -199,7 +199,7 @@ Dialogue: 0,0:05:58.26,0:06:02.10,Note,en,0,0,0,,Saigo
 Comment: 0,0:06:01.43,0:06:02.31,Default,ja,0,0,0,,こちらで。
 Dialogue: 0,0:06:01.43,0:06:02.31,Default,ko,0,0,0,,여기로.
 Dialogue: 0,0:06:01.43,0:06:02.31,Default,en,0,0,0,,This way.
-Comment: 0,0:06:02.31,0:06:08.05,Default,ja,0,0,0,,あらあら、さすが一国の主ともなると、立派なとこに住んでるんだすな。
+Comment: 0,0:06:02.31,0:06:08.05,Default,ja,0,0,0,,あらあら、さすが一国の主ともなると、立派なとこに住んでるんだスな。
 Dialogue: 0,0:06:02.31,0:06:08.05,Default,ko,0,0,0,,이야, 역시 일국의 주인이라더니 대단한 곳에 살고 있소.
 Dialogue: 0,0:06:02.31,0:06:08.05,Default,en,0,0,0,,An owner of a country sure lives in a great place-{\i1}dasu{\i0}!
 Comment: 0,0:06:15.94,0:06:19.58,Default,ja,0,0,0,,ようこそ。武蔵、コジロー、千姫様。
@@ -217,7 +217,7 @@ Dialogue: 0,0:06:27.15,0:06:34.68,Default,en,0,0,0,,No, no, to think about all y
 Comment: 0,0:06:35.04,0:06:37.01,Default,ja,0,0,0,,さ、奥へどうぞ。どうぞ！
 Dialogue: 0,0:06:35.04,0:06:37.01,Default,ko,0,0,0,,그럼 안으로 들어오세요, 오세요!
 Dialogue: 0,0:06:35.04,0:06:37.01,Default,en,0,0,0,,Please come in, come in!
-Comment: 0,0:06:37.24,0:06:38.63,Default,ja,0,0,0,,はいだす！
+Comment: 0,0:06:37.24,0:06:38.63,Default,ja,0,0,0,,はいだス！
 Dialogue: 0,0:06:37.24,0:06:38.63,Default,ko,0,0,0,,네이오!
 Dialogue: 0,0:06:37.24,0:06:38.63,Default,en,0,0,0,,Yes-{\i1}dasu{\i0}!
 Comment: 0,0:06:44.44,0:06:46.30,Default,ja,0,0,0,,すごいだス！
@@ -285,7 +285,7 @@ Dialogue: 0,0:07:59.92,0:08:01.59,Default,en,0,0,0,,Let's eat, too.
 Comment: 0,0:08:08.70,0:08:12.68,Default,ja,0,0,0,,ああ、がっついて食べるから喉を詰まらせる如。
 Dialogue: 0,0:08:08.70,0:08:12.68,Default,ko,0,0,0,,저런, 급하게 먹으니까 목에 걸리는 거야!
 Dialogue: 0,0:08:08.70,0:08:12.68,Default,en,0,0,0,,It got stuck to your throat because you were so hurrying!
-Comment: 0,0:08:13.03,0:08:16.31,Default,ja,0,0,0,,あ、違うだす。体がしびれて。。。
+Comment: 0,0:08:13.03,0:08:16.31,Default,ja,0,0,0,,あ、違うだス。体がしびれて。。。
 Dialogue: 0,0:08:13.03,0:08:16.31,Default,ko,0,0,0,,아, 아니오. 몸이 저려와서...
 Dialogue: 0,0:08:13.03,0:08:16.31,Default,en,0,0,0,,No, that isn't it-{\i1}dasu{\i0}. My body is getting numb...
 Comment: 0,0:08:17.27,0:08:18.09,Default,ja,0,0,0,,武蔵！
@@ -320,7 +320,7 @@ Dialogue: 0,0:08:48.76,0:08:53.02,Default,en,0,0,0,,Heh, falling into a trap lik
 Comment: 0,0:08:53.29,0:08:59.58,Default,ja,0,0,0,,ふん、罠だということは知っていったさ。ただお前たちの手掛かりがほしくて、だまされた～をしていたのだ！
 Dialogue: 0,0:08:53.29,0:08:59.58,Default,ko,0,0,0,,흥, 함정이라는 건 알고 있었다. 단지 네놈들에 관한 실마리를 원해서 속은 척 했을 뿐이다!
 Dialogue: 0,0:08:53.29,0:08:59.58,Default,en,0,0,0,,Hmph! I knew this was a trap! I just played along with you because I wanted clues about you bastards!
-Comment: 0,0:09:00.07,0:09:03.01,Default,ja,0,0,0,,なんで教えてくれなかっただす。
+Comment: 0,0:09:00.07,0:09:03.01,Default,ja,0,0,0,,なんで教えてくれなかっただス。
 Dialogue: 0,0:09:00.07,0:09:03.01,Default,ko,0,0,0,,왜 안 알려줬소...
 Dialogue: 0,0:09:00.07,0:09:03.01,Default,en,0,0,0,,Why didn't you tell me-{\i1}dasu{\i0}?
 Comment: 0,0:09:03.01,0:09:06.19,Default,ja,0,0,0,,教える前にお前ががつがつ食べてしまったんじゃないか！
@@ -362,13 +362,13 @@ Dialogue: 0,0:10:21.16,0:10:24.03,Default,en,0,0,0,,I am called sword-breaking K
 Comment: 0,0:10:26.78,0:10:28.48,Default,ja,0,0,0,,私も物干竿が！
 Dialogue: 0,0:10:26.78,0:10:28.48,Default,ko,0,0,0,,내 모노호시자오가!
 Dialogue: 0,0:10:26.78,0:10:28.48,Default,en,0,0,0,,My Monohoshizao!
-Comment: 0,0:10:31.75,0:10:35.94,Default,ja,0,0,0,,コジロー、なんごくらすな、変わって武芸者がいるで～だす。
+Comment: 0,0:10:31.75,0:10:35.94,Default,ja,0,0,0,,コジロー、なんごくらすな、変わって武芸者がいるで～だス。
 Dialogue: 0,0:10:31.75,0:10:35.94,Default,ko,0,0,0,,
 Dialogue: 0,0:10:31.75,0:10:35.94,Default,en,0,0,0,,
 Comment: 0,0:10:36.49,0:10:41.54,Default,ja,0,0,0,,そんなのんきなこと言ってる場合じゃないでしょ？このままじゃコジローが殺されちゃう！
 Dialogue: 0,0:10:36.49,0:10:41.54,Default,ko,0,0,0,,그런 느긋한 소리 하고 있을 때가 아니잖아? 이대로라면 코지로가 살해당할 거야!
 Dialogue: 0,0:10:36.49,0:10:41.54,Default,en,0,0,0,,This is not the time for that! Kojirō's gonna be killed at this rate!
-Comment: 0,0:10:41.54,0:10:44.75,Default,ja,0,0,0,,なんだ～だす。しびれて仕方ないだス。
+Comment: 0,0:10:41.54,0:10:44.75,Default,ja,0,0,0,,なんだ～だス。しびれて仕方ないだス。
 Dialogue: 0,0:10:41.54,0:10:44.75,Default,ko,0,0,0,,
 Dialogue: 0,0:10:41.54,0:10:44.75,Default,en,0,0,0,,
 Comment: 0,0:10:46.81,0:10:50.15,Default,ja,0,0,0,,もう！肝心な時にちっとも役に立たないんだから！
@@ -392,7 +392,7 @@ Dialogue: 0,0:11:02.17,0:11:03.07,Default,en,0,0,0,,Yessir!
 Comment: 0,0:11:07.85,0:11:09.53,Default,ja,0,0,0,,えい、めざわりな。
 Dialogue: 0,0:11:07.85,0:11:09.53,Default,ko,0,0,0,,에잇, 눈에 거슬리는 놈.
 Dialogue: 0,0:11:07.85,0:11:09.53,Default,en,0,0,0,,You're an eyesore!
-Comment: 0,0:11:09.75,0:11:11.15,Default,ja,0,0,0,,お前に～ないだす。
+Comment: 0,0:11:09.75,0:11:11.15,Default,ja,0,0,0,,お前に～ないだス。
 Dialogue: 0,0:11:09.75,0:11:11.15,Default,ko,0,0,0,,
 Dialogue: 0,0:11:09.75,0:11:11.15,Default,en,0,0,0,,
 Comment: 0,0:11:13.63,0:11:15.55,Default,ja,0,0,0,,助けてほしいだス！
@@ -500,7 +500,7 @@ Dialogue: 0,0:14:18.59,0:14:21.54,Default,en,0,0,0,,That Kumason bastard made me
 Comment: 0,0:14:21.54,0:14:27.21,Default,ja,0,0,0,,ちょっと、武蔵！もとあといえばみんなあんたが悪いんだからね。何とかしなさいよね！
 Dialogue: 0,0:14:21.54,0:14:27.21,Default,ko,0,0,0,,잠깐, 무사시! 애초에 죄다 네 잘못이잖아! 뭐라도 해 봐!
 Dialogue: 0,0:14:21.54,0:14:27.21,Default,en,0,0,0,,Hey, Musashi! It's all your fault, at the first place! Do something!
-Comment: 0,0:14:27.63,0:14:30.17,Default,ja,0,0,0,,え？なんでおいらが悪いんだすか？
+Comment: 0,0:14:27.63,0:14:30.17,Default,ja,0,0,0,,え？なんでおいらが悪いんだスか？
 Dialogue: 0,0:14:27.63,0:14:30.17,Default,ko,0,0,0,,어? 왜 내 탓이오?
 Dialogue: 0,0:14:27.63,0:14:30.17,Default,en,0,0,0,,Huh? Why is this my fault?
 Comment: 0,0:14:30.91,0:14:35.68,Default,ja,0,0,0,,武芸者のくせに独入りの料理なんか食べて、しびれていたのがいけないのよ。
@@ -515,10 +515,10 @@ Dialogue: 0,0:14:36.63,0:14:38.01,Default,en,0,0,0,,Any complaints?!
 Comment: 0,0:14:38.75,0:14:42.10,Default,ja,0,0,0,,いい？絶対コジローを元に戻しなさいよね！
 Dialogue: 0,0:14:38.75,0:14:42.10,Default,ko,0,0,0,,알겠어? 반드시 코지로를 원래대로 돌려 놔.
 Dialogue: 0,0:14:38.75,0:14:42.10,Default,en,0,0,0,,You will restore Kojirō, or else!
-Comment: 0,0:14:42.10,0:14:46.25,Default,ja,0,0,0,,でも、どうやって戻したらいいか、おいら、さっぱりわからないだす。
+Comment: 0,0:14:42.10,0:14:46.25,Default,ja,0,0,0,,でも、どうやって戻したらいいか、おいら、さっぱりわからないだス。
 Dialogue: 0,0:14:42.10,0:14:46.25,Default,ko,0,0,0,,그래도, 어떻게 돌려놓을지 나 전혀 모르겠소!
 Dialogue: 0,0:14:42.10,0:14:46.25,Default,en,0,0,0,,But I don't know how to restore him at all-{\i1}dasu{\i0}!
-Comment: 0,0:14:47.11,0:14:49.44,Default,ja,0,0,0,,あら？コジローがいないんだす。
+Comment: 0,0:14:47.11,0:14:49.44,Default,ja,0,0,0,,あら？コジローがいないんだス。
 Dialogue: 0,0:14:47.11,0:14:49.44,Default,ko,0,0,0,,어라? 코지로가 없소.
 Dialogue: 0,0:14:47.11,0:14:49.44,Default,en,0,0,0,,Huh? Kojirō isn't there-{\i1}dasu{\i0}.
 Comment: 0,0:14:50.36,0:14:51.68,Default,ja,0,0,0,,え？どこ行った出すか？
@@ -527,7 +527,7 @@ Dialogue: 0,0:14:50.36,0:14:51.68,Default,en,0,0,0,,Where did he go-{\i1}dasu{\i
 Comment: 0,0:14:56.60,0:14:58.81,Default,ja,0,0,0,,あ！自殺するつもりだわ！
 Dialogue: 0,0:14:56.60,0:14:58.81,Default,ko,0,0,0,,아! 자살할 생각이야!
 Dialogue: 0,0:14:56.60,0:14:58.81,Default,en,0,0,0,,Hey! He's going to take suicide!
-Comment: 0,0:14:58.81,0:14:59.67,Default,ja,0,0,0,,いけんだす！
+Comment: 0,0:14:58.81,0:14:59.67,Default,ja,0,0,0,,いけんだス！
 Dialogue: 0,0:14:58.81,0:14:59.67,Default,ko,0,0,0,,안돼오!
 Dialogue: 0,0:14:58.81,0:14:59.67,Default,en,0,0,0,,He can't-{\i1}dasu{\i0}!
 Comment: 0,0:14:59.94,0:15:02.01,Default,ja,0,0,0,,コジロー！・コジロー！
@@ -539,22 +539,22 @@ Dialogue: 0,0:15:03.45,0:15:05.37,Default,en,0,0,0,,D- don't be a fool-{\i1}dasu
 Comment: 0,0:15:05.37,0:15:10.52,Default,ja,0,0,0,,放してくれ。愛刀をなくした今の私は、もう生きていても仕方がないんだ！
 Dialogue: 0,0:15:05.37,0:15:10.52,Default,ko,0,0,0,,이거 놔라. 애도를 잃은 지금의 내게는 더 이상 살아있을 방도가 없다!
 Dialogue: 0,0:15:05.37,0:15:10.52,Default,en,0,0,0,,Let me go. I do not worth living anymore since I lost my beloved sword!
-Comment: 0,0:15:10.84,0:15:15.28,Default,ja,0,0,0,,何を～だすか。刀なんて、また手に入れればいいんじゃないだすか！
+Comment: 0,0:15:10.84,0:15:15.28,Default,ja,0,0,0,,何を～だスか。刀なんて、また手に入れればいいんじゃないだスか！
 Dialogue: 0,0:15:10.84,0:15:15.28,Default,ko,0,0,0,,뭔 소리이오. 칼 따위는 다시 손에 넣으면 되오!
 Dialogue: 0,0:15:10.84,0:15:15.28,Default,en,0,0,0,,What are you saying-{\i1}dasu{\i0}?! You can get an another sword-{\i1}dasu{\i0}!
 Comment: 0,0:15:15.28,0:15:22.16,Default,ja,0,0,0,,～は～してくれ。あれほど長い刀、そう簡単に手に入らないの。私が一番よく知っているのだ！
 Dialogue: 0,0:15:15.28,0:15:22.16,Default,ko,0,0,0,,모르는 소리 마라. 그 정도로 긴 칼, 그렇게 쉽게 손에 넣을 수 없는 건 내가 제일 잘 안다!
 Dialogue: 0,0:15:15.28,0:15:22.16,Default,en,0,0,0,,You don't know a thing! I know the best that it is difficult to obtain a sword that long!
-Comment: 0,0:15:26.06,0:15:27.77,Default,ja,0,0,0,,あきらめてはいけないだす！
+Comment: 0,0:15:26.06,0:15:27.77,Default,ja,0,0,0,,あきらめてはいけないだス！
 Dialogue: 0,0:15:26.06,0:15:27.77,Default,ko,0,0,0,,포기하면 안 되오!
 Dialogue: 0,0:15:26.06,0:15:27.77,Default,en,0,0,0,,You must not give up-{\i1}dasu{\i0}!
-Comment: 0,0:15:28.31,0:15:32.22,Default,ja,0,0,0,,死んだら花見ができなくなるだす。探せばきっと見つかるだす！
+Comment: 0,0:15:28.31,0:15:32.22,Default,ja,0,0,0,,死んだら花見ができなくなるだス。探せばきっと見つかるだス！
 Dialogue: 0,0:15:28.31,0:15:32.22,Default,ko,0,0,0,,죽으면 꽃놀이 못하게 되오. 찾으면 분명 찾을 수 있을 것이오!
 Dialogue: 0,0:15:28.31,0:15:32.22,Default,en,0,0,0,,You can't enjoy flowers if you die-{\i1}dasu{\i0}! If we try to find one, then we'll find one-{\i1}dasu{\i0}!
 Comment: 0,0:15:33.89,0:15:36.46,Default,ja,0,0,0,,武蔵。。。お前っていいやつだな。。。
 Dialogue: 0,0:15:33.89,0:15:36.46,Default,ko,0,0,0,,무사시... 너 좋은 놈이구나...
 Dialogue: 0,0:15:33.89,0:15:36.46,Default,en,0,0,0,,Musashi... You are a good guy...
-Comment: 0,0:15:38.68,0:15:40.75,Default,ja,0,0,0,,なんかやるみくいだすな。
+Comment: 0,0:15:38.68,0:15:40.75,Default,ja,0,0,0,,なんかやるみくいだスな。
 Dialogue: 0,0:15:38.68,0:15:40.75,Default,ko,0,0,0,,{\i1}왠지 잘 한 것 같소.
 Dialogue: 0,0:15:38.68,0:15:40.75,Default,en,0,0,0,,{\i1}I think that I did a good job-{\i1}dasu{\i0}!
 Comment: 0,0:15:49.04,0:15:50.40,Default,ja,0,0,0,,どうだ！見つけたか。
@@ -598,7 +598,7 @@ Dialogue: 0,0:16:32.58,0:16:33.88,Default,en,0,0,0,,No way!
 Comment: 0,0:16:45.22,0:16:49.48,Default,ja,0,0,0,,どうする？このままじゃコジローはいつまでも落ち込みっぱなしよ。
 Dialogue: 0,0:16:45.22,0:16:49.48,Default,ko,0,0,0,,어쩌냐? 이대로는 코지로는 앞으로도 쭉 침울해 있을 거야.
 Dialogue: 0,0:16:45.22,0:16:49.48,Default,en,0,0,0,,What should we do? Kojirō will be keep feeling down at this rate.
-Comment: 0,0:16:50.69,0:16:54.31,Default,ja,0,0,0,,そうだ！こうなったらおいらが刀を作ってやるだす！
+Comment: 0,0:16:50.69,0:16:54.31,Default,ja,0,0,0,,そうだ！こうなったらおいらが刀を作ってやるだス！
 Dialogue: 0,0:16:50.69,0:16:54.31,Default,ko,0,0,0,,그렇소! 이렇게 된 바 내가 칼을 만들어 주겠소!
 Dialogue: 0,0:16:50.69,0:16:54.31,Default,en,0,0,0,,That's it! I'll make a sword for him-{\i1}dasu{\i0}!
 Comment: 0,0:16:54.31,0:16:56.75,Default,ja,0,0,0,,え？武蔵に作れるの？
@@ -631,7 +631,7 @@ Dialogue: 0,0:17:22.73,0:17:24.38,Default,en,0,0,0,,Huh? Where did they go?
 Comment: 0,0:17:24.75,0:17:26.90,Default,ja,0,0,0,,刃ならここにあるわよ！
 Dialogue: 0,0:17:24.75,0:17:26.90,Default,ko,0,0,0,,칼날이라면 여기 있다!
 Dialogue: 0,0:17:24.75,0:17:26.90,Default,en,0,0,0,,You can find the blades here!
-Comment: 0,0:17:31.24,0:17:32.88,Default,ja,0,0,0,,おせんちゃん、大丈夫だすか。
+Comment: 0,0:17:31.24,0:17:32.88,Default,ja,0,0,0,,おせんちゃん、大丈夫だスか。
 Dialogue: 0,0:17:31.24,0:17:32.88,Default,ko,0,0,0,,오센짱, 괜찮소?
 Dialogue: 0,0:17:31.24,0:17:32.88,Default,en,0,0,0,,Osenchan, are you alright-{\i1}dasu{\i0}?!
 Comment: 0,0:17:33.26,0:17:39.41,Default,ja,0,0,0,,なんてものを作るのよ！あたしが運動神経がよくて、かわいかったからよかったものの！
@@ -640,7 +640,7 @@ Dialogue: 0,0:17:33.26,0:17:39.41,Default,en,0,0,0,,What kind of contraption did
 Comment: 0,0:17:39.41,0:17:41.74,Default,ja,0,0,0,,普通の人だったら死んでいたわよ！
 Dialogue: 0,0:17:39.41,0:17:41.74,Default,ko,0,0,0,,일반인이었다면 죽었다!
 Dialogue: 0,0:17:39.41,0:17:41.74,Default,en,0,0,0,,An usual person would have already died!
-Comment: 0,0:17:41.74,0:17:44.96,Default,ja,0,0,0,,か、かわいいのがどういう関係があるだすか。
+Comment: 0,0:17:41.74,0:17:44.96,Default,ja,0,0,0,,か、かわいいのがどういう関係があるだスか。
 Dialogue: 0,0:17:41.74,0:17:44.96,Default,ko,0,0,0,,귀, 귀여운 게 뭔 관계이오...
 Dialogue: 0,0:17:41.74,0:17:44.96,Default,en,0,0,0,,H- how does being cute have something to do with it-{\i1}dasu{\i0}?
 Comment: 0,0:17:46.34,0:17:48.01,Default,ja,0,0,0,,おやめください、千姫様。
@@ -664,7 +664,7 @@ Dialogue: 0,0:18:13.31,0:18:14.93,Default,en,0,0,0,,{\i1}eat shit!
 Comment: 0,0:18:18.65,0:18:20.74,Default,ja,0,0,0,,だめだ。間合いが取れない！
 Dialogue: 0,0:18:18.65,0:18:20.74,Default,ko,0,0,0,,틀렸어. 짬이 닿지 않아...
 Dialogue: 0,0:18:18.65,0:18:20.74,Default,en,0,0,0,,It's no good. It can't make to the distance...
-Comment: 0,0:18:21.75,0:18:25.31,Default,ja,0,0,0,,ああ、コジローのやつ、また落ち込んでしまっただす。
+Comment: 0,0:18:21.75,0:18:25.31,Default,ja,0,0,0,,ああ、コジローのやつ、また落ち込んでしまっただス。
 Dialogue: 0,0:18:21.75,0:18:25.31,Default,ko,0,0,0,,아, 코지로 놈, 또 침울해졌소.
 Dialogue: 0,0:18:21.75,0:18:25.31,Default,en,0,0,0,,That Kojirō became down again-{\i1}dasu{\i0}...
 Comment: 0,0:18:25.77,0:18:31.04,Default,ja,0,0,0,,困ったわね。どこかに物干竿に代わりような長い刀がないのかしら。
@@ -700,7 +700,7 @@ Dialogue: 0,0:19:09.09,0:19:09.55,Note,en,0,0,0,,{\3c&H538FAB&\c&H1B2189&\fs480\
 Comment: 0,0:19:09.63,0:19:10.34,Note,ja,0,0,0,,ト
 Dialogue: 0,0:19:09.63,0:19:10.34,Note,ko,0,0,0,,{\3c&H538FAB&\c&H1B2189&\fs480\bord12\an5\frz-16\move(-280,240,800,240)}트
 Dialogue: 0,0:19:09.63,0:19:10.34,Note,en,0,0,0,,{\3c&H538FAB&\c&H1B2189&\fs480\bord12\an5\frz-16\move(-280,240,800,240)}T
-Comment: 0,0:19:14.06,0:19:17.65,Default,ja,0,0,0,,こんな大声出せるのは間違いなく本物だす。。。
+Comment: 0,0:19:14.06,0:19:17.65,Default,ja,0,0,0,,こんな大声出せるのは間違いなく本物だス。。。
 Dialogue: 0,0:19:14.06,0:19:17.65,Default,ko,0,0,0,,이런 큰 목소리를 내는 걸 보니 틀림없이 진짜이오...
 Dialogue: 0,0:19:14.06,0:19:17.65,Default,en,0,0,0,,Judging by that big voice of yours, you are real one-{\i1}dasu{\i0}...
 Comment: 0,0:19:28.94,0:19:30.62,Default,ja,0,0,0,,そうだったでごわすか。
@@ -709,7 +709,7 @@ Dialogue: 0,0:19:28.94,0:19:30.62,Default,en,0,0,0,,I see-{\i1}gowasu{\i0}.
 Comment: 0,0:19:31.38,0:19:35.91,Default,ja,0,0,0,,それでおいどんをそのクマソンとかいうものと間違えたでごわすか。
 Dialogue: 0,0:19:31.38,0:19:35.91,Default,ko,0,0,0,,그래서 날 그 쿠마손이란 놈으로 착각한 것이구려!
 Dialogue: 0,0:19:31.38,0:19:35.91,Default,en,0,0,0,,So that's why you confused me with that Kumason guy-{\i1}gowasu{\i0}!
-Comment: 0,0:19:35.91,0:19:37.44,Default,ja,0,0,0,,すまんだす。
+Comment: 0,0:19:35.91,0:19:37.44,Default,ja,0,0,0,,すまんだス。
 Dialogue: 0,0:19:35.91,0:19:37.44,Default,ko,0,0,0,,미안하오.
 Dialogue: 0,0:19:35.91,0:19:37.44,Default,en,0,0,0,,I'm sorry-{\i1}dasu{\i0}!
 Comment: 0,0:19:37.44,0:19:41.31,Default,ja,0,0,0,,それでサイゴーさん、さっき言ってた長い刀って、どこにあるの？
@@ -745,7 +745,7 @@ Dialogue: 0,0:20:16.56,0:20:17.74,Default,en,0,0,0,,Die!
 Comment: 0,0:20:19.84,0:20:20.49,Default,ja,0,0,0,,死ね！
 Dialogue: 0,0:20:19.84,0:20:20.49,Default,ko,0,0,0,,죽어라!
 Dialogue: 0,0:20:19.84,0:20:20.49,Default,en,0,0,0,,Die!
-Comment: 0,0:20:20.49,0:20:21.97,Default,ja,0,0,0,,うわ、ずるいだす！
+Comment: 0,0:20:20.49,0:20:21.97,Default,ja,0,0,0,,うわ、ずるいだス！
 Dialogue: 0,0:20:20.49,0:20:21.97,Default,ko,0,0,0,,아니, 치사하오!
 Dialogue: 0,0:20:20.49,0:20:21.97,Default,en,0,0,0,,That's cunning-{\i1}dasu{\i0}!
 Comment: 0,0:20:22.80,0:20:23.37,Default,ja,0,0,0,,しね！
@@ -778,7 +778,7 @@ Dialogue: 0,0:21:06.00,0:21:07.69,Default,en,0,0,0,,I don't just run away-{\i1}d
 Comment: 0,0:21:12.96,0:21:15.72,Default,ja,0,0,0,,他愛もない。お前の刀も折ってやる。
 Dialogue: 0,0:21:12.96,0:21:15.72,Default,ko,0,0,0,,사리 분별이 안 되는군. 네 칼도 부러뜨려 주겠다!
 Dialogue: 0,0:21:12.96,0:21:15.72,Default,en,0,0,0,,How guileless of you. Let me break your sword too!
-Comment: 0,0:21:17.08,0:21:19.33,Default,ja,0,0,0,,おいらの刀は一本だけじゃないんだす！
+Comment: 0,0:21:17.08,0:21:19.33,Default,ja,0,0,0,,おいらの刀は一本だけじゃないんだス！
 Dialogue: 0,0:21:17.08,0:21:19.33,Default,ko,0,0,0,,내 칼은 하나뿐만이 아니오!
 Dialogue: 0,0:21:17.08,0:21:19.33,Default,en,0,0,0,,I have more than one sword!
 Comment: 0,0:21:20.75,0:21:21.39,Default,ja,0,0,0,,なに？！
@@ -827,16 +827,16 @@ Dialogue: 0,0:24:04.41,0:24:06.99,Default,en,0,0,0,,For having his Monohoshizao 
 Comment: 0,0:24:07.41,0:24:11.85,Default,ja,0,0,0,,仕方なく、おいらはサイゴーさんのいった伝説の秘剣を探しに天草島へ。
 Dialogue: 0,0:24:07.41,0:24:11.85,Default,ko,0,0,0,,어쩔 수 없이 나는 사이고 씨가 알려준 전설의 비검을 찾기 위해 아마쿠사 섬에!
 Dialogue: 0,0:24:07.41,0:24:11.85,Default,en,0,0,0,,I had no choice but to go to Amakusa Island that Mr. Saigo told me about, to find the legendary secret sword!
-Comment: 0,0:24:12.32,0:24:16.29,Default,ja,0,0,0,,しかし、その刀は持つにふさわしいものでなければ抜くことができないんだす。
+Comment: 0,0:24:12.32,0:24:16.29,Default,ja,0,0,0,,しかし、その刀は持つにふさわしいものでなければ抜くことができないんだス。
 Dialogue: 0,0:24:12.32,0:24:16.29,Default,ko,0,0,0,,그러나 그 칼은 가질 자격이 있는 자만이 빼들 수 있다고 하오.
 Dialogue: 0,0:24:12.32,0:24:16.29,Default,en,0,0,0,,But, they say that only the ones who are qualified can pull out the sword-{\i1}dasu{\i0}.
 Comment: 0,0:24:16.75,0:24:20.05,Default,ja,0,0,0,,たえして、コジローの燕返しはよみがえるのか！
 Dialogue: 0,0:24:16.75,0:24:20.05,Default,ko,0,0,0,,과연 코지로의 츠바메가에시는 되살아나는가!
 Dialogue: 0,0:24:16.75,0:24:20.05,Default,en,0,0,0,,Will Kojirō's Tsubamegaeshi be revived?!
-Comment: 0,0:24:20.46,0:24:23.35,Default,ja,0,0,0,,次回、今よみがえる伝説の剣だす！
+Comment: 0,0:24:20.46,0:24:23.35,Default,ja,0,0,0,,次回、今よみがえる伝説の剣だス！
 Dialogue: 0,0:24:20.46,0:24:23.35,Default,ko,0,0,0,,다음 이야기! 지금 되살아나는 전설의 검이오!
 Dialogue: 0,0:24:20.46,0:24:23.35,Default,en,0,0,0,,Next story! The Reviving Legendary Sword!
-Comment: 0,0:24:23.58,0:24:26.69,Default,ja,0,0,0,,疾風怒濤の天草島だす！
+Comment: 0,0:24:23.58,0:24:26.69,Default,ja,0,0,0,,疾風怒濤の天草島だス！
 Dialogue: 0,0:24:23.58,0:24:26.69,Default,ko,0,0,0,,질풍노도의 아마쿠사 섬이오!
 Dialogue: 0,0:24:23.58,0:24:26.69,Default,en,0,0,0,,It's the stormy Amakusa Island!
 Dialogue: 0,0:24:25.93,0:24:29.90,NoteOnAnime,ko,60,0,60,,{\an7}다음 이야기

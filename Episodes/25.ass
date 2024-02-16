@@ -89,7 +89,7 @@ Dialogue: 0,0:02:44.73,0:02:49.86,Default,en,0,0,0,,Only kids make promises. Sho
 Comment: 0,0:02:50.24,0:02:54.01,Default,ja,0,0,0,,天下を狙うこのハンゾウ、邪魔者はすべて始末するのよ。
 Dialogue: 0,0:02:50.24,0:02:54.01,Default,ko,0,0,0,,천하를 노리는 이 한조, 방해하는 자는 전부 처치하지.
 Dialogue: 0,0:02:50.24,0:02:54.01,Default,en,0,0,0,,I, Hanzō, am after the domination of the whole globe. Whoever gets in my way will be gotten rid of.
-Comment: 0,0:03:04.54,0:03:07.00,Default,ja,0,0,0,,汚いだす！それでも武芸者だスか！
+Comment: 0,0:03:04.54,0:03:07.00,Default,ja,0,0,0,,汚いだス！それでも武芸者だスか！
 Dialogue: 0,0:03:04.54,0:03:07.00,Default,ko,0,0,0,,더럽소! 그래도 무예가이오?!
 Dialogue: 0,0:03:04.54,0:03:07.00,Default,en,0,0,0,,That's dirty-{\i1}dasu{\i0}! You call yourself a martial artist-{\i1}dasu{\i0}?1
 Comment: 0,0:03:07.38,0:03:12.45,Default,ja,0,0,0,,あいにくだったな。ワシは忍者。どんな手を使っても勝てばよい。
@@ -137,7 +137,7 @@ Dialogue: 0,0:04:19.29,0:04:20.72,Default,en,0,0,0,,Onihime! Fight me-{\i1}dasu{
 Comment: 0,0:04:21.02,0:04:23.55,Default,ja,0,0,0,,ほざくな。くらえ！氷ずめ！
 Dialogue: 0,0:04:21.02,0:04:23.55,Default,ko,0,0,0,,웃기지 마라. 먹어라! 얼음벽!
 Dialogue: 0,0:04:21.02,0:04:23.55,Default,en,0,0,0,,How foolish! Take this! Ice Walls!
-Comment: 0,0:04:32.21,0:04:33.92,Default,ja,0,0,0,,やっこいだす。。。
+Comment: 0,0:04:32.21,0:04:33.92,Default,ja,0,0,0,,やっこいだス。。。
 Dialogue: 0,0:04:32.21,0:04:33.92,Default,ko,0,0,0,,춥소...
 Dialogue: 0,0:04:32.21,0:04:33.92,Default,en,0,0,0,,It's so cold-{\i1}dasu{\i0}...
 Comment: 0,0:04:35.76,0:04:37.58,Default,ja,0,0,0,,そんなもので私を倒せるか！
@@ -293,7 +293,7 @@ Dialogue: 0,0:10:33.50,0:10:35.32,Default,en,0,0,0,,Hanzō! Prepare yourself!
 Comment: 0,0:10:36.50,0:10:38.93,Default,ja,0,0,0,,己、多勢に無勢、卑怯だぞ！
 Dialogue: 0,0:10:36.50,0:10:38.93,Default,ko,0,0,0,,네이놈, 중과부적이다! 비겁하다!
 Dialogue: 0,0:10:36.50,0:10:38.93,Default,en,0,0,0,,You're outnumbering me, bastards! That's cowardly!
-Comment: 0,0:10:39.49,0:10:41.74,Default,ja,0,0,0,,卑怯？どっちがだすか！
+Comment: 0,0:10:39.49,0:10:41.74,Default,ja,0,0,0,,卑怯？どっちがだスか！
 Dialogue: 0,0:10:39.49,0:10:41.74,Default,ko,0,0,0,,비겁? 어느 쪽 말이오!
 Dialogue: 0,0:10:39.49,0:10:41.74,Default,en,0,0,0,,Cowardly? Who do you mean by that-{\i1}dasu{\i0}?!
 Comment: 0,0:10:42.27,0:10:44.10,Default,ja,0,0,0,,潔く観念しろ！ハンゾウ！
@@ -308,7 +308,7 @@ Dialogue: 0,0:10:50.88,0:10:51.97,Default,en,0,0,0,,Hanzō! Where did you go?!
 Comment: 0,0:10:52.97,0:10:54.47,Default,ja,0,0,0,,このジライヤンが相手だ！
 Dialogue: 0,0:10:52.97,0:10:54.47,Default,ko,0,0,0,,이 지라이얀이 상대해 주겠다!
 Dialogue: 0,0:10:52.97,0:10:54.47,Default,en,0,0,0,,I, Jiraiyan, will face you!
-Comment: 0,0:10:54.68,0:10:57.18,Default,ja,0,0,0,,ジライヤン、無駄な争いはやめるだす！
+Comment: 0,0:10:54.68,0:10:57.18,Default,ja,0,0,0,,ジライヤン、無駄な争いはやめるだス！
 Dialogue: 0,0:10:54.68,0:10:57.18,Default,ko,0,0,0,,지라이얀! 소용없는 저항은 관두시오!
 Dialogue: 0,0:10:54.68,0:10:57.18,Default,en,0,0,0,,Jiraiyan! Give up your futile resistance-{\i1}dasu{\i0}!
 Comment: 0,0:10:57.33,0:10:59.80,Default,ja,0,0,0,,我らがチームワークに勝てると思うてか！
@@ -510,7 +510,7 @@ Dialogue: 0,0:16:28.18,0:16:29.04,Default,en,0,0,0,,None-{\i1}dasu{\i0}.
 Comment: 0,0:16:29.26,0:16:30.29,Default,ja,0,0,0,,もういちらしたか！
 Dialogue: 0,0:16:29.26,0:16:30.29,Default,ko,0,0,0,,벌써 도망쳤나...
 Dialogue: 0,0:16:29.26,0:16:30.29,Default,en,0,0,0,,They already ran away, eh...
-Comment: 0,0:16:30.96,0:16:33.88,Default,ja,0,0,0,,シー！おせんちゃんの笛のねだす。
+Comment: 0,0:16:30.96,0:16:33.88,Default,ja,0,0,0,,シー！おせんちゃんの笛のねだス。
 Dialogue: 0,0:16:30.96,0:16:33.88,Default,ko,0,0,0,,쉬잇! 오센짱의 피리 소리이오!
 Dialogue: 0,0:16:30.96,0:16:33.88,Default,en,0,0,0,,Shh! I can hear Osenchan's flute!
 Comment: 0,0:16:39.09,0:16:39.92,Default,ja,0,0,0,,こっちだス！
@@ -549,7 +549,7 @@ Dialogue: 0,0:17:33.88,0:17:35.72,Default,en,0,0,0,,It's a good thing that I bel
 Comment: 0,0:17:36.06,0:17:38.33,Default,ja,0,0,0,,ムサシ！センヒメ様は無事だぞ！
 Dialogue: 0,0:17:36.06,0:17:38.33,Default,ko,0,0,0,,무사시! 센히메 님은 무사하다!
 Dialogue: 0,0:17:36.06,0:17:38.33,Default,en,0,0,0,,Musashi! Senhime is fine!
-Comment: 0,0:17:38.49,0:17:40.67,Default,ja,0,0,0,,それを聞いてひゃくじんにきだす！
+Comment: 0,0:17:38.49,0:17:40.67,Default,ja,0,0,0,,それを聞いてひゃくじんにきだス！
 Dialogue: 0,0:17:38.49,0:17:40.67,Default,ko,0,0,0,,그걸 들으니 만사 안심이오!
 Dialogue: 0,0:17:38.49,0:17:40.67,Default,en,0,0,0,,Hearing that is very relieving-{\i1}dasu{\i0}!
 Comment: 0,0:17:41.98,0:17:44.08,Default,ja,0,0,0,,ハンゾウ！いつの間に！待て！
@@ -588,7 +588,7 @@ Dialogue: 0,0:18:17.42,0:18:18.16,Default,en,0,0,0,,Jiraiyan!
 Comment: 0,0:18:27.74,0:18:28.80,Default,ja,0,0,0,,これで空くはずだ！
 Dialogue: 0,0:18:27.74,0:18:28.80,Default,ko,0,0,0,,이제 열릴 테다!
 Dialogue: 0,0:18:27.74,0:18:28.80,Default,en,0,0,0,,It should open by now!
-Comment: 0,0:18:29.14,0:18:31.31,Default,ja,0,0,0,,よし、今度は三人でスクラムだす！
+Comment: 0,0:18:29.14,0:18:31.31,Default,ja,0,0,0,,よし、今度は三人でスクラムだス！
 Dialogue: 0,0:18:29.14,0:18:31.31,Default,ko,0,0,0,,좋소, 이번엔 셋이서 스크럼이오!
 Dialogue: 0,0:18:29.14,0:18:31.31,Default,en,0,0,0,,Alright! We'll scrum by three this time-{\i1}dasu{\i0}!
 Comment: 0,0:18:31.42,0:18:31.85,Default,ja,0,0,0,,よし！

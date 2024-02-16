@@ -80,7 +80,7 @@ Dialogue: 0,0:03:35.91,0:03:38.44,Default,en,0,0,0,,Ah, I've given him some trou
 Dialogue: 0,0:03:38.98,0:03:42.55,Default,en,0,0,0,,Could you be Otsuru and the monk Takuan?
 Dialogue: 0,0:03:42.76,0:03:43.75,Default,en,0,0,0,,That's right.
 Dialogue: 0,0:03:44.59,0:03:47.11,Default,en,0,0,0,,I am Zenigatan.
-Dialogue: 0,0:03:48.24,0:03:52.36,Default,en,0,0,0,,I see. As Mr. Musashi always praised, you sure are pretty, Ms. Otsuru.
+Dialogue: 0,0:03:48.24,0:03:52.36,Default,en,0,0,0,,I see. As Musashi always praised, you sure are pretty, Otsuru.
 Dialogue: 0,0:03:53.20,0:03:55.89,Default,en,0,0,0,,Also, as I heard, you do look stubborn, monk.
 Dialogue: 0,0:03:56.37,0:03:58.88,Default,en,0,0,0,,-What?\N-Nah, it's in my words, not his.
 Dialogue: 0,0:03:59.16,0:04:01.51,Default,en,0,0,0,,More importantly, where's Musashi?
@@ -269,7 +269,7 @@ Dialogue: 0,0:18:56.55,0:18:57.44,Default,en,0,0,0,,Musashi!
 Dialogue: 0,0:18:58.18,0:19:01.71,Default,en,0,0,0,L1858,{\i1}No! I'll be done for at this rate-{\i1}dasu{\i0}! I need something!
 Dialogue: 0,0:19:03.46,0:19:05.49,Default,en,0,0,0,L1903,{\i1}Is there a way to get over-{\i1}dasu{\i0}?
 Dialogue: 0,0:19:50.91,0:19:52.43,Default,en,0,0,0,,Secret Sword! Ichi no Tachi!
-Dialogue: 0,0:20:00.76,0:20:03.95,Default,en,0,0,0,,Match set! Mr. Jūbee wins!
+Dialogue: 0,0:20:00.76,0:20:03.95,Default,en,0,0,0,,Match set! Jūbee wins!
 Dialogue: 0,0:20:07.38,0:20:08.57,Default,en,0,0,0,,That was excellent.
 Dialogue: 0,0:20:17.25,0:20:18.26,Default,en,0,0,0,,I lost...
 Dialogue: 0,0:20:19.08,0:20:21.34,Default,en,0,0,0,,I lost to Jūbee...

@@ -120,7 +120,7 @@ Dialogue: 0,0:04:32.81,0:04:35.91,Default,en,0,0,0,,Osenchan, are you alright? O
 Comment: 0,0:04:38.99,0:04:42.42,Default,ja,0,0,0,,ボッサとしてないでさっそと火を消しなさい！
 Dialogue: 0,0:04:38.99,0:04:42.42,Default,ko,0,0,0,,꾸물대고 있지 말고 어서 불이나 꺼!
 Dialogue: 0,0:04:38.99,0:04:42.42,Default,en,0,0,0,,Don't be tardy and put off the fire!
-Comment: 0,0:04:43.31,0:04:44.41,Default,ja,0,0,0,,はいだす！
+Comment: 0,0:04:43.31,0:04:44.41,Default,ja,0,0,0,,はいだス！
 Dialogue: 0,0:04:43.31,0:04:44.41,Default,ko,0,0,0,,알겠소!
 Dialogue: 0,0:04:43.31,0:04:44.41,Default,en,0,0,0,,Understood-{\i1}dasu{\i0}!
 Comment: 0,0:04:47.75,0:04:48.89,Default,ja,0,0,0,,ジライヤンはどこに？
@@ -144,7 +144,7 @@ Dialogue: 0,0:05:23.41,0:05:24.97,Default,en,0,0,0,,How cruel of them!
 Comment: 0,0:05:25.21,0:05:27.76,Default,ja,0,0,0,,村の人たちは何も悪いことしてないのに。
 Dialogue: 0,0:05:25.21,0:05:27.76,Default,ko,0,0,0,,마을 사람들이 잘못한 건 하나도 없는데.
 Dialogue: 0,0:05:25.21,0:05:27.76,Default,en,0,0,0,,The villagers didn't do anything wrong...
-Comment: 0,0:05:28.65,0:05:37.31,Default,ja,0,0,0,,何の罪もない人たちをこんなに苦しめて！ノブナガだが小鮒がだが知らんだすが、子のムサシが絶対許さんだス！
+Comment: 0,0:05:28.65,0:05:37.31,Default,ja,0,0,0,,何の罪もない人たちをこんなに苦しめて！ノブナガだが小鮒がだが知らんだスが、子のムサシが絶対許さんだス！
 Dialogue: 0,0:05:28.65,0:05:37.31,Default,ko,0,0,0,,아무 죄도 없는 사람들을 이렇게 괴롭히고! 노부나가인지 코부나가(작은 붕어)인지 모르겠고 이 무사시는 절대 용서할 수 없소!
 Dialogue: 0,0:05:28.65,0:05:37.31,Default,en,0,0,0,,How dare they harass the people without crimes!? Nobunaga or Kobunaga(small fish), I, Musashi, cannot forgive-{\i1}dasu{\i0}!
 Comment: 0,0:05:37.69,0:05:38.63,Default,ja,0,0,0,,っと、ムサシ！
@@ -183,7 +183,7 @@ Dialogue: 0,0:06:26.35,0:06:29.57,Default,en,0,0,0,,If you ask Mr. Gennai, an in
 Comment: 0,0:06:30.60,0:06:31.85,Default,ja,0,0,0,,ゲンナイさん？
 Dialogue: 0,0:06:30.60,0:06:31.85,Default,ko,0,0,0,,겐나이 씨?
 Dialogue: 0,0:06:30.60,0:06:31.85,Default,en,0,0,0,,Mr. Gennai?
-Comment: 0,0:06:37.65,0:06:41.04,Default,ja,0,0,0,,本当に海に潜れる乗り物が作れなんだすか？
+Comment: 0,0:06:37.65,0:06:41.04,Default,ja,0,0,0,,本当に海に潜れる乗り物が作れなんだスか？
 Dialogue: 0,0:06:37.65,0:06:41.04,Default,ko,0,0,0,,정말 바다에 들어갈 수 있는 탈것을 만들 수 있소?
 Dialogue: 0,0:06:37.65,0:06:41.04,Default,en,0,0,0,,Can he really make a vehicle that can go inside the sea-{\i1}dasu{\i0}?
 Comment: 0,0:06:41.80,0:06:45.99,Default,ja,0,0,0,,うん。へんてこなものばっかり発明している人だから、きっと作ってくれるさ。
@@ -192,7 +192,7 @@ Dialogue: 0,0:06:41.80,0:06:45.99,Default,en,0,0,0,,Yes. He's an inventor who al
 Comment: 0,0:06:47.80,0:06:51.16,Default,ja,0,0,0,,え？これがゲンナイさんのうちなの？
 Dialogue: 0,0:06:47.80,0:06:51.16,Default,ko,0,0,0,,어? 이, 이게 겐나이 씨 집이야?
 Dialogue: 0,0:06:47.80,0:06:51.16,Default,en,0,0,0,,Huh? I- is this seriously Mr. Gennai's house?
-Comment: 0,0:06:53.11,0:06:55.69,Default,ja,0,0,0,,なんだか面白そうな打ちだすな！
+Comment: 0,0:06:53.11,0:06:55.69,Default,ja,0,0,0,,なんだか面白そうな打ちだスな！
 Dialogue: 0,0:06:53.11,0:06:55.69,Default,ko,0,0,0,,왠지 재미있어 보이는 집이오!
 Dialogue: 0,0:06:53.11,0:06:55.69,Default,en,0,0,0,,This house looks interesting-{\i1}dasu{\i0}!
 Comment: 0,0:06:55.69,0:07:00.09,Default,ja,0,0,0,,ゲンナイさん！ゲンナイさん！ゲンナイさん？
@@ -252,7 +252,7 @@ Dialogue: 0,0:07:56.74,0:08:01.19,Default,en,0,0,0,,Yes. Your inventions are fam
 Comment: 0,0:08:01.19,0:08:04.88,Default,ja,0,0,0,,子供から年寄りまで、知らないものはいないくらいで。
 Dialogue: 0,0:08:01.19,0:08:04.88,Default,ko,0,0,0,,아이들부터 노인까지 모르는 자는 없을 정도로...
 Dialogue: 0,0:08:01.19,0:08:04.88,Default,en,0,0,0,,From children to old people, everybody knows you!
-Comment: 0,0:08:05.18,0:08:10.06,Default,ja,0,0,0,,コジローうまいだスな！そんな奴、聞いたこともないっていて～だす。
+Comment: 0,0:08:05.18,0:08:10.06,Default,ja,0,0,0,,コジローうまいだスな！そんな奴、聞いたこともないっていて～だス。
 Dialogue: 0,0:08:05.18,0:08:10.06,Default,ko,0,0,0,,코지로도 능숙하오! 그런 놈, 들은 적도 없다고 말했잖소!
 Dialogue: 0,0:08:05.18,0:08:10.06,Default,en,0,0,0,,Kojirō, you're skillful-{\i1}dasu{\i0}! You said that you never heard of him-{\i1}dasu{\i0}!
 Comment: 0,0:08:10.06,0:08:11.38,Default,ja,0,0,0,,あんた、黙っていて！
@@ -303,7 +303,7 @@ Dialogue: 0,0:08:59.63,0:09:03.14,Default,en,0,0,0,,That's why I told you not to
 Comment: 0,0:09:05.23,0:09:07.13,Default,ja,0,0,0,,お願いします！ゲンナイ殿！
 Dialogue: 0,0:09:05.23,0:09:07.13,Default,ko,0,0,0,,부탁드립니다! 겐나이 님!
 Dialogue: 0,0:09:05.23,0:09:07.13,Default,en,0,0,0,,Please! Mr. Gennai!
-Comment: 0,0:09:07.48,0:09:08.69,Default,ja,0,0,0,,お願いします！・お願いしますだす。
+Comment: 0,0:09:07.48,0:09:08.69,Default,ja,0,0,0,,お願いします！・お願いしますだス。
 Dialogue: 0,0:09:07.48,0:09:08.69,Default,ko,0,0,0,,-부탁드립니다!\N-부탁드리오!
 Dialogue: 0,0:09:07.48,0:09:08.69,Default,en,0,0,0,,-Please!\N-Please-{\i1}dasu{\i0}!
 Comment: 0,0:09:08.91,0:09:14.31,Default,ja,0,0,0,,わしは気まぐれでな人からものを頼まれてほいほいと受けるのは嫌いなんじゃな。
@@ -472,10 +472,10 @@ Dialogue: 0,0:12:24.27,0:12:25.80,Default,en,0,0,0,,Ouch!
 Comment: 0,0:12:27.04,0:12:29.00,Default,ja,0,0,0,,指だ、指！いたい、いたい！
 Dialogue: 0,0:12:27.04,0:12:29.00,Default,ko,0,0,0,,아이고, 손가락이야, 손가락!
 Dialogue: 0,0:12:27.04,0:12:29.00,Default,en,0,0,0,,Ow, my finger! My finger!
-Comment: 0,0:12:29.00,0:12:31.52,Default,ja,0,0,0,,元気な爺さんだすな。
+Comment: 0,0:12:29.00,0:12:31.52,Default,ja,0,0,0,,元気な爺さんだスな。
 Dialogue: 0,0:12:29.00,0:12:31.52,Default,ko,0,0,0,,건강한 할배이오.
 Dialogue: 0,0:12:29.00,0:12:31.52,Default,en,0,0,0,,What an energetic old man-{\i1}dasu{\i0}.
-Comment: 0,0:12:31.84,0:12:36.09,Default,ja,0,0,0,,だけど、ゲンナイさんに任しどいて本当に大丈夫なんだすか。
+Comment: 0,0:12:31.84,0:12:36.09,Default,ja,0,0,0,,だけど、ゲンナイさんに任しどいて本当に大丈夫なんだスか。
 Dialogue: 0,0:12:31.84,0:12:36.09,Default,ko,0,0,0,,그래도 겐나이 씨한테 맡겨도 정말 괜찮을지...
 Dialogue: 0,0:12:31.84,0:12:36.09,Default,en,0,0,0,,But, can we really trust on Mr. Gennai-{\i1}dasu{\i0}?
 Comment: 0,0:12:36.86,0:12:39.34,Default,ja,0,0,0,,ほかに、頼る人はいませんからね。
@@ -523,7 +523,7 @@ Dialogue: 0,0:13:24.02,0:13:25.94,Default,en,0,0,0,,What are you saying? You're 
 Comment: 0,0:13:25.94,0:13:27.19,Default,ja,0,0,0,,あら、わしも？
 Dialogue: 0,0:13:25.94,0:13:27.19,Default,ko,0,0,0,,어라, 나도?
 Dialogue: 0,0:13:25.94,0:13:27.19,Default,en,0,0,0,,What, me too?
-Comment: 0,0:13:27.41,0:13:32.40,Default,ja,0,0,0,,当たり前じゃないだすか。ゲンナイさんのほかにいったい誰が操縦するだすか。
+Comment: 0,0:13:27.41,0:13:32.40,Default,ja,0,0,0,,当たり前じゃないだスか。ゲンナイさんのほかにいったい誰が操縦するだスか。
 Dialogue: 0,0:13:27.41,0:13:32.40,Default,ko,0,0,0,,당연하잖소! 겐나이 씨 외에 대체 누가 조종하오!
 Dialogue: 0,0:13:27.41,0:13:32.40,Default,en,0,0,0,,It's obvious-{\i1}dasu{\i0}! Who'll pilot this, else than Mr. Gennai-{\i1}dasu{\i0}?
 Comment: 0,0:13:32.40,0:13:33.17,Default,ja,0,0,0,,さあ、早く。
@@ -538,7 +538,7 @@ Dialogue: 0,0:13:35.97,0:13:40.19,Default,en,0,0,0,,Er, no, I don't have courage
 Comment: 0,0:13:42.25,0:13:46.16,Default,ja,0,0,0,,まあ、なあ、そういう方法は中にマニュアルがあるから大丈夫だろう。
 Dialogue: 0,0:13:42.25,0:13:46.16,Default,ko,0,0,0,,뭐, 뭐, 조종 방법은 안에 사용 설명서가 있으니까 괜찮을 거야.
 Dialogue: 0,0:13:42.25,0:13:46.16,Default,en,0,0,0,,Well, there's a manual inside, so that you can learn how to operate!
-Comment: 0,0:13:46.37,0:13:49.09,Default,ja,0,0,0,,ったく、いい加減なんだすから。
+Comment: 0,0:13:46.37,0:13:49.09,Default,ja,0,0,0,,ったく、いい加減なんだスから。
 Dialogue: 0,0:13:46.37,0:13:49.09,Default,ko,0,0,0,,정말 지멋대로이오...
 Dialogue: 0,0:13:46.37,0:13:49.09,Default,en,0,0,0,,You're really irresponsible-{\i1}dasu{\i0}...
 Comment: 0,0:13:53.81,0:13:56.35,Default,ja,0,0,0,,しっかりたのんだわよ、みんな！
@@ -586,7 +586,7 @@ Dialogue: 0,0:14:51.01,0:14:52.31,Default,en,0,0,0,,Is it Megaton Castle-{\i1}da
 Comment: 0,0:14:52.31,0:14:54.42,Default,ja,0,0,0,,わからん。しかし、かなりでかいぞ。
 Dialogue: 0,0:14:52.31,0:14:54.42,Default,ko,0,0,0,,몰라. 그래도 꽤나 크다.
 Dialogue: 0,0:14:52.31,0:14:54.42,Default,en,0,0,0,,I don't know. But it's pretty big.
-Comment: 0,0:14:58.68,0:14:59.39,Default,ja,0,0,0,,あれだすな。
+Comment: 0,0:14:58.68,0:14:59.39,Default,ja,0,0,0,,あれだスな。
 Dialogue: 0,0:14:58.68,0:14:59.39,Default,ko,0,0,0,,저것이오.
 Dialogue: 0,0:14:58.68,0:14:59.39,Default,en,0,0,0,,That's it-{\i1}dasu{\i0}.
 Comment: 0,0:15:01.30,0:15:02.44,Default,ja,0,0,0,,うん？あれは！
@@ -747,7 +747,7 @@ Dialogue: 0,0:20:36.81,0:20:37.90,Default,en,0,0,0,,Stop-{\i1}dasu{\i0}!
 Comment: 0,0:20:46.28,0:20:47.79,Default,ja,0,0,0,,な、なんだ？！
 Dialogue: 0,0:20:46.28,0:20:47.79,Default,ko,0,0,0,,뭐, 뭐야!?
 Dialogue: 0,0:20:46.28,0:20:47.79,Default,en,0,0,0,,W- what's going on!?
-Comment: 0,0:20:57.08,0:21:02.07,Default,ja,0,0,0,,まってくれ！まつだす！メガトンジョー！
+Comment: 0,0:20:57.08,0:21:02.07,Default,ja,0,0,0,,まってくれ！まつだス！メガトンジョー！
 Dialogue: 0,0:20:57.08,0:20:58.20,Default,ko,0,0,0,,기다리시오!
 Dialogue: 0,0:20:59.31,0:21:02.07,Default,ko,0,0,0,,멈추시오, 메가톤성!
 Dialogue: 0,0:20:57.08,0:20:58.20,Default,en,0,0,0,,Wait-{\i1}dasu{\i0}!
@@ -767,10 +767,10 @@ Dialogue: 0,0:21:21.90,0:21:26.23,Default,en,0,0,0,,Still, it was so close. We w
 Comment: 0,0:21:26.54,0:21:28.92,Default,ja,0,0,0,,まあ、あれだけダメージを与えたのだから。
 Dialogue: 0,0:21:26.54,0:21:28.92,Default,ko,0,0,0,,뭐, 그만큼 피해를 주었으니.
 Dialogue: 0,0:21:26.54,0:21:28.92,Default,en,0,0,0,,Well, we gave a lot of damage.
-Comment: 0,0:21:29.39,0:21:33.27,Default,ja,0,0,0,,だけど、せっかく作ってもらった潜水艦おいてきちゃっただす。
+Comment: 0,0:21:29.39,0:21:33.27,Default,ja,0,0,0,,だけど、せっかく作ってもらった潜水艦おいてきちゃっただス。
 Dialogue: 0,0:21:29.39,0:21:33.27,Default,ko,0,0,0,,그래도 기껏 만들어 받은 잠수함을 잃어버렸소.
 Dialogue: 0,0:21:29.39,0:21:33.27,Default,en,0,0,0,,But, we lost the submarine that we just got-{\i1}dasu{\i0}...
-Comment: 0,0:21:40.86,0:21:45.86,Default,ja,0,0,0,,よかっただす。またオツルちゃんの水着姿見せなきゃならないとこだっただス。
+Comment: 0,0:21:40.86,0:21:45.86,Default,ja,0,0,0,,よかっただス。またオツルちゃんの水着姿見せなきゃならないとこだっただス。
 Dialogue: 0,0:21:40.86,0:21:45.86,Default,ko,0,0,0,,잘 됐소. 다시 오츠루의 수영복 차림을 보여야만 할 참이었소.
 Dialogue: 0,0:21:40.86,0:21:45.86,Default,en,0,0,0,,What a relief-{\i1}dasu{\i0}. Otsuru might had to show her swimsuit look again-{\i1}dasu{\i0}.
 Comment: 0,0:21:46.40,0:21:48.57,Default,ja,0,0,0,,でも、ちょびっと残念だったりして。
@@ -858,16 +858,16 @@ Dialogue: 0,0:23:38.32,0:23:42.33,SongED1,en,0,0,0,,Don't cry when you eat, or
 Comment: 0,0:23:42.33,0:23:44.96,SongED1,ja,0,0,0,,なんかやるせない
 Dialogue: 0,0:23:42.33,0:23:44.96,SongED1,ko,0,0,0,,왠지 안타까워
 Dialogue: 0,0:23:42.33,0:23:44.96,SongED1,en,0,0,0,,you'll feel downhearted
-Comment: 0,0:24:04.93,0:24:09.94,Default,ja,0,0,0,,おいらたちはゲンナイさんの潜水艦で海中を捜索し、敵の本拠地を探し出しただす。
+Comment: 0,0:24:04.93,0:24:09.94,Default,ja,0,0,0,,おいらたちはゲンナイさんの潜水艦で海中を捜索し、敵の本拠地を探し出しただス。
 Dialogue: 0,0:24:04.93,0:24:09.94,Default,ko,0,0,0,,우리는 겐나이 씨의 잠수함으로 바닷속을 탐색해, 적의 본거지를 찾아내었소.
 Dialogue: 0,0:24:04.93,0:24:09.94,Default,en,0,0,0,,Using Mr. Gennai's submarine, we found the base of the enemy in the deep sea-{\i1}dasu{\i0}.
-Comment: 0,0:24:10.30,0:24:14.32,Default,ja,0,0,0,,しかし、向こうの守りは厳しくて、なかなか近づくことはできないだす。
+Comment: 0,0:24:10.30,0:24:14.32,Default,ja,0,0,0,,しかし、向こうの守りは厳しくて、なかなか近づくことはできないだス。
 Dialogue: 0,0:24:10.30,0:24:14.32,Default,ko,0,0,0,,그러나 그쪽의 방어는 엄해서 가까이 다가가기가 꽤나 어렵소.
 Dialogue: 0,0:24:10.30,0:24:14.32,Default,en,0,0,0,,But because their defenses are strict, it's difficult to approach-{\i1}dasu{\i0}.
 Comment: 0,0:24:14.54,0:24:18.27,Default,ja,0,0,0,,そこでコジローが考えたのがぬいぐるみで変装してきという作戦！
 Dialogue: 0,0:24:14.54,0:24:18.27,Default,ko,0,0,0,,거기서 코지로가 생각해낸 게 봉제인형으로 변장한다는 작전!
 Dialogue: 0,0:24:14.54,0:24:18.27,Default,en,0,0,0,,And there, Kojirō suggested a plan to disguise using stuffed toy!
-Comment: 0,0:24:18.62,0:24:21.37,Default,ja,0,0,0,,しかし、本当にこんなのでうまく行くんだすかね。
+Comment: 0,0:24:18.62,0:24:21.37,Default,ja,0,0,0,,しかし、本当にこんなのでうまく行くんだスかね。
 Dialogue: 0,0:24:18.62,0:24:21.37,Default,ko,0,0,0,,그러나 정말 이런 걸로 잘 될지 모르겠소.
 Dialogue: 0,0:24:18.62,0:24:21.37,Default,en,0,0,0,,But, I'm not sure about this-{\i1}dasu{\i0}...
 Comment: 0,0:24:21.72,0:24:24.41,Default,ja,0,0,0,,次回！大笑い　タコおどり作戦だス

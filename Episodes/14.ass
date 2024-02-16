@@ -279,7 +279,7 @@ Dialogue: 0,0:07:52.59,0:07:53.14,Default,ref,0,0,0,01!L1828,うん。
 Dialogue: 0,0:07:53.28,0:07:55.76,Default,ref,0,0,0,01!L1829,ムサシが逃げたぞ！
 Comment: 0,0:07:56.30,0:07:57.99,Default,ja,0,0,0,,-さあ、ムサシさん、早く！\N-うん。
 Dialogue: 0,0:07:56.30,0:07:57.99,Default,ko,0,0,0,,-자, 무사시 씨, 빨리!\N-알겠소.
-Dialogue: 0,0:07:56.30,0:07:57.99,Default,en,0,0,0,,-Hurry up, Mr. Musashi!\N-Right!
+Dialogue: 0,0:07:56.30,0:07:57.99,Default,en,0,0,0,,-Hurry up, Musashi!\N-Right!
 Dialogue: 0,0:07:58.77,0:08:00.67,Default,ref,0,0,0,01!L1834,きっと、ゆめをかなえてね。
 Dialogue: 0,0:08:01.44,0:08:05.87,Default,ref,0,0,0,01!L1836,ありがとう、おいら、きっと、ジパングナンバーワンの武芸者になってみせるだス！
 Dialogue: 0,0:08:06.98,0:08:08.94,Default,ref,0,0,0,01!L1842,お、オツルちゃん、あ、あの、
@@ -298,7 +298,7 @@ Dialogue: 0,0:08:34.31,0:08:35.63,Default,en,0,0,0,,So, Musashi...
 Comment: 0,0:08:36.00,0:08:40.81,Default,ja,0,0,0,,オツルさんはお前がジパングナンバーワンになるのでずっと独身で待っているのか
 Dialogue: 0,0:08:36.00,0:08:40.81,Default,ko,0,0,0,,오츠루, 네가 지팡구 제일이 될 때까지 쭉 독신이 되는 거야?
 Dialogue: 0,0:08:36.00,0:08:40.81,Default,en,0,0,0,,Will Otsuru remain as a bachelorette until you become the best of Jipangu?
-Comment: 0,0:08:41.04,0:08:43.25,Default,ja,0,0,0,,そ、そういうことになるだすな。
+Comment: 0,0:08:41.04,0:08:43.25,Default,ja,0,0,0,,そ、そういうことになるだスな。
 Dialogue: 0,0:08:41.04,0:08:43.25,Default,ko,0,0,0,,그, 그렇게 되는 것이겠소.
 Dialogue: 0,0:08:41.04,0:08:43.25,Default,en,0,0,0,,I... I guess so-{\i1}dasu{\i0}.
 Comment: 0,0:08:43.44,0:08:47.06,Default,ja,0,0,0,,かわいそうオツルさん。そのまま、お婆ちゃんになっちゃったりして。
@@ -322,7 +322,7 @@ Dialogue: 0,0:09:01.16,0:09:01.92,Default,en,0,0,0,,Right.
 Comment: 0,0:09:03.44,0:09:09.23,Default,ja,0,0,0,,先ほどまで降っていた雪は暖冬のためにあっという間に止んでしまった。
 Dialogue: 0,0:09:03.44,0:09:09.23,Default,ko,0,0,0,,조금 전만 해도 내리던 눈은 평년보다 따뜻한 겨울 때문에 어느새 그쳤다.
 Dialogue: 0,0:09:03.44,0:09:09.23,Default,en,0,0,0,,Thanks to the winter warmer than the usual, the snow has stopped before they knew it.
-Comment: 0,0:09:11.16,0:09:13.36,Default,ja,0,0,0,,宮本村のムサシでござるだす。
+Comment: 0,0:09:11.16,0:09:13.36,Default,ja,0,0,0,,宮本村のムサシでござるだス。
 Dialogue: 0,0:09:11.16,0:09:13.36,Default,ko,0,0,0,,미야모토 마을의 무사시이오!
 Dialogue: 0,0:09:11.16,0:09:13.36,Default,en,0,0,0,,I'm Musashi from Miyamoto village-{\i1}dasu{\i0}!
 Comment: 0,0:09:13.52,0:09:16.04,Default,ja,0,0,0,,ジュウベエどのにお目に掛かるだス！
@@ -544,7 +544,7 @@ Dialogue: 0,0:19:26.27,0:19:28.48,Default,en,0,0,0,L1926,It's impossible with on
 Comment: 0,0:19:28.76,0:19:30.22,Default,ja,0,0,0,L1928,では二本ならどうです。
 Dialogue: 0,0:19:28.76,0:19:30.22,Default,ko,0,0,0,L1928,그럼 둘이라면 어떻습니까.
 Dialogue: 0,0:19:28.76,0:19:30.22,Default,en,0,0,0,L1928,Then, how is it using two?
-Comment: 0,0:19:32.15,0:19:33.69,Default,ja,0,0,0,L1932,これなら楽々だす。
+Comment: 0,0:19:32.15,0:19:33.69,Default,ja,0,0,0,L1932,これなら楽々だス。
 Dialogue: 0,0:19:32.15,0:19:33.69,Default,ko,0,0,0,L1932,이거라면 쉽소.
 Dialogue: 0,0:19:32.15,0:19:33.69,Default,en,0,0,0,L1932,This is easy-{\i1}dasu{\i0}.
 Comment: 0,0:19:36.62,0:19:37.86,Default,ja,0,0,0,L1936,そういうわけです
@@ -655,7 +655,7 @@ Dialogue: 0,0:24:16.70,0:24:20.24,Default,en,0,0,0,,The name of that guy is Jira
 Comment: 0,0:24:20.82,0:24:23.72,Default,ja,0,0,0,,次回！大ガマ妖術ジライヤンだス
 Dialogue: 0,0:24:20.82,0:24:23.72,Default,ko,0,0,0,,다음 이야기! 거대 두꺼비 요술 지라이얀이오!
 Dialogue: 0,0:24:20.82,0:24:23.72,Default,en,0,0,0,,Next story! Giant Toad Magic, Jiraiyan-{\i1}dasu{\i0}!
-Comment: 0,0:24:23.92,0:24:26.19,Default,ja,0,0,0,,疾風怒濤の旅立ちだす！
+Comment: 0,0:24:23.92,0:24:26.19,Default,ja,0,0,0,,疾風怒濤の旅立ちだス！
 Dialogue: 0,0:24:23.92,0:24:26.19,Default,ko,0,0,0,,질풍노도의 여행이오!
 Dialogue: 0,0:24:23.92,0:24:26.19,Default,en,0,0,0,,It'll be a stormy journey-{\i1}dasu{\i0}!
 Comment: 0,0:24:26.19,0:24:30.15,TitleEP,ja,0,0,70,,大ガマ妖術ジライヤンだス

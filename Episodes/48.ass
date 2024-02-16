@@ -134,7 +134,7 @@ Dialogue: 0,0:03:59.30,0:04:04.18,Default,en,0,0,0,,You moron! The opponent is f
 Comment: 0,0:04:04.54,0:04:07.24,Default,ja,0,0,0,,そりゃそうだスが、行かにゃ（には）ならんだすに！
 Dialogue: 0,0:04:04.54,0:04:07.24,Default,ko,0,0,0,,그건 그렇지만, 안 가면 안 되오!
 Dialogue: 0,0:04:04.54,0:04:07.24,Default,en,0,0,0,,That's true-dasu, but we have to go-dasu!
-Comment: 0,0:04:11.95,0:04:13.59,Default,ja,0,0,0,,不気味な爺さんだすな。
+Comment: 0,0:04:11.95,0:04:13.59,Default,ja,0,0,0,,不気味な爺さんだスな。
 Dialogue: 0,0:04:11.95,0:04:13.59,Default,ko,0,0,0,,기분 나쁜 할배이오.
 Dialogue: 0,0:04:11.95,0:04:13.59,Default,en,0,0,0,,What an eerie geezer-{\i1}dasu{\i0}.
 Comment: 0,0:04:13.59,0:04:17.31,Default,ja,0,0,0,,いや、そうかと思ってとっておきなものを用意しておいたわ。
@@ -173,7 +173,7 @@ Dialogue: 0,0:04:54.17,0:04:56.89,Default,en,0,0,0,,But, what vehicle can we put
 Comment: 0,0:04:58.66,0:04:59.36,Default,ja,0,0,0,,ほれ！
 Dialogue: 0,0:04:58.66,0:04:59.36,Default,ko,0,0,0,,자!
 Dialogue: 0,0:04:58.66,0:04:59.36,Default,en,0,0,0,,Look!
-Comment: 0,0:05:11.97,0:05:14.06,Default,ja,0,0,0,,さすがゲンナイ三だすな！
+Comment: 0,0:05:11.97,0:05:14.06,Default,ja,0,0,0,,さすがゲンナイ三だスな！
 Dialogue: 0,0:05:11.97,0:05:14.06,Default,ko,0,0,0,,역시 겐나이 씨이오!
 Dialogue: 0,0:05:11.97,0:05:14.06,Default,en,0,0,0,,Mr. Gennai, you're awesome-{\i1}dasu{\i0}!
 Comment: 0,0:05:15.69,0:05:22.79,Default,ja,0,0,0,,日ごろ波乗りをやっておってな波の力を借りずに海面を滑ることができないかって、頭を巡らしておったんじゃよ
@@ -197,7 +197,7 @@ Dialogue: 0,0:05:37.60,0:05:40.56,Default,en,0,0,0,,Anyway, Jiraiyan looks happy
 Comment: 0,0:05:47.08,0:05:48.29,Default,ja,0,0,0,,いけいけ！
 Dialogue: 0,0:05:47.08,0:05:48.29,Default,ko,0,0,0,,가라가라!
 Dialogue: 0,0:05:47.08,0:05:48.29,Default,en,0,0,0,,Go, go!
-Comment: 0,0:05:48.51,0:05:50.44,Default,ja,0,0,0,,あいつ、平和だすな。
+Comment: 0,0:05:48.51,0:05:50.44,Default,ja,0,0,0,,あいつ、平和だスな。
 Dialogue: 0,0:05:48.51,0:05:50.44,Default,ko,0,0,0,,쟤, 평화롭소.
 Dialogue: 0,0:05:48.51,0:05:50.44,Default,en,0,0,0,,He's so pecaeful-{\i1}dasu{\i0}.
 Comment: 0,0:05:50.89,0:05:54.59,Default,ja,0,0,0,,それより、追い詰められたノブナガ達が、何をするかわからん。
@@ -293,7 +293,7 @@ Dialogue: 0,0:08:40.65,0:08:43.10,Default,en,0,0,0,,Lord! There's Mr. Jūbee and
 Comment: 0,0:08:43.10,0:08:44.50,Default,ja,0,0,0,,おう！そうか。
 Dialogue: 0,0:08:43.10,0:08:44.50,Default,ko,0,0,0,,오, 그런가!
 Dialogue: 0,0:08:43.10,0:08:44.50,Default,en,0,0,0,,Oh, is that so!?
-Comment: 0,0:08:50.25,0:08:53.47,Default,ja,0,0,0,,こりゃ！メガトンジョー！なんてことするんだすか！
+Comment: 0,0:08:50.25,0:08:53.47,Default,ja,0,0,0,,こりゃ！メガトンジョー！なんてことするんだスか！
 Dialogue: 0,0:08:50.25,0:08:53.47,Default,ko,0,0,0,,메가톤성, 이자식! 무슨 짓이오!
 Dialogue: 0,0:08:50.25,0:08:53.47,Default,en,0,0,0,,Hey, Megaton Castle! What are you doing-{\i1}dasu{\i0}!?
 Comment: 0,0:09:08.24,0:09:12.95,Default,ja,0,0,0,,しぶといやつら目。ムサシどもをまずさっきに片づけるのだ！
@@ -426,7 +426,7 @@ Dialogue: 0,0:12:19.90,0:12:23.36,Default,en,0,0,0,,This way! Nobody panic! It'l
 Comment: 0,0:12:33.66,0:12:36.51,Default,ja,0,0,0,,こんなもんじゃ、砂漠に水～てるようなもんだぜ。
 Dialogue: 0,0:12:33.66,0:12:36.51,Default,ko,0,0,0,,이래서는 사막에 물 퍼붓는 것하고 다를 게 없어.
 Dialogue: 0,0:12:33.66,0:12:36.51,Default,en,0,0,0,,This is no different from pouring water on some desert.
-Comment: 0,0:12:37.11,0:12:39.27,Default,ja,0,0,0,,うわ！助けてくれだす！
+Comment: 0,0:12:37.11,0:12:39.27,Default,ja,0,0,0,,うわ！助けてくれだス！
 Dialogue: 0,0:12:37.11,0:12:39.27,Default,ko,0,0,0,,으악! 살려주시오!
 Dialogue: 0,0:12:37.11,0:12:39.27,Default,en,0,0,0,,Wah! Help us-{\i1}dasu{\i0}!
 Comment: 0,0:12:39.64,0:12:40.85,Default,ja,0,0,0,,どうした、ムサシ！
@@ -558,7 +558,7 @@ Dialogue: 0,0:15:32.77,0:15:34.80,Default,en,0,0,0,,It's up to you, Musashi!
 Comment: 0,0:15:40.45,0:15:45.36,Default,ja,0,0,0,,くそ！ノブナガ！かかってこい！このコジローが相手になってやる！
 Dialogue: 0,0:15:40.45,0:15:45.36,Default,ko,0,0,0,,젠장, 노부나가! 덤벼 봐라! 이 코지로가 상대해 주겠다!
 Dialogue: 0,0:15:40.45,0:15:45.36,Default,en,0,0,0,,Nobunaga, you bastard! Come out! I, Kojirō, will face you!
-Comment: 0,0:15:46.16,0:15:48.27,Default,ja,0,0,0,,コジロー、やけに荒れているだすな。
+Comment: 0,0:15:46.16,0:15:48.27,Default,ja,0,0,0,,コジロー、やけに荒れているだスな。
 Dialogue: 0,0:15:46.16,0:15:48.27,Default,ko,0,0,0,,코지로, 꽤나 거칠어졌소.
 Dialogue: 0,0:15:46.16,0:15:48.27,Default,en,0,0,0,,Kojirō seems to be in a pretty bad temper-{\i1}dasu{\i0}.
 Comment: 0,0:15:48.52,0:15:50.01,Default,ja,0,0,0,,気にしないことです。

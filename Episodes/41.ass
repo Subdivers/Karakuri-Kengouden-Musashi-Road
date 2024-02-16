@@ -169,7 +169,7 @@ Dialogue: 0,0:04:26.75,0:04:29.31,Note,en,0,0,0,,Edotopia Big Fire Recovery Cere
 Comment: 0,0:04:30.48,0:04:36.03,Default,ja,0,0,0,,ただいまから、第三回エドトピア大食い競争の会を開催いたします。
 Dialogue: 0,0:04:30.48,0:04:36.03,Default,ko,0,0,0,,지금부터 제 3회 에도토피아 대식 대회를 개최하겠습니다.
 Dialogue: 0,0:04:30.48,0:04:36.03,Default,en,0,0,0,,The 3rd Edotopia Eat-A-Lot Contest will begin soon.
-Comment: 0,0:04:36.03,0:04:38.11,Default,ja,0,0,0,,立派な料亭だすな。
+Comment: 0,0:04:36.03,0:04:38.11,Default,ja,0,0,0,,立派な料亭だスな。
 Dialogue: 0,0:04:36.03,0:04:38.11,Default,ko,0,0,0,,훌륭한 음식집이오.
 Dialogue: 0,0:04:36.03,0:04:38.11,Default,en,0,0,0,,What an excellent restaurant-{\i1}dasu{\i0}!
 Comment: 0,0:04:38.66,0:04:46.45,Default,ja,0,0,0,,八百善といえば、エドトピア一の店でありますからね。普段は、あっしらなん、減れる店じゃありませんぜ。
@@ -178,7 +178,7 @@ Dialogue: 0,0:04:38.66,0:04:46.45,Default,en,0,0,0,,Yaozen is the best restauran
 Comment: 0,0:04:47.19,0:04:49.01,Default,ja,0,0,0,,あたしも聞いたことあるわ。
 Dialogue: 0,0:04:47.19,0:04:49.01,Default,ko,0,0,0,,나도 들은 거 있어.
 Dialogue: 0,0:04:47.19,0:04:49.01,Default,en,0,0,0,,I've heard about this place, too.
-Comment: 0,0:04:50.33,0:04:51.10,Default,ja,0,0,0,,高いんだすか？
+Comment: 0,0:04:50.33,0:04:51.10,Default,ja,0,0,0,,高いんだスか？
 Dialogue: 0,0:04:50.33,0:04:51.10,Default,ko,0,0,0,,비싸오?
 Dialogue: 0,0:04:50.33,0:04:51.10,Default,en,0,0,0,,Is it expensive-{\i1}dasu{\i0}?
 Comment: 0,0:04:52.07,0:04:56.36,Default,ja,0,0,0,,高いの、高くないのって、茶漬け一杯、１００両もするんですぜ。
@@ -195,19 +195,19 @@ Dialogue: 0,0:05:02.05,0:05:09.75,Note,ko,0,0,0,,(덴엔초후: 도쿄에서 제
 Dialogue: 0,0:05:02.05,0:05:09.75,Note,en,0,0,0,,(Denenchōfu: The most expensive area to live in Tokyo)
 Dialogue: 0,0:05:02.05,0:05:09.75,Default,ko,0,0,0,,100량이나 있으면 우리 집 따위는 매일 밥 위에 꽁치하고 계란말이를 위에 올려서 덴엔초후에 집을 세울 수 있지!
 Dialogue: 0,0:05:02.05,0:05:09.75,Default,en,0,0,0,,With 100 ryos, I can have rice with a saury and rolled eggs on it every day, in a house at Denenchofu!
-Comment: 0,0:05:10.07,0:05:13.40,Default,ja,0,0,0,,お金は投げることいっぱい持ってるじゃないだすか。
+Comment: 0,0:05:10.07,0:05:13.40,Default,ja,0,0,0,,お金は投げることいっぱい持ってるじゃないだスか。
 Dialogue: 0,0:05:10.07,0:05:13.40,Default,ko,0,0,0,,돈을 던지는 걸 보면 잔뜩 있는 거잖소!
 Dialogue: 0,0:05:10.07,0:05:13.40,Default,en,0,0,0,,You have a plenty of money, since you throw them around-{\i1}dasu{\i0}!
 Comment: 0,0:05:13.78,0:05:21.82,Default,ja,0,0,0,,こりゃあしの商売道具ですぜ。最近じゃ節約、節約で、この投げ銭だって、あかねにブーブー言われているんですよ。
 Dialogue: 0,0:05:13.78,0:05:21.82,Default,ko,0,0,0,,그건 내 직업 도구니까요. 최근은 절약, 절약 해서, 이 던지는 돈조차도 아카네가 왱왱거리고 있어요.
 Dialogue: 0,0:05:13.78,0:05:21.82,Default,en,0,0,0,,Well, there are the tools for my job! But recently, even Akane is being noisy to me, saying save money, with my tossing coins!
-Comment: 0,0:05:22.09,0:05:25.84,Default,ja,0,0,0,,あかねさんが？そういう風には見えないだすが。
+Comment: 0,0:05:22.09,0:05:25.84,Default,ja,0,0,0,,あかねさんが？そういう風には見えないだスが。
 Dialogue: 0,0:05:22.09,0:05:25.84,Default,ko,0,0,0,,아카네 씨가? 그렇게는 안 보였소...
 Dialogue: 0,0:05:22.09,0:05:25.84,Default,en,0,0,0,,Ms. Akane does that? She didn't look like she would do that-{\i1}dasu{\i0}...
 Comment: 0,0:05:26.42,0:05:34.75,Default,ja,0,0,0,,いや、それもこれも今の借家住まいから抜け出して、一軒家を持ちたいってあかねが言うもんでね。あっしのかい性がないばっかりに。
 Dialogue: 0,0:05:26.42,0:05:34.75,Default,ko,0,0,0,,아니, 그것도 이것도 지금의 셋집살이에서 빠져나와서, 독채집을 가지고 싶다고 아카네가 말하니까요. 내가 변변치 못하니.
 Dialogue: 0,0:05:26.42,0:05:34.75,Default,en,0,0,0,,Akane says that she wants to stop living in a rented house and get a stand-alone house, but I'm so worthless.
-Comment: 0,0:05:35.20,0:05:36.36,Default,ja,0,0,0,,大変だすな。
+Comment: 0,0:05:35.20,0:05:36.36,Default,ja,0,0,0,,大変だスな。
 Dialogue: 0,0:05:35.20,0:05:36.36,Default,ko,0,0,0,,큰일이오.
 Dialogue: 0,0:05:35.20,0:05:36.36,Default,en,0,0,0,,That's problematic-{\i1}dasu{\i0}.
 Comment: 0,0:05:36.95,0:05:44.20,Default,ja,0,0,0,,ああ、昔が懐かしいや。悪党どもに思う存分投げ銭をぶっつけていたあの時代がよ。
@@ -222,7 +222,7 @@ Dialogue: 0,0:05:47.25,0:05:53.82,Default,en,0,0,0,,Rocks are inconvenient to wa
 Comment: 0,0:05:55.11,0:05:59.95,Default,ja,0,0,0,,ああ、あかねと所帯を持ってから、だいぶ女性ファンが減ったしな。
 Dialogue: 0,0:05:55.11,0:05:59.95,Default,ko,0,0,0,,아, 아카네하고 가정을 꾸렸더니 어지간히 여성 팬이 줄어들었고.
 Dialogue: 0,0:05:55.11,0:05:59.95,Default,en,0,0,0,,Ever since I made a home with Akane, women fans have been decreased significantly.
-Comment: 0,0:06:00.68,0:06:02.70,Default,ja,0,0,0,,そんなもててただすか。
+Comment: 0,0:06:00.68,0:06:02.70,Default,ja,0,0,0,,そんなもててただスか。
 Dialogue: 0,0:06:00.68,0:06:02.70,Default,ko,0,0,0,,그렇게 인기있었소?
 Dialogue: 0,0:06:00.68,0:06:02.70,Default,en,0,0,0,,You were that popular-{\i1}dasu{\i0}?
 Comment: 0,0:06:02.70,0:06:03.87,Default,ja,0,0,0,,そりゃもう！
@@ -281,7 +281,7 @@ Dialogue: 0,0:07:27.14,0:07:28.68,Default,en,0,0,0,,You are there.
 Comment: 0,0:07:28.68,0:07:32.63,Default,ja,0,0,0,,何やってんのよ、ムサシ！出かける時間は遠く過ぎてんのよ！
 Dialogue: 0,0:07:28.68,0:07:32.63,Default,ko,0,0,0,,뭘 하고 있냐, 무사시! 나갈 시간은 훨씬 지났어!
 Dialogue: 0,0:07:28.68,0:07:32.63,Default,en,0,0,0,,What are you doing, Musashi!? It's far past the time to leave!
-Comment: 0,0:07:32.63,0:07:36.51,Default,ja,0,0,0,,いや、ちょびっと送れるって、イエヤス様に伝言したんだす。
+Comment: 0,0:07:32.63,0:07:36.51,Default,ja,0,0,0,,いや、ちょびっと送れるって、イエヤス様に伝言したんだス。
 Dialogue: 0,0:07:32.63,0:07:36.51,Default,ko,0,0,0,,아니, 잠깐 늦는다고 이에야스 님께 말씀드렸소.
 Dialogue: 0,0:07:32.63,0:07:36.51,Default,en,0,0,0,,Well, I told Lord Ieyasu that I'll be late for a bit-{\i1}dasu{\i0}.
 Comment: 0,0:07:36.85,0:07:40.30,Default,ja,0,0,0,,何がちょびっとよ。こんなことで人待たせといて！
@@ -340,7 +340,7 @@ Dialogue: 0,0:08:38.44,0:08:40.02,Default,en,0,0,0,,Well said!
 Comment: 0,0:08:40.02,0:08:46.06,Default,ja,0,0,0,,いずれにせよ、江戸城を出てくれるとはわが作戦、もはや成功したも同然。
 Dialogue: 0,0:08:40.02,0:08:46.06,Default,ko,0,0,0,,어떻든, 에도 성에서 나오다니, 내 작전은 벌써 성공한 것과 마찬가지.
 Dialogue: 0,0:08:40.02,0:08:46.06,Default,en,0,0,0,,Anyway, since they're coming out from Edo Castle, my strategy has already succeeded.
-Comment: 0,0:08:46.78,0:08:50.54,Default,ja,0,0,0,,また旅姿で荷車引くってのは、なんか変だすな。
+Comment: 0,0:08:46.78,0:08:50.54,Default,ja,0,0,0,,また旅姿で荷車引くってのは、なんか変だスな。
 Dialogue: 0,0:08:46.78,0:08:50.54,Default,ko,0,0,0,,다시 나그네 차림으로 짐수레를 끌다니 왠지 이상하오.
 Dialogue: 0,0:08:46.78,0:08:50.54,Default,en,0,0,0,,Pulling the cart in travel kit again feels weird-{\i1}dasu{\i0}.
 Comment: 0,0:08:50.54,0:08:53.43,Default,ja,0,0,0,,ほかに用意できなかったんだからしょうがないだろう？
@@ -355,7 +355,7 @@ Dialogue: 0,0:08:58.89,0:09:04.22,Default,en,0,0,0,,Yessir. I will protect Senhi
 Comment: 0,0:09:04.22,0:09:04.92,Default,ja,0,0,0,,あ、そう？
 Dialogue: 0,0:09:04.22,0:09:04.92,Default,ko,0,0,0,,아, 그러셔?
 Dialogue: 0,0:09:04.22,0:09:04.92,Default,en,0,0,0,,Oh, yeah?
-Comment: 0,0:09:05.46,0:09:08.50,Default,ja,0,0,0,,ムサシさん！あっしも後で追いかけだすから。
+Comment: 0,0:09:05.46,0:09:08.50,Default,ja,0,0,0,,ムサシさん！あっしも後で追いかけだスから。
 Dialogue: 0,0:09:05.46,0:09:08.50,Default,ko,0,0,0,,무사시 씨! 나도 나중에 따라갈게요.
 Dialogue: 0,0:09:05.46,0:09:08.50,Default,en,0,0,0,,Mr. Musashi! I'll follow you later!
 Comment: 0,0:09:09.03,0:09:13.93,Default,ja,0,0,0,,はいだス！おいらがいるからには六道魔王なんか、物の数ではないだス！
@@ -515,7 +515,7 @@ Dialogue: 0,0:13:30.62,0:13:35.66,Default,en,0,0,0,,Don't you know Shingen, whom
 Comment: 0,0:13:36.00,0:13:37.15,Default,ja,0,0,0,,シンゲン？
 Dialogue: 0,0:13:36.00,0:13:37.15,Default,ko,0,0,0,,신겐?
 Dialogue: 0,0:13:36.00,0:13:37.15,Default,en,0,0,0,,Shingen?
-Comment: 0,0:13:37.15,0:13:40.07,Default,ja,0,0,0,,え？シンゲン？お中元なら知ってるだす。
+Comment: 0,0:13:37.15,0:13:40.07,Default,ja,0,0,0,,え？シンゲン？お中元なら知ってるだス。
 Dialogue: 0,0:13:37.15,0:13:40.07,Default,ko,0,0,0,,어? 신겐? 중원이라면 알고 있소.
 Dialogue: 0,0:13:37.15,0:13:40.07,Default,en,0,0,0,,What? Shingen? I know smidgen-{\i1}dasu{\i0}!
 Comment: 0,0:13:41.49,0:13:43.54,Default,ja,0,0,0,,貴様！ムサシだな！
@@ -612,7 +612,7 @@ Dialogue: 0,0:16:31.00,0:16:32.89,Default,en,0,0,0,,They're pretty delicious.
 Comment: 0,0:16:33.51,0:16:35.54,Default,ja,0,0,0,,お口にあって、ようござんした。
 Dialogue: 0,0:16:33.51,0:16:35.54,Default,ko,0,0,0,,입에 맞으니 다행이요.
 Dialogue: 0,0:16:33.51,0:16:35.54,Default,en,0,0,0,,Great to know that you like these.
-Comment: 0,0:16:35.81,0:16:38.91,Default,ja,0,0,0,,オツルちゃんの焼き団子はジパング一だす。
+Comment: 0,0:16:35.81,0:16:38.91,Default,ja,0,0,0,,オツルちゃんの焼き団子はジパング一だス。
 Dialogue: 0,0:16:35.81,0:16:38.91,Default,ko,0,0,0,,오츠루의 구운 단고는 지팡구 제일이오.
 Dialogue: 0,0:16:35.81,0:16:38.91,Default,en,0,0,0,,Otsuru's roasted dangos are the best of jipang-{\i1}dasu{\i0}.
 Comment: 0,0:16:39.82,0:16:42.65,Default,ja,0,0,0,,いや、なかなか本にうまい。
@@ -720,7 +720,7 @@ Dialogue: 0,0:19:20.55,0:19:23.83,Default,en,0,0,0,,That's it-{\i1}dasu{\i0}! We
 Comment: 0,0:19:24.03,0:19:26.87,Default,ja,0,0,0,,しかし、あの戦車には全員乗れないぜ。
 Dialogue: 0,0:19:24.03,0:19:26.87,Default,ko,0,0,0,,그래도 그 전차에 모두 탈 수 있는 건 아니야.
 Dialogue: 0,0:19:24.03,0:19:26.87,Default,en,0,0,0,,But it's not like everyone can get onto that tank.
-Comment: 0,0:19:27.10,0:19:30.25,Default,ja,0,0,0,,違うだス！おいらの考えを聞いてくれだす。]
+Comment: 0,0:19:27.10,0:19:30.25,Default,ja,0,0,0,,違うだス！おいらの考えを聞いてくれだス。]
 Dialogue: 0,0:19:27.10,0:19:30.25,Default,ko,0,0,0,,아니오! 내 생각을 들어 보시오!
 Dialogue: 0,0:19:27.10,0:19:30.25,Default,en,0,0,0,,No-{\i1}dasu{\i0}! Listen to my idea-{\i1}dasu{\i0}!
 Comment: 0,0:19:37.60,0:19:39.04,Default,ja,0,0,0,,シンゲン様！あれを！
@@ -744,7 +744,7 @@ Dialogue: 0,0:20:06.51,0:20:10.28,Default,en,0,0,0,,Yes, but I didn't think that
 Comment: 0,0:20:11.77,0:20:12.18,Default,ja,0,0,0,,うん？
 Dialogue: 0,0:20:11.77,0:20:12.18,Default,ko,0,0,0,,어?
 Dialogue: 0,0:20:11.77,0:20:12.18,Default,en,0,0,0,,Huh?
-Comment: 0,0:20:19.40,0:20:21.78,Default,ja,0,0,0,,おいらの作戦は成功したようだすな。
+Comment: 0,0:20:19.40,0:20:21.78,Default,ja,0,0,0,,おいらの作戦は成功したようだスな。
 Dialogue: 0,0:20:19.40,0:20:21.78,Default,ko,0,0,0,,보아하니 작전은 성공한 듯 하오.
 Dialogue: 0,0:20:19.40,0:20:21.78,Default,en,0,0,0,,It seems that our plan has worked-{\i1}dasu{\i0}.
 Comment: 0,0:20:22.06,0:20:22.90,Default,ja,0,0,0,,やったね！
@@ -774,13 +774,13 @@ Dialogue: 0,0:20:47.38,0:20:50.54,Default,en,0,0,0,,If I win, let us just go-{\i
 Comment: 0,0:20:50.88,0:20:51.90,Default,ja,0,0,0,,負けたら？
 Dialogue: 0,0:20:50.88,0:20:51.90,Default,ko,0,0,0,,지면?
 Dialogue: 0,0:20:50.88,0:20:51.90,Default,en,0,0,0,,What if you lose?
-Comment: 0,0:20:53.06,0:20:54.67,Default,ja,0,0,0,,負けはしないだす。
+Comment: 0,0:20:53.06,0:20:54.67,Default,ja,0,0,0,,負けはしないだス。
 Dialogue: 0,0:20:53.06,0:20:54.67,Default,ko,0,0,0,,지지는 않소.
 Dialogue: 0,0:20:53.06,0:20:54.67,Default,en,0,0,0,,We do not lose.
 Comment: 0,0:20:56.35,0:20:57.92,Default,ja,0,0,0,,抜け、ムサシ！
 Dialogue: 0,0:20:56.35,0:20:57.92,Default,ko,0,0,0,,칼 들어라, 무사시!
 Dialogue: 0,0:20:56.35,0:20:57.92,Default,en,0,0,0,,Grab your sword, Musashi!
-Comment: 0,0:20:58.23,0:21:00.14,Default,ja,0,0,0,,そこなくてはだす！
+Comment: 0,0:20:58.23,0:21:00.14,Default,ja,0,0,0,,そこなくてはだス！
 Dialogue: 0,0:20:58.23,0:21:00.14,Default,ko,0,0,0,,바라던 바이오!
 Dialogue: 0,0:20:58.23,0:21:00.14,Default,en,0,0,0,,I was just about to do that-{\i1}dasu{\i0}!
 Comment: 0,0:21:03.25,0:21:04.82,Default,ja,0,0,0,,できるな、ムサシ。

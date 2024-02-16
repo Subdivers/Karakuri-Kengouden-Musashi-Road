@@ -12,9 +12,9 @@ Video File: ../Videos/18.mp4
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 722
-Active Line: 751
-Video Position: 35265
+Scroll Position: 135
+Active Line: 171
+Video Position: 8571
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -137,7 +137,7 @@ Dialogue: 0,0:03:55.41,0:03:57.36,Default,en,0,0,0,,But I have to train my techn
 Comment: 0,0:03:58.09,0:04:04.20,Default,ja,0,0,0,,あたしの言うことが聞けないの？それだったら、おじいちゃんに頼んで、打ち首にしてもらうわよ！
 Dialogue: 0,0:03:58.09,0:04:04.20,Default,ko,0,0,0,,내 말이 안 들려? 그럼 할아버지한테 부탁해서 참수시켜버린다!
 Dialogue: 0,0:03:58.09,0:04:04.20,Default,en,0,0,0,,Can't you hear me? Then I'll ask my grandpa to decapitate you!
-Comment: 0,0:04:04.30,0:04:07.19,Default,ja,0,0,0,,そ、それは。。。わかっただす。
+Comment: 0,0:04:04.30,0:04:07.19,Default,ja,0,0,0,,そ、それは。。。わかっただス。
 Dialogue: 0,0:04:04.30,0:04:07.19,Default,ko,0,0,0,,그, 그건... 알겠소.
 Dialogue: 0,0:04:04.30,0:04:07.19,Default,en,0,0,0,,T- that's... All right-{\i1}dasu{\i0}.
 Comment: 0,0:04:07.54,0:04:08.84,Default,ja,0,0,0,,こりゃ、その方たち。
@@ -158,7 +158,7 @@ Dialogue: 0,0:04:21.36,0:04:22.89,Default,en,0,0,0,,What a handsome man!
 Comment: 0,0:04:24.38,0:04:25.80,Default,ja,0,0,0,,おせんちゃん、危ないだス！
 Dialogue: 0,0:04:24.38,0:04:25.80,Default,ko,0,0,0,,오센짱, 위험하오!
 Dialogue: 0,0:04:24.38,0:04:25.80,Default,en,0,0,0,,Osenchan, get back-{\i1}dasu{\i0}!
-Comment: 0,0:04:29.50,0:04:35.61,Default,ja,0,0,0,,いきなり切りかかるとは卑怯だす！こうなれば降りかかる火の粉は払うまででござるだス。
+Comment: 0,0:04:29.50,0:04:35.61,Default,ja,0,0,0,,いきなり切りかかるとは卑怯だス！こうなれば降りかかる火の粉は払うまででござるだス。
 Dialogue: 0,0:04:29.50,0:04:35.61,Default,ko,0,0,0,,갑자기 달려들다니 비겁하오! 이렇게 된 바 달려드는 불꽃은 전부 제거할 뿐이오.
 Dialogue: 0,0:04:29.50,0:04:35.61,Default,en,0,0,0,,It's cowardly to rush at me all of sudden-{\i1}dasu{\i0}! That leaves me no choice but to get rid of all those sparks jumping to me-{\i1}dasu{\i0}.
 Comment: 0,0:04:50.20,0:04:54.58,Default,ja,0,0,0,,泥棒しそのような{???}まきを持っていたとは、やはりゴエモンドの仲間だな。
@@ -200,9 +200,9 @@ Dialogue: 0,0:05:50.58,0:05:51.90,Default,en,0,0,0,,Let me settle this!
 Comment: 0,0:05:52.98,0:05:55.38,Default,ja,0,0,0,,{???}ひかい！びかい！
 Dialogue: 0,0:05:52.98,0:05:55.38,Default,ko,0,0,0,,그만하라!
 Dialogue: 0,0:05:52.98,0:05:55.38,Default,en,0,0,0,,Stop! Freeze!
-Comment: 0,0:05:57.69,0:06:07.74,Default,ja,0,0,0,,こちらにおわすあたしをどなたとこころえ。ジパングナンバーワンの関東を支配するゼネラルイエヤスの孫娘、センヒメであるとよう！
-Dialogue: 0,0:05:57.69,0:06:07.74,Default,ko,0,0,0,,여기 있는 내가 누군지 아느냐. 지팡구 넘버 원의 관동을 지배하는 제너럴 이에야스의 손녀, 센히메이다!
-Dialogue: 0,0:05:57.69,0:06:07.74,Default,en,0,0,0,,I am Senhime, the granddaughter of General Ieyasu, the ruler of Kantō, the number one of Jipangu!
+Comment: 0,0:05:57.69,0:06:07.74,Default,ja,0,0,0,,こちらにおわすあたしをどなたと心得る。ジパングナンバーワンの関東を支配するゼネラルイエヤスの孫娘、センヒメであるとよう！
+Dialogue: 0,0:05:57.69,0:06:07.74,Default,ko,0,0,0,,이 나를 누구라고 생각하는가. 지팡구 넘버 원의 관동을 지배하는 제너럴 이에야스의 손녀, 센히메이다!
+Dialogue: 0,0:05:57.69,0:06:07.74,Default,en,0,0,0,,Who do you think I am? I am Senhime, the granddaughter of General Ieyasu, the ruler of Kantō, the number one of Jipangu!
 Comment: 0,0:06:10.37,0:06:13.50,Default,ja,0,0,0,,えい！すがたかい！ひかえおろ！
 Dialogue: 0,0:06:10.37,0:06:13.50,Default,ko,0,0,0,,에이! 건방지다! 허리를 숙여라!
 Dialogue: 0,0:06:10.37,0:06:13.50,Default,en,0,0,0,,You are being impudent! Lower your heads!
@@ -260,7 +260,7 @@ Dialogue: 0,0:07:35.24,0:07:37.68,Default,en,0,0,0,,I can't let a pretty man cry
 Comment: 0,0:07:38.15,0:07:42.94,Default,ja,0,0,0,,-ムサシ！コジロー！ゴエモンドを捕まえるのに協力してあげて！\N-うん。
 Dialogue: 0,0:07:38.15,0:07:42.94,Default,ko,0,0,0,,-무사시! 코지로! 고에몬도를 잡는 걸 도와!\N-예.
 Dialogue: 0,0:07:38.15,0:07:42.94,Default,en,0,0,0,,-Musashi! Kojirō! Help them get Goemondo!\N-Alright.
-Comment: 0,0:07:57.69,0:08:02.56,Default,ja,0,0,0,,これだけの人数で守ってればいくら大泥棒といっても盗むのは無理なんだすな。
+Comment: 0,0:07:57.69,0:08:02.56,Default,ja,0,0,0,,これだけの人数で守ってればいくら大泥棒といっても盗むのは無理なんだスな。
 Dialogue: 0,0:07:57.69,0:08:02.56,Default,ko,0,0,0,,이렇게나 많은 사람이 지키고 있으면 아무리 대도둑이라고 해도 훔치는 건 무리겠소.
 Dialogue: 0,0:07:57.69,0:08:02.56,Default,en,0,0,0,,So many people are standing guard! Not even a grand thief will manage to steal these-{\i1}dasu{\i0}.
 Comment: 0,0:08:02.72,0:08:05.42,Default,ja,0,0,0,,しかし、ねねんにはねんをいれるよのことわざもある。
@@ -319,7 +319,7 @@ Dialogue: 0,0:09:06.25,0:09:09.10,Default,ko,0,0,0,,그렇군요. 가짜를 만�
 Dialogue: 0,0:09:06.25,0:09:09.10,Default,en,0,0,0,,I see. You were making substitutes.
 Comment: 0,0:09:09.52,0:09:12.13,Default,ja,0,0,0,,さすがわ、俊之助殿。察しがよろしい。
 Dialogue: 0,0:09:09.52,0:09:12.13,Default,ko,0,0,0,,역시 슌노스케 님. 통찰이 빠르시군요.
-Dialogue: 0,0:09:09.52,0:09:12.13,Default,en,0,0,0,,Mr. Shunnosuke, you have a good insight.
+Dialogue: 0,0:09:09.52,0:09:12.13,Default,en,0,0,0,,Shunnosuke, you have a good insight.
 Comment: 0,0:09:13.64,0:09:16.64,Default,ja,0,0,0,,美男子、頭の回転もいいのね！
 Dialogue: 0,0:09:13.64,0:09:16.64,Default,ko,0,0,0,,미남자, 머리도 잘 돌아가네!
 Dialogue: 0,0:09:13.64,0:09:16.64,Default,en,0,0,0,,You're one pretty man with a good brain!
@@ -407,7 +407,7 @@ Dialogue: 0,0:11:34.94,0:11:39.29,Default,en,0,0,0,,As I promised, I'm taking th
 Comment: 0,0:11:40.96,0:11:42.28,Default,ja,0,0,0,,待でござるだス！
 Dialogue: 0,0:11:40.96,0:11:42.28,Default,ko,0,0,0,,멈추시오!
 Dialogue: 0,0:11:40.96,0:11:42.28,Default,en,0,0,0,,Stop right there-{\i1}dasu{\i0}!
-Comment: 0,0:11:46.32,0:11:47.75,Default,ja,0,0,0,,はは、うまくいっただす。
+Comment: 0,0:11:46.32,0:11:47.75,Default,ja,0,0,0,,はは、うまくいっただス。
 Dialogue: 0,0:11:46.32,0:11:47.75,Default,ko,0,0,0,,잘 됐소.
 Dialogue: 0,0:11:46.32,0:11:47.75,Default,en,0,0,0,,This worked well-{\i1}dasu{\i0}.
 Comment: 0,0:11:49.24,0:11:54.08,Default,ja,0,0,0,,放っていていいのか、ムサシ！疾風怒濤のご飯をまって！
@@ -657,7 +657,7 @@ Dialogue: 0,0:19:38.02,0:19:41.98,Default,en,0,0,0,,If you get stung with that p
 Comment: 0,0:19:47.40,0:19:49.80,Default,ja,0,0,0,,{\i1}このままで、やられてしまうだス！
 Dialogue: 0,0:19:47.40,0:19:49.80,Default,ko,0,0,0,,{\i1}이대로는 당하고 마오!
 Dialogue: 0,0:19:47.40,0:19:49.80,Default,en,0,0,0,,{\i1}At this rate, I'll be done for-{\i1}dasu{\i0}!
-Comment: 0,0:20:03.60,0:20:06.18,Default,ja,0,0,0,,{\i1}えい、おいら二刀流でござるだす！
+Comment: 0,0:20:03.60,0:20:06.18,Default,ja,0,0,0,,{\i1}えい、おいら二刀流でござるだス！
 Dialogue: 0,0:20:03.60,0:20:06.18,Default,ko,0,0,0,,{\i1}에잇, 난 이도류이오!
 Dialogue: 0,0:20:03.60,0:20:06.18,Default,en,0,0,0,,{\i1}I use dual blades-{\i1}dasu{\i0}!
 Comment: 0,0:20:15.24,0:20:17.54,Default,ja,0,0,0,,おいら、二刀流を開眼しただス。
@@ -772,7 +772,7 @@ Dialogue: 0,0:24:14.73,0:24:18.94,Default,en,0,0,0,,We join to get rid of that N
 Comment: 0,0:24:19.52,0:24:22.62,Default,ja,0,0,0,,次回！ヌエの鳴く夜はこわいだス
 Dialogue: 0,0:24:19.52,0:24:22.62,Default,ko,0,0,0,,다음 이야기! 누에가 우는 밤은 무섭소
 Dialogue: 0,0:24:19.52,0:24:22.62,Default,en,0,0,0,,Next story! The Night that Nue Cries is Scary-{\i1}dasu{\i0}.
-Comment: 0,0:24:22.76,0:24:26.30,Default,ja,0,0,0,,疾風怒濤の友情のかわだす！
+Comment: 0,0:24:22.76,0:24:26.30,Default,ja,0,0,0,,疾風怒濤の友情のかわだス！
 Dialogue: 0,0:24:22.76,0:24:26.30,Default,ko,0,0,0,,질풍노도의 우정파워이오!
 Dialogue: 0,0:24:22.76,0:24:26.30,Default,en,0,0,0,,It's the stormy power of friendship-{\i1}dasu{\i0}!
 Comment: 0,0:24:27.09,0:24:31.09,TitleEP,ja,0,0,100,,ヌエの鳴く世はこわいだス

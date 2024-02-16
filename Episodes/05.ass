@@ -160,7 +160,7 @@ Dialogue: 0,0:04:17.56,0:04:18.98,Default,ko,0,0,0,,좋다. 지금 가겠다.
 Dialogue: 0,0:04:17.56,0:04:18.98,Default,en,0,0,0,,Good. I'll go right now.
 Comment: 0,0:04:24.76,0:04:32.38,Default,ja,0,0,0,,この人物、剣持コテツこそ、ジパング国の長い戦国時代の歴史上有名な刀鍛冶である。
 Dialogue: 0,0:04:24.76,0:04:32.38,Default,ko,0,0,0,,이 인물, 켄모치 코테츠야말로, 지팡구국의 기나긴 전국 시대의 역사적으로 유명한 칼 장인이다.
-Dialogue: 0,0:04:24.76,0:04:32.38,Default,en,0,0,0,,This person, Kotetsu Kenmochi, is a historically famous sword craftsman of the long Sengoku period of Jipangu State.
+Dialogue: 0,0:04:24.76,0:04:32.38,Default,en,0,0,0,,This person, Kenmochi Kotetsu, is a historically famous sword craftsman of the long Sengoku period of Jipangu State.
 Dialogue: 0,0:04:32.38,0:04:34.42,NoteOnAnime,ko,0,0,0,,{\an8\frz26\fs32\fad(0,300)\pos(337,242)\c&H8989FF&}코테츠 작
 Dialogue: 0,0:04:32.38,0:04:34.42,NoteOnAnime,en,0,0,0,,{\an8\frz26\fs32\fad(0,300)\pos(337,242)\c&H8989FF&}Made by Kotetsu
 Comment: 0,0:04:33.14,0:04:40.38,Default,ja,0,0,0,,彼の作った刀は、コテツと呼ばれ、剣の道を究めたものだけが手にすることができたと言われる。
@@ -171,7 +171,7 @@ Dialogue: 0,0:04:46.74,0:04:51.25,Default,ko,0,0,0,,나는 요시오카 도장�
 Dialogue: 0,0:04:46.74,0:04:51.25,Default,en,0,0,0,,I am Denshichirō Yoshioka, a substitute instructor at Yoshioka Dōjō.
 Comment: 0,0:04:51.85,0:04:53.44,Default,ja,0,0,0,,剣持コテツです。
 Dialogue: 0,0:04:51.85,0:04:53.44,Default,ko,0,0,0,,켄모치 코테츠이오.
-Dialogue: 0,0:04:51.85,0:04:53.44,Default,en,0,0,0,,Kotetsu Kenmochi.
+Dialogue: 0,0:04:51.85,0:04:53.44,Default,en,0,0,0,,Kenmochi Kotetsu.
 Comment: 0,0:04:53.58,0:04:57.37,Default,ja,0,0,0,,早速だが、拙者に名刀コテツを作ってもらいたい。
 Dialogue: 0,0:04:53.58,0:04:57.37,Default,ko,0,0,0,,본론부터 말하자면, 내게 명도 코테츠를 만들어 주셨으면 한다.
 Dialogue: 0,0:04:53.58,0:04:57.37,Default,en,0,0,0,,Long story short, I'd like to ask you to make your excellent sword Kotetsu.
@@ -183,7 +183,7 @@ Dialogue: 0,0:05:01.43,0:05:05.90,Default,ko,0,0,0,,뭐라?! 이 요시오카 �
 Dialogue: 0,0:05:01.43,0:05:05.90,Default,en,0,0,0,,What?! You dare to reject the request from the substitute instructor at Yoshioka Dōjō?
 Comment: 0,0:05:07.78,0:05:14.18,Default,ja,0,0,0,,おぬし、まさか、ジパング国に名高いヨシオカデンシチロー様を知らないのではなかろうな。
 Dialogue: 0,0:05:07.78,0:05:14.18,Default,ko,0,0,0,,너, 설마 지팡구국에 이름을 떨치는 요시오카 덴시치로 님을 모르는 것인가?
-Dialogue: 0,0:05:07.78,0:05:14.18,Default,en,0,0,0,,Don't you know Denshichirō Yoshioka, a name famous all over Jipangu State?
+Dialogue: 0,0:05:07.78,0:05:14.18,Default,en,0,0,0,,Don't you know Yoshioka Denshichirō, a name famous all over Jipangu State?
 Comment: 0,0:05:14.54,0:05:15.65,Default,ja,0,0,0,,存じておる。
 Dialogue: 0,0:05:14.54,0:05:15.65,Default,ko,0,0,0,,이름은 안다.
 Dialogue: 0,0:05:14.54,0:05:15.65,Default,en,0,0,0,,I do know.
@@ -562,7 +562,7 @@ Dialogue: 0,0:14:19.94,0:14:20.73,Default,ko,0,0,0,,아빠?
 Dialogue: 0,0:14:19.94,0:14:20.73,Default,en,0,0,0,,Dad?
 Comment: 0,0:14:21.27,0:14:24.75,Default,ja,0,0,0,,ジパング一の刀鍛冶、剣持コテツっていうんだ！
 Dialogue: 0,0:14:21.27,0:14:24.75,Default,ko,0,0,0,,지팡구 제일의 칼 장인, 켄모치 코테츠라고 해!
-Dialogue: 0,0:14:21.27,0:14:24.75,Default,en,0,0,0,,The number one sword craftsman of Jipangu, Kotetsu Kenmochi!
+Dialogue: 0,0:14:21.27,0:14:24.75,Default,en,0,0,0,,The number one sword craftsman of Jipangu, Kenmochi Kotetsu!
 Comment: 0,0:14:25.13,0:14:26.89,Default,ja,0,0,0,,僕はその子供のコタロー！
 Dialogue: 0,0:14:25.13,0:14:26.89,Default,ko,0,0,0,,난 그 자식 코타로!
 Dialogue: 0,0:14:25.13,0:14:26.89,Default,en,0,0,0,,I am his son, Kotarō!
@@ -880,7 +880,7 @@ Dialogue: 0,0:23:22.55,0:23:26.80,SongED1,ref,0,0,0,ED1!Lyric10,しっぽを振�
 Dialogue: 0,0:23:28.22,0:23:37.73,SongED1,ref,0,0,0,ED1!Lyric11,てなもんだ　のーてんきに行こう
 Dialogue: 0,0:23:38.23,0:23:46.19,SongED1,ref,0,0,0,ED1!Lyric12,未来も　てなもんさ　あしたが　ほら
 Dialogue: 0,0:23:46.44,0:23:52.03,SongED1,ref,0,0,0,ED1!Lyric13,両手ひろげて　笑ってるぜ
-Comment: 0,0:24:05.98,0:24:08.25,Default,ja,0,0,0,,師匠。言い響きだすな。
+Comment: 0,0:24:05.98,0:24:08.25,Default,ja,0,0,0,,師匠。言い響きだスな。
 Dialogue: 0,0:24:05.98,0:24:08.25,Default,ko,0,0,0,,스승, 좋은 울림을 가진 단어이오.
 Dialogue: 0,0:24:05.98,0:24:08.25,Default,en,0,0,0,,Master. A word with good echo-{\i1}dasu{\i0}.
 Comment: 0,0:24:08.52,0:24:10.87,Default,ja,0,0,0,,ついにおいらも弟子を持つようになっただス。

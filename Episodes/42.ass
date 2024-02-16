@@ -144,13 +144,13 @@ Dialogue: 0,0:03:49.02,0:03:50.38,Default,en,0,0,0,,What is it-dasu?
 Comment: 0,0:03:50.38,0:03:51.77,Default,ja,0,0,0,,なんの話かな？
 Dialogue: 0,0:03:50.38,0:03:51.77,Default,ko,0,0,0,,뭔 이야기일까?
 Dialogue: 0,0:03:50.38,0:03:51.77,Default,en,0,0,0,,I wonder what're they talking about.
-Comment: 0,0:03:52.96,0:03:56.52,Default,ja,0,0,0,,あ？今からメガトンジョーを追うでござるだすか？
+Comment: 0,0:03:52.96,0:03:56.52,Default,ja,0,0,0,,あ？今からメガトンジョーを追うでござるだスか？
 Dialogue: 0,0:03:52.96,0:03:56.52,Default,ko,0,0,0,,어? 지금부터 메가손을 쫒소?
 Dialogue: 0,0:03:52.96,0:03:56.52,Default,en,0,0,0,,What? We're chasing Megaton Castle from now on-dasu?
 Comment: 0,0:03:56.66,0:04:02.41,Default,ja,0,0,0,,そう。国王殿下のために縦と勾玉を一日も早く取り戻してあげたいの。
 Dialogue: 0,0:03:56.66,0:04:02.41,Default,ko,0,0,0,,그래. 국왕 전하를 위해 방패와 곡옥을 하루라도 빨리 되찾아 드리고 싶어.
 Dialogue: 0,0:03:56.66,0:04:02.41,Default,en,0,0,0,,Yes. I want to recover the shield and the jewel for the Highness as soon as possible.
-Comment: 0,0:04:02.63,0:04:06.95,Default,ja,0,0,0,,おいら、だめだス。六時にオツルちゃんと会う約束があるんだす。明日にしよう。
+Comment: 0,0:04:02.63,0:04:06.95,Default,ja,0,0,0,,おいら、だめだス。六時にオツルちゃんと会う約束があるんだス。明日にしよう。
 Dialogue: 0,0:04:02.63,0:04:06.95,Default,ko,0,0,0,,나, 안 되오. 6시에 오츠루하고 만나기로 약속했소. 내일 하오.
 Dialogue: 0,0:04:02.63,0:04:06.95,Default,en,0,0,0,,I can't-dasu. I promised to meet Otsuru in 6 o'clock-dasu. Let's do that tomorrow-dasu.
 Comment: 0,0:04:06.95,0:04:08.46,Default,ja,0,0,0,,今すぐ行くの！
@@ -243,7 +243,7 @@ Dialogue: 0,0:05:28.68,0:05:29.45,Default,en,0,0,0,,Princess!
 Comment: 0,0:05:32.23,0:05:34.19,Default,ja,0,0,0,,ムサシ殿！こっちぜよ！
 Dialogue: 0,0:05:32.23,0:05:34.19,Default,ko,0,0,0,,무사시 님, 여기야!
 Dialogue: 0,0:05:32.23,0:05:34.19,Default,en,0,0,0,,Mr. Musashi! This way!
-Comment: 0,0:05:35.77,0:05:38.04,Default,ja,0,0,0,,リョウマさん！知らせてくれてありがとうだす！
+Comment: 0,0:05:35.77,0:05:38.04,Default,ja,0,0,0,,リョウマさん！知らせてくれてありがとうだス！
 Dialogue: 0,0:05:35.77,0:05:38.04,Default,ko,0,0,0,,료마 씨! 알려 주셔서 고맙소!
 Dialogue: 0,0:05:35.77,0:05:38.04,Default,en,0,0,0,,Mr. Ryoma! Thank you for letting us know-dasu!
 Comment: 0,0:05:38.31,0:05:40.25,Default,ja,0,0,0,,役に立ってよかったぜよ。
@@ -339,7 +339,7 @@ Dialogue: 0,0:07:43.78,0:07:46.16,Default,en,0,0,0,,Turn big to left! Evade!
 Comment: 0,0:07:58.90,0:07:59.70,Default,ja,0,0,0,,くそ！
 Dialogue: 0,0:07:58.90,0:07:59.70,Default,ko,0,0,0,,젠장!
 Dialogue: 0,0:07:58.90,0:07:59.70,Default,en,0,0,0,,Damn!
-Comment: 0,0:08:03.67,0:08:05.45,Default,ja,0,0,0,,やられるだす！
+Comment: 0,0:08:03.67,0:08:05.45,Default,ja,0,0,0,,やられるだス！
 Dialogue: 0,0:08:03.67,0:08:05.45,Default,ko,0,0,0,,당하오!
 Dialogue: 0,0:08:03.67,0:08:05.45,Default,en,0,0,0,,We'll be hit-dasu!
 Comment: 0,0:08:09.29,0:08:10.97,Default,ja,0,0,0,,ムサシさん！
@@ -409,7 +409,7 @@ Dialogue: 0,0:09:40.51,0:09:41.73,Default,en,0,0,0,,I disagree.
 Comment: 0,0:09:42.37,0:09:47.39,Default,ja,0,0,0,,あたしたち、大事な任務があるのよ。女の子連れていててもし何かあったらどうする気？
 Dialogue: 0,0:09:42.37,0:09:47.39,Default,ko,0,0,0,,우리는 중요한 임무가 있어. 여자얘를 데려가서 뭔 일이 있으면 어떻게 하게?
 Dialogue: 0,0:09:42.37,0:09:47.39,Default,en,0,0,0,,We have an important mission. What if something happens to that girl if she goes with us?
-Comment: 0,0:09:47.99,0:09:52.62,Default,ja,0,0,0,,その時はおいらが守るだす。おせんちゃんに迷惑はかけないでござるだス。
+Comment: 0,0:09:47.99,0:09:52.62,Default,ja,0,0,0,,その時はおいらが守るだス。おせんちゃんに迷惑はかけないでござるだス。
 Dialogue: 0,0:09:47.99,0:09:52.62,Default,ko,0,0,0,,그 때는 내가 지키오. 오센짱에게 피해는 안 끼치오!
 Dialogue: 0,0:09:47.99,0:09:52.62,Default,en,0,0,0,,I'll protect her when that happens-dasu. It won't bother you-dasu!
 Comment: 0,0:09:53.26,0:09:56.55,Default,ja,0,0,0,,そんな甘え考えちゃメガトンジョーはやっつけられないわ。
@@ -442,7 +442,7 @@ Dialogue: 0,0:10:14.69,0:10:16.95,Default,en,0,0,0,,Got it-dasu! Later.
 Comment: 0,0:10:23.84,0:10:30.12,Default,ja,0,0,0,,おかしいだスな。いくらメガトンジョーだってさっきの魚雷で相当ダメージを受けてるはずだすのに。
 Dialogue: 0,0:10:23.84,0:10:30.12,Default,ko,0,0,0,,이상하오. 아무리 메가톤성이라고 아까 어뢰로 상당히 피해를 입었을 텐데...
 Dialogue: 0,0:10:23.84,0:10:30.12,Default,en,0,0,0,,This is weird-dasu. Even for Megaton Castle, it should have received fair amount of damage by the torpedoes...
-Comment: 0,0:10:30.12,0:10:32.01,Default,ja,0,0,0,,影も形も見えないだす。
+Comment: 0,0:10:30.12,0:10:32.01,Default,ja,0,0,0,,影も形も見えないだス。
 Dialogue: 0,0:10:30.12,0:10:32.01,Default,ko,0,0,0,,그림자도 모습도 안 보이오.
 Dialogue: 0,0:10:30.12,0:10:32.01,Default,en,0,0,0,,I can't see its shadow or its form-dasu.
 Comment: 0,0:10:33.00,0:10:35.28,Default,ja,0,0,0,,きっと、海中深く潜ったんだわ。
@@ -689,7 +689,7 @@ Dialogue: 0,0:17:20.81,0:17:22.03,Default,en,0,0,0,,Be careful, Musashi!
 Comment: 0,0:17:22.03,0:17:23.97,Default,ja,0,0,0,,わかってるだス！
 Dialogue: 0,0:17:22.03,0:17:23.97,Default,ko,0,0,0,,알겠소!
 Dialogue: 0,0:17:22.03,0:17:23.97,Default,en,0,0,0,,Of course-dasu!
-Comment: 0,0:17:29.93,0:17:31.53,Default,ja,0,0,0,,待つだす！
+Comment: 0,0:17:29.93,0:17:31.53,Default,ja,0,0,0,,待つだス！
 Dialogue: 0,0:17:29.93,0:17:31.53,Default,ko,0,0,0,,멈추시오!
 Dialogue: 0,0:17:29.93,0:17:31.53,Default,en,0,0,0,,Stop-dasu!
 Comment: 0,0:17:51.77,0:17:52.69,Default,ja,0,0,0,,くそ！
@@ -906,7 +906,7 @@ Dialogue: 0,0:23:37.62,0:23:41.63,SongED1,en,0,0,0,,Don't cry when you eat, or
 Comment: 0,0:23:41.63,0:23:44.26,SongED1,ja,0,0,0,,なんかやるせない
 Dialogue: 0,0:23:41.63,0:23:44.26,SongED1,ko,0,0,0,,왠지 안타까워
 Dialogue: 0,0:23:41.63,0:23:44.26,SongED1,en,0,0,0,,you'll feel downhearted
-Comment: 0,0:24:04.50,0:24:10.94,Default,ja,0,0,0,,六道魔王の本拠地を見つけるために、おいらたちは必死だす。そこへジュウベエさんの隠密が情報持ってきただス。
+Comment: 0,0:24:04.50,0:24:10.94,Default,ja,0,0,0,,六道魔王の本拠地を見つけるために、おいらたちは必死だス。そこへジュウベエさんの隠密が情報持ってきただス。
 Dialogue: 0,0:24:04.50,0:24:10.94,Default,ko,0,0,0,,육도마왕의 본거지를 찾기 위해 우리는 필사적이오! 거기서 주베 씨의 밀정이 정보를 가지고 왔소.
 Dialogue: 0,0:24:04.50,0:24:08.32,Default,en,0,0,0,,We're doing everything we can to discover the base of Rikudomaoh-dasu!
 Dialogue: 0,0:24:08.32,0:24:10.94,Default,en,0,0,0,,At there, a spy of Mr. Jūbee took us an information-dasu.

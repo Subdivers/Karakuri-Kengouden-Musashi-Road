@@ -165,7 +165,7 @@ Dialogue: 0,0:05:31.84,0:05:32.28,Default,en,0,0,0,,Yes!
 Comment: 0,0:05:34.71,0:05:36.67,Default,ja,0,0,0,,仲が良いのはいいことだな。
 Dialogue: 0,0:05:34.71,0:05:36.67,Default,ko,0,0,0,,사이가 좋은 건 좋은 것이구나?
 Dialogue: 0,0:05:34.71,0:05:36.67,Default,en,0,0,0,,Being friendly is good, eh?
-Comment: 0,0:05:36.67,0:05:41.43,Default,ja,0,0,0,,当たり前だス。おいらたちは人もうらやむ恋人同士だすから。
+Comment: 0,0:05:36.67,0:05:41.43,Default,ja,0,0,0,,当たり前だス。おいらたちは人もうらやむ恋人同士だスから。
 Dialogue: 0,0:05:36.67,0:05:41.43,Default,ko,0,0,0,,당연하오. 우리는 사람들이 부러워하는 애인들이니까.
 Dialogue: 0,0:05:36.67,0:05:41.43,Default,en,0,0,0,,Of course-dasu! We're lovers that everyone envies-dasu!
 Comment: 0,0:05:41.43,0:05:43.98,Default,ja,0,0,0,,やだ、ムサシさんったら。オツル恥ずかしいわ！
@@ -249,7 +249,7 @@ Dialogue: 0,0:07:50.94,0:07:56.12,Default,en,0,0,0,,My, I was thinking to show m
 Comment: 0,0:07:58.29,0:08:01.34,Default,ja,0,0,0,,その代わり、みんなが喜ぶ人を連れてきました。
 Dialogue: 0,0:07:58.29,0:08:01.34,Default,ko,0,0,0,,그 대신, 모두가 기뻐할 사람을 데리고 왔습니다.
 Dialogue: 0,0:07:58.29,0:08:01.34,Default,en,0,0,0,,Instead of that, I brought a person that will make everyone happy.
-Comment: 0,0:08:01.62,0:08:03.77,Default,ja,0,0,0,,へ？ゼニガタンの親分だすか？
+Comment: 0,0:08:01.62,0:08:03.77,Default,ja,0,0,0,,へ？ゼニガタンの親分だスか？
 Dialogue: 0,0:08:01.62,0:08:03.77,Default,ko,0,0,0,,어? 제니가탄 두목이오?
 Dialogue: 0,0:08:01.62,0:08:03.77,Default,en,0,0,0,,Huh? Is it Boss Zenigatan-dasu?
 Comment: 0,0:08:04.25,0:08:05.76,Default,ja,0,0,0,,国王殿下よね？
@@ -312,7 +312,7 @@ Dialogue: 0,0:09:19.10,0:09:22.77,Default,en,0,0,0,,Some people left the island 
 Comment: 0,0:09:22.77,0:09:24.11,Default,ja,0,0,0,,なんてひどいことを！
 Dialogue: 0,0:09:22.77,0:09:24.11,Default,ko,0,0,0,,정말 못됐어!
 Dialogue: 0,0:09:22.77,0:09:24.11,Default,en,0,0,0,,How cruel!
-Comment: 0,0:09:25.34,0:09:28.38,Default,ja,0,0,0,,おいらに任せるだス。きっとやっつけてやるだす。
+Comment: 0,0:09:25.34,0:09:28.38,Default,ja,0,0,0,,おいらに任せるだス。きっとやっつけてやるだス。
 Dialogue: 0,0:09:25.34,0:09:28.38,Default,ko,0,0,0,,내게 맡기시오. 꼭 해치워 주겠소!
 Dialogue: 0,0:09:25.34,0:09:28.38,Default,en,0,0,0,,Leave it to me-dasu. I'll deal with them-dasu!
 Comment: 0,0:09:32.01,0:09:34.01,Default,ja,0,0,0,,あんまり頼りにならないんだよな。
@@ -333,7 +333,7 @@ Dialogue: 0,0:09:53.93,0:09:54.33,Default,en,0,0,0,,Good.
 Comment: 0,0:09:54.92,0:09:55.30,Default,ja,0,0,0,,うん。
 Dialogue: 0,0:09:54.92,0:09:55.30,Default,ko,0,0,0,,응.
 Dialogue: 0,0:09:54.92,0:09:55.30,Default,en,0,0,0,,Right.
-Comment: 0,0:09:55.95,0:09:56.40,Default,ja,0,0,0,,だす。
+Comment: 0,0:09:55.95,0:09:56.40,Default,ja,0,0,0,,だス。
 Dialogue: 0,0:09:55.95,0:09:56.40,Default,ko,0,0,0,,그렇소.
 Dialogue: 0,0:09:55.95,0:09:56.40,Default,en,0,0,0,,{\i1}dasu{\i0}.
 Comment: 0,0:10:10.24,0:10:16.18,Default,ja,0,0,0,,これは先祖代々伝えられたカラ星から来た救世主の残して行った古文書です。
@@ -370,10 +370,10 @@ Dialogue: 0,0:11:36.84,0:11:38.68,Default,en,0,0,0,,Just like the prophecy said,
 Comment: 0,0:11:39.04,0:11:42.96,Default,ja,0,0,0,,しかし、怪物を倒すには、神の鎧が必要です。
 Dialogue: 0,0:11:39.04,0:11:42.96,Default,ko,0,0,0,,그러나 괴물을 쓰러트리는 데에는 신의 갑주가 필요합니다.
 Dialogue: 0,0:11:39.04,0:11:42.96,Default,en,0,0,0,,But you will need the armor of gods in order to take the monster down.
-Comment: 0,0:11:43.64,0:11:48.93,Default,ja,0,0,0,,え？鎧があるんだすか？おいら、ハンゾウに負けない無敵の鎧がほしいだス。
+Comment: 0,0:11:43.64,0:11:48.93,Default,ja,0,0,0,,え？鎧があるんだスか？おいら、ハンゾウに負けない無敵の鎧がほしいだス。
 Dialogue: 0,0:11:43.64,0:11:48.93,Default,ko,0,0,0,,어? 갑주가 있소? 나, 한조에게 지지 않을 무적의 갑주를 원하오!
 Dialogue: 0,0:11:43.64,0:11:48.93,Default,en,0,0,0,,Huh? Are there armors-dasu? I want an armor that will let me not be defeated by Hanzō-dasu!
-Comment: 0,0:11:50.08,0:11:51.44,Default,ja,0,0,0,,それ、いくらだすか。
+Comment: 0,0:11:50.08,0:11:51.44,Default,ja,0,0,0,,それ、いくらだスか。
 Dialogue: 0,0:11:50.08,0:11:51.44,Default,ko,0,0,0,,그거 얼마이오?
 Dialogue: 0,0:11:50.08,0:11:51.44,Default,en,0,0,0,,How expensive is that-dasu?
 Comment: 0,0:11:52.68,0:11:53.64,Default,ja,0,0,0,,ただです。
@@ -385,7 +385,7 @@ Dialogue: 0,0:11:53.64,0:11:56.90,Default,en,0,0,0,,Yay! I like whatever that's 
 Comment: 0,0:11:57.11,0:12:01.24,Default,ja,0,0,0,,しかし、鎧を手に入れるには、シャチの口に入らなければいけません。
 Dialogue: 0,0:11:57.11,0:12:01.24,Default,ko,0,0,0,,그러나 갑주를 손에 넣기 위해서는 범고래의 입에 들어가야만 합니다.
 Dialogue: 0,0:11:57.11,0:12:01.24,Default,en,0,0,0,,But you will have to enter the Mouth of Orc in order to claim those armors.
-Comment: 0,0:12:02.35,0:12:04.33,Default,ja,0,0,0,,シャチ。だすか。
+Comment: 0,0:12:02.35,0:12:04.33,Default,ja,0,0,0,,シャチ。だスか。
 Dialogue: 0,0:12:02.35,0:12:04.33,Default,ko,0,0,0,,범고래의 입이오?
 Dialogue: 0,0:12:02.35,0:12:04.33,Default,en,0,0,0,,The Mouth of Orc-dasu?
 Comment: 0,0:12:04.78,0:12:09.63,Default,ja,0,0,0,,鎧を手に入れることが出来るのか！疾風怒濤のご飯を待って！
@@ -397,13 +397,13 @@ Dialogue: 0,0:12:09.63,0:12:14.63,Eyecatch,en,0,0,0,,Karakuri Kengouden: Musashi
 Comment: 0,0:12:21.94,0:12:23.80,Default,ja,0,0,0,,この下がシャチの口です。
 Dialogue: 0,0:12:21.94,0:12:23.80,Default,ko,0,0,0,,이 아래가 범고래의 입입니다.
 Dialogue: 0,0:12:21.94,0:12:23.80,Default,en,0,0,0,,Below here is the Mouth of Orc.
-Comment: 0,0:12:26.54,0:12:30.69,Default,ja,0,0,0,,すごい高いだすな。ここを降りて行くだスか。
+Comment: 0,0:12:26.54,0:12:30.69,Default,ja,0,0,0,,すごい高いだスな。ここを降りて行くだスか。
 Dialogue: 0,0:12:26.54,0:12:30.69,Default,ko,0,0,0,,엄청 높소. 여기서 내려가오?
 Dialogue: 0,0:12:26.54,0:12:30.69,Default,en,0,0,0,,This is very high-dasu! Are we going down from this place-dasu?
 Comment: 0,0:12:30.69,0:12:36.18,Default,ja,0,0,0,,いや、ここからは無理です。海面から上ってくる強風のために、吹き飛ばされてしまいます。
 Dialogue: 0,0:12:30.69,0:12:36.18,Default,ko,0,0,0,,아니, 여기서는 무리입니다. 해면에서 올라오는 강풍 때문에 날라가버리고 맙니다.
 Dialogue: 0,0:12:30.69,0:12:36.18,Default,en,0,0,0,,No, it's impossible from here. Because of a strong wind from the seaside, you'll be thrown away.
-Comment: 0,0:12:36.48,0:12:38.86,Default,ja,0,0,0,,じゃ、どうやってあそこまでいくだすか？
+Comment: 0,0:12:36.48,0:12:38.86,Default,ja,0,0,0,,じゃ、どうやってあそこまでいくだスか？
 Dialogue: 0,0:12:36.48,0:12:38.86,Default,ko,0,0,0,,그럼 어떻게 저기까지 가오?
 Dialogue: 0,0:12:36.48,0:12:38.86,Default,en,0,0,0,,Then, how can we go there-dasu?
 Comment: 0,0:12:39.04,0:12:40.43,Default,ja,0,0,0,,船で行くしかありません。
@@ -657,13 +657,13 @@ Dialogue: 0,0:21:04.64,0:21:05.39,Default,en,0,0,0,,Yeah, right!
 Comment: 0,0:21:16.03,0:21:18.68,Default,ja,0,0,0,,今日のところはこれで勘弁してやるわ！
 Dialogue: 0,0:21:16.03,0:21:18.68,Default,ko,0,0,0,,오늘은 이쯤에서 봐 주겠다!
 Dialogue: 0,0:21:16.03,0:21:18.68,Default,en,0,0,0,,I'll let you go for today!
-Comment: 0,0:21:21.79,0:21:24.42,Default,ja,0,0,0,,ふん！苦手のくせに何言ってるだす。
+Comment: 0,0:21:21.79,0:21:24.42,Default,ja,0,0,0,,ふん！苦手のくせに何言ってるだス。
 Dialogue: 0,0:21:21.79,0:21:24.42,Default,ko,0,0,0,,흥! 잘하는 것도 없는 주제에 뭔 소리이오.
 Dialogue: 0,0:21:21.79,0:21:24.42,Default,en,0,0,0,,Hmph! A big talk for an unskilled-dasu!
 Comment: 0,0:21:29.91,0:21:32.16,Default,ja,0,0,0,,はい、みんな、お赤飯よ！
 Dialogue: 0,0:21:29.91,0:21:32.16,Default,ko,0,0,0,,자, 다들, 저녁이야!
 Dialogue: 0,0:21:29.91,0:21:32.16,Default,en,0,0,0,,Here are your dinners!
-Comment: 0,0:21:32.97,0:21:38.61,Default,ja,0,0,0,,うわ、おいしいだす！鎧をつけて戦うと、腹が減るだス！
+Comment: 0,0:21:32.97,0:21:38.61,Default,ja,0,0,0,,うわ、おいしいだス！鎧をつけて戦うと、腹が減るだス！
 Dialogue: 0,0:21:32.97,0:21:38.61,Default,ko,0,0,0,,우와, 맛있소! 갑주를 입고 싸우니 배가 고프오!
 Dialogue: 0,0:21:32.97,0:21:38.61,Default,en,0,0,0,,So delicious-dasu! Fighting in armors makes me hungry-dasu!
 Comment: 0,0:21:38.61,0:21:41.16,Default,ja,0,0,0,,でも、すっこくかっこいい鎧よね。
@@ -760,7 +760,7 @@ Dialogue: 0,0:23:42.32,0:23:44.95,SongED1,en,0,0,0,,you'll feel downhearted
 Comment: 0,0:24:03.69,0:24:08.76,Default,ja,0,0,0,,おいらたちはゲンナイさんという発明家に頼んで、潜水艦を作ってもらうことにしただス。
 Dialogue: 0,0:24:03.69,0:24:08.76,Default,ko,0,0,0,,우리는 겐나이 씨라는 발명가에게 잠수함을 만들어 달라고 부탁했소.
 Dialogue: 0,0:24:03.69,0:24:08.76,Default,en,0,0,0,,We asked an inventor named Mr. Gennai to make a submarine for us-dasu.
-Comment: 0,0:24:09.52,0:24:15.52,Default,ja,0,0,0,,でも、このおじいさん、スケベなんだす。おせんちゃんとオツルちゃんの水着姿が見たいなっていうだス。
+Comment: 0,0:24:09.52,0:24:15.52,Default,ja,0,0,0,,でも、このおじいさん、スケベなんだス。おせんちゃんとオツルちゃんの水着姿が見たいなっていうだス。
 Dialogue: 0,0:24:09.52,0:24:15.52,Default,ko,0,0,0,,그래도 그 할아버지, 호색하오. 오센짱하고 오츠루의 수영복 모습을 보여달라고 하오.
 Dialogue: 0,0:24:09.52,0:24:15.52,Default,en,0,0,0,,But that old man is lewd-dasu. He wants to see Osenchan and Otsuru in swimsuits-dasu.
 Comment: 0,0:24:16.15,0:24:20.90,Default,ja,0,0,0,,でも、まあ、潜水艦も完成して、おいらたちはメガトンジョーに乗り込んだだス！

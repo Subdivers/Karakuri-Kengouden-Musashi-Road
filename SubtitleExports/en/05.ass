@@ -81,15 +81,15 @@ Dialogue: 0,0:04:13.40,0:04:13.95,Default,en,0,0,0,,Master!
 Dialogue: 0,0:04:14.48,0:04:14.96,Default,en,0,0,0,,What is it?
 Dialogue: 0,0:04:15.27,0:04:17.10,Default,en,0,0,0,,The sword craftsman you asked for is here.
 Dialogue: 0,0:04:17.56,0:04:18.98,Default,en,0,0,0,,Good. I'll go right now.
-Dialogue: 0,0:04:24.76,0:04:32.38,Default,en,0,0,0,,This person, Kotetsu Kenmochi, is a historically famous sword craftsman of the long Sengoku period of Jipangu State.
+Dialogue: 0,0:04:24.76,0:04:32.38,Default,en,0,0,0,,This person, Kenmochi Kotetsu, is a historically famous sword craftsman of the long Sengoku period of Jipangu State.
 Dialogue: 0,0:04:32.38,0:04:34.42,NoteOnAnime,en,0,0,0,,{\an8\frz26\fs32\fad(0,300)\pos(337,242)\c&H8989FF&}Made by Kotetsu
 Dialogue: 0,0:04:33.14,0:04:40.38,Default,en,0,0,0,,A sword crafted by him is called Kotetsu, and it is told that only masters of swords can have one.
 Dialogue: 0,0:04:46.74,0:04:51.25,Default,en,0,0,0,,I am Denshichirō Yoshioka, a substitute instructor at Yoshioka Dōjō.
-Dialogue: 0,0:04:51.85,0:04:53.44,Default,en,0,0,0,,Kotetsu Kenmochi.
+Dialogue: 0,0:04:51.85,0:04:53.44,Default,en,0,0,0,,Kenmochi Kotetsu.
 Dialogue: 0,0:04:53.58,0:04:57.37,Default,en,0,0,0,,Long story short, I'd like to ask you to make your excellent sword Kotetsu.
 Dialogue: 0,0:04:59.85,0:05:00.98,Default,en,0,0,0,,I reject.
 Dialogue: 0,0:05:01.43,0:05:05.90,Default,en,0,0,0,,What?! You dare to reject the request from the substitute instructor at Yoshioka Dōjō?
-Dialogue: 0,0:05:07.78,0:05:14.18,Default,en,0,0,0,,Don't you know Denshichirō Yoshioka, a name famous all over Jipangu State?
+Dialogue: 0,0:05:07.78,0:05:14.18,Default,en,0,0,0,,Don't you know Yoshioka Denshichirō, a name famous all over Jipangu State?
 Dialogue: 0,0:05:14.54,0:05:15.65,Default,en,0,0,0,,I do know.
 Dialogue: 0,0:05:15.93,0:05:22.08,Default,en,0,0,0,,Then why do you reject? Crafting a sword isn't something dishonorable.
 Dialogue: 0,0:05:22.46,0:05:25.88,Default,en,0,0,0,,I regret to say that I already gave up crafting swords.
@@ -218,7 +218,7 @@ Dialogue: 0,0:14:10.94,0:14:12.63,Default,en,0,0,0,,That was nothing-{\i1}dasu{\
 Dialogue: 0,0:14:12.97,0:14:17.08,Default,en,0,0,0,,But still, that harpoon pierces pretty nicely... Who made it?
 Dialogue: 0,0:14:17.37,0:14:19.71,Default,en,0,0,0,,My dad made this!
 Dialogue: 0,0:14:19.94,0:14:20.73,Default,en,0,0,0,,Dad?
-Dialogue: 0,0:14:21.27,0:14:24.75,Default,en,0,0,0,,The number one sword craftsman of Jipangu, Kotetsu Kenmochi!
+Dialogue: 0,0:14:21.27,0:14:24.75,Default,en,0,0,0,,The number one sword craftsman of Jipangu, Kenmochi Kotetsu!
 Dialogue: 0,0:14:25.13,0:14:26.89,Default,en,0,0,0,,I am his son, Kotarō!
 Dialogue: 0,0:14:27.55,0:14:28.70,Default,en,0,0,0,,Lucky-{\i1}dasu{\i0}!
 Dialogue: 0,0:14:30.40,0:14:31.81,Default,en,0,0,0,,Nope, no way.

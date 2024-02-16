@@ -149,7 +149,7 @@ Dialogue: 0,0:03:55.02,0:03:56.63,Default,en,0,0,0,,I knew it-{\i1}dasu{\i0}!
 Comment: 0,0:03:56.94,0:03:58.58,Default,ja,0,0,0,,そうですよ！
 Dialogue: 0,0:03:56.94,0:03:58.58,Default,ko,0,0,0,,그렇고말고!
 Dialogue: 0,0:03:56.94,0:03:58.58,Default,en,0,0,0,,Yeah, right!
-Comment: 0,0:03:59.64,0:04:03.56,Default,ja,0,0,0,,じゃ、いただくだス！さあ、どんどん持ってきて頂戴だす！
+Comment: 0,0:03:59.64,0:04:03.56,Default,ja,0,0,0,,じゃ、いただくだス！さあ、どんどん持ってきて頂戴だス！
 Dialogue: 0,0:03:59.64,0:04:03.56,Default,ko,0,0,0,,그럼 잘 먹겠소! 팍팍 가지고 오시오!
 Dialogue: 0,0:03:59.64,0:04:03.56,Default,en,0,0,0,,Then let me eat-{\i1}dasu{\i0}! Bring it on-{\i1}dasu{\i0}!
 Comment: 0,0:04:03.83,0:04:05.42,Default,ja,0,0,0,,じゃ、じゃ、始めますよ。
@@ -253,7 +253,7 @@ Dialogue: 0,0:05:45.05,0:05:48.37,Default,en,0,0,0,,This is all your fault, for 
 Comment: 0,0:05:48.67,0:05:49.75,Default,ja,0,0,0,,自分で何とかしろ。
 Dialogue: 0,0:05:48.67,0:05:49.75,Default,ko,0,0,0,,알아서 해.
 Dialogue: 0,0:05:48.67,0:05:49.75,Default,en,0,0,0,,You take care of this.
-Comment: 0,0:05:50.06,0:05:52.48,Default,ja,0,0,0,,そんな、いいじゃないだすか！
+Comment: 0,0:05:50.06,0:05:52.48,Default,ja,0,0,0,,そんな、いいじゃないだスか！
 Dialogue: 0,0:05:50.06,0:05:52.48,Default,ko,0,0,0,,그런! 괜찮지 않소?
 Dialogue: 0,0:05:50.06,0:05:52.48,Default,en,0,0,0,,Please! Isn't it a good enough-{\i1}dasu{\i0}?
 Comment: 0,0:05:52.48,0:05:53.75,Default,ja,0,0,0,,ね、ね、ね、ね？
@@ -328,7 +328,7 @@ Dialogue: 0,0:06:52.74,0:06:55.52,Default,en,0,0,0,,As you've found out, it can'
 Comment: 0,0:06:56.42,0:06:58.38,Default,ja,0,0,0,,あ、待って、ジライヤン！
 Dialogue: 0,0:06:56.42,0:06:58.38,Default,ko,0,0,0,,아, 멈추시오, 지라이얀!
 Dialogue: 0,0:06:56.42,0:06:58.38,Default,en,0,0,0,,Hey, stop, Jiraiyan!
-Comment: 0,0:06:58.38,0:07:01.53,Default,ja,0,0,0,,くっそ、今度会ったらとっちめてやるだす！
+Comment: 0,0:06:58.38,0:07:01.53,Default,ja,0,0,0,,くっそ、今度会ったらとっちめてやるだス！
 Dialogue: 0,0:06:58.38,0:07:01.53,Default,ko,0,0,0,,젠장, 다음에 보면 혼쭐내 주겠소!
 Dialogue: 0,0:06:58.38,0:07:01.53,Default,en,0,0,0,,Damn! I'll take it out on you next time I see you-{\i1}dasu{\i0}!
 Comment: 0,0:07:03.13,0:07:05.82,Default,ja,0,0,0,,助けてくれて本当にありがとうでござるだス。
@@ -361,7 +361,7 @@ Dialogue: 0,0:07:37.25,0:07:40.33,Default,en,0,0,0,,How dare you say that again?
 Comment: 0,0:07:40.33,0:07:46.44,Default,ja,0,0,0,,あ、ちょっと、あんたたち、喧嘩しているときじゃないでしょ？あたしたちはこれから敵の本拠地へ乗り込むのよ！
 Dialogue: 0,0:07:40.33,0:07:46.44,Default,ko,0,0,0,,에휴, 너희들 지금 싸우고 있을 때가 아니잖아? 우린 이제 막 적의 본거지에 쳐들어가려던 참이잖아!
 Dialogue: 0,0:07:40.33,0:07:46.44,Default,en,0,0,0,,You guys! It's not a time for you to quarrel! We are about to penetrate into the base of the enemy!
-Comment: 0,0:07:47.26,0:07:54.86,Default,ja,0,0,0,,シラヌイ一族なんて、おいらには関係ないでござるだス。おいらの目標は、ジパングナンバーワンの武芸者になることだす！
+Comment: 0,0:07:47.26,0:07:54.86,Default,ja,0,0,0,,シラヌイ一族なんて、おいらには関係ないでござるだス。おいらの目標は、ジパングナンバーワンの武芸者になることだス！
 Dialogue: 0,0:07:47.26,0:07:54.86,Default,ko,0,0,0,,시라누이 일족 따위 나하고는 관계 없소! 내 목표는 지팡구 제일의 무예가가 되는 일 뿐이오!
 Dialogue: 0,0:07:47.26,0:07:54.86,Default,en,0,0,0,,That Shiranui Clan has nothing to do with me-{\i1}dasu{\i0}! My only objective is to become the number one martial artist of Jipangu!
 Comment: 0,0:07:55.17,0:07:56.37,Default,ja,0,0,0,,私だってそうだ！
@@ -685,7 +685,7 @@ Dialogue: 0,0:16:00.28,0:16:02.50,Default,en,0,0,0,,Mr. Saigo, who are you?!
 Comment: 0,0:16:02.75,0:16:08.96,Default,ja,0,0,0,,おはんは、昼間のお団子君ではないでごわすか。変な所から出てきて何をするでゴわす！
 Dialogue: 0,0:16:02.75,0:16:08.96,Default,ko,0,0,0,,그대는 낮에 단고 군이군. 이상한 곳에서 튀어나와 뭔 짓이냐!
 Dialogue: 0,0:16:02.75,0:16:08.96,Default,en,0,0,0,,You are that dango boy I saw during the day-{\i1}gowasu{\i0}. What are you doing, springing out from a weird place-{\i1}gowasu{\i0}?!
-Comment: 0,0:16:09.27,0:16:15.30,Default,ja,0,0,0,,おいら、あんた、いい人だと思っていただスが、不知火の仲間だったとはがっかりしたでござるだす！
+Comment: 0,0:16:09.27,0:16:15.30,Default,ja,0,0,0,,おいら、あんた、いい人だと思っていただスが、不知火の仲間だったとはがっかりしたでござるだス！
 Dialogue: 0,0:16:09.27,0:16:15.30,Default,ko,0,0,0,,나, 당신, 좋은 사람이라 생각했지만 시라누이의 동료라니 놀랐소!
 Dialogue: 0,0:16:09.27,0:16:15.30,Default,en,0,0,0,,I thought you were a good guy, but I was surprised when I realized you are Shiranui's comrade-{\i1}dasu{\i0}!
 Comment: 0,0:16:15.54,0:16:21.18,Default,ja,0,0,0,,ちょ、ちょっとまってくれ、お団子君。おいどんにはなんのことがさっぱりわからないでゴわす。
@@ -930,7 +930,7 @@ Dialogue: 0,0:24:16.38,0:24:20.38,Default,en,0,0,0,,and I had to fight against B
 Comment: 0,0:24:21.01,0:24:23.79,Default,ja,0,0,0,,次回、おいら、グレてやるだス
 Dialogue: 0,0:24:21.01,0:24:23.79,Default,ko,0,0,0,,다음 이야기! 나, 비뚤어지오!
 Dialogue: 0,0:24:21.01,0:24:23.79,Default,en,0,0,0,,Next story! I Become Delinquent!
-Comment: 0,0:24:24.18,0:24:27.50,Default,ja,0,0,0,,疾風怒濤のお母さん～！だす！
+Comment: 0,0:24:24.18,0:24:27.50,Default,ja,0,0,0,,疾風怒濤のお母さん～！だス！
 Dialogue: 0,0:24:24.18,0:24:27.50,Default,ko,0,0,0,,{\pos(320,470)}질풍노도의 엄마! 이오!
 Dialogue: 0,0:24:24.18,0:24:27.50,Default,en,0,0,0,,{\pos(320,470)}It's a stormy mommy! -{\i1}dasu{\i0}!
 Dialogue: 0,0:24:27.50,0:24:31.47,NoteOnAnime,ko,60,0,60,,{\an7}다음 이야기

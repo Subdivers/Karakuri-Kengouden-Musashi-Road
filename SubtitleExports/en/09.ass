@@ -162,7 +162,7 @@ Dialogue: 0,0:09:44.55,0:09:47.01,Default,en,0,0,0,,He's awesome-{\i1}dasu{\i0}!
 Dialogue: 0,0:09:47.53,0:09:50.07,Default,en,0,0,0,,Then I'll go too-{\i1}dasu{\i0}!
 Dialogue: 0,0:09:50.35,0:09:51.30,Default,en,0,0,0,,Customer!
 Dialogue: 0,0:09:51.44,0:09:53.23,Default,en,0,0,0,,Please pay up!
-Dialogue: 0,0:09:53.40,0:09:57.36,Default,en,0,0,0,,Huh? Didn't Mr. Ishimatsu paid you-{\i1}dasu{\i0}?
+Dialogue: 0,0:09:53.40,0:09:57.36,Default,en,0,0,0,,Huh? Didn't Ishimatsu paid you-{\i1}dasu{\i0}?
 Dialogue: 0,0:09:57.61,0:10:02.03,Default,en,0,0,0,,Nope, not at all! 50 dangos, total 100 mons!
 Dialogue: 0,0:10:02.14,0:10:06.04,Default,en,0,0,0,,Even if you say so, I can't pay what I don't have-{\i1}dasu{\i0}...
 Dialogue: 0,0:10:06.09,0:10:07.34,Default,en,0,0,0,,Dear customer!
@@ -195,7 +195,7 @@ Dialogue: 0,0:11:40.52,0:11:43.08,Default,en,0,0,0,,No need to worry-{\i1}dasu{\
 Dialogue: 0,0:11:43.48,0:11:46.36,Default,en,0,0,0,,How dare you defame my younger brother.
 Dialogue: 0,0:11:48.49,0:11:49.61,Default,en,0,0,0,,Please stop!
 Dialogue: 0,0:11:50.35,0:11:57.11,NoteOnAnime,en,0,0,80,,{\fad(0,250)}Kurokoma
-Dialogue: 0,0:11:50.43,0:11:55.93,Default,en,0,0,0,,While I don't know what happened here, since I'd like if you saved my face, Katsuzō Kurokoma's,
+Dialogue: 0,0:11:50.43,0:11:55.93,Default,en,0,0,0,,While I don't know what happened here, since I'd like if you saved my face, Kurokoma Katsuzō's,
 Dialogue: 0,0:11:56.03,0:11:58.57,Default,en,0,0,0,,please put your swords back in.
 Dialogue: 0,0:11:58.65,0:12:05.23,Default,en,0,0,0,,-No, this guy...\N-We all have to prepare for tomorrow's battle.
 Dialogue: 0,0:12:05.77,0:12:07.81,Default,en,0,0,0,,-But still...\N-Please stop!
@@ -212,7 +212,7 @@ Dialogue: 0,0:12:52.57,0:12:55.13,Default,en,0,0,0,,In the dead of night.
 Dialogue: 0,0:12:57.77,0:13:04.04,Default,en,0,0,0,,Someone opened a sliding door of Katsuzō family house.
 Dialogue: 0,0:13:05.79,0:13:07.80,Default,en,0,0,0,,Thankfully nobody's here-{\i1}dasu{\i0}.
 Dialogue: 0,0:13:08.19,0:13:11.47,Default,en,0,0,0,,I must not fight against Ishimatsu-{\i1}dasu{\i0}...
-Dialogue: 0,0:13:12.51,0:13:13.40,Default,en,0,0,0,,Mr. Musashi!
+Dialogue: 0,0:13:12.51,0:13:13.40,Default,en,0,0,0,,Musashi!
 Dialogue: 0,0:13:16.09,0:13:19.01,Default,en,0,0,0,,Where are you going in this deep night?
 Dialogue: 0,0:13:19.18,0:13:23.36,Default,en,0,0,0,,Uh, that is, to toilet.
 Dialogue: 0,0:13:23.57,0:13:26.48,Default,en,0,0,0,,Oh dear, the toilet is at there...

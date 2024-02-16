@@ -88,13 +88,13 @@ Dialogue: 0,0:03:26.70,0:03:28.72,Default,en,0,0,0,,I must let villagers know ab
 Comment: 0,0:03:55.16,0:03:57.29,Default,ja,0,0,0,,やはり、道を間違えたのでは。。。
 Dialogue: 0,0:03:55.16,0:03:57.29,Default,ko,0,0,0,,역시 길을 잘못 든 게.
 Dialogue: 0,0:03:55.16,0:03:57.29,Default,en,0,0,0,,Are you sure that we aren't lost?
-Comment: 0,0:03:57.56,0:03:59.50,Default,ja,0,0,0,,おいらの鼻に、くいはまいだす！
+Comment: 0,0:03:57.56,0:03:59.50,Default,ja,0,0,0,,おいらの鼻に、くいはまいだス！
 Dialogue: 0,0:03:57.56,0:03:59.50,Default,ko,0,0,0,,내 코에 문제는 없소!
 Dialogue: 0,0:03:57.56,0:03:59.50,Default,en,0,0,0,,My nose do not have a problem-{\i1}dasu{\i0}!
 Comment: 0,0:03:59.81,0:04:01.68,Default,ja,0,0,0,,科学的根拠はゼロだな。
 Dialogue: 0,0:03:59.81,0:04:01.68,Default,ko,0,0,0,,과학적 근거는 제로구나.
 Dialogue: 0,0:03:59.81,0:04:01.68,Default,en,0,0,0,,You have zero scientific evidences.
-Comment: 0,0:04:02.04,0:04:03.08,Default,ja,0,0,0,,つるはなだす。
+Comment: 0,0:04:02.04,0:04:03.08,Default,ja,0,0,0,,つるはなだス。
 Dialogue: 0,0:04:02.04,0:04:03.08,Default,ko,0,0,0,,그런 것 아니오.
 Dialogue: 0,0:04:02.04,0:04:03.08,Default,en,0,0,0,,That's not it-{\i1}dasu{\i0}.
 Comment: 0,0:04:03.30,0:04:09.14,Default,ja,0,0,0,,二人とも、撮んないことで喧嘩しないの！早くどこかににぎやかな宿場に行きましょう。
@@ -178,7 +178,7 @@ Dialogue: 0,0:05:33.14,0:05:36.22,Default,en,0,0,0,,It's not for free, of course
 Comment: 0,0:05:40.13,0:05:41.52,Default,ja,0,0,0,,これは砂金！
 Dialogue: 0,0:05:40.13,0:05:41.52,Default,ko,0,0,0,,이건 사금!
 Dialogue: 0,0:05:40.13,0:05:41.52,Default,en,0,0,0,,This is alluvial gold!
-Comment: 0,0:05:41.81,0:05:43.32,Default,ja,0,0,0,,つまり、金でござるだすか？
+Comment: 0,0:05:41.81,0:05:43.32,Default,ja,0,0,0,,つまり、金でござるだスか？
 Dialogue: 0,0:05:41.81,0:05:43.32,Default,ko,0,0,0,,그러니까 금이오?
 Dialogue: 0,0:05:41.81,0:05:43.32,Default,en,0,0,0,,Is that gold in other words-{\i1}dasu{\i0}?
 Comment: 0,0:05:43.40,0:05:45.69,Default,ja,0,0,0,,あら、随分大粒だわ。
@@ -205,7 +205,7 @@ Dialogue: 0,0:05:58.97,0:06:01.54,Default,en,0,0,0,,-Kojirō?\N-I can't just let
 Comment: 0,0:06:03.28,0:06:08.22,Default,ja,0,0,0,,あれだけの金があったら、饅頭に、団子に、羊羹に。。。
 Dialogue: 0,0:06:03.28,0:06:08.22,Default,ko,0,0,0,,저만큼의 금이 있다면, 만두에 단고에 양갱에...
 Dialogue: 0,0:06:03.28,0:06:08.22,Default,en,0,0,0,,With gold that much, I'll be able to get dumplings, dangos, sweet red bean paste, ...
-Comment: 0,0:06:08.76,0:06:11.09,Default,ja,0,0,0,,腹いっぱい食べられるだす！
+Comment: 0,0:06:08.76,0:06:11.09,Default,ja,0,0,0,,腹いっぱい食べられるだス！
 Dialogue: 0,0:06:08.76,0:06:11.09,Default,ko,0,0,0,,배가 가득히 차도록 먹겠소!
 Dialogue: 0,0:06:08.76,0:06:11.09,Default,en,0,0,0,,I'll finally be able to fill my stomach to the full extent-{\i1}dasu{\i0}!
 Comment: 0,0:06:13.36,0:06:17.29,Default,ja,0,0,0,,あ、待った！おいらも行くだス！
@@ -289,7 +289,7 @@ Dialogue: 0,0:08:09.46,0:08:11.40,Default,en,0,0,0,,The water must be toxic.
 Comment: 0,0:08:11.94,0:08:13.82,Default,ja,0,0,0,,やっぱり魔物がすみ着いたんだ。
 Dialogue: 0,0:08:11.94,0:08:13.82,Default,ko,0,0,0,,역시 마물이 자리잡은 거야.
 Dialogue: 0,0:08:11.94,0:08:13.82,Default,en,0,0,0,,A evil creature must have took his place.
-Comment: 0,0:08:14.14,0:08:19.68,Default,ja,0,0,0,,何が魔物だスか！このムサシが二刀流でちょちょぎってやるだす！
+Comment: 0,0:08:14.14,0:08:19.68,Default,ja,0,0,0,,何が魔物だスか！このムサシが二刀流でちょちょぎってやるだス！
 Dialogue: 0,0:08:14.14,0:08:19.68,Default,ko,0,0,0,,뭐가 마물이오! 이 무사시가 이도류로 팍팍 썰어 주겠소!
 Dialogue: 0,0:08:14.14,0:08:19.68,Default,en,0,0,0,,There's nothing to worry about that evil creature-{\i1}dasu{\i0}! I'll cut it with my dual blades-{\i1}dasu{\i0}!
 Comment: 0,0:08:20.18,0:08:21.10,Default,ja,0,0,0,,そして。。。
@@ -340,10 +340,10 @@ Dialogue: 0,0:10:12.40,0:10:13.40,Default,en,0,0,0,,Santa!
 Comment: 0,0:10:13.59,0:10:14.88,Default,ja,0,0,0,,己、化け物目！
 Dialogue: 0,0:10:13.59,0:10:14.88,Default,ko,0,0,0,,네 이놈, 괴물 놈!
 Dialogue: 0,0:10:13.59,0:10:14.88,Default,en,0,0,0,,You monster bastard!
-Comment: 0,0:10:43.16,0:10:44.33,Default,ja,0,0,0,,やっただすな！
+Comment: 0,0:10:43.16,0:10:44.33,Default,ja,0,0,0,,やっただスな！
 Dialogue: 0,0:10:43.16,0:10:44.33,Default,ko,0,0,0,,했겠소!
 Dialogue: 0,0:10:43.16,0:10:44.33,Default,en,0,0,0,,You really did it!
-Comment: 0,0:10:45.70,0:10:47.91,Default,ja,0,0,0,,うわ、めずたのずるいだす！
+Comment: 0,0:10:45.70,0:10:47.91,Default,ja,0,0,0,,うわ、めずたのずるいだス！
 Dialogue: 0,0:10:45.70,0:10:47.91,Default,ko,0,0,0,,으악! 몸이 뻣뻣해지오!
 Dialogue: 0,0:10:45.70,0:10:47.91,Default,en,0,0,0,,My body is getting stiff-{\i1}dasu{\i0}!
 Comment: 0,0:10:49.37,0:10:50.17,Default,ja,0,0,0,,三太！
@@ -439,7 +439,7 @@ Dialogue: 0,0:14:29.18,0:14:30.41,Default,en,0,0,0,,How does that feel?!
 Comment: 0,0:14:32.62,0:14:34.97,Default,ja,0,0,0,,そうか、そうか！嬉しいか！
 Dialogue: 0,0:14:32.62,0:14:34.97,Default,ko,0,0,0,,그렇군, 그렇군! 기쁘구나!
 Dialogue: 0,0:14:32.62,0:14:34.97,Default,en,0,0,0,,I see, I see! You're happy!
-Comment: 0,0:14:36.61,0:14:37.79,Default,ja,0,0,0,,やめろだす！
+Comment: 0,0:14:36.61,0:14:37.79,Default,ja,0,0,0,,やめろだス！
 Dialogue: 0,0:14:36.61,0:14:37.79,Default,ko,0,0,0,,그만두시오!
 Dialogue: 0,0:14:36.61,0:14:37.79,Default,en,0,0,0,,Stop it-{\i1}dasu{\i0}!
 Comment: 0,0:14:40.17,0:14:45.94,Default,ja,0,0,0,,もう少しだぞ、ムサシ！そろそろチェーンソーがお前の体を引き裂く。
@@ -469,7 +469,7 @@ Dialogue: 0,0:15:21.69,0:15:22.89,Default,en,0,0,0,,Die!
 Comment: 0,0:15:22.89,0:15:24.28,Default,ja,0,0,0,,ストップだス！
 Dialogue: 0,0:15:22.89,0:15:24.28,Default,ko,0,0,0,,스톱이오!
 Dialogue: 0,0:15:22.89,0:15:24.28,Default,en,0,0,0,,Stop-{\i1}dasu{\i0}!
-Comment: 0,0:15:25.84,0:15:27.40,Default,ja,0,0,0,,おいらが相手をするだす！
+Comment: 0,0:15:25.84,0:15:27.40,Default,ja,0,0,0,,おいらが相手をするだス！
 Dialogue: 0,0:15:25.84,0:15:27.40,Default,ko,0,0,0,,내가 상대해 주겠소!
 Dialogue: 0,0:15:25.84,0:15:27.40,Default,en,0,0,0,,I'll face you-{\i1}dasu{\i0}!
 Comment: 0,0:15:27.84,0:15:31.81,Default,ja,0,0,0,,こしゃくな、がぎみ！望み通り相手をしてやるぜ！
@@ -490,16 +490,16 @@ Dialogue: 0,0:15:54.90,0:15:58.68,Default,en,0,0,0,,How audacious of you, to use
 Comment: 0,0:16:00.37,0:16:03.21,Default,ja,0,0,0,,阿毘羅吽欠めんじょうだろう
 Dialogue: 0,0:16:00.37,0:16:03.21,Default,ko,0,0,0,,a vi ra hū{\fnArial\fscx80\fscy80}ṃ{\r} kha{\fnArial\fscx80\fscy80}ṃ{\r}, 등장해라!
 Dialogue: 0,0:16:00.37,0:16:03.21,Default,en,0,0,0,,a vi ra hū{\fnArial\fscx80\fscy80}ṃ{\r} kha{\fnArial\fscx80\fscy80}ṃ{\r}, rise up!
-Comment: 0,0:16:08.12,0:16:10.90,Default,ja,0,0,0,,ま～たでただすな？はじわの化け物！
+Comment: 0,0:16:08.12,0:16:10.90,Default,ja,0,0,0,,ま～たでただスな？はじわの化け物！
 Dialogue: 0,0:16:08.12,0:16:10.90,Default,ko,0,0,0,,또 나왔소! 아까 그 괴물!
 Dialogue: 0,0:16:08.12,0:16:10.90,Default,en,0,0,0,,You're here again-{\i1}dasu{\i0}! That monster before!
-Comment: 0,0:16:11.84,0:16:14.38,Default,ja,0,0,0,,おっと、その手はしろと食わないだす！
+Comment: 0,0:16:11.84,0:16:14.38,Default,ja,0,0,0,,おっと、その手はしろと食わないだス！
 Dialogue: 0,0:16:11.84,0:16:14.38,Default,ko,0,0,0,,저런, 그 수는 다시는 안 먹히오!
 Dialogue: 0,0:16:11.84,0:16:14.38,Default,en,0,0,0,,Oh, that's not gonna work anymore-{\i1}dasu{\i0}!
 Comment: 0,0:16:24.49,0:16:25.69,Default,ja,0,0,0,,ずるいだス！
 Dialogue: 0,0:16:24.49,0:16:25.69,Default,ko,0,0,0,,교활하오!
 Dialogue: 0,0:16:24.49,0:16:25.69,Default,en,0,0,0,,That's cheating-{\i1}dasu{\i0}!
-Comment: 0,0:16:29.69,0:16:32.46,Default,ja,0,0,0,,また情けぬだす！
+Comment: 0,0:16:29.69,0:16:32.46,Default,ja,0,0,0,,また情けぬだス！
 Dialogue: 0,0:16:29.69,0:16:32.46,Default,ko,0,0,0,,또 꼴불견이오!
 Dialogue: 0,0:16:29.69,0:16:32.46,Default,en,0,0,0,,I look miserable again-{\i1}dasu{\i0}!
 Comment: 0,0:16:38.04,0:16:40.08,Default,ja,0,0,0,,目が回るだス
@@ -520,7 +520,7 @@ Dialogue: 0,0:16:57.26,0:16:58.20,Default,en,0,0,0,,I got it-{\i1}dasu{\i0}!
 Comment: 0,0:16:58.33,0:17:01.69,Default,ja,0,0,0,,ここまでおいで、～、どうだ！
 Dialogue: 0,0:16:58.33,0:17:01.69,Default,ko,0,0,0,,여기까지 쫒차 보시오, 진흙더미! 어떤지!
 Dialogue: 0,0:16:58.33,0:17:01.69,Default,en,0,0,0,,Chase me if you can, you pile of mud-{\i1}dasu{\i0}! How's this?!
-Comment: 0,0:17:37.85,0:17:38.84,Default,ja,0,0,0,,やっただす！
+Comment: 0,0:17:37.85,0:17:38.84,Default,ja,0,0,0,,やっただス！
 Dialogue: 0,0:17:37.85,0:17:38.84,Default,ko,0,0,0,,해냈소!
 Dialogue: 0,0:17:37.85,0:17:38.84,Default,en,0,0,0,,I did it-{\i1}dasu{\i0}!
 Comment: 0,0:17:43.40,0:17:45.72,Default,ja,0,0,0,,シュテン！ツバメガエシを受けてみろ！
@@ -532,10 +532,10 @@ Dialogue: 0,0:17:50.68,0:17:55.09,Default,en,0,0,0,,Secret sword or not, that Ts
 Comment: 0,0:17:56.92,0:17:59.51,Default,ja,0,0,0,,あびらうんけん、いわつぶてい！
 Dialogue: 0,0:17:56.92,0:17:59.51,Default,ko,0,0,0,,a vi ra hū{\fnArial\fscx80\fscy80}ṃ{\r} kha{\fnArial\fscx80\fscy80}ṃ{\r}, 바위 으깨기!
 Dialogue: 0,0:17:56.92,0:17:59.51,Default,en,0,0,0,,a vi ra hū{\fnArial\fscx80\fscy80}ṃ{\r} kha{\fnArial\fscx80\fscy80}ṃ{\r}, rock smasher!
-Comment: 0,0:18:13.84,0:18:15.22,Default,ja,0,0,0,,よくもやっただすな！
+Comment: 0,0:18:13.84,0:18:15.22,Default,ja,0,0,0,,よくもやっただスな！
 Dialogue: 0,0:18:13.84,0:18:15.22,Default,ko,0,0,0,,잘도 했겠소!
 Dialogue: 0,0:18:13.84,0:18:15.22,Default,en,0,0,0,,You really did it-{\i1}dasu{\i0}!
-Comment: 0,0:18:19.98,0:18:23.98,Default,ja,0,0,0,,そんな妖術、卑怯だス！へんで男らしく勝負するだす！
+Comment: 0,0:18:19.98,0:18:23.98,Default,ja,0,0,0,,そんな妖術、卑怯だス！へんで男らしく勝負するだス！
 Dialogue: 0,0:18:19.98,0:18:23.98,Default,ko,0,0,0,,그런 요술, 비겁하오! 검으로 사내답게 승부보시오!
 Dialogue: 0,0:18:19.98,0:18:23.98,Default,en,0,0,0,,Using magic is cowardly-{\i1}dasu{\i0}! Face me with your sword like a real man-{\i1}dasu{\i0}!
 Comment: 0,0:18:24.21,0:18:28.32,Default,ja,0,0,0,,ほざくな！勝ってばいいのさ。勝ってば。
@@ -556,13 +556,13 @@ Dialogue: 0,0:18:48.86,0:18:49.29,Default,en,0,0,0,,What?!
 Comment: 0,0:18:56.69,0:18:58.26,Default,ja,0,0,0,,刀がぬけん！
 Dialogue: 0,0:18:56.69,0:18:58.26,Default,ko,0,0,0,,칼이 빠지지 않아!
 Dialogue: 0,0:18:56.69,0:18:58.26,Default,en,0,0,0,,I can't take my sword back!
-Comment: 0,0:18:58.66,0:19:01.93,Default,ja,0,0,0,,二天一流、蟹挟の太刀だす！
+Comment: 0,0:18:58.66,0:19:01.93,Default,ja,0,0,0,,二天一流、蟹挟の太刀だス！
 Dialogue: 0,0:18:58.66,0:19:01.93,Default,ko,0,0,0,,이천일류, 가위치기의 칼이오!
 Dialogue: 0,0:18:58.66,0:19:01.93,Default,en,0,0,0,,Niten'ichiryū - Sword of Crab's Scissors!
 Comment: 0,0:19:12.53,0:19:13.61,Default,ja,0,0,0,,危ないところだった。
 Dialogue: 0,0:19:12.53,0:19:13.61,Default,ko,0,0,0,,위험했다.
 Dialogue: 0,0:19:12.53,0:19:13.61,Default,en,0,0,0,,That was close.
-Comment: 0,0:19:14.21,0:19:17.48,Default,ja,0,0,0,,まったかっこつけて。おいらでもよけられただす。
+Comment: 0,0:19:14.21,0:19:17.48,Default,ja,0,0,0,,まったかっこつけて。おいらでもよけられただス。
 Dialogue: 0,0:19:14.21,0:19:17.48,Default,ko,0,0,0,,또 멋진 척하기는. 혼자서라도 충분히 되오!
 Dialogue: 0,0:19:14.21,0:19:17.48,Default,en,0,0,0,,Acting cool again? I'm more than enough for that-{\i1}dasu{\i0}!
 Comment: 0,0:19:18.06,0:19:20.89,Default,ja,0,0,0,,私だって、一回ぐらいはいいとこ見せないと。。。
@@ -616,7 +616,7 @@ Dialogue: 0,0:20:58.89,0:21:02.40,Default,en,0,0,0,,Your dad surely have underst
 Comment: 0,0:21:02.94,0:21:05.03,Default,ja,0,0,0,,あら？ムサシは？・あ？
 Dialogue: 0,0:21:02.94,0:21:05.03,Default,ko,0,0,0,,-어라, 무사시는?\N-어?
 Dialogue: 0,0:21:02.94,0:21:05.03,Default,en,0,0,0,,-Hey, where's Musashi?\N-Huh?
-Comment: 0,0:21:07.86,0:21:09.50,Default,ja,0,0,0,,あれだけの金がぱーだす。
+Comment: 0,0:21:07.86,0:21:09.50,Default,ja,0,0,0,,あれだけの金がぱーだス。
 Dialogue: 0,0:21:07.86,0:21:09.50,Default,ko,0,0,0,,저 만큼의 금이 팍 흩어졌소.
 Dialogue: 0,0:21:07.86,0:21:09.50,Default,en,0,0,0,,All that gold were spread into air-{\i1}dasu{\i0}.
 Comment: 0,0:21:11.38,0:21:14.22,Default,ja,0,0,0,,せめて飯ぐらいくいまくて元を取るだス。
@@ -649,13 +649,13 @@ Dialogue: 0,0:21:44.28,0:21:45.52,Default,en,0,0,0,,What's wrong-{\i1}dasu{\i0}?
 Comment: 0,0:21:46.32,0:21:47.68,Default,ja,0,0,0,,これ！～だよ。
 Dialogue: 0,0:21:46.32,0:21:47.68,Default,ko,0,0,0,,이거! 도시락이야.
 Dialogue: 0,0:21:46.32,0:21:47.68,Default,en,0,0,0,,Here! Your lunch box.
-Comment: 0,0:21:47.68,0:21:51.33,Default,ja,0,0,0,,うわ！さすがわ三太の両親だす！
+Comment: 0,0:21:47.68,0:21:51.33,Default,ja,0,0,0,,うわ！さすがわ三太の両親だス！
 Dialogue: 0,0:21:47.68,0:21:51.33,Default,ko,0,0,0,,우와! 역시 산타네 부모님이오!
 Dialogue: 0,0:21:47.68,0:21:51.33,Default,en,0,0,0,,Yes! Santa's parents are great!
 Comment: 0,0:21:51.61,0:21:56.38,Default,ja,0,0,0,,腹が減っては修行はできないもんね。しっかりやるんだよ、ムサシ！
 Dialogue: 0,0:21:51.61,0:21:56.38,Default,ko,0,0,0,,배가 고프면 수행할 수 없잖아. 똑바로 해, 무사시!
 Dialogue: 0,0:21:51.61,0:21:56.38,Default,en,0,0,0,,You can't train when you're hungry. Do it properly, Musashi!
-Comment: 0,0:21:56.87,0:21:58.22,Default,ja,0,0,0,,へい！がんばるだす！
+Comment: 0,0:21:56.87,0:21:58.22,Default,ja,0,0,0,,へい！がんばるだス！
 Dialogue: 0,0:21:56.87,0:21:58.22,Default,ko,0,0,0,,알겠소! 힘내겠소!
 Dialogue: 0,0:21:56.87,0:21:58.22,Default,en,0,0,0,,Got it! I'll do my best-{\i1}dasu{\i0}!
 Comment: 0,0:21:58.89,0:22:04.10,Default,ja,0,0,0,,おう！こいつ、ジパングナンバーワンのおいらに向かって生意気だス！

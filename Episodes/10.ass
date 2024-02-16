@@ -175,7 +175,7 @@ Dialogue: 0,0:05:08.31,0:05:11.00,Default,en,0,0,0,,Dammit! You'll pay for this!
 Comment: 0,0:05:15.19,0:05:17.94,Default,ja,0,0,0,,坊や、本当にどうもありがとう。
 Dialogue: 0,0:05:15.19,0:05:17.94,Default,ko,0,0,0,,얘야, 정말 고맙다.
 Dialogue: 0,0:05:15.19,0:05:17.94,Default,en,0,0,0,,Thank you, kid.
-Comment: 0,0:05:18.62,0:05:24.51,Default,ja,0,0,0,,おいら、坊やなんかじゃないだス。おいら、ジパングナンバーワンの武芸者を目指す宮本村のムサシだす。
+Comment: 0,0:05:18.62,0:05:24.51,Default,ja,0,0,0,,おいら、坊やなんかじゃないだス。おいら、ジパングナンバーワンの武芸者を目指す宮本村のムサシだス。
 Dialogue: 0,0:05:18.62,0:05:24.51,Default,ko,0,0,0,,난 얘가 아니오. 난 지팡구 제일의 무예가를 꿈꾸는 미야모토 마을의 무사시오.
 Dialogue: 0,0:05:18.62,0:05:24.51,Default,en,0,0,0,,I am not a kid-{\i1}dasu{\i0}. I am Musashi from Miyamoto village who will be the number one martial artist of Jipangu-{\i1}dasu{\i0}.
 Comment: 0,0:05:24.94,0:05:27.51,Default,ja,0,0,0,,ムサシ君、強そうな名前ね。
@@ -196,7 +196,7 @@ Dialogue: 0,0:05:40.87,0:05:41.69,Default,en,0,0,0,,Still...
 Comment: 0,0:05:41.86,0:05:42.70,Default,ja,0,0,0,,けど？
 Dialogue: 0,0:05:41.86,0:05:42.70,Default,ko,0,0,0,,그래도?
 Dialogue: 0,0:05:41.86,0:05:42.70,Default,en,0,0,0,,Still?
-Comment: 0,0:05:43.18,0:05:44.95,Default,ja,0,0,0,,おいら、はらぺっこなんだす。
+Comment: 0,0:05:43.18,0:05:44.95,Default,ja,0,0,0,,おいら、はらぺっこなんだス。
 Dialogue: 0,0:05:43.18,0:05:44.95,Default,ko,0,0,0,,나, 배가 비었소.
 Dialogue: 0,0:05:43.18,0:05:44.95,Default,en,0,0,0,,I am so hungry-{\i1}dasu{\i0}.
 Comment: 0,0:05:46.97,0:05:48.18,Default,ja,0,0,0,,まあ。
@@ -313,7 +313,7 @@ Dialogue: 0,0:10:05.05,0:10:08.57,Default,en,0,0,0,,No! I am not a friend of suc
 Comment: 0,0:10:09.70,0:10:13.82,Default,ja,0,0,0,,じゃ、この俺を水の中に叩き込んだどこのドイツで？！
 Dialogue: 0,0:10:09.70,0:10:13.82,Default,ko,0,0,0,,그럼 날 물에 빠뜨린 건 어디 누가!
 Dialogue: 0,0:10:09.70,0:10:13.82,Default,en,0,0,0,,Then, who from where knocked me into water?!
-Comment: 0,0:10:14.06,0:10:18.11,Default,ja,0,0,0,,だからおいらで十手は正義の印だって知らなかっただす！
+Comment: 0,0:10:14.06,0:10:18.11,Default,ja,0,0,0,,だからおいらで十手は正義の印だって知らなかっただス！
 Dialogue: 0,0:10:14.06,0:10:18.11,Default,ko,0,0,0,,그러니까 난 막대기가 정의의 증표였다는 것을 몰랐소!
 Dialogue: 0,0:10:14.06,0:10:18.11,Default,en,0,0,0,,I didn't know that truncheon was a sign of justice!
 Comment: 0,0:10:18.78,0:10:20.34,Default,ja,0,0,0,,いいかげんなこと言うじゃね！
@@ -440,10 +440,10 @@ Dialogue: 0,0:13:44.62,0:13:50.27,Default,ko,0,0,0,,여기, 에도 성에서는 
 Dialogue: 0,0:13:44.62,0:13:50.27,Default,en,0,0,0,,Here, in Edo Castle, the registration for Jipangu Martial Arts Competition has begun.
 Comment: 0,0:13:51.20,0:13:53.26,Default,ja,0,0,0,,突撃流、やもどなうえよ　
 Dialogue: 0,0:13:51.20,0:13:53.26,Default,ko,0,0,0,,돌격류 야마도나 우에.
-Dialogue: 0,0:13:51.20,0:13:53.26,Default,en,0,0,0,,Totsugekiryū; Ue Yamadona.
+Dialogue: 0,0:13:51.20,0:13:53.26,Default,en,0,0,0,,Totsugekiryū; Yamadona Ue.
 Comment: 0,0:13:53.45,0:13:55.21,Default,ja,0,0,0,,やまどなうえもん。
 Dialogue: 0,0:13:53.45,0:13:55.21,Default,ko,0,0,0,,야마도나 우에.
-Dialogue: 0,0:13:53.45,0:13:55.21,Default,en,0,0,0,,Ue Yamadona.
+Dialogue: 0,0:13:53.45,0:13:55.21,Default,en,0,0,0,,Yamadona Ue.
 Comment: 0,0:13:56.74,0:13:58.12,Default,ja,0,0,0,,第6会場にどう。
 Dialogue: 0,0:13:56.74,0:13:58.12,Default,ko,0,0,0,,제 6회장에 가세요.
 Dialogue: 0,0:13:56.74,0:13:58.12,Default,en,0,0,0,,Go to the sixth venue.
@@ -532,7 +532,7 @@ Dialogue: 0,0:16:04.90,0:16:07.28,Default,en,0,0,0,,I never did something wrong-
 Comment: 0,0:16:08.09,0:16:10.15,Default,ja,0,0,0,,おいら、もう何も信じないだス。。。
 Dialogue: 0,0:16:08.09,0:16:10.15,Default,ko,0,0,0,,난 이제 무엇도 믿지 않겠소...
 Dialogue: 0,0:16:08.09,0:16:10.15,Default,en,0,0,0,,I won't trust anything from now on-{\i1}dasu{\i0}...
-Comment: 0,0:16:11.13,0:16:13.19,Default,ja,0,0,0,,神様だって呪ってやるだす。
+Comment: 0,0:16:11.13,0:16:13.19,Default,ja,0,0,0,,神様だって呪ってやるだス。
 Dialogue: 0,0:16:11.13,0:16:13.19,Default,ko,0,0,0,,신도 저주하겠소.
 Dialogue: 0,0:16:11.13,0:16:13.19,Default,en,0,0,0,,I will curse the god too-{\i1}dasu{\i0}.
 Comment: 0,0:16:23.58,0:16:27.62,Default,ja,0,0,0,,ゼニガタンの親分、この坊主は無実だぜ、きっと。
@@ -603,13 +603,13 @@ Dialogue: 0,0:17:48.74,0:17:50.10,Default,ko,0,0,0,,양국집.
 Dialogue: 0,0:17:48.74,0:17:50.10,Default,en,0,0,0,,Ryōmokuya.
 Comment: 0,0:17:50.10,0:17:51.32,Default,ja,0,0,0,,りょうもくや。
 Dialogue: 0,0:17:50.10,0:17:51.32,Default,ko,0,0,0,,양국집.
-Dialogue: 0,0:17:50.10,0:17:51.32,Default,en,0,0,0,,Ryoumokuya.
+Dialogue: 0,0:17:50.10,0:17:51.32,Default,en,0,0,0,,Ryōmokuya.
 Comment: 0,0:17:53.45,0:17:55.52,Default,ja,0,0,0,,なんで早く思い出さないんだ？！
 Dialogue: 0,0:17:53.45,0:17:55.52,Default,ko,0,0,0,,왜 빨리 기억해내지 못했냐!
 Dialogue: 0,0:17:53.45,0:17:55.52,Default,en,0,0,0,,What took you so long to remember that?!
 Comment: 0,0:17:56.23,0:17:59.34,Default,ja,0,0,0,,でも、アカネさんは決して悪い人ではないだス！
 Dialogue: 0,0:17:56.23,0:17:59.34,Default,ko,0,0,0,,그래도 아카네는 절대 나쁜 사람이 아니오!
-Dialogue: 0,0:17:56.23,0:17:59.34,Default,en,0,0,0,,But Ms. Akane cannot be a bad person-{\i1}dasu{\i0}!
+Dialogue: 0,0:17:56.23,0:17:59.34,Default,en,0,0,0,,But Akane cannot be a bad person-{\i1}dasu{\i0}!
 Comment: 0,0:17:59.47,0:18:01.68,Default,ja,0,0,0,,えい、まだそんなことを！
 Dialogue: 0,0:17:59.47,0:18:01.68,Default,ko,0,0,0,,에이, 아직도 그런 소리를!
 Dialogue: 0,0:17:59.47,0:18:01.68,Default,en,0,0,0,,Hmph, forget it!
