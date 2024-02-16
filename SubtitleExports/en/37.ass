@@ -114,11 +114,41 @@ Dialogue: 0,0:06:23.08,0:06:25.32,Default,en,0,0,0,,-Yeah, yeah!\N-I want to hea
 Dialogue: 0,0:06:25.32,0:06:26.34,Default,en,0,0,0,,Really-{\i1}dasu{\i0}?
 Dialogue: 0,0:06:28.68,0:06:33.19,Default,en,0,0,0,,Then let me tell my story about when I got Tenkūmaru and Tenchimaru-{\i1}dasu{\i0}!
 Dialogue: 0,0:06:35.46,0:06:40.77,Default,en,0,0,0,,During our journey, we had to fight Tsuchigumo controlled by Onihime-{\i1}dasu{\i0}.
+Dialogue: 0,0:06:52.59,0:06:53.20,Default,en,0,0,0,,That must be...
+Dialogue: 0,0:06:54.31,0:06:55.67,Default,en,0,0,0,,That must be Tenchimaru!
+Dialogue: 0,0:06:57.46,0:06:58.72,Default,en,0,0,0,,Help me!
+Dialogue: 0,0:07:01.37,0:07:02.23,Default,en,0,0,0,,Otama!
+Dialogue: 0,0:07:03.06,0:07:04.14,Default,en,0,0,0,,I'm going right now!
+Dialogue: 0,0:07:05.02,0:07:06.42,Default,en,0,0,0,,W-what-
+Dialogue: 0,0:07:07.58,0:07:08.41,Default,en,0,0,0,,Tsuchigumo!
+Dialogue: 0,0:07:10.46,0:07:12.29,Default,en,0,0,0,,It's cowardly to come out of nowhere-{\i1}dasu{\i0}!
+Dialogue: 0,0:07:19.22,0:07:19.89,Default,en,0,0,0,,Kojirō!
 Dialogue: 0,0:07:21.11,0:07:23.52,Default,en,0,0,0,,Leave this to me. Musashi, you rescue that girl.
+Dialogue: 0,0:07:24.38,0:07:25.94,Default,en,0,0,0,,Come attack me, monster!
 Dialogue: 0,0:07:28.43,0:07:30.13,Default,en,0,0,0,,Otama, get a grip!
+Dialogue: 0,0:07:33.90,0:07:36.54,Default,en,0,0,0,,Otama, get onto my back-{\i1}dasu{\i0}!
+Dialogue: 0,0:07:37.46,0:07:38.55,Default,en,0,0,0,,Thank you.
+Dialogue: 0,0:07:40.62,0:07:42.45,Default,en,0,0,0,,Musashi! She isn't Otama!
+Dialogue: 0,0:07:42.97,0:07:44.08,Default,en,0,0,0,,Die, Musashi!
 Dialogue: 0,0:07:44.08,0:07:45.48,Default,en,0,0,0,,What are you doing?!
+Dialogue: 0,0:07:46.83,0:07:47.90,Default,en,0,0,0,,Die, Musashi!
+Dialogue: 0,0:07:51.49,0:07:52.52,Default,en,0,0,0,,Prepare yourself-{\i1}dasu{\i0}!
+Dialogue: 0,0:07:53.34,0:07:56.79,Default,en,0,0,0,,Are you going to torment an old woman?
+Dialogue: 0,0:07:57.26,0:07:58.26,Default,en,0,0,0,,Grandma...
+Dialogue: 0,0:08:03.83,0:08:04.55,Default,en,0,0,0,,Musashi!
+Dialogue: 0,0:08:10.55,0:08:11.84,Default,en,0,0,0,,Go, Tsuchigumo!
+Dialogue: 0,0:08:27.89,0:08:28.62,Default,en,0,0,0,,Chink in the armor!
+Dialogue: 0,0:08:35.52,0:08:36.25,Default,en,0,0,0,,Osenchan!
+Dialogue: 0,0:08:39.18,0:08:40.55,Default,en,0,0,0,,Help me!
+Dialogue: 0,0:08:49.75,0:08:50.66,Default,en,0,0,0,,-Benkei!\N-You're in good hands now!
 Dialogue: 0,0:08:55.76,0:08:59.24,Default,en,0,0,0,,We also heard about the monster and are here to exterminate! We'll help!
+Dialogue: 0,0:08:59.24,0:09:00.34,Default,en,0,0,0,,Ushiwaka!
+Dialogue: 0,0:09:00.34,0:09:03.46,Default,en,0,0,0,,Feeling lucky? I'll kill you all!
 Dialogue: 0,0:09:05.23,0:09:06.17,Default,en,0,0,0,,Hot!
+Dialogue: 0,0:09:11.79,0:09:13.09,Default,en,0,0,0,,Go! Tsuchigumo!
+Dialogue: 0,0:09:29.92,0:09:31.54,Default,en,0,0,0,,Leave the rest to me-{\i1}dasu{\i0}!
+Dialogue: 0,0:09:34.22,0:09:35.52,Default,en,0,0,0,,Musashi! Be careful!
+Dialogue: 0,0:09:39.89,0:09:40.74,Default,en,0,0,0,,My Kotetsu!
 Dialogue: 0,0:09:43.26,0:09:45.33,Default,en,0,0,0,,It's for the grudge of my precious Kotetsu-{\i1}dasu{\i0}!
 Dialogue: 0,0:10:11.04,0:10:17.18,Default,en,0,0,0,,After taking Tsuchigumo down and obtaining Tenchimaru, I had to fight Yamata no Orochi.
 Dialogue: 0,0:11:13.20,0:11:15.07,Default,en,0,0,0,,This definitely is Tenkūmaru!
@@ -136,27 +166,78 @@ Dialogue: 0,0:12:21.87,0:12:28.42,Default,en,0,0,0,,No, not that much-{\i1}dasu{
 Dialogue: 0,0:12:29.94,0:12:33.85,Default,en,0,0,0,,Thinking about that, I showed man's tears for once-{\i1}dasu{\i0}.
 Dialogue: 0,0:12:34.92,0:12:36.65,Default,en,0,0,0,,Tell me, Mr. Musashi.
 Dialogue: 0,0:12:37.02,0:12:41.60,Default,en,0,0,0,,At that time, we were fighting against Shiranui Clan-{\i1}dasu{\i0}.
+Dialogue: 0,0:12:46.72,0:12:49.97,Default,en,0,0,0,,As long as evil exists in this world, my mission is to exterminate them!
 Dialogue: 0,0:13:38.11,0:13:40.15,Default,en,0,0,0,,It hurts, it hurts!
 Dialogue: 0,0:13:40.15,0:13:42.88,Default,en,0,0,0,,Mommy! It hurts, it hurts!
 Dialogue: 0,0:13:43.47,0:13:45.30,Default,en,0,0,0,,Mommy! It hurts!
 Dialogue: 0,0:13:45.30,0:13:46.83,Default,en,0,0,0,,What's wrong, Musashi?
+Dialogue: 0,0:13:46.83,0:13:48.65,Default,en,0,0,0,,I fell down.
+Dialogue: 0,0:13:49.04,0:13:53.20,Default,en,0,0,0,,That must've hurt! Pain, pain, go away!
+Dialogue: 0,0:13:53.20,0:13:55.05,Default,en,0,0,0,,Look! You're fine now!
+Dialogue: 0,0:13:55.05,0:13:56.71,Default,en,0,0,0,,Yeah, I'm good now!
+Dialogue: 0,0:14:00.31,0:14:01.28,Default,en,0,0,0,,Mommy...
+Dialogue: 0,0:14:04.19,0:14:06.40,Default,en,0,0,0,,Mommy!
+Dialogue: 0,0:14:08.06,0:14:08.92,Default,en,0,0,0,,It was a dream...
+Dialogue: 0,0:14:13.39,0:14:15.35,Default,en,0,0,0,,Mr. Musashi? Did you wake up?
+Dialogue: 0,0:14:16.21,0:14:17.06,Default,en,0,0,0,,Mommy...
+Dialogue: 0,0:14:19.46,0:14:21.14,Default,en,0,0,0,,No, Mr. Musashi!
+Dialogue: 0,0:14:23.24,0:14:28.14,Default,en,0,0,0,,Being like this feels like I'm with my mother-{\i1}dasu{\i0}!
+Dialogue: 0,0:14:28.59,0:14:32.03,Default,en,0,0,0,,Am I really that like your mother, Mr. Musashi?
+Dialogue: 0,0:14:32.69,0:14:36.13,Default,en,0,0,0,,Well, I have never met my mother-{\i1}dasu{\i0}.
+Dialogue: 0,0:14:37.70,0:14:40.79,Default,en,0,0,0,,I'll show you the difference of the swords of Niten'ichiryū-{\i1}dasu{\i0}!
+Dialogue: 0,0:14:37.70,0:14:40.79,Default,en,0,0,0,,When I woke up, I was alone-{\i1}dasu{\i0}...
+Dialogue: 0,0:14:41.56,0:14:42.59,Default,en,0,0,0,,I see.
+Dialogue: 0,0:14:43.48,0:14:46.79,Default,en,0,0,0,,If she exists, then I guess that she's just like you, Ms. Himiko!
+Dialogue: 0,0:14:48.50,0:14:53.22,Default,en,0,0,0,,I feel great-{\i1}dasu{\i0}. It really worth it to come to Unzen-{\i1}dasu{\i0}!
 Dialogue: 0,0:14:54.91,0:14:59.79,Default,en,0,0,0,,Ms. Himiko was really kind, and she was as if my mother-{\i1}dasu{\i0}.
 Dialogue: 0,0:15:00.59,0:15:01.08,Default,en,0,0,0,,But...
 Dialogue: 0,0:15:06.79,0:15:11.07,Default,en,0,0,0,,Musashi! That Himiko woman is the queen of Shiranui Clan!
+Dialogue: 0,0:15:11.51,0:15:13.18,Default,en,0,0,0,,That can't be true-dasu!
 Dialogue: 0,0:15:13.56,0:15:15.91,Default,en,0,0,0,,I checked it and there's no doubt about it!
+Dialogue: 0,0:15:16.05,0:15:20.39,Default,en,0,0,0,,Ms. Himiko was so kind to me-dasu!
 Dialogue: 0,0:15:20.79,0:15:22.82,Default,en,0,0,0,,That woman is our enemy!
+Dialogue: 0,0:15:23.56,0:15:25.26,Default,en,0,0,0,,Don't talk! I don't want to listen-dasu!
+Dialogue: 0,0:15:25.65,0:15:27.37,Default,en,0,0,0,,I don't want to listen-dasu.
+Dialogue: 0,0:15:28.82,0:15:29.88,Default,en,0,0,0,,I get it, Musashi.
 Dialogue: 0,0:15:37.79,0:15:43.76,Default,en,0,0,0,,I couldn't believe that kind Ms. Himiko was a queen of Shiranui-{\i1}dasu{\i0}.
 Dialogue: 0,0:15:44.41,0:15:48.29,Default,en,0,0,0,,That's why I went to Sakurajima, the base of Shiranui...
 Dialogue: 0,0:16:33.86,0:16:36.57,Default,en,0,0,0,,Everyone! The time has come!
 Dialogue: 0,0:16:36.80,0:16:41.56,Default,en,0,0,0,,We will take General Ieyasu down and claim Jipangu State into our hands!
 Dialogue: 0,0:16:42.88,0:16:47.28,Default,en,0,0,0,,{\i1}Just like Jiraiyan said, Ms. Himiko is the queen of Shiranui...
 Dialogue: 0,0:16:49.18,0:16:52.88,Default,en,0,0,0,,Lord Himiko! Lord Himiko!
+Dialogue: 0,0:16:53.31,0:17:00.60,Default,en,0,0,0,,Listen to me, everyone. A new comrade is going to help us for our revival.
+Dialogue: 0,0:17:00.99,0:17:02.25,Default,en,0,0,0,,Mr. Hanzō.
+Dialogue: 0,0:17:04.74,0:17:14.16,Default,en,0,0,0,,Everyone! For our objective, Shiranui must move first and do an armed uprising to overthrow Jipangu State.
+Dialogue: 0,0:17:14.78,0:17:18.56,Default,en,0,0,0,,Everyone! Make an oath of victory to Hanzō and me!
+Dialogue: 0,0:17:18.83,0:17:24.97,Default,en,0,0,0,,Yessir! Queen Himiko! Yesser! Mr. Hanzō!
+Dialogue: 0,0:17:32.70,0:17:34.12,Default,en,0,0,0,,Where are you going!?
 Dialogue: 0,0:17:34.63,0:17:39.65,Default,en,0,0,0,,Um, err, that's, I was so excited that I want to urinate-{\i1}dasu{\i0}.
+Dialogue: 0,0:17:40.41,0:17:41.03,Default,en,0,0,0,,{\i1}dasu{\i0}?
+Dialogue: 0,0:17:41.65,0:17:43.55,Default,en,0,0,0,,Nonono, I'm going-{\i1}gowasu{\i0}.
+Dialogue: 0,0:17:44.04,0:17:45.47,Default,en,0,0,0,,Show your face!
+Dialogue: 0,0:17:45.78,0:17:48.84,Default,en,0,0,0,,N- no, this isn't a face worth being shown-{\i1}dasu{\i0}.
+Dialogue: 0,0:17:48.84,0:17:50.29,Default,en,0,0,0,,Nono, {\i1}gowasu{\i0}!
+Dialogue: 0,0:17:50.52,0:17:52.39,Default,en,0,0,0,,Ahh! Stop it-{\i1}gowasu{\i0}!
 Dialogue: 0,0:17:53.76,0:17:56.32,Default,en,0,0,0,,Musashi?! Musashi, you!
 Dialogue: 0,0:17:56.78,0:17:58.62,Default,en,0,0,0,,Ms. Himiko! No, Himiko!
+Dialogue: 0,0:17:58.94,0:18:01.18,Default,en,0,0,0,,You dared to deceive me-{\i1}dasu{\i0}, Himiko!
+Dialogue: 0,0:18:01.18,0:18:03.08,Default,en,0,0,0,,It means that you're a fool.
 Dialogue: 0,0:18:03.60,0:18:07.53,Default,en,0,0,0,,But as usual, your idiocy wasn't fixed after all!
+Dialogue: 0,0:18:08.07,0:18:11.83,Default,en,0,0,0,,How dare you sneak into the base of Shiranui unconcernedly!
+Dialogue: 0,0:18:12.37,0:18:15.38,Default,en,0,0,0,,That dauntlessness is my personality-{\i1}dasu{\i0}!
+Dialogue: 0,0:18:15.97,0:18:16.91,Default,en,0,0,0,,Do not babble, you brat!
+Dialogue: 0,0:18:22.63,0:18:23.35,Default,en,0,0,0,,Damn!
+Dialogue: 0,0:18:24.72,0:18:27.23,Default,en,0,0,0,,I will send you back to that world this time!
+Dialogue: 0,0:18:28.48,0:18:29.31,Default,en,0,0,0,,What!?
+Dialogue: 0,0:18:41.08,0:18:41.80,Default,en,0,0,0,,Jiraiyan!
+Dialogue: 0,0:18:41.80,0:18:42.31,Default,en,0,0,0,,Musashi!
+Dialogue: 0,0:18:46.01,0:18:51.27,Default,en,0,0,0,,I'm sorry-{\i1}dasu{\i0}, Jiraiyan. That Himiko really was the queen of Shiranui-{\i1}dasu{\i0}.
+Dialogue: 0,0:18:51.51,0:18:53.85,Default,en,0,0,0,,Forget about that; just run away!
 Dialogue: 0,0:19:17.19,0:19:19.24,Default,en,0,0,0,,And? What happened?
 Dialogue: 0,0:19:20.06,0:19:24.80,Default,en,0,0,0,,Hanzō betrayed Ms. Himiko and Ms. Himiko died-{\i1}dasu{\i0}.
+Dialogue: 0,0:19:26.93,0:19:31.44,Default,en,0,0,0,,Musashi. Will you forgive me?
+Dialogue: 0,0:19:40.13,0:19:43.88,Default,en,0,0,0,,M- Musashi. Please call me mother for the last time.
+Dialogue: 0,0:19:45.69,0:19:48.02,Default,en,0,0,0,,Mother!
 Dialogue: 0,0:19:54.62,0:19:56.39,Default,en,0,0,0,,That must've been hurt.
 Dialogue: 0,0:19:56.72,0:19:57.80,Default,en,0,0,0,,Right-{\i1}dasu{\i0}.
 Dialogue: 0,0:20:13.80,0:20:16.91,Default,en,0,0,0,,Er, Otsuru, when did you get a tail-{\i1}dasu{\i0}?

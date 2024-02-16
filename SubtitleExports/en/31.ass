@@ -195,7 +195,7 @@ Dialogue: 0,0:13:43.26,0:13:45.09,Default,en,0,0,0,,-Kojirō!\N-Got it. Right aw
 Dialogue: 0,0:13:45.70,0:13:48.24,Default,en,0,0,0,,I hope my bad foreboding is wrong...
 Dialogue: 0,0:13:53.34,0:13:54.42,Default,en,0,0,0,,It's tasty!
 Dialogue: 0,0:13:56.16,0:13:59.59,Default,en,0,0,0,,Really, you saved me-{\i1}dasu{\i0}, Ms. Himiko!
-Dialogue: 0,0:13:59.59,0:14:00.76,Default,en,0,0,0,,-Open.\N-Ahh.
+Dialogue: 0,0:13:59.59,0:14:00.76,Default,en,0,0,0,L1359,-Open.\N-Ahh.
 Dialogue: 0,0:14:01.44,0:14:04.86,Default,en,0,0,0,,It tastes even great, maybe because you're so kind-{\i1}dasu{\i0}, Ms. Himiko!
 Dialogue: 0,0:14:05.10,0:14:08.82,Default,en,0,0,0,,Hey, it's empty already. Mr. Musashi, do you want to have more?
 Dialogue: 0,0:14:09.02,0:14:11.01,Default,en,0,0,0,,Yes-{\i1}dasu{\i0}! I'll eat more-{\i1}dasu{\i0}!
@@ -203,8 +203,8 @@ Dialogue: 0,0:14:11.76,0:14:13.33,Default,en,0,0,0,,Please wait for a moment.
 Dialogue: 0,0:14:19.63,0:14:22.03,Default,en,0,0,0,,Tell Genba to be prepared.
 Dialogue: 0,0:14:23.61,0:14:24.26,Default,en,0,0,0,,Ms. Himiko!
 Dialogue: 0,0:14:25.56,0:14:26.02,Default,en,0,0,0,,Y- yeah!
-Dialogue: 0,0:14:27.18,0:14:29.42,Default,en,0,0,0,,Excuse me-{\i1}dasu{\i0}. Where's the toilet-{\i1}dasu{\i0}?
-Dialogue: 0,0:14:29.71,0:14:32.38,Default,en,0,0,0,,Yes, I'll take you to there.
+Dialogue: 0,0:14:27.18,0:14:29.42,Default,en,0,0,0,L1427,Excuse me-{\i1}dasu{\i0}. Where's the toilet-{\i1}dasu{\i0}?
+Dialogue: 0,0:14:29.71,0:14:32.38,Default,en,0,0,0,L1429,Yes, I'll take you to there.
 Dialogue: 0,0:14:35.04,0:14:38.36,Default,en,0,0,0,37-09,Being like this feels like I'm with my mother-{\i1}dasu{\i0}!
 Dialogue: 0,0:14:39.00,0:14:42.35,Default,en,0,0,0,37-10,Am I really that like your mother, Mr. Musashi?
 Dialogue: 0,0:14:43.04,0:14:46.50,Default,en,0,0,0,37-11,Well, I have never met my mother-{\i1}dasu{\i0}.

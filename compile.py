@@ -425,7 +425,6 @@ def __main__():
             continue
         subtitles[f.name[:-4]] = Ass(f)
 
-    subtitles = {k: v for k, v in subtitles.items() if k in ('OP', 'ED1') or int(k, 10) <= 18}
     resolve_xref(subtitles)
 
     # print(generate_chapters(subtitles["14"]))
