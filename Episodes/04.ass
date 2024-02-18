@@ -15,9 +15,9 @@ Video File: ../Videos/04.mp4
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 886
-Active Line: 914
-Video Position: 35294
+Scroll Position: 27
+Active Line: 43
+Video Position: 3336
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -76,7 +76,7 @@ Comment: 0,0:02:12.08,0:02:18.47,Default,ja,0,0,0,,悪戦苦闘の末、ウシ�
 Dialogue: 0,0:02:12.08,0:02:18.47,Default,ko,0,0,0,,악전고투 끝에 우시와카에게 좋은 걸 놓쳐버렸을 뿐이었다.
 Dialogue: 0,0:02:12.08,0:02:18.47,Default,en,0,0,0,,but after a hard struggle, Ushiwaka ended up claiming the good stuff.
 Comment: 0,0:02:19.12,0:02:24.12,TitleEP,ja,0,0,70,,リョーマは一人風の中だス
-Dialogue: 0,0:02:19.12,0:02:24.12,TitleEP,ko,0,0,70,,료마는 혼자 바람 속에
+Dialogue: 0,0:02:19.12,0:02:24.12,TitleEP,ko,0,0,70,,료마는 혼자 바람 속이오
 Dialogue: 0,0:02:19.12,0:02:24.12,TitleEP,en,0,0,80,,Ryoma is Alone in the Wind
 Comment: 0,0:02:30.89,0:02:32.38,Default,ja,0,0,0,,いててて。
 Dialogue: 0,0:02:30.89,0:02:32.38,Default,ko,0,0,0,,아야야.

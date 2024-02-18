@@ -15,8 +15,9 @@ Video File: ../Videos/11.mp4
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Active Line: 8
-Video Position: 35259
+Scroll Position: 12
+Active Line: 46
+Video Position: 3334
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -78,7 +79,7 @@ Comment: 0,0:02:13.27,0:02:18.24,Default,ja,0,0,0,,ムサシはさて、武芸�
 Dialogue: 0,0:02:13.27,0:02:18.24,Default,ko,0,0,0,,무사시는 과연 무예 대회에 출전할 수 있을 것인가?
 Dialogue: 0,0:02:13.27,0:02:18.24,Default,en,0,0,0,,Will Musashi be able to participate in the martial arts competition?
 Comment: 0,0:02:18.39,0:02:23.39,TitleEP,ja,0,0,70,,なぐりこみ　武芸大会だス
-Dialogue: 0,0:02:18.39,0:02:23.39,TitleEP,ko,0,0,70,,난입! 무예대회
+Dialogue: 0,0:02:18.39,0:02:23.39,TitleEP,ko,0,0,70,,난입! 무예대회이오
 Dialogue: 0,0:02:18.39,0:02:23.39,TitleEP,en,0,0,220,,Raid into
 Dialogue: 0,0:02:18.39,0:02:23.39,TitleEP,en,0,0,90,,the Martial Arts Competition
 Dialogue: 0,0:02:23.39,0:02:29.36,NoteOnAnime,ko,0,0,0,,{\fs32\an5\fay-0.13\move(768,50,81,60)\bord5\c&H000000&\3c&HF1F7F8&}지팡구 무예대회 회장

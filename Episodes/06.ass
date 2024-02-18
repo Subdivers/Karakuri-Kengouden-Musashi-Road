@@ -15,9 +15,9 @@ Video File: ../Videos/06.mp4
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 740
-Active Line: 772
-Video Position: 29282
+Scroll Position: 840
+Active Line: 879
+Video Position: 3408
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -76,11 +76,11 @@ Comment: 0,0:02:09.16,0:02:17.97,Default,ja,0,0,0,,大満足。気分はジパ�
 Dialogue: 0,0:02:09.16,0:02:17.97,Default,ko,0,0,0,,대만족, 기분은 지팡구 제일이었지만, 과연 앞길에서 기다리는 것은 바람인가 폭풍인가?
 Dialogue: 0,0:02:09.16,0:02:13.54,Default,en,0,0,0,,He was very satisfied! He felt like he already became the number one of Jipangu,
 Dialogue: 0,0:02:13.54,0:02:17.97,Default,en,0,0,0,,but what will be waiting in front of him? Wind or storm?
-Comment: 0,0:02:17.97,0:02:22.98,TitleOP,ja,0,0,200,,おいらは師匠だ。エライだス
-Dialogue: 0,0:02:17.97,0:02:22.98,TitleOP,ko,0,0,200,,나는 스승이오
-Dialogue: 0,0:02:17.97,0:02:22.98,TitleOP,ko,0,0,80,,훌륭하오!
-Dialogue: 0,0:02:17.97,0:02:22.98,TitleOP,en,0,0,200,,I am a Master
-Dialogue: 0,0:02:17.97,0:02:22.98,TitleOP,en,0,0,80,,Excellent!
+Comment: 0,0:02:17.97,0:02:22.98,TitleEP,ja,0,0,200,,おいらは師匠だ。エライだス
+Dialogue: 0,0:02:17.97,0:02:22.98,TitleEP,ko,0,0,200,,나는 스승이오
+Dialogue: 0,0:02:17.97,0:02:22.98,TitleEP,ko,0,0,80,,훌륭하오!
+Dialogue: 0,0:02:17.97,0:02:22.98,TitleEP,en,0,0,200,,I am a Master
+Dialogue: 0,0:02:17.97,0:02:22.98,TitleEP,en,0,0,80,,Excellent!
 Comment: 0,0:02:26.94,0:02:28.84,Default,ja,0,0,0,,船が出るぞ！
 Dialogue: 0,0:02:26.94,0:02:28.84,Default,ko,0,0,0,,배 출발합니다!
 Dialogue: 0,0:02:26.94,0:02:28.84,Default,en,0,0,0,,Ship is about to depart!
@@ -912,7 +912,7 @@ Dialogue: 0,0:24:24.03,0:24:26.63,Default,ko,0,0,0,,질풍노도의 전력의 �
 Dialogue: 0,0:24:24.03,0:24:26.63,Default,en,0,0,0,,There will be a stormy fight!
 Comment: 0,0:24:26.63,0:24:30.64,TitleEP,ja,0,0,70,,清く貧しいクサリガマだス
 Dialogue: 0,0:24:26.63,0:24:30.64,NoteOnAnime,ko,60,0,60,,{\an7}다음 이야기
-Dialogue: 0,0:24:26.63,0:24:30.64,TitleEP,ko,0,0,70,,깨끗하고 가난한 쿠사리가마오
+Dialogue: 0,0:24:26.63,0:24:30.64,TitleEP,ko,0,0,70,,깨끗하고 가난한 쿠사리가마이오
 Dialogue: 0,0:24:26.63,0:24:30.64,NoteOnAnime,ko,0,60,30,,{\an3\fs32}기대하세요!
 Dialogue: 0,0:24:26.63,0:24:30.64,NoteOnAnime,en,60,0,60,,{\an7}Next Episode
 Dialogue: 0,0:24:26.63,0:24:30.64,TitleEP,en,0,0,80,,Clean and Poor Kusarigama

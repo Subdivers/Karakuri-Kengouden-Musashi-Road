@@ -15,9 +15,9 @@ Video File: ../Videos/13.mp4
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 836
-Active Line: 846
-Video Position: 35078
+Scroll Position: 12
+Active Line: 42
+Video Position: 3309
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -76,8 +76,8 @@ Dialogue: 0,0:02:06.28,0:02:10.44,Default,en,0,0,0,,But he suffered a complete d
 Comment: 0,0:02:11.35,0:02:17.63,Default,ja,0,0,0,,意気消沈してそこに出たムサシを待っていたのはハンゾウの恐るべき罠だった。
 Dialogue: 0,0:02:11.35,0:02:17.63,Default,ko,0,0,0,,의기소침해 바깥으로 나온 무사시를 기다리고 있던 것은 한조의 무서운 함정이었다.
 Dialogue: 0,0:02:11.35,0:02:17.63,Default,en,0,0,0,,Musashi left, dispirited. Waiting for him was Hanzō's frightening trap.
-Comment: 0,0:02:17.99,0:02:23.00,TitleEP,ja,0,0,70,,からくり剣豪総出撃だス
-Dialogue: 0,0:02:17.99,0:02:23.00,TitleEP,ko,0,0,70,,카라쿠리 검호 총출격
+Comment: 0,0:02:17.99,0:02:23.00,TitleEP,ja,0,0,70,,からくり剣豪総出撃だス！
+Dialogue: 0,0:02:17.99,0:02:23.00,TitleEP,ko,0,0,70,,카라쿠리 검호 총출격이오!
 Dialogue: 0,0:02:17.99,0:02:23.00,TitleEP,en,0,0,90,,Go Out at Once!
 Dialogue: 0,0:02:17.99,0:02:23.00,TitleEP,en,0,0,235,,Karakuri Martial Artists
 Comment: 0,0:02:32.41,0:02:36.69,Default,ja,0,0,0,,ただいま大会は準決勝、コジローとウシワカの対決だよ！

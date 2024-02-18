@@ -2,6 +2,68 @@ import pathlib
 import xml.etree.ElementTree as ET
 from xml.dom import minidom
 
+ROMANIZIED_TITLES = (
+    "Daibouken no Tabi ni Deru dasu",
+    "Namida no Shugyou wa Hara ga Heru dasu",
+    "Kyou no Gojou no Benkei dasu",
+    "Ryouma wa Hitori Kaze no Naka dasu",
+    "Meitou Kotetsu Arashi wo Yobu dasu",
+
+    "Oira wa Shishou da Erai dasu",
+    "Kiyoku Mazushii Kusarigama dasu",
+    "Aku no Hanzou Shinobiyoru dasu",
+    "Otoko Ishimatsu Yuujou ni Chiru dasu",
+    "Hana mo Arashi mo Edotopia dasu",
+
+    "Nagurikomi Bugei Taikai dasu",
+    "Senhime Tasukete Shoubu dasu",
+    "Karakuri Kengou Soushutsugeki dasu",
+    "Musashi Yume no Hyakuban Shoubu dasu",
+    "Oogama Youjutsu Jiraiyan dasu",
+
+    "Bijou Onihime Arawaru dasu",
+    "Yamata no Orochi Daikessen dasu",
+    "Kinpika Dorobou Goemondo dasu",
+    "Nue no Naku Yo wa Kowai dasu",
+    "Shuten Daibakuhatsu dasu",
+
+    "Hii Ishimatsu no Yuurei dasu",
+    "Umi wa Kowai na Onigoroshi dasu",
+    "Hokkai Western no Shitou dasu",
+    "Bakyaa Karakuri Toride dasu",
+    "Koori mo Tokasu Yuujou Power dasu",
+
+    "Waruichiban Hanzou no Fukkatsu dasu",
+    "Saigou san wa Nazo no Hito dasu",
+    "Oira Gurete Yaru dasu",
+    "Ge Ochikomi Kojirou dasu",
+    "Ima Yomigaeru Densetsu no Ken dasu",
+
+    "Ari Musashi wa Shinda dasu",
+    "Yappa Fujimi no Musashi dasu",
+    "Himitsu no Himiko san dasu",
+    "Acchikocchi Kaji dasu",
+    "Hi no Kuni no Jouou Himiko dasu",
+
+    "Shiranui Saigo no Inbou dasu",
+    "Kojirou ni Katta dasu",
+    "Detaa Nazo no Rikutoumaou dasu",
+    "Kaibutsu Megaton Jou dasu",
+    "Senhime no Ai wa Katsu dasu",
+
+    "Nikkou Kekkou Shingen dasu",
+    "Mokuba wa Kowai Wana Datta dasu",
+    "Ten to Chi no Shingenshin dasu",
+    "Adesugata Karakuri Henge dasu",
+    "Naminori Gennai Hatsumeiou dasu",
+
+    "Oowarai Tako Odori Sakusen dasu",
+    "Beberu 13 wo Bukkowase dasu",
+    "Edotopia Dai Pinch dasu",
+    "Hana no Musashi Aku wo Kiru dasu",
+    "Musashi Tai Kojirou dasu",
+)
+
 
 def asshex_from_int(val: int) -> str: return f"&H{val:08X}"
 

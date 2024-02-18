@@ -15,9 +15,9 @@ Video File: ../Videos/07.mp4
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 418
-Active Line: 440
-Video Position: 20957
+Scroll Position: 15
+Active Line: 43
+Video Position: 3346
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -75,7 +75,7 @@ Comment: 0,0:02:14.22,0:02:18.41,Default,ja,0,0,0,,ムサシの行く手に待�
 Dialogue: 0,0:02:14.22,0:02:18.41,Default,ko,0,0,0,,무사시의 길에서 기다리는 것은 꽃인가 폭풍인가?
 Dialogue: 0,0:02:14.22,0:02:18.41,Default,en,0,0,0,,What is waiting in front of Musashi? Is it a flower or a storm?
 Comment: 0,0:02:18.74,0:02:23.79,TitleEP,ja,0,0,60,,清く貧しいクサリガマだス
-Dialogue: 0,0:02:18.74,0:02:23.79,TitleEP,ko,0,0,60,,깨끗하고 가난한 쿠사리가마
+Dialogue: 0,0:02:18.74,0:02:23.79,TitleEP,ko,0,0,60,,깨끗하고 가난한 쿠사리가마이오
 Dialogue: 0,0:02:18.74,0:02:23.79,TitleEP,en,0,0,60,,Clean and Poor Kusarigama
 Comment: 0,0:03:27.13,0:03:29.52,Default,ja,0,0,0,,ムサシさん！
 Dialogue: 0,0:03:27.13,0:03:29.52,Default,ko,0,0,0,,무사시 씨!

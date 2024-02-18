@@ -15,9 +15,9 @@ Video File: ../Videos/14.mp4
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 551
-Active Line: 565
-Video Position: 31213
+Scroll Position: 45
+Active Line: 63
+Video Position: 3305
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -97,7 +97,7 @@ Comment: 0,0:02:14.75,0:02:17.77,Default,ja,0,0,0,,男ムサシの宿命の道�
 Dialogue: 0,0:02:14.75,0:02:17.77,Default,ko,0,0,0,,사내 무사시의 숙명의 길은 어느 방향인가?
 Dialogue: 0,0:02:14.75,0:02:17.77,Default,en,0,0,0,,Which road of fate should Musashi take?
 Comment: 0,0:02:18.03,0:02:23.04,TitleEP,ja,0,0,90,,ムサシ、夢の百番勝負だス
-Dialogue: 0,0:02:18.03,0:02:23.04,TitleEP,ko,0,0,90,,무사시, 꿈의 백번승부
+Dialogue: 0,0:02:18.03,0:02:23.04,TitleEP,ko,0,0,90,,무사시, 꿈의 백번승부이오
 Dialogue: 0,0:02:18.03,0:02:23.04,TitleEP,en,0,0,230,,Hundred Matches
 Dialogue: 0,0:02:18.03,0:02:23.04,TitleEP,en,0,0,90,,in Musashi's Dreams
 Comment: 0,0:02:24.00,0:02:29.09,Default,ja,0,0,0,,正月気分の抜け切らないエドトピアの街に雪が降り出した。

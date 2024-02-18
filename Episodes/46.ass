@@ -11,8 +11,9 @@ Video File: ../Videos/46.mp4
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Active Line: 8
-Video Position: 35280
+Scroll Position: 15
+Active Line: 46
+Video Position: 3312
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -75,7 +76,7 @@ Comment: 0,0:02:18.34,0:02:23.35,TitleEP,ja,0,0,0,,大笑い　タコおどり�
 Dialogue: 0,0:02:18.34,0:02:23.35,TitleEP,ko,0,0,220,,큰 웃음거리
 Dialogue: 0,0:02:18.34,0:02:23.35,TitleEP,ko,0,0,85,,문어 춤 작전이오
 Dialogue: 0,0:02:18.34,0:02:23.35,TitleEP,en,0,0,220,,Big Laughter
-Dialogue: 0,0:02:18.34,0:02:23.35,TitleEP,en,0,0,85,,Octopus Dance Strategy
+Dialogue: 0,0:02:18.34,0:02:23.35,TitleEP,en,0,0,85,,Octopus Dance Operation
 Comment: 0,0:02:29.68,0:02:34.76,Default,ja,0,0,0,,潜水艦を修理したムサシ達は、ノブナガの本拠地を探していた。
 Dialogue: 0,0:02:29.68,0:02:34.76,Default,ko,0,0,0,,잠수함을 수리한 무사시 일행은 노부나가의 본거지를 찾고 있었다.
 Dialogue: 0,0:02:29.68,0:02:34.76,Default,en,0,0,0,,After repairing the submarine, Musashi and others were looking for Nobunaga's base.

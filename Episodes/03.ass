@@ -15,9 +15,9 @@ Video File: ../Videos/03.mp4
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 749
-Active Line: 783
-Video Position: 30733
+Scroll Position: 15
+Active Line: 43
+Video Position: 3319
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -76,7 +76,7 @@ Comment: 0,0:02:12.51,0:02:18.42,Default,ja,0,0,0,,ボクデンの剣の極意�
 Dialogue: 0,0:02:12.51,0:02:18.42,Default,ko,0,0,0,,보쿠덴의 검의 극의를 득한 무사시는 의기양양하게 미야코 팔레스에 간다.
 Dialogue: 0,0:02:12.51,0:02:18.42,Default,en,0,0,0,,With the extreme art of swords learned from Bokuden, Musashi heads for the Miyako Palace in high spirits.
 Comment: 0,0:02:18.61,0:02:23.61,TitleEP,ja,0,0,80,,京の五条のベンケイだス
-Dialogue: 0,0:02:18.61,0:02:23.61,TitleEP,ko,0,0,80,,수도의 고조의 벤케이
+Dialogue: 0,0:02:18.61,0:02:23.61,TitleEP,ko,0,0,80,,수도의 고조의 벤케이이오
 Dialogue: 0,0:02:18.61,0:02:23.61,TitleEP,en,0,0,80,,Benkei at the Capital Castle City
 Comment: 0,0:02:41.66,0:02:43.44,Default,ja,0,0,0,,お侍さん！
 Dialogue: 0,0:02:41.66,0:02:43.44,Default,ko,0,0,0,,사무라이 씨!

@@ -15,9 +15,9 @@ Video File: ../Videos/01.mp4
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 605
-Active Line: 631
-Video Position: 26489
+Scroll Position: 30
+Active Line: 47
+Video Position: 3611
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -79,7 +79,7 @@ Dialogue: 0,0:02:25.13,0:02:29.58,Default,ko,0,0,0,,이 뜬구름과 같은 지�
 Dialogue: 0,0:02:25.13,0:02:29.58,Default,en,0,0,0,,In this unstable Jipangu state, spirits of love and friendship burst.
 Comment: 0,0:02:30.58,0:02:35.59,TitleEP,ja,0,0,80,,大冒険の旅にでるだス！
 Dialogue: 0,0:02:30.58,0:02:35.59,TitleEP,ko,0,0,80,,대모험의 길로 떠나오!
-Dialogue: 0,0:02:30.58,0:02:35.59,TitleEP,en,0,0,80,,To the Road of Adventure-{\i1}dasu{\i0}!
+Dialogue: 0,0:02:30.58,0:02:35.59,TitleEP,en,0,0,80,,To the Road of Adventure!
 Comment: 0,0:02:38.02,0:02:47.09,Default,ja,0,0,0,,戦国乱世の世の中とはいえ、ここ、中国山地のミヤモト村はいまだ平和であった。
 Dialogue: 0,0:02:38.02,0:02:47.09,Default,ko,0,0,0,,전국 시대는 어지러운 시기였지만, 이곳 주고쿠 산지의 미야모토 마을은 평화로운 곳이었다.
 Dialogue: 0,0:02:38.02,0:02:47.09,Default,en,0,0,0,,The turbulence of Sengoku period notwithstanding, Miyamoto village was a peaceful place on hilly region at Chūgoku.
