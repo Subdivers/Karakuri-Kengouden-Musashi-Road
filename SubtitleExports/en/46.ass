@@ -2,7 +2,7 @@
 YCbCr Matrix: TV.601
 PlayResX: 640
 PlayResY: 480
-Title: Big Laughter Octopus Dance Strategy
+Title: Big Laughter Octopus Dance Operation
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -49,7 +49,7 @@ Dialogue: 0,0:02:00.45,0:02:08.45,Default,en,0,0,0,,After making a perverted inv
 Dialogue: 0,0:02:08.99,0:02:11.92,Default,en,0,0,0,,With a determination, Musashi and others got in to rage.
 Dialogue: 0,0:02:12.36,0:02:17.93,Default,en,0,0,0,,They damaged Megaton Castle, but also destroyed was their submarine.
 Dialogue: 0,0:02:18.34,0:02:23.35,TitleEP,en,0,0,220,,Big Laughter
-Dialogue: 0,0:02:18.34,0:02:23.35,TitleEP,en,0,0,85,,Octopus Dance Strategy
+Dialogue: 0,0:02:18.34,0:02:23.35,TitleEP,en,0,0,85,,Octopus Dance Operation
 Dialogue: 0,0:02:29.68,0:02:34.76,Default,en,0,0,0,,After repairing the submarine, Musashi and others were looking for Nobunaga's base.
 Dialogue: 0,0:02:43.14,0:02:45.57,Default,en,0,0,0,,I don't feel so good. I'm seasick.
 Dialogue: 0,0:02:46.34,0:02:50.57,Default,en,0,0,0,,Mr. Gennai, they say seasickness will be gone if you lick your own nose-{\i1}dasu{\i0}!

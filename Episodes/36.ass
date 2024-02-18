@@ -11,8 +11,8 @@ Video File: ../Videos/36.mp4
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Active Line: 8
-Video Position: 35255
+Active Line: 5
+Video Position: 17792
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -33,7 +33,8 @@ Comment: 0,0:00:00.00,0:00:27.16,Default,chapter,0,0,0,,Introduction
 Comment: 0,0:00:27.16,0:01:57.37,Default,chapter,0,0,0,,Opening Credits
 Comment: 0,0:01:57.37,0:02:17.81,Default,chapter,0,0,0,,Recap
 Comment: 0,0:02:17.81,0:02:22.82,Default,chapter,0,0,0,,Title Card
-Comment: 0,0:02:22.82,0:12:22.29,Default,chapter,0,0,0,,Part 1
+Comment: 0,0:02:22.82,0:03:15.20,Default,chapter,0,0,0,,Part 1-1 - Recap: Episode 35
+Comment: 0,0:03:15.20,0:12:22.29,Default,chapter,0,0,0,,Part 1-2
 Comment: 0,0:12:22.29,0:12:27.29,Default,chapter,0,0,0,,Eyecatch
 Comment: 0,0:12:27.29,0:22:28.23,Default,chapter,0,0,0,,Part 2
 Comment: 0,0:22:28.23,0:24:00.24,Default,chapter,0,0,0,,Ending Credits

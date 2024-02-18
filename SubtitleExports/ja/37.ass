@@ -2,7 +2,7 @@
 YCbCr Matrix: TV.601
 PlayResX: 640
 PlayResY: 480
-Title:  
+Title: コジローに勝っただス！
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -46,9 +46,7 @@ Comment: 0,0:01:45.89,0:01:51.10,SongOP,ja,0,0,0,,みけんが　きらめいた
 Comment: 0,0:02:00.00,0:02:08.48,Default,ja,0,0,0,,桜島へ乗り込んだムサシ達は、不知火一族に最後の決戦を挑むが、ハンゾウはサツマニアへ向けてミサイルを発射する。
 Comment: 0,0:02:08.99,0:02:12.01,Default,ja,0,0,0,,しかし、ムサシの活躍でこれを～した。
 Comment: 0,0:02:12.80,0:02:17.82,Default,ja,0,0,0,,だが、母の面影を見せてくれたヒミコは、死んでしまった。
-Comment: 0,0:02:18.30,0:02:23.30,Default,ja,0,0,0,,コジローに勝っただス！
-Comment: 0,0:02:18.30,0:02:23.30,TitleEP,ja,0,0,200,,
-Comment: 0,0:02:18.30,0:02:23.30,TitleEP,ja,0,0,60,,
+Comment: 0,0:02:18.30,0:02:23.30,TitleEP,ja,0,0,200,,コジローに勝っただス！
 Comment: 0,0:02:38.18,0:02:40.65,Default,ja,0,0,0,,ムサシ？さっさとしなさいよね。
 Comment: 0,0:02:40.97,0:02:43.02,Default,ja,0,0,0,,もうちょびっとで終わるだすよ。
 Comment: 0,0:02:43.32,0:02:47.19,Default,ja,0,0,0,,ムサシ、見たところ、その木は樹齢300年わたっているだろう。

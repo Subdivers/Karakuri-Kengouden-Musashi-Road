@@ -2,7 +2,7 @@
 YCbCr Matrix: TV.601
 PlayResX: 640
 PlayResY: 480
-Title: 火の国の女王、ヒミコだス  
+Title: 火の国の女王、ヒミコだス
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -48,8 +48,6 @@ Comment: 0,0:02:07.03,0:02:11.45,Default,ja,0,0,0,,ジュウベエの調べで�
 Comment: 0,0:02:11.81,0:02:15.83,Default,ja,0,0,0,,しかし、そこをガエンマに襲われ、あわやの危機に陥る。
 Comment: 0,0:02:16.17,0:02:21.64,Default,ja,0,0,0,,そのどさくさ紛れてムサシは変装し、不知火一族の中に紛れ込む。
 Comment: 0,0:02:22.03,0:02:27.04,TitleEP,ja,0,0,0,,火の国の女王、ヒミコだス
-Comment: 0,0:02:22.03,0:02:27.04,TitleEP,ja,0,0,200,,
-Comment: 0,0:02:22.03,0:02:27.04,TitleEP,ja,0,0,70,,
 Comment: 0,0:02:37.38,0:02:38.03,Default,ja,0,0,0,,はい！
 Comment: 0,0:02:44.83,0:02:45.96,Default,ja,0,0,0,,おい！気をつけろ！
 Comment: 0,0:02:46.21,0:02:48.33,Default,ja,0,0,0,,ああ、すまんでござるだス。

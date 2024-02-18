@@ -1,5 +1,5 @@
 ﻿[Script Info]
-Title: 난입! 무예대회
+Title: 난입! 무예대회이오
 ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
@@ -49,7 +49,7 @@ Dialogue: 0,0:02:00.01,0:02:04.57,Default,ko,0,0,0,,에도토피아에 도달한
 Dialogue: 0,0:02:04.80,0:02:09.17,Default,ko,0,0,0,,결국엔 무죄를 증명하고, 에도 성을 향해 달렸지만
 Dialogue: 0,0:02:09.46,0:02:13.13,Default,ko,0,0,0,,아주 조금 늦어 에도성은 이미 문을 닫고 말았다.
 Dialogue: 0,0:02:13.27,0:02:18.24,Default,ko,0,0,0,,무사시는 과연 무예 대회에 출전할 수 있을 것인가?
-Dialogue: 0,0:02:18.39,0:02:23.39,TitleEP,ko,0,0,70,,난입! 무예대회
+Dialogue: 0,0:02:18.39,0:02:23.39,TitleEP,ko,0,0,70,,난입! 무예대회이오
 Dialogue: 0,0:02:23.39,0:02:29.36,NoteOnAnime,ko,0,0,0,,{\fs32\an5\fay-0.13\move(768,50,81,60)\bord5\c&H000000&\3c&HF1F7F8&}지팡구 무예대회 회장
 Dialogue: 0,0:02:29.36,0:02:33.36,NoteOnAnime,ko,0,0,0,,이에야스
 Dialogue: 0,0:02:35.82,0:02:39.47,Default,ko,0,0,0,,드디어! 나야말로 미야모토 마을의 무사시이오!

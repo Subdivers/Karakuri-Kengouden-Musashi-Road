@@ -1,7 +1,7 @@
 import pathlib
 import subprocess
-import xml.etree.ElementTree as ET
-from xml.dom import minidom
+# import xml.etree.ElementTree as ET
+# from xml.dom import minidom
 
 ROMANIZIED_TITLES = (
     "Daibouken no Tabi ni Deru dasu",
@@ -484,21 +484,7 @@ def extract_language(ass: Ass, language_code: str):
     return new_ass
 
 
-def __main__():
-    dir_videos = pathlib.Path("./Videos")
-    dir_subtitles = pathlib.Path("./Episodes")
-    dir_subtitle_exports = pathlib.Path("./SubtitleExports")
-    subtitles: dict[str, Ass] = {}
-
-    for f in dir_subtitles.iterdir():
-        if not f.name.endswith(".ass"):
-            continue
-        subtitles[f.name[:-4]] = Ass(f)
-
-    resolve_xref(subtitles)
-
-    # print(generate_chapters(subtitles["14"]))
-    # print(extract_language(subtitles["14"], "en").export())
+def generate_videos(subtitles: dict[str, Ass]):
     for ep, ass in subtitles.items():
         cmd = [
             "ffmpeg",
@@ -507,6 +493,7 @@ def __main__():
             "-map_metadata", "1",
             "-metadata:s:v:0", "language=jpn",
             "-metadata:s:a:0", "language=jpn",
+            "-movflags", "faststart",
             "-c", "copy",
         ]
 
@@ -521,8 +508,24 @@ def __main__():
 
             f.write(generate_chapters(ass))
         print(" ".join(cmd))
+        if pathlib.Path(cmd[-1]).exists():
+            continue
         subprocess.Popen(cmd).communicate()
-    return
+
+
+def __main__():
+    dir_videos = pathlib.Path("./Videos")
+    dir_subtitles = pathlib.Path("./Episodes")
+    dir_subtitle_exports = pathlib.Path("./SubtitleExports")
+    subtitles: dict[str, Ass] = {}
+
+    for f in dir_subtitles.iterdir():
+        if not f.name.endswith(".ass"):
+            continue
+        subtitles[f.name[:-4]] = Ass(f)
+
+    resolve_xref(subtitles)
+    # generate_videos(subtitles)
 
     for k, v in subtitles.items():
         (dir_subtitle_exports / "en" / f"{k}.ass").write_text(

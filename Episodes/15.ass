@@ -16,9 +16,8 @@ Video File: ../Videos/15.mp4
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 683
-Active Line: 691
-Video Position: 27334
+Active Line: 5
+Video Position: 15054
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -39,7 +38,10 @@ Comment: 0,0:00:00.00,0:00:27.18,Default,chapter,0,0,0,,Introduction
 Comment: 0,0:00:27.18,0:01:58.10,Default,chapter,0,0,0,,Opening Credits
 Comment: 0,0:01:58.10,0:02:18.04,Default,chapter,0,0,0,,Recap
 Comment: 0,0:02:18.04,0:02:23.04,Default,chapter,0,0,0,,Title Card
-Comment: 0,0:02:23.04,0:12:40.62,Default,chapter,0,0,0,,Part 1
+Comment: 0,0:02:23.04,0:10:07.46,Default,chapter,0,0,0,,Part 1-1
+Comment: 0,0:10:07.46,0:10:28.11,Default,chapter,0,0,0,,Part 1-2 - Recap: Episode 14 (alt.)
+Comment: 0,0:10:28.11,0:12:04.54,Default,chapter,0,0,0,,Part 1-3 - Recap: Episode 14
+Comment: 0,0:12:04.54,0:12:40.62,Default,chapter,0,0,0,,Part 1-4
 Comment: 0,0:12:40.62,0:12:45.58,Default,chapter,0,0,0,,Eyecatch
 Comment: 0,0:12:45.58,0:22:29.08,Default,chapter,0,0,0,,Part 2
 Comment: 0,0:22:29.08,0:24:01.09,Default,chapter,0,0,0,,Ending Credits

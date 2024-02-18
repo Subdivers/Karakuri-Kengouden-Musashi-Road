@@ -2,7 +2,7 @@
 YCbCr Matrix: TV.601
 PlayResX: 640
 PlayResY: 480
-Title: ムサシ対コジローだス  
+Title: ムサシ対コジローだス
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -44,8 +44,6 @@ Comment: 0,0:01:34.22,0:01:39.60,SongOP,ja,0,0,0,,戦い　思い切りと　静
 Comment: 0,0:01:39.65,0:01:45.86,SongOP,ja,0,0,0,,BUGEI! 二刀流　ムサシ
 Comment: 0,0:01:45.86,0:01:51.07,SongOP,ja,0,0,0,,みけんが　きらめいた　ムサシ！！
 Comment: 0,0:01:57.95,0:02:03.96,TitleEP,ja,0,0,0,,ムサシ対コジローだス
-Comment: 0,0:01:57.95,0:02:03.96,TitleEP,ja,0,0,205,,
-Comment: 0,0:01:57.95,0:02:03.96,TitleEP,ja,0,0,85,,
 Comment: 0,0:02:05.62,0:02:08.33,Default,ja,0,0,0,,エドトピアに平和が戻った。
 Comment: 0,0:02:09.22,0:02:11.36,Default,ja,0,0,0,,町は再び活気にあふれ、
 Comment: 0,0:02:12.16,0:02:16.05,Default,ja,0,0,0,,ゼニガタンの女房あかねは、おなかが大きくなり、

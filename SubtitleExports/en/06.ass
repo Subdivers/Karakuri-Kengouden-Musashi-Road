@@ -1,5 +1,5 @@
 ﻿[Script Info]
-Title: Clean and Poor Kusarigama
+Title: I am a Master Excellent!
 ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
@@ -51,8 +51,8 @@ Dialogue: 0,0:01:59.88,0:02:05.76,Default,en,0,0,0,,On the journey to be the num
 Dialogue: 0,0:02:05.87,0:02:08.81,Default,en,0,0,0,,Musashi managed to get the excellent swords at last.
 Dialogue: 0,0:02:09.16,0:02:13.54,Default,en,0,0,0,,He was very satisfied! He felt like he already became the number one of Jipangu,
 Dialogue: 0,0:02:13.54,0:02:17.97,Default,en,0,0,0,,but what will be waiting in front of him? Wind or storm?
-Dialogue: 0,0:02:17.97,0:02:22.98,TitleOP,en,0,0,200,,I am a Master
-Dialogue: 0,0:02:17.97,0:02:22.98,TitleOP,en,0,0,80,,Excellent!
+Dialogue: 0,0:02:17.97,0:02:22.98,TitleEP,en,0,0,200,,I am a Master
+Dialogue: 0,0:02:17.97,0:02:22.98,TitleEP,en,0,0,80,,Excellent!
 Dialogue: 0,0:02:26.94,0:02:28.84,Default,en,0,0,0,,Ship is about to depart!
 Dialogue: 0,0:02:28.99,0:02:31.79,Default,en,0,0,0,,Repeat! Shop is about to depart!
 Dialogue: 0,0:02:31.79,0:02:32.93,Default,en,0,0,0,,Wait!
