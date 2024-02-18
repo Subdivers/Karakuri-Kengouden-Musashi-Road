@@ -846,7 +846,7 @@ Dialogue: 0,0:18:03.44,0:18:04.81,Default,ko,0,0,0,,언제라도 환영이오!
 Dialogue: 0,0:18:03.44,0:18:04.81,Default,en,0,0,0,,Come whenever you're ready-dasu!
 Comment: 0,0:18:06.56,0:18:08.13,Default,ja,0,0,0,,秘剣！燕返し！
 Dialogue: 0,0:18:06.56,0:18:08.13,Default,ko,0,0,0,,비검 츠바메가에시!
-Dialogue: 0,0:18:06.56,0:18:08.13,Default,en,0,0,0,,Secret Sword Tsubamegaeshi!
+Dialogue: 0,0:18:06.56,0:18:08.13,Default,en,0,0,0,,Secret sword Tsubamegaeshi!
 Comment: 0,0:18:11.16,0:18:12.19,Default,ja,0,0,0,,見えるだス！
 Dialogue: 0,0:18:11.16,0:18:12.19,Default,ko,0,0,0,,다 보이오!
 Dialogue: 0,0:18:11.16,0:18:12.19,Default,en,0,0,0,,I can see you-{\1}dasu{\i0}!

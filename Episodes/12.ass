@@ -112,7 +112,7 @@ Dialogue: 0,0:02:50.35,0:02:53.86,Default,ko,0,0,0,,제 4 대회장 대표 벤�
 Dialogue: 0,0:02:50.35,0:02:53.86,Default,en,0,0,0,,The final contestant from the fourth ground is Benkei!
 Comment: 0,0:02:53.96,0:02:55.66,Default,ja,0,0,0,,秘剣！一の太刀！
 Dialogue: 0,0:02:53.96,0:02:55.66,Default,ko,0,0,0,,비검! 제일의 검!
-Dialogue: 0,0:02:53.96,0:02:55.66,Default,en,0,0,0,,Secret Sword! Ichi no Tachi!
+Dialogue: 0,0:02:53.96,0:02:55.66,Default,en,0,0,0,,Secret sword! Ichi no Tachi!
 Dialogue: 0,0:02:53.96,0:02:55.66,Note,en,0,0,0,,(lit. The best longsword)
 Comment: 0,0:02:55.69,0:02:58.82,Default,ja,0,0,0,,第五会場代表、ジュウベエ殿に決定！
 Dialogue: 0,0:02:55.69,0:02:58.82,Default,ko,0,0,0,,제 5 대회장 대표, 주베 님으로 결정!
@@ -716,7 +716,7 @@ Dialogue: 0,0:19:03.46,0:19:05.49,Default,ko,0,0,0,L1903,{\i1}어떻게 타개�
 Dialogue: 0,0:19:03.46,0:19:05.49,Default,en,0,0,0,L1903,{\i1}Is there a way to get over-{\i1}dasu{\i0}?
 Comment: 0,0:19:50.91,0:19:52.43,Default,ja,0,0,0,,秘剣！一の太刀！
 Dialogue: 0,0:19:50.91,0:19:52.43,Default,ko,0,0,0,,비검! 제일의 검!
-Dialogue: 0,0:19:50.91,0:19:52.43,Default,en,0,0,0,,Secret Sword! Ichi no Tachi!
+Dialogue: 0,0:19:50.91,0:19:52.43,Default,en,0,0,0,,Secret sword! Ichi no Tachi!
 Comment: 0,0:20:00.76,0:20:03.95,Default,ja,0,0,0,,勝負終わり！ジュウベエ殿の勝ち！
 Dialogue: 0,0:20:00.76,0:20:03.95,Default,ko,0,0,0,,승부 났습니다! 주베 님의 승리!
 Dialogue: 0,0:20:00.76,0:20:03.95,Default,en,0,0,0,,Match set! Jūbee wins!

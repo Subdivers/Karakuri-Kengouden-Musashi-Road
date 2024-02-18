@@ -16,9 +16,9 @@ Video File: ../Videos/15.mp4
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 804
-Active Line: 832
-Video Position: 35171
+Scroll Position: 683
+Active Line: 691
+Video Position: 27334
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -651,13 +651,13 @@ Dialogue: 0,0:16:45.94,0:16:47.91,Default,ko,0,0,0,,지옥에 안내해 주마!
 Dialogue: 0,0:16:45.94,0:16:47.91,Default,en,0,0,0,,Let me lead you to the hell!
 Comment: 0,0:16:50.87,0:16:53.65,Default,ja,0,0,0,,なんの！秘剣！燕返し！
 Dialogue: 0,0:16:50.87,0:16:53.65,Default,ko,0,0,0,,무슨! 비검! 츠바메가에시!
-Dialogue: 0,0:16:50.87,0:16:53.65,Default,en,0,0,0,,Nonsense! Secret Sword Tsubamegaeshi!
+Dialogue: 0,0:16:50.87,0:16:53.65,Default,en,0,0,0,,Nonsense! Secret sword Tsubamegaeshi!
 Comment: 0,0:17:00.62,0:17:03.77,Default,ja,0,0,0,,やるな、コジロー。だが、戦いはこれからだ！
 Dialogue: 0,0:17:00.62,0:17:03.77,Default,ko,0,0,0,,꽤 하는군, 코지로. 그러나 싸움은 지금부터다!
 Dialogue: 0,0:17:00.62,0:17:03.77,Default,en,0,0,0,,You're pretty good, Kojirō. But the fight begins now!
 Comment: 0,0:17:04.50,0:17:09.55,Default,ja,0,0,0,,阿毘羅吽欠蘇婆訶、阿毘羅吽欠蘇婆訶！火炎砲の術！
 Dialogue: 0,0:17:04.50,0:17:09.55,Default,ko,0,0,0,,아비라훔캄스바하, 아비라훔캄스바하! 화염포술!
-Dialogue: 0,0:17:04.50,0:17:09.55,Default,en,0,0,0,,avira hum kham svaha, avira hum kham svaha,\NFlaming Cannonball Technique!
+Dialogue: 0,0:17:04.50,0:17:09.55,Default,en,0,0,0,,Avira hum kham svaha, avira hum kham svaha,\NFlaming Cannonball Technique!
 Comment: 0,0:17:14.73,0:17:15.35,Default,ja,0,0,0,,何？
 Dialogue: 0,0:17:14.73,0:17:15.35,Default,ko,0,0,0,,뭐야?!
 Dialogue: 0,0:17:14.73,0:17:15.35,Default,en,0,0,0,,What?!
@@ -724,9 +724,9 @@ Dialogue: 0,0:18:37.70,0:18:39.38,Default,en,0,0,0,,You're still alive?!
 Comment: 0,0:18:39.96,0:18:42.09,Default,ja,0,0,0,,おいら、まだ死ぬわけにはいかんだス！
 Dialogue: 0,0:18:39.96,0:18:42.09,Default,ko,0,0,0,,난 아직 죽을 수 없소!
 Dialogue: 0,0:18:39.96,0:18:42.09,Default,en,0,0,0,,I can't die yet-{\i1}dasu{\i0}!
-Comment: 0,0:18:50.37,0:18:51.94,Default,ja,0,0,0,,あびらうんけんすわか。ガマの泡、ちょうこくの術！
-Dialogue: 0,0:18:47.13,0:18:51.93,Default,ko,0,0,0,,아비라훔캄스바하! 두꺼비의 거품, 방울배출술!
-Dialogue: 0,0:18:47.13,0:18:51.93,Default,en,0,0,0,,avira hum kham svaha, Toad Bubble, Bursting Technique!
+Comment: 0,0:18:50.37,0:18:51.94,Default,ja,0,0,0,,阿毘羅吽欠蘇婆訶、ガマの泡、彫刻の術！
+Dialogue: 0,0:18:47.13,0:18:51.93,Default,ko,0,0,0,,아비라훔캄스바하! 두꺼비 거품, 조각술!
+Dialogue: 0,0:18:47.13,0:18:51.93,Default,en,0,0,0,,Avira hum kham svaha, Toad Bubble Engraving Technique!
 Comment: 0,0:18:54.83,0:18:55.79,Default,ja,0,0,0,,これ、なんだス！
 Dialogue: 0,0:18:54.83,0:18:55.79,Default,ko,0,0,0,,이게 뭣이오!
 Dialogue: 0,0:18:54.83,0:18:55.79,Default,en,0,0,0,,What's this-{\i1}dasu{\i0}?!

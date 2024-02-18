@@ -8,6 +8,6 @@ or [Japanese](https://github.com/Subdivers/Karakuri-Kengouden-Musashi-Road/tree/
 subtitles in progress.
 
 Currently going through subtitles again to make them more coherent, while filling in the parts I've left out in the past.
-Done up to episode 18. The plan is to try to work on one episode every day.
+Done up to episode 20. The plan is to try to work on one episode every day.
 
 Japanese subtitles are also done on best-effort basis, as much as my listening skills allow.

@@ -64,7 +64,7 @@ Dialogue: 0,0:02:44.40,0:02:47.89,Default,en,0,0,0,,The final contestant from th
 Dialogue: 0,0:02:48.32,0:02:49.91,Default,en,0,0,0,,Daichōtō Gojō!
 Dialogue: 0,0:02:48.32,0:02:49.91,Note,en,0,0,0,,(lit. Big Halberd + place name)
 Dialogue: 0,0:02:50.35,0:02:53.86,Default,en,0,0,0,,The final contestant from the fourth ground is Benkei!
-Dialogue: 0,0:02:53.96,0:02:55.66,Default,en,0,0,0,,Secret Sword! Ichi no Tachi!
+Dialogue: 0,0:02:53.96,0:02:55.66,Default,en,0,0,0,,Secret sword! Ichi no Tachi!
 Dialogue: 0,0:02:53.96,0:02:55.66,Note,en,0,0,0,,(lit. The best longsword)
 Dialogue: 0,0:02:55.69,0:02:58.82,Default,en,0,0,0,,The final contestant from the fifth ground is Jūbee!
 Dialogue: 0,0:02:59.21,0:03:01.08,Default,en,0,0,0,,Kusarigamaryū! Kubikarigama!
@@ -268,7 +268,7 @@ Dialogue: 0,0:18:52.69,0:18:53.67,Default,en,0,0,0,,Awesome!
 Dialogue: 0,0:18:56.55,0:18:57.44,Default,en,0,0,0,,Musashi!
 Dialogue: 0,0:18:58.18,0:19:01.71,Default,en,0,0,0,L1858,{\i1}No! I'll be done for at this rate-{\i1}dasu{\i0}! I need something!
 Dialogue: 0,0:19:03.46,0:19:05.49,Default,en,0,0,0,L1903,{\i1}Is there a way to get over-{\i1}dasu{\i0}?
-Dialogue: 0,0:19:50.91,0:19:52.43,Default,en,0,0,0,,Secret Sword! Ichi no Tachi!
+Dialogue: 0,0:19:50.91,0:19:52.43,Default,en,0,0,0,,Secret sword! Ichi no Tachi!
 Dialogue: 0,0:20:00.76,0:20:03.95,Default,en,0,0,0,,Match set! Jūbee wins!
 Dialogue: 0,0:20:07.38,0:20:08.57,Default,en,0,0,0,,That was excellent.
 Dialogue: 0,0:20:17.25,0:20:18.26,Default,en,0,0,0,,I lost...

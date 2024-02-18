@@ -117,7 +117,7 @@ Dialogue: 0,0:03:20.91,0:03:22.76,Default,ko,0,0,0,,그런 대사를 하기엔 1
 Dialogue: 0,0:03:20.91,0:03:22.76,Default,en,0,0,0,,You're 10 years early to say that!
 Comment: 0,0:03:22.96,0:03:24.81,Default,ja,0,0,0,,見よ！秘剣！燕返し！
 Dialogue: 0,0:03:22.96,0:03:24.81,Default,ko,0,0,0,,봐라! 비검 츠바메가에시!
-Dialogue: 0,0:03:22.96,0:03:24.81,Default,en,0,0,0,,Look! Secret Sword Tsubamegaeshi!
+Dialogue: 0,0:03:22.96,0:03:24.81,Default,en,0,0,0,,Look! Secret sword Tsubamegaeshi!
 Comment: 0,0:03:25.03,0:03:26.65,Default,ja,0,0,0,,あ！UFOだス！
 Dialogue: 0,0:03:25.03,0:03:26.65,Default,ko,0,0,0,,어라! UFO이오.
 Dialogue: 0,0:03:25.03,0:03:26.65,Default,en,0,0,0,,Huh?! It's a UFO-{\i1}dasu{\i0}.
@@ -711,7 +711,7 @@ Dialogue: 0,0:16:26.90,0:16:30.41,Default,ko,0,0,0,,{\i1}역시 상위 8... 간�
 Dialogue: 0,0:16:26.90,0:16:30.41,Default,en,0,0,0,,{\i1}That's best 8... He's not going down so easily-{\i0}dasu{\i1}!
 Comment: 0,0:16:31.23,0:16:34.19,Default,ja,0,0,0,,秘剣！鳴門の渦潮！
 Dialogue: 0,0:16:31.23,0:16:34.19,Default,ko,0,0,0,,필살! 나루토의 소용돌이!
-Dialogue: 0,0:16:31.23,0:16:34.19,Default,en,0,0,0,,Secret Sword Whirling Tides of Maelstrom!
+Dialogue: 0,0:16:31.23,0:16:34.19,Default,en,0,0,0,,Secret sword Whirling Tides of Maelstrom!
 Comment: 0,0:16:37.00,0:16:37.59,Default,ja,0,0,0,,なんだス？
 Dialogue: 0,0:16:37.00,0:16:37.59,Default,ko,0,0,0,,뭣이오?
 Dialogue: 0,0:16:37.00,0:16:37.59,Default,en,0,0,0,,What-{\i1}dasu{\i0}?
