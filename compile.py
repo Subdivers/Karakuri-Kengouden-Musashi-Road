@@ -1,4 +1,5 @@
 import pathlib
+import subprocess
 import xml.etree.ElementTree as ET
 from xml.dom import minidom
 
@@ -411,41 +412,48 @@ def generate_chapters(ass: Ass):
     for event in ass.events:
         if event.event_type != "Comment" or event.name != "chapter":
             continue
-        sep = event.text.find("-")
-        d = {"start": event.start, "end": event.end, "name": event.text, "subchapters": []}
-        if sep < 0:
-            data.append(d)
-        else:
-            name = event.text[:sep]
-            if not data or data[-1]["name"] != name:
-                data.append({"name": event.text[:sep], "subchapters": []})
-            data[-1]["subchapters"].append(d)
-
-    chapters = ET.Element("Chapters")
-    edition_entry = ET.SubElement(chapters, "EditionEntry")
-
-    def add_chapter(parent, d):
-        if d["subchapters"]:
-            start = min(x["start"] for x in d["subchapters"])
-            end = max(x["end"] for x in d["subchapters"])
-        else:
-            start, end = d["start"], d["end"]
-        chapter_atom = ET.SubElement(parent, "ChapterAtom")
-        ET.SubElement(chapter_atom, "ChapterTimeStart").text = mkvchaptertime_from_float(start)
-        ET.SubElement(chapter_atom, "ChapterTimeEnd").text = mkvchaptertime_from_float(end)
-        chapter_display = ET.SubElement(chapter_atom, "ChapterDisplay")
-        ET.SubElement(chapter_display, "ChapterString").text = d["name"]
-        ET.SubElement(chapter_display, "ChapterLanguage").text = "eng"
-        for subc in d["subchapters"]:
-            add_chapter(chapter_atom, subc)
-
-    for c in data:
-        add_chapter(edition_entry, c)
-
-    reparsed = minidom.parseString(ET.tostring(chapters, "utf-8"))
-    lines = reparsed.toprettyxml(indent="\t", encoding="utf-8").decode("utf-8").splitlines()
-    lines.insert(1, '<!DOCTYPE Chapters SYSTEM "matroskachapters.dtd">')
-    return "\n".join(lines)
+        data.append("[CHAPTER]")
+        data.append(f"TIMEBASE=1/1000")
+        data.append(f"START={int(event.start * 1000)}")
+        data.append(f"END={int(event.end * 1000)}")
+        data.append(f"title={event.text}")
+        data.append("")
+    return "\n".join(data)
+    #     sep = event.text.find("-")
+    #     d = {"start": event.start, "end": event.end, "name": event.text, "subchapters": []}
+    #     if sep < 0:
+    #         data.append(d)
+    #     else:
+    #         name = event.text[:sep]
+    #         if not data or data[-1]["name"] != name:
+    #             data.append({"name": event.text[:sep], "subchapters": []})
+    #         data[-1]["subchapters"].append(d)
+    #
+    # chapters = ET.Element("Chapters")
+    # edition_entry = ET.SubElement(chapters, "EditionEntry")
+    #
+    # def add_chapter(parent, d):
+    #     if d["subchapters"]:
+    #         start = min(x["start"] for x in d["subchapters"])
+    #         end = max(x["end"] for x in d["subchapters"])
+    #     else:
+    #         start, end = d["start"], d["end"]
+    #     chapter_atom = ET.SubElement(parent, "ChapterAtom")
+    #     ET.SubElement(chapter_atom, "ChapterTimeStart").text = mkvchaptertime_from_float(start)
+    #     ET.SubElement(chapter_atom, "ChapterTimeEnd").text = mkvchaptertime_from_float(end)
+    #     chapter_display = ET.SubElement(chapter_atom, "ChapterDisplay")
+    #     ET.SubElement(chapter_display, "ChapterString").text = d["name"]
+    #     ET.SubElement(chapter_display, "ChapterLanguage").text = "eng"
+    #     for subc in d["subchapters"]:
+    #         add_chapter(chapter_atom, subc)
+    #
+    # for c in data:
+    #     add_chapter(edition_entry, c)
+    #
+    # reparsed = minidom.parseString(ET.tostring(chapters, "utf-8"))
+    # lines = reparsed.toprettyxml(indent="\t", encoding="utf-8").decode("utf-8").splitlines()
+    # lines.insert(1, '<!DOCTYPE Chapters SYSTEM "matroskachapters.dtd">')
+    # return "\n".join(lines)
 
 
 def extract_title(ass: Ass, language_code: str):
@@ -491,8 +499,29 @@ def __main__():
 
     # print(generate_chapters(subtitles["14"]))
     # print(extract_language(subtitles["14"], "en").export())
-    for i in range(50):
-        print(i + 1, extract_title(subtitles[f"{i + 1:02}"], "ja"))
+    for ep, ass in subtitles.items():
+        cmd = [
+            "ffmpeg",
+            "-i", f"Videos/{ep}.mp4",
+            "-f", "ffmetadata", "-i", "tmp.chapter.txt",
+            "-map_metadata", "1",
+            "-metadata:s:v:0", "language=jpn",
+            "-metadata:s:a:0", "language=jpn",
+            "-c", "copy",
+        ]
+
+        with open("tmp.chapter.txt", "w", encoding="utf-8") as f:
+            if ep == 'OP':
+                cmd.append("Output/Karakuri Kengouden Musashi Road - Extra - Clean Opening.mp4")
+            elif ep == 'ED1':
+                cmd.append("Output/Karakuri Kengouden Musashi Road - Extra - Clean Ending 1.mp4")
+            else:
+                f.write("title=" + extract_title(ass, "ja") + "\n")
+                cmd.append(f"Output/Karakuri Kengouden Musashi Road - Episode {ep} - {ROMANIZIED_TITLES[int(ep, 10) - 1]}.mp4")
+
+            f.write(generate_chapters(ass))
+        print(" ".join(cmd))
+        subprocess.Popen(cmd).communicate()
     return
 
     for k, v in subtitles.items():

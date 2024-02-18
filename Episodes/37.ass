@@ -11,8 +11,8 @@ Video File: ../Videos/37.mp4
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Active Line: 8
-Video Position: 35254
+Active Line: 20
+Video Position: 34578
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -29,13 +29,25 @@ Style: InsOtsuru,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:00.00,0:00:27.23,Default,chapter,0,0,0,,Series Introduction
+Comment: 0,0:00:00.00,0:00:27.23,Default,chapter,0,0,0,,Introduction
 Comment: 0,0:00:27.23,0:01:58.45,Default,chapter,0,0,0,,Opening Credits
 Comment: 0,0:01:58.45,0:02:18.30,Default,chapter,0,0,0,,Recap
 Comment: 0,0:02:18.30,0:02:23.31,Default,chapter,0,0,0,,Title Card
-Comment: 0,0:02:23.31,0:11:53.83,Default,chapter,0,0,0,,Part 1
+Comment: 0,0:02:23.31,0:06:40.77,Default,chapter,0,0,0,,Part 1-1
+Comment: 0,0:06:40.77,0:10:09.48,Default,chapter,0,0,0,,Part 1-2 - Recap: Episode 16
+Comment: 0,0:10:09.48,0:10:19.03,Default,chapter,0,0,0,,Part 1-3
+Comment: 0,0:10:19.03,0:11:17.05,Default,chapter,0,0,0,,Part 1-4 - Recap: Episode 17
+Comment: 0,0:11:17.05,0:11:53.83,Default,chapter,0,0,0,,Part 1-5
 Comment: 0,0:11:53.83,0:11:58.84,Default,chapter,0,0,0,,Eyecatch
-Comment: 0,0:11:58.84,0:22:28.59,Default,chapter,0,0,0,,Part 2
+Comment: 0,0:11:58.84,0:12:43.05,Default,chapter,0,0,0,,Part 2-1
+Comment: 0,0:12:43.05,0:14:53.22,Default,chapter,0,0,0,,Part 2-2 - Recap: Episode 31
+Comment: 0,0:14:53.22,0:15:01.40,Default,chapter,0,0,0,,Part 2-3
+Comment: 0,0:15:01.40,0:15:33.60,Default,chapter,0,0,0,,Part 2-4 - Recap: Episode 33
+Comment: 0,0:15:33.60,0:15:50.82,Default,chapter,0,0,0,,Part 2-5
+Comment: 0,0:15:50.82,0:19:12.73,Default,chapter,0,0,0,,Part 2-6 - Recap: Episode 35
+Comment: 0,0:19:12.73,0:19:25.58,Default,chapter,0,0,0,,Part 2-7
+Comment: 0,0:19:25.58,0:19:54.06,Default,chapter,0,0,0,,Part 2-8 - Recap: Episode 36
+Comment: 0,0:19:54.06,0:22:28.59,Default,chapter,0,0,0,,Part 2-9
 Comment: 0,0:22:28.59,0:24:00.56,Default,chapter,0,0,0,,Ending Credits
 Comment: 0,0:24:00.56,0:24:30.59,Default,chapter,0,0,0,,Next Episode Preview
 Dialogue: 0,0:00:04.41,0:00:06.57,Default,ref,0,0,0,OP!Intro01,時は戦国、乱世の時代。

@@ -29,7 +29,7 @@ Style: InsOtsuru,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:00.00,0:00:25.84,Default,chapter,0,0,0,,Series Introduction
+Comment: 0,0:00:00.00,0:00:25.84,Default,chapter,0,0,0,,Introduction
 Comment: 0,0:00:25.84,0:01:57.05,Default,chapter,0,0,0,,Opening Credits
 Comment: 0,0:01:57.05,0:02:27.59,Default,chapter,0,0,0,,Recap
 Comment: 0,0:02:27.59,0:02:32.59,Default,chapter,0,0,0,,Title Card
