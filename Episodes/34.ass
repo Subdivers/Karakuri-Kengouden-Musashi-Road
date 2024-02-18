@@ -6,15 +6,14 @@ PlayResX: 640
 PlayResY: 480
 
 [Aegisub Project Garbage]
-Last Style Storage: Karakuri
 Audio File: ../Videos/34.mp4
 Video File: ../Videos/34.mp4
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 248
-Active Line: 267
-Video Position: 12477
+Scroll Position: 9
+Active Line: 44
+Video Position: 35292
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -31,7 +30,15 @@ Style: InsOtsuru,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:00.00,0:00:00.00,SETTINGS,,0,0,0,,complete:false;song:song.*;lang:en,ko
+Comment: 0,0:00:00.00,0:00:27.15,Default,chapter,0,0,0,,Series Introduction
+Comment: 0,0:00:27.15,0:01:58.37,Default,chapter,0,0,0,,Opening Credits
+Comment: 0,0:01:58.37,0:02:19.26,Default,chapter,0,0,0,,Recap
+Comment: 0,0:02:19.26,0:02:24.27,Default,chapter,0,0,0,,Title Card
+Comment: 0,0:02:24.27,0:12:16.86,Default,chapter,0,0,0,,Part 1
+Comment: 0,0:12:16.86,0:12:21.86,Default,chapter,0,0,0,,Eyecatch
+Comment: 0,0:12:21.86,0:22:29.89,Default,chapter,0,0,0,,Part 2
+Comment: 0,0:22:29.89,0:24:01.85,Default,chapter,0,0,0,,Ending Credits
+Comment: 0,0:24:01.85,0:24:32.18,Default,chapter,0,0,0,,Next Episode Preview
 Dialogue: 0,0:00:04.33,0:00:06.49,Default,ref,0,0,0,OP!Intro01,時は戦国、乱世の時代。
 Dialogue: 0,0:00:07.03,0:00:11.44,Default,ref,0,0,0,OP!Intro02,からくり人の住むジパング国では群雄割拠して合戦に明け暮れ、
 Dialogue: 0,0:00:11.79,0:00:16.15,Default,ref,0,0,0,OP!Intro03,からくり武芸者たちも勝利と栄光を目指してしのぎを削っていた。
@@ -66,9 +73,7 @@ Comment: 0,0:02:11.32,0:02:19.26,Default,ja,0,0,0,,しかし、ジライヤン�
 Dialogue: 0,0:02:11.32,0:02:19.26,Default,ko,0,0,0,,다만 지라이얀이 남긴 말, 히미코가 시라누이 일족의 여왕이라고 한 것은 무사시의 마음을 박살냈다.
 Dialogue: 0,0:02:11.32,0:02:19.26,Default,en,0,0,0,,But the words Jiraiyan left before he left, that Himiko is the queen of Shiranui Clan, has knocked down Musashi's heart.
 Comment: 0,0:02:19.26,0:02:24.26,TitleEP,ja,0,0,0,,アッチコッチ火事だス
-Comment: 0,0:02:19.26,0:02:24.26,TitleEP,ja,0,0,210,,
 Dialogue: 0,0:02:19.26,0:02:24.26,TitleEP,ko,0,0,210,,여기저기
-Comment: 0,0:02:19.26,0:02:24.26,TitleEP,ja,0,0,65,,
 Dialogue: 0,0:02:19.26,0:02:24.26,TitleEP,ko,0,0,65,,화재이오
 Dialogue: 0,0:02:19.26,0:02:24.26,TitleEP,en,0,0,210,,Fire
 Dialogue: 0,0:02:19.26,0:02:24.26,TitleEP,en,0,0,65,,Here and There

@@ -6,15 +6,13 @@ PlayResX: 640
 PlayResY: 480
 
 [Aegisub Project Garbage]
-Last Style Storage: Karakuri
 Audio File: ../Videos/37.mp4
 Video File: ../Videos/37.mp4
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 232
-Active Line: 254
-Video Position: 11212
+Active Line: 8
+Video Position: 35254
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -31,7 +29,15 @@ Style: InsOtsuru,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:00.00,0:00:00.00,SETTINGS,,0,0,0,,complete:false;song:song.*;lang:en,ko
+Comment: 0,0:00:00.00,0:00:27.23,Default,chapter,0,0,0,,Series Introduction
+Comment: 0,0:00:27.23,0:01:58.45,Default,chapter,0,0,0,,Opening Credits
+Comment: 0,0:01:58.45,0:02:18.30,Default,chapter,0,0,0,,Recap
+Comment: 0,0:02:18.30,0:02:23.31,Default,chapter,0,0,0,,Title Card
+Comment: 0,0:02:23.31,0:11:53.83,Default,chapter,0,0,0,,Part 1
+Comment: 0,0:11:53.83,0:11:58.84,Default,chapter,0,0,0,,Eyecatch
+Comment: 0,0:11:58.84,0:22:28.59,Default,chapter,0,0,0,,Part 2
+Comment: 0,0:22:28.59,0:24:00.56,Default,chapter,0,0,0,,Ending Credits
+Comment: 0,0:24:00.56,0:24:30.59,Default,chapter,0,0,0,,Next Episode Preview
 Dialogue: 0,0:00:04.41,0:00:06.57,Default,ref,0,0,0,OP!Intro01,時は戦国、乱世の時代。
 Dialogue: 0,0:00:07.11,0:00:11.52,Default,ref,0,0,0,OP!Intro02,からくり人の住むジパング国では群雄割拠して合戦に明け暮れ、
 Dialogue: 0,0:00:11.87,0:00:16.23,Default,ref,0,0,0,OP!Intro03,からくり武芸者たちも勝利と栄光を目指してしのぎを削っていた。
@@ -66,10 +72,8 @@ Dialogue: 0,0:02:08.99,0:02:12.01,Default,en,0,0,0,,But thanks to Musashi, it wa
 Comment: 0,0:02:12.80,0:02:17.82,Default,ja,0,0,0,,だが、母の面影を見せてくれたヒミコは、死んでしまった。
 Dialogue: 0,0:02:12.80,0:02:17.82,Default,ko,0,0,0,,그렇지만 어머니의 면모를 보여준 히미코는 죽고 말았다.
 Dialogue: 0,0:02:12.80,0:02:17.82,Default,en,0,0,0,,But Himiko, who gave the feeling of mother, died.
-Comment: 0,0:02:18.30,0:02:23.30,Default,ja,0,0,0,,コジローに勝っただス！
-Comment: 0,0:02:18.30,0:02:23.30,TitleEP,ja,0,0,200,,
+Comment: 0,0:02:18.30,0:02:23.30,TitleEP,ja,0,0,200,,コジローに勝っただス！
 Dialogue: 0,0:02:18.30,0:02:23.30,TitleEP,ko,0,0,200,,코지로에게
-Comment: 0,0:02:18.30,0:02:23.30,TitleEP,ja,0,0,60,,
 Dialogue: 0,0:02:18.30,0:02:23.30,TitleEP,ko,0,0,60,,이겼소!
 Dialogue: 0,0:02:18.30,0:02:23.30,TitleEP,en,0,0,200,,I Defeated
 Dialogue: 0,0:02:18.30,0:02:23.30,TitleEP,en,0,0,60,,Kojirō!

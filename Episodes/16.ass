@@ -10,14 +10,13 @@ PlayResX: 640
 PlayResY: 480
 
 [Aegisub Project Garbage]
-Last Style Storage: Karakuri
 Audio File: ../Videos/16.mp4
 Video File: ../Videos/16.mp4
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 827
-Active Line: 845
+Scroll Position: 27
+Active Line: 42
 Video Position: 35085
 
 [V4+ Styles]
@@ -77,7 +76,7 @@ Dialogue: 0,0:02:05.16,0:02:10.17,Default,en,0,0,0,,Out of nowhere, Jiraiyan, on
 Comment: 0,0:02:10.55,0:02:17.70,Default,ja,0,0,0,,危うしムサシ、コジロー。この時、二人の危機を救ったのはセンヒメの横笛だった。
 Dialogue: 0,0:02:10.55,0:02:17.70,Default,ko,0,0,0,,위태로웠던 무사시와 코지로. 그 때, 둘 위기를 구해준 건 센히메의 피리였다.
 Dialogue: 0,0:02:10.55,0:02:17.70,Default,en,0,0,0,,Musashi and Kojirō were in peril. But Senhime played her flute to their rescue.
-Comment: 0,0:02:18.24,0:02:23.25,Default,ja,0,0,0,,美女オニヒメ、あらわるだス
+Comment: 0,0:02:18.24,0:02:23.25,TitleEP,ja,0,0,0,,美女オニヒメ、あらわるだス
 Dialogue: 0,0:02:18.24,0:02:23.25,TitleEP,ko,0,0,70,,미녀 오니히메 나타나오
 Dialogue: 0,0:02:18.24,0:02:23.25,TitleEP,en,0,0,225,,Beautiful Woman
 Dialogue: 0,0:02:18.24,0:02:23.25,TitleEP,en,0,0,90,,Onihime Appears

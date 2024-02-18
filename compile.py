@@ -429,6 +429,9 @@ def __main__():
 
     # print(generate_chapters(subtitles["14"]))
     # print(extract_language(subtitles["14"], "en").export())
+    for i in range(50):
+        print(i + 1, extract_title(subtitles[f"{i + 1:02}"], "ja"))
+    return
 
     for k, v in subtitles.items():
         (dir_subtitle_exports / "en" / f"{k}.ass").write_text(

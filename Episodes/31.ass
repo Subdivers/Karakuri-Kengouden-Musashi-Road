@@ -6,15 +6,13 @@ PlayResX: 640
 PlayResY: 480
 
 [Aegisub Project Garbage]
-Last Style Storage: Karakuri
 Audio File: ../Videos/31.mp4
 Video File: ../Videos/31.mp4
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.625000
-Scroll Position: 330
-Active Line: 345
-Video Position: 16171
+Video Zoom Percent: 1.000000
+Active Line: 8
+Video Position: 35244
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -31,7 +29,15 @@ Style: InsOtsuru,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:00.00,0:00:00.00,SETTINGS,,0,0,0,,complete:false;song:song.*;lang:en,ko
+Comment: 0,0:00:00.00,0:00:27.22,Default,chapter,0,0,0,,Series Introduction
+Comment: 0,0:00:27.22,0:01:58.44,Default,chapter,0,0,0,,Opening Credits
+Comment: 0,0:01:58.44,0:02:18.25,Default,chapter,0,0,0,,Recap
+Comment: 0,0:02:18.25,0:02:23.25,Default,chapter,0,0,0,,Title Card
+Comment: 0,0:02:23.25,0:11:53.66,Default,chapter,0,0,0,,Part 1
+Comment: 0,0:11:53.66,0:11:58.66,Default,chapter,0,0,0,,Eyecatch
+Comment: 0,0:11:58.66,0:22:28.21,Default,chapter,0,0,0,,Part 2
+Comment: 0,0:22:28.21,0:24:00.17,Default,chapter,0,0,0,,Ending Credits
+Comment: 0,0:24:00.17,0:24:30.16,Default,chapter,0,0,0,,Next Episode Preview
 Dialogue: 0,0:00:04.40,0:00:06.40,Default,ref,0,0,0,OP!Intro01,時は戦国、乱世の時代。
 Dialogue: 0,0:00:06.92,0:00:11.40,Default,ref,0,0,0,OP!Intro02,からくり人の住むジパング国では群雄割拠して合戦に明け暮れ、
 Dialogue: 0,0:00:11.76,0:00:16.27,Default,ref,0,0,0,OP!Intro03,からくり武芸者たちも勝利と栄光を目指してしのぎを削っていた。
@@ -63,9 +69,7 @@ Comment: 0,0:02:09.72,0:02:17.50,Default,ja,0,0,0,,だが、コジローは伝�
 Dialogue: 0,0:02:09.72,0:02:17.50,Default,ko,0,0,0,,그렇지만 코지로는 전설의 비검, 봉황환을 손에 넣어 그 대단한 힘으로 이카즈치를 쓰러트렸다.
 Dialogue: 0,0:02:09.72,0:02:17.50,Default,en,0,0,0,,But Kojirō obtained the legendary secret sword, Hououmaru, and used its great power to take down Ikazuchi.
 Comment: 0,0:02:18.18,0:02:23.19,TitleEP,ja,0,0,0,,あり？！ムサシは死んだだス
-Comment: 0,0:02:18.18,0:02:23.19,TitleEP,ja,0,0,240,,
 Dialogue: 0,0:02:18.18,0:02:23.19,TitleEP,ko,0,0,240,,어라?!
-Comment: 0,0:02:18.18,0:02:23.19,TitleEP,ja,0,0,95,,
 Dialogue: 0,0:02:18.18,0:02:23.19,TitleEP,ko,0,0,95,,무사시는 죽소
 Dialogue: 0,0:02:18.18,0:02:23.19,TitleEP,en,0,0,240,,What?!
 Dialogue: 0,0:02:18.18,0:02:23.19,TitleEP,en,0,0,95,,Musashi Dies

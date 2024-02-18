@@ -10,15 +10,13 @@ PlayResX: 640
 PlayResY: 480
 
 [Aegisub Project Garbage]
-Last Style Storage: Karakuri
 Audio File: ../Videos/11.mp4
 Video File: ../Videos/11.mp4
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 889
-Active Line: 914
-Video Position: 35164
+Active Line: 8
+Video Position: 35259
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -34,7 +32,15 @@ Style: NoteOnAnimeVert,@맑은 고딕,48,&H00FFFFFF,&H000000FF,&H00000000,&H0000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:00.00,0:00:00.00,SETTINGS,,0,0,0,,complete:false;song:song.*;lang:en,ko
+Comment: 0,0:00:00.00,0:00:27.15,Default,chapter,0,0,0,,Series Introduction
+Comment: 0,0:00:27.15,0:01:58.37,Default,chapter,0,0,0,,Opening Credits
+Comment: 0,0:01:58.37,0:02:18.39,Default,chapter,0,0,0,,Introduction
+Comment: 0,0:02:18.39,0:02:23.39,Default,chapter,0,0,0,,Title Card
+Comment: 0,0:02:23.39,0:11:58.88,Default,chapter,0,0,0,,Part 1
+Comment: 0,0:11:58.88,0:12:03.72,Default,chapter,0,0,0,,Eyecatch
+Comment: 0,0:12:03.72,0:22:28.81,Default,chapter,0,0,0,,Part 2
+Comment: 0,0:22:28.81,0:24:00.77,Default,chapter,0,0,0,,Ending Credits
+Comment: 0,0:24:00.77,0:24:30.76,Default,chapter,0,0,0,,Next Episode Preview
 Dialogue: 0,0:00:04.28,0:00:06.51,Default,ref,0,0,0,OP!Intro01,時は戦国、乱世の時代。
 Dialogue: 0,0:00:06.92,0:00:11.74,Default,ref,0,0,0,OP!Intro02,からくり人の住むジパング国では群雄割拠して合戦に明け暮れ、
 Dialogue: 0,0:00:11.74,0:00:16.70,Default,ref,0,0,0,OP!Intro03,からくり武芸者たちも勝利と栄光を目指してしのぎを削っていた。
