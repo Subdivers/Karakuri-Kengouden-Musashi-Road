@@ -66,6 +66,63 @@ ROMANIZIED_TITLES = (
 )
 
 
+VIDEO_FILENAMES = (
+    "Karakuri Kengouden Musashi Road - Episode 01 - Daibouken no Tabi ni Deru dasu[B5FB4766]",
+    "Karakuri Kengouden Musashi Road - Episode 02 - Namida no Shugyou wa Hara ga Heru dasu[F5E680B1]",
+    "Karakuri Kengouden Musashi Road - Episode 03 - Kyou no Gojou no Benkei dasu[AEA926EC]",
+    "Karakuri Kengouden Musashi Road - Episode 04 - Ryouma wa Hitori Kaze no Naka dasu[7DD83C61]",
+    "Karakuri Kengouden Musashi Road - Episode 05 - Meitou Kotetsu Arashi wo Yobu dasu[F3C57CFF]",
+    "Karakuri Kengouden Musashi Road - Episode 06 - Oira wa Shishou da Erai dasu[223E6645]",
+    "Karakuri Kengouden Musashi Road - Episode 07 - Kiyoku Mazushii Kusarigama dasu[575743EE]",
+    "Karakuri Kengouden Musashi Road - Episode 08 - Aku no Hanzou Shinobiyoru dasu[75EDB443]",
+    "Karakuri Kengouden Musashi Road - Episode 09 - Otoko Ishimatsu Yuujou ni Chiru dasu[56F7A056]",
+    "Karakuri Kengouden Musashi Road - Episode 10 - Hana mo Arashi mo Edotopia dasu[032CBCE9]",
+    "Karakuri Kengouden Musashi Road - Episode 11 - Nagurikomi Bugei Taikai dasu[B35413D5]",
+    "Karakuri Kengouden Musashi Road - Episode 12 - Senhime Tasukete Shoubu dasu[1AD384C9]",
+    "Karakuri Kengouden Musashi Road - Episode 13 - Karakuri Kengou Soushutsugeki dasu[72686763]",
+    "Karakuri Kengouden Musashi Road - Episode 14 - Musashi Yume no Hyakuban Shoubu dasu[AED3FEC6]",
+    "Karakuri Kengouden Musashi Road - Episode 15 - Oogama Youjutsu Jiraiyan dasu[6F1DED8A]",
+    "Karakuri Kengouden Musashi Road - Episode 16 - Bijou Onihime Arawaru dasu[A4C8D13E]",
+    "Karakuri Kengouden Musashi Road - Episode 17 - Yamata no Orochi Daikessen dasu[86EAA630]",
+    "Karakuri Kengouden Musashi Road - Episode 18 - Kinpika Dorobou Goemondo dasu[419A5B00]",
+    "Karakuri Kengouden Musashi Road - Episode 19 - Nue no Naku Yo wa Kowai dasu[59258AD8]",
+    "Karakuri Kengouden Musashi Road - Episode 20 - Shuten Daibakuhatsu dasu[FF22DDCA]",
+    "Karakuri Kengouden Musashi Road - Episode 21 - Hii Ishimatsu no Yuurei dasu[A5B03C02]",
+    "Karakuri Kengouden Musashi Road - Episode 22 - Umi wa Kowai na Onigoroshi dasu[1D41D617]",
+    "Karakuri Kengouden Musashi Road - Episode 23 - Hokkai Western no Shitou dasu[6AFC2118]",
+    "Karakuri Kengouden Musashi Road - Episode 24 - Bakyaa Karakuri Toride dasu[E18CD4D2]",
+    "Karakuri Kengouden Musashi Road - Episode 25 - Koori mo Tokasu Yuujou Power dasu[523E3FDB]",
+    "Karakuri Kengouden Musashi Road - Episode 26 - Waruichiban Hanzou no Fukkatsu dasu[FA5AE6CD]",
+    "Karakuri Kengouden Musashi Road - Episode 27 - Saigou san wa Nazo no Hito dasu[CF9A8C8A]",
+    "Karakuri Kengouden Musashi Road - Episode 28 - Oira Gurete Yaru dasu[7F5A8478]",
+    "Karakuri Kengouden Musashi Road - Episode 29 - Ge Ochikomi Kojirou dasu[ABD33C36]",
+    "Karakuri Kengouden Musashi Road - Episode 30 - Ima Yomigaeru Densetsu no Ken dasu[0B6C8417]",
+    "Karakuri Kengouden Musashi Road - Episode 31 - Ari Musashi wa Shinda dasu[D2F2CB4C]",
+    "Karakuri Kengouden Musashi Road - Episode 32 - Yappa Fujimi no Musashi dasu[A8634594]",
+    "Karakuri Kengouden Musashi Road - Episode 33 - Himitsu no Himiko san dasu[E1325C1F]",
+    "Karakuri Kengouden Musashi Road - Episode 34 - Acchikocchi Kaji dasu[1AF6252A]",
+    "Karakuri Kengouden Musashi Road - Episode 35 - Hi no Kuni no Jouou Himiko dasu[A1A52E6D]",
+    "Karakuri Kengouden Musashi Road - Episode 36 - Shiranui Saigo no Inbou dasu[0946950C]",
+    "Karakuri Kengouden Musashi Road - Episode 37 - Kojirou ni Katta dasu[8BD8D00E]",
+    "Karakuri Kengouden Musashi Road - Episode 38 - Detaa Nazo no Rikutoumaou dasu[230AA9B0]",
+    "Karakuri Kengouden Musashi Road - Episode 39 - Kaibutsu Megaton Jou dasu[F476C022]",
+    "Karakuri Kengouden Musashi Road - Episode 40 - Senhime no Ai wa Katsu dasu[6E4994F3]",
+    "Karakuri Kengouden Musashi Road - Episode 41 - Nikkou Kekkou Shingen dasu[F1A34CFC]",
+    "Karakuri Kengouden Musashi Road - Episode 42 - Mokuba wa Kowai Wana Datta dasu[E88D2DBB]",
+    "Karakuri Kengouden Musashi Road - Episode 43 - Ten to Chi no Shingenshin dasu[5B8517B9]",
+    "Karakuri Kengouden Musashi Road - Episode 44 - Adesugata Karakuri Henge dasu[C9999BC6]",
+    "Karakuri Kengouden Musashi Road - Episode 45 - Naminori Gennai Hatsumeiou dasu[867ECDC2]",
+    "Karakuri Kengouden Musashi Road - Episode 46 - Oowarai Tako Odori Sakusen dasu[D282A374]",
+    "Karakuri Kengouden Musashi Road - Episode 47 - Beberu 13 wo Bukkowase dasu[2FC59437]",
+    "Karakuri Kengouden Musashi Road - Episode 48 - Edotopia Dai Pinch dasu[BE1F7326]",
+    "Karakuri Kengouden Musashi Road - Episode 49 - Hana no Musashi Aku wo Kiru dasu[4A33E61A]",
+    "Karakuri Kengouden Musashi Road - Episode 50 - Musashi Tai Kojirou dasu[887E1455]",
+    "Karakuri Kengouden Musashi Road - Extra - Clean Ending 1[3240614B]",
+    "Karakuri Kengouden Musashi Road - Extra - Clean Opening[06807E43]",
+)
+
+
+
 def asshex_from_int(val: int) -> str: return f"&H{val:08X}"
 
 
@@ -528,13 +585,19 @@ def __main__():
     # generate_videos(subtitles)
 
     for k, v in subtitles.items():
-        (dir_subtitle_exports / "en" / f"{k}.ass").write_text(
+        if k == 'OP':
+            out_filename = VIDEO_FILENAMES[50]
+        elif k == 'ED1':
+            out_filename = VIDEO_FILENAMES[51]
+        else:
+            out_filename = VIDEO_FILENAMES[int(k, 10) - 1]
+        (dir_subtitle_exports / "en" / f"{out_filename}.ass").write_text(
             extract_language(v, "en").export(),
             encoding="utf-8-sig")
-        (dir_subtitle_exports / "ko" / f"{k}.ass").write_text(
+        (dir_subtitle_exports / "ko" / f"{out_filename}.ass").write_text(
             extract_language(v, "ko").export(),
             encoding="utf-8-sig")
-        (dir_subtitle_exports / "ja" / f"{k}.ass").write_text(
+        (dir_subtitle_exports / "ja" / f"{out_filename}.ass").write_text(
             extract_language(v, "ja").export(),
             encoding="utf-8-sig")
     return 0
