@@ -11,9 +11,9 @@ Video File: ../Videos/19.mp4
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 721
-Active Line: 738
-Video Position: 35251
+Scroll Position: 624
+Active Line: 644
+Video Position: 29436
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -673,7 +673,8 @@ Dialogue: 0,0:19:58.96,0:20:01.08,Default,ko,0,0,0,,아키노카미! 각오해�
 Dialogue: 0,0:19:58.96,0:20:01.08,Default,en,0,0,0,,Akinokami! Give it up!
 Comment: 0,0:20:24.68,0:20:27.73,Default,ja,0,0,0,,二天一流、閃光剣！
 Dialogue: 0,0:20:24.68,0:20:27.73,Default,ko,0,0,0,,이천일류 섬광검!
-Dialogue: 0,0:20:24.68,0:20:27.73,Default,en,0,0,0,,Niten'ichiryū: Flash Sword!
+Dialogue: 0,0:20:24.68,0:20:27.73,Default,en,0,0,0,,Niten'ichiryū: Senkōken!
+Dialogue: 0,0:20:24.68,0:20:27.73,Note,en,0,0,0,,(lit. Flash Sword)
 Comment: 0,0:20:34.70,0:20:36.68,Default,ja,0,0,0,,ムサシ目、覚えておれ！
 Dialogue: 0,0:20:34.70,0:20:36.68,Default,ko,0,0,0,,무사시 놈, 기억해 둬라!
 Dialogue: 0,0:20:34.70,0:20:36.68,Default,en,0,0,0,,Curse you, Musashi! Remember this!

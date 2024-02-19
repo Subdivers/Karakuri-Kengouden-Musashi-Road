@@ -11,9 +11,9 @@ Video File: ../Videos/21.mp4
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 27
-Active Line: 39
-Video Position: 35250
+Scroll Position: 852
+Active Line: 877
+Video Position: 35251
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -39,47 +39,47 @@ Comment: 0,0:12:40.93,0:12:45.93,Default,chapter,0,0,0,,Eyecatch
 Comment: 0,0:12:45.93,0:22:28.43,Default,chapter,0,0,0,,Part 2
 Comment: 0,0:22:28.43,0:24:00.44,Default,chapter,0,0,0,,Ending Credits
 Comment: 0,0:24:00.44,0:24:30.43,Default,chapter,0,0,0,,Next Episode Preview
-Dialogue: 0,0:00:04.27,0:00:06.50,Default,ref,0,0,0,OP!Intro01,時は戦国、乱世の時代。
-Dialogue: 0,0:00:06.91,0:00:11.73,Default,ref,0,0,0,OP!Intro02,からくり人の住むジパング国では群雄割拠して合戦に明け暮れ、
-Dialogue: 0,0:00:11.73,0:00:16.69,Default,ref,0,0,0,OP!Intro03,からくり武芸者たちも勝利と栄光を目指してしのぎを削っていた。
-Dialogue: 0,0:00:16.69,0:00:23.16,Default,ref,0,0,0,OP!Intro04,そしていま、からくり武芸者ナンバー１を目指す、とてつもないヒーローが誕生した！
-Dialogue: 0,0:00:24.30,0:00:26.83,Default,ref,0,0,0,OP!Intro05,ムサシ、見参でござるだス！
-Dialogue: 0,0:00:27.81,0:00:32.99,TitleOP,ref,0,0,40,OP!Title,からくり剣豪伝ムサシロード
-Dialogue: 0,0:00:32.99,0:00:37.82,SongOP,ref,0,0,0,OP!Lyric01,男はいつでも　世界の真ん中で
-Dialogue: 0,0:00:38.66,0:00:41.58,SongOP,ref,0,0,0,OP!Lyric02,いちばん　強くなる日を
-Dialogue: 0,0:00:41.58,0:00:44.45,SongOP,ref,0,0,0,OP!Lyric03,AH! AH! 夢見て
-Dialogue: 0,0:00:44.45,0:00:49.49,SongOP,ref,0,0,0,OP!Lyric04,心の刃　大空にふりかざし
-Dialogue: 0,0:00:50.13,0:00:54.13,SongOP,ref,0,0,0,OP!Lyric05,冒険の旅の　幕を開ける
-Dialogue: 0,0:00:55.46,0:01:00.72,SongOP,ref,0,0,0,OP!Lyric06,ジパング国を　さすらう剣豪
-Dialogue: 0,0:01:01.30,0:01:06.37,SongOP,ref,0,0,0,OP!Lyric07,その名　からくりびと　ムサシ
-Dialogue: 0,0:01:06.37,0:01:07.84,SongOP,ref,0,0,0,OP!Lyric08,GO! FIGHT!
-Dialogue: 0,0:01:07.84,0:01:10.80,SongOP,ref,0,0,0,OP!Lyric09,鍔迫り合いの音が
-Dialogue: 0,0:01:10.80,0:01:13.61,SongOP,ref,0,0,0,OP!Lyric10,眩しい人生
-Dialogue: 0,0:01:13.61,0:01:19.07,SongOP,ref,0,0,0,OP!Lyric11,戦い　昨日よりも　今日　強い
-Dialogue: 0,0:01:19.12,0:01:25.34,SongOP,ref,0,0,0,OP!Lyric12,BUGEI! 二刀流　ムサシ
-Dialogue: 0,0:01:25.34,0:01:28.32,SongOP,ref,0,0,0,OP!Lyric13,明日は　輝くぞ
-Dialogue: 0,0:01:28.32,0:01:30.79,SongOP,ref,0,0,0,OP!Lyric14,鍔迫り合いの音が
-Dialogue: 0,0:01:30.79,0:01:33.32,SongOP,ref,0,0,0,OP!Lyric15,眩しい人生
-Dialogue: 0,0:01:34.03,0:01:39.39,SongOP,ref,0,0,0,OP!Lyric16,戦い　思い切りと　静けさと
-Dialogue: 0,0:01:39.41,0:01:45.64,SongOP,ref,0,0,0,OP!Lyric17,BUGEI! 二刀流　ムサシ
-Dialogue: 0,0:01:45.64,0:01:50.90,SongOP,ref,0,0,0,OP!Lyric18,みけんが　きらめいた　ムサシ！！
-Comment: 0,0:02:02.32,0:02:07.40,Default,ja,0,0,0,,シュテンタイガーは砂金を取るために村の人々を働かせていた。
-Dialogue: 0,0:02:02.32,0:02:07.40,Default,ko,0,0,0,,슈텐타이거는 사금을 얻기 위해 마을 사람들에게 노동을 강제하고 있었다.
-Dialogue: 0,0:02:02.32,0:02:07.40,Default,en,0,0,0,,Shutentiger was forcing the villagers to work to mine alluvial gold.
+Dialogue: 0,0:00:04.47,0:00:06.60,Default,ref,0,0,0,OP!Intro01,時は戦国、乱世の時代。
+Dialogue: 0,0:00:07.11,0:00:11.43,Default,ref,0,0,0,OP!Intro02,からくり人の住むジパング国では群雄割拠して合戦に明け暮れ、
+Dialogue: 0,0:00:11.93,0:00:16.31,Default,ref,0,0,0,OP!Intro03,からくり武芸者たちも勝利と栄光を目指してしのぎを削っていた。
+Dialogue: 0,0:00:16.87,0:00:23.27,Default,ref,0,0,0,OP!Intro04,そしていま、からくり武芸者ナンバー１を目指す、とてつもないヒーローが誕生した！
+Dialogue: 0,0:00:24.41,0:00:26.96,Default,ref,0,0,0,OP!Intro05,ムサシ、見参でござるだス！
+Dialogue: 0,0:00:27.99,0:00:33.16,TitleOP,ref,0,0,40,OP!Title,からくり剣豪伝ムサシロード
+Dialogue: 0,0:00:33.16,0:00:38.00,SongOP,ref,0,0,0,OP!Lyric01,男はいつでも　世界の真ん中で
+Dialogue: 0,0:00:38.83,0:00:41.75,SongOP,ref,0,0,0,OP!Lyric02,いちばん　強くなる日を
+Dialogue: 0,0:00:41.75,0:00:44.63,SongOP,ref,0,0,0,OP!Lyric03,AH! AH! 夢見て
+Dialogue: 0,0:00:44.63,0:00:49.67,SongOP,ref,0,0,0,OP!Lyric04,心の刃　大空にふりかざし
+Dialogue: 0,0:00:50.30,0:00:54.30,SongOP,ref,0,0,0,OP!Lyric05,冒険の旅の　幕を開ける
+Dialogue: 0,0:00:55.64,0:01:00.89,SongOP,ref,0,0,0,OP!Lyric06,ジパング国を　さすらう剣豪
+Dialogue: 0,0:01:01.48,0:01:06.52,SongOP,ref,0,0,0,OP!Lyric07,その名　からくりびと　ムサシ
+Dialogue: 0,0:01:06.52,0:01:08.03,SongOP,ref,0,0,0,OP!Lyric08,GO! FIGHT!
+Dialogue: 0,0:01:08.03,0:01:10.95,SongOP,ref,0,0,0,OP!Lyric09,鍔迫り合いの音が
+Dialogue: 0,0:01:10.95,0:01:13.78,SongOP,ref,0,0,0,OP!Lyric10,眩しい人生
+Dialogue: 0,0:01:13.78,0:01:19.25,SongOP,ref,0,0,0,OP!Lyric11,戦い　昨日よりも　今日　強い
+Dialogue: 0,0:01:19.29,0:01:25.50,SongOP,ref,0,0,0,OP!Lyric12,BUGEI! 二刀流　ムサシ
+Dialogue: 0,0:01:25.50,0:01:28.50,SongOP,ref,0,0,0,OP!Lyric13,明日は　輝くぞ
+Dialogue: 0,0:01:28.50,0:01:30.97,SongOP,ref,0,0,0,OP!Lyric14,鍔迫り合いの音が
+Dialogue: 0,0:01:30.97,0:01:33.47,SongOP,ref,0,0,0,OP!Lyric15,眩しい人生
+Dialogue: 0,0:01:34.18,0:01:39.56,SongOP,ref,0,0,0,OP!Lyric16,戦い　思い切りと　静けさと
+Dialogue: 0,0:01:39.60,0:01:45.81,SongOP,ref,0,0,0,OP!Lyric17,BUGEI! 二刀流　ムサシ
+Dialogue: 0,0:01:45.81,0:01:51.07,SongOP,ref,0,0,0,OP!Lyric18,みけんが　きらめいた　ムサシ！！
+Comment: 0,0:02:02.39,0:02:07.40,Default,ja,0,0,0,,シュテンタイガーは砂金を取るために村の人々を働かせていた。
+Dialogue: 0,0:02:02.39,0:02:07.40,Default,ko,0,0,0,,슈텐타이거는 사금을 얻기 위해 마을 사람들을 강제로 부리고 있었다.
+Dialogue: 0,0:02:02.39,0:02:07.40,Default,en,0,0,0,,Shutentiger was forcing the villagers to work to mine gold sand.
 Comment: 0,0:02:08.50,0:02:17.34,Default,ja,0,0,0,,ムサシ、コジローは三太の願いを聞き、激しい戦いの末、シュテンタイガーを、大爆発させてしまったのだった。
 Dialogue: 0,0:02:08.50,0:02:17.34,Default,ko,0,0,0,,무사시, 코지로는 산타의 부탁을 들어 격심한 전투 끝에 슈텐타이거를 대폭발시켰다.
-Dialogue: 0,0:02:08.50,0:02:17.34,Default,en,0,0,0,,Musashi and Kojirō responded to Santa's wish by making Shutentiger explode after a intense fight.
-Comment: 0,0:02:18.15,0:02:23.20,TitleEP,ja,0,0,0,,ヒ～！イシマツの幽霊だス
-Dialogue: 0,0:02:18.15,0:02:23.20,TitleEP,ko,0,0,250,,히익!
-Dialogue: 0,0:02:18.15,0:02:23.20,TitleEP,ko,0,0,110,,이시마츠의 유령이오
-Dialogue: 0,0:02:18.15,0:02:23.20,TitleEP,en,0,0,250,,Woah!
-Dialogue: 0,0:02:18.15,0:02:23.20,TitleEP,en,0,0,110,,It's Ishimatsu's Ghost!
+Dialogue: 0,0:02:08.50,0:02:17.34,Default,en,0,0,0,,Musashi and Kojirō responded to Santa's wish, and after an intense fight, they made Shutentiger explode.
+Comment: 0,0:02:18.30,0:02:23.35,TitleEP,ja,0,0,0,,ヒ～！イシマツの幽霊だス
+Dialogue: 0,0:02:18.30,0:02:23.35,TitleEP,ko,0,0,250,,히익!
+Dialogue: 0,0:02:18.30,0:02:23.35,TitleEP,ko,0,0,110,,이시마츠의 유령이오
+Dialogue: 0,0:02:18.30,0:02:23.35,TitleEP,en,0,0,250,,Woah!
+Dialogue: 0,0:02:18.30,0:02:23.35,TitleEP,en,0,0,110,,It's Ishimatsu's Ghost!
 Comment: 0,0:02:25.45,0:02:30.50,Default,ja,0,0,0,,旅を続ける一行は旅の疲れをいやすために温泉に生きていた。
 Dialogue: 0,0:02:25.45,0:02:30.50,Default,ko,0,0,0,,여행을 계속하던 일행은 노독을 풀기 위해 온천에 들렀다.
-Dialogue: 0,0:02:25.45,0:02:30.50,Default,en,0,0,0,,Our characters have stopped at a hot spring to relieve their strain of travelling.
-Comment: 0,0:02:37.92,0:02:40.09,Default,ja,0,0,0,,なんてだって、温泉が一番よね。
-Dialogue: 0,0:02:37.92,0:02:40.09,Default,ko,0,0,0,,뭐가 어쨌더라도 온천이 제일이구나.
-Dialogue: 0,0:02:37.92,0:02:40.09,Default,en,0,0,0,,Hot springs are the best no matter what.
+Dialogue: 0,0:02:25.45,0:02:30.50,Default,en,0,0,0,,Our heroes have stopped by at a hot spring to relieve their strain from all that journey.
+Comment: 0,0:02:37.92,0:02:40.24,Default,ja,0,0,0,,なんてだって、温泉が一番よね。
+Dialogue: 0,0:02:37.92,0:02:40.24,Default,ko,0,0,0,,뭐가 어쨌더라도 온천이 제일이구나.
+Dialogue: 0,0:02:37.92,0:02:40.24,Default,en,0,0,0,,Hot springs are great as always.
 Comment: 0,0:02:46.88,0:02:50.37,Default,ja,0,0,0,,なあ、コジロー。おいらたちも温泉に入ろうだス。
 Dialogue: 0,0:02:46.88,0:02:50.37,Default,ko,0,0,0,,저기, 코지로, 우리도 온천에 들어가오.
 Dialogue: 0,0:02:46.88,0:02:50.37,Default,en,0,0,0,,Hey, Kojirō, let's get into the hot spring too-{\i1}dasu{\i0}.
@@ -89,9 +89,9 @@ Dialogue: 0,0:02:50.74,0:02:55.20,Default,en,0,0,0,,What if Senhime gets attacke
 Comment: 0,0:02:55.49,0:03:00.60,Default,ja,0,0,0,,ふん、じゃ、おいら、おせんちゃんと一緒にお風呂に入って見張るだス。
 Dialogue: 0,0:02:55.49,0:03:00.60,Default,ko,0,0,0,,흠, 그럼 나, 오센짱하고 같이 탕에 들어가서 망보겠소.
 Dialogue: 0,0:02:55.49,0:03:00.60,Default,en,0,0,0,,Hmm, then I'll join Osenchan in the bath and stand watch-{\i1}dasu{\i0}.
-Comment: 0,0:03:00.73,0:03:03.86,Default,ja,0,0,0,,ば、ばか！お前、エチケットを知らんか！
-Dialogue: 0,0:03:00.73,0:03:03.86,Default,ko,0,0,0,,바, 바보야! 너, 예의도 모르냐!
-Dialogue: 0,0:03:00.73,0:03:03.86,Default,en,0,0,0,,I- idiot! Don't you know your etiquette?
+Comment: 0,0:03:00.73,0:03:04.02,Default,ja,0,0,0,,ば、ばか！お前、エチケットを知らんか！
+Dialogue: 0,0:03:00.73,0:03:04.02,Default,ko,0,0,0,,바, 바보야! 너, 예의도 모르냐!
+Dialogue: 0,0:03:00.73,0:03:04.02,Default,en,0,0,0,,You idiot! Don't you know your etiquette?
 Comment: 0,0:03:04.34,0:03:06.28,Default,ja,0,0,0,,指名を遂行するのみだス。
 Dialogue: 0,0:03:04.34,0:03:06.28,Default,ko,0,0,0,,해야 할 일을 할 뿐이오.
 Dialogue: 0,0:03:04.34,0:03:06.28,Default,en,0,0,0,,I'm just doing what I have to-{\i1}dasu{\i0}.
@@ -100,16 +100,16 @@ Dialogue: 0,0:03:06.85,0:03:07.46,Default,ko,0,0,0,,그럼!
 Dialogue: 0,0:03:06.85,0:03:07.46,Default,en,0,0,0,,Then!
 Comment: 0,0:03:10.96,0:03:12.21,Default,ja,0,0,0,,いわんこっちゃない。
 Dialogue: 0,0:03:10.96,0:03:12.21,Default,ko,0,0,0,,말했잖아.
-Dialogue: 0,0:03:10.96,0:03:12.21,Default,en,0,0,0,,I told you.
-Comment: 0,0:03:12.60,0:03:16.10,Default,ja,0,0,0,,これだけ強ければ守る必要なんてないだス。。。
-Dialogue: 0,0:03:12.60,0:03:16.10,Default,ko,0,0,0,,이렇게 강하면 지킬 필요 없소...
-Dialogue: 0,0:03:12.60,0:03:16.10,Default,en,0,0,0,,We don't even have to protect her if she's that strong-{\i1}dasu{\i0}...
+Dialogue: 0,0:03:10.96,0:03:12.21,Default,en,0,0,0,,Told you so.
+Comment: 0,0:03:12.60,0:03:16.01,Default,ja,0,0,0,,これだけ強ければ守る必要なんてないだス。。。
+Dialogue: 0,0:03:12.60,0:03:16.01,Default,ko,0,0,0,,이렇게 강하면 지킬 필요 없소...
+Dialogue: 0,0:03:12.60,0:03:16.01,Default,en,0,0,0,,With that strength of hers, do we even have to protect her-{\i1}dasu{\i0}...?
 Comment: 0,0:03:16.10,0:03:17.17,Default,ja,0,0,0,,ムサシ！
 Dialogue: 0,0:03:16.10,0:03:17.17,Default,ko,0,0,0,,무사시!
 Dialogue: 0,0:03:16.10,0:03:17.17,Default,en,0,0,0,,Musashi!
-Comment: 0,0:03:27.80,0:03:30.60,Default,ja,0,0,0,,なんだかぶすきみわるい宿屋だスな。。。
-Dialogue: 0,0:03:27.80,0:03:30.60,Default,ko,0,0,0,,왠지 기분 나쁜 여관이오.
-Dialogue: 0,0:03:27.80,0:03:30.60,Default,en,0,0,0,,This is one gloomy inn-{\i1}dasu{\i0}.
+Comment: 0,0:03:27.73,0:03:30.60,Default,ja,0,0,0,,なんだか薄気味悪い宿屋だスな。。。
+Dialogue: 0,0:03:27.73,0:03:30.60,Default,ko,0,0,0,,왠지 기분 나쁜 여관이오.
+Dialogue: 0,0:03:27.73,0:03:30.60,Default,en,0,0,0,,This is one eerie inn-{\i1}dasu{\i0}.
 Comment: 0,0:03:30.82,0:03:32.82,Default,ja,0,0,0,,なんだ、ムサシ。怖いのか？
 Dialogue: 0,0:03:30.82,0:03:32.82,Default,ko,0,0,0,,뭐냐, 무사시. 무섭냐?
 Dialogue: 0,0:03:30.82,0:03:32.82,Default,en,0,0,0,,What is it, Musashi? Are you scared?
@@ -119,10 +119,10 @@ Dialogue: 0,0:03:32.98,0:03:34.74,Default,en,0,0,0,,T- that's not it-{\i1}dasu{\
 Comment: 0,0:03:34.93,0:03:36.90,Default,ja,0,0,0,,だけど、膝が震えてるわよ。
 Dialogue: 0,0:03:34.93,0:03:36.90,Default,ko,0,0,0,,그래도 무릎을 떨고 있잖아.
 Dialogue: 0,0:03:34.93,0:03:36.90,Default,en,0,0,0,,But aren't you shivering your knees?
-Comment: 0,0:03:41.09,0:03:45.24,Default,ja,0,0,0,,ここ、これは晩御飯が遅いので貧乏～だス。
-Dialogue: 0,0:03:41.09,0:03:45.24,Default,ko,0,0,0,,이, 이, 이건 저녁이 늦어서 떨고 있는 것이오.
-Dialogue: 0,0:03:41.09,0:03:45.24,Default,en,0,0,0,,T- t- this is because the dinner is late-{\i1}dasu{\i0}.
-Comment: 0,0:04:01.63,0:04:03.06,Default,ja,0,0,0,,姫様、～めされ！
+Comment: 0,0:03:41.09,0:03:45.24,Default,ja,0,0,0,,ここ、これは晩御飯が遅いので貧乏揺すりだス。
+Dialogue: 0,0:03:41.09,0:03:45.24,Default,ko,0,0,0,,이, 이, 이건 저녁이 늦어서 다리를 떨고 있는 것이오.
+Dialogue: 0,0:03:41.09,0:03:45.24,Default,en,0,0,0,,I- I'm just shaking my legs because the dinner is late-{\i1}dasu{\i0}.
+Comment: 0,0:04:01.63,0:04:03.06,Default,ja,0,0,0,,姫様、用心召され！！
 Dialogue: 0,0:04:01.63,0:04:03.06,Default,ko,0,0,0,,공주님, 조심하세요!
 Dialogue: 0,0:04:01.63,0:04:03.06,Default,en,0,0,0,,Princess, watch out!
 Comment: 0,0:04:03.62,0:04:05.53,Default,ja,0,0,0,,お食事お持ちました。
@@ -131,55 +131,55 @@ Dialogue: 0,0:04:03.62,0:04:05.53,Default,en,0,0,0,,Dinner is ready.
 Comment: 0,0:04:09.17,0:04:13.80,Default,ja,0,0,0,,なんだ、宿屋のご主人じゃないだスか、驚かさないでほしいだス。
 Dialogue: 0,0:04:09.17,0:04:13.80,Default,ko,0,0,0,,뭣이오, 단지 여관 주인이었소! 놀래키지 않았으면 좋겠소!
 Dialogue: 0,0:04:09.17,0:04:13.80,Default,en,0,0,0,,Oh, it was just the inn owner-{\i1}dasu{\i0}! Please don't scare us like that-{\i1}dasu{\i0}!
-Comment: 0,0:04:15.53,0:04:17.25,Default,ja,0,0,0,,ムサシって、本当くびよんね。
-Dialogue: 0,0:04:15.53,0:04:17.25,Default,ko,0,0,0,,무사시 정말 겁쟁이구나.
-Dialogue: 0,0:04:15.53,0:04:17.25,Default,en,0,0,0,,Aren't you a coward, Musashi.
-Comment: 0,0:04:17.64,0:04:23.95,Default,ja,0,0,0,,ち、ちがうだす、今のは。うわ、～だ！いったんだすよ。
-Dialogue: 0,0:04:17.64,0:04:23.95,Default,ko,0,0,0,,아, 아니오. 방금 그건 우와, 겨우 요리가 나왔다! 이었을 뿐이오.
-Dialogue: 0,0:04:17.64,0:04:23.95,Default,en,0,0,0,,N- no, that isn't it-{\i1}dasu{\i0}. I was just like, "Wow, the food is finally here!"-{\i1}dasu{\i0}!
-Comment: 0,0:04:23.95,0:04:28.20,Default,ja,0,0,0,,ああ、マジたびれただス！さあ、思いっきり食べるだス。。。
-Dialogue: 0,0:04:23.95,0:04:28.20,Default,ko,0,0,0,,아, 정말 배고팠소! 잔뜩 먹겠...소...
-Dialogue: 0,0:04:23.95,0:04:28.20,Default,en,0,0,0,,I was so hungry-{\i1}dasu{\i0}! I'll eat as much as... I... wanted-{\i1}dasu{\i0}...
-Comment: 0,0:04:30.53,0:04:32.50,Default,ja,0,0,0,,こ、これぼっちしかないんだスか。
-Dialogue: 0,0:04:30.53,0:04:32.50,Default,ko,0,0,0,,이, 이것밖에 없소?
-Dialogue: 0,0:04:30.53,0:04:32.50,Default,en,0,0,0,,I- is this all you have-{\i1}dasu{\i0}?
+Comment: 0,0:04:15.53,0:04:17.32,Default,ja,0,0,0,,ムサシって、本当くびよんね。
+Dialogue: 0,0:04:15.53,0:04:17.32,Default,ko,0,0,0,,무사시 정말 겁쟁이구나.
+Dialogue: 0,0:04:15.53,0:04:17.32,Default,en,0,0,0,,You sure are a scaredy cat, Musashi.
+Comment: 0,0:04:17.64,0:04:23.59,Default,ja,0,0,0,,ち、ちがうだす、今のは「うわ、やっと料理が出た！」と言ったんだスよ。
+Dialogue: 0,0:04:17.64,0:04:23.59,Default,ko,0,0,0,,아, 아니오. 방금 그건 우와, 겨우 요리가 나왔다! 이었을 뿐이오.
+Dialogue: 0,0:04:17.64,0:04:23.59,Default,en,0,0,0,,N- no, that isn't it-{\i1}dasu{\i0}. I was just like, "Wow, the food is finally here!"-{\i1}dasu{\i0}!
+Comment: 0,0:04:23.93,0:04:28.35,Default,ja,0,0,0,,ああ、マジたびれただス！さあ、思いっきり食べるだス。。。
+Dialogue: 0,0:04:23.93,0:04:28.35,Default,ko,0,0,0,,아, 정말 배고팠소! 잔뜩 먹겠...소...
+Dialogue: 0,0:04:23.93,0:04:28.35,Default,en,0,0,0,,I was so hungry-{\i1}dasu{\i0}! I'll eat as much as... I... wanted-{\i1}dasu{\i0}...
+Comment: 0,0:04:30.53,0:04:32.40,Default,ja,0,0,0,,これぼっちしかないんだスか。
+Dialogue: 0,0:04:30.53,0:04:32.40,Default,ko,0,0,0,,이것밖에 없소?
+Dialogue: 0,0:04:30.53,0:04:32.40,Default,en,0,0,0,,Is this all you have-{\i1}dasu{\i0}?
 Comment: 0,0:04:32.50,0:04:35.44,Default,ja,0,0,0,,ダイエットメニューだって、これより量があるわよ。
 Dialogue: 0,0:04:32.50,0:04:35.44,Default,ko,0,0,0,,다이어트 메뉴도 이것보다는 많을 거야.
-Dialogue: 0,0:04:32.50,0:04:35.44,Default,en,0,0,0,,Even a diet menu would be more than this.
-Comment: 0,0:04:35.68,0:04:37.51,Default,ja,0,0,0,,これって、あんまりじゃない？
-Dialogue: 0,0:04:35.68,0:04:37.51,Default,ko,0,0,0,,이건 좀 지나치지 않아?
-Dialogue: 0,0:04:35.68,0:04:37.51,Default,en,0,0,0,,Isn't this too much?
-Comment: 0,0:04:37.78,0:04:44.80,Default,ja,0,0,0,,あ、すまんっこです。だけど、これが出しる限りの最後の料理なんでございます。
+Dialogue: 0,0:04:32.50,0:04:35.44,Default,en,0,0,0,,Even a diet menu would have more than this.
+Comment: 0,0:04:35.69,0:04:37.53,Default,ja,0,0,0,,これって、あんまりじゃない？
+Dialogue: 0,0:04:35.69,0:04:37.53,Default,ko,0,0,0,,이건 좀 지나치지 않아?
+Dialogue: 0,0:04:35.69,0:04:37.53,Default,en,0,0,0,,Isn't this too small of a portion?
+Comment: 0,0:04:37.78,0:04:44.80,Default,ja,0,0,0,,あ、すまんっこです。だけど、これが出せる限りの最後の料理なんでございますで。
 Dialogue: 0,0:04:37.78,0:04:44.80,Default,ko,0,0,0,,미안합니다. 그렇지만 이게 드릴 수 있는 최고의 요리입니다.
-Dialogue: 0,0:04:37.78,0:04:44.80,Default,en,0,0,0,,I'm sorry. But this is the best cooking available.
+Dialogue: 0,0:04:37.78,0:04:44.80,Default,en,0,0,0,,I'm sorry. But this is the best meal we can offer.
 Comment: 0,0:04:48.00,0:04:52.54,Default,ja,0,0,0,,何か訳がありそうだな。もし良かったら、話していただけませんか。
 Dialogue: 0,0:04:48.00,0:04:52.54,Default,ko,0,0,0,,뭔가 사정이 있는 것 같군. 괜찮으시다면 말씀해주시지 않겠습니까.
 Dialogue: 0,0:04:48.00,0:04:52.54,Default,en,0,0,0,,It seems that he has something to tell. Would you like to share your story with us?
 Comment: 0,0:04:53.37,0:05:01.89,Default,ja,0,0,0,,はい。実は、この村の近くには恐山という例が集まる山があるでございます。
-Dialogue: 0,0:04:53.37,0:05:01.89,Default,ko,0,0,0,,예. 사실은 이 마을 가까이에 공산(恐山)이라는 영혼이 모이는 산이 있습니다.
+Dialogue: 0,0:04:53.37,0:05:01.89,Default,ko,0,0,0,,예. 사실은 이 마을 가까이에 오소레잔이라는 영혼이 모이는 산이 있습니다.
 Dialogue: 0,0:04:53.37,0:05:01.89,Default,en,0,0,0,,Yes. There is a mountain named Osorezan near this village, and it is told that spirits gather in there.
 Comment: 0,0:05:06.00,0:05:13.18,Default,ja,0,0,0,,そこへ最近首のない落ち武者の牡蛎が現れて暴れ出したんでございます。
 Dialogue: 0,0:05:06.00,0:05:13.18,Default,ko,0,0,0,,그 곳에 최근 목이 없는 패잔 무사의 망령이 나타나 날뛰었습니다.
 Dialogue: 0,0:05:06.00,0:05:13.18,Default,en,0,0,0,,Recently at there, the departed spirits of fleeing soldiers have appeared and raged.
-Comment: 0,0:05:13.81,0:05:23.30,Default,ja,0,0,0,,すっかりおびえた村人たち、あつみちいた村を去り、～この宿屋一見だけでございます。
+Comment: 0,0:05:13.81,0:05:23.30,Default,ja,0,0,0,,すっかりおびえた村人たち、{???}あつみちいた村を去り、残ってるのはこの宿屋一見だけでございます。
 Dialogue: 0,0:05:13.81,0:05:23.30,Default,ko,0,0,0,,아주 겁에 질린 마을 사람들은 이곳저곳 마을을 떠나, 남아 있는 건 이 여관 하나뿐입니다.
-Dialogue: 0,0:05:13.81,0:05:23.30,Default,en,0,0,0,,The villagers were scared and left the village, and this inn is the only remaining here.
+Dialogue: 0,0:05:13.81,0:05:23.30,Default,en,0,0,0,,The villagers got scared and left the village, and this inn is the only one to remain here.
 Comment: 0,0:05:25.90,0:05:31.18,Default,ja,0,0,0,,酷い幽霊ね。許せないわ。よし、その幽霊を退治してあげる。
 Dialogue: 0,0:05:25.90,0:05:31.18,Default,ko,0,0,0,,아주 못된 유령이네. 용서할 수 없어. 좋아, 그 유령을 퇴치해 주겠어.
 Dialogue: 0,0:05:25.90,0:05:31.18,Default,en,0,0,0,,Those are really bad ghosts. Alright, we will get rid of those ghosts.
 Comment: 0,0:05:31.60,0:05:32.61,Default,ja,0,0,0,,本当ですか？
 Dialogue: 0,0:05:31.60,0:05:32.61,Default,ko,0,0,0,,정말입니까?
 Dialogue: 0,0:05:31.60,0:05:32.61,Default,en,0,0,0,,Really?
-Comment: 0,0:05:32.92,0:05:36.09,Default,ja,0,0,0,,ちょちょちょっと、おせんちゃん！それはまりにも危険だス！
-Dialogue: 0,0:05:32.92,0:05:36.09,Default,ko,0,0,0,,자자잠깐, 오센짱, 그건 어떻게 봐도 위험하오!
-Dialogue: 0,0:05:32.92,0:05:36.09,Default,en,0,0,0,,J- j- just a moment, Osenchan! That's too dangerous-{\i1}dasu{\i0}!
+Comment: 0,0:05:32.92,0:05:36.00,Default,ja,0,0,0,,ちょちょちょっと、おせんちゃん！それはまりにも危険だス！
+Dialogue: 0,0:05:32.92,0:05:36.00,Default,ko,0,0,0,,자자잠깐, 오센짱, 그건 어떻게 봐도 위험하오!
+Dialogue: 0,0:05:32.92,0:05:36.00,Default,en,0,0,0,,J- j- just a moment, Osenchan! That's too dangerous-{\i1}dasu{\i0}!
 Comment: 0,0:05:36.09,0:05:41.89,Default,ja,0,0,0,,あら、誰もあたしがっては言ってないのよ。あんたが退治するの、あんたが。
 Dialogue: 0,0:05:36.09,0:05:41.89,Default,ko,0,0,0,,어라, 내가 한다고는 한 적 없어. 네가 퇴치할 거야, 네가.
 Dialogue: 0,0:05:36.09,0:05:41.89,Default,en,0,0,0,,Hey, I never said that I'm going to do that myself. It's you who's going to wipe them out. You will.
 Comment: 0,0:05:41.89,0:05:44.42,Default,ja,0,0,0,,いい、おいらがだスか？
-Dialogue: 0,0:05:41.89,0:05:44.42,Default,ko,0,0,0,,저... 나이오?
-Dialogue: 0,0:05:41.89,0:05:44.42,Default,en,0,0,0,,I... I will?
-Comment: 0,0:05:44.60,0:05:47.14,Default,ja,0,0,0,,怖いの？・めだん、まさかだス。
+Dialogue: 0,0:05:41.89,0:05:44.42,Default,ko,0,0,0,,어... 나이오?
+Dialogue: 0,0:05:41.89,0:05:44.42,Default,en,0,0,0,,Uh... I will-{\i1\u1}dasu{\i0\u0}?
+Comment: 0,0:05:44.60,0:05:47.14,Default,ja,0,0,0,,-怖いの？\N-めだん、まさかだス。
 Dialogue: 0,0:05:44.60,0:05:47.14,Default,ko,0,0,0,,-무섭니?\N-에이, 설마이오.
 Dialogue: 0,0:05:44.60,0:05:47.14,Default,en,0,0,0,,-Are you scared?\N-Err, no way-{\i1}dasu{\i0}.
 Comment: 0,0:05:47.30,0:05:51.30,Default,ja,0,0,0,,そうよね！ムサシは立派な武者だもんね！
@@ -190,23 +190,23 @@ Dialogue: 0,0:05:51.41,0:05:52.74,Default,ko,0,0,0,,알았다면 됐소.
 Dialogue: 0,0:05:51.41,0:05:52.74,Default,en,0,0,0,,It's good if you know that-{\i1}dasu{\i0}.
 Comment: 0,0:05:52.97,0:05:57.94,Default,ja,0,0,0,,その幽霊、目も口も何もないくせにこうやって洗うのよ！
 Dialogue: 0,0:05:52.97,0:05:57.94,Default,ko,0,0,0,,그 유령, 눈도 목도 아무것도 없는 주제에 이렇게 나타나.
-Dialogue: 0,0:05:52.97,0:05:57.94,Default,en,0,0,0,,That ghost does not have eyes, a neck, or anything, and will appear like this...
-Comment: 0,0:06:02.26,0:06:06.17,Default,ja,0,0,0,,もう、ムサシたら、本当にこういう話に弱いんだから。
-Dialogue: 0,0:06:02.26,0:06:06.17,Default,ko,0,0,0,,거 무사시도 참, 이런 이야기에 약하다니까.
-Dialogue: 0,0:06:02.26,0:06:06.17,Default,en,0,0,0,,Aren't you a scardycat, Musashi.
-Comment: 0,0:06:06.41,0:06:10.16,Default,ja,0,0,0,,おせんちゃん、飯はもういいだスから、早く寝ようだス。
-Dialogue: 0,0:06:06.41,0:06:10.16,Default,ko,0,0,0,,오센짱, 밥은 이제 됐으니까 빨리 자오.
-Dialogue: 0,0:06:06.41,0:06:10.16,Default,en,0,0,0,,Osenchan, I don't care about dinner anymore, so please let us sleep now-{\i1}dasu{\i0}...
+Dialogue: 0,0:05:52.97,0:05:57.94,Default,en,0,0,0,,Those ghosts do not have an eye, a neck, or anything, and will appear like this...
+Comment: 0,0:06:02.35,0:06:06.17,Default,ja,0,0,0,,もう、ムサシたら、本当にこういう話に弱いんだから。
+Dialogue: 0,0:06:02.35,0:06:06.17,Default,ko,0,0,0,,거 무사시도 참, 이런 이야기에 약하다니까.
+Dialogue: 0,0:06:02.35,0:06:06.17,Default,en,0,0,0,,You sure are a chicken, Musashi.
+Comment: 0,0:06:06.41,0:06:10.29,Default,ja,0,0,0,,おせんちゃん、飯はもういいだスから、早く寝ようだス。
+Dialogue: 0,0:06:06.41,0:06:10.29,Default,ko,0,0,0,,오센짱, 밥은 이제 됐으니까 빨리 자오.
+Dialogue: 0,0:06:06.41,0:06:10.29,Default,en,0,0,0,,Osenchan, I don't care about dinner anymore, so please, let's just sleep now-{\i1}dasu{\i0}...
 Comment: 0,0:06:10.70,0:06:16.41,Default,ja,0,0,0,,いやよ。せっかくなまで幽霊が見られるチャンスなんだもん。もったいなくてねてられますかって！
 Dialogue: 0,0:06:10.70,0:06:16.41,Default,ko,0,0,0,,싫어. 겨우 유령을 볼 수 있는 기회인데. 안 보고 잘 수 있을 것 같니?
-Dialogue: 0,0:06:10.70,0:06:16.41,Default,en,0,0,0,,Nope! This is a rare chance to see ghosts with my bare eyes. Do you think I can sleep without missing that chance?
+Dialogue: 0,0:06:10.70,0:06:16.41,Default,en,0,0,0,,No way! This is a rare chance to see ghosts with my bare eyes. Do you think I can sleep without seeing one myself?
 Comment: 0,0:06:16.78,0:06:17.91,Default,ja,0,0,0,,ね、コジロー？
 Dialogue: 0,0:06:16.78,0:06:17.91,Default,ko,0,0,0,,그렇지, 코지로?
 Dialogue: 0,0:06:16.78,0:06:17.91,Default,en,0,0,0,,Don't you agree, Kojirō?
 Comment: 0,0:06:21.30,0:06:23.48,Default,ja,0,0,0,,コジロー？あなたは怖くないの？
 Dialogue: 0,0:06:21.30,0:06:23.48,Default,ko,0,0,0,,코지로? 넌 무섭지 않아?
 Dialogue: 0,0:06:21.30,0:06:23.48,Default,en,0,0,0,,Kojirō, aren't you scared?
-Comment: 0,0:06:23.86,0:06:28.12,Default,ja,0,0,0,,え。あたしはあいにく幽霊などのいうものを信じないしゅい。
+Comment: 0,0:06:23.86,0:06:28.12,Default,ja,0,0,0,,え。あたしはあいにく幽霊などのいうものを信じない主義で。
 Dialogue: 0,0:06:23.86,0:06:28.12,Default,ko,0,0,0,,예. 저는 마침 유령이란 걸 믿지 않아서요.
 Dialogue: 0,0:06:23.86,0:06:28.12,Default,en,0,0,0,,Yes. Coincidentally, I don't believe in ghosts at the moment.
 Comment: 0,0:06:28.37,0:06:30.66,Default,ja,0,0,0,,だったら、幽霊を退治しろだス。
@@ -214,19 +214,16 @@ Dialogue: 0,0:06:28.37,0:06:30.66,Default,ko,0,0,0,,그럼 유령을 퇴치하�
 Dialogue: 0,0:06:28.37,0:06:30.66,Default,en,0,0,0,,Then you go take ghosts down-{\i1}dasu{\i0}.
 Comment: 0,0:06:30.99,0:06:35.91,Default,ja,0,0,0,,私はセンヒメ様の護衛をするのが指名。それ以上でも、それ以下でもない。
 Dialogue: 0,0:06:30.99,0:06:35.91,Default,ko,0,0,0,,나는 센히메 님을 호위하는 게 사명. 그 이상도 이하도 아니다.
-Dialogue: 0,0:06:30.99,0:06:35.91,Default,en,0,0,0,,My objective is to protect Senhime. Nothing more or less than that.
+Dialogue: 0,0:06:30.99,0:06:35.91,Default,en,0,0,0,,My duty is to protect Senhime. Nothing more or less than that.
 Comment: 0,0:06:36.17,0:06:37.93,Default,ja,0,0,0,,やっぱコジローも怖いだス。
 Dialogue: 0,0:06:36.17,0:06:37.93,Default,ko,0,0,0,,역시 코지로도 겁에 질렸소.
 Dialogue: 0,0:06:36.17,0:06:37.93,Default,en,0,0,0,,I see that you're scared too, Kojirō-{\i1}dasu{\i0}.
 Comment: 0,0:06:42.22,0:06:48.57,Default,ja,0,0,0,,ああ、こんな時は決まって幽霊が出るでございます。やったごゆっくり。
 Dialogue: 0,0:06:42.22,0:06:48.57,Default,ko,0,0,0,,이런 때는 분명 유령이 나올 것입니다. 그럼 저는...
 Dialogue: 0,0:06:42.22,0:06:48.57,Default,en,0,0,0,,This means that ghosts will show up soon. Then...
-Comment: 0,0:06:49.36,0:06:50.45,Default,ja,0,0,0,,あばらくあばｒく！
-Dialogue: 0,0:06:49.36,0:06:50.45,Default,ko,0,0,0,,그럼 이만.
-Dialogue: 0,0:06:49.36,0:06:50.45,Default,en,0,0,0,,Night!
-Comment: 0,0:06:50.45,0:06:51.24,Default,ja,0,0,0,,あ、ご主人！
-Dialogue: 0,0:06:50.45,0:06:51.24,Default,ko,0,0,0,,아, 주인!
-Dialogue: 0,0:06:50.45,0:06:51.24,Default,en,0,0,0,,Hey, inn owner!
+Comment: 0,0:06:49.36,0:06:51.24,Default,ja,0,0,0,,-{???}あばらくあばらく！\N-あ、ご主人！
+Dialogue: 0,0:06:49.36,0:06:51.24,Default,ko,0,0,0,,-그럼 이만.\N-아, 주인!
+Dialogue: 0,0:06:49.36,0:06:51.24,Default,en,0,0,0,,-Night!\N-Hey, mister!
 Comment: 0,0:06:54.14,0:06:56.16,Default,ja,0,0,0,,面白くなってきたわね。
 Dialogue: 0,0:06:54.14,0:06:56.16,Default,ko,0,0,0,,재밌어졌네.
 Dialogue: 0,0:06:54.14,0:06:56.16,Default,en,0,0,0,,It just became interesting.
@@ -238,7 +235,7 @@ Dialogue: 0,0:06:58.14,0:07:00.13,Default,ko,0,0,0,,가자, 무사시, 코지로
 Dialogue: 0,0:06:58.14,0:07:00.13,Default,en,0,0,0,,Go, Musashi, Kojirō!
 Comment: 0,0:07:00.32,0:07:04.06,Default,ja,0,0,0,,おっと、その前にちょっとトイレに行ってくるだす
 Dialogue: 0,0:07:00.32,0:07:04.06,Default,ko,0,0,0,,아, 그 전에 잠깐 화장실에 갔다 오겠소!
-Dialogue: 0,0:07:00.32,0:07:04.06,Default,en,0,0,0,,B- before that, let me go to toilet-{\i1}dasu{\i0}!
+Dialogue: 0,0:07:00.32,0:07:04.06,Default,en,0,0,0,,F- First, let me go to toilet-{\i1}dasu{\i0}!
 Comment: 0,0:07:04.32,0:07:05.18,Default,ja,0,0,0,,ムサシ！
 Dialogue: 0,0:07:04.32,0:07:05.18,Default,ko,0,0,0,,무사시!
 Dialogue: 0,0:07:04.32,0:07:05.18,Default,en,0,0,0,,Musashi!
@@ -251,21 +248,21 @@ Dialogue: 0,0:07:10.50,0:07:12.98,Default,en,0,0,0,,Musashi...
 Comment: 0,0:07:14.04,0:07:16.64,Default,ja,0,0,0,,ムサシ。。。
 Dialogue: 0,0:07:14.04,0:07:16.64,Default,ko,0,0,0,,무사시...
 Dialogue: 0,0:07:14.04,0:07:16.64,Default,en,0,0,0,,Musashi...
-Comment: 0,0:07:16.92,0:07:20.64,Default,ja,0,0,0,,いえいえ、怖いとどうも～ちかく～だす
-Dialogue: 0,0:07:16.92,0:07:20.64,Default,ko,0,0,0,,이게 무서워지니까 오줌이 매려져서 안 되겠소.
-Dialogue: 0,0:07:16.92,0:07:20.64,Default,en,0,0,0,,I suddenly wanted to pee because it became scary-{\i1}dasu{\i0}...
+Comment: 0,0:07:16.92,0:07:20.52,Default,ja,0,0,0,,いえいえ、怖いとどうもおしっこが近くなって行かんだス。
+Dialogue: 0,0:07:16.92,0:07:20.52,Default,ko,0,0,0,,이게 무서워지니까 오줌이 매려져서 안 되겠소.
+Dialogue: 0,0:07:16.92,0:07:20.52,Default,en,0,0,0,,I gotta stop wanting to go pee when it gets scary-{\i1}dasu{\i0}...
 Comment: 0,0:07:20.64,0:07:22.40,Default,ja,0,0,0,,ムサシ。。。
 Dialogue: 0,0:07:20.64,0:07:22.40,Default,ko,0,0,0,,무사시...
 Dialogue: 0,0:07:20.64,0:07:22.40,Default,en,0,0,0,,Musashi...
-Comment: 0,0:07:22.64,0:07:24.01,Default,ja,0,0,0,,だ、だ、だれだスか！
-Dialogue: 0,0:07:22.64,0:07:24.01,Default,ko,0,0,0,,누, 누, 누구이오!
-Dialogue: 0,0:07:22.64,0:07:24.01,Default,en,0,0,0,,W- w- who is that-{\i1}dasu{\i0}?!
-Comment: 0,0:07:27.98,0:07:34.00,Default,ja,0,0,0,,あら、何でこんなところにお団子が。ああ、コジロー奴、きいきかせてたらしい！
-Dialogue: 0,0:07:27.98,0:07:34.00,Default,ko,0,0,0,,어라, 왜 이런 곳에 단고... 코지로 놈도 참, 가끔은 소원도 들어주오!
-Dialogue: 0,0:07:27.98,0:07:34.00,Default,en,0,0,0,,Hey, why are dangos here? Kojirō sure grant me my wish sometimes-{\i1}dasu{\i0}!
+Comment: 0,0:07:22.64,0:07:23.98,Default,ja,0,0,0,,だ、だ、だれだスか！
+Dialogue: 0,0:07:22.64,0:07:23.98,Default,ko,0,0,0,,누, 누, 누구이오!
+Dialogue: 0,0:07:22.64,0:07:23.98,Default,en,0,0,0,,W- w- who's there-{\i1}dasu{\i0}?!
+Comment: 0,0:07:27.95,0:07:34.00,Default,ja,0,0,0,,あら、何でこんなところにお団子が。ああ、コジロー奴、{???}きいきかせてたらしい！
+Dialogue: 0,0:07:27.95,0:07:34.00,Default,ko,0,0,0,,어라, 왜 이런 곳에 단고... 코지로 놈도 참, 가끔은 소원도 들어주오!
+Dialogue: 0,0:07:27.95,0:07:34.00,Default,en,0,0,0,,Hey, why are dangos here? I guess Kojirō does understand what I wish for-{\i1}dasu{\i0}!
 Comment: 0,0:07:34.69,0:07:37.83,Default,ja,0,0,0,,食べ物があるならあるとすなをいえばいいだス。
 Dialogue: 0,0:07:34.69,0:07:37.83,Default,ko,0,0,0,,먹을 게 있으면 고분고분히 말하면 될 것이오.
-Dialogue: 0,0:07:34.69,0:07:37.83,Default,en,0,0,0,,If he's with something to eat, he should tell me as-is-{\i1}dasu{\i0}.
+Dialogue: 0,0:07:34.69,0:07:37.83,Default,en,0,0,0,,If he's with something to eat, he should have just told me-{\i1}dasu{\i0}.
 Comment: 0,0:07:38.61,0:07:40.03,Default,ja,0,0,0,,いただきます！
 Dialogue: 0,0:07:38.61,0:07:40.03,Default,ko,0,0,0,,잘 먹겠소!
 Dialogue: 0,0:07:38.61,0:07:40.03,Default,en,0,0,0,,Thank you for this!
@@ -277,7 +274,7 @@ Dialogue: 0,0:07:45.38,0:07:48.48,Default,ko,0,0,0,,어라, 못 본 새에 저�
 Dialogue: 0,0:07:45.38,0:07:48.48,Default,en,0,0,0,,Huh, it moved that far while I wasn't looking at-{\i1}dasu{\i0}.
 Comment: 0,0:07:49.81,0:07:54.28,Default,ja,0,0,0,,あら？ほら、待だス！全く生きのいい団子だスな。
 Dialogue: 0,0:07:49.81,0:07:54.28,Default,ko,0,0,0,,어라? 어이, 멈추시오! 거 참 활기찬 단고오!
-Dialogue: 0,0:07:49.81,0:07:54.28,Default,en,0,0,0,,Huh? Hey, stop-{\i1}dasu{\i0}! You're one active dangos!
+Dialogue: 0,0:07:49.81,0:07:54.28,Default,en,0,0,0,,Huh? Hey, stop-{\i1}dasu{\i0}! You're one lively dango-{\i1}dasu{\i0}!
 Comment: 0,0:07:55.65,0:07:58.94,Default,ja,0,0,0,,もう、ムサシたら、やっぱり怖がって逃げちゃってもんね。
 Dialogue: 0,0:07:55.65,0:07:58.94,Default,ko,0,0,0,,정말, 무사시도 참. 진짜로 무서워서 도망쳤나 봐.
 Dialogue: 0,0:07:55.65,0:07:58.94,Default,en,0,0,0,,I knew it. Musashi ran away because he was scared.
@@ -296,48 +293,48 @@ Dialogue: 0,0:08:04.78,0:08:07.74,Default,en,0,0,0,,He has no courage whatsoever
 Comment: 0,0:08:07.85,0:08:09.85,Default,ja,0,0,0,,いいえ、なんだか様子が変です。
 Dialogue: 0,0:08:07.85,0:08:09.85,Default,ko,0,0,0,,아니요, 뭔가 모습이 이상합니다.
 Dialogue: 0,0:08:07.85,0:08:09.85,Default,en,0,0,0,,No, something looks very wrong with him.
-Comment: 0,0:08:10.00,0:08:11.54,Default,ja,0,0,0,,うん？・後を追いましょう。
+Comment: 0,0:08:10.00,0:08:11.54,Default,ja,0,0,0,,-うん？\N-後を追いましょう。
 Dialogue: 0,0:08:10.00,0:08:11.54,Default,ko,0,0,0,,-어?\N-따라갑시다.
 Dialogue: 0,0:08:10.00,0:08:11.54,Default,en,0,0,0,,-Huh?\N-Let's follow him.
-Comment: 0,0:08:17.62,0:08:21.62,Default,ja,0,0,0,,あれ、お団子ちゃん、どこに隠れただスか。。。
-Dialogue: 0,0:08:17.62,0:08:21.62,Default,ko,0,0,0,,거 참, 단고쨩 어디로 숨었소...
-Dialogue: 0,0:08:17.62,0:08:21.62,Default,en,0,0,0,,I wonder where did that dango-chan hide to.
+Comment: 0,0:08:17.58,0:08:21.62,Default,ja,0,0,0,,あれ、お団子ちゃん、どこに隠れただスか。。。
+Dialogue: 0,0:08:17.58,0:08:21.62,Default,ko,0,0,0,,거 참, 단고쨩 어디로 숨었소...
+Dialogue: 0,0:08:17.58,0:08:21.62,Default,en,0,0,0,,I wonder where did that dango-chan hide to-{\i1}dasu{\i0}...
 Comment: 0,0:08:21.72,0:08:24.30,Default,ja,0,0,0,,よ、ムサシ！久しぶりだな！
 Dialogue: 0,0:08:21.72,0:08:24.30,Default,ko,0,0,0,,어이, 무사시! 오랜만이다!
 Dialogue: 0,0:08:21.72,0:08:24.30,Default,en,0,0,0,,Hey, Musashi! Long time no see!
 Comment: 0,0:08:30.25,0:08:31.49,Default,ja,0,0,0,,い、いしまつさん！
 Dialogue: 0,0:08:30.25,0:08:31.49,Default,ko,0,0,0,,이, 이시마츠 씨!
-Dialogue: 0,0:08:30.25,0:08:31.49,Default,en,0,0,0,,M- Mr. Ishimatsu!
+Dialogue: 0,0:08:30.25,0:08:31.49,Default,en,0,0,0,,I- Ishimatsu!
 Comment: 0,0:08:32.16,0:08:35.87,Default,ja,0,0,0,,イシマツはムサシにとって兄のような存在であった。
 Dialogue: 0,0:08:32.16,0:08:35.87,Default,ko,0,0,0,,이시마츠는 무사시에게 형과 같은 존재였다.
-Dialogue: 0,0:08:32.16,0:08:35.87,Default,en,0,0,0,,Ishimatsu was like an older brother of Musashi.
-Comment: 0,0:08:36.43,0:08:37.07,Default,ja,0,0,0,,よ！
-Dialogue: 0,0:08:36.43,0:08:37.07,Default,ko,0,0,0,,어이!
-Dialogue: 0,0:08:36.43,0:08:37.07,Default,en,0,0,0,,Heya!
+Dialogue: 0,0:08:32.16,0:08:35.87,Default,en,0,0,0,,Ishimatsu was like an older brother for Musashi.
+Comment: 0,0:08:36.43,0:08:37.22,Default,ja,0,0,0,,よ！
+Dialogue: 0,0:08:36.43,0:08:37.22,Default,ko,0,0,0,,어이!
+Dialogue: 0,0:08:36.43,0:08:37.22,Default,en,0,0,0,,Heya!
 Comment: 0,0:08:37.65,0:08:40.74,Default,ja,0,0,0,,だ、だけど、イシマツさんは死んだはずなのに。。。
 Dialogue: 0,0:08:37.65,0:08:40.74,Default,ko,0,0,0,,그, 그래도, 이시마츠 씨는 죽었을 텐데...
-Dialogue: 0,0:08:37.65,0:08:40.74,Default,en,0,0,0,,B- but, Mr. Ishimatsu, you were supposed to be dead...
+Dialogue: 0,0:08:37.65,0:08:40.74,Default,en,0,0,0,,B- but, Ishimatsu, you were supposed to be dead.
 Comment: 0,0:08:41.12,0:08:43.54,Default,ja,0,0,0,,おう、いかにもおら、幽霊だ。
 Dialogue: 0,0:08:41.12,0:08:43.54,Default,ko,0,0,0,,뭐, 보는 대로 내가 유령이지.
 Dialogue: 0,0:08:41.12,0:08:43.54,Default,en,0,0,0,,Yeah, just as you see, I'm a ghost.
 Comment: 0,0:08:46.20,0:08:50.38,Default,ja,0,0,0,,久しぶりに会ったってのに、随分冷たいじゃねぇか、兄弟。
 Dialogue: 0,0:08:46.20,0:08:50.38,Default,ko,0,0,0,,오랜만에 만났는데 좀 차갑지 않냐, 형제?
 Dialogue: 0,0:08:46.20,0:08:50.38,Default,en,0,0,0,,It's been a long time, and this is how you treat me, bro?
-Comment: 0,0:08:50.76,0:08:54.44,Default,ja,0,0,0,,??????????????? イシマツさん、生きてるころからもうこんじがあったら。。。
-Dialogue: 0,0:08:50.76,0:08:54.44,Default,ko,0,0,0,,이시마츠 씨, 살아 있을 때부터 이런 느낌이었으니...
-Dialogue: 0,0:08:50.76,0:08:54.44,Default,en,0,0,0,,Mr. Ishimatsu, you haven't changed at all from when you were living...
-Comment: 0,0:08:54.44,0:08:57.84,Default,ja,0,0,0,,やっぱり道に迷って成仏できなかっただスか。
-Dialogue: 0,0:08:54.44,0:08:57.84,Default,ko,0,0,0,,역시 길을 잃어서 성불 못한 것이오?
-Dialogue: 0,0:08:54.44,0:08:57.84,Default,en,0,0,0,,Did you get lost and couldn't rest in peace-{\i1}dasu{\i0}?
-Comment: 0,0:08:58.21,0:09:02.82,Default,ja,0,0,0,,やろう！あの世へ行く道なんて間違いのない～一歩道だい！
-Dialogue: 0,0:08:58.21,0:09:02.82,Default,ko,0,0,0,,이 자슥! 저 세상에 가는 길이라는 건 길을 잘못 찾기조차 어려울 정도로 눈 앞에 있어!
-Dialogue: 0,0:08:58.21,0:09:02.82,Default,en,0,0,0,,You idiot! The road to the other world is one step away; you simply cannot get lost!
+Comment: 0,0:08:50.76,0:08:54.36,Default,ja,0,0,0,,{???}イシマツさん、生きてるころから方向音痴だったら。。。
+Dialogue: 0,0:08:50.76,0:08:54.36,Default,ko,0,0,0,,이시마츠 씨, 살아 있을 때부터 방향치였으니...
+Dialogue: 0,0:08:50.76,0:08:54.36,Default,en,0,0,0,,Ishimatsu, you never had a sense of direction even when you were alive...
+Comment: 0,0:08:54.44,0:08:57.94,Default,ja,0,0,0,,やっぱり道に迷って成仏できなかっただスか。
+Dialogue: 0,0:08:54.44,0:08:57.94,Default,ko,0,0,0,,역시 길을 잃어서 성불 못한 것이오?
+Dialogue: 0,0:08:54.44,0:08:57.94,Default,en,0,0,0,,Did you get lost again and couldn't rest in peace-{\i1}dasu{\i0}?
+Comment: 0,0:08:58.21,0:09:02.82,Default,ja,0,0,0,,やろう！あの世へ行く道なんて間違いのない一本道だい！
+Dialogue: 0,0:08:58.21,0:09:02.82,Default,ko,0,0,0,,이 자슥! 저 세상에 가는 길이라는 건 길을 잘못 찾을 수조차 없는 외길이야!
+Dialogue: 0,0:08:58.21,0:09:02.82,Default,en,0,0,0,,You idiot! The road to the other world cannot be any more straight!
 Comment: 0,0:09:03.75,0:09:08.09,Default,ja,0,0,0,,だけどよ、その道を俺一人で歩くのはなんだか寂しかってよ。
 Dialogue: 0,0:09:03.75,0:09:08.09,Default,ko,0,0,0,,그래도 말야, 그 길을 나 혼자서 걸어가는 건 왠지 외로워서 말야.
 Dialogue: 0,0:09:03.75,0:09:08.09,Default,en,0,0,0,,But, you know, walking that path alone is somewhat lonely.
-Comment: 0,0:09:09.28,0:09:11.85,Default,ja,0,0,0,,ムサシ、オラと一緒にじゃあくめが！
-Dialogue: 0,0:09:09.28,0:09:11.85,Default,ko,0,0,0,,무사시, 나하고 같이 가지 않을래?
-Dialogue: 0,0:09:09.28,0:09:11.85,Default,en,0,0,0,,Musashi, wouldn't you like to go with me?
+Comment: 0,0:09:09.28,0:09:12.01,Default,ja,0,0,0,,ムサシ、オラと一緒にじゃあくめが！
+Dialogue: 0,0:09:09.28,0:09:12.01,Default,ko,0,0,0,,무사시, 나하고 같이 가지 않을래?
+Dialogue: 0,0:09:09.28,0:09:12.01,Default,en,0,0,0,,Musashi, wouldn't you like to go with me?
 Comment: 0,0:09:12.12,0:09:14.82,Default,ja,0,0,0,,いい？おいらに死ねってことだスか。
 Dialogue: 0,0:09:12.12,0:09:14.82,Default,ko,0,0,0,,어? 나보고 죽으란 것이오?
 Dialogue: 0,0:09:12.12,0:09:14.82,Default,en,0,0,0,,Huh? Are you telling me to die-{\i1}dasu{\i0}?
@@ -346,10 +343,10 @@ Dialogue: 0,0:09:15.08,0:09:15.70,Default,ko,0,0,0,,그렇지!
 Dialogue: 0,0:09:15.08,0:09:15.70,Default,en,0,0,0,,Right!
 Comment: 0,0:09:15.96,0:09:19.60,Default,ja,0,0,0,,そ、それは行くがイシマツさんの頼みでも聞けないだス。
 Dialogue: 0,0:09:15.96,0:09:19.60,Default,ko,0,0,0,,그, 그건 아무리 이시마츠 씨의 부탁이라 해도 들어줄 수 없소.
-Dialogue: 0,0:09:15.96,0:09:19.60,Default,en,0,0,0,,I- I can't accept that wish even if it's Mr. Ishimatsu's one.
+Dialogue: 0,0:09:15.96,0:09:19.60,Default,en,0,0,0,,I- I can't accept that wish even for you-{\i1}dasu{\i0}, Ishimatsu.
 Comment: 0,0:09:19.97,0:09:23.65,Default,ja,0,0,0,,あの時食った兄弟の団子はうまかったよな。
-Dialogue: 0,0:09:19.97,0:09:23.65,Default,ko,0,0,0,,그 때 먹은 단고는 맛있었지...
-Dialogue: 0,0:09:19.97,0:09:23.65,Default,en,0,0,0,,The dangos that we ate back then was great...
+Dialogue: 0,0:09:19.97,0:09:23.65,Default,ko,0,0,0,,그 때 먹은 형제의 단고는 맛있었지...
+Dialogue: 0,0:09:19.97,0:09:23.65,Default,en,0,0,0,,The dangos of brotherhood that we had back then was great...
 Comment: 0,0:09:24.49,0:09:26.59,Default,ja,0,0,0,,そうだっただスな！
 Dialogue: 0,0:09:24.49,0:09:26.59,Default,ko,0,0,0,,그렇소!
 Dialogue: 0,0:09:24.49,0:09:26.59,Default,en,0,0,0,,You're right-{\i1}dasu{\i0}!
@@ -362,46 +359,46 @@ Dialogue: 0,0:09:37.44,0:09:40.22,Default,en,0,0,0,,I am really sorry about what
 Comment: 0,0:09:40.57,0:09:43.52,Default,ja,0,0,0,,だけどよ、今じゃみんないい想い出だぜ！
 Dialogue: 0,0:09:40.57,0:09:43.52,Default,ko,0,0,0,,그래도 말야, 지금은 다 좋은 추억이야!
 Dialogue: 0,0:09:40.57,0:09:43.52,Default,en,0,0,0,,But you know, it's all good memories now!
-Comment: 0,0:09:44.22,0:09:49.51,Default,ja,0,0,0,,どうだい、ムサシ！またあの時のように二人で面白うかしく旅を～じゃねぇか！
-Dialogue: 0,0:09:44.22,0:09:49.51,Default,ko,0,0,0,,어떠냐, 무사시! 다시 그 때처럼 둘이서 즐겁게 여행할 생각 없냐!
-Dialogue: 0,0:09:44.22,0:09:49.51,Default,en,0,0,0,,How's this, Musashi? Wouldn't you like to travel by two with me like how we did back then?
-Comment: 0,0:09:49.51,0:09:53.24,Default,ja,0,0,0,,だ、だけど！おいら、死ぬのはやっぱり怖いだス。
-Dialogue: 0,0:09:49.51,0:09:53.24,Default,ko,0,0,0,,그, 그래도! 나, 죽는 건 역시 무섭소.
-Dialogue: 0,0:09:49.51,0:09:53.24,Default,en,0,0,0,,B- but! Dying is still scary-{\i1}dasu{\i0}...
-Comment: 0,0:09:53.56,0:09:59.89,Default,ja,0,0,0,,ちぇ、意気地ねぇ奴だぜ！だったら俺も一緒に死んでやるからね。そ]れなら文句ないだろう？
-Dialogue: 0,0:09:53.56,0:09:59.89,Default,ko,0,0,0,,거 참 패기도 없는 놈이군. 그럼 나하고 같이 죽으면 불만 없겠지?
-Dialogue: 0,0:09:53.56,0:09:59.89,Default,en,0,0,0,,How spiritless are you? I guess you'd be satisfied if we die together!
-Comment: 0,0:09:59.89,0:10:02.86,Default,ja,0,0,0,,そうだスな！それだったらいいんでござるだス！
-Dialogue: 0,0:09:59.89,0:10:02.86,Default,ko,0,0,0,,그렇소! 그렇게 하면 딱 좋소!
-Dialogue: 0,0:09:59.89,0:10:02.86,Default,en,0,0,0,,That's it-{\i1}dasu{\i0}! That will work perfectly-{\i1}dasu{\i0}!
+Comment: 0,0:09:44.28,0:09:49.44,Default,ja,0,0,0,,どうだい、ムサシ！またあの時のように二人で面白うかしく旅を～じゃねぇか！
+Dialogue: 0,0:09:44.28,0:09:49.44,Default,ko,0,0,0,,어떠냐, 무사시! 다시 그 때처럼 둘이서 즐겁게 여행할 생각 없냐!
+Dialogue: 0,0:09:44.28,0:09:49.44,Default,en,0,0,0,,How's this, Musashi? Wouldn't you like to travel by two with me like how we did back then?
+Comment: 0,0:09:49.56,0:09:53.24,Default,ja,0,0,0,,だ、だけど！おいら、死ぬのはやっぱり怖いだス。
+Dialogue: 0,0:09:49.56,0:09:53.24,Default,ko,0,0,0,,그, 그래도! 나, 죽는 건 역시 무섭소.
+Dialogue: 0,0:09:49.56,0:09:53.24,Default,en,0,0,0,,B- but! Dying is still scary-{\i1}dasu{\i0}...
+Comment: 0,0:09:53.56,0:09:59.84,Default,ja,0,0,0,,ちぇ、意気地ねぇ奴だぜ！だったら俺も一緒に死んでやるからね。そ]れなら文句ないだろう？
+Dialogue: 0,0:09:53.56,0:09:59.84,Default,ko,0,0,0,,거 참 패기도 없는 놈이군. 그럼 나하고 같이 죽으면 불만 없겠지?
+Dialogue: 0,0:09:53.56,0:09:59.84,Default,en,0,0,0,,How spiritless are you? I guess you'd be satisfied if we die together?
+Comment: 0,0:09:59.99,0:10:02.86,Default,ja,0,0,0,,そうだスな！それだったらいいんでござるだス！
+Dialogue: 0,0:09:59.99,0:10:02.86,Default,ko,0,0,0,,그렇소! 그렇게 하면 딱 좋소!
+Dialogue: 0,0:09:59.99,0:10:02.86,Default,en,0,0,0,,That's it-{\i1}dasu{\i0}! That will work perfectly-{\i1}dasu{\i0}!
 Comment: 0,0:10:03.13,0:10:04.69,Default,ja,0,0,0,,よし！では急げだ！
 Dialogue: 0,0:10:03.13,0:10:04.69,Default,ko,0,0,0,,좋아! 그럼 서두르자!
 Dialogue: 0,0:10:03.13,0:10:04.69,Default,en,0,0,0,,Alright! Then let's hurry!
-Comment: 0,0:10:10.54,0:10:15.47,Default,ja,0,0,0,,じゃあ、俺が掛け声をするから、一、二の三で飛び降りるだぜ。
-Dialogue: 0,0:10:10.54,0:10:15.47,Default,ko,0,0,0,,그럼 내가 수를 셀 테니까, 하나, 둘, 셋 하면 뛰어내리자!
-Dialogue: 0,0:10:10.54,0:10:15.47,Default,en,0,0,0,,I'll count; let's jump off when I say one, two, and three!
-Comment: 0,0:10:15.47,0:10:16.41,Default,ja,0,0,0,,分かっただス！
-Dialogue: 0,0:10:15.47,0:10:16.41,Default,ko,0,0,0,,알겠소!
-Dialogue: 0,0:10:15.47,0:10:16.41,Default,en,0,0,0,,Got it-{\i1}dasu{\i0}!
+Comment: 0,0:10:10.54,0:10:15.35,Default,ja,0,0,0,,じゃあ、俺が掛け声をするから、一、二の三で飛び降りるだぜ。
+Dialogue: 0,0:10:10.54,0:10:15.35,Default,ko,0,0,0,,그럼 내가 수를 셀 테니까, 하나, 둘, 셋 하면 뛰어내리자!
+Dialogue: 0,0:10:10.54,0:10:15.35,Default,en,0,0,0,,I'll count; let's jump off when I say one, two, and three!
+Comment: 0,0:10:15.47,0:10:16.44,Default,ja,0,0,0,,分かっただス！
+Dialogue: 0,0:10:15.47,0:10:16.44,Default,ko,0,0,0,,알겠소!
+Dialogue: 0,0:10:15.47,0:10:16.44,Default,en,0,0,0,,Got it-{\i1}dasu{\i0}!
 Comment: 0,0:10:17.20,0:10:18.97,Default,ja,0,0,0,,じゃ、行くぞ！一
 Dialogue: 0,0:10:17.20,0:10:18.97,Default,ko,0,0,0,,그럼 가자! 하나...
 Dialogue: 0,0:10:17.20,0:10:18.97,Default,en,0,0,0,,Then let's do this! One...
-Comment: 0,0:10:19.49,0:10:20.26,Default,ja,0,0,0,,二の
-Dialogue: 0,0:10:19.49,0:10:20.26,Default,ko,0,0,0,,둘에...
-Dialogue: 0,0:10:19.49,0:10:20.26,Default,en,0,0,0,,Two and...
-Comment: 0,0:10:20.68,0:10:21.97,Default,ja,0,0,0,,三・おっと！
-Dialogue: 0,0:10:20.68,0:10:21.97,Default,ko,0,0,0,,-셋\N-이랴아
-Dialogue: 0,0:10:20.68,0:10:21.97,Default,en,0,0,0,,-Three\N-Errr
-Comment: 0,0:10:23.48,0:10:25.32,Default,ja,0,0,0,,大丈夫だスか、イシマツさん？
-Dialogue: 0,0:10:23.48,0:10:25.32,Default,ko,0,0,0,,괜찮소, 이시마츠 씨?
-Dialogue: 0,0:10:23.48,0:10:25.32,Default,en,0,0,0,,Are you okay, Mr. Ishimatsu?
-Comment: 0,0:10:25.32,0:10:31.03,Default,ja,0,0,0,,ああ、お、俺のことなんか気にしないで！さっさと飛び降りばよかったのに。
-Dialogue: 0,0:10:25.32,0:10:31.03,Default,ko,0,0,0,,아, 나, 나는 신경쓰지 마라! 바로 뛰어내렸으면 좋았을 텐데.
-Dialogue: 0,0:10:25.32,0:10:31.03,Default,en,0,0,0,,Erm, f- forget about me! It could have been better if you jumped down right away.
-Comment: 0,0:10:31.20,0:10:35.21,Default,ja,0,0,0,,いやいや、もうイシマツさんを一人きりなんてできないだスよ！
-Dialogue: 0,0:10:31.20,0:10:35.21,Default,ko,0,0,0,,아니아니, 더는 이시마츠 씨를 혼자 있도록 냅둘 수는 없소!
-Dialogue: 0,0:10:31.20,0:10:35.21,Default,en,0,0,0,,No, I can't let Mr. Ishimatsu be alone and be lonely!
-Comment: 0,0:10:35.21,0:10:36.86,Default,ja,0,0,0,,???????????????????????? にちひなやつだ！
+Comment: 0,0:10:19.45,0:10:20.26,Default,ja,0,0,0,,二の
+Dialogue: 0,0:10:19.45,0:10:20.26,Default,ko,0,0,0,,둘에...
+Dialogue: 0,0:10:19.45,0:10:20.26,Default,en,0,0,0,,Two and...
+Comment: 0,0:10:20.68,0:10:21.97,Default,ja,0,0,0,,-三だ！\N-おっと！
+Dialogue: 0,0:10:20.68,0:10:21.97,Default,ko,0,0,0,,-셋!\N아니!
+Dialogue: 0,0:10:20.68,0:10:21.97,Default,en,0,0,0,,-Three!\N-Errr-
+Comment: 0,0:10:23.48,0:10:25.22,Default,ja,0,0,0,,大丈夫だスか、イシマツさん？
+Dialogue: 0,0:10:23.48,0:10:25.22,Default,ko,0,0,0,,괜찮소, 이시마츠 씨?
+Dialogue: 0,0:10:23.48,0:10:25.22,Default,en,0,0,0,,Are you okay, Ishimatsu?
+Comment: 0,0:10:25.35,0:10:31.03,Default,ja,0,0,0,,ああ、お、俺のことなんか気にしないで！さっさと飛び降りばよかったのに。
+Dialogue: 0,0:10:25.35,0:10:31.03,Default,ko,0,0,0,,아, 나, 나는 신경쓰지 마라! 바로 뛰어내렸으면 좋았을 텐데.
+Dialogue: 0,0:10:25.35,0:10:31.03,Default,en,0,0,0,,Erm, f- forget about me! It could have been better if you jumped down right away.
+Comment: 0,0:10:31.20,0:10:35.15,Default,ja,0,0,0,,いやいや、もうイシマツさんを一人きりなんてできないだスよ！
+Dialogue: 0,0:10:31.20,0:10:35.15,Default,ko,0,0,0,,아니아니, 더는 이시마츠 씨를 혼자 있도록 냅둘 수는 없소!
+Dialogue: 0,0:10:31.20,0:10:35.15,Default,en,0,0,0,,No, I can't let Ishimatsu be alone and be lonely-{\i1}dasu{\i0}!
+Comment: 0,0:10:35.21,0:10:36.86,Default,ja,0,0,0,,{???}にちひなやつだ！
 Dialogue: 0,0:10:35.21,0:10:36.86,Default,ko,0,0,0,,성가신 놈이구나.
 Dialogue: 0,0:10:35.21,0:10:36.86,Default,en,0,0,0,,Aren't you cumbersome...
 Comment: 0,0:10:37.41,0:10:40.08,Default,ja,0,0,0,,よし！気を取り直して、もう一度行くぞ！
@@ -414,17 +411,17 @@ Comment: 0,0:10:41.21,0:10:41.86,Default,ja,0,0,0,,二の！
 Dialogue: 0,0:10:41.21,0:10:41.86,Default,ko,0,0,0,,둘에!
 Dialogue: 0,0:10:41.21,0:10:41.86,Default,en,0,0,0,,Two and...
 Comment: 0,0:10:42.02,0:10:42.82,Default,ja,0,0,0,,三と！
-Dialogue: 0,0:10:42.02,0:10:42.82,Default,ko,0,0,0,,셋
-Dialogue: 0,0:10:42.02,0:10:42.82,Default,en,0,0,0,,Three
-Comment: 0,0:10:43.18,0:10:46.53,Default,ja,0,0,0,,あら？イシマツさん、どうして飛び降りなかっただスか？
-Dialogue: 0,0:10:43.18,0:10:46.53,Default,ko,0,0,0,,어라? 이시마츠 씨 왜 안 뛰어내리오?
-Dialogue: 0,0:10:43.18,0:10:46.53,Default,en,0,0,0,,Huh? Mr. Ishimatsu, why aren't you jumping off-{\i1}dasu{\i0}?
-Comment: 0,0:10:46.69,0:10:49.02,Default,ja,0,0,0,,ああ、いや、それはだな。。。
-Dialogue: 0,0:10:46.69,0:10:49.02,Default,ko,0,0,0,,아, 아니, 그건 말야...
-Dialogue: 0,0:10:46.69,0:10:49.02,Default,en,0,0,0,,U- uh, that is...
-Comment: 0,0:10:49.55,0:10:51.96,Default,ja,0,0,0,,おいら、イシマツさんに質問があったんだスな。
-Dialogue: 0,0:10:49.55,0:10:51.96,Default,ko,0,0,0,,나, 이시마츠 씨에게 질문이 있소.
-Dialogue: 0,0:10:49.55,0:10:51.96,Default,en,0,0,0,,I have something to ask you, Mr. Ishimatsu-{\i1}dasu{\i0}.
+Dialogue: 0,0:10:42.02,0:10:42.82,Default,ko,0,0,0,,셋!
+Dialogue: 0,0:10:42.02,0:10:42.82,Default,en,0,0,0,,Three!
+Comment: 0,0:10:43.51,0:10:46.53,Default,ja,0,0,0,,あら？イシマツさん、どうして飛び降りなかっただスか？
+Dialogue: 0,0:10:43.51,0:10:46.53,Default,ko,0,0,0,,어라? 이시마츠 씨 왜 안 뛰어내리오?
+Dialogue: 0,0:10:43.51,0:10:46.53,Default,en,0,0,0,,Huh? Ishimatsu, why aren't you jumping off-{\i1}dasu{\i0}?
+Comment: 0,0:10:46.69,0:10:48.90,Default,ja,0,0,0,,ああ、いや、それはだな。。。
+Dialogue: 0,0:10:46.69,0:10:48.90,Default,ko,0,0,0,,아, 아니, 그건 말야...
+Dialogue: 0,0:10:46.69,0:10:48.90,Default,en,0,0,0,,U- uh, I can explain...
+Comment: 0,0:10:49.63,0:10:52.11,Default,ja,0,0,0,,おいら、イシマツさんに質問があったんだスな。
+Dialogue: 0,0:10:49.63,0:10:52.11,Default,ko,0,0,0,,나, 이시마츠 씨에게 질문이 있소.
+Dialogue: 0,0:10:49.63,0:10:52.11,Default,en,0,0,0,,I have a question for you-{\i1}dasu{\i0}, Ishimatsu.
 Comment: 0,0:10:52.52,0:10:53.37,Default,ja,0,0,0,,なんだい？
 Dialogue: 0,0:10:52.52,0:10:53.37,Default,ko,0,0,0,,뭐냐?
 Dialogue: 0,0:10:52.52,0:10:53.37,Default,en,0,0,0,,What is it?
@@ -433,61 +430,61 @@ Dialogue: 0,0:10:54.14,0:10:56.28,Default,ko,0,0,0,,유령이라는 건 두 번�
 Dialogue: 0,0:10:54.14,0:10:56.28,Default,en,0,0,0,,Can a ghost die twice-{\i1}dasu{\i0}?
 Comment: 0,0:10:57.30,0:11:02.66,Default,ja,0,0,0,,や、やろう！かわいい弟ぶんどお前の為ならおら、何度でも新でやれるぜ！
 Dialogue: 0,0:10:57.30,0:11:02.66,Default,ko,0,0,0,,이, 이 자슥! 귀여운 아우인 너를 위해서라면 난 몇 번이라도 죽을 수 있어!
-Dialogue: 0,0:10:57.30,0:11:02.66,Default,en,0,0,0,,I- idiot! For my cute younger brother, I can die multiple times!
-Comment: 0,0:11:03.21,0:11:09.73,Default,ja,0,0,0,,そうだったんだスか！そこまでもおいらのことを思っていってくれたんだスな！
-Dialogue: 0,0:11:03.21,0:11:09.73,Default,ko,0,0,0,,그런 것이었소! 그렇게나 날 생각해줬던 것이오!
-Dialogue: 0,0:11:03.21,0:11:09.73,Default,en,0,0,0,,That was it-{\i1}dasu{\i0}! You thought about me that much-{\i1}dasu{\i0}!
-Comment: 0,0:11:09.73,0:11:11.35,Default,ja,0,0,0,,おい、あぶねぇうじゃねぇか！
-Dialogue: 0,0:11:09.73,0:11:11.35,Default,ko,0,0,0,,어이, 위험하잖아!
-Dialogue: 0,0:11:09.73,0:11:11.35,Default,en,0,0,0,,Hey, watch out!
+Dialogue: 0,0:10:57.30,0:11:02.66,Default,en,0,0,0,,I- idiot! For my cute younger brother, I can die again, over and over!
+Comment: 0,0:11:03.21,0:11:09.51,Default,ja,0,0,0,,そうだったんだスか！そこまでもおいらのことを思っていってくれたんだスな！
+Dialogue: 0,0:11:03.21,0:11:09.51,Default,ko,0,0,0,,그런 것이었소! 그렇게나 날 생각해줬던 것이오!
+Dialogue: 0,0:11:03.21,0:11:09.51,Default,en,0,0,0,,That was it-{\i1}dasu{\i0}! You thought about me that much-{\i1}dasu{\i0}!
+Comment: 0,0:11:09.80,0:11:11.35,Default,ja,0,0,0,,おい、あぶねぇうじゃねぇか！
+Dialogue: 0,0:11:09.80,0:11:11.35,Default,ko,0,0,0,,어이, 위험하잖아!
+Dialogue: 0,0:11:09.80,0:11:11.35,Default,en,0,0,0,,Hey, watch out!
 Comment: 0,0:11:11.80,0:11:15.33,Default,ja,0,0,0,,ムサシ、余計なことは考えずにさっさと飛び降りろうぜ！
 Dialogue: 0,0:11:11.80,0:11:15.33,Default,ko,0,0,0,,무사시, 잡소리는 생각하지 말고 서둘러 뛰어내리자!
 Dialogue: 0,0:11:11.80,0:11:15.33,Default,en,0,0,0,,Musashi, nevermind about whatever; let's just jump off!
-Comment: 0,0:11:15.52,0:11:18.33,Default,ja,0,0,0,,ムサシ！・ムサシ！・ムサシ！
-Dialogue: 0,0:11:15.52,0:11:18.33,Default,ko,0,0,0,,-무사시!\N-무사시!
-Dialogue: 0,0:11:15.52,0:11:18.33,Default,en,0,0,0,,-Musashi!\N-Musashi!
-Comment: 0,0:11:18.33,0:11:22.08,Default,ja,0,0,0,,そうだ！あの一人に別れの挨拶を～おかねばだス。
-Dialogue: 0,0:11:18.33,0:11:22.08,Default,ko,0,0,0,,그렇소! 저 둘한테 작별의 인사를 해야 하오!
-Dialogue: 0,0:11:18.33,0:11:22.08,Default,en,0,0,0,,Oh, right. I must bid farewell to those two-{\i1}dasu{\i0}!
-Comment: 0,0:11:22.16,0:11:24.49,Default,ja,0,0,0,,えい、さっさと死ねぇだ！
-Dialogue: 0,0:11:22.16,0:11:24.49,Default,ko,0,0,0,,에잇, 어서 죽어라!
-Dialogue: 0,0:11:22.16,0:11:24.49,Default,en,0,0,0,,Dammit! Just die already!
-Comment: 0,0:11:34.44,0:11:35.78,Default,ja,0,0,0,,何？！誰だ！
-Dialogue: 0,0:11:34.44,0:11:35.78,Default,ko,0,0,0,,뭐야? 누구냐!
-Dialogue: 0,0:11:34.44,0:11:35.78,Default,en,0,0,0,,What the-?! Who's there?!
+Comment: 0,0:11:15.43,0:11:18.15,Default,ja,0,0,0,,-ムサシ！\N-ムサシ！
+Dialogue: 0,0:11:15.43,0:11:18.15,Default,ko,0,0,0,,-무사시!\N-무사시!
+Dialogue: 0,0:11:15.43,0:11:18.15,Default,en,0,0,0,,-Musashi!\N-Musashi!
+Comment: 0,0:11:18.36,0:11:22.01,Default,ja,0,0,0,,そうだ！あの一人に別れの別れの挨拶をしておかねばだス。
+Dialogue: 0,0:11:18.36,0:11:22.01,Default,ko,0,0,0,,그렇소! 저 둘한테 작별의 인사를 해야 하오!
+Dialogue: 0,0:11:18.36,0:11:22.01,Default,en,0,0,0,,Oh, right. I must bid farewell to those two-{\i1}dasu{\i0}!
+Comment: 0,0:11:22.26,0:11:24.22,Default,ja,0,0,0,,えい、さっさと死ねぇだ！
+Dialogue: 0,0:11:22.26,0:11:24.22,Default,ko,0,0,0,,에잇, 어서 죽어라!
+Dialogue: 0,0:11:22.26,0:11:24.22,Default,en,0,0,0,,Damn! Just die already!
+Comment: 0,0:11:34.36,0:11:35.94,Default,ja,0,0,0,,何？！誰だ！
+Dialogue: 0,0:11:34.36,0:11:35.94,Default,ko,0,0,0,,뭐야? 누구냐!
+Dialogue: 0,0:11:34.36,0:11:35.94,Default,en,0,0,0,,What the-?! Who's there?!
 Comment: 0,0:11:38.46,0:11:40.69,Default,ja,0,0,0,,ムサシ！
 Dialogue: 0,0:11:38.46,0:11:40.69,Default,ko,0,0,0,,무사시!
 Dialogue: 0,0:11:38.46,0:11:40.69,Default,en,0,0,0,,Musashi!
 Comment: 0,0:11:40.90,0:11:41.95,Default,ja,0,0,0,,邪魔が入ったか！
 Dialogue: 0,0:11:40.90,0:11:41.95,Default,ko,0,0,0,,방해꾼이군!
-Dialogue: 0,0:11:40.90,0:11:41.95,Default,en,0,0,0,,More and more interference!
-Comment: 0,0:11:44.24,0:11:48.72,Default,ja,0,0,0,,ムサシ！・いるならいるって返事しなさいよ！
+Dialogue: 0,0:11:40.90,0:11:41.95,Default,en,0,0,0,,Meddlers, I see!
+Comment: 0,0:11:44.24,0:11:48.72,Default,ja,0,0,0,,-ムサシ！\N-いるならいるって返事しなさいよ！
 Dialogue: 0,0:11:44.24,0:11:48.72,Default,ko,0,0,0,,-무사시!\N-있으면 있다고 답을 해!
 Dialogue: 0,0:11:44.24,0:11:48.72,Default,en,0,0,0,,-Musashi!\N-Say something if you're there!
 Comment: 0,0:11:49.02,0:11:52.72,Default,ja,0,0,0,,おいらここだすよ！おい！
 Dialogue: 0,0:11:49.02,0:11:52.72,Default,ko,0,0,0,,나 여기 있소! 어이!
 Dialogue: 0,0:11:49.02,0:11:52.72,Default,en,0,0,0,,I'm here-{\i1}dasu{\i0}! Hey!
-Comment: 0,0:11:52.90,0:11:55.74,Default,ja,0,0,0,,ムサシ！・何やってんだ、お前！
-Dialogue: 0,0:11:52.90,0:11:55.74,Default,ko,0,0,0,,-무사시!\N-너 대체 뭐하냐?
-Dialogue: 0,0:11:52.90,0:11:55.74,Default,en,0,0,0,,-Musashi!\N-What in the world are you doing?
+Comment: 0,0:11:52.88,0:11:55.74,Default,ja,0,0,0,,-ムサシ！\N-何やってんだ、お前！
+Dialogue: 0,0:11:52.88,0:11:55.74,Default,ko,0,0,0,,-무사시!\N-너 대체 뭐하냐?
+Dialogue: 0,0:11:52.88,0:11:55.74,Default,en,0,0,0,,-Musashi!\N-What in the world are you doing?
 Comment: 0,0:11:57.25,0:12:03.57,Default,ja,0,0,0,,あんたって本当にバカね。どこの世界に幽霊に誘われてほいほい死のうとする人がいるのよ！
 Dialogue: 0,0:11:57.25,0:12:03.57,Default,ko,0,0,0,,너 정말 바보구나. 대체 세상에 유령에게 꾀여서 쉽게 죽자고 하는 사람이 있냐!
-Dialogue: 0,0:11:57.25,0:12:03.57,Default,en,0,0,0,,Are you an idiot or what? Who in the world would be lured by a ghost and ask that ghost to die together?
-Comment: 0,0:12:03.88,0:12:09.76,Default,ja,0,0,0,,???????????????????????? だけど、おいら、かたいちぎりを結んだイシマツさんの頼みを断りないだすよ。
-Dialogue: 0,0:12:03.88,0:12:09.76,Default,ko,0,0,0,,그래도, 나, 피를 나눈 이시마츠 씨의 부탁은 거절할 수 없소.
-Dialogue: 0,0:12:03.88,0:12:09.76,Default,en,0,0,0,,But I cannot refuse Mr. Ishimatsu's favor when we are a brother by blood-{\i1}dasu{\i0}...
-Comment: 0,0:12:09.85,0:12:13.14,Default,ja,0,0,0,,そのイシマツの幽霊だな。。。おかしいとは思わないのか？
-Dialogue: 0,0:12:09.85,0:12:13.14,Default,ko,0,0,0,,그 이시마츠의 유령, 이상하지 않니?
-Dialogue: 0,0:12:09.85,0:12:13.14,Default,en,0,0,0,,That Ishimatsu's ghost... Isn't something weird?
+Dialogue: 0,0:11:57.25,0:12:03.57,Default,en,0,0,0,,Are you an idiot or what? Who else in the world would be lured by a ghost and get asked to die together?
+Comment: 0,0:12:03.88,0:12:09.76,Default,ja,0,0,0,,だけど、おいら、固い契りを結んだイシマツさんの頼みを断りないだスよ。
+Dialogue: 0,0:12:03.88,0:12:09.76,Default,ko,0,0,0,,그래도, 나, 끈끈한 인연을 맺은 이시마츠 씨의 부탁은 거절할 수 없소.
+Dialogue: 0,0:12:03.88,0:12:09.76,Default,en,0,0,0,,But I cannot refuse Ishimatsu's favor, especially when we formed a firm bond-{\i1}dasu{\i0}...
+Comment: 0,0:12:09.85,0:12:13.40,Default,ja,0,0,0,,そのイシマツの幽霊だな。。。おかしいとは思わないのか？
+Dialogue: 0,0:12:09.85,0:12:13.40,Default,ko,0,0,0,,그 이시마츠의 유령, 이상하지 않니?
+Dialogue: 0,0:12:09.85,0:12:13.40,Default,en,0,0,0,,That Ishimatsu's ghost... Isn't something weird?
 Comment: 0,0:12:13.80,0:12:14.72,Default,ja,0,0,0,,おかしい？
 Dialogue: 0,0:12:13.80,0:12:14.72,Default,ko,0,0,0,,이상하오?
 Dialogue: 0,0:12:13.80,0:12:14.72,Default,en,0,0,0,,Weird?
-Comment: 0,0:12:15.34,0:12:19.03,Default,ja,0,0,0,,お前、蹴飛ばされたというが、幽霊がそんなことをするか？
-Dialogue: 0,0:12:15.34,0:12:19.03,Default,ko,0,0,0,,너, 걷어차였다고 했지? 유령이 그런 짓을 하냐?
-Dialogue: 0,0:12:15.34,0:12:19.03,Default,en,0,0,0,,You said you were kicked away hard. Does a ghost ever do that?
-Comment: 0,0:12:19.41,0:12:21.25,Default,ja,0,0,0,,それはそうだスが。。。
-Dialogue: 0,0:12:19.41,0:12:21.25,Default,ko,0,0,0,,그건 그렇지만...
-Dialogue: 0,0:12:19.41,0:12:21.25,Default,en,0,0,0,,That's true-{\i1}dasu{\i0}, but...
+Comment: 0,0:12:15.44,0:12:19.03,Default,ja,0,0,0,,お前、蹴飛ばされたというが、幽霊がそんなことをするか？
+Dialogue: 0,0:12:15.44,0:12:19.03,Default,ko,0,0,0,,너, 걷어차였다고 했지? 유령이 그런 짓을 하냐?
+Dialogue: 0,0:12:15.44,0:12:19.03,Default,en,0,0,0,,You said you got kicked off. Can a ghost even do that?
+Comment: 0,0:12:19.49,0:12:21.25,Default,ja,0,0,0,,それはそうだスが。。。
+Dialogue: 0,0:12:19.49,0:12:21.25,Default,ko,0,0,0,,그건 그렇지만...
+Dialogue: 0,0:12:19.49,0:12:21.25,Default,en,0,0,0,,That's true-{\i1}dasu{\i0}, but...
 Comment: 0,0:12:21.25,0:12:25.02,Default,ja,0,0,0,,それに、お前を助けた縄は、いったい誰が投げたか？
 Dialogue: 0,0:12:21.25,0:12:25.02,Default,ko,0,0,0,,게다가 널 구한 줄은 대체 누가 던졌어?
 Dialogue: 0,0:12:21.25,0:12:25.02,Default,en,0,0,0,,Moreover, who threw the rope that saved your life?
@@ -495,36 +492,33 @@ Comment: 0,0:12:25.25,0:12:25.82,Default,ja,0,0,0,,さあ。
 Dialogue: 0,0:12:25.25,0:12:25.82,Default,ko,0,0,0,,그러게...
 Dialogue: 0,0:12:25.25,0:12:25.82,Default,en,0,0,0,,Dunno...
 Comment: 0,0:12:26.60,0:12:32.25,Default,ja,0,0,0,,私の予感では、その答えはすべて、恐山にあるような気がする。
-Dialogue: 0,0:12:26.60,0:12:32.25,Default,ko,0,0,0,,내 예감으로는 그 답은 전부 공산에 있을 것 같다.
+Dialogue: 0,0:12:26.60,0:12:32.25,Default,ko,0,0,0,,내 예감으로는 그 답은 전부 오소레잔에 있을 것 같다.
 Dialogue: 0,0:12:26.60,0:12:32.25,Default,en,0,0,0,,According to my hunch, all the answer should be at that Osorezan.
 Comment: 0,0:12:34.96,0:12:40.48,Default,ja,0,0,0,,恐山に隠された秘密とは何か？疾風怒濤のご飯を待って！
-Dialogue: 0,0:12:34.96,0:12:40.48,Default,ko,0,0,0,,공산에 숨겨진 비밀은 무엇인가? 질풍노도의 후반을 기다려라!
+Dialogue: 0,0:12:34.96,0:12:40.48,Default,ko,0,0,0,,오소레잔에 숨겨진 비밀은 무엇인가? 질풍노도의 후반을 기다려라!
 Dialogue: 0,0:12:34.96,0:12:40.48,Default,en,0,0,0,,What kind of secret is hidden in that Osorezan? Wait for the stormy latter half!
-Comment: 0,0:12:40.78,0:12:45.78,Default,ja,0,0,0,,EC
-Dialogue: 0,0:12:40.78,0:12:45.78,Eyecatch,ko,0,0,0,,카라쿠리 검호전 무사시 로드
-Dialogue: 0,0:12:40.78,0:12:45.78,Eyecatch,en,0,0,0,,Karakuri Kengouden: Musashi Road
 Comment: 0,0:12:51.05,0:12:56.56,Default,ja,0,0,0,,うわ、生暖かい掛けも吹いてきて、いかにも何か出てきそうな雰囲気ね。
 Dialogue: 0,0:12:51.05,0:12:56.56,Default,ko,0,0,0,,와, 뜨뜻미지근한 바람이 부는 게 분명 뭐가 나올 것 같은 분위기야.
 Dialogue: 0,0:12:51.05,0:12:56.56,Default,en,0,0,0,,Wow. This lukewarm wind... It feels like something's about to show up.
-Comment: 0,0:12:56.88,0:12:58.64,Default,ja,0,0,0,,よ、こりゃいったい。。。
-Dialogue: 0,0:12:56.88,0:12:58.64,Default,ko,0,0,0,,아니, 이건 대체...
-Dialogue: 0,0:12:56.88,0:12:58.64,Default,en,0,0,0,,What's going on?
-Comment: 0,0:12:58.88,0:13:02.87,Default,ja,0,0,0,,コジロー！おせんちゃん！どこだスか！
-Dialogue: 0,0:12:58.88,0:13:02.87,Default,ko,0,0,0,,코지로! 오센짱! 어디이오!
-Dialogue: 0,0:12:58.88,0:13:02.87,Default,en,0,0,0,,Kojirō! Osenchan! Where are you-{\i1}dasu{\i0}?!
-Comment: 0,0:13:02.87,0:13:04.13,Default,ja,0,0,0,,私はここにいる！
-Dialogue: 0,0:13:02.87,0:13:04.13,Default,ko,0,0,0,,난 여기 있어!
-Dialogue: 0,0:13:02.87,0:13:04.13,Default,en,0,0,0,,I'm here!
-Comment: 0,0:13:04.58,0:13:07.14,Default,ja,0,0,0,,センヒメ様！・あたしもここにいるわよ！
-Dialogue: 0,0:13:04.58,0:13:07.14,Default,ko,0,0,0,,-센히메 님!\N-나도 여기 있어!
-Dialogue: 0,0:13:04.58,0:13:07.14,Default,en,0,0,0,,-Senhime!\N-I'm here too!
+Comment: 0,0:12:56.88,0:12:58.57,Default,ja,0,0,0,,よ、こりゃいったい。。。
+Dialogue: 0,0:12:56.88,0:12:58.57,Default,ko,0,0,0,,아니, 이건 대체...
+Dialogue: 0,0:12:56.88,0:12:58.57,Default,en,0,0,0,,What's going on?
+Comment: 0,0:12:58.88,0:13:02.76,Default,ja,0,0,0,,コジロー！おせんちゃん！どこだスか！
+Dialogue: 0,0:12:58.88,0:13:02.76,Default,ko,0,0,0,,코지로! 오센짱! 어디이오!
+Dialogue: 0,0:12:58.88,0:13:02.76,Default,en,0,0,0,,Kojirō! Osenchan! Where are you-{\i1}dasu{\i0}?!
+Comment: 0,0:13:02.94,0:13:04.13,Default,ja,0,0,0,,私はここにいる！
+Dialogue: 0,0:13:02.94,0:13:04.13,Default,ko,0,0,0,,난 여기 있어!
+Dialogue: 0,0:13:02.94,0:13:04.13,Default,en,0,0,0,,I'm over here!
+Comment: 0,0:13:04.70,0:13:07.11,Default,ja,0,0,0,,-センヒメ様！\N-あたしもここにいるわよ！
+Dialogue: 0,0:13:04.70,0:13:07.11,Default,ko,0,0,0,,-센히메 님!\N-나도 여기 있어!
+Dialogue: 0,0:13:04.70,0:13:07.11,Default,en,0,0,0,,-Senhime!\N-I'm here too!
 Comment: 0,0:13:07.14,0:13:07.60,Default,ja,0,0,0,,うん？
 Dialogue: 0,0:13:07.14,0:13:07.60,Default,ko,0,0,0,,응?
 Dialogue: 0,0:13:07.14,0:13:07.60,Default,en,0,0,0,,Huh?
 Comment: 0,0:13:07.60,0:13:12.47,Default,ja,0,0,0,,センヒメ様！ムサシ！ここは霧が晴れるまで動かない方がいい。
 Dialogue: 0,0:13:07.60,0:13:12.47,Default,ko,0,0,0,,센히메 님! 무사시! 여긴 안개가 갤 때까지 움직이지 않는 게 좋아요.
 Dialogue: 0,0:13:07.60,0:13:12.47,Default,en,0,0,0,,Senhime! Musashi! You'd better not move here until the fog clears up.
-Comment: 0,0:13:12.70,0:13:14.86,Default,ja,0,0,0,,しばらく待ちましょう！・分かった！
+Comment: 0,0:13:12.70,0:13:14.86,Default,ja,0,0,0,,-しばらく待ちましょう！\N-分かった！
 Dialogue: 0,0:13:12.70,0:13:14.86,Default,ko,0,0,0,,-일단 기다립시다!\N-그래!
 Dialogue: 0,0:13:12.70,0:13:14.86,Default,en,0,0,0,,-Let's wait for now!\N-Got it!
 Comment: 0,0:13:15.22,0:13:16.58,Default,ja,0,0,0,,了解だス！
@@ -533,18 +527,18 @@ Dialogue: 0,0:13:15.22,0:13:16.58,Default,en,0,0,0,,Roger-{\i1}dasu{\i0}!
 Comment: 0,0:13:17.56,0:13:18.50,Default,ja,0,0,0,,うん？コジローか？
 Dialogue: 0,0:13:17.56,0:13:18.50,Default,ko,0,0,0,,어? 코지로이오?
 Dialogue: 0,0:13:17.56,0:13:18.50,Default,en,0,0,0,,Huh? Is it Kojirō?
-Comment: 0,0:13:20.05,0:13:22.18,Default,ja,0,0,0,,よ、ムサシ。・イシマツさん！
+Comment: 0,0:13:20.05,0:13:22.18,Default,ja,0,0,0,,-よ、ムサシ。\N-イシマツさん！
 Dialogue: 0,0:13:20.05,0:13:22.18,Default,ko,0,0,0,,-어이, 무사시.\N-이시마츠 씨!
-Dialogue: 0,0:13:20.05,0:13:22.18,Default,en,0,0,0,,-Hey, Musashi.\N-Mr. Ishimatsu!
+Dialogue: 0,0:13:20.05,0:13:22.18,Default,en,0,0,0,,-Hey, Musashi.\N-Ishimatsu!
 Comment: 0,0:13:22.50,0:13:26.61,Default,ja,0,0,0,,ムサシ、昨日は失敗したが、今日は仲良くあの世へ行こうぜ。
 Dialogue: 0,0:13:22.50,0:13:26.61,Default,ko,0,0,0,,무사시, 어제는 실패했지만 오늘은 사이좋게 저 세상에 가자!
-Dialogue: 0,0:13:22.50,0:13:26.61,Default,en,0,0,0,,Musashi! Even though we've failed yesterday, let's go to the other world today as friends!
+Dialogue: 0,0:13:22.50,0:13:26.61,Default,en,0,0,0,,Musashi! Though we've failed yesterday, we'll go to the other world today as friends!
 Comment: 0,0:13:27.58,0:13:31.17,Default,ja,0,0,0,,あ、あの。。。おいら、やっぱり死ぬのはいやなんだすけど。。。
 Dialogue: 0,0:13:27.58,0:13:31.17,Default,ko,0,0,0,,저, 그게... 나는 역시 죽는 건 싫소.
 Dialogue: 0,0:13:27.58,0:13:31.17,Default,en,0,0,0,,You know... I don't want to die-{\i1}dasu{\i0}.
-Comment: 0,0:13:31.52,0:13:34.57,Default,ja,0,0,0,,あの時食った団子はうまかったよな！
-Dialogue: 0,0:13:31.52,0:13:34.57,Default,ko,0,0,0,,그 때 먹은 단고는 맛있었지...
-Dialogue: 0,0:13:31.52,0:13:34.57,Default,en,0,0,0,,The dangos that we ate back then was great...
+Comment: 0,0:13:31.52,0:13:34.45,Default,ja,0,0,0,,あの時食った団子はうまかったよな！
+Dialogue: 0,0:13:31.52,0:13:34.45,Default,ko,0,0,0,,그 때 먹은 단고는 맛있었지...
+Dialogue: 0,0:13:31.52,0:13:34.45,Default,en,0,0,0,,The dangos that we had back then was great...
 Comment: 0,0:13:34.57,0:13:36.17,Default,ja,0,0,0,,うまかっただス！
 Dialogue: 0,0:13:34.57,0:13:36.17,Default,ko,0,0,0,,맛있었소!
 Dialogue: 0,0:13:34.57,0:13:36.17,Default,en,0,0,0,,It was great-{\i1}dasu{\i0}!
@@ -553,13 +547,13 @@ Dialogue: 0,0:13:36.38,0:13:40.55,Default,ko,0,0,0,,그 때하고 똑같이, 나
 Dialogue: 0,0:13:36.38,0:13:40.55,Default,en,0,0,0,,Just like how we did back then, I'd love to share the impression with you.
 Comment: 0,0:13:41.18,0:13:44.76,Default,ja,0,0,0,,イシマツさん、なんて優しいお方なんだスか！
 Dialogue: 0,0:13:41.18,0:13:44.76,Default,ko,0,0,0,,이시마츠 씨, 정말 다정한 분이오!
-Dialogue: 0,0:13:41.18,0:13:44.76,Default,en,0,0,0,,Mr. Ishimatsu! You're so kind-{\i1}dasu{\i0}!
-Comment: 0,0:13:45.70,0:13:49.27,Default,ja,0,0,0,,さあ、ムサシ！ここだったら間違いなく死ねるぜ。
-Dialogue: 0,0:13:45.70,0:13:49.27,Default,ko,0,0,0,,자, 무사시! 이번엔 틀림없이 죽을 수 있을 거야.
-Dialogue: 0,0:13:45.70,0:13:49.27,Default,en,0,0,0,,Musashi! We will be able to die properly this time.
+Dialogue: 0,0:13:41.18,0:13:44.76,Default,en,0,0,0,,Ishimatsu! You're so kind-{\i1}dasu{\i0}!
+Comment: 0,0:13:45.62,0:13:49.19,Default,ja,0,0,0,,さあ、ムサシ！ここだったら間違いなく死ねるぜ。
+Dialogue: 0,0:13:45.62,0:13:49.19,Default,ko,0,0,0,,자, 무사시! 이번엔 틀림없이 죽을 수 있을 거야.
+Dialogue: 0,0:13:45.62,0:13:49.19,Default,en,0,0,0,,Musashi! We will make it to death this time.
 Comment: 0,0:13:49.38,0:13:51.05,Default,ja,0,0,0,,そ、そうだスな。
 Dialogue: 0,0:13:49.38,0:13:51.05,Default,ko,0,0,0,,그, 그렇소.
-Dialogue: 0,0:13:49.38,0:13:51.05,Default,en,0,0,0,,Y- you're right.
+Dialogue: 0,0:13:49.38,0:13:51.05,Default,en,0,0,0,,Y- you're right-{\i1}dasu{\i0}.
 Comment: 0,0:13:51.18,0:13:53.78,Default,ja,0,0,0,,さあ、今日はまっ正しいで行こうぜ！
 Dialogue: 0,0:13:51.18,0:13:53.78,Default,ko,0,0,0,,자, 오늘은 똑바로 가자!
 Dialogue: 0,0:13:51.18,0:13:53.78,Default,en,0,0,0,,Let's do this properly today!
@@ -574,28 +568,28 @@ Dialogue: 0,0:13:58.74,0:14:00.52,Default,ko,0,0,0,,뭐, 뭔 짓이냐.
 Dialogue: 0,0:13:58.74,0:14:00.52,Default,en,0,0,0,,W- what are you doing?
 Comment: 0,0:14:02.00,0:14:05.25,Default,ja,0,0,0,,こうすれば失敗しないで一緒に飛び降りれるだス。
 Dialogue: 0,0:14:02.00,0:14:05.25,Default,ko,0,0,0,,이렇게 하면 실패할 일 없이 같이 뛰어내릴 수 있소.
-Dialogue: 0,0:14:02.00,0:14:05.25,Default,en,0,0,0,,By this, we will be able to jump down together without any mistake-{\i1}dasu{\i0}.
-Comment: 0,0:14:05.40,0:14:06.52,Default,ja,0,0,0,,何？！
-Dialogue: 0,0:14:05.40,0:14:06.52,Default,ko,0,0,0,,머?!
-Dialogue: 0,0:14:05.40,0:14:06.52,Default,en,0,0,0,,What?!
-Comment: 0,0:14:07.24,0:14:08.53,Default,ja,0,0,0,,じゃ、行こうだス。
-Dialogue: 0,0:14:07.24,0:14:08.53,Default,ko,0,0,0,,자, 이제 가오.
-Dialogue: 0,0:14:07.24,0:14:08.53,Default,en,0,0,0,,Let's go-{\i1}dasu{\i0}.
-Comment: 0,0:14:08.53,0:14:14.57,Default,ja,0,0,0,,なん、なぁ、ムサシ、おら、こうやって縛られるってのは、けっこあるくて好きじゃないんだい。
-Dialogue: 0,0:14:08.53,0:14:14.57,Default,ko,0,0,0,,그, 그게, 무사시, 나, 이렇게 묶여 있는 건 별로 좋아하지 않아.
-Dialogue: 0,0:14:08.53,0:14:14.57,Default,en,0,0,0,,Uh, that is... M- Musashi, I... I don't like to be tied like this.
-Comment: 0,0:14:14.57,0:14:15.56,Default,ja,0,0,0,,やめにしねぇか。
-Dialogue: 0,0:14:14.57,0:14:15.56,Default,ko,0,0,0,,관두자.
-Dialogue: 0,0:14:14.57,0:14:15.56,Default,en,0,0,0,,Please don't do that.
+Dialogue: 0,0:14:02.00,0:14:05.25,Default,en,0,0,0,,With this, we will be able to jump down together without any mistakes-{\i1}dasu{\i0}.
+Comment: 0,0:14:05.39,0:14:06.51,Default,ja,0,0,0,,何？！
+Dialogue: 0,0:14:05.39,0:14:06.51,Default,ko,0,0,0,,뭐?!
+Dialogue: 0,0:14:05.39,0:14:06.51,Default,en,0,0,0,,What?!
+Comment: 0,0:14:07.24,0:14:08.44,Default,ja,0,0,0,,じゃ、行こうだス。
+Dialogue: 0,0:14:07.24,0:14:08.44,Default,ko,0,0,0,,자, 이제 가오.
+Dialogue: 0,0:14:07.24,0:14:08.44,Default,en,0,0,0,,Let's go-{\i1}dasu{\i0}.
+Comment: 0,0:14:08.53,0:14:14.44,Default,ja,0,0,0,,なん、なぁ、ムサシ、おら、こうやって縛られるってのは、けっこあるくて好きじゃないんだい。
+Dialogue: 0,0:14:08.53,0:14:14.44,Default,ko,0,0,0,,그, 그게, 무사시, 나, 이렇게 묶여 있는 건 별로 좋아하지 않아.
+Dialogue: 0,0:14:08.53,0:14:14.44,Default,en,0,0,0,,Uh, that is... M- Musashi, I... I don't like being tied like this; it looks uncool.
+Comment: 0,0:14:14.57,0:14:15.48,Default,ja,0,0,0,,やめにしねぇか。
+Dialogue: 0,0:14:14.57,0:14:15.48,Default,ko,0,0,0,,관두자.
+Dialogue: 0,0:14:14.57,0:14:15.48,Default,en,0,0,0,,Let's not.
 Comment: 0,0:14:15.97,0:14:19.09,Default,ja,0,0,0,,死んでしまえば好きも嫌いも関係ないだスよ！
 Dialogue: 0,0:14:15.97,0:14:19.09,Default,ko,0,0,0,,죽을 거라면 좋고 싫고 관계 없소!
-Dialogue: 0,0:14:15.97,0:14:19.09,Default,en,0,0,0,,If you're gonna die, your preferences don't matter-{\i1}dasu{\i0}!
+Dialogue: 0,0:14:15.97,0:14:19.09,Default,en,0,0,0,,If you're gonna die, looking uncool doesn't matter-{\i1}dasu{\i0}!
 Comment: 0,0:14:19.56,0:14:20.49,Default,ja,0,0,0,,行くだス！
-Dialogue: 0,0:14:19.56,0:14:20.49,Default,ko,0,0,0,,가소!
+Dialogue: 0,0:14:19.56,0:14:20.49,Default,ko,0,0,0,,가오!
 Dialogue: 0,0:14:19.56,0:14:20.49,Default,en,0,0,0,,Let's go-{\i1}dasu{\i0}!
-Comment: 0,0:14:20.49,0:14:25.12,Default,ja,0,0,0,,じゃ、じゃなよ、からく縛ってすばっと手が抜けるようにしてくれねぇか。
-Dialogue: 0,0:14:20.49,0:14:25.12,Default,ko,0,0,0,,이, 있잖아, 조금만 묶어서 스을쩍 손이 빠지게 하지 않을래?
-Dialogue: 0,0:14:20.49,0:14:25.12,Default,en,0,0,0,,Y- you know, can't you just tie it lightly so that I can pull my hand out?
+Comment: 0,0:14:20.49,0:14:24.95,Default,ja,0,0,0,,じゃ、じゃなよ、からく縛ってすばっと手が抜けるようにしてくれねぇか。
+Dialogue: 0,0:14:20.49,0:14:24.95,Default,ko,0,0,0,,이, 있잖아, 조금만 묶어서 스을쩍 손이 빠지게 하지 않을래?
+Dialogue: 0,0:14:20.49,0:14:24.95,Default,en,0,0,0,,Y- you know, can't you just tie it lightly so that I can pull my hand out?
 Comment: 0,0:14:25.12,0:14:25.84,Default,ja,0,0,0,,ダメだス。
 Dialogue: 0,0:14:25.12,0:14:25.84,Default,ko,0,0,0,,안 되오.
 Dialogue: 0,0:14:25.12,0:14:25.84,Default,en,0,0,0,,No way-{\i1}dasu{\i0}.
@@ -605,18 +599,18 @@ Dialogue: 0,0:14:26.13,0:14:31.31,Default,en,0,0,0,,T- then, wouldn't you like t
 Comment: 0,0:14:31.64,0:14:33.33,Default,ja,0,0,0,,それじゃ死ねないだスよ！
 Dialogue: 0,0:14:31.64,0:14:33.33,Default,ko,0,0,0,,그러면 못 죽소!
 Dialogue: 0,0:14:31.64,0:14:33.33,Default,en,0,0,0,,Then we can't die!
-Comment: 0,0:14:33.45,0:14:36.20,Default,ja,0,0,0,,もういい加減に観念するでござるだス！
-Dialogue: 0,0:14:33.45,0:14:36.20,Default,ko,0,0,0,,어른답게 포기하고 단념하시오!
-Dialogue: 0,0:14:33.45,0:14:36.20,Default,en,0,0,0,,Give it up like an adult!
-Comment: 0,0:14:36.20,0:14:39.00,Default,ja,0,0,0,,ば、ばか！やめろ！
-Dialogue: 0,0:14:36.20,0:14:39.00,Default,ko,0,0,0,,머, 멍청아! 그만해!
-Dialogue: 0,0:14:36.20,0:14:39.00,Default,en,0,0,0,,I- idiot! Stop it!
-Comment: 0,0:14:39.00,0:14:40.27,Default,ja,0,0,0,,じゃ、このガキ！
-Dialogue: 0,0:14:39.00,0:14:40.27,Default,ko,0,0,0,,이, 이 꼬맹이가!
-Dialogue: 0,0:14:39.00,0:14:40.27,Default,en,0,0,0,,Y- you brat!
-Comment: 0,0:14:43.48,0:14:45.68,Default,ja,0,0,0,,な、なにをするだス、イシマツさん！
-Dialogue: 0,0:14:43.48,0:14:45.68,Default,ko,0,0,0,,뭐, 뭔 짓이오, 이시마츠 씨!
-Dialogue: 0,0:14:43.48,0:14:45.68,Default,en,0,0,0,,W- what are you doing-{\i1}dasu{\i0}, Mr. Ishimatsu?!
+Comment: 0,0:14:33.72,0:14:36.11,Default,ja,0,0,0,,もういい加減に観念するでござるだス！
+Dialogue: 0,0:14:33.72,0:14:36.11,Default,ko,0,0,0,,이제 적당히 포기하고 단념하시오!
+Dialogue: 0,0:14:33.72,0:14:36.11,Default,en,0,0,0,,That's enough; give it up-{\i1}dasu{\i0}!
+Comment: 0,0:14:36.26,0:14:38.86,Default,ja,0,0,0,,ば、ばか！やめろ！
+Dialogue: 0,0:14:36.26,0:14:38.86,Default,ko,0,0,0,,머, 멍청아! 그만해!
+Dialogue: 0,0:14:36.26,0:14:38.86,Default,en,0,0,0,,I- idiot! Stop it!
+Comment: 0,0:14:39.00,0:14:40.17,Default,ja,0,0,0,,じゃ、このガキ！
+Dialogue: 0,0:14:39.00,0:14:40.17,Default,ko,0,0,0,,이, 이 꼬맹이가!
+Dialogue: 0,0:14:39.00,0:14:40.17,Default,en,0,0,0,,Y- you pipsqueak!
+Comment: 0,0:14:43.51,0:14:45.68,Default,ja,0,0,0,,な、なにをするだス、イシマツさん！
+Dialogue: 0,0:14:43.51,0:14:45.68,Default,ko,0,0,0,,뭐, 뭔 짓이오, 이시마츠 씨!
+Dialogue: 0,0:14:43.51,0:14:45.68,Default,en,0,0,0,,W- what are you doing-{\i1}dasu{\i0}, Ishimatsu?!
 Comment: 0,0:14:52.78,0:14:53.96,Default,ja,0,0,0,,大丈夫か、ムサシ！
 Dialogue: 0,0:14:52.78,0:14:53.96,Default,ko,0,0,0,,괜찮냐, 무사시!
 Dialogue: 0,0:14:52.78,0:14:53.96,Default,en,0,0,0,,Are you okay, Musashi?!
@@ -625,30 +619,30 @@ Dialogue: 0,0:14:54.50,0:14:54.94,Default,ko,0,0,0,,어?
 Dialogue: 0,0:14:54.50,0:14:54.94,Default,en,0,0,0,,Huh?
 Comment: 0,0:14:55.85,0:14:56.64,Default,ja,0,0,0,,己！
 Dialogue: 0,0:14:55.85,0:14:56.64,Default,ko,0,0,0,,네 이놈!
-Dialogue: 0,0:14:55.85,0:14:56.64,Default,en,0,0,0,,You bastards!
+Dialogue: 0,0:14:55.85,0:14:56.64,Default,en,0,0,0,,Curse you!
 Comment: 0,0:14:57.22,0:14:58.47,Default,ja,0,0,0,,あ、イシマツさん！
 Dialogue: 0,0:14:57.22,0:14:58.47,Default,ko,0,0,0,,어, 이시마츠 씨!
-Dialogue: 0,0:14:57.22,0:14:58.47,Default,en,0,0,0,,Hey, Mr. Ishimatsu!
-Comment: 0,0:14:58.58,0:15:02.71,Default,ja,0,0,0,,バカ野郎、ムサシ！あいつは幽霊なんかじゃないって言っただろ！
-Dialogue: 0,0:14:58.58,0:15:02.71,Default,ko,0,0,0,,무사시, 이 멍청한 새꺄! 저 놈은 유령이 아니랬지!
-Dialogue: 0,0:14:58.58,0:15:02.71,Default,en,0,0,0,,Musashi, you dimwit! I told you he's not a ghost!
-Comment: 0,0:15:03.20,0:15:06.66,Default,ja,0,0,0,,だけど！あんなイシマツさんみておれんだス！
-Dialogue: 0,0:15:03.20,0:15:06.66,Default,ko,0,0,0,,그래도! 저런 이시마츠 씨를 그냥 두고 볼 수는 없소!
-Dialogue: 0,0:15:03.20,0:15:06.66,Default,en,0,0,0,,But I can't leave Mr. Ishimatsu like that-{\i1}dasu{\i0}!
-Comment: 0,0:15:07.21,0:15:12.22,Default,ja,0,0,0,,あのイシマツが幽霊だとしたら、お前たちの友情とやらは怪しいもんだな。
-Dialogue: 0,0:15:07.21,0:15:12.22,Default,ko,0,0,0,,저 이시마츠가 유령이라고 해도, 너희 우정은 수상하구나.
-Dialogue: 0,0:15:07.21,0:15:12.22,Default,en,0,0,0,,Even if that Ishimatsu is a ghost, your friendship is fishy.
+Dialogue: 0,0:14:57.22,0:14:58.47,Default,en,0,0,0,,Hey, Ishimatsu!
+Comment: 0,0:14:58.72,0:15:02.69,Default,ja,0,0,0,,バカ野郎、ムサシ！あいつは幽霊なんかじゃないって言っただろ！
+Dialogue: 0,0:14:58.72,0:15:02.69,Default,ko,0,0,0,,무사시, 이 멍청한 새꺄! 저 놈은 유령이 아니랬지!
+Dialogue: 0,0:14:58.72,0:15:02.69,Default,en,0,0,0,,Musashi, you dimwit! I told you that he's not a ghost!
+Comment: 0,0:15:03.20,0:15:06.82,Default,ja,0,0,0,,だけど！あんなイシマツさんみておれんだス！
+Dialogue: 0,0:15:03.20,0:15:06.82,Default,ko,0,0,0,,그래도! 저런 이시마츠 씨를 그냥 두고 볼 수는 없소!
+Dialogue: 0,0:15:03.20,0:15:06.82,Default,en,0,0,0,,But I can't leave Mr. Ishimatsu like that-{\i1}dasu{\i0}!
+Comment: 0,0:15:07.21,0:15:12.12,Default,ja,0,0,0,,あのイシマツが幽霊だとしたら、お前たちの友情とやらは怪しいもんだな。
+Dialogue: 0,0:15:07.21,0:15:12.12,Default,ko,0,0,0,,저 이시마츠가 유령이라면, 너희 우정은 수상하구나.
+Dialogue: 0,0:15:07.21,0:15:12.12,Default,en,0,0,0,,If that's the ghost of Ishimatsu, then your so-called friendship is fishy.
 Comment: 0,0:15:13.20,0:15:18.39,Default,ja,0,0,0,,本当にイシマツが浮かばれていないのなら、ムサシ、お前の力で成仏させてやれ！
 Dialogue: 0,0:15:13.20,0:15:18.39,Default,ko,0,0,0,,정말 이시마츠가 죽지 못했다면, 무사시, 네 힘으로 성불시켜 줘라!
-Dialogue: 0,0:15:13.20,0:15:18.39,Default,en,0,0,0,,If Ishimatsu really couldn't die properly, then make him rest in peace with your power!
+Dialogue: 0,0:15:13.20,0:15:18.39,Default,en,0,0,0,,If Ishimatsu really couldn't rest in peace, then you should bring him to peace!
 Comment: 0,0:15:19.02,0:15:21.95,Default,ja,0,0,0,,それが死んでいったともへの信の友情じゃないか！
 Dialogue: 0,0:15:19.02,0:15:21.95,Default,ko,0,0,0,,그게 죽은 친구에게의 참된 우정 아니냐!
-Dialogue: 0,0:15:19.02,0:15:21.95,Default,en,0,0,0,,Isn't that the true friendship to your dead friend?!
+Dialogue: 0,0:15:19.02,0:15:21.95,Default,en,0,0,0,,Wouldn't that be the correct deed for your departed friend?
 Comment: 0,0:15:23.89,0:15:25.70,Default,ja,0,0,0,,あ、そうだっただス。
 Dialogue: 0,0:15:23.89,0:15:25.70,Default,ko,0,0,0,,아, 그렇소.
 Dialogue: 0,0:15:23.89,0:15:25.70,Default,en,0,0,0,,Yes, you're right-{\i1}dasu{\i0}.
 Comment: 0,0:15:31.98,0:15:39.81,Default,ja,0,0,0,,センヒメ様、少々気になっているのですが、どうもこの恐山、人々を近づけまえとしたように思えるのです。
-Dialogue: 0,0:15:31.98,0:15:39.81,Default,ko,0,0,0,,센히메 님, 계속 신경쓰이는 게 있는데, 이 공산은 사람들을 불러들이고 있는 것 같습니다.
+Dialogue: 0,0:15:31.98,0:15:39.81,Default,ko,0,0,0,,센히메 님, 계속 신경쓰이는 게 있는데, 이 오소레잔은 사람들을 불러들이고 있는 것 같습니다.
 Dialogue: 0,0:15:31.98,0:15:39.81,Default,en,0,0,0,,Senhime, this has been bothering me; this Osorezan seems to be calling people towards it.
 Comment: 0,0:15:42.53,0:15:43.21,Default,ja,0,0,0,,おせんちゃん！
 Dialogue: 0,0:15:42.53,0:15:43.21,Default,ko,0,0,0,,오센짱!
@@ -658,85 +652,86 @@ Dialogue: 0,0:15:43.61,0:15:45.37,Default,ko,0,0,0,,살려줘!
 Dialogue: 0,0:15:43.61,0:15:45.37,Default,en,0,0,0,,Help me!
 Comment: 0,0:15:46.28,0:15:47.36,Default,ja,0,0,0,,イシマツさん！
 Dialogue: 0,0:15:46.28,0:15:47.36,Default,ko,0,0,0,,이시마츠 씨!
-Dialogue: 0,0:15:46.28,0:15:47.36,Default,en,0,0,0,,Mr. Ishimatsu!
+Dialogue: 0,0:15:46.28,0:15:47.36,Default,en,0,0,0,,Ishimatsu!
 Comment: 0,0:15:47.49,0:15:54.98,Default,ja,0,0,0,,ムサシ！今度は邪魔されないように仲間を連れて来たぜ！さあ、みんなで一緒に三途の川を当たろうぜ！
-Dialogue: 0,0:15:47.49,0:15:54.98,Default,ko,0,0,0,,무사시! 이번엔 방해받지 않게 동료를 데려왔다! 자, 다 함께 같이 삼도내를 건너자!
-Dialogue: 0,0:15:47.49,0:15:54.98,Default,en,0,0,0,,Musashi! I took your comrade to prevent us from being interrupted! Now, let us cross Sanzu River all together!
+Dialogue: 0,0:15:47.49,0:15:54.98,Default,ko,0,0,0,,무사시! 이번엔 방해받지 않게 동료를 데려왔다! 자, 다 함께 같이 삼도천을 건너자!
+Dialogue: 0,0:15:47.49,0:15:54.98,Default,en,0,0,0,,Musashi! I brought your comrades, so that there won't be any more meddlers! Now, let us cross Sanzu River all together!
+Dialogue: 0,0:15:47.49,0:15:54.98,Note,en,0,0,0,,(lit. river of three crossings. The Styx)
 Comment: 0,0:15:55.18,0:15:58.32,Default,ja,0,0,0,,なにこれ！やめて！やめて！
 Dialogue: 0,0:15:55.18,0:15:58.32,Default,ko,0,0,0,,뭐야, 이거! 관둬! 그만해!
 Dialogue: 0,0:15:55.18,0:15:58.32,Default,en,0,0,0,,What's this?! Let me go! Let me go!
-Comment: 0,0:15:58.52,0:16:03.98,Default,ja,0,0,0,,イシマツさん！寂しいだろうけど、三途の川は。。。一人で渡ってほしいだス。
-Dialogue: 0,0:15:58.52,0:16:03.98,Default,ko,0,0,0,,이시마츠 씨! 외로운 건 알겠는데 삼도내는 혼자서 건너길 바라오.
-Dialogue: 0,0:15:58.52,0:16:03.98,Default,en,0,0,0,,Mr. Ishimatsu! I get that you're lonely, but I want you to cross the Sanzu by yourself-{\i1}dasu{\i0}.
-Comment: 0,0:16:04.70,0:16:07.42,Default,ja,0,0,0,,あの時の団子はうまかったよな。
-Dialogue: 0,0:16:04.70,0:16:07.42,Default,ko,0,0,0,,그 때 먹은 단고는 맛있었지...
-Dialogue: 0,0:16:04.70,0:16:07.42,Default,en,0,0,0,,The dangos that we ate back then was great...
-Comment: 0,0:16:08.01,0:16:10.33,Default,ja,0,0,0,,そうだっただすね！・ムサシ！
-Dialogue: 0,0:16:08.01,0:16:10.33,Default,ko,0,0,0,,-그랬었소!\N-무사시!
-Dialogue: 0,0:16:08.01,0:16:10.33,Default,en,0,0,0,,-That's right-{\i1}dasu{\i0}!\N-Musashi!
+Comment: 0,0:15:58.52,0:16:04.13,Default,ja,0,0,0,,イシマツさん！寂しいだろうけど、三途の川は。。。一人で渡ってほしいだス。
+Dialogue: 0,0:15:58.52,0:16:04.13,Default,ko,0,0,0,,이시마츠 씨! 외로운 건 알겠는데 삼도내는 혼자서 건너길 바라오.
+Dialogue: 0,0:15:58.52,0:16:04.13,Default,en,0,0,0,,Ishimatsu! I get that you're lonely, but I want you to cross the Sanzu by yourself-{\i1}dasu{\i0}.
+Comment: 0,0:16:04.70,0:16:07.34,Default,ja,0,0,0,,あの時の団子はうまかったよな。
+Dialogue: 0,0:16:04.70,0:16:07.34,Default,ko,0,0,0,,그 때 먹은 단고는 맛있었지...
+Dialogue: 0,0:16:04.70,0:16:07.34,Default,en,0,0,0,,The dangos that we had back then was great...
+Comment: 0,0:16:08.01,0:16:10.30,Default,ja,0,0,0,,-そうだっただすね！\N-ムサシ！
+Dialogue: 0,0:16:08.01,0:16:10.30,Default,ko,0,0,0,,-그랬었소!\N-무사시!
+Dialogue: 0,0:16:08.01,0:16:10.30,Default,en,0,0,0,,-That's right-{\i1}dasu{\i0}!\N-Musashi!
 Comment: 0,0:16:10.76,0:16:13.41,Default,ja,0,0,0,,お前は俺の言うことを聞くがいいんだ！
-Dialogue: 0,0:16:10.76,0:16:13.41,Default,ko,0,0,0,,넌 내가 말하는 걸 듣는 게 낫다!
+Dialogue: 0,0:16:10.76,0:16:13.41,Default,ko,0,0,0,,넌 내 말이나 들으면 된다!
 Dialogue: 0,0:16:10.76,0:16:13.41,Default,en,0,0,0,,You'd better listen to me!
-Comment: 0,0:16:15.40,0:16:18.96,Default,ja,0,0,0,,何？お前、あの時の団子はうまくなかったのか！
-Dialogue: 0,0:16:15.40,0:16:18.96,Default,ko,0,0,0,,뭐야? 너, 그 때 단고가실은 맛없었던 거냐!
-Dialogue: 0,0:16:15.40,0:16:18.96,Default,en,0,0,0,,What's this? Were the dangos you ate back then bad actually?!
-Comment: 0,0:16:19.17,0:16:23.38,Default,ja,0,0,0,,うまかったけれどそれよりももっとうまいパンチをおいらがくらっただス！
-Dialogue: 0,0:16:19.17,0:16:23.38,Default,ko,0,0,0,,맛있었지만 그것보다도 더 맛있는 펀치를 내가 주겠소!
-Dialogue: 0,0:16:19.17,0:16:23.38,Default,en,0,0,0,,It was great, but I will give you a greater punch-{\i1}dasu{\i0}!
-Comment: 0,0:16:24.41,0:16:27.71,Default,ja,0,0,0,,イシマツさんはおいらが成仏させてあげるだス！
-Dialogue: 0,0:16:24.41,0:16:27.71,Default,ko,0,0,0,,이시마츠 씨는 내가 성불해 주겠소!
-Dialogue: 0,0:16:24.41,0:16:27.71,Default,en,0,0,0,,I will have you rest in peace with my hands-{\i1}dasu{\i0}, Mr. Ishimatsu!
-Comment: 0,0:16:28.16,0:16:29.74,Default,ja,0,0,0,,そいつはありがとうよ！
-Dialogue: 0,0:16:28.16,0:16:29.74,Default,ko,0,0,0,,그건 고맙다!
-Dialogue: 0,0:16:28.16,0:16:29.74,Default,en,0,0,0,,Well, thank you!
-Comment: 0,0:16:32.86,0:16:36.48,Default,ja,0,0,0,,イシマツさん、いつの間にこんなことができるようになったんだスか。
-Dialogue: 0,0:16:32.86,0:16:36.48,Default,ko,0,0,0,,이시마츠 씨, 언제 이런 기술을 배웠소?
-Dialogue: 0,0:16:32.86,0:16:36.48,Default,en,0,0,0,,Mr. Ishimatsu, when did you learn techniques like this-{\i1}dasu{\i0}?!
+Comment: 0,0:16:15.40,0:16:18.85,Default,ja,0,0,0,,何？お前、あの時の団子はうまくなかったのか！
+Dialogue: 0,0:16:15.40,0:16:18.85,Default,ko,0,0,0,,뭐야? 너, 그 때 단고가실은 맛없었던 거냐!
+Dialogue: 0,0:16:15.40,0:16:18.85,Default,en,0,0,0,,What's this? Were the dangos we had back then not good enough?!
+Comment: 0,0:16:19.09,0:16:23.23,Default,ja,0,0,0,,うまかったけれどそれよりももっとうまいパンチをおいらがくらっただス！
+Dialogue: 0,0:16:19.09,0:16:23.23,Default,ko,0,0,0,,맛있었지만 그것보다도 더 맛있는 펀치를 내가 주겠소!
+Dialogue: 0,0:16:19.09,0:16:23.23,Default,en,0,0,0,,It was great, but I will offer you a more delicious punch-{\i1}dasu{\i0}!
+Comment: 0,0:16:24.41,0:16:27.57,Default,ja,0,0,0,,イシマツさんはおいらが成仏させてあげるだス！
+Dialogue: 0,0:16:24.41,0:16:27.57,Default,ko,0,0,0,,이시마츠 씨는 내가 성불해 주겠소!
+Dialogue: 0,0:16:24.41,0:16:27.57,Default,en,0,0,0,,I will have you rest in peace with my hands-{\i1}dasu{\i0}, Ishimatsu!
+Comment: 0,0:16:28.10,0:16:29.74,Default,ja,0,0,0,,そいつはありがとうよ！
+Dialogue: 0,0:16:28.10,0:16:29.74,Default,ko,0,0,0,,그건 고맙다!
+Dialogue: 0,0:16:28.10,0:16:29.74,Default,en,0,0,0,,Well, thank you!
+Comment: 0,0:16:32.86,0:16:36.37,Default,ja,0,0,0,,イシマツさん、いつの間にこんなことができるようになったんだスか。
+Dialogue: 0,0:16:32.86,0:16:36.37,Default,ko,0,0,0,,이시마츠 씨, 언제 이런 기술을 배웠소?
+Dialogue: 0,0:16:32.86,0:16:36.37,Default,en,0,0,0,,Ishimatsu, when did you learn techniques like this-{\i1}dasu{\i0}?!
 Comment: 0,0:16:36.56,0:16:38.24,Default,ja,0,0,0,,あの世で覚えたらよ。
 Dialogue: 0,0:16:36.56,0:16:38.24,Default,ko,0,0,0,,저 세상에서 배웠지.
-Dialogue: 0,0:16:36.56,0:16:38.24,Default,en,0,0,0,,In the other world.
+Dialogue: 0,0:16:36.56,0:16:38.24,Default,en,0,0,0,,From the other world.
 Comment: 0,0:16:40.02,0:16:40.64,Default,ja,0,0,0,,コジロー！
 Dialogue: 0,0:16:40.02,0:16:40.64,Default,ko,0,0,0,,코지로!
 Dialogue: 0,0:16:40.02,0:16:40.64,Default,en,0,0,0,,Kojirō!
-Comment: 0,0:16:41.21,0:16:43.27,Default,ja,0,0,0,,死ね、ムサシ！
-Dialogue: 0,0:16:41.21,0:16:43.27,Default,ko,0,0,0,,죽어라, 무사시!
-Dialogue: 0,0:16:41.21,0:16:43.27,Default,en,0,0,0,,Die, Musashi!
-Comment: 0,0:16:47.49,0:16:48.71,Default,ja,0,0,0,,だ、誰だ！
-Dialogue: 0,0:16:47.49,0:16:48.71,Default,ko,0,0,0,,누, 누구냐!
-Dialogue: 0,0:16:47.49,0:16:48.71,Default,en,0,0,0,,W- who is it?!
+Comment: 0,0:16:41.21,0:16:43.17,Default,ja,0,0,0,,死ね、ムサシ！
+Dialogue: 0,0:16:41.21,0:16:43.17,Default,ko,0,0,0,,죽어라, 무사시!
+Dialogue: 0,0:16:41.21,0:16:43.17,Default,en,0,0,0,,Die, Musashi!
+Comment: 0,0:16:47.49,0:16:48.76,Default,ja,0,0,0,,だ、誰だ！
+Dialogue: 0,0:16:47.49,0:16:48.76,Default,ko,0,0,0,,누, 누구냐!
+Dialogue: 0,0:16:47.49,0:16:48.76,Default,en,0,0,0,,W- who is it?!
 Comment: 0,0:16:48.90,0:16:51.15,Default,ja,0,0,0,,ムサシ殿、だまされてはいけません。
 Dialogue: 0,0:16:48.90,0:16:51.15,Default,ko,0,0,0,,무사시 님. 속으면 안 됩니다.
 Dialogue: 0,0:16:48.90,0:16:51.15,Default,en,0,0,0,,Musashi, you must not be fooled.
 Comment: 0,0:16:51.81,0:16:53.77,Default,ja,0,0,0,,こいつはイシマツなどではござらんぞ。
-Dialogue: 0,0:16:51.81,0:16:53.77,Default,ko,0,0,0,,이 자는 이시마츠라는 자가 아닙니다.
-Dialogue: 0,0:16:51.81,0:16:53.77,Default,en,0,0,0,,This guy is not someone named Ishimatsu.
+Dialogue: 0,0:16:51.81,0:16:53.77,Default,ko,0,0,0,,이 자는 이시마츠가 아닙니다.
+Dialogue: 0,0:16:51.81,0:16:53.77,Default,en,0,0,0,,This guy is not Ishimatsu.
 Comment: 0,0:16:54.14,0:16:55.09,Default,ja,0,0,0,,ジュウベエさん！
 Dialogue: 0,0:16:54.14,0:16:55.09,Default,ko,0,0,0,,주베 씨!
-Dialogue: 0,0:16:54.14,0:16:55.09,Default,en,0,0,0,,Mr. Jūbee!
+Dialogue: 0,0:16:54.14,0:16:55.09,Default,en,0,0,0,,Jūbee!
 Comment: 0,0:16:56.85,0:17:00.06,Default,ja,0,0,0,,ムサシ殿、こいつの正体をとくとくご覧あれ！
 Dialogue: 0,0:16:56.85,0:17:00.06,Default,ko,0,0,0,,무사시 님. 이 녀석의 정체를 똑똑히 봐 두십시오!
-Dialogue: 0,0:16:56.85,0:17:00.06,Default,en,0,0,0,,Musashi, see for yourself about who this guy actually is!
-Comment: 0,0:17:12.14,0:17:13.60,Default,ja,0,0,0,,お前はオニヒメ！
+Dialogue: 0,0:16:56.85,0:17:00.06,Default,en,0,0,0,,Musashi, see for yourself! The true identity of that man!
+Comment: 0,0:17:12.14,0:17:13.60,Default,ja,0,0,0,,げ、お前はオニヒメ！
 Dialogue: 0,0:17:12.14,0:17:13.60,Default,ko,0,0,0,,넌 오니히메!
 Dialogue: 0,0:17:12.14,0:17:13.60,Default,en,0,0,0,,You are Onihime!
-Comment: 0,0:17:14.17,0:17:18.77,Default,ja,0,0,0,,己、ジュウベエ！あと一歩というところをよくも邪魔してくれたな！
-Dialogue: 0,0:17:14.17,0:17:18.77,Default,ko,0,0,0,,네 이놈, 주베! 눈 앞이었는데 잘도 방해했겠다!
-Dialogue: 0,0:17:14.17,0:17:18.77,Default,en,0,0,0,,Jūbee, you bastard! It was so close and you dared to butt in!
+Comment: 0,0:17:14.17,0:17:18.70,Default,ja,0,0,0,,己、ジュウベエ！あと一歩というところをよくも邪魔してくれたな！
+Dialogue: 0,0:17:14.17,0:17:18.70,Default,ko,0,0,0,,네 이놈, 주베! 눈 앞이었는데 잘도 방해했겠다!
+Dialogue: 0,0:17:14.17,0:17:18.70,Default,en,0,0,0,,Jūbee, you rat! It was so close and you had to get in the way!
 Comment: 0,0:17:19.21,0:17:20.26,Default,ja,0,0,0,,覚えておれ！
 Dialogue: 0,0:17:19.21,0:17:20.26,Default,ko,0,0,0,,기억해 둬라!
 Dialogue: 0,0:17:19.21,0:17:20.26,Default,en,0,0,0,,Remember this!
 Comment: 0,0:17:24.99,0:17:27.14,Default,ja,0,0,0,,ジュウベエ殿。どうしてここに？
 Dialogue: 0,0:17:24.99,0:17:27.14,Default,ko,0,0,0,,주베 님. 어째서 여기에?
-Dialogue: 0,0:17:24.99,0:17:27.14,Default,en,0,0,0,,Mr. Jūbee. What brought you here?
+Dialogue: 0,0:17:24.99,0:17:27.14,Default,en,0,0,0,,Jūbee. What brought you here?
 Comment: 0,0:17:27.54,0:17:30.48,Default,ja,0,0,0,,その話はあとで。早くオニヒメを追いかけましょう。
 Dialogue: 0,0:17:27.54,0:17:30.48,Default,ko,0,0,0,,그 이야기는 나중에. 일단 서둘러 오니히메를 쫓읍시다.
-Dialogue: 0,0:17:27.54,0:17:30.48,Default,en,0,0,0,,We'll talk about that later. For now, let's chase Onihime.
-Comment: 0,0:17:43.04,0:17:44.45,Default,ja,0,0,0,,やっぱりそうか。
-Dialogue: 0,0:17:43.04,0:17:44.45,Default,ko,0,0,0,,역시 그랬군.
-Dialogue: 0,0:17:43.04,0:17:44.45,Default,en,0,0,0,,I knew it.
+Dialogue: 0,0:17:27.54,0:17:30.48,Default,en,0,0,0,,We'll talk about that later. For now, we must chase Onihime.
+Comment: 0,0:17:43.00,0:17:44.45,Default,ja,0,0,0,,やっぱりそうか。
+Dialogue: 0,0:17:43.00,0:17:44.45,Default,ko,0,0,0,,역시 그랬군.
+Dialogue: 0,0:17:43.00,0:17:44.45,Default,en,0,0,0,,I knew it.
 Comment: 0,0:17:44.76,0:17:47.32,Default,ja,0,0,0,,ジュウベエさん、何がやっぱりなんだスか。
 Dialogue: 0,0:17:44.76,0:17:47.32,Default,ko,0,0,0,,주베 씨, 뭐가 역시이오?
-Dialogue: 0,0:17:44.76,0:17:47.32,Default,en,0,0,0,,Mr. Jūbee, what did you know-{\i1}dasu{\i0}?
+Dialogue: 0,0:17:44.76,0:17:47.32,Default,en,0,0,0,,Jūbee, what did you know-{\i1}dasu{\i0}?
 Comment: 0,0:17:47.70,0:17:52.96,Default,ja,0,0,0,,実は先日、ゼネラルイエヤス様が原因不明の熱を出して倒れられたのです。
 Dialogue: 0,0:17:47.70,0:17:52.96,Default,ko,0,0,0,,사실은 얼마 전, 제너럴 이에야스 님이 원인 불명의 고열로 쓰러졌습니다.
 Dialogue: 0,0:17:47.70,0:17:52.96,Default,en,0,0,0,,To tell you the truth, not too long ago, General Ieyasu has broken down because of a high fever of unknown reason.
@@ -745,27 +740,27 @@ Dialogue: 0,0:17:53.10,0:17:54.51,Default,ko,0,0,0,,어? 할아버지가?
 Dialogue: 0,0:17:53.10,0:17:54.51,Default,en,0,0,0,,What? My grandpa?
 Comment: 0,0:17:55.53,0:18:01.81,Default,ja,0,0,0,,医師たちがいくら調べても原因はさっぱりわからずじまい。そこで祈祷師にお祓いをさせたところ、
 Dialogue: 0,0:17:55.53,0:18:01.81,Default,ko,0,0,0,,의사들이 얼마고 알아보아도 원인을 알 수 없었습니다. 그래서 기도사에게 점을 치도록 했더니,
-Dialogue: 0,0:17:55.53,0:18:01.81,Default,en,0,0,0,,Numerous doctors couldn't find out the reason. That's why we asked a shaman for a purification,
+Dialogue: 0,0:17:55.53,0:18:01.81,Default,en,0,0,0,,Doctors couldn't find out the reason. That's why we asked a shaman for a purification,
 Comment: 0,0:18:02.37,0:18:06.76,Default,ja,0,0,0,,北の方からイエヤス様を呪う零派が発せられていると出たのでござる。
 Dialogue: 0,0:18:02.37,0:18:06.76,Default,ko,0,0,0,,북쪽에서 이에야스 님에게 저주를 거는 영파가 발생하고 있다는 결과가 나왔습니다.
 Dialogue: 0,0:18:02.37,0:18:06.76,Default,en,0,0,0,,and we found that there is a spiritual wave from the north side that is cursing General Ieyasu.
 Comment: 0,0:18:08.54,0:18:10.84,Default,ja,0,0,0,,それがあれだったのでござるだスな。
 Dialogue: 0,0:18:08.54,0:18:10.84,Default,ko,0,0,0,,그게 저것이란 소리오.
 Dialogue: 0,0:18:08.54,0:18:10.84,Default,en,0,0,0,,You're saying that it's that-{\i1}dasu{\i0}, right?
-Comment: 0,0:18:11.40,0:18:12.17,Default,ja,0,0,0,,間違いないと。
-Dialogue: 0,0:18:11.40,0:18:12.17,Default,ko,0,0,0,,틀림없이.
-Dialogue: 0,0:18:11.40,0:18:12.17,Default,en,0,0,0,,No doubt about it.
-Comment: 0,0:18:12.53,0:18:15.01,Default,ja,0,0,0,,では、村での幽霊騒ぎはやっぱり？
-Dialogue: 0,0:18:12.53,0:18:15.01,Default,ko,0,0,0,,그럼 마을에서의 유령 소란도 역시...?
-Dialogue: 0,0:18:12.53,0:18:15.01,Default,en,0,0,0,,Then the disturbance in the village too?
-Comment: 0,0:18:15.28,0:18:19.61,Default,ja,0,0,0,,この場所を見られないたのみ、すべてオニヒメが仕組んだ妖術でござる。
+Comment: 0,0:18:11.40,0:18:12.30,Default,ja,0,0,0,,間違いないと。
+Dialogue: 0,0:18:11.40,0:18:12.30,Default,ko,0,0,0,,틀림없이.
+Dialogue: 0,0:18:11.40,0:18:12.30,Default,en,0,0,0,,No doubt about it.
+Comment: 0,0:18:12.47,0:18:15.01,Default,ja,0,0,0,,では、村での幽霊騒ぎはやっぱり？
+Dialogue: 0,0:18:12.47,0:18:15.01,Default,ko,0,0,0,,그럼 마을에서의 유령 소란도 역시...?
+Dialogue: 0,0:18:12.47,0:18:15.01,Default,en,0,0,0,,Then the disturbance in the village too?
+Comment: 0,0:18:15.28,0:18:19.61,Default,ja,0,0,0,,{???}この場所を見られないたのみ、すべてオニヒメが仕組んだ妖術でござる。
 Dialogue: 0,0:18:15.28,0:18:19.61,Default,ko,0,0,0,,이 장소에 대해 알아보니, 전부 오니히메가 건 요술이었습니다.
-Dialogue: 0,0:18:15.28,0:18:19.61,Default,en,0,0,0,,When I looked around this place, everything was because of Onihime's sorcery.
+Dialogue: 0,0:18:15.28,0:18:19.61,Default,en,0,0,0,,When I investigated this place, everything was under Onihime's sorcery.
 Comment: 0,0:18:20.36,0:18:21.22,Default,ja,0,0,0,,オニヒメ？
 Dialogue: 0,0:18:20.36,0:18:21.22,Default,ko,0,0,0,,오니히메?
 Dialogue: 0,0:18:20.36,0:18:21.22,Default,en,0,0,0,,Onihime?
 Comment: 0,0:18:22.52,0:18:30.06,Default,ja,0,0,0,,者ども、もはや一刻の有用もならぬ。恐山すべての零派をゼネラルイエヤスに向けるのだ。
-Dialogue: 0,0:18:22.52,0:18:30.06,Default,ko,0,0,0,,너희들, 이젠 살살 할 필요가 없다. 공산의 모든 영파를 제너럴 이에야스에게 보내라.
+Dialogue: 0,0:18:22.52,0:18:30.06,Default,ko,0,0,0,,너희들, 이젠 살살 할 필요가 없다. 오소레잔의 모든 영파를 제너럴 이에야스에게 보내라.
 Dialogue: 0,0:18:22.52,0:18:30.06,Default,en,0,0,0,,The time has come for you to not hold back. Send all the spiritual wave from Osorezan to General Ieyasu.
 Comment: 0,0:18:31.04,0:18:32.21,Default,ja,0,0,0,,天下を我らに！
 Dialogue: 0,0:18:31.04,0:18:32.21,Default,ko,0,0,0,,천하를 우리에게!
@@ -775,47 +770,48 @@ Dialogue: 0,0:18:33.00,0:18:34.17,Default,ko,0,0,0,,천하를 우리에게!
 Dialogue: 0,0:18:33.00,0:18:34.17,Default,en,0,0,0,,The world will be ours!
 Comment: 0,0:18:41.00,0:18:46.48,Default,ja,0,0,0,,人の心をもって遊ぶことはおろか、ゼネラルイエヤスにまで手をかけるとは許せんだス！
 Dialogue: 0,0:18:41.00,0:18:46.48,Default,ko,0,0,0,,인간의 마음을 가지고 노는 것도, 제너럴 이에야스에게까지 손을 뻗치는 건 용서할 수 없소!
-Dialogue: 0,0:18:41.00,0:18:46.48,Default,en,0,0,0,,Playing with humans' minds, and even trying to fiddle with General Ieyasu is unforgivable!
+Dialogue: 0,0:18:41.00,0:18:46.48,Default,en,0,0,0,,Not only playing with the minds of people, but also trying to meddle with General Ieyasu is unforgivable-{\i1}dasu{\i0}!
 Comment: 0,0:18:46.97,0:18:51.20,Default,ja,0,0,0,,ジュウベエさん、コジロー！あの呪術、なんとしてもそうちゅしてやるだス！
 Dialogue: 0,0:18:46.97,0:18:51.20,Default,ko,0,0,0,,주베 씨, 코지로! 저 주술, 어떻게든 조치해 주겠소!
-Dialogue: 0,0:18:46.97,0:18:51.20,Default,en,0,0,0,,Mr. Jūbee and Kojirō! We will do something with that sorcery-{\i1}dasu{\i0}!
-Comment: 0,0:18:52.14,0:18:54.24,Default,ja,0,0,0,,～て、みんな！
+Dialogue: 0,0:18:46.97,0:18:51.20,Default,en,0,0,0,,Jūbee and Kojirō! We will deal with that sorcery-{\i1}dasu{\i0}!
+Comment: 0,0:18:52.14,0:18:54.24,Default,ja,0,0,0,,頑張って、みんな！
 Dialogue: 0,0:18:52.14,0:18:54.24,Default,ko,0,0,0,,힘내, 모두!
 Dialogue: 0,0:18:52.14,0:18:54.24,Default,en,0,0,0,,Do your best, everyone!
-Comment: 0,0:18:55.68,0:18:58.90,Default,ja,0,0,0,,???????????????????? オニヒメ！貴様の～はおいらが許さんだス！
+Comment: 0,0:18:55.68,0:18:58.90,Default,ja,0,0,0,,オニヒメ！貴様の{??}でぼはおいらが許さんだス！
 Dialogue: 0,0:18:55.68,0:18:58.90,Default,ko,0,0,0,,오니히메! 네놈의 악행은 내가 용서하지 않겠소!
 Dialogue: 0,0:18:55.68,0:18:58.90,Default,en,0,0,0,,Onihime! I will not forgive for what you did to me-{\i1}dasu{\i0}!
 Comment: 0,0:19:00.44,0:19:01.53,Default,ja,0,0,0,,邪魔だって無用！
 Dialogue: 0,0:19:00.44,0:19:01.53,Default,ko,0,0,0,,방해는 소용없다!
-Dialogue: 0,0:19:00.44,0:19:01.53,Default,en,0,0,0,,No use with interference!
-Comment: 0,0:19:13.88,0:19:17.05,Default,ja,0,0,0,,～てもおいらの大事な想い出をぎりぎりってくれただスな！
+Dialogue: 0,0:19:00.44,0:19:01.53,Default,en,0,0,0,,You may not interfere!
+Comment: 0,0:19:13.88,0:19:17.05,Default,ja,0,0,0,,よくもおいらの大事な想い出をぎりぎりってくれただスな！
 Dialogue: 0,0:19:13.88,0:19:17.05,Default,ko,0,0,0,,무엇보다도 내 소중한 추억을 가지고 놀았겠소!
-Dialogue: 0,0:19:13.88,0:19:17.05,Default,en,0,0,0,,Most of all, you dared to play with my precious memories!
-Comment: 0,0:19:17.70,0:19:21.19,Default,ja,0,0,0,,ふん、そんなものを大事に考えてるお前がいけないのさ。
-Dialogue: 0,0:19:17.70,0:19:21.19,Default,ko,0,0,0,,흥, 그런 걸 소중하게 여긴 네 잘못이다.
-Dialogue: 0,0:19:17.70,0:19:21.19,Default,en,0,0,0,,Hmph, it's your fault for even treating those preciously.
-Comment: 0,0:19:21.33,0:19:23.26,Default,ja,0,0,0,,許さないでござるだス！
-Dialogue: 0,0:19:21.33,0:19:23.26,Default,ko,0,0,0,,용서할 수 없소!
-Dialogue: 0,0:19:21.33,0:19:23.26,Default,en,0,0,0,,I will not forgive you-{\i1}dasu{\i0}!
-Comment: 0,0:19:24.52,0:19:27.13,Default,ja,0,0,0,,お前たち、一気にこいつらを蹴散らしておしまい！
-Dialogue: 0,0:19:24.52,0:19:27.13,Default,ko,0,0,0,,너희들, 한방에 이 녀석들을 쫒아버려라!
-Dialogue: 0,0:19:24.52,0:19:27.13,Default,en,0,0,0,,Everyone! Take care of all of them at once!
-Comment: 0,0:19:40.74,0:19:41.90,Default,ja,0,0,0,,そこだいな！
-Dialogue: 0,0:19:40.74,0:19:41.90,Default,ko,0,0,0,,이런 건방진!
-Dialogue: 0,0:19:40.74,0:19:41.90,Default,en,0,0,0,,How impudent!
+Dialogue: 0,0:19:13.88,0:19:17.05,Default,en,0,0,0,,Most of all, you dared to play with my precious memories-{\i1}dasu{\i0}!
+Comment: 0,0:19:17.70,0:19:21.16,Default,ja,0,0,0,,ふん、そんなものを大事に考えてるお前がいけないのさ。
+Dialogue: 0,0:19:17.70,0:19:21.16,Default,ko,0,0,0,,흥, 그런 걸 소중하게 여긴 네 잘못이다.
+Dialogue: 0,0:19:17.70,0:19:21.16,Default,en,0,0,0,,Hmph, it's your fault for even treating those preciously.
+Comment: 0,0:19:21.33,0:19:23.16,Default,ja,0,0,0,,許さないでござるだス！
+Dialogue: 0,0:19:21.33,0:19:23.16,Default,ko,0,0,0,,용서할 수 없소!
+Dialogue: 0,0:19:21.33,0:19:23.16,Default,en,0,0,0,,I will not forgive you-{\i1}dasu{\i0}!
+Comment: 0,0:19:24.52,0:19:27.12,Default,ja,0,0,0,,お前たち、一気にこいつらを蹴散らしておしまい！
+Dialogue: 0,0:19:24.52,0:19:27.12,Default,ko,0,0,0,,너희들, 한방에 이 녀석들을 쫒아버려라!
+Dialogue: 0,0:19:24.52,0:19:27.12,Default,en,0,0,0,,Everyone! Take care of all of them at once!
+Comment: 0,0:19:40.74,0:19:41.64,Default,ja,0,0,0,,猪口才な！
+Dialogue: 0,0:19:40.74,0:19:41.64,Default,ko,0,0,0,,이런 건방진!
+Dialogue: 0,0:19:40.74,0:19:41.64,Default,en,0,0,0,,How impudent!
 Comment: 0,0:19:46.56,0:19:47.33,Default,ja,0,0,0,,ジュウベエさん！
 Dialogue: 0,0:19:46.56,0:19:47.33,Default,ko,0,0,0,,주베 씨!
-Dialogue: 0,0:19:46.56,0:19:47.33,Default,en,0,0,0,,Mr. Jūbee!
+Dialogue: 0,0:19:46.56,0:19:47.33,Default,en,0,0,0,,Jūbee!
 Comment: 0,0:19:48.46,0:19:51.99,Default,ja,0,0,0,,くそ、そっちが竜巻ならこっちも竜巻で勝負だス！
 Dialogue: 0,0:19:48.46,0:19:51.99,Default,ko,0,0,0,,젠장, 그 쪽이 회오리라면 이 쪽에서도 회오리로 승부이오!
-Dialogue: 0,0:19:48.46,0:19:51.99,Default,en,0,0,0,,If you're going with a whirlwind, then I'm going with a whirlwind, too!
+Dialogue: 0,0:19:48.46,0:19:51.99,Default,en,0,0,0,,If you're going with a whirlwind, then I'm going with a whirlwind, too-{\i1}dasu{\i0}!
 Comment: 0,0:20:21.30,0:20:23.46,Default,ja,0,0,0,,二天一流、竜巻劍！
 Dialogue: 0,0:20:21.30,0:20:23.46,Default,ko,0,0,0,,이천일류, 회오리검!
-Dialogue: 0,0:20:21.30,0:20:23.46,Default,en,0,0,0,,Niten'ichiryū: Tornado Sword!
-Comment: 0,0:20:51.17,0:20:52.85,Default,ja,0,0,0,,見事でござる、ムサシ殿！
-Dialogue: 0,0:20:51.17,0:20:52.85,Default,ko,0,0,0,,훌륭합니다, 무사시 님!
-Dialogue: 0,0:20:51.17,0:20:52.85,Default,en,0,0,0,,That was excellent, Musashi!
-Comment: 0,0:20:53.65,0:20:54.44,Default,ja,0,0,0,,己！
+Dialogue: 0,0:20:21.30,0:20:23.46,Default,en,0,0,0,,Niten'ichiryū: Tatsumakiken!
+Dialogue: 0,0:20:21.30,0:20:23.46,Note,en,0,0,0,,(lit. Tornado Sword)
+Comment: 0,0:20:51.17,0:20:53.00,Default,ja,0,0,0,,見事でござる、ムサシ殿！
+Dialogue: 0,0:20:51.17,0:20:53.00,Default,ko,0,0,0,,훌륭합니다, 무사시 님!
+Dialogue: 0,0:20:51.17,0:20:53.00,Default,en,0,0,0,,That was excellent, Musashi!
+Comment: 0,0:20:53.65,0:20:54.44,Default,ja,0,0,0,,おのれ！
 Dialogue: 0,0:20:53.65,0:20:54.44,Default,ko,0,0,0,,네 이놈!
 Dialogue: 0,0:20:53.65,0:20:54.44,Default,en,0,0,0,,You bastard!
 Comment: 0,0:20:55.10,0:20:55.70,Default,ja,0,0,0,,オニヒメ！
@@ -829,16 +825,16 @@ Dialogue: 0,0:21:01.28,0:21:02.36,Default,ko,0,0,0,,에이, 닥쳐라!
 Dialogue: 0,0:21:01.28,0:21:02.36,Default,en,0,0,0,,Shut up!
 Comment: 0,0:21:11.56,0:21:15.66,Default,ja,0,0,0,,美しい顔を隠してまで、何上にこのような悪事を働くのだ。
 Dialogue: 0,0:21:11.56,0:21:15.66,Default,ko,0,0,0,,아름다운 얼굴을 숨기고서 뭘 위해 이런 악행을 하나.
-Dialogue: 0,0:21:11.56,0:21:15.66,Default,en,0,0,0,,Hiding your beautiful face, why are you doing the evil?
+Dialogue: 0,0:21:11.56,0:21:15.66,Default,en,0,0,0,,Hiding your beautiful face, why are you doing these evil deeds?
 Comment: 0,0:21:16.53,0:21:19.85,Default,ja,0,0,0,,ふん、お前には私の気持ちなど分かってくたばるか！
 Dialogue: 0,0:21:16.53,0:21:19.85,Default,ko,0,0,0,,흥, 넌 내 기분을 절대 알지 못할 테다!
 Dialogue: 0,0:21:16.53,0:21:19.85,Default,en,0,0,0,,Hmph! You will never understand what's in my mind!
 Comment: 0,0:21:21.72,0:21:24.56,Default,ja,0,0,0,,覚えていろ。この近いしは必ずする！
 Dialogue: 0,0:21:21.72,0:21:24.56,Default,ko,0,0,0,,기억해 둬라. 이 복수는 꼭 하겠다!
 Dialogue: 0,0:21:21.72,0:21:24.56,Default,en,0,0,0,,Remember this. I will pay this back!
-Comment: 0,0:21:29.93,0:21:31.51,Default,ja,0,0,0,,逃げるな、オニヒメ！
-Dialogue: 0,0:21:29.93,0:21:31.51,Default,ko,0,0,0,,도망치지 마시오, 오니히메!
-Dialogue: 0,0:21:29.93,0:21:31.51,Default,en,0,0,0,,Do not run away, Onihime!
+Comment: 0,0:21:29.93,0:21:31.44,Default,ja,0,0,0,,逃げるな、オニヒメ！
+Dialogue: 0,0:21:29.93,0:21:31.44,Default,ko,0,0,0,,도망치지 마시오, 오니히메!
+Dialogue: 0,0:21:29.93,0:21:31.44,Default,en,0,0,0,,Do not run away, Onihime!
 Comment: 0,0:21:31.51,0:21:32.52,Default,ja,0,0,0,,待て、ムサシ！
 Dialogue: 0,0:21:31.51,0:21:32.52,Default,ko,0,0,0,,멈춰라, 무사시!
 Dialogue: 0,0:21:31.51,0:21:32.52,Default,en,0,0,0,,Stop, Musashi!
@@ -851,68 +847,64 @@ Dialogue: 0,0:21:35.85,0:21:36.21,Default,en,0,0,0,,Hm?
 Comment: 0,0:21:49.28,0:21:53.41,Default,ja,0,0,0,,では、私はここで、センヒメ様。どうちを気を付けて。
 Dialogue: 0,0:21:49.28,0:21:53.41,Default,ko,0,0,0,,그럼 저는 여기까지. 센히메 님도 어느 쪽도 조심하세요.
 Dialogue: 0,0:21:49.28,0:21:53.41,Default,en,0,0,0,,Then I'll be going now. Senhime and both of you, be careful.
-Comment: 0,0:21:53.84,0:21:59.13,Default,ja,0,0,0,,ありがとう、ジュウベエ。さあ、ムサシ、～ゆっくりかわいい話してあげるわね。
-Dialogue: 0,0:21:53.84,0:21:59.13,Default,ko,0,0,0,,고마워, 주베. 자, 무사시. 도중에 무서운 이야기 잔뜩 해 줄게.
-Dialogue: 0,0:21:53.84,0:21:59.13,Default,en,0,0,0,,Thank you, Jūbee. Musashi, let me tell you all the scary stories during our way.
-Comment: 0,0:21:59.13,0:22:01.85,Default,ja,0,0,0,,えい、それだけは勘弁してくれだス！
-Dialogue: 0,0:21:59.13,0:22:01.85,Default,ko,0,0,0,,그건 하지 말아 주시오!
-Dialogue: 0,0:21:59.13,0:22:01.85,Default,en,0,0,0,,Please don't do that-{\i1}dasu{\i0}!
-Comment: 0,0:22:02.13,0:22:03.89,Default,ja,0,0,0,,昼間なら怖くないんじゃない？
-Dialogue: 0,0:22:02.13,0:22:03.89,Default,ko,0,0,0,,낮이라면 무섭지 않잖아?
-Dialogue: 0,0:22:02.13,0:22:03.89,Default,en,0,0,0,,It isn't scary when it's bright, you know!
+Comment: 0,0:21:53.84,0:21:59.04,Default,ja,0,0,0,,ありがとう、ジュウベエ。さあ、ムサシ、道中ゆっくりかわいい話してあげるわね。
+Dialogue: 0,0:21:53.84,0:21:59.04,Default,ko,0,0,0,,고마워, 주베. 자, 무사시. 도중에 무서운 이야기 잔뜩 해 줄게.
+Dialogue: 0,0:21:53.84,0:21:59.04,Default,en,0,0,0,,Thank you, Jūbee. Musashi, let me tell you all the scary stories during our way.
+Comment: 0,0:21:59.13,0:22:01.78,Default,ja,0,0,0,,えい、それだけは勘弁してくれだス！
+Dialogue: 0,0:21:59.13,0:22:01.78,Default,ko,0,0,0,,그건 하지 말아 주시오!
+Dialogue: 0,0:21:59.13,0:22:01.78,Default,en,0,0,0,,Please don't do that-{\i1}dasu{\i0}!
+Comment: 0,0:22:02.13,0:22:03.79,Default,ja,0,0,0,,昼間なら怖くないんじゃない？
+Dialogue: 0,0:22:02.13,0:22:03.79,Default,ko,0,0,0,,낮이라면 무섭지 않잖아?
+Dialogue: 0,0:22:02.13,0:22:03.79,Default,en,0,0,0,,It isn't scary when it's bright, you know!
 Comment: 0,0:22:03.89,0:22:09.59,Default,ja,0,0,0,,いや、そう言う問題は。。。ないだすね！・あのね、ムサシこのあたりのお墓には。。。
 Dialogue: 0,0:22:03.89,0:22:09.59,Default,ko,0,0,0,,-아니, 그런 문제가 아니오!\N-저기, 무사시! 이 주변에 있는 무덤에...
 Dialogue: 0,0:22:03.89,0:22:09.59,Default,en,0,0,0,,-No, that's not the problem-{\i1}dasu{\i0}!\N-Hey, Musashi! At a graveyard around this place...
-Comment: 0,0:22:09.59,0:22:11.93,Default,ja,0,0,0,,うわ！聞きたくないだス！
-Dialogue: 0,0:22:09.59,0:22:11.93,Default,ko,0,0,0,,으악! 듣고 싶지 않소!
-Dialogue: 0,0:22:09.59,0:22:11.93,Default,en,0,0,0,,Ahhh! I don't want to listen-{\i1}dasu{\i0}!
-Comment: 0,0:22:13.68,0:22:22.14,Default,ja,0,0,0,,ムサシの心を惑わせた敵の攻撃は去った。ますます熾烈になるハンゾウの魔の手に行け行け、ムサシ！
-Dialogue: 0,0:22:13.68,0:22:22.14,Default,ko,0,0,0,,무사시의 마음을 어지럽힌 적의 공격은 갔다. 점점 치열해지는 한조의 마의 손에... 가라, 가라, 무사시!
-Dialogue: 0,0:22:13.68,0:22:22.14,Default,en,0,0,0,,The enemy's attack that deranged Musashi's mind is gone. Now, to the intense evil hands of Hanzō... Go, go, Musashi!
+Comment: 0,0:22:09.74,0:22:11.93,Default,ja,0,0,0,,うわ！聞きたくないだス！
+Dialogue: 0,0:22:09.74,0:22:11.93,Default,ko,0,0,0,,으악! 듣고 싶지 않소!
+Dialogue: 0,0:22:09.74,0:22:11.93,Default,en,0,0,0,,Ahhh! I don't want to listen-{\i1}dasu{\i0}!
+Comment: 0,0:22:13.64,0:22:22.14,Default,ja,0,0,0,,ムサシの心を惑わせた敵の攻撃は去った。ますます熾烈になるハンゾウの魔の手に行け行け、ムサシ！
+Dialogue: 0,0:22:13.64,0:22:22.14,Default,ko,0,0,0,,무사시의 마음을 어지럽힌 적의 공격은 갔다. 점점 치열해지는 한조의 마의 손에... 가라, 가라, 무사시!
+Dialogue: 0,0:22:13.64,0:22:22.14,Default,en,0,0,0,,The enemy's attack that deluded Musashi is no more. Now, to the intense evil hands of Hanzō... Go, go, Musashi!
 Comment: 0,0:22:22.36,0:22:26.69,Default,ja,0,0,0,,負けるな、ムサシ！疾風怒濤の旅を続けろ！
 Dialogue: 0,0:22:22.36,0:22:26.69,Default,ko,0,0,0,,지지 마라, 무사시! 질풍노도의 여행을 계속해라!
 Dialogue: 0,0:22:22.36,0:22:26.69,Default,en,0,0,0,,Do not lose, Musashi! Keep going on with your stormy journey!
-Dialogue: 0,0:22:41.56,0:22:43.60,SongED1,ref,0,0,0,ED1!Lyric01,カラのポケットに　ツキが
-Dialogue: 0,0:22:44.31,0:22:46.86,SongED1,ref,0,0,0,ED1!Lyric02,飛び込むことも　あるさ
-Dialogue: 0,0:22:47.07,0:22:49.23,SongED1,ref,0,0,0,ED1!Lyric03,おっきな声で　笑えば
-Dialogue: 0,0:22:49.85,0:22:51.85,SongED1,ref,0,0,0,ED1!Lyric04,あしたには　朝が来る
-Dialogue: 0,0:22:52.61,0:22:57.20,SongED1,ref,0,0,0,ED1!Lyric05,無くすものなんか　何もないさ
-Dialogue: 0,0:22:58.20,0:23:00.79,SongED1,ref,0,0,0,ED1!Lyric06,やっちゃえ！イケイケ！
-Dialogue: 0,0:23:00.79,0:23:03.21,SongED1,ref,0,0,0,ED1!Lyric07,手ぶらは　強いぜ
-Dialogue: 0,0:23:03.62,0:23:13.30,SongED1,ref,0,0,0,ED1!Lyric08,てなもんだ　のーてんきに行こう
-Dialogue: 0,0:23:13.76,0:23:21.35,SongED1,ref,0,0,0,ED1!Lyric09,人生　てなもんさ　チャンスが　ほら
-Dialogue: 0,0:23:21.81,0:23:26.05,SongED1,ref,0,0,0,ED1!Lyric10,しっぽを振って　追ってくるぜ
-Dialogue: 0,0:23:27.48,0:23:36.98,SongED1,ref,0,0,0,ED1!Lyric11,てなもんだ　のーてんきに行こう
-Dialogue: 0,0:23:37.49,0:23:45.46,SongED1,ref,0,0,0,ED1!Lyric12,未来も　てなもんさ　あしたが　ほら
-Dialogue: 0,0:23:45.71,0:23:51.30,SongED1,ref,0,0,0,ED1!Lyric13,両手ひろげて　笑ってるぜ
+Dialogue: 0,0:22:41.69,0:22:43.74,SongED1,ref,0,0,0,ED1!Lyric01,カラのポケットに　ツキが
+Dialogue: 0,0:22:44.45,0:22:46.99,SongED1,ref,0,0,0,ED1!Lyric02,飛び込むことも　あるさ
+Dialogue: 0,0:22:47.20,0:22:49.37,SongED1,ref,0,0,0,ED1!Lyric03,おっきな声で　笑えば
+Dialogue: 0,0:22:49.99,0:22:52.00,SongED1,ref,0,0,0,ED1!Lyric04,あしたには　朝が来る
+Dialogue: 0,0:22:52.75,0:22:57.33,SongED1,ref,0,0,0,ED1!Lyric05,無くすものなんか　何もないさ
+Dialogue: 0,0:22:58.33,0:23:00.92,SongED1,ref,0,0,0,ED1!Lyric06,やっちゃえ！イケイケ！
+Dialogue: 0,0:23:00.92,0:23:03.34,SongED1,ref,0,0,0,ED1!Lyric07,手ぶらは　強いぜ
+Dialogue: 0,0:23:03.76,0:23:13.43,SongED1,ref,0,0,0,ED1!Lyric08,てなもんだ　のーてんきに行こう
+Dialogue: 0,0:23:13.89,0:23:21.48,SongED1,ref,0,0,0,ED1!Lyric09,人生　てなもんさ　チャンスが　ほら
+Dialogue: 0,0:23:21.94,0:23:26.20,SongED1,ref,0,0,0,ED1!Lyric10,しっぽを振って　追ってくるぜ
+Dialogue: 0,0:23:27.61,0:23:37.12,SongED1,ref,0,0,0,ED1!Lyric11,てなもんだ　のーてんきに行こう
+Dialogue: 0,0:23:37.62,0:23:45.59,SongED1,ref,0,0,0,ED1!Lyric12,未来も　てなもんさ　あしたが　ほら
+Dialogue: 0,0:23:45.84,0:23:51.43,SongED1,ref,0,0,0,ED1!Lyric13,両手ひろげて　笑ってるぜ
 Comment: 0,0:24:04.65,0:24:08.01,Default,ja,0,0,0,,冬は男のロマンだス。何で気取ってるばいじゃないだス。
 Dialogue: 0,0:24:04.65,0:24:08.01,Default,ko,0,0,0,,겨울은 사내의 로망이오. 하고 점잔 뺄 때가 아니오.
 Dialogue: 0,0:24:04.65,0:24:08.01,Default,en,0,0,0,,Winter is the ideal of men-{\i1}dasu{\i0}. And it is not the time to act like a gentleman-{\i1}dasu{\i0}.
 Comment: 0,0:24:08.28,0:24:10.41,Default,ja,0,0,0,,おいら、船酔いで気持ち悪きだス。
 Dialogue: 0,0:24:08.28,0:24:10.41,Default,ko,0,0,0,,나, 뱃멀미로 기분이 안 좋소.
 Dialogue: 0,0:24:08.28,0:24:10.41,Default,en,0,0,0,,I don't feel so good because of seasickness-{\i1}dasu{\i0}.
-Comment: 0,0:24:10.64,0:24:15.42,Default,ja,0,0,0,,弱り目に祟り目、今度はからくりサメを操る海賊の～が現れただス。
+Comment: 0,0:24:10.64,0:24:15.42,Default,ja,0,0,0,,弱り目に祟り目、今度はからくりサメを操る海賊オニゴロシが現れただス。
 Dialogue: 0,0:24:10.64,0:24:15.42,Default,ko,0,0,0,,엎친 데 덮친 격으로 이번엔 카라쿠리 상어를 쓰는 해적, 오니고로시가 나타났소.
-Dialogue: 0,0:24:10.64,0:24:15.42,Default,en,0,0,0,,Misfortune comes after another; this time, Onigoroshi, who uses a Karakuri shark, has appeared-{\i1}dasu{\i0}.
-Comment: 0,0:24:15.78,0:24:19.56,Default,ja,0,0,0,,だいすけど手を繰り。おいらたちは一台回線に乗り出しただス。
-Dialogue: 0,0:24:15.78,0:24:19.56,Default,ko,0,0,0,,다이스케하고 손을 잡아, 우리는 한번 운송선에 타게 되었소.
-Dialogue: 0,0:24:15.78,0:24:19.56,Default,en,0,0,0,,With Daisuke, we rode on a transportation ship-{\i1}dasu{\i0}.
-Comment: 0,0:24:20.22,0:24:23.16,Default,ja,0,0,0,,次回！海は怖いなオニゴロシだす
+Dialogue: 0,0:24:10.64,0:24:15.42,Default,en,0,0,0,,Misfortune comes after another; this time, Onigoroshi, who uses a karakuri shark, has appeared-{\i1}dasu{\i0}.
+Comment: 0,0:24:15.78,0:24:19.54,Default,ja,0,0,0,,だいすけど手を繰り。おいらたちは一台回線に乗り出しただス。
+Dialogue: 0,0:24:15.78,0:24:19.54,Default,ko,0,0,0,,다이스케하고 손을 잡아, 우리는 한번 운송선에 타게 되었소.
+Dialogue: 0,0:24:15.78,0:24:19.54,Default,en,0,0,0,,With Daisuke, we rode on a transportation ship-{\i1}dasu{\i0}.
+Comment: 0,0:24:20.22,0:24:23.16,Default,ja,0,0,0,,次回！海は怖いなオニゴロシだス
 Dialogue: 0,0:24:20.22,0:24:23.16,Default,ko,0,0,0,,다음 이야기! 바다는 무섭네, 오니고로시이오
 Dialogue: 0,0:24:20.22,0:24:23.16,Default,en,0,0,0,,Next story! The Sea is Scary - It's Onigoroshi!
-Comment: 0,0:24:23.34,0:24:26.30,Default,ja,0,0,0,,疾風怒濤のかたき討ちだス！
-Dialogue: 0,0:24:23.34,0:24:26.30,Default,ko,0,0,0,,질풍노도의 복수이오!
-Dialogue: 0,0:24:23.34,0:24:26.30,Default,en,0,0,0,,It's time for a stormy revenge-{\i1}dasu{\i0}!
-Comment: 0,0:24:26.30,0:24:30.28,Default,ja,0,0,0,,海は怖いなオニゴロシだす
-Comment: 0,0:24:26.30,0:24:30.28,Default,ko,0,0,0,,바다는 무섭네 - 오니고로시이오
-Comment: 0,0:24:26.30,0:24:30.28,Default,en,0,0,0,,The Sea is Scary - It's Onigoroshi
-Dialogue: 0,0:24:26.30,0:24:30.28,NoteOnAnime,ko,60,0,60,,{\an7}다음 이야기
-Comment: 0,0:24:26.30,0:24:30.28,TitleEP,ja,0,0,240,,
-Dialogue: 0,0:24:26.30,0:24:30.28,TitleEP,ko,0,0,240,,바다는 무섭네
-Comment: 0,0:24:26.30,0:24:30.28,TitleEP,ja,0,0,90,,
-Dialogue: 0,0:24:26.30,0:24:30.28,TitleEP,ko,0,0,90,,오니고로시이오
-Dialogue: 0,0:24:26.30,0:24:30.28,NoteOnAnime,ko,0,60,30,,{\an3\fs32}기대하세요!
-Dialogue: 0,0:24:26.30,0:24:30.28,NoteOnAnime,en,60,0,60,,{\an7}Next Episode
-Dialogue: 0,0:24:26.30,0:24:30.28,TitleEP,en,0,0,240,,The Sea is Scary
-Dialogue: 0,0:24:26.30,0:24:30.28,TitleEP,en,0,0,90,,It's Onigoroshi
-Dialogue: 0,0:24:26.30,0:24:30.28,NoteOnAnime,en,0,60,30,,{\an3\fs32}Look forwards for it!
+Comment: 0,0:24:23.34,0:24:26.46,Default,ja,0,0,0,,疾風怒濤のかたき討ちだス！
+Dialogue: 0,0:24:23.34,0:24:26.46,Default,ko,0,0,0,,질풍노도의 복수이오!
+Dialogue: 0,0:24:23.34,0:24:26.46,Default,en,0,0,0,,It's time for a stormy revenge-{\i1}dasu{\i0}!
+Comment: 0,0:24:26.46,0:24:30.43,Default,ja,0,0,0,,海は怖いなオニゴロシだス
+Dialogue: 0,0:24:26.46,0:24:30.43,NoteOnAnime,ko,60,0,60,,{\an7}다음 이야기
+Dialogue: 0,0:24:26.46,0:24:30.43,TitleEP,ko,0,0,240,,바다는 무섭네
+Dialogue: 0,0:24:26.46,0:24:30.43,TitleEP,ko,0,0,90,,오니고로시이오
+Dialogue: 0,0:24:26.46,0:24:30.43,NoteOnAnime,ko,0,60,30,,{\an3\fs32}기대하세요!
+Dialogue: 0,0:24:26.46,0:24:30.43,NoteOnAnime,en,60,0,60,,{\an7}Next Episode
+Dialogue: 0,0:24:26.46,0:24:30.43,TitleEP,en,0,0,240,,The Sea is Scary
+Dialogue: 0,0:24:26.46,0:24:30.43,TitleEP,en,0,0,90,,It's Onigoroshi
+Dialogue: 0,0:24:26.46,0:24:30.43,NoteOnAnime,en,0,60,30,,{\an3\fs32}Look forwards for it!
